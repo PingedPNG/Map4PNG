@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7288280000123,
+          -5.501591000224437
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5815,
+        "CU_NAME": "KEAS",
+        "CU_NO": "014",
+        "GEOCODE": "08041119014",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "19",
+        "WARD_NAME": "KEAS",
+        "LATITUDE": -5.502993,
+        "LONGITUDE": 143.727763,
+        "REGHH": 138,
+        "TOTPOP2000": 670,
+        "MALE2000": 329,
+        "FEMALE2000": 341,
+        "POP2008": 842,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041119014,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5816,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7319730002538,
+          -5.494571000251426
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5816,
+        "CU_NAME": "PAWAS",
+        "CU_NO": "015",
+        "GEOCODE": "08041119015",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "19",
+        "WARD_NAME": "KEAS",
+        "LATITUDE": -5.495973,
+        "LONGITUDE": 143.730908,
+        "REGHH": 153,
+        "TOTPOP2000": 745,
+        "MALE2000": 388,
+        "FEMALE2000": 357,
+        "POP2008": 937,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041119015,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

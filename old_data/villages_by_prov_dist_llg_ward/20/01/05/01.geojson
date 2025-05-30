@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 210,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.17292099990425,
+          -4.516708999720493
+        ]
+      },
+      "properties": {
+        "OBJECTID": 210,
+        "CU_NAME": "YOTCHIBOL",
+        "CU_NO": "001",
+        "GEOCODE": "20010501001",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "TUNGOL",
+        "LATITUDE": -4.516111,
+        "LONGITUDE": 154.173333,
+        "REGHH": 35,
+        "TOTPOP2000": 239,
+        "MALE2000": 115,
+        "FEMALE2000": 124,
+        "POP2008": 271,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010501001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 211,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.19399100028454,
+          -4.553597000201364
+        ]
+      },
+      "properties": {
+        "OBJECTID": 211,
+        "CU_NAME": "TENAHERAN",
+        "CU_NO": "002",
+        "GEOCODE": "20010501002",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "TUNGOL",
+        "LATITUDE": -4.555,
+        "LONGITUDE": 154.194722,
+        "REGHH": 34,
+        "TOTPOP2000": 183,
+        "MALE2000": 103,
+        "FEMALE2000": 80,
+        "POP2008": 207,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010501002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 212,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.20397100006164,
+          -4.5655379995789644
+        ]
+      },
+      "properties": {
+        "OBJECTID": 212,
+        "CU_NAME": "KULIS",
+        "CU_NO": "004",
+        "GEOCODE": "20010501004",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "TUNGOL",
+        "LATITUDE": -4.566944,
+        "LONGITUDE": 154.203056,
+        "REGHH": 43,
+        "TOTPOP2000": 220,
+        "MALE2000": 107,
+        "FEMALE2000": 113,
+        "POP2008": 247,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010501004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.22369300033176,
+          -4.565815999808478
+        ]
+      },
+      "properties": {
+        "OBJECTID": 213,
+        "CU_NAME": "GEREI",
+        "CU_NO": "005",
+        "GEOCODE": "20010501005",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "TUNGOL",
+        "LATITUDE": -4.567222,
+        "LONGITUDE": 154.222778,
+        "REGHH": 25,
+        "TOTPOP2000": 172,
+        "MALE2000": 79,
+        "FEMALE2000": 93,
+        "POP2008": 196,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010501005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.2364699995909,
+          -4.535816000408033
+        ]
+      },
+      "properties": {
+        "OBJECTID": 214,
+        "CU_NAME": "KALIO",
+        "CU_NO": "008",
+        "GEOCODE": "20010501008",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "TUNGOL",
+        "LATITUDE": -4.537222,
+        "LONGITUDE": 154.235556,
+        "REGHH": 18,
+        "TOTPOP2000": 120,
+        "MALE2000": 60,
+        "FEMALE2000": 60,
+        "POP2008": 136,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010501008,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.24619200006077,
+          -4.533316000233185
+        ]
+      },
+      "properties": {
+        "OBJECTID": 215,
+        "CU_NAME": "NIUKEM",
+        "CU_NO": "009",
+        "GEOCODE": "20010501009",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "TUNGOL",
+        "LATITUDE": -4.534722,
+        "LONGITUDE": 154.245278,
+        "REGHH": 15,
+        "TOTPOP2000": 109,
+        "MALE2000": 59,
+        "FEMALE2000": 50,
+        "POP2008": 125,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010501009,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.2348030000585,
+          -4.530816000058337
+        ]
+      },
+      "properties": {
+        "OBJECTID": 216,
+        "CU_NAME": "LAHITAN",
+        "CU_NO": "010",
+        "GEOCODE": "20010501010",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "TUNGOL",
+        "LATITUDE": -4.532222,
+        "LONGITUDE": 154.233889,
+        "REGHH": 19,
+        "TOTPOP2000": 98,
+        "MALE2000": 50,
+        "FEMALE2000": 48,
+        "POP2008": 111,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010501010,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.24066199955166,
+          -4.526630000374155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 217,
+        "CU_NAME": "TALEHUA 1",
+        "CU_NO": "011",
+        "GEOCODE": "20010501011",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "TUNGOL",
+        "LATITUDE": -4.525556,
+        "LONGITUDE": 154.241389,
+        "REGHH": 13,
+        "TOTPOP2000": 97,
+        "MALE2000": 46,
+        "FEMALE2000": 51,
+        "POP2008": 109,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010501011,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.2376019996326,
+          -4.519985999754056
+        ]
+      },
+      "properties": {
+        "OBJECTID": 218,
+        "CU_NAME": "TALEHUA 2",
+        "CU_NO": "012",
+        "GEOCODE": "20010501012",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "TUNGOL",
+        "LATITUDE": -4.521389,
+        "LONGITUDE": 154.238333,
+        "REGHH": 22,
+        "TOTPOP2000": 145,
+        "MALE2000": 67,
+        "FEMALE2000": 78,
+        "POP2008": 161,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010501012,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 219,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.21762100000922,
+          -4.5601660000608035
+        ]
+      },
+      "properties": {
+        "OBJECTID": 219,
+        "CU_NAME": "TUNGOL MISSION",
+        "CU_NO": "403",
+        "GEOCODE": "20010501403",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "TUNGOL",
+        "LATITUDE": -4.559167,
+        "LONGITUDE": 154.2175,
+        "REGHH": 3,
+        "TOTPOP2000": 15,
+        "MALE2000": 7,
+        "FEMALE2000": 8,
+        "POP2008": 15,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010501403,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

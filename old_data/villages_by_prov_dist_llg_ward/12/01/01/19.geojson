@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10377,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.60131199964917,
+          -7.080062999807524
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10377,
+        "CU_NAME": "PELENKWA",
+        "CU_NO": "012",
+        "GEOCODE": "12010119012",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "19",
+        "WARD_NAME": "LATUKATOP",
+        "LATITUDE": -7.081487,
+        "LONGITUDE": 146.600282,
+        "REGHH": 101,
+        "TOTPOP2000": 479,
+        "MALE2000": 255,
+        "FEMALE2000": 224,
+        "POP2008": 597,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010119012,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10378,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.60107899969614,
+          -7.077697000416208
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10378,
+        "CU_NAME": "WAING CAMP",
+        "CU_NO": "406",
+        "GEOCODE": "12010119406",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "19",
+        "WARD_NAME": "LATUKATOP",
+        "LATITUDE": -7.080661,
+        "LONGITUDE": 146.599929,
+        "REGHH": 57,
+        "TOTPOP2000": 341,
+        "MALE2000": 211,
+        "FEMALE2000": 130,
+        "POP2008": 426,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010119406,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10379,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6172109998878,
+          -7.100650000397138
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10379,
+        "CU_NAME": "WILDIPOSH",
+        "CU_NO": "504",
+        "GEOCODE": "12010119504",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "19",
+        "WARD_NAME": "LATUKATOP",
+        "LATITUDE": -7.102074,
+        "LONGITUDE": 146.616181,
+        "REGHH": 18,
+        "TOTPOP2000": 82,
+        "MALE2000": 43,
+        "FEMALE2000": 39,
+        "POP2008": 102,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010119504,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

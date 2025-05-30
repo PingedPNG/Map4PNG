@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10176,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.30017900026075,
+          -8.525567000016963
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10176,
+        "CU_NAME": "KAWA ISLAND",
+        "CU_NO": "001",
+        "GEOCODE": "05031233001",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "33",
+        "WARD_NAME": "SIMSIMLA",
+        "LATITUDE": -8.527016,
+        "LONGITUDE": 150.299197,
+        "REGHH": 39,
+        "TOTPOP2000": 165,
+        "MALE2000": 82,
+        "FEMALE2000": 83,
+        "POP2008": 201,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031233001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10177,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.44322100014915,
+          -8.416872000342494
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10177,
+        "CU_NAME": "KONIA",
+        "CU_NO": "002",
+        "GEOCODE": "05031233002",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "33",
+        "WARD_NAME": "SIMSIMLA",
+        "LATITUDE": -8.415524,
+        "LONGITUDE": 150.441948,
+        "REGHH": 28,
+        "TOTPOP2000": 125,
+        "MALE2000": 69,
+        "FEMALE2000": 56,
+        "POP2008": 152,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031233002,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

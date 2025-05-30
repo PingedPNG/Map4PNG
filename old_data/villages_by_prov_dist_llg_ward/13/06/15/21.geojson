@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9193,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27819099991473,
+          -5.603199000433449
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9193,
+        "CU_NAME": "FAITA",
+        "CU_NO": "010",
+        "GEOCODE": "13061521010",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "21",
+        "WARD_NAME": "WARD 21",
+        "LATITUDE": -5.604605,
+        "LONGITUDE": 145.277146,
+        "REGHH": 19,
+        "TOTPOP2000": 109,
+        "MALE2000": 58,
+        "FEMALE2000": 51,
+        "POP2008": 134,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061521010,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9194,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26647199998285,
+          -5.5863919996909885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9194,
+        "CU_NAME": "GINAM",
+        "CU_NO": "011",
+        "GEOCODE": "13061521011",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "21",
+        "WARD_NAME": "WARD 21",
+        "LATITUDE": -5.587798,
+        "LONGITUDE": 145.265427,
+        "REGHH": 18,
+        "TOTPOP2000": 123,
+        "MALE2000": 74,
+        "FEMALE2000": 49,
+        "POP2008": 152,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061521011,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

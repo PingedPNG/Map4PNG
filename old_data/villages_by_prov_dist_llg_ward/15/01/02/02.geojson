@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18356,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0309670004268,
+          -3.6639330002077486
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18356,
+        "CU_NAME": "BULWO",
+        "CU_NO": "001",
+        "GEOCODE": "15010202001",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "BULWO",
+        "LATITUDE": -3.665801,
+        "LONGITUDE": 142.014408,
+        "REGHH": 21,
+        "TOTPOP2000": 127,
+        "MALE2000": 56,
+        "FEMALE2000": 71,
+        "POP2008": 152,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010202001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18357,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.01378100019303,
+          -3.5943609997602834
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18357,
+        "CU_NAME": "GALGATU",
+        "CU_NO": "002",
+        "GEOCODE": "15010202002",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "BULWO",
+        "LATITUDE": -3.592728,
+        "LONGITUDE": 142.013693,
+        "REGHH": 12,
+        "TOTPOP2000": 65,
+        "MALE2000": 36,
+        "FEMALE2000": 29,
+        "POP2008": 81,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010202002,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

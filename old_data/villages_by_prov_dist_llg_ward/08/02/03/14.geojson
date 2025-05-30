@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5407,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64592499993887,
+          -5.41347299977906
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5407,
+        "CU_NAME": "SAKA",
+        "CU_NO": "002",
+        "GEOCODE": "08020314002",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "ANDITALE",
+        "LATITUDE": -5.414874,
+        "LONGITUDE": 143.644859,
+        "REGHH": 45,
+        "TOTPOP2000": 315,
+        "MALE2000": 158,
+        "FEMALE2000": 157,
+        "POP2008": 396,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020314002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5408,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.66458599984412,
+          -5.390325999844947
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5408,
+        "CU_NAME": "TONGEMAS",
+        "CU_NO": "003",
+        "GEOCODE": "08020314003",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "ANDITALE",
+        "LATITUDE": -5.391727,
+        "LONGITUDE": 143.663521,
+        "REGHH": 33,
+        "TOTPOP2000": 174,
+        "MALE2000": 78,
+        "FEMALE2000": 96,
+        "POP2008": 218,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020314003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5409,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.65907900039565,
+          -5.408904999566005
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5409,
+        "CU_NAME": "MALYANDA",
+        "CU_NO": "004",
+        "GEOCODE": "08020314004",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "ANDITALE",
+        "LATITUDE": -5.410306,
+        "LONGITUDE": 143.658014,
+        "REGHH": 39,
+        "TOTPOP2000": 208,
+        "MALE2000": 102,
+        "FEMALE2000": 106,
+        "POP2008": 261,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020314004,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5410,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.67274200004329,
+          -5.408223999637812
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5410,
+        "CU_NAME": "ANDITALE STN. SCH.",
+        "CU_NO": "401",
+        "GEOCODE": "08020314401",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "ANDITALE",
+        "LATITUDE": -5.409643,
+        "LONGITUDE": 143.66766,
+        "REGHH": 13,
+        "TOTPOP2000": 63,
+        "MALE2000": 30,
+        "FEMALE2000": 33,
+        "POP2008": 79,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020314401,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

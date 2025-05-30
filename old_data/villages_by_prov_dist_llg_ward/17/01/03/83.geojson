@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12578,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.27026199999136,
+          -2.872907000157909
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12578,
+        "CU_NAME": "LAKURUMAU ESTATE",
+        "CU_NO": "001",
+        "GEOCODE": "17010383001",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "83",
+        "WARD_NAME": "LAKURUMAU ESTATE",
+        "LATITUDE": -2.874287,
+        "LONGITUDE": 151.269304,
+        "REGHH": 53,
+        "TOTPOP2000": 249,
+        "MALE2000": 144,
+        "FEMALE2000": 105,
+        "POP2008": 313,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010383001,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12579,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.27026199999136,
+          -2.872907000157909
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12579,
+        "CU_NAME": "LAKURUMAU ESTATE",
+        "CU_NO": "002",
+        "GEOCODE": "17010383002",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "83",
+        "WARD_NAME": "LAKURUMAU ESTATE",
+        "LATITUDE": -2.874287,
+        "LONGITUDE": 151.269304,
+        "REGHH": 119,
+        "TOTPOP2000": 409,
+        "MALE2000": 244,
+        "FEMALE2000": 165,
+        "POP2008": 515,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010383002,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

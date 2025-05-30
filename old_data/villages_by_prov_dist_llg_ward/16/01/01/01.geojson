@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9351,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83546600035572,
+          -1.735719999778098
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9351,
+        "CU_NAME": "AUNA 1",
+        "CU_NO": "001",
+        "GEOCODE": "16010101001",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "AUNA 1",
+        "LATITUDE": -1.73503,
+        "LONGITUDE": 142.829,
+        "REGHH": 36,
+        "TOTPOP2000": 174,
+        "MALE2000": 87,
+        "FEMALE2000": 87,
+        "POP2008": 214,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010101001,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9352,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82790399966996,
+          -1.7476470003087456
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9352,
+        "CU_NAME": "WUVULU LOCAL GOVT.STN",
+        "CU_NO": "501",
+        "GEOCODE": "16010101501",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "AUNA 1",
+        "LATITUDE": -1.740178,
+        "LONGITUDE": 142.826853,
+        "REGHH": 5,
+        "TOTPOP2000": 25,
+        "MALE2000": 11,
+        "FEMALE2000": 14,
+        "POP2008": 33,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010101501,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

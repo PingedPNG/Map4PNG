@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18629,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.16188899987753,
+          -3.4941029997535793
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18629,
+        "CU_NAME": "EIKIL",
+        "CU_NO": "002",
+        "GEOCODE": "15020709002",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "YILI/TOMOUM",
+        "LATITUDE": -3.495481,
+        "LONGITUDE": 142.160808,
+        "REGHH": 12,
+        "TOTPOP2000": 59,
+        "MALE2000": 32,
+        "FEMALE2000": 27,
+        "POP2008": 71,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020709002,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18630,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.15964699990923,
+          -3.511285999848951
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18630,
+        "CU_NAME": "YILI 2 & YILI 3",
+        "CU_NO": "004",
+        "GEOCODE": "15020709004",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "YILI/TOMOUM",
+        "LATITUDE": -3.516091,
+        "LONGITUDE": 142.154031,
+        "REGHH": 30,
+        "TOTPOP2000": 143,
+        "MALE2000": 69,
+        "FEMALE2000": 74,
+        "POP2008": 174,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020709004,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18631,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.16101299995,
+          -3.5249929997270897
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18631,
+        "CU_NAME": "YILI 1",
+        "CU_NO": "021",
+        "GEOCODE": "15020709021",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "YILI/TOMOUM",
+        "LATITUDE": -3.526372,
+        "LONGITUDE": 142.159932,
+        "REGHH": 46,
+        "TOTPOP2000": 231,
+        "MALE2000": 113,
+        "FEMALE2000": 118,
+        "POP2008": 280,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020709021,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18632,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.15065099964397,
+          -3.50222400013746
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18632,
+        "CU_NAME": "TOMOUM",
+        "CU_NO": "023",
+        "GEOCODE": "15020709023",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "YILI/TOMOUM",
+        "LATITUDE": -3.503603,
+        "LONGITUDE": 142.14957,
+        "REGHH": 24,
+        "TOTPOP2000": 141,
+        "MALE2000": 72,
+        "FEMALE2000": 69,
+        "POP2008": 171,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020709023,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

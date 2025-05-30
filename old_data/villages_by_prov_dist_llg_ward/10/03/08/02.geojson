@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14282,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.05849899962925,
+          -6.3058879998312705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14282,
+        "CU_NAME": "AUMA",
+        "CU_NO": "001",
+        "GEOCODE": "10030802001",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "AUMA",
+        "LATITUDE": -6.307301,
+        "LONGITUDE": 145.05745,
+        "REGHH": 52,
+        "TOTPOP2000": 255,
+        "MALE2000": 141,
+        "FEMALE2000": 114,
+        "POP2008": 295,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030802001,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0787380003585,
+          -6.312182999645643
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14283,
+        "CU_NAME": "KURIGABA",
+        "CU_NO": "002",
+        "GEOCODE": "10030802002",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "AUMA",
+        "LATITUDE": -6.313596,
+        "LONGITUDE": 145.077689,
+        "REGHH": 34,
+        "TOTPOP2000": 133,
+        "MALE2000": 72,
+        "FEMALE2000": 61,
+        "POP2008": 154,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030802002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.06622599983007,
+          -6.306937999688898
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14284,
+        "CU_NAME": "BOROL",
+        "CU_NO": "003",
+        "GEOCODE": "10030802003",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "AUMA",
+        "LATITUDE": -6.308351,
+        "LONGITUDE": 145.065177,
+        "REGHH": 34,
+        "TOTPOP2000": 150,
+        "MALE2000": 74,
+        "FEMALE2000": 76,
+        "POP2008": 174,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030802003,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9606,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.5011540000571,
+          -9.916019000276606
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9606,
+        "CU_NAME": "GWADEDE",
+        "CU_NO": "008",
+        "GEOCODE": "05010213008",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "13",
+        "WARD_NAME": "GWADEDE",
+        "LATITUDE": -9.91748,
+        "LONGITUDE": 149.500157,
+        "REGHH": 59,
+        "TOTPOP2000": 380,
+        "MALE2000": 190,
+        "FEMALE2000": 190,
+        "POP2008": 462,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010213008,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

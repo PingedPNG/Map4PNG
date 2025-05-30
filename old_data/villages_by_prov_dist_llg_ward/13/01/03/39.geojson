@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8066,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.66143399997918,
+          -4.290887000034957
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8066,
+        "CU_NAME": "GWAIA",
+        "CU_NO": "008",
+        "GEOCODE": "13010339008",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "39",
+        "WARD_NAME": "GWAIA AKURAI",
+        "LATITUDE": -4.292798,
+        "LONGITUDE": 144.65986,
+        "REGHH": 71,
+        "TOTPOP2000": 452,
+        "MALE2000": 230,
+        "FEMALE2000": 222,
+        "POP2008": 560,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010339008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8067,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6440020000923,
+          -4.310183999591857
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8067,
+        "CU_NAME": "AKURAI",
+        "CU_NO": "028",
+        "GEOCODE": "13010339028",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "39",
+        "WARD_NAME": "GWAIA AKURAI",
+        "LATITUDE": -4.306892,
+        "LONGITUDE": 144.638316,
+        "REGHH": 38,
+        "TOTPOP2000": 242,
+        "MALE2000": 120,
+        "FEMALE2000": 122,
+        "POP2008": 300,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010339028,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8068,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.62955999959433,
+          -4.432481999744425
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8068,
+        "CU_NAME": "AMARONG",
+        "CU_NO": "029",
+        "GEOCODE": "13010339029",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "39",
+        "WARD_NAME": "GWAIA AKURAI",
+        "LATITUDE": -4.433874,
+        "LONGITUDE": 144.628508,
+        "REGHH": 30,
+        "TOTPOP2000": 168,
+        "MALE2000": 79,
+        "FEMALE2000": 89,
+        "POP2008": 208,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010339029,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

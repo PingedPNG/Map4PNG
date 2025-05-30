@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.65460100003622,
+          -8.980902999673674
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15745,
+        "CU_NAME": "KURUNTI (NANU)",
+        "CU_NO": "018",
+        "GEOCODE": "01031421018",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "21",
+        "WARD_NAME": "KURUNTI",
+        "LATITUDE": -8.978898,
+        "LONGITUDE": 142.650026,
+        "REGHH": 40,
+        "TOTPOP2000": 214,
+        "MALE2000": 117,
+        "FEMALE2000": 97,
+        "POP2008": 278,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031421018,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

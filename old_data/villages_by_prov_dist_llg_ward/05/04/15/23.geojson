@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8603299492678,
+          -9.704318858628369
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10268,
+        "CU_NAME": "SAWAEDI",
+        "CU_NO": "014",
+        "GEOCODE": "05041523014",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "23",
+        "WARD_NAME": "SAWA'EDI",
+        "LATITUDE": -9.710367,
+        "LONGITUDE": 150.854066,
+        "REGHH": 122,
+        "TOTPOP2000": 647,
+        "MALE2000": 313,
+        "FEMALE2000": 334,
+        "POP2008": 788,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041523014,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7410,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8143109999528,
+          -8.014555999559661
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7410,
+        "CU_NAME": "LOU",
+        "CU_NO": "010",
+        "GEOCODE": "02010106010",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "URIRI",
+        "LATITUDE": -8.015988,
+        "LONGITUDE": 145.813268,
+        "REGHH": 32,
+        "TOTPOP2000": 160,
+        "MALE2000": 78,
+        "FEMALE2000": 82,
+        "POP2008": 196,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010106010,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7411,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.84353899972507,
+          -8.034056000384055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7411,
+        "CU_NAME": "LOVERA",
+        "CU_NO": "011",
+        "GEOCODE": "02010106011",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "URIRI",
+        "LATITUDE": -8.035488,
+        "LONGITUDE": 145.842496,
+        "REGHH": 9,
+        "TOTPOP2000": 54,
+        "MALE2000": 29,
+        "FEMALE2000": 25,
+        "POP2008": 66,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010106011,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7412,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.79459800009772,
+          -7.977987000299777
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7412,
+        "CU_NAME": "URIRI",
+        "CU_NO": "022",
+        "GEOCODE": "02010106022",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "URIRI",
+        "LATITUDE": -7.978345,
+        "LONGITUDE": 145.794638,
+        "REGHH": 54,
+        "TOTPOP2000": 298,
+        "MALE2000": 162,
+        "FEMALE2000": 136,
+        "POP2008": 366,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010106022,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7413,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.826721000274,
+          -7.996774999766387
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7413,
+        "CU_NAME": "EPO PLANTATION",
+        "CU_NO": "501",
+        "GEOCODE": "02010106501",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "URIRI",
+        "LATITUDE": -7.998207,
+        "LONGITUDE": 145.825678,
+        "REGHH": 38,
+        "TOTPOP2000": 261,
+        "MALE2000": 174,
+        "FEMALE2000": 87,
+        "POP2008": 321,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010106501,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7414,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.79192500003876,
+          -7.9891129998650285
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7414,
+        "CU_NAME": "KUFALA SETTLEMENT",
+        "CU_NO": "504",
+        "GEOCODE": "02010106504",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "URIRI",
+        "LATITUDE": -7.990545,
+        "LONGITUDE": 145.790882,
+        "REGHH": 21,
+        "TOTPOP2000": 118,
+        "MALE2000": 66,
+        "FEMALE2000": 52,
+        "POP2008": 144,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010106504,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

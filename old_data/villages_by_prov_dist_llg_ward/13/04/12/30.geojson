@@ -1,0 +1,261 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8868,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1243209996145,
+          -5.5410050002805065
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8868,
+        "CU_NAME": "GANGLAU",
+        "CU_NO": "013",
+        "GEOCODE": "13041230013",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "30",
+        "WARD_NAME": "WARD 30",
+        "LATITUDE": -5.543227,
+        "LONGITUDE": 146.120012,
+        "REGHH": 34,
+        "TOTPOP2000": 217,
+        "MALE2000": 119,
+        "FEMALE2000": 98,
+        "POP2008": 269,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041230013,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.14138000028686,
+          -5.546374999706416
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8869,
+        "CU_NAME": "KUBUP",
+        "CU_NO": "019",
+        "GEOCODE": "13041230019",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "30",
+        "WARD_NAME": "WARD 30",
+        "LATITUDE": -5.547782,
+        "LONGITUDE": 146.140346,
+        "REGHH": 16,
+        "TOTPOP2000": 115,
+        "MALE2000": 55,
+        "FEMALE2000": 60,
+        "POP2008": 142,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041230019,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8870,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.10263599965174,
+          -5.5279429995697456
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8870,
+        "CU_NAME": "KULILAU",
+        "CU_NO": "020",
+        "GEOCODE": "13041230020",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "30",
+        "WARD_NAME": "WARD 30",
+        "LATITUDE": -5.529525,
+        "LONGITUDE": 146.103115,
+        "REGHH": 8,
+        "TOTPOP2000": 78,
+        "MALE2000": 43,
+        "FEMALE2000": 35,
+        "POP2008": 94,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041230020,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8871,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.15125999994905,
+          -5.535485000232541
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8871,
+        "CU_NAME": "MINDERE",
+        "CU_NO": "025",
+        "GEOCODE": "13041230025",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "30",
+        "WARD_NAME": "WARD 30",
+        "LATITUDE": -5.535986,
+        "LONGITUDE": 146.152042,
+        "REGHH": 36,
+        "TOTPOP2000": 202,
+        "MALE2000": 106,
+        "FEMALE2000": 96,
+        "POP2008": 250,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041230025,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8872,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.10603800005367,
+          -5.611883999846668
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8872,
+        "CU_NAME": "SEGI",
+        "CU_NO": "026",
+        "GEOCODE": "13041230026",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "30",
+        "WARD_NAME": "WARD 30",
+        "LATITUDE": -5.613291,
+        "LONGITUDE": 146.105004,
+        "REGHH": 16,
+        "TOTPOP2000": 100,
+        "MALE2000": 52,
+        "FEMALE2000": 48,
+        "POP2008": 124,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041230026,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0684840003364,
+          -5.564177999614969
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8873,
+        "CU_NAME": "DUMON",
+        "CU_NO": "027",
+        "GEOCODE": "13041230027",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "30",
+        "WARD_NAME": "WARD 30",
+        "LATITUDE": -5.562683,
+        "LONGITUDE": 146.070718,
+        "REGHH": 6,
+        "TOTPOP2000": 42,
+        "MALE2000": 21,
+        "FEMALE2000": 21,
+        "POP2008": 50,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041230027,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8874,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0945629996828,
+          -5.530085000322458
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8874,
+        "CU_NAME": "GAWAR P/SCH",
+        "CU_NO": "041",
+        "GEOCODE": "13041230041",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "30",
+        "WARD_NAME": "WARD 30",
+        "LATITUDE": -5.531491,
+        "LONGITUDE": 146.093529,
+        "REGHH": 6,
+        "TOTPOP2000": 34,
+        "MALE2000": 16,
+        "FEMALE2000": 18,
+        "POP2008": 42,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041230041,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8875,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1379900004382,
+          -5.540542999659635
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8875,
+        "CU_NAME": "BASAMUK HPL. CAMP",
+        "CU_NO": "402",
+        "GEOCODE": "13041230402",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "30",
+        "WARD_NAME": "WARD 30",
+        "LATITUDE": -5.541951,
+        "LONGITUDE": 146.137304,
+        "REGHH": 2,
+        "TOTPOP2000": 8,
+        "MALE2000": 8,
+        "FEMALE2000": 0,
+        "POP2008": 8,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041230402,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

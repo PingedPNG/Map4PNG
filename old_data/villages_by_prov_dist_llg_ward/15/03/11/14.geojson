@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18819,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.22187500003133,
+          -4.856718999682016
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18819,
+        "CU_NAME": "DEFAKBIL",
+        "CU_NO": "006",
+        "GEOCODE": "15031114006",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "14",
+        "WARD_NAME": "DEFAKBIL",
+        "LATITUDE": -4.85811,
+        "LONGITUDE": 141.220781,
+        "REGHH": 33,
+        "TOTPOP2000": 307,
+        "MALE2000": 152,
+        "FEMALE2000": 155,
+        "POP2008": 371,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031114006,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18820,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1700879995616,
+          -4.887569999655739
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18820,
+        "CU_NAME": "KURIPDING",
+        "CU_NO": "010",
+        "GEOCODE": "15031114010",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "14",
+        "WARD_NAME": "DEFAKBIL",
+        "LATITUDE": -4.882363,
+        "LONGITUDE": 141.17228,
+        "REGHH": 16,
+        "TOTPOP2000": 102,
+        "MALE2000": 47,
+        "FEMALE2000": 55,
+        "POP2008": 124,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031114010,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

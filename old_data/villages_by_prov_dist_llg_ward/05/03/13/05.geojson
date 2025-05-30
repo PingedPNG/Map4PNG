@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.27067999968233,
+          -9.250150000022415
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10184,
+        "CU_NAME": "IDAKAMENAI",
+        "CU_NO": "009",
+        "GEOCODE": "05031305009",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "05",
+        "WARD_NAME": "IDAKAMENAI",
+        "LATITUDE": -9.251606,
+        "LONGITUDE": 150.269696,
+        "REGHH": 98,
+        "TOTPOP2000": 560,
+        "MALE2000": 293,
+        "FEMALE2000": 267,
+        "POP2008": 682,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031305009,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.2824809997984,
+          -9.249524999978746
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10185,
+        "CU_NAME": "AFALULUIA",
+        "CU_NO": "010",
+        "GEOCODE": "05031305010",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "05",
+        "WARD_NAME": "IDAKAMENAI",
+        "LATITUDE": -9.250981,
+        "LONGITUDE": 150.281497,
+        "REGHH": 40,
+        "TOTPOP2000": 180,
+        "MALE2000": 87,
+        "FEMALE2000": 93,
+        "POP2008": 219,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031305010,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

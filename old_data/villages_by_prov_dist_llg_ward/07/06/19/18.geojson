@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21046,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4611970004413,
+          -5.948970999911694
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21046,
+        "CU_NAME": "WARIBA",
+        "CU_NO": "019",
+        "GEOCODE": "07061918019",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "18",
+        "WARD_NAME": "WARIBA",
+        "LATITUDE": -5.953209,
+        "LONGITUDE": 143.462786,
+        "REGHH": 12,
+        "TOTPOP2000": 72,
+        "MALE2000": 39,
+        "FEMALE2000": 33,
+        "POP2008": 100,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061918019,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21047,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4635110001326,
+          -5.9512709998567175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21047,
+        "CU_NAME": "KANDIPA",
+        "CU_NO": "020",
+        "GEOCODE": "07061918020",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "18",
+        "WARD_NAME": "WARIBA",
+        "LATITUDE": -5.953209,
+        "LONGITUDE": 143.462786,
+        "REGHH": 31,
+        "TOTPOP2000": 192,
+        "MALE2000": 101,
+        "FEMALE2000": 91,
+        "POP2008": 266,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061918020,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21048,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.46153699993272,
+          -5.951280000271765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21048,
+        "CU_NAME": "TAMINTE",
+        "CU_NO": "021",
+        "GEOCODE": "07061918021",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "18",
+        "WARD_NAME": "WARIBA",
+        "LATITUDE": -5.953209,
+        "LONGITUDE": 143.462786,
+        "REGHH": 51,
+        "TOTPOP2000": 304,
+        "MALE2000": 140,
+        "FEMALE2000": 164,
+        "POP2008": 422,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061918021,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21049,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4597189997321,
+          -5.949638000093557
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21049,
+        "CU_NAME": "SAPE",
+        "CU_NO": "022",
+        "GEOCODE": "07061918022",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "18",
+        "WARD_NAME": "WARIBA",
+        "LATITUDE": -5.953209,
+        "LONGITUDE": 143.462786,
+        "REGHH": 59,
+        "TOTPOP2000": 340,
+        "MALE2000": 180,
+        "FEMALE2000": 160,
+        "POP2008": 472,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061918022,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

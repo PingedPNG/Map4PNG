@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5286,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4314989996792,
+          -5.670242000268047
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5286,
+        "CU_NAME": "KIRALI",
+        "CU_NO": "001",
+        "GEOCODE": "08010208001",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "KIRALI",
+        "LATITUDE": -5.671544,
+        "LONGITUDE": 143.43048,
+        "REGHH": 35,
+        "TOTPOP2000": 198,
+        "MALE2000": 104,
+        "FEMALE2000": 94,
+        "POP2008": 249,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010208001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5287,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.434778999851,
+          -5.667086999565356
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5287,
+        "CU_NAME": "KIMBUM",
+        "CU_NO": "002",
+        "GEOCODE": "08010208002",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "KIRALI",
+        "LATITUDE": -5.66849,
+        "LONGITUDE": 143.43371,
+        "REGHH": 66,
+        "TOTPOP2000": 374,
+        "MALE2000": 201,
+        "FEMALE2000": 173,
+        "POP2008": 469,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010208002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5288,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.42317699991872,
+          -5.678815999958374
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5288,
+        "CU_NAME": "NAPITAKALI",
+        "CU_NO": "003",
+        "GEOCODE": "08010208003",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "KIRALI",
+        "LATITUDE": -5.680219,
+        "LONGITUDE": 143.422108,
+        "REGHH": 16,
+        "TOTPOP2000": 67,
+        "MALE2000": 32,
+        "FEMALE2000": 35,
+        "POP2008": 83,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010208003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5289,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.42650799974444,
+          -5.6805709999516125
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5289,
+        "CU_NAME": "BIP",
+        "CU_NO": "004",
+        "GEOCODE": "08010208004",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "KIRALI",
+        "LATITUDE": -5.681974,
+        "LONGITUDE": 143.425439,
+        "REGHH": 31,
+        "TOTPOP2000": 182,
+        "MALE2000": 96,
+        "FEMALE2000": 86,
+        "POP2008": 228,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010208004,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5290,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.37781199972403,
+          -5.61678099994316
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5290,
+        "CU_NAME": "PEYAGA",
+        "CU_NO": "005",
+        "GEOCODE": "08010208005",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "KIRALI",
+        "LATITUDE": -5.628487,
+        "LONGITUDE": 143.374999,
+        "REGHH": 64,
+        "TOTPOP2000": 363,
+        "MALE2000": 187,
+        "FEMALE2000": 176,
+        "POP2008": 456,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010208005,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5291,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.43307799964998,
+          -5.668679000135683
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5291,
+        "CU_NAME": "KIRALI SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "08010208401",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "KIRALI",
+        "LATITUDE": -5.671544,
+        "LONGITUDE": 143.43048,
+        "REGHH": 4,
+        "TOTPOP2000": 11,
+        "MALE2000": 5,
+        "FEMALE2000": 6,
+        "POP2008": 11,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010208401,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

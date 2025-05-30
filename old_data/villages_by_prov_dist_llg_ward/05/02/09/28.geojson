@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9970,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.70657700002857,
+          -11.133380999933138
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9970,
+        "CU_NAME": "BAGAMAN",
+        "CU_NO": "001",
+        "GEOCODE": "05020928001",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "28",
+        "WARD_NAME": "BAGAMAN",
+        "LATITUDE": -11.134862,
+        "LONGITUDE": 152.701872,
+        "REGHH": 38,
+        "TOTPOP2000": 201,
+        "MALE2000": 98,
+        "FEMALE2000": 103,
+        "POP2008": 245,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020928001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

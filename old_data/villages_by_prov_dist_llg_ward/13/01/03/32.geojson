@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8045,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.68862100005913,
+          -4.361401999902341
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8045,
+        "CU_NAME": "ANDARUM",
+        "CU_NO": "001",
+        "GEOCODE": "13010332001",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "32",
+        "WARD_NAME": "ANDARUM",
+        "LATITUDE": -4.362793,
+        "LONGITUDE": 144.68757,
+        "REGHH": 48,
+        "TOTPOP2000": 224,
+        "MALE2000": 112,
+        "FEMALE2000": 112,
+        "POP2008": 277,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010332001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8046,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.76724499975705,
+          -4.507272999849022
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8046,
+        "CU_NAME": "RAPTUK",
+        "CU_NO": "007",
+        "GEOCODE": "13010332007",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "32",
+        "WARD_NAME": "ANDARUM",
+        "LATITUDE": -4.508666,
+        "LONGITUDE": 144.766195,
+        "REGHH": 42,
+        "TOTPOP2000": 218,
+        "MALE2000": 116,
+        "FEMALE2000": 102,
+        "POP2008": 270,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010332007,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8047,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7356650003395,
+          -4.391528999763466
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8047,
+        "CU_NAME": "PAUVRIT",
+        "CU_NO": "008",
+        "GEOCODE": "13010332008",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "32",
+        "WARD_NAME": "ANDARUM",
+        "LATITUDE": -4.393897,
+        "LONGITUDE": 144.695678,
+        "REGHH": 19,
+        "TOTPOP2000": 81,
+        "MALE2000": 38,
+        "FEMALE2000": 43,
+        "POP2008": 99,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010332008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8048,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.79083899962018,
+          -4.495746999824121
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8048,
+        "CU_NAME": "SOKUMU",
+        "CU_NO": "012",
+        "GEOCODE": "13010332012",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "32",
+        "WARD_NAME": "ANDARUM",
+        "LATITUDE": -4.49714,
+        "LONGITUDE": 144.789789,
+        "REGHH": 31,
+        "TOTPOP2000": 157,
+        "MALE2000": 82,
+        "FEMALE2000": 75,
+        "POP2008": 194,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010332012,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

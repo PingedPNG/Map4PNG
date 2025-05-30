@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4801,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.61407800009965,
+          -5.552109999776633
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4801,
+        "CU_NAME": "BOVALPUN",
+        "CU_NO": "015",
+        "GEOCODE": "18031010015",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "10",
+        "WARD_NAME": "BOVALPUN",
+        "LATITUDE": -5.556014,
+        "LONGITUDE": 151.605565,
+        "REGHH": 13,
+        "TOTPOP2000": 73,
+        "MALE2000": 40,
+        "FEMALE2000": 33,
+        "POP2008": 89,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031010015,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4802,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.60501200020371,
+          -5.546514999867327
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4802,
+        "CU_NAME": "MASI",
+        "CU_NO": "018",
+        "GEOCODE": "18031010018",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "10",
+        "WARD_NAME": "BOVALPUN",
+        "LATITUDE": -5.552861,
+        "LONGITUDE": 151.602768,
+        "REGHH": 15,
+        "TOTPOP2000": 72,
+        "MALE2000": 34,
+        "FEMALE2000": 38,
+        "POP2008": 88,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031010018,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

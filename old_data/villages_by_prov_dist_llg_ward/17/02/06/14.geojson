@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12797,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.16346599955625,
+          -3.4135160003630745
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12797,
+        "CU_NAME": "KANAM",
+        "CU_NO": "010",
+        "GEOCODE": "17020614010",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "14",
+        "WARD_NAME": "KARU",
+        "LATITUDE": -3.412881,
+        "LONGITUDE": 152.163866,
+        "REGHH": 29,
+        "TOTPOP2000": 156,
+        "MALE2000": 79,
+        "FEMALE2000": 77,
+        "POP2008": 197,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020614010,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12798,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.22015799959206,
+          -3.46134900015619
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12798,
+        "CU_NAME": "KARU",
+        "CU_NO": "012",
+        "GEOCODE": "17020614012",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "14",
+        "WARD_NAME": "KARU",
+        "LATITUDE": -3.462738,
+        "LONGITUDE": 152.219214,
+        "REGHH": 64,
+        "TOTPOP2000": 296,
+        "MALE2000": 153,
+        "FEMALE2000": 143,
+        "POP2008": 372,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020614012,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12799,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.14540799957956,
+          -3.388420999629375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12799,
+        "CU_NAME": "LOKON",
+        "CU_NO": "033",
+        "GEOCODE": "17020614033",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "14",
+        "WARD_NAME": "KARU",
+        "LATITUDE": -3.393188,
+        "LONGITUDE": 152.151174,
+        "REGHH": 46,
+        "TOTPOP2000": 227,
+        "MALE2000": 111,
+        "FEMALE2000": 116,
+        "POP2008": 286,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020614033,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

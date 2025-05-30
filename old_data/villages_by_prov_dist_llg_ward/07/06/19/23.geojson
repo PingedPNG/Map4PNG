@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21066,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.54241800029058,
+          -6.081089999703693
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21066,
+        "CU_NAME": "MOND",
+        "CU_NO": "001",
+        "GEOCODE": "07061923001",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "23",
+        "WARD_NAME": "MAIP 2",
+        "LATITUDE": -6.084574,
+        "LONGITUDE": 143.540107,
+        "REGHH": 34,
+        "TOTPOP2000": 363,
+        "MALE2000": 190,
+        "FEMALE2000": 173,
+        "POP2008": 505,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061923001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21067,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.53852799986737,
+          -6.081036999957519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21067,
+        "CU_NAME": "POSO",
+        "CU_NO": "002",
+        "GEOCODE": "07061923002",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "23",
+        "WARD_NAME": "MAIP 2",
+        "LATITUDE": -6.084574,
+        "LONGITUDE": 143.540107,
+        "REGHH": 32,
+        "TOTPOP2000": 338,
+        "MALE2000": 160,
+        "FEMALE2000": 178,
+        "POP2008": 469,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061923002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21068,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.54131299969526,
+          -6.080157999891753
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21068,
+        "CU_NAME": "SOPOA",
+        "CU_NO": "003",
+        "GEOCODE": "07061923003",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "23",
+        "WARD_NAME": "MAIP 2",
+        "LATITUDE": -6.084574,
+        "LONGITUDE": 143.540107,
+        "REGHH": 33,
+        "TOTPOP2000": 398,
+        "MALE2000": 205,
+        "FEMALE2000": 193,
+        "POP2008": 553,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061923003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21069,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5414780001097,
+          -6.0821839997917095
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21069,
+        "CU_NAME": "OKIPA",
+        "CU_NO": "004",
+        "GEOCODE": "07061923004",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "23",
+        "WARD_NAME": "MAIP 2",
+        "LATITUDE": -6.084574,
+        "LONGITUDE": 143.540107,
+        "REGHH": 37,
+        "TOTPOP2000": 363,
+        "MALE2000": 172,
+        "FEMALE2000": 191,
+        "POP2008": 505,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061923004,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

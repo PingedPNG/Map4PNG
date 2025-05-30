@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8426,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.72599400042282,
+          -4.788063000107343
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8426,
+        "CU_NAME": "CHUNGRIBU",
+        "CU_NO": "008",
+        "GEOCODE": "13030711008",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -4.79555,
+        "LONGITUDE": 144.717812,
+        "REGHH": 29,
+        "TOTPOP2000": 198,
+        "MALE2000": 103,
+        "FEMALE2000": 95,
+        "POP2008": 244,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030711008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8427,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.74301300014986,
+          -4.800510000336203
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8427,
+        "CU_NAME": "BANUM",
+        "CU_NO": "009",
+        "GEOCODE": "13030711009",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -4.799772,
+        "LONGITUDE": 144.738093,
+        "REGHH": 20,
+        "TOTPOP2000": 143,
+        "MALE2000": 76,
+        "FEMALE2000": 67,
+        "POP2008": 177,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030711009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8428,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.68770400003962,
+          -4.781174999926236
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8428,
+        "CU_NAME": "PAKINGASU",
+        "CU_NO": "010",
+        "GEOCODE": "13030711010",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -4.799169,
+        "LONGITUDE": 144.682369,
+        "REGHH": 50,
+        "TOTPOP2000": 301,
+        "MALE2000": 150,
+        "FEMALE2000": 151,
+        "POP2008": 373,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030711010,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8429,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.71425000023737,
+          -4.82371400020088
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8429,
+        "CU_NAME": "RONEBU",
+        "CU_NO": "011",
+        "GEOCODE": "13030711011",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -4.82511,
+        "LONGITUDE": 144.713199,
+        "REGHH": 14,
+        "TOTPOP2000": 87,
+        "MALE2000": 49,
+        "FEMALE2000": 38,
+        "POP2008": 108,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030711011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8430,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.72595500042303,
+          -4.800292000175602
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8430,
+        "CU_NAME": "CHRUNGRIBU C/SCH/MISS A/POST",
+        "CU_NO": "401",
+        "GEOCODE": "13030711401",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -4.79555,
+        "LONGITUDE": 144.717812,
+        "REGHH": 6,
+        "TOTPOP2000": 32,
+        "MALE2000": 18,
+        "FEMALE2000": 14,
+        "POP2008": 40,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030711401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

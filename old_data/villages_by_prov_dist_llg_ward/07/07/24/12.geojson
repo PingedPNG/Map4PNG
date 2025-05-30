@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21272,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.46722499963414,
+          -6.228736999712737
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21272,
+        "CU_NAME": "TEGIBO 1",
+        "CU_NO": "012",
+        "GEOCODE": "07072412012",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "24",
+        "WARD_NO": "12",
+        "WARD_NAME": "TEGIPO 1",
+        "LATITUDE": -6.233127,
+        "LONGITUDE": 143.466531,
+        "REGHH": 187,
+        "TOTPOP2000": 1148,
+        "MALE2000": 555,
+        "FEMALE2000": 593,
+        "POP2008": 1595,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072412012,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

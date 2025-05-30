@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7310,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60594599990804,
+          -3.746120999684365
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7310,
+        "CU_NAME": "JAPARAKA",
+        "CU_NO": "011",
+        "GEOCODE": "14062502011",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "25",
+        "WARD_NO": "02",
+        "WARD_NAME": "JAPARAKA",
+        "LATITUDE": -3.745171,
+        "LONGITUDE": 143.604201,
+        "REGHH": 79,
+        "TOTPOP2000": 446,
+        "MALE2000": 199,
+        "FEMALE2000": 247,
+        "POP2008": 530,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062502011,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

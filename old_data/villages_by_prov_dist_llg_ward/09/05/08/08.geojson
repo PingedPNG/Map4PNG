@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16999,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1721410001071,
+          -5.687408999625575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16999,
+        "CU_NAME": "KWINGA.1",
+        "CU_NO": "022",
+        "GEOCODE": "09050808022",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "KWINGA.1",
+        "LATITUDE": -5.688346,
+        "LONGITUDE": 144.172474,
+        "REGHH": 124,
+        "TOTPOP2000": 610,
+        "MALE2000": 316,
+        "FEMALE2000": 294,
+        "POP2008": 743,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050808022,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

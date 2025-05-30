@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.95952599992506,
+          -8.089418000240471
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15129,
+        "CU_NAME": "KINI",
+        "CU_NO": "015",
+        "GEOCODE": "01010319015",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "19",
+        "WARD_NAME": "KINI",
+        "LATITUDE": -8.09382,
+        "LONGITUDE": 142.958274,
+        "REGHH": 57,
+        "TOTPOP2000": 384,
+        "MALE2000": 200,
+        "FEMALE2000": 184,
+        "POP2008": 498,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010319015,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

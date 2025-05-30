@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18980,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.54007100037643,
+          -3.8356119995940503
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18980,
+        "CU_NAME": "DILA",
+        "CU_NO": "003",
+        "GEOCODE": "15041406003",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "06",
+        "WARD_NAME": "DILA",
+        "LATITUDE": -3.83016,
+        "LONGITUDE": 141.524219,
+        "REGHH": 12,
+        "TOTPOP2000": 122,
+        "MALE2000": 59,
+        "FEMALE2000": 63,
+        "POP2008": 146,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041406003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18981,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.5334049996411,
+          -3.8146919998358726
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18981,
+        "CU_NAME": "HERA",
+        "CU_NO": "004",
+        "GEOCODE": "15041406004",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "06",
+        "WARD_NAME": "DILA",
+        "LATITUDE": -3.819587,
+        "LONGITUDE": 141.53032,
+        "REGHH": 24,
+        "TOTPOP2000": 171,
+        "MALE2000": 83,
+        "FEMALE2000": 88,
+        "POP2008": 206,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041406004,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

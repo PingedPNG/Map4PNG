@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 946,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.16741499990235,
+          -10.085449000271126
+        ]
+      },
+      "properties": {
+        "OBJECTID": 946,
+        "CU_NAME": "KELERAKWA",
+        "CU_NO": "025",
+        "GEOCODE": "03010208025",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "KELERAKWA",
+        "LATITUDE": -10.087482,
+        "LONGITUDE": 148.168353,
+        "REGHH": 140,
+        "TOTPOP2000": 954,
+        "MALE2000": 464,
+        "FEMALE2000": 490,
+        "POP2008": 1144,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010208025,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 947,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.1639169995699,
+          -10.074375000405894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 947,
+        "CU_NAME": "ROPA",
+        "CU_NO": "026",
+        "GEOCODE": "03010208026",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "KELERAKWA",
+        "LATITUDE": -10.078356,
+        "LONGITUDE": 148.1629,
+        "REGHH": 7,
+        "TOTPOP2000": 36,
+        "MALE2000": 20,
+        "FEMALE2000": 16,
+        "POP2008": 44,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010208026,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 948,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.16069500027413,
+          -10.06677499976638
+        ]
+      },
+      "properties": {
+        "OBJECTID": 948,
+        "CU_NAME": "WAIPARA",
+        "CU_NO": "027",
+        "GEOCODE": "03010208027",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "KELERAKWA",
+        "LATITUDE": -10.069827,
+        "LONGITUDE": 148.159678,
+        "REGHH": 7,
+        "TOTPOP2000": 44,
+        "MALE2000": 21,
+        "FEMALE2000": 23,
+        "POP2008": 52,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010208027,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

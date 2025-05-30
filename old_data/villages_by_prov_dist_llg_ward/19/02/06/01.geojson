@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17974,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.53094500021166,
+          -4.927156000449031
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17974,
+        "CU_NAME": "BAEA",
+        "CU_NO": "002",
+        "GEOCODE": "19020601002",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAIA",
+        "LATITUDE": -4.92976,
+        "LONGITUDE": 151.538,
+        "REGHH": 17,
+        "TOTPOP2000": 149,
+        "MALE2000": 71,
+        "FEMALE2000": 78,
+        "POP2008": 196,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020601002,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17975,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.50630099959153,
+          -4.936420999629377
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17975,
+        "CU_NAME": "BAOBAO",
+        "CU_NO": "016",
+        "GEOCODE": "19020601016",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAIA",
+        "LATITUDE": -4.93758,
+        "LONGITUDE": 151.505,
+        "REGHH": 12,
+        "TOTPOP2000": 75,
+        "MALE2000": 40,
+        "FEMALE2000": 35,
+        "POP2008": 99,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020601016,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.5169569999656,
+          -4.924692000135678
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17976,
+        "CU_NAME": "LOILOI",
+        "CU_NO": "018",
+        "GEOCODE": "19020601018",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAIA",
+        "LATITUDE": -4.9261,
+        "LONGITUDE": 151.516,
+        "REGHH": 5,
+        "TOTPOP2000": 62,
+        "MALE2000": 33,
+        "FEMALE2000": 29,
+        "POP2008": 81,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020601018,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17977,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.5929869996504,
+          -4.9626240001974224
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17977,
+        "CU_NAME": "PALE",
+        "CU_NO": "020",
+        "GEOCODE": "19020601020",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAIA",
+        "LATITUDE": -4.96363,
+        "LONGITUDE": 151.592,
+        "REGHH": 15,
+        "TOTPOP2000": 92,
+        "MALE2000": 57,
+        "FEMALE2000": 35,
+        "POP2008": 121,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020601020,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

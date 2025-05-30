@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13974,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.23014100000717,
+          -6.256117999745868
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13974,
+        "CU_NAME": "AUWAMO",
+        "CU_NO": "010",
+        "GEOCODE": "10010304010",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "MAREVA",
+        "LATITUDE": -6.257531,
+        "LONGITUDE": 145.229094,
+        "REGHH": 24,
+        "TOTPOP2000": 94,
+        "MALE2000": 45,
+        "FEMALE2000": 49,
+        "POP2008": 110,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010304010,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13975,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2253799998872,
+          -6.2565980002974015
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13975,
+        "CU_NAME": "AKEFARO",
+        "CU_NO": "011",
+        "GEOCODE": "10010304011",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "MAREVA",
+        "LATITUDE": -6.258011,
+        "LONGITUDE": 145.224333,
+        "REGHH": 37,
+        "TOTPOP2000": 159,
+        "MALE2000": 85,
+        "FEMALE2000": 74,
+        "POP2008": 183,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010304011,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.22020200032216,
+          -6.254417000444164
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13976,
+        "CU_NAME": "WINGU. 2",
+        "CU_NO": "012",
+        "GEOCODE": "10010304012",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "MAREVA",
+        "LATITUDE": -6.25583,
+        "LONGITUDE": 145.219155,
+        "REGHH": 41,
+        "TOTPOP2000": 135,
+        "MALE2000": 72,
+        "FEMALE2000": 63,
+        "POP2008": 157,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010304012,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13977,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.21447399967542,
+          -6.250247999745341
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13977,
+        "CU_NAME": "KOMONGU",
+        "CU_NO": "013",
+        "GEOCODE": "10010304013",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "MAREVA",
+        "LATITUDE": -6.251661,
+        "LONGITUDE": 145.213427,
+        "REGHH": 21,
+        "TOTPOP2000": 71,
+        "MALE2000": 35,
+        "FEMALE2000": 36,
+        "POP2008": 79,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010304013,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

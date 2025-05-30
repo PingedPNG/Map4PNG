@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17540,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.01940099995625,
+          -5.933871999692997
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17540,
+        "CU_NAME": "IAPAUGA",
+        "CU_NO": "007",
+        "GEOCODE": "09071237007",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "37",
+        "WARD_NAME": "IAPAUGA",
+        "LATITUDE": -5.934812,
+        "LONGITUDE": 144.019731,
+        "REGHH": 23,
+        "TOTPOP2000": 133,
+        "MALE2000": 72,
+        "FEMALE2000": 61,
+        "POP2008": 162,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071237007,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17541,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.00889200006577,
+          -5.926672000412452
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17541,
+        "CU_NAME": "PAPURALE",
+        "CU_NO": "008",
+        "GEOCODE": "09071237008",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "37",
+        "WARD_NAME": "IAPAUGA",
+        "LATITUDE": -5.927612,
+        "LONGITUDE": 144.009223,
+        "REGHH": 50,
+        "TOTPOP2000": 208,
+        "MALE2000": 104,
+        "FEMALE2000": 104,
+        "POP2008": 253,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071237008,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0060539995925,
+          -5.928255999714565
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17542,
+        "CU_NAME": "KUMBUKUPUL",
+        "CU_NO": "009",
+        "GEOCODE": "09071237009",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "37",
+        "WARD_NAME": "IAPAUGA",
+        "LATITUDE": -5.929196,
+        "LONGITUDE": 144.006385,
+        "REGHH": 31,
+        "TOTPOP2000": 131,
+        "MALE2000": 52,
+        "FEMALE2000": 79,
+        "POP2008": 160,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071237009,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

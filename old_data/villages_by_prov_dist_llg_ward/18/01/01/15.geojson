@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4450,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.14848700037487,
+          -4.301134000433706
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4450,
+        "CU_NAME": "KARAVIA NO.2 VILLAGE",
+        "CU_NO": "015",
+        "GEOCODE": "18010115015",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "15",
+        "WARD_NAME": "KARAVIA NO.2",
+        "LATITUDE": -4.302534,
+        "LONGITUDE": 152.147541,
+        "REGHH": 65,
+        "TOTPOP2000": 351,
+        "MALE2000": 181,
+        "FEMALE2000": 170,
+        "POP2008": 427,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010115015,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

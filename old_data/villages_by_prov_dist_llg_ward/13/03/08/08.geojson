@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8525,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0799830002154,
+          -4.755994999769371
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8525,
+        "CU_NAME": "KISILA/SIMBAR",
+        "CU_NO": "009",
+        "GEOCODE": "13030808009",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "WARD 8",
+        "LATITUDE": -4.764812,
+        "LONGITUDE": 145.077506,
+        "REGHH": 50,
+        "TOTPOP2000": 299,
+        "MALE2000": 153,
+        "FEMALE2000": 146,
+        "POP2008": 370,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030808009,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

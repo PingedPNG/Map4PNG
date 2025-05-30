@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9490210002191,
+          -8.323038999849928
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15148,
+        "CU_NAME": "PAGONA",
+        "CU_NO": "019",
+        "GEOCODE": "01010330019",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "30",
+        "WARD_NAME": "PAGONA",
+        "LATITUDE": -8.326379,
+        "LONGITUDE": 142.947274,
+        "REGHH": 35,
+        "TOTPOP2000": 244,
+        "MALE2000": 137,
+        "FEMALE2000": 107,
+        "POP2008": 316,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010330019,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15149,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.93720999964182,
+          -8.238198000337377
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15149,
+        "CU_NAME": "PEDEYA",
+        "CU_NO": "035",
+        "GEOCODE": "01010330035",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "30",
+        "WARD_NAME": "PAGONA",
+        "LATITUDE": -8.237014,
+        "LONGITUDE": 142.93761,
+        "REGHH": 43,
+        "TOTPOP2000": 330,
+        "MALE2000": 171,
+        "FEMALE2000": 159,
+        "POP2008": 428,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010330035,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.99700599982714,
+          -8.327269999810596
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15150,
+        "CU_NAME": "GAIMA SETTLEMENT",
+        "CU_NO": "036",
+        "GEOCODE": "01010330036",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "30",
+        "WARD_NAME": "PAGONA",
+        "LATITUDE": -8.328698,
+        "LONGITUDE": 142.995926,
+        "REGHH": 25,
+        "TOTPOP2000": 184,
+        "MALE2000": 109,
+        "FEMALE2000": 75,
+        "POP2008": 238,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010330036,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

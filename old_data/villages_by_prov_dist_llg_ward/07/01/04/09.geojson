@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19382,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.14136199985649,
+          -6.4396960001702155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19382,
+        "CU_NAME": "UPINE",
+        "CU_NO": "001",
+        "GEOCODE": "07010409001",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "KALUWE 1",
+        "LATITUDE": -6.4442,
+        "LONGITUDE": 144.143261,
+        "REGHH": 23,
+        "TOTPOP2000": 98,
+        "MALE2000": 46,
+        "FEMALE2000": 52,
+        "POP2008": 135,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010409001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19383,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1433620003561,
+          -6.4373970002712895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19383,
+        "CU_NAME": "KALAWANE",
+        "CU_NO": "002",
+        "GEOCODE": "07010409002",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "KALUWE 1",
+        "LATITUDE": -6.4442,
+        "LONGITUDE": 144.143261,
+        "REGHH": 13,
+        "TOTPOP2000": 45,
+        "MALE2000": 22,
+        "FEMALE2000": 23,
+        "POP2008": 61,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010409002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19384,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.14272000042774,
+          -6.442242999814539
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19384,
+        "CU_NAME": "MELIKE",
+        "CU_NO": "003",
+        "GEOCODE": "07010409003",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "KALUWE 1",
+        "LATITUDE": -6.4442,
+        "LONGITUDE": 144.143261,
+        "REGHH": 41,
+        "TOTPOP2000": 173,
+        "MALE2000": 89,
+        "FEMALE2000": 84,
+        "POP2008": 241,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010409003,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

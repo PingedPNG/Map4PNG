@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5325,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.42741500020213,
+          -5.812007999769321
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5325,
+        "CU_NAME": "KANIANA",
+        "CU_NO": "004",
+        "GEOCODE": "08010215004",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "15",
+        "WARD_NAME": "KANIANA",
+        "LATITUDE": -5.813413,
+        "LONGITUDE": 143.426346,
+        "REGHH": 18,
+        "TOTPOP2000": 97,
+        "MALE2000": 53,
+        "FEMALE2000": 44,
+        "POP2008": 121,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010215004,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5326,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.43449700033636,
+          -5.815860000238786
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5326,
+        "CU_NAME": "TOPE",
+        "CU_NO": "005",
+        "GEOCODE": "08010215005",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "15",
+        "WARD_NAME": "KANIANA",
+        "LATITUDE": -5.817265,
+        "LONGITUDE": 143.433428,
+        "REGHH": 24,
+        "TOTPOP2000": 124,
+        "MALE2000": 66,
+        "FEMALE2000": 58,
+        "POP2008": 156,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010215005,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5327,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.42057799967506,
+          -5.8114510001634585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5327,
+        "CU_NAME": "IRITIPAK",
+        "CU_NO": "006",
+        "GEOCODE": "08010215006",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "15",
+        "WARD_NAME": "KANIANA",
+        "LATITUDE": -5.812856,
+        "LONGITUDE": 143.419509,
+        "REGHH": 13,
+        "TOTPOP2000": 64,
+        "MALE2000": 30,
+        "FEMALE2000": 34,
+        "POP2008": 80,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010215006,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5328,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.42981000003158,
+          -5.810587999936217
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5328,
+        "CU_NAME": "MAROPEPAK",
+        "CU_NO": "007",
+        "GEOCODE": "08010215007",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "15",
+        "WARD_NAME": "KANIANA",
+        "LATITUDE": -5.811993,
+        "LONGITUDE": 143.428741,
+        "REGHH": 19,
+        "TOTPOP2000": 133,
+        "MALE2000": 68,
+        "FEMALE2000": 65,
+        "POP2008": 167,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010215007,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5329,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4238549997085,
+          -5.806998999903897
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5329,
+        "CU_NAME": "KELYA",
+        "CU_NO": "008",
+        "GEOCODE": "08010215008",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "15",
+        "WARD_NAME": "KANIANA",
+        "LATITUDE": -5.808404,
+        "LONGITUDE": 143.422786,
+        "REGHH": 23,
+        "TOTPOP2000": 115,
+        "MALE2000": 55,
+        "FEMALE2000": 60,
+        "POP2008": 145,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010215008,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5330,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.39893399980429,
+          -5.797867999708387
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5330,
+        "CU_NAME": "GAUL",
+        "CU_NO": "009",
+        "GEOCODE": "08010215009",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "15",
+        "WARD_NAME": "KANIANA",
+        "LATITUDE": -5.799272,
+        "LONGITUDE": 143.397865,
+        "REGHH": 59,
+        "TOTPOP2000": 317,
+        "MALE2000": 159,
+        "FEMALE2000": 158,
+        "POP2008": 398,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010215009,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

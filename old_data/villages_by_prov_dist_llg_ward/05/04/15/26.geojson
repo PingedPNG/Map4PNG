@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10271,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.864237794039,
+          -9.578832125102451
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10271,
+        "CU_NAME": "SEBUTUYA",
+        "CU_NO": "015",
+        "GEOCODE": "05041526015",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "26",
+        "WARD_NAME": "SEBUTUIA",
+        "LATITUDE": -9.573178,
+        "LONGITUDE": 150.8646,
+        "REGHH": 166,
+        "TOTPOP2000": 805,
+        "MALE2000": 416,
+        "FEMALE2000": 389,
+        "POP2008": 981,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041526015,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

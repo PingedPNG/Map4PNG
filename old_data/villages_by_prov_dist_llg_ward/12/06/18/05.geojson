@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11592,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.00434599956827,
+          -6.102401999552569
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11592,
+        "CU_NAME": "PAPUAGUZUN",
+        "CU_NO": "002",
+        "GEOCODE": "12061805002",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "05",
+        "WARD_NAME": "MARAWASA",
+        "LATITUDE": -6.103816,
+        "LONGITUDE": 146.00331,
+        "REGHH": 45,
+        "TOTPOP2000": 219,
+        "MALE2000": 115,
+        "FEMALE2000": 104,
+        "POP2008": 272,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061805002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11593,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.07128800014118,
+          -6.143398999763974
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11593,
+        "CU_NAME": "MARASASA",
+        "CU_NO": "003",
+        "GEOCODE": "12061805003",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "05",
+        "WARD_NAME": "MARAWASA",
+        "LATITUDE": -6.144812,
+        "LONGITUDE": 146.070252,
+        "REGHH": 41,
+        "TOTPOP2000": 254,
+        "MALE2000": 125,
+        "FEMALE2000": 129,
+        "POP2008": 317,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061805003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11594,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.04589199991597,
+          -6.134921000004113
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11594,
+        "CU_NAME": "MARAWASA",
+        "CU_NO": "004",
+        "GEOCODE": "12061805004",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "05",
+        "WARD_NAME": "MARAWASA",
+        "LATITUDE": -6.138376,
+        "LONGITUDE": 146.042808,
+        "REGHH": 75,
+        "TOTPOP2000": 432,
+        "MALE2000": 224,
+        "FEMALE2000": 208,
+        "POP2008": 538,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061805004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11595,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0393040000796,
+          -6.1329130000348755
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11595,
+        "CU_NAME": "MARAZABUANG",
+        "CU_NO": "005",
+        "GEOCODE": "12061805005",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "05",
+        "WARD_NAME": "MARAWASA",
+        "LATITUDE": -6.134326,
+        "LONGITUDE": 146.038268,
+        "REGHH": 40,
+        "TOTPOP2000": 247,
+        "MALE2000": 134,
+        "FEMALE2000": 113,
+        "POP2008": 308,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061805005,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

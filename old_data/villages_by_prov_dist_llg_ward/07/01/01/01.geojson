@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.17675899992798,
+          -6.313036000311115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19104,
+        "CU_NAME": "MOLO",
+        "CU_NO": "019",
+        "GEOCODE": "07010101019",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "MOLO",
+        "LATITUDE": -6.317044,
+        "LONGITUDE": 144.176805,
+        "REGHH": 67,
+        "TOTPOP2000": 359,
+        "MALE2000": 191,
+        "FEMALE2000": 168,
+        "POP2008": 499,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010101019,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.17866999992066,
+          -6.314453000005926
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19105,
+        "CU_NAME": "WEIPE",
+        "CU_NO": "020",
+        "GEOCODE": "07010101020",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "MOLO",
+        "LATITUDE": -6.317044,
+        "LONGITUDE": 144.176805,
+        "REGHH": 22,
+        "TOTPOP2000": 102,
+        "MALE2000": 57,
+        "FEMALE2000": 45,
+        "POP2008": 141,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010101020,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.17653899967513,
+          -6.315894999954253
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19106,
+        "CU_NAME": "LAIYO",
+        "CU_NO": "021",
+        "GEOCODE": "07010101021",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "MOLO",
+        "LATITUDE": -6.317044,
+        "LONGITUDE": 144.176805,
+        "REGHH": 23,
+        "TOTPOP2000": 153,
+        "MALE2000": 63,
+        "FEMALE2000": 90,
+        "POP2008": 213,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010101021,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.17391099989277,
+          -6.31376799989323
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19107,
+        "CU_NAME": "NAPENE",
+        "CU_NO": "022",
+        "GEOCODE": "07010101022",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "MOLO",
+        "LATITUDE": -6.317044,
+        "LONGITUDE": 144.176805,
+        "REGHH": 40,
+        "TOTPOP2000": 210,
+        "MALE2000": 104,
+        "FEMALE2000": 106,
+        "POP2008": 292,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010101022,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

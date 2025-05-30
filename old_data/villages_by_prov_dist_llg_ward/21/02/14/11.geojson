@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7126679996286,
+          -5.5857170000394945
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20496,
+        "CU_NAME": "WANGA",
+        "CU_NO": "001",
+        "GEOCODE": "07051411001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "11",
+        "WARD_NAME": "WANGA PAREYA",
+        "LATITUDE": -5.587318,
+        "LONGITUDE": 142.712921,
+        "REGHH": 33,
+        "TOTPOP2000": 228,
+        "MALE2000": 117,
+        "FEMALE2000": 111,
+        "POP2008": 317,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051411001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20497,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.71562100000926,
+          -5.583966000230703
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20497,
+        "CU_NAME": "LANE",
+        "CU_NO": "002",
+        "GEOCODE": "07051411002",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "11",
+        "WARD_NAME": "WANGA PAREYA",
+        "LATITUDE": -5.587318,
+        "LONGITUDE": 142.712921,
+        "REGHH": 42,
+        "TOTPOP2000": 281,
+        "MALE2000": 156,
+        "FEMALE2000": 125,
+        "POP2008": 390,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051411002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.71378099969343,
+          -5.580432000036751
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20498,
+        "CU_NAME": "HEWAKO",
+        "CU_NO": "003",
+        "GEOCODE": "07051411003",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "11",
+        "WARD_NAME": "WANGA PAREYA",
+        "LATITUDE": -5.587318,
+        "LONGITUDE": 142.712921,
+        "REGHH": 31,
+        "TOTPOP2000": 217,
+        "MALE2000": 116,
+        "FEMALE2000": 101,
+        "POP2008": 301,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051411003,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20499,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.70889900028874,
+          -5.582709999866552
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20499,
+        "CU_NAME": "WARAYETUNDI",
+        "CU_NO": "004",
+        "GEOCODE": "07051411004",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "11",
+        "WARD_NAME": "WANGA PAREYA",
+        "LATITUDE": -5.587318,
+        "LONGITUDE": 142.712921,
+        "REGHH": 24,
+        "TOTPOP2000": 143,
+        "MALE2000": 53,
+        "FEMALE2000": 90,
+        "POP2008": 199,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051411004,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

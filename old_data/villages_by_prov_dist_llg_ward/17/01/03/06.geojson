@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12512,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.76059200022075,
+          -2.7703070000679304
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12512,
+        "CU_NAME": "KAVIN 1 & 2 (78)",
+        "CU_NO": "007",
+        "GEOCODE": "17010306007",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "LOKONO",
+        "LATITUDE": -2.769775,
+        "LONGITUDE": 150.760476,
+        "REGHH": 46,
+        "TOTPOP2000": 228,
+        "MALE2000": 122,
+        "FEMALE2000": 106,
+        "POP2008": 287,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010306007,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12513,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.80724100027203,
+          -2.7758009998162265
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12513,
+        "CU_NAME": "LOKONO",
+        "CU_NO": "013",
+        "GEOCODE": "17010306013",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "LOKONO",
+        "LATITUDE": -2.779866,
+        "LONGITUDE": 150.800907,
+        "REGHH": 46,
+        "TOTPOP2000": 208,
+        "MALE2000": 104,
+        "FEMALE2000": 104,
+        "POP2008": 261,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010306013,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

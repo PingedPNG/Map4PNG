@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10987,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.99307700040333,
+          -7.0264719997829275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10987,
+        "CU_NAME": "BUAKAP",
+        "CU_NO": "004",
+        "GEOCODE": "12031014004",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "BUAKAP",
+        "LATITUDE": -7.021349,
+        "LONGITUDE": 146.993158,
+        "REGHH": 121,
+        "TOTPOP2000": 574,
+        "MALE2000": 289,
+        "FEMALE2000": 285,
+        "POP2008": 715,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031014004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10988,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.98132299975669,
+          -7.009764000008545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10988,
+        "CU_NAME": "WOMASU",
+        "CU_NO": "022",
+        "GEOCODE": "12031014022",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "BUAKAP",
+        "LATITUDE": -7.010479,
+        "LONGITUDE": 146.982546,
+        "REGHH": 17,
+        "TOTPOP2000": 114,
+        "MALE2000": 56,
+        "FEMALE2000": 58,
+        "POP2008": 142,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031014022,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16990,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.15128799984143,
+          -5.746880000111844
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16990,
+        "CU_NAME": "BUKAPENA",
+        "CU_NO": "015",
+        "GEOCODE": "09050801015",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "BUKAPENA",
+        "LATITUDE": -5.746469,
+        "LONGITUDE": 144.151006,
+        "REGHH": 181,
+        "TOTPOP2000": 795,
+        "MALE2000": 410,
+        "FEMALE2000": 385,
+        "POP2008": 968,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050801015,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16991,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.14869199973612,
+          -5.7453990001636726
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16991,
+        "CU_NAME": "BUKAPENA STATION",
+        "CU_NO": "401",
+        "GEOCODE": "09050801401",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "BUKAPENA",
+        "LATITUDE": -5.746469,
+        "LONGITUDE": 144.151006,
+        "REGHH": 19,
+        "TOTPOP2000": 86,
+        "MALE2000": 41,
+        "FEMALE2000": 45,
+        "POP2008": 102,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050801401,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

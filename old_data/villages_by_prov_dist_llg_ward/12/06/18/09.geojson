@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11610,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2069889996427,
+          -6.145388999802435
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11610,
+        "CU_NAME": "BANTUL",
+        "CU_NO": "001",
+        "GEOCODE": "12061809001",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "09",
+        "WARD_NAME": "YANUF",
+        "LATITUDE": -6.146802,
+        "LONGITUDE": 146.205955,
+        "REGHH": 16,
+        "TOTPOP2000": 77,
+        "MALE2000": 41,
+        "FEMALE2000": 36,
+        "POP2008": 94,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061809001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.19495599961976,
+          -6.104119999638215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11611,
+        "CU_NAME": "KAPALA",
+        "CU_NO": "003",
+        "GEOCODE": "12061809003",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "09",
+        "WARD_NAME": "YANUF",
+        "LATITUDE": -6.105533,
+        "LONGITUDE": 146.193922,
+        "REGHH": 49,
+        "TOTPOP2000": 211,
+        "MALE2000": 111,
+        "FEMALE2000": 100,
+        "POP2008": 263,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061809003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11612,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1850220001652,
+          -6.103262999687615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11612,
+        "CU_NAME": "MARABUAI (MAMIA)",
+        "CU_NO": "005",
+        "GEOCODE": "12061809005",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "09",
+        "WARD_NAME": "YANUF",
+        "LATITUDE": -6.104676,
+        "LONGITUDE": 146.183988,
+        "REGHH": 22,
+        "TOTPOP2000": 109,
+        "MALE2000": 58,
+        "FEMALE2000": 51,
+        "POP2008": 135,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061809005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11613,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2124660004057,
+          -6.107046999719216
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11613,
+        "CU_NAME": "NGARUGAYAN",
+        "CU_NO": "006",
+        "GEOCODE": "12061809006",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "09",
+        "WARD_NAME": "YANUF",
+        "LATITUDE": -6.10846,
+        "LONGITUDE": 146.211432,
+        "REGHH": 61,
+        "TOTPOP2000": 324,
+        "MALE2000": 168,
+        "FEMALE2000": 156,
+        "POP2008": 404,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061809006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11614,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.20486399967388,
+          -6.136486000228672
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11614,
+        "CU_NAME": "YANUF",
+        "CU_NO": "008",
+        "GEOCODE": "12061809008",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "09",
+        "WARD_NAME": "YANUF",
+        "LATITUDE": -6.137899,
+        "LONGITUDE": 146.20383,
+        "REGHH": 19,
+        "TOTPOP2000": 106,
+        "MALE2000": 57,
+        "FEMALE2000": 49,
+        "POP2008": 131,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061809008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11615,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.19571000021642,
+          -6.120963000242227
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11615,
+        "CU_NAME": "YANUF CAMP",
+        "CU_NO": "401",
+        "GEOCODE": "12061809401",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "09",
+        "WARD_NAME": "YANUF",
+        "LATITUDE": -6.122376,
+        "LONGITUDE": 146.194676,
+        "REGHH": 6,
+        "TOTPOP2000": 27,
+        "MALE2000": 15,
+        "FEMALE2000": 12,
+        "POP2008": 35,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061809401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

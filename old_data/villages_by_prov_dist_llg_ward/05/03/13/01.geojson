@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10178,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.13989400020796,
+          -9.24313999961123
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10178,
+        "CU_NAME": "WAIBULA",
+        "CU_NO": "020",
+        "GEOCODE": "05031301020",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "01",
+        "WARD_NAME": "WAIBULA",
+        "LATITUDE": -9.244596,
+        "LONGITUDE": 150.138908,
+        "REGHH": 34,
+        "TOTPOP2000": 212,
+        "MALE2000": 113,
+        "FEMALE2000": 99,
+        "POP2008": 258,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031301020,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

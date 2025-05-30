@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8617,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6466540000821,
+          -5.321711000362313
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8617,
+        "CU_NAME": "KONGRAU (003)",
+        "CU_NO": "003",
+        "GEOCODE": "13030921003",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "21",
+        "WARD_NAME": "TSUNGUP",
+        "LATITUDE": -5.32006,
+        "LONGITUDE": 144.64663,
+        "REGHH": 63,
+        "TOTPOP2000": 401,
+        "MALE2000": 188,
+        "FEMALE2000": 213,
+        "POP2008": 496,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030921003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8618,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.68975500019314,
+          -5.337621000208969
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8618,
+        "CU_NAME": "TSUNGUP (011)",
+        "CU_NO": "011",
+        "GEOCODE": "13030921011",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "21",
+        "WARD_NAME": "TSUNGUP",
+        "LATITUDE": -5.336494,
+        "LONGITUDE": 144.693796,
+        "REGHH": 62,
+        "TOTPOP2000": 368,
+        "MALE2000": 168,
+        "FEMALE2000": 200,
+        "POP2008": 455,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030921011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8619,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.67727700033333,
+          -5.33634399977575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8619,
+        "CU_NAME": "KOKANGI",
+        "CU_NO": "012",
+        "GEOCODE": "13030921012",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "21",
+        "WARD_NAME": "TSUNGUP",
+        "LATITUDE": -5.325044,
+        "LONGITUDE": 144.67881,
+        "REGHH": 44,
+        "TOTPOP2000": 240,
+        "MALE2000": 122,
+        "FEMALE2000": 118,
+        "POP2008": 297,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030921012,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

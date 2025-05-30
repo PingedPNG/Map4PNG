@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7872,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.144108000384,
+          -4.584595999805515
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7872,
+        "CU_NAME": "MUSIAMUNAT",
+        "CU_NO": "007",
+        "GEOCODE": "13010117007",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "17",
+        "WARD_NAME": "YAKIBA",
+        "LATITUDE": -4.58599,
+        "LONGITUDE": 145.143063,
+        "REGHH": 18,
+        "TOTPOP2000": 105,
+        "MALE2000": 52,
+        "FEMALE2000": 53,
+        "POP2008": 129,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010117007,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.10995700021545,
+          -4.560848000035151
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7873,
+        "CU_NAME": "SANAVAT",
+        "CU_NO": "014",
+        "GEOCODE": "13010117014",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "17",
+        "WARD_NAME": "YAKIBA",
+        "LATITUDE": -4.562242,
+        "LONGITUDE": 145.108911,
+        "REGHH": 26,
+        "TOTPOP2000": 168,
+        "MALE2000": 84,
+        "FEMALE2000": 84,
+        "POP2008": 208,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010117014,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7874,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1263000002449,
+          -4.548965999781046
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7874,
+        "CU_NAME": "YAKIBA",
+        "CU_NO": "021",
+        "GEOCODE": "13010117021",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "17",
+        "WARD_NAME": "YAKIBA",
+        "LATITUDE": -4.553021,
+        "LONGITUDE": 145.122922,
+        "REGHH": 45,
+        "TOTPOP2000": 263,
+        "MALE2000": 158,
+        "FEMALE2000": 105,
+        "POP2008": 325,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010117021,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

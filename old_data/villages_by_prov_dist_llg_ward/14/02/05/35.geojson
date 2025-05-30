@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6333,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.69739200004085,
+          -4.109096000180216
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6333,
+        "CU_NAME": "PAIMBIT",
+        "CU_NO": "009",
+        "GEOCODE": "14020535009",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "35",
+        "WARD_NAME": "PAIMBIT",
+        "LATITUDE": -4.11068,
+        "LONGITUDE": 143.69616,
+        "REGHH": 25,
+        "TOTPOP2000": 167,
+        "MALE2000": 70,
+        "FEMALE2000": 97,
+        "POP2008": 199,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020535009,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6334,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63035100029845,
+          -4.062401999852341
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6334,
+        "CU_NAME": "SARAPA",
+        "CU_NO": "011",
+        "GEOCODE": "14020535011",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "35",
+        "WARD_NAME": "PAIMBIT",
+        "LATITUDE": -4.063985,
+        "LONGITUDE": 143.629118,
+        "REGHH": 13,
+        "TOTPOP2000": 80,
+        "MALE2000": 43,
+        "FEMALE2000": 37,
+        "POP2008": 96,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020535011,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

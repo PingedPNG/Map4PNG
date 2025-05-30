@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9932,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.69604499997683,
+          -10.696906999558337
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9932,
+        "CU_NAME": "GIGIMWANI",
+        "CU_NO": "001",
+        "GEOCODE": "05020916001",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "16",
+        "WARD_NAME": "AWAIBI",
+        "LATITUDE": -10.698386,
+        "LONGITUDE": 152.695093,
+        "REGHH": 27,
+        "TOTPOP2000": 172,
+        "MALE2000": 82,
+        "FEMALE2000": 90,
+        "POP2008": 209,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020916001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9933,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.6979319997621,
+          -10.697467000201868
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9933,
+        "CU_NAME": "SIAKEU",
+        "CU_NO": "002",
+        "GEOCODE": "05020916002",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "16",
+        "WARD_NAME": "AWAIBI",
+        "LATITUDE": -10.699074,
+        "LONGITUDE": 152.695676,
+        "REGHH": 28,
+        "TOTPOP2000": 162,
+        "MALE2000": 84,
+        "FEMALE2000": 78,
+        "POP2008": 197,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020916002,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9934,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.70317200038755,
+          -10.700707000327782
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9934,
+        "CU_NAME": "GULEWA",
+        "CU_NO": "003",
+        "GEOCODE": "05020916003",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "16",
+        "WARD_NAME": "AWAIBI",
+        "LATITUDE": -10.702186,
+        "LONGITUDE": 152.70222,
+        "REGHH": 32,
+        "TOTPOP2000": 193,
+        "MALE2000": 106,
+        "FEMALE2000": 87,
+        "POP2008": 235,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020916003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.7159420002232,
+          -10.70567500010111
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9935,
+        "CU_NAME": "BWAEYAM",
+        "CU_NO": "004",
+        "GEOCODE": "05020916004",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "16",
+        "WARD_NAME": "AWAIBI",
+        "LATITUDE": -10.707154,
+        "LONGITUDE": 152.71499,
+        "REGHH": 31,
+        "TOTPOP2000": 202,
+        "MALE2000": 104,
+        "FEMALE2000": 98,
+        "POP2008": 246,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020916004,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

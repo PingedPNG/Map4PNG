@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18922,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.62572000027785,
+          -2.898609000105239
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18922,
+        "CU_NAME": "POKO",
+        "CU_NO": "009",
+        "GEOCODE": "15041309009",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "09",
+        "WARD_NAME": "POKO",
+        "LATITUDE": -2.889848,
+        "LONGITUDE": 141.615806,
+        "REGHH": 28,
+        "TOTPOP2000": 245,
+        "MALE2000": 128,
+        "FEMALE2000": 117,
+        "POP2008": 296,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041309009,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

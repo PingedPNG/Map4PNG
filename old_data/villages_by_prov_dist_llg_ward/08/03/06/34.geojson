@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5614,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.47523000006447,
+          -5.4876880003009205
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5614,
+        "CU_NAME": "LIOP",
+        "CU_NO": "004",
+        "GEOCODE": "08030634004",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "34",
+        "WARD_NAME": "LIOP",
+        "LATITUDE": -5.489089,
+        "LONGITUDE": 143.474162,
+        "REGHH": 127,
+        "TOTPOP2000": 899,
+        "MALE2000": 500,
+        "FEMALE2000": 399,
+        "POP2008": 1130,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030634004,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

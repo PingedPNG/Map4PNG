@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.13449700003662,
+          -4.24341599984848
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5120,
+        "CU_NAME": "RALUAN NO.1",
+        "CU_NO": "015",
+        "GEOCODE": "18041515015",
+        "PROV_KEY": "18",
+        "DIST_NO": "04",
+        "LLG_NO": "15",
+        "WARD_NO": "15",
+        "WARD_NAME": "RALUAN NO.1",
+        "LATITUDE": -4.244815,
+        "LONGITUDE": 152.133551,
+        "REGHH": 83,
+        "TOTPOP2000": 380,
+        "MALE2000": 200,
+        "FEMALE2000": 180,
+        "POP2008": 462,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18041515015,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

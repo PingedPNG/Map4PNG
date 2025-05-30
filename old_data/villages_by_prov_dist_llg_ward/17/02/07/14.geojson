@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12866,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.6561850000378,
+          -4.443286999795134
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12866,
+        "CU_NAME": "KAIT",
+        "CU_NO": "003",
+        "GEOCODE": "17020714003",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "KAIT",
+        "LATITUDE": -4.445463,
+        "LONGITUDE": 152.655878,
+        "REGHH": 53,
+        "TOTPOP2000": 361,
+        "MALE2000": 195,
+        "FEMALE2000": 166,
+        "POP2008": 453,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020714003,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12867,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.67924899974162,
+          -4.383468000347875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12867,
+        "CU_NAME": "KING",
+        "CU_NO": "004",
+        "GEOCODE": "17020714004",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "KAIT",
+        "LATITUDE": -4.38487,
+        "LONGITUDE": 152.678311,
+        "REGHH": 23,
+        "TOTPOP2000": 108,
+        "MALE2000": 57,
+        "FEMALE2000": 51,
+        "POP2008": 135,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020714004,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12868,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.6783339998143,
+          -4.415727999647402
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12868,
+        "CU_NAME": "KABASILAIO",
+        "CU_NO": "005",
+        "GEOCODE": "17020714005",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "KAIT",
+        "LATITUDE": -4.41713,
+        "LONGITUDE": 152.677396,
+        "REGHH": 34,
+        "TOTPOP2000": 187,
+        "MALE2000": 91,
+        "FEMALE2000": 96,
+        "POP2008": 235,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020714005,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

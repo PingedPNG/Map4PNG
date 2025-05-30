@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20883,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.80321200043352,
+          -5.726728999843431
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20883,
+        "CU_NAME": "MARIA",
+        "CU_NO": "011",
+        "GEOCODE": "07051713011",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "13",
+        "WARD_NAME": "MARIA",
+        "LATITUDE": -5.730973,
+        "LONGITUDE": 142.803472,
+        "REGHH": 219,
+        "TOTPOP2000": 1295,
+        "MALE2000": 667,
+        "FEMALE2000": 628,
+        "POP2008": 1801,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051713011,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

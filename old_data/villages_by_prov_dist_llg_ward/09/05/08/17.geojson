@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17011,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.18335500013325,
+          -5.641221000149017
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17011,
+        "CU_NAME": "PULTIMP",
+        "CU_NO": "027",
+        "GEOCODE": "09050817027",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "17",
+        "WARD_NAME": "MABULGA.4",
+        "LATITUDE": -5.642157,
+        "LONGITUDE": 144.183688,
+        "REGHH": 65,
+        "TOTPOP2000": 271,
+        "MALE2000": 132,
+        "FEMALE2000": 139,
+        "POP2008": 330,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050817027,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17012,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.17363000042428,
+          -5.769216000418055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17012,
+        "CU_NAME": "KURUMUL",
+        "CU_NO": "028",
+        "GEOCODE": "09050817028",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "17",
+        "WARD_NAME": "MABULGA.4",
+        "LATITUDE": -5.770155,
+        "LONGITUDE": 144.173962,
+        "REGHH": 66,
+        "TOTPOP2000": 251,
+        "MALE2000": 125,
+        "FEMALE2000": 126,
+        "POP2008": 305,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050817028,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

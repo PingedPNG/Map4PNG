@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16987,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.81806499970003,
+          -5.573126000364596
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16987,
+        "CU_NAME": "KUKAPANG",
+        "CU_NO": "025",
+        "GEOCODE": "09040725025",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "25",
+        "WARD_NAME": "JUNK ARAL",
+        "LATITUDE": -5.552785,
+        "LONGITUDE": 144.79965,
+        "REGHH": 48,
+        "TOTPOP2000": 239,
+        "MALE2000": 136,
+        "FEMALE2000": 103,
+        "POP2008": 291,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040725025,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16988,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.79593800003875,
+          -5.57090200032701
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16988,
+        "CU_NAME": "MAIPKA YANGALI",
+        "CU_NO": "026",
+        "GEOCODE": "09040725026",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "25",
+        "WARD_NAME": "JUNK ARAL",
+        "LATITUDE": -5.552785,
+        "LONGITUDE": 144.79965,
+        "REGHH": 13,
+        "TOTPOP2000": 50,
+        "MALE2000": 32,
+        "FEMALE2000": 18,
+        "POP2008": 58,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040725026,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16989,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.78142900004843,
+          -5.556258000406331
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16989,
+        "CU_NAME": "FOROKO",
+        "CU_NO": "027",
+        "GEOCODE": "09040725027",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "25",
+        "WARD_NAME": "JUNK ARAL",
+        "LATITUDE": -5.552785,
+        "LONGITUDE": 144.79965,
+        "REGHH": 59,
+        "TOTPOP2000": 301,
+        "MALE2000": 150,
+        "FEMALE2000": 151,
+        "POP2008": 368,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040725027,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7201,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.96411300011493,
+          -3.813364999794885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7201,
+        "CU_NAME": "BANGLEKO",
+        "CU_NO": "002",
+        "GEOCODE": "14052224002",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "22",
+        "WARD_NO": "24",
+        "WARD_NAME": "JIPMAKO",
+        "LATITUDE": -3.814945,
+        "LONGITUDE": 142.962871,
+        "REGHH": 64,
+        "TOTPOP2000": 344,
+        "MALE2000": 165,
+        "FEMALE2000": 179,
+        "POP2008": 410,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052224002,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7202,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.96605799987685,
+          -3.8054610004247706
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7202,
+        "CU_NAME": "JIPMAKO",
+        "CU_NO": "003",
+        "GEOCODE": "14052224003",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "22",
+        "WARD_NO": "24",
+        "WARD_NAME": "JIPMAKO",
+        "LATITUDE": -3.807041,
+        "LONGITUDE": 142.964816,
+        "REGHH": 33,
+        "TOTPOP2000": 162,
+        "MALE2000": 77,
+        "FEMALE2000": 85,
+        "POP2008": 194,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052224003,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7203,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.965065999996,
+          -3.8085170001593838
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7203,
+        "CU_NAME": "YAMBIKO",
+        "CU_NO": "022",
+        "GEOCODE": "14052224022",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "22",
+        "WARD_NO": "24",
+        "WARD_NAME": "JIPMAKO",
+        "LATITUDE": -3.809576,
+        "LONGITUDE": 142.968396,
+        "REGHH": 73,
+        "TOTPOP2000": 393,
+        "MALE2000": 202,
+        "FEMALE2000": 191,
+        "POP2008": 468,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052224022,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7328,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.31626599977608,
+          -3.9886889999972936
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7328,
+        "CU_NAME": "BELMO",
+        "CU_NO": "002",
+        "GEOCODE": "14062511002",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "25",
+        "WARD_NO": "11",
+        "WARD_NAME": "WERIMAN",
+        "LATITUDE": -3.979739,
+        "LONGITUDE": 143.314998,
+        "REGHH": 21,
+        "TOTPOP2000": 101,
+        "MALE2000": 51,
+        "FEMALE2000": 50,
+        "POP2008": 118,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062511002,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7329,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.38489800004277,
+          -3.966082999830519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7329,
+        "CU_NAME": "MANGEN",
+        "CU_NO": "003",
+        "GEOCODE": "14062511003",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "25",
+        "WARD_NO": "11",
+        "WARD_NAME": "WERIMAN",
+        "LATITUDE": -3.978227,
+        "LONGITUDE": 143.373205,
+        "REGHH": 19,
+        "TOTPOP2000": 74,
+        "MALE2000": 37,
+        "FEMALE2000": 37,
+        "POP2008": 90,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062511003,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7330,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.35714499994185,
+          -3.971919000061746
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7330,
+        "CU_NAME": "WERIMAN",
+        "CU_NO": "043",
+        "GEOCODE": "14062511043",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "25",
+        "WARD_NO": "11",
+        "WARD_NAME": "WERIMAN",
+        "LATITUDE": -3.964472,
+        "LONGITUDE": 143.356382,
+        "REGHH": 25,
+        "TOTPOP2000": 114,
+        "MALE2000": 57,
+        "FEMALE2000": 57,
+        "POP2008": 138,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062511043,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7331,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.38152400003264,
+          -3.976885999789033
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7331,
+        "CU_NAME": "SOTANGE",
+        "CU_NO": "063",
+        "GEOCODE": "14062511063",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "25",
+        "WARD_NO": "11",
+        "WARD_NAME": "WERIMAN",
+        "LATITUDE": -3.978468,
+        "LONGITUDE": 143.380287,
+        "REGHH": 11,
+        "TOTPOP2000": 48,
+        "MALE2000": 27,
+        "FEMALE2000": 21,
+        "POP2008": 56,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062511063,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

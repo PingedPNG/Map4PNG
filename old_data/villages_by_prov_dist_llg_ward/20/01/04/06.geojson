@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 189,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.65009800042242,
+          -5.023727000400697
+        ]
+      },
+      "properties": {
+        "OBJECTID": 189,
+        "CU_NAME": "ELTUPAN",
+        "CU_NO": "001",
+        "GEOCODE": "20010406001",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "06",
+        "WARD_NAME": "HAKU",
+        "LATITUDE": -5.02514,
+        "LONGITUDE": 154.649189,
+        "REGHH": 129,
+        "TOTPOP2000": 940,
+        "MALE2000": 471,
+        "FEMALE2000": 469,
+        "POP2008": 1059,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010406001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 190,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.64336300010245,
+          -5.014614000135964
+        ]
+      },
+      "properties": {
+        "OBJECTID": 190,
+        "CU_NAME": "HANPAN",
+        "CU_NO": "002",
+        "GEOCODE": "20010406002",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "06",
+        "WARD_NAME": "HAKU",
+        "LATITUDE": -5.014858,
+        "LONGITUDE": 154.642784,
+        "REGHH": 52,
+        "TOTPOP2000": 417,
+        "MALE2000": 212,
+        "FEMALE2000": 205,
+        "POP2008": 470,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010406002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 191,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.59867000032034,
+          -5.017510999732792
+        ]
+      },
+      "properties": {
+        "OBJECTID": 191,
+        "CU_NAME": "TANAMALO",
+        "CU_NO": "003",
+        "GEOCODE": "20010406003",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "06",
+        "WARD_NAME": "HAKU",
+        "LATITUDE": -5.018924,
+        "LONGITUDE": 154.597761,
+        "REGHH": 84,
+        "TOTPOP2000": 646,
+        "MALE2000": 328,
+        "FEMALE2000": 318,
+        "POP2008": 728,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010406003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 192,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.5893090003102,
+          -5.031787999816288
+        ]
+      },
+      "properties": {
+        "OBJECTID": 192,
+        "CU_NAME": "LEMANMANU",
+        "CU_NO": "004",
+        "GEOCODE": "20010406004",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "06",
+        "WARD_NAME": "HAKU",
+        "LATITUDE": -5.033201,
+        "LONGITUDE": 154.588399,
+        "REGHH": 282,
+        "TOTPOP2000": 1962,
+        "MALE2000": 986,
+        "FEMALE2000": 976,
+        "POP2008": 2210,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010406004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 193,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.5684750000213,
+          -5.0537140001009675
+        ]
+      },
+      "properties": {
+        "OBJECTID": 193,
+        "CU_NAME": "LEMANKOA",
+        "CU_NO": "005",
+        "GEOCODE": "20010406005",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "06",
+        "WARD_NAME": "HAKU",
+        "LATITUDE": -5.055128,
+        "LONGITUDE": 154.567565,
+        "REGHH": 320,
+        "TOTPOP2000": 2219,
+        "MALE2000": 1159,
+        "FEMALE2000": 1060,
+        "POP2008": 2499,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010406005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 194,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.54077000033533,
+          -5.083419000286597
+        ]
+      },
+      "properties": {
+        "OBJECTID": 194,
+        "CU_NAME": "LONTIS",
+        "CU_NO": "006",
+        "GEOCODE": "20010406006",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "06",
+        "WARD_NAME": "HAKU",
+        "LATITUDE": -5.084833,
+        "LONGITUDE": 154.53986,
+        "REGHH": 256,
+        "TOTPOP2000": 1991,
+        "MALE2000": 1020,
+        "FEMALE2000": 971,
+        "POP2008": 2243,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010406006,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

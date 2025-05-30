@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16996,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.15060799995933,
+          -5.714402999798551
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16996,
+        "CU_NAME": "KALINGA 1",
+        "CU_NO": "019",
+        "GEOCODE": "09050805019",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "KALINGA 1",
+        "LATITUDE": -5.71534,
+        "LONGITUDE": 144.15094,
+        "REGHH": 120,
+        "TOTPOP2000": 488,
+        "MALE2000": 240,
+        "FEMALE2000": 248,
+        "POP2008": 595,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050805019,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18966,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.38191599962374,
+          -2.962862999927438
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18966,
+        "CU_NAME": "IMBRINIS",
+        "CU_NO": "003",
+        "GEOCODE": "15041326003",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "26",
+        "WARD_NAME": "IMBRINIS",
+        "LATITUDE": -2.964235,
+        "LONGITUDE": 141.380826,
+        "REGHH": 48,
+        "TOTPOP2000": 394,
+        "MALE2000": 198,
+        "FEMALE2000": 196,
+        "POP2008": 476,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041326003,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

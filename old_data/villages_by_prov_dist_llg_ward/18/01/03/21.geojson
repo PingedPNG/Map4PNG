@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4561,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.51607199962314,
+          -4.300745999628134
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4561,
+        "CU_NAME": "MANIMBU PLNT",
+        "CU_NO": "514",
+        "GEOCODE": "18010321514",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "MOROKINDAM",
+        "LATITUDE": -4.302145,
+        "LONGITUDE": 151.515116,
+        "REGHH": 8,
+        "TOTPOP2000": 80,
+        "MALE2000": 63,
+        "FEMALE2000": 17,
+        "POP2008": 96,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010321514,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4562,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.5197049998859,
+          -4.286203999914619
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4562,
+        "CU_NAME": "SEREGI LOGGING",
+        "CU_NO": "515",
+        "GEOCODE": "18010321515",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "MOROKINDAM",
+        "LATITUDE": -4.287603,
+        "LONGITUDE": 151.518749,
+        "REGHH": 21,
+        "TOTPOP2000": 143,
+        "MALE2000": 96,
+        "FEMALE2000": 47,
+        "POP2008": 175,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010321515,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

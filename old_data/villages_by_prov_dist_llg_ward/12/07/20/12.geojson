@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.35918399984178,
+          -7.471210999987591
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11873,
+        "CU_NAME": "HAWIAWETO",
+        "CU_NO": "006",
+        "GEOCODE": "12072012006",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "12",
+        "WARD_NAME": "MEKINI",
+        "LATITUDE": -7.472639,
+        "LONGITUDE": 146.358149,
+        "REGHH": 47,
+        "TOTPOP2000": 256,
+        "MALE2000": 122,
+        "FEMALE2000": 134,
+        "POP2008": 319,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072012006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11874,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.31363300006296,
+          -7.4626370002972635
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11874,
+        "CU_NAME": "MEKINI",
+        "CU_NO": "012",
+        "GEOCODE": "12072012012",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "12",
+        "WARD_NAME": "MEKINI",
+        "LATITUDE": -7.466161,
+        "LONGITUDE": 146.315738,
+        "REGHH": 34,
+        "TOTPOP2000": 209,
+        "MALE2000": 108,
+        "FEMALE2000": 101,
+        "POP2008": 261,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072012012,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11875,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.26633099957598,
+          -7.478844000350307
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11875,
+        "CU_NAME": "TANGISAWA",
+        "CU_NO": "015",
+        "GEOCODE": "12072012015",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "12",
+        "WARD_NAME": "MEKINI",
+        "LATITUDE": -7.480272,
+        "LONGITUDE": 146.265295,
+        "REGHH": 19,
+        "TOTPOP2000": 108,
+        "MALE2000": 45,
+        "FEMALE2000": 63,
+        "POP2008": 134,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072012015,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11876,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2608800000121,
+          -7.470406999783165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11876,
+        "CU_NAME": "TANGONGDIA",
+        "CU_NO": "016",
+        "GEOCODE": "12072012016",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "12",
+        "WARD_NAME": "MEKINI",
+        "LATITUDE": -7.471836,
+        "LONGITUDE": 146.259844,
+        "REGHH": 36,
+        "TOTPOP2000": 208,
+        "MALE2000": 106,
+        "FEMALE2000": 102,
+        "POP2008": 259,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072012016,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11877,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.334044999777,
+          -7.456719999927998
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11877,
+        "CU_NAME": "TAWAINI",
+        "CU_NO": "017",
+        "GEOCODE": "12072012017",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "12",
+        "WARD_NAME": "MEKINI",
+        "LATITUDE": -7.458148,
+        "LONGITUDE": 146.33301,
+        "REGHH": 27,
+        "TOTPOP2000": 126,
+        "MALE2000": 67,
+        "FEMALE2000": 59,
+        "POP2008": 158,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072012017,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

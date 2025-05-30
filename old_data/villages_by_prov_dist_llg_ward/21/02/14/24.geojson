@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20546,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7386269997363,
+          -5.420509999636749
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20546,
+        "CU_NAME": "WALUNI/TARANE",
+        "CU_NO": "001",
+        "GEOCODE": "07051424001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "24",
+        "WARD_NAME": "WALUNI/TARANE",
+        "LATITUDE": -5.41943,
+        "LONGITUDE": 142.745076,
+        "REGHH": 39,
+        "TOTPOP2000": 214,
+        "MALE2000": 126,
+        "FEMALE2000": 88,
+        "POP2008": 298,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051424001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20547,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.74213599967675,
+          -5.408193000006918
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20547,
+        "CU_NAME": "TARANE AYENE",
+        "CU_NO": "002",
+        "GEOCODE": "07051424002",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "24",
+        "WARD_NAME": "WALUNI/TARANE",
+        "LATITUDE": -5.414373,
+        "LONGITUDE": 142.740561,
+        "REGHH": 23,
+        "TOTPOP2000": 108,
+        "MALE2000": 57,
+        "FEMALE2000": 51,
+        "POP2008": 151,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051424002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20548,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.73324299966475,
+          -5.4055729996941295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20548,
+        "CU_NAME": "KUNDU RALIAPE",
+        "CU_NO": "003",
+        "GEOCODE": "07051424003",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "24",
+        "WARD_NAME": "WALUNI/TARANE",
+        "LATITUDE": -5.414935,
+        "LONGITUDE": 142.745075,
+        "REGHH": 17,
+        "TOTPOP2000": 87,
+        "MALE2000": 34,
+        "FEMALE2000": 53,
+        "POP2008": 121,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051424003,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20549,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7329390000349,
+          -5.396193999753223
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20549,
+        "CU_NAME": "SINDAWNA",
+        "CU_NO": "004",
+        "GEOCODE": "07051424004",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "24",
+        "WARD_NAME": "WALUNI/TARANE",
+        "LATITUDE": -5.411283,
+        "LONGITUDE": 142.745358,
+        "REGHH": 33,
+        "TOTPOP2000": 167,
+        "MALE2000": 85,
+        "FEMALE2000": 82,
+        "POP2008": 232,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051424004,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

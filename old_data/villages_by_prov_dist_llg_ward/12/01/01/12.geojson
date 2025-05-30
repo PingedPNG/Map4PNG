@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10357,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6249630003423,
+          -6.838514999767369
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10357,
+        "CU_NAME": "GURAKOR",
+        "CU_NO": "004",
+        "GEOCODE": "12010112004",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "12",
+        "WARD_NAME": "GURAKOR",
+        "LATITUDE": -6.842144,
+        "LONGITUDE": 146.620062,
+        "REGHH": 123,
+        "TOTPOP2000": 723,
+        "MALE2000": 387,
+        "FEMALE2000": 336,
+        "POP2008": 902,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010112004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10358,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.617008000419,
+          -6.850293999768212
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10358,
+        "CU_NAME": "BUNDUN CON. CENTRE",
+        "CU_NO": "401",
+        "GEOCODE": "12010112401",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "12",
+        "WARD_NAME": "GURAKOR",
+        "LATITUDE": -6.851716,
+        "LONGITUDE": 146.615978,
+        "REGHH": 37,
+        "TOTPOP2000": 234,
+        "MALE2000": 120,
+        "FEMALE2000": 114,
+        "POP2008": 293,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010112401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12698,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8242079998994,
+          -3.9239189997620088
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12698,
+        "CU_NAME": "HIPAKAT",
+        "CU_NO": "007",
+        "GEOCODE": "17020519007",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "19",
+        "WARD_NAME": "HIPAKAT",
+        "LATITUDE": -3.925315,
+        "LONGITUDE": 152.823272,
+        "REGHH": 31,
+        "TOTPOP2000": 146,
+        "MALE2000": 73,
+        "FEMALE2000": 73,
+        "POP2008": 183,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020519007,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12699,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.83277500016618,
+          -3.9477339999240826
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12699,
+        "CU_NAME": "KAPSEL",
+        "CU_NO": "010",
+        "GEOCODE": "17020519010",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "19",
+        "WARD_NAME": "HIPAKAT",
+        "LATITUDE": -3.949725,
+        "LONGITUDE": 152.835388,
+        "REGHH": 37,
+        "TOTPOP2000": 213,
+        "MALE2000": 115,
+        "FEMALE2000": 98,
+        "POP2008": 268,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020519010,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12700,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.82403199987698,
+          -3.9301779997148856
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12700,
+        "CU_NAME": "SAMO",
+        "CU_NO": "024",
+        "GEOCODE": "17020519024",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "19",
+        "WARD_NAME": "HIPAKAT",
+        "LATITUDE": -3.931574,
+        "LONGITUDE": 152.824426,
+        "REGHH": 78,
+        "TOTPOP2000": 401,
+        "MALE2000": 205,
+        "FEMALE2000": 196,
+        "POP2008": 504,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020519024,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12701,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.84072199972059,
+          -3.9525790003205543
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12701,
+        "CU_NAME": "SUSURUNGA C/ SCH",
+        "CU_NO": "401",
+        "GEOCODE": "17020519401",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "19",
+        "WARD_NAME": "HIPAKAT",
+        "LATITUDE": -3.953381,
+        "LONGITUDE": 152.840675,
+        "REGHH": 1,
+        "TOTPOP2000": 7,
+        "MALE2000": 4,
+        "FEMALE2000": 3,
+        "POP2008": 7,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020519401,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

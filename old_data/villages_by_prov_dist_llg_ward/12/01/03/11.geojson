@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10508,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6816920002857,
+          -7.168886000388568
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10508,
+        "CU_NAME": "DENGELU",
+        "CU_NO": "004",
+        "GEOCODE": "12010311004",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "KEBI",
+        "LATITUDE": -7.170311,
+        "LONGITUDE": 146.680662,
+        "REGHH": 64,
+        "TOTPOP2000": 334,
+        "MALE2000": 197,
+        "FEMALE2000": 137,
+        "POP2008": 416,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010311004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10509,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.67715999993413,
+          -7.1993919997409535
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10509,
+        "CU_NAME": "KEBI",
+        "CU_NO": "401",
+        "GEOCODE": "12010311401",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "KEBI",
+        "LATITUDE": -7.200818,
+        "LONGITUDE": 146.67613,
+        "REGHH": 62,
+        "TOTPOP2000": 364,
+        "MALE2000": 183,
+        "FEMALE2000": 181,
+        "POP2008": 453,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010311401,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10510,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.65616700040675,
+          -7.206644999666935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10510,
+        "CU_NAME": "SIAPAN",
+        "CU_NO": "402",
+        "GEOCODE": "12010311402",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "KEBI",
+        "LATITUDE": -7.208071,
+        "LONGITUDE": 146.655137,
+        "REGHH": 38,
+        "TOTPOP2000": 236,
+        "MALE2000": 121,
+        "FEMALE2000": 115,
+        "POP2008": 295,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010311402,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10511,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.65939199984098,
+          -7.201956000169218
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10511,
+        "CU_NAME": "SIAPAN NO.2",
+        "CU_NO": "403",
+        "GEOCODE": "12010311403",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "KEBI",
+        "LATITUDE": -7.203382,
+        "LONGITUDE": 146.658362,
+        "REGHH": 54,
+        "TOTPOP2000": 322,
+        "MALE2000": 162,
+        "FEMALE2000": 160,
+        "POP2008": 402,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010311403,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10512,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.66012799960754,
+          -7.217995999715583
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10512,
+        "CU_NAME": "YAMAP NO. 1,2 & 3",
+        "CU_NO": "404",
+        "GEOCODE": "12010311404",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "KEBI",
+        "LATITUDE": -7.219422,
+        "LONGITUDE": 146.659098,
+        "REGHH": 54,
+        "TOTPOP2000": 285,
+        "MALE2000": 141,
+        "FEMALE2000": 144,
+        "POP2008": 355,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010311404,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

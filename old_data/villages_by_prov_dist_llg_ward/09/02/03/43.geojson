@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16440,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.33069500037402,
+          -5.643082999680644
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16440,
+        "CU_NAME": "BENGAL",
+        "CU_NO": "001",
+        "GEOCODE": "09020343001",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "43",
+        "WARD_NAME": "BENGAL",
+        "LATITUDE": -5.644018,
+        "LONGITUDE": 144.33103,
+        "REGHH": 58,
+        "TOTPOP2000": 238,
+        "MALE2000": 110,
+        "FEMALE2000": 128,
+        "POP2008": 290,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020343001,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16441,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.30818400009161,
+          -5.6537899997086924
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16441,
+        "CU_NAME": "POKI",
+        "CU_NO": "002",
+        "GEOCODE": "09020343002",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "43",
+        "WARD_NAME": "BENGAL",
+        "LATITUDE": -5.654727,
+        "LONGITUDE": 144.308518,
+        "REGHH": 57,
+        "TOTPOP2000": 212,
+        "MALE2000": 106,
+        "FEMALE2000": 106,
+        "POP2008": 258,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020343002,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16442,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.308978999881,
+          -5.657403999994585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16442,
+        "CU_NAME": "KENTAL",
+        "CU_NO": "003",
+        "GEOCODE": "09020343003",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "43",
+        "WARD_NAME": "BENGAL",
+        "LATITUDE": -5.658341,
+        "LONGITUDE": 144.309313,
+        "REGHH": 39,
+        "TOTPOP2000": 215,
+        "MALE2000": 103,
+        "FEMALE2000": 112,
+        "POP2008": 261,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020343003,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16443,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3130679995886,
+          -5.657661000154974
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16443,
+        "CU_NAME": "KRAM",
+        "CU_NO": "004",
+        "GEOCODE": "09020343004",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "43",
+        "WARD_NAME": "BENGAL",
+        "LATITUDE": -5.660389,
+        "LONGITUDE": 144.310329,
+        "REGHH": 40,
+        "TOTPOP2000": 165,
+        "MALE2000": 94,
+        "FEMALE2000": 71,
+        "POP2008": 201,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020343004,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16444,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.32154400015554,
+          -5.663330999925677
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16444,
+        "CU_NAME": "PILGPI",
+        "CU_NO": "005",
+        "GEOCODE": "09020343005",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "43",
+        "WARD_NAME": "BENGAL",
+        "LATITUDE": -5.662408,
+        "LONGITUDE": 144.309994,
+        "REGHH": 24,
+        "TOTPOP2000": 103,
+        "MALE2000": 40,
+        "FEMALE2000": 63,
+        "POP2008": 127,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020343005,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

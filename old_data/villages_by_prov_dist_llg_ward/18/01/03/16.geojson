@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.81231700032936,
+          -4.2224739999750796
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4552,
+        "CU_NAME": "NAVUI / MAMAPIT",
+        "CU_NO": "513",
+        "GEOCODE": "18010316513",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "16",
+        "WARD_NAME": "NAVUI / MAMPIT",
+        "LATITUDE": -4.223873,
+        "LONGITUDE": 151.811366,
+        "REGHH": 99,
+        "TOTPOP2000": 546,
+        "MALE2000": 291,
+        "FEMALE2000": 255,
+        "POP2008": 665,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010316513,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

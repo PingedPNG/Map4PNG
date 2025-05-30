@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6711,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.14579500033904,
+          -3.62507100042626
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6711,
+        "CU_NAME": "YAMIL 1",
+        "CU_NO": "011",
+        "GEOCODE": "14031310011",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "10",
+        "WARD_NAME": "YAMIL 1",
+        "LATITUDE": -3.626649,
+        "LONGITUDE": 143.144557,
+        "REGHH": 55,
+        "TOTPOP2000": 295,
+        "MALE2000": 151,
+        "FEMALE2000": 144,
+        "POP2008": 351,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031310011,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6712,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.13370100020109,
+          -3.6348200003426996
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6712,
+        "CU_NAME": "YAMIL 2",
+        "CU_NO": "012",
+        "GEOCODE": "14031310012",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "10",
+        "WARD_NAME": "YAMIL 1",
+        "LATITUDE": -3.636398,
+        "LONGITUDE": 143.132463,
+        "REGHH": 82,
+        "TOTPOP2000": 423,
+        "MALE2000": 216,
+        "FEMALE2000": 207,
+        "POP2008": 504,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031310012,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6713,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1512710001566,
+          -3.626101000260917
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6713,
+        "CU_NAME": "YAMIL 3",
+        "CU_NO": "013",
+        "GEOCODE": "14031310013",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "10",
+        "WARD_NAME": "YAMIL 1",
+        "LATITUDE": -3.627679,
+        "LONGITUDE": 143.150033,
+        "REGHH": 34,
+        "TOTPOP2000": 180,
+        "MALE2000": 88,
+        "FEMALE2000": 92,
+        "POP2008": 213,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031310013,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

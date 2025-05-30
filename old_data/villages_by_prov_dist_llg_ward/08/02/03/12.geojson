@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5401,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.67924400041034,
+          -5.417406000386563
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5401,
+        "CU_NAME": "TSIKIRO",
+        "CU_NO": "012",
+        "GEOCODE": "08020312012",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "TSIKIRO",
+        "LATITUDE": -5.419305,
+        "LONGITUDE": 143.679286,
+        "REGHH": 62,
+        "TOTPOP2000": 288,
+        "MALE2000": 149,
+        "FEMALE2000": 139,
+        "POP2008": 362,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020312012,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5402,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6839400002309,
+          -5.411855999854481
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5402,
+        "CU_NAME": "KIPIPRES",
+        "CU_NO": "013",
+        "GEOCODE": "08020312013",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "TSIKIRO",
+        "LATITUDE": -5.413257,
+        "LONGITUDE": 143.682875,
+        "REGHH": 97,
+        "TOTPOP2000": 408,
+        "MALE2000": 213,
+        "FEMALE2000": 195,
+        "POP2008": 513,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020312013,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5403,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.67993599994645,
+          -5.414987000349754
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5403,
+        "CU_NAME": "TSIKIRO MSSN & C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "08020312401",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "TSIKIRO",
+        "LATITUDE": -5.419305,
+        "LONGITUDE": 143.679286,
+        "REGHH": 9,
+        "TOTPOP2000": 40,
+        "MALE2000": 22,
+        "FEMALE2000": 18,
+        "POP2008": 48,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020312401,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

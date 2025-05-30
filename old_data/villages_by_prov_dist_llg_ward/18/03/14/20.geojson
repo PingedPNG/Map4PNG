@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5065,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.12773899975514,
+          -5.669697000316262
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5065,
+        "CU_NAME": "POKAPUNA",
+        "CU_NO": "019",
+        "GEOCODE": "18031420019",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "20",
+        "WARD_NAME": "POKAPUNA",
+        "LATITUDE": -5.671114,
+        "LONGITUDE": 151.126775,
+        "REGHH": 40,
+        "TOTPOP2000": 145,
+        "MALE2000": 66,
+        "FEMALE2000": 79,
+        "POP2008": 177,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031420019,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

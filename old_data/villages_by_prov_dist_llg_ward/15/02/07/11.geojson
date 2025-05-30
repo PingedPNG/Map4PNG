@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18637,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.09251599961374,
+          -3.602078000399331
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18637,
+        "CU_NAME": "WARIN",
+        "CU_NO": "014",
+        "GEOCODE": "15020711014",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARIN/WITAILI",
+        "LATITUDE": -3.599212,
+        "LONGITUDE": 142.093699,
+        "REGHH": 51,
+        "TOTPOP2000": 259,
+        "MALE2000": 132,
+        "FEMALE2000": 127,
+        "POP2008": 313,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020711014,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18638,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.05261999981326,
+          -3.575170999741772
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18638,
+        "CU_NAME": "WITAILI",
+        "CU_NO": "015",
+        "GEOCODE": "15020711015",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARIN/WITAILI",
+        "LATITUDE": -3.568526,
+        "LONGITUDE": 142.047034,
+        "REGHH": 22,
+        "TOTPOP2000": 126,
+        "MALE2000": 61,
+        "FEMALE2000": 65,
+        "POP2008": 151,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020711015,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18639,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0734289998485,
+          -3.5532790001257126
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18639,
+        "CU_NAME": "YUTABI",
+        "CU_NO": "022",
+        "GEOCODE": "15020711022",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARIN/WITAILI",
+        "LATITUDE": -3.554658,
+        "LONGITUDE": 142.072347,
+        "REGHH": 21,
+        "TOTPOP2000": 127,
+        "MALE2000": 64,
+        "FEMALE2000": 63,
+        "POP2008": 152,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020711022,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

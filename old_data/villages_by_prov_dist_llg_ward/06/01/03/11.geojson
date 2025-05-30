@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.30848899986756,
+          -9.115902000077199
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13263,
+        "CU_NAME": "KORUWO",
+        "CU_NO": "015",
+        "GEOCODE": "06010311015",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "TAHAMA",
+        "LATITUDE": -9.117352,
+        "LONGITUDE": 148.307477,
+        "REGHH": 50,
+        "TOTPOP2000": 233,
+        "MALE2000": 122,
+        "FEMALE2000": 111,
+        "POP2008": 288,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010311015,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13264,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.29669700016655,
+          -9.160540000020944
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13264,
+        "CU_NAME": "TAHAMA",
+        "CU_NO": "027",
+        "GEOCODE": "06010311027",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "TAHAMA",
+        "LATITUDE": -9.16199,
+        "LONGITUDE": 148.295685,
+        "REGHH": 58,
+        "TOTPOP2000": 304,
+        "MALE2000": 140,
+        "FEMALE2000": 164,
+        "POP2008": 376,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010311027,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.31674800032,
+          -9.182786999820166
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13265,
+        "CU_NAME": "JAWAE",
+        "CU_NO": "028",
+        "GEOCODE": "06010311028",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "TAHAMA",
+        "LATITUDE": -9.18491,
+        "LONGITUDE": 148.31849,
+        "REGHH": 8,
+        "TOTPOP2000": 54,
+        "MALE2000": 26,
+        "FEMALE2000": 28,
+        "POP2008": 68,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010311028,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.29754299960985,
+          -9.145769999685683
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13266,
+        "CU_NAME": "KAIVITAMA",
+        "CU_NO": "029",
+        "GEOCODE": "06010311029",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "TAHAMA",
+        "LATITUDE": -9.14722,
+        "LONGITUDE": 148.296531,
+        "REGHH": 17,
+        "TOTPOP2000": 66,
+        "MALE2000": 31,
+        "FEMALE2000": 35,
+        "POP2008": 82,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010311029,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3337860000239,
+          -9.464516000213166
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13267,
+        "CU_NAME": "BAREJE",
+        "CU_NO": "403",
+        "GEOCODE": "06010311403",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "TAHAMA",
+        "LATITUDE": -9.465969,
+        "LONGITUDE": 148.332773,
+        "REGHH": 8,
+        "TOTPOP2000": 41,
+        "MALE2000": 18,
+        "FEMALE2000": 23,
+        "POP2008": 49,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010311403,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

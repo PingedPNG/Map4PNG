@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7077,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0309169997198,
+          -4.055315000386884
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7077,
+        "CU_NAME": "PAGWI STATION",
+        "CU_NO": "001",
+        "GEOCODE": "14052003001",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "20",
+        "WARD_NO": "03",
+        "WARD_NAME": "PAGWI",
+        "LATITUDE": -4.056899,
+        "LONGITUDE": 143.029677,
+        "REGHH": 32,
+        "TOTPOP2000": 196,
+        "MALE2000": 110,
+        "FEMALE2000": 86,
+        "POP2008": 233,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052003001,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

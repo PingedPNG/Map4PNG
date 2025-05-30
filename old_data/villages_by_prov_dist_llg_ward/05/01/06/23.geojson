@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9807,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.93022699997618,
+          -10.524512999575222
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9807,
+        "CU_NAME": "DAHUNI",
+        "CU_NO": "007",
+        "GEOCODE": "05010623007",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "DAHUNI",
+        "LATITUDE": -10.520792,
+        "LONGITUDE": 149.925324,
+        "REGHH": 60,
+        "TOTPOP2000": 403,
+        "MALE2000": 214,
+        "FEMALE2000": 189,
+        "POP2008": 491,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010623007,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9808,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.8955750000863,
+          -10.417651999939778
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9808,
+        "CU_NAME": "MARAIAWATE ESTATE",
+        "CU_NO": "401",
+        "GEOCODE": "05010623401",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "DAHUNI",
+        "LATITUDE": -10.41912,
+        "LONGITUDE": 149.894582,
+        "REGHH": 52,
+        "TOTPOP2000": 221,
+        "MALE2000": 160,
+        "FEMALE2000": 61,
+        "POP2008": 270,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010623401,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6310,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60490000023492,
+          -4.2150450000266915
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6310,
+        "CU_NAME": "WOMBUN",
+        "CU_NO": "020",
+        "GEOCODE": "14020522020",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "WOMBUN",
+        "LATITUDE": -4.200526,
+        "LONGITUDE": 143.600426,
+        "REGHH": 65,
+        "TOTPOP2000": 384,
+        "MALE2000": 192,
+        "FEMALE2000": 192,
+        "POP2008": 457,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020522020,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

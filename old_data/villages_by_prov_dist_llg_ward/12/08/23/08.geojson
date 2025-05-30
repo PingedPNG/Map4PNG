@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12072,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.40176900023926,
+          -6.72036999957578
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12072,
+        "CU_NAME": "YAMBO",
+        "CU_NO": "017",
+        "GEOCODE": "12082308017",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "23",
+        "WARD_NO": "08",
+        "WARD_NAME": "YAMBO",
+        "LATITUDE": -6.721792,
+        "LONGITUDE": 147.40075,
+        "REGHH": 116,
+        "TOTPOP2000": 686,
+        "MALE2000": 351,
+        "FEMALE2000": 335,
+        "POP2008": 855,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082308017,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

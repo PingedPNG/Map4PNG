@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14378,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9599540003769,
+          -6.199097999872777
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14378,
+        "CU_NAME": "DERI/SUA",
+        "CU_NO": "008",
+        "GEOCODE": "10030924008",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "24",
+        "WARD_NAME": "SUA",
+        "LATITUDE": -6.200511,
+        "LONGITUDE": 144.958904,
+        "REGHH": 68,
+        "TOTPOP2000": 322,
+        "MALE2000": 157,
+        "FEMALE2000": 165,
+        "POP2008": 371,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030924008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14379,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96790099993132,
+          -6.205772000077673
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14379,
+        "CU_NAME": "MIRIMA",
+        "CU_NO": "009",
+        "GEOCODE": "10030924009",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "24",
+        "WARD_NAME": "SUA",
+        "LATITUDE": -6.207184,
+        "LONGITUDE": 144.966851,
+        "REGHH": 119,
+        "TOTPOP2000": 609,
+        "MALE2000": 300,
+        "FEMALE2000": 309,
+        "POP2008": 702,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030924009,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14380,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96129800030258,
+          -6.204439999806084
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14380,
+        "CU_NAME": "BOSLA",
+        "CU_NO": "010",
+        "GEOCODE": "10030924010",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "24",
+        "WARD_NAME": "SUA",
+        "LATITUDE": -6.205852,
+        "LONGITUDE": 144.960248,
+        "REGHH": 58,
+        "TOTPOP2000": 298,
+        "MALE2000": 150,
+        "FEMALE2000": 148,
+        "POP2008": 344,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030924010,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

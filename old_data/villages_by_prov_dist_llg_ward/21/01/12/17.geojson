@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8369369998427,
+          -6.06668600005878
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20283,
+        "CU_NAME": "MINDIRATE",
+        "CU_NO": "003",
+        "GEOCODE": "07041217003",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "17",
+        "WARD_NAME": "MINDIRATE",
+        "LATITUDE": -6.070932,
+        "LONGITUDE": 142.837199,
+        "REGHH": 139,
+        "TOTPOP2000": 751,
+        "MALE2000": 379,
+        "FEMALE2000": 372,
+        "POP2008": 1044,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041217003,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

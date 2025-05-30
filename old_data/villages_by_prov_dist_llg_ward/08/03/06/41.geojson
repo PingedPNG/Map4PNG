@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5621,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4957219998705,
+          -5.398737000112419
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5621,
+        "CU_NAME": "NAGULAM",
+        "CU_NO": "044",
+        "GEOCODE": "08030641044",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "41",
+        "WARD_NAME": "NAGULAM",
+        "LATITUDE": -5.400137,
+        "LONGITUDE": 143.494655,
+        "REGHH": 68,
+        "TOTPOP2000": 385,
+        "MALE2000": 201,
+        "FEMALE2000": 184,
+        "POP2008": 483,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030641044,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

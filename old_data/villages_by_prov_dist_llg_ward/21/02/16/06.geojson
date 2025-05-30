@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20766,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.63702599985004,
+          -5.6140289998384105
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20766,
+        "CU_NAME": "PUYANA",
+        "CU_NO": "009",
+        "GEOCODE": "07051606009",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "16",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAGOMA",
+        "LATITUDE": -5.618299,
+        "LONGITUDE": 142.627269,
+        "REGHH": 109,
+        "TOTPOP2000": 489,
+        "MALE2000": 239,
+        "FEMALE2000": 250,
+        "POP2008": 678,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051606009,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20767,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.63339999991013,
+          -5.619520000347677
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20767,
+        "CU_NAME": "HITANA",
+        "CU_NO": "010",
+        "GEOCODE": "07051606010",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "16",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAGOMA",
+        "LATITUDE": -5.6183,
+        "LONGITUDE": 142.62727,
+        "REGHH": 54,
+        "TOTPOP2000": 259,
+        "MALE2000": 131,
+        "FEMALE2000": 128,
+        "POP2008": 359,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051606010,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

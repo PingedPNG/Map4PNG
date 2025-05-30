@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7063,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.20737900024073,
+          -4.08789700014637
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7063,
+        "CU_NAME": "PALIAMBUN",
+        "CU_NO": "020",
+        "GEOCODE": "14051920020",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "19",
+        "WARD_NO": "20",
+        "WARD_NAME": "WORIMBI",
+        "LATITUDE": -4.081944,
+        "LONGITUDE": 143.210615,
+        "REGHH": 36,
+        "TOTPOP2000": 188,
+        "MALE2000": 101,
+        "FEMALE2000": 87,
+        "POP2008": 223,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14051920020,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7064,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.2155619998864,
+          -4.092082999830552
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7064,
+        "CU_NAME": "LENGA",
+        "CU_NO": "021",
+        "GEOCODE": "14051920021",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "19",
+        "WARD_NO": "20",
+        "WARD_NAME": "WORIMBI",
+        "LATITUDE": -4.084142,
+        "LONGITUDE": 143.2123,
+        "REGHH": 31,
+        "TOTPOP2000": 152,
+        "MALE2000": 73,
+        "FEMALE2000": 79,
+        "POP2008": 181,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14051920021,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7065,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.20349400004818,
+          -4.068496000290111
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7065,
+        "CU_NAME": "SUWINGU",
+        "CU_NO": "022",
+        "GEOCODE": "14051920022",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "19",
+        "WARD_NO": "20",
+        "WARD_NAME": "WORIMBI",
+        "LATITUDE": -4.070079,
+        "LONGITUDE": 143.202256,
+        "REGHH": 33,
+        "TOTPOP2000": 151,
+        "MALE2000": 62,
+        "FEMALE2000": 89,
+        "POP2008": 180,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14051920022,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7066,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.20225100028347,
+          -4.056188000176007
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7066,
+        "CU_NAME": "WORIMBI COM/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "14051920401",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "19",
+        "WARD_NO": "20",
+        "WARD_NAME": "WORIMBI",
+        "LATITUDE": -4.057771,
+        "LONGITUDE": 143.201013,
+        "REGHH": 3,
+        "TOTPOP2000": 14,
+        "MALE2000": 6,
+        "FEMALE2000": 8,
+        "POP2008": 14,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14051920401,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

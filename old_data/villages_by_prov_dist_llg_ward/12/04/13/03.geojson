@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11202,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.27785800034655,
+          -6.123236999887581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11202,
+        "CU_NAME": "SOMBORE",
+        "CU_NO": "017",
+        "GEOCODE": "12041303017",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "03",
+        "WARD_NAME": "SATWAG",
+        "LATITUDE": -6.124652,
+        "LONGITUDE": 147.276839,
+        "REGHH": 49,
+        "TOTPOP2000": 257,
+        "MALE2000": 140,
+        "FEMALE2000": 117,
+        "POP2008": 320,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041303017,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11203,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.28376800039302,
+          -6.148675000250989
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11203,
+        "CU_NAME": "BANGUT",
+        "CU_NO": "021",
+        "GEOCODE": "12041303021",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "03",
+        "WARD_NAME": "SATWAG",
+        "LATITUDE": -6.15009,
+        "LONGITUDE": 147.282749,
+        "REGHH": 27,
+        "TOTPOP2000": 150,
+        "MALE2000": 73,
+        "FEMALE2000": 77,
+        "POP2008": 187,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041303021,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2939739998003,
+          -6.165263999933586
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11204,
+        "CU_NAME": "NAKAMBUK",
+        "CU_NO": "022",
+        "GEOCODE": "12041303022",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "03",
+        "WARD_NAME": "SAMBORE",
+        "LATITUDE": -6.16668,
+        "LONGITUDE": 147.292955,
+        "REGHH": 34,
+        "TOTPOP2000": 199,
+        "MALE2000": 95,
+        "FEMALE2000": 104,
+        "POP2008": 249,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041303022,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11205,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2829149997275,
+          -6.135141000256908
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11205,
+        "CU_NAME": "SATWAG CG BASE",
+        "CU_NO": "401",
+        "GEOCODE": "12041303401",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "03",
+        "WARD_NAME": "SATWAG",
+        "LATITUDE": -6.138572,
+        "LONGITUDE": 147.277371,
+        "REGHH": 43,
+        "TOTPOP2000": 273,
+        "MALE2000": 140,
+        "FEMALE2000": 133,
+        "POP2008": 341,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041303401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

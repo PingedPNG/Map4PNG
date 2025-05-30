@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4574,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.01574499973196,
+          -4.192917000319255
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4574,
+        "CU_NAME": "VUNADAVAI VILLAGE",
+        "CU_NO": "007",
+        "GEOCODE": "18010410007",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "VUNADAWAI",
+        "LATITUDE": -4.191794,
+        "LONGITUDE": 152.015618,
+        "REGHH": 208,
+        "TOTPOP2000": 1102,
+        "MALE2000": 554,
+        "FEMALE2000": 548,
+        "POP2008": 1343,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010410007,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

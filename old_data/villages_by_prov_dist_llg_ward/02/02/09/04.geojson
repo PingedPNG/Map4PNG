@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7733,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.29132200021024,
+          -7.80706599989594
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7733,
+        "CU_NAME": "AREHAVA NO 2",
+        "CU_NO": "001",
+        "GEOCODE": "02020904001",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "04",
+        "WARD_NAME": "AREHAVA",
+        "LATITUDE": -7.815017,
+        "LONGITUDE": 145.287333,
+        "REGHH": 8,
+        "TOTPOP2000": 69,
+        "MALE2000": 40,
+        "FEMALE2000": 29,
+        "POP2008": 85,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020904001,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7734,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.30353599958676,
+          -7.851080999888211
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7734,
+        "CU_NAME": "IUKU",
+        "CU_NO": "008",
+        "GEOCODE": "02020904008",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "04",
+        "WARD_NAME": "AREHAVA",
+        "LATITUDE": -7.85251,
+        "LONGITUDE": 145.302486,
+        "REGHH": 55,
+        "TOTPOP2000": 303,
+        "MALE2000": 140,
+        "FEMALE2000": 163,
+        "POP2008": 372,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020904008,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7735,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.31309799987287,
+          -7.8264279997523545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7735,
+        "CU_NAME": "PAEVERA",
+        "CU_NO": "010",
+        "GEOCODE": "02020904010",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "04",
+        "WARD_NAME": "AREHAVA",
+        "LATITUDE": -7.826118,
+        "LONGITUDE": 145.313497,
+        "REGHH": 18,
+        "TOTPOP2000": 122,
+        "MALE2000": 65,
+        "FEMALE2000": 57,
+        "POP2008": 149,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020904010,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7736,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.32343299983313,
+          -7.8258570004002195
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7736,
+        "CU_NAME": "LAEKORO",
+        "CU_NO": "011",
+        "GEOCODE": "02020904011",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "04",
+        "WARD_NAME": "AREHAVA",
+        "LATITUDE": -7.827286,
+        "LONGITUDE": 145.322384,
+        "REGHH": 10,
+        "TOTPOP2000": 111,
+        "MALE2000": 51,
+        "FEMALE2000": 60,
+        "POP2008": 135,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020904011,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

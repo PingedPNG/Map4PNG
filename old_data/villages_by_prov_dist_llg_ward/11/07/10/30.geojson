@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30632,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70856468031582,
+          -6.589838429999475
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30632,
+        "CU_NAME": "KAWANA NO 2",
+        "CU_NO": "008",
+        "GEOCODE": "11071030008",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "30",
+        "WARD_NAME": "KAWAINA",
+        "LATITUDE": -6.589838,
+        "LONGITUDE": 145.708565,
+        "REGHH": 95,
+        "TOTPOP2000": 428,
+        "MALE2000": 229,
+        "FEMALE2000": 199,
+        "POP2008": 509,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30633,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.71735695985592,
+          -6.614405009783354
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30633,
+        "CU_NAME": "TAUNA",
+        "CU_NO": "013",
+        "GEOCODE": "11071030013",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "30",
+        "WARD_NAME": "KAWAINA",
+        "LATITUDE": -6.614405,
+        "LONGITUDE": 145.717357,
+        "REGHH": 23,
+        "TOTPOP2000": 86,
+        "MALE2000": 39,
+        "FEMALE2000": 47,
+        "POP2008": 102,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30634,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7603341197239,
+          -6.62305364960622
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30634,
+        "CU_NAME": "TAWAINA",
+        "CU_NO": "014",
+        "GEOCODE": "11071030014",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "30",
+        "WARD_NAME": "KAWAINA",
+        "LATITUDE": -6.623054,
+        "LONGITUDE": 145.760334,
+        "REGHH": 52,
+        "TOTPOP2000": 206,
+        "MALE2000": 117,
+        "FEMALE2000": 89,
+        "POP2008": 246,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30635,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.72008432033522,
+          -6.641176409763432
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30635,
+        "CU_NAME": "ILAKIA",
+        "CU_NO": "015",
+        "GEOCODE": "11071030015",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "30",
+        "WARD_NAME": "KAWAINA",
+        "LATITUDE": -6.641176,
+        "LONGITUDE": 145.720084,
+        "REGHH": 45,
+        "TOTPOP2000": 232,
+        "MALE2000": 123,
+        "FEMALE2000": 109,
+        "POP2008": 276,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

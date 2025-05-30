@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.87210200000732,
+          -3.6436029997785795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6611,
+        "CU_NAME": "IMBRAS",
+        "CU_NO": "020",
+        "GEOCODE": "14031102020",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "TIMIGIR",
+        "LATITUDE": -3.645181,
+        "LONGITUDE": 142.870859,
+        "REGHH": 63,
+        "TOTPOP2000": 371,
+        "MALE2000": 186,
+        "FEMALE2000": 185,
+        "POP2008": 442,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031102020,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6612,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8442960001604,
+          -3.636399000313588
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6612,
+        "CU_NAME": "TIMIGIR",
+        "CU_NO": "031",
+        "GEOCODE": "14031102031",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "TIMIGIR",
+        "LATITUDE": -3.637977,
+        "LONGITUDE": 142.843054,
+        "REGHH": 75,
+        "TOTPOP2000": 474,
+        "MALE2000": 240,
+        "FEMALE2000": 234,
+        "POP2008": 564,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031102031,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6613,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.84017499987635,
+          -3.635595000109106
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6613,
+        "CU_NAME": "BRUGAM MISSION STATION",
+        "CU_NO": "402",
+        "GEOCODE": "14031102402",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "TIMIGIR",
+        "LATITUDE": -3.639217,
+        "LONGITUDE": 142.838175,
+        "REGHH": 38,
+        "TOTPOP2000": 210,
+        "MALE2000": 89,
+        "FEMALE2000": 121,
+        "POP2008": 250,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031102402,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

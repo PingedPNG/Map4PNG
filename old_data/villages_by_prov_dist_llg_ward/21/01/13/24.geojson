@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20404,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3808410000122,
+          -6.0775569995558385
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20404,
+        "CU_NAME": "WAIP",
+        "CU_NO": "018",
+        "GEOCODE": "07041324018",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "24",
+        "WARD_NAME": "POISERA",
+        "LATITUDE": -6.080584,
+        "LONGITUDE": 143.381057,
+        "REGHH": 42,
+        "TOTPOP2000": 244,
+        "MALE2000": 115,
+        "FEMALE2000": 129,
+        "POP2008": 340,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041324018,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20405,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.38266000025885,
+          -6.076382000229103
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20405,
+        "CU_NAME": "YATE",
+        "CU_NO": "019",
+        "GEOCODE": "07041324019",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "24",
+        "WARD_NAME": "POISERA",
+        "LATITUDE": -6.080584,
+        "LONGITUDE": 143.381057,
+        "REGHH": 63,
+        "TOTPOP2000": 353,
+        "MALE2000": 177,
+        "FEMALE2000": 176,
+        "POP2008": 490,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041324019,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20406,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.38027499999134,
+          -6.0754789999558625
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20406,
+        "CU_NAME": "YANARU",
+        "CU_NO": "020",
+        "GEOCODE": "07041324020",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "24",
+        "WARD_NAME": "POISERA",
+        "LATITUDE": -6.080584,
+        "LONGITUDE": 143.381057,
+        "REGHH": 29,
+        "TOTPOP2000": 130,
+        "MALE2000": 58,
+        "FEMALE2000": 72,
+        "POP2008": 180,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041324020,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20407,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3797700000855,
+          -6.07598900009225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20407,
+        "CU_NAME": "POISERA",
+        "CU_NO": "021",
+        "GEOCODE": "07041324021",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "24",
+        "WARD_NAME": "POISERA",
+        "LATITUDE": -6.080584,
+        "LONGITUDE": 143.381057,
+        "REGHH": 12,
+        "TOTPOP2000": 83,
+        "MALE2000": 41,
+        "FEMALE2000": 42,
+        "POP2008": 115,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041324021,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20408,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3811909999647,
+          -6.076337999998657
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20408,
+        "CU_NAME": "OLAME",
+        "CU_NO": "022",
+        "GEOCODE": "07041324022",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "24",
+        "WARD_NAME": "POISERA",
+        "LATITUDE": -6.080584,
+        "LONGITUDE": 143.381057,
+        "REGHH": 18,
+        "TOTPOP2000": 91,
+        "MALE2000": 41,
+        "FEMALE2000": 50,
+        "POP2008": 126,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041324022,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20409,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3802309997609,
+          -6.07700099999613
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20409,
+        "CU_NAME": "IBOL",
+        "CU_NO": "023",
+        "GEOCODE": "07041324023",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "24",
+        "WARD_NAME": "POISERA",
+        "LATITUDE": -6.080584,
+        "LONGITUDE": 143.381057,
+        "REGHH": 16,
+        "TOTPOP2000": 96,
+        "MALE2000": 45,
+        "FEMALE2000": 51,
+        "POP2008": 133,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041324023,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20410,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.38199900035363,
+          -6.075927999977182
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20410,
+        "CU_NAME": "HARDA",
+        "CU_NO": "024",
+        "GEOCODE": "07041324024",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "24",
+        "WARD_NAME": "POISERA",
+        "LATITUDE": -6.080584,
+        "LONGITUDE": 143.381057,
+        "REGHH": 37,
+        "TOTPOP2000": 186,
+        "MALE2000": 94,
+        "FEMALE2000": 92,
+        "POP2008": 258,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041324024,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20411,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3816990000089,
+          -6.0767920002505775
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20411,
+        "CU_NAME": "APRA",
+        "CU_NO": "025",
+        "GEOCODE": "07041324025",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "24",
+        "WARD_NAME": "POISERA",
+        "LATITUDE": -6.080584,
+        "LONGITUDE": 143.381057,
+        "REGHH": 25,
+        "TOTPOP2000": 151,
+        "MALE2000": 73,
+        "FEMALE2000": 78,
+        "POP2008": 209,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041324025,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20412,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.38133999964134,
+          -6.075727999747357
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20412,
+        "CU_NAME": "TERATE",
+        "CU_NO": "026",
+        "GEOCODE": "07041324026",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "24",
+        "WARD_NAME": "POISERA",
+        "LATITUDE": -6.080584,
+        "LONGITUDE": 143.381057,
+        "REGHH": 17,
+        "TOTPOP2000": 108,
+        "MALE2000": 48,
+        "FEMALE2000": 60,
+        "POP2008": 151,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041324026,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

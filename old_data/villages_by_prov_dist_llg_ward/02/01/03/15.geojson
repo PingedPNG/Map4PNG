@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7517,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.03032999992956,
+          -7.4806429996746715
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7517,
+        "CU_NAME": "KAVAINI",
+        "CU_NO": "014",
+        "GEOCODE": "02010315014",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "15",
+        "WARD_NAME": "YAKITANGWA",
+        "LATITUDE": -7.48207,
+        "LONGITUDE": 146.029291,
+        "REGHH": 23,
+        "TOTPOP2000": 111,
+        "MALE2000": 54,
+        "FEMALE2000": 57,
+        "POP2008": 135,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010315014,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7518,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.02801200005388,
+          -7.475250000087385
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7518,
+        "CU_NAME": "ITIKOETA",
+        "CU_NO": "015",
+        "GEOCODE": "02010315015",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "15",
+        "WARD_NAME": "YAKITANGWA",
+        "LATITUDE": -7.476677,
+        "LONGITUDE": 146.026973,
+        "REGHH": 21,
+        "TOTPOP2000": 107,
+        "MALE2000": 59,
+        "FEMALE2000": 48,
+        "POP2008": 131,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010315015,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7519,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0304069998832,
+          -7.482209999991483
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7519,
+        "CU_NAME": "YAKITANGWA",
+        "CU_NO": "016",
+        "GEOCODE": "02010315016",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "15",
+        "WARD_NAME": "YAKITANGWA",
+        "LATITUDE": -7.483637,
+        "LONGITUDE": 146.029368,
+        "REGHH": 41,
+        "TOTPOP2000": 160,
+        "MALE2000": 85,
+        "FEMALE2000": 75,
+        "POP2008": 196,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010315016,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

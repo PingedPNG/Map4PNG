@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.92132599969523,
+          -6.183939999631207
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14119,
+        "CU_NAME": "KULEKA MALEMAIN",
+        "CU_NO": "005",
+        "GEOCODE": "10020510005",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "KOYAKU",
+        "LATITUDE": -6.185351,
+        "LONGITUDE": 144.920275,
+        "REGHH": 90,
+        "TOTPOP2000": 360,
+        "MALE2000": 176,
+        "FEMALE2000": 184,
+        "POP2008": 415,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020510005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.91747800030953,
+          -6.193871999892849
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14120,
+        "CU_NAME": "URUMIL",
+        "CU_NO": "006",
+        "GEOCODE": "10020510006",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "KOYAKU",
+        "LATITUDE": -6.195283,
+        "LONGITUDE": 144.916427,
+        "REGHH": 80,
+        "TOTPOP2000": 300,
+        "MALE2000": 157,
+        "FEMALE2000": 143,
+        "POP2008": 346,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020510006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9102489996917,
+          -6.1767819995895366
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14121,
+        "CU_NAME": "TALBAKOAN",
+        "CU_NO": "007",
+        "GEOCODE": "10020510007",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "KOYAKU",
+        "LATITUDE": -6.178193,
+        "LONGITUDE": 144.909198,
+        "REGHH": 54,
+        "TOTPOP2000": 198,
+        "MALE2000": 97,
+        "FEMALE2000": 101,
+        "POP2008": 230,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020510007,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

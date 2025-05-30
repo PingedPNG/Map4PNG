@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5068,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.10502600004997,
+          -5.625000000349701
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5068,
+        "CU_NAME": "PAKA",
+        "CU_NO": "018",
+        "GEOCODE": "18031422018",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "22",
+        "WARD_NAME": "PAKA",
+        "LATITUDE": -5.625705,
+        "LONGITUDE": 151.107671,
+        "REGHH": 19,
+        "TOTPOP2000": 78,
+        "MALE2000": 35,
+        "FEMALE2000": 43,
+        "POP2008": 94,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031422018,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

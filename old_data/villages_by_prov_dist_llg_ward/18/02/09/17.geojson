@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4773,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.19612900035315,
+          -4.334770000235267
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4773,
+        "CU_NAME": "TINGANALOM",
+        "CU_NO": "017",
+        "GEOCODE": "18020917017",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "17",
+        "WARD_NAME": "TINGANALOM",
+        "LATITUDE": -4.336171,
+        "LONGITUDE": 152.195183,
+        "REGHH": 192,
+        "TOTPOP2000": 1051,
+        "MALE2000": 533,
+        "FEMALE2000": 518,
+        "POP2008": 1280,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020917017,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

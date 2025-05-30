@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7545,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.88990100003116,
+          -7.393708999870398
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7545,
+        "CU_NAME": "KOMAKO NO 1 & 2",
+        "CU_NO": "009",
+        "GEOCODE": "02010505009",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "KOMAKO WARD",
+        "LATITUDE": -7.399477,
+        "LONGITUDE": 145.88303,
+        "REGHH": 170,
+        "TOTPOP2000": 1178,
+        "MALE2000": 573,
+        "FEMALE2000": 605,
+        "POP2008": 1447,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010505009,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

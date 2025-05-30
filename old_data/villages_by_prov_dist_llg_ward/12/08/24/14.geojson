@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.07970200034708,
+          -6.501985000207526
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12130,
+        "CU_NAME": "JANAM",
+        "CU_NO": "025",
+        "GEOCODE": "12082414025",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "24",
+        "WARD_NO": "14",
+        "WARD_NAME": "SAMBUEN",
+        "LATITUDE": -6.503404,
+        "LONGITUDE": 147.078679,
+        "REGHH": 39,
+        "TOTPOP2000": 169,
+        "MALE2000": 90,
+        "FEMALE2000": 79,
+        "POP2008": 211,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082414025,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.01518500008774,
+          -6.4631669997571635
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12131,
+        "CU_NAME": "SAMBUEN",
+        "CU_NO": "026",
+        "GEOCODE": "12082414026",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "24",
+        "WARD_NO": "14",
+        "WARD_NAME": "SAMBUEN",
+        "LATITUDE": -6.464585,
+        "LONGITUDE": 147.014161,
+        "REGHH": 52,
+        "TOTPOP2000": 259,
+        "MALE2000": 120,
+        "FEMALE2000": 139,
+        "POP2008": 323,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082414026,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.03498799959652,
+          -6.450266000175702
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12132,
+        "CU_NAME": "ZITAREN",
+        "CU_NO": "032",
+        "GEOCODE": "12082414032",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "24",
+        "WARD_NO": "14",
+        "WARD_NAME": "SAMBUEN",
+        "LATITUDE": -6.451684,
+        "LONGITUDE": 147.033965,
+        "REGHH": 73,
+        "TOTPOP2000": 407,
+        "MALE2000": 195,
+        "FEMALE2000": 212,
+        "POP2008": 507,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082414032,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

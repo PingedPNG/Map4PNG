@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 27722,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.99980583047477,
+          -6.677233121011682
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27722,
+        "CU_NAME": "Uniblock Settlement",
+        "CU_NO": "487",
+        "GEOCODE": "487",
+        "PROV_KEY": "12",
+        "DIST_NO": "05",
+        "LLG_NO": null,
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 487,
+        "PROVINCE": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27723,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.02899998606063,
+          -6.737000006545031
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27723,
+        "CU_NAME": "Sipaiya",
+        "CU_NO": "488",
+        "GEOCODE": "488",
+        "PROV_KEY": "12",
+        "DIST_NO": "05",
+        "LLG_NO": null,
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 488,
+        "PROVINCE": null
+      }
+    }
+  ]
+}

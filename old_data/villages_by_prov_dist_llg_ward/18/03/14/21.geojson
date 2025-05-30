@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5066,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.09021200038353,
+          -5.661450000417119
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5066,
+        "CU_NAME": "BILI",
+        "CU_NO": "017",
+        "GEOCODE": "18031421017",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "21",
+        "WARD_NAME": "BILI",
+        "LATITUDE": -5.664742,
+        "LONGITUDE": 151.092963,
+        "REGHH": 47,
+        "TOTPOP2000": 213,
+        "MALE2000": 104,
+        "FEMALE2000": 109,
+        "POP2008": 259,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031421017,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5067,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.10708999990368,
+          -5.666278000029649
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5067,
+        "CU_NAME": "GUAMA",
+        "CU_NO": "018",
+        "GEOCODE": "18031421018",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "21",
+        "WARD_NAME": "BILI",
+        "LATITUDE": -5.667693,
+        "LONGITUDE": 151.106126,
+        "REGHH": 11,
+        "TOTPOP2000": 38,
+        "MALE2000": 17,
+        "FEMALE2000": 21,
+        "POP2008": 46,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031421018,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

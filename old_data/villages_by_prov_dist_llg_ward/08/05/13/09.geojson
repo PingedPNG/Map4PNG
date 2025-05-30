@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5892,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.91477800010466,
+          -5.58990299972362
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5892,
+        "CU_NAME": "ELYAKANDA",
+        "CU_NO": "001",
+        "GEOCODE": "08051309001",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "09",
+        "WARD_NAME": "ELYAKANDA",
+        "LATITUDE": -5.591306,
+        "LONGITUDE": 143.913715,
+        "REGHH": 105,
+        "TOTPOP2000": 510,
+        "MALE2000": 268,
+        "FEMALE2000": 242,
+        "POP2008": 642,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051309001,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 690,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.33645600034424,
+          -6.641063999903622
+        ]
+      },
+      "properties": {
+        "OBJECTID": 690,
+        "CU_NAME": "TOKUNUTU",
+        "CU_NO": "001",
+        "GEOCODE": "20031007001",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "07",
+        "WARD_NAME": "TOKUNUTU",
+        "LATITUDE": -6.6425,
+        "LONGITUDE": 155.335556,
+        "REGHH": 15,
+        "TOTPOP2000": 67,
+        "MALE2000": 30,
+        "FEMALE2000": 37,
+        "POP2008": 75,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031007001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 691,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.32590000008497,
+          -6.625504000009528
+        ]
+      },
+      "properties": {
+        "OBJECTID": 691,
+        "CU_NAME": "MOTUNA'A",
+        "CU_NO": "002",
+        "GEOCODE": "20031007002",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "07",
+        "WARD_NAME": "TOKUNUTU",
+        "LATITUDE": -6.62694,
+        "LONGITUDE": 155.325,
+        "REGHH": 24,
+        "TOTPOP2000": 128,
+        "MALE2000": 69,
+        "FEMALE2000": 59,
+        "POP2008": 144,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031007002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 692,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.33989999998505,
+          -6.624124000222366
+        ]
+      },
+      "properties": {
+        "OBJECTID": 692,
+        "CU_NAME": "KIMMAKU",
+        "CU_NO": "003",
+        "GEOCODE": "20031007003",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "07",
+        "WARD_NAME": "TOKUNUTU",
+        "LATITUDE": -6.62556,
+        "LONGITUDE": 155.339,
+        "REGHH": 22,
+        "TOTPOP2000": 99,
+        "MALE2000": 49,
+        "FEMALE2000": 50,
+        "POP2008": 113,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031007003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 693,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.35964799965552,
+          -6.659119999788118
+        ]
+      },
+      "properties": {
+        "OBJECTID": 693,
+        "CU_NAME": "HIRUHIRU",
+        "CU_NO": "004",
+        "GEOCODE": "20031007004",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "07",
+        "WARD_NAME": "TOKUNUTU",
+        "LATITUDE": -6.65528,
+        "LONGITUDE": 155.359,
+        "REGHH": 17,
+        "TOTPOP2000": 87,
+        "MALE2000": 41,
+        "FEMALE2000": 46,
+        "POP2008": 95,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031007004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 694,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.33189999978526,
+          -6.63884400005054
+        ]
+      },
+      "properties": {
+        "OBJECTID": 694,
+        "CU_NAME": "PINANAI",
+        "CU_NO": "005",
+        "GEOCODE": "20031007005",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "07",
+        "WARD_NAME": "TOKUNUTU",
+        "LATITUDE": -6.64028,
+        "LONGITUDE": 155.331,
+        "REGHH": 40,
+        "TOTPOP2000": 219,
+        "MALE2000": 120,
+        "FEMALE2000": 99,
+        "POP2008": 246,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031007005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 695,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.35814599963828,
+          -6.636124999668937
+        ]
+      },
+      "properties": {
+        "OBJECTID": 695,
+        "CU_NAME": "HAISI COMM. SCH",
+        "CU_NO": "401",
+        "GEOCODE": "20031007401",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "07",
+        "WARD_NAME": "TOKUNUTU",
+        "LATITUDE": -6.647526,
+        "LONGITUDE": 155.363959,
+        "REGHH": 5,
+        "TOTPOP2000": 18,
+        "MALE2000": 6,
+        "FEMALE2000": 12,
+        "POP2008": 18,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031007401,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

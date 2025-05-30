@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.42122699992615,
+          -5.791798000377355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5267,
+        "CU_NAME": "MAMBALA",
+        "CU_NO": "001",
+        "GEOCODE": "08010204001",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "MAMBALA",
+        "LATITUDE": -5.793202,
+        "LONGITUDE": 143.420158,
+        "REGHH": 63,
+        "TOTPOP2000": 485,
+        "MALE2000": 216,
+        "FEMALE2000": 269,
+        "POP2008": 609,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010204001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.42038999999852,
+          -5.784573999990073
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5268,
+        "CU_NAME": "TENDPAK",
+        "CU_NO": "002",
+        "GEOCODE": "08010204002",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "MAMBALA",
+        "LATITUDE": -5.785978,
+        "LONGITUDE": 143.419321,
+        "REGHH": 29,
+        "TOTPOP2000": 199,
+        "MALE2000": 103,
+        "FEMALE2000": 96,
+        "POP2008": 250,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010204002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5269,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4205480000902,
+          -5.797292000125651
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5269,
+        "CU_NAME": "TOMBO",
+        "CU_NO": "003",
+        "GEOCODE": "08010204003",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "MAMBALA",
+        "LATITUDE": -5.798696,
+        "LONGITUDE": 143.419479,
+        "REGHH": 22,
+        "TOTPOP2000": 160,
+        "MALE2000": 81,
+        "FEMALE2000": 79,
+        "POP2008": 202,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010204003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5270,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.37596399993868,
+          -5.754976000242152
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5270,
+        "CU_NAME": "KIPINAKA",
+        "CU_NO": "004",
+        "GEOCODE": "08010204004",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "MAMBALA",
+        "LATITUDE": -5.75638,
+        "LONGITUDE": 143.374894,
+        "REGHH": 76,
+        "TOTPOP2000": 450,
+        "MALE2000": 216,
+        "FEMALE2000": 234,
+        "POP2008": 565,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010204004,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

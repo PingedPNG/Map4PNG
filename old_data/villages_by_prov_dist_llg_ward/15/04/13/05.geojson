@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18913,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.23908000024187,
+          -2.658920000357682
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18913,
+        "CU_NAME": "WARIMO",
+        "CU_NO": "003",
+        "GEOCODE": "15041305003",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARIMO",
+        "LATITUDE": -2.659096,
+        "LONGITUDE": 141.238583,
+        "REGHH": 168,
+        "TOTPOP2000": 1021,
+        "MALE2000": 521,
+        "FEMALE2000": 500,
+        "POP2008": 1235,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041305003,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

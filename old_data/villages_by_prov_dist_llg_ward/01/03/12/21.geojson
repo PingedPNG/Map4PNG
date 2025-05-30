@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15609,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.68977000018538,
+          -8.206167999953209
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15609,
+        "CU_NAME": "MAIPANI",
+        "CU_NO": "014",
+        "GEOCODE": "01031221014",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "21",
+        "WARD_NAME": "MAIPANI",
+        "LATITUDE": -8.204057,
+        "LONGITUDE": 143.696421,
+        "REGHH": 67,
+        "TOTPOP2000": 511,
+        "MALE2000": 272,
+        "FEMALE2000": 239,
+        "POP2008": 662,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031221014,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

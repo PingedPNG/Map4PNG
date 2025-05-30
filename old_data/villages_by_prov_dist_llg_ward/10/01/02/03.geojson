@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13910,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1278849995931,
+          -6.2309069999580515
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13910,
+        "CU_NAME": "KIRUWAR",
+        "CU_NO": "004",
+        "GEOCODE": "10010203004",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "GOGO NO.2",
+        "LATITUDE": -6.232319,
+        "LONGITUDE": 145.126837,
+        "REGHH": 107,
+        "TOTPOP2000": 406,
+        "MALE2000": 210,
+        "FEMALE2000": 196,
+        "POP2008": 468,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010203004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13911,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.12457499983645,
+          -6.230681000327877
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13911,
+        "CU_NAME": "YOPAMANI",
+        "CU_NO": "005",
+        "GEOCODE": "10010203005",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "GOGO NO.2",
+        "LATITUDE": -6.232093,
+        "LONGITUDE": 145.123527,
+        "REGHH": 46,
+        "TOTPOP2000": 172,
+        "MALE2000": 82,
+        "FEMALE2000": 90,
+        "POP2008": 196,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010203005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.12733100012565,
+          -6.2279239999925835
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13912,
+        "CU_NAME": "KAPIGOM",
+        "CU_NO": "006",
+        "GEOCODE": "10010203006",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "GOGO NO.2",
+        "LATITUDE": -6.229336,
+        "LONGITUDE": 145.126283,
+        "REGHH": 21,
+        "TOTPOP2000": 97,
+        "MALE2000": 45,
+        "FEMALE2000": 52,
+        "POP2008": 113,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010203006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13913,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1263590002677,
+          -6.228976999988504
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13913,
+        "CU_NAME": "DIROM COMM. CNTR",
+        "CU_NO": "401",
+        "GEOCODE": "10010203401",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "GOGO NO.2",
+        "LATITUDE": -6.230389,
+        "LONGITUDE": 145.125311,
+        "REGHH": 56,
+        "TOTPOP2000": 207,
+        "MALE2000": 107,
+        "FEMALE2000": 100,
+        "POP2008": 239,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010203401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

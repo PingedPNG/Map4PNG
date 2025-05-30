@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8447,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5420700002304,
+          -4.735662000101172
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8447,
+        "CU_NAME": "NABRINGI",
+        "CU_NO": "028",
+        "GEOCODE": "13030716028",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -4.737057,
+        "LONGITUDE": 144.541017,
+        "REGHH": 40,
+        "TOTPOP2000": 243,
+        "MALE2000": 120,
+        "FEMALE2000": 123,
+        "POP2008": 302,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030716028,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8448,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.61487499958162,
+          -4.66497000016534
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8448,
+        "CU_NAME": "ZUMBAR",
+        "CU_NO": "041",
+        "GEOCODE": "13030716041",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -4.666364,
+        "LONGITUDE": 144.613823,
+        "REGHH": 59,
+        "TOTPOP2000": 397,
+        "MALE2000": 197,
+        "FEMALE2000": 200,
+        "POP2008": 492,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030716041,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

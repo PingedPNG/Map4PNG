@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.83025399972234,
+          -5.66478799966643
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16942,
+        "CU_NAME": "MEGINPOL",
+        "CU_NO": "011",
+        "GEOCODE": "09040704011",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "04",
+        "WARD_NAME": "MEGINPOL",
+        "LATITUDE": -5.667904,
+        "LONGITUDE": 144.830587,
+        "REGHH": 40,
+        "TOTPOP2000": 187,
+        "MALE2000": 93,
+        "FEMALE2000": 94,
+        "POP2008": 228,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040704011,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16943,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.82992799997726,
+          -5.668834000088964
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16943,
+        "CU_NAME": "KILMANKA",
+        "CU_NO": "012",
+        "GEOCODE": "09040704012",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "04",
+        "WARD_NAME": "MEGINPOL",
+        "LATITUDE": -5.667904,
+        "LONGITUDE": 144.830587,
+        "REGHH": 64,
+        "TOTPOP2000": 315,
+        "MALE2000": 169,
+        "FEMALE2000": 146,
+        "POP2008": 383,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040704012,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16944,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.83273099973587,
+          -5.667287999841278
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16944,
+        "CU_NAME": "MURBOKI",
+        "CU_NO": "013",
+        "GEOCODE": "09040704013",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "04",
+        "WARD_NAME": "MEGINPOL",
+        "LATITUDE": -5.667904,
+        "LONGITUDE": 144.830587,
+        "REGHH": 28,
+        "TOTPOP2000": 128,
+        "MALE2000": 71,
+        "FEMALE2000": 57,
+        "POP2008": 156,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040704013,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8277589997781,
+          -5.667269999910502
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16945,
+        "CU_NAME": "MEGINPOL C/S",
+        "CU_NO": "401",
+        "GEOCODE": "09040704401",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "04",
+        "WARD_NAME": "MEGINPOL",
+        "LATITUDE": -5.667904,
+        "LONGITUDE": 144.830587,
+        "REGHH": 4,
+        "TOTPOP2000": 19,
+        "MALE2000": 10,
+        "FEMALE2000": 9,
+        "POP2008": 19,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040704401,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

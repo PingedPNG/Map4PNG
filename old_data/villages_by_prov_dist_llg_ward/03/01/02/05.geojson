@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 939,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.04305700008058,
+          -10.130313999891143
+        ]
+      },
+      "properties": {
+        "OBJECTID": 939,
+        "CU_NAME": "IRUONE",
+        "CU_NO": "020",
+        "GEOCODE": "03010205020",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARO/IRUONE",
+        "LATITUDE": -10.131773,
+        "LONGITUDE": 148.042038,
+        "REGHH": 57,
+        "TOTPOP2000": 337,
+        "MALE2000": 168,
+        "FEMALE2000": 169,
+        "POP2008": 404,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010205020,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 940,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.04718699988018,
+          -10.084539999721187
+        ]
+      },
+      "properties": {
+        "OBJECTID": 940,
+        "CU_NAME": "KEAGOLO",
+        "CU_NO": "023",
+        "GEOCODE": "03010205023",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARO/IRUONE",
+        "LATITUDE": -10.085999,
+        "LONGITUDE": 148.046168,
+        "REGHH": 43,
+        "TOTPOP2000": 287,
+        "MALE2000": 148,
+        "FEMALE2000": 139,
+        "POP2008": 345,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010205023,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 941,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.04807999969228,
+          -10.134480999598395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 941,
+        "CU_NAME": "WARO",
+        "CU_NO": "047",
+        "GEOCODE": "03010205047",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARO/IRUONE",
+        "LATITUDE": -10.13594,
+        "LONGITUDE": 148.047061,
+        "REGHH": 23,
+        "TOTPOP2000": 134,
+        "MALE2000": 78,
+        "FEMALE2000": 56,
+        "POP2008": 159,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010205047,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

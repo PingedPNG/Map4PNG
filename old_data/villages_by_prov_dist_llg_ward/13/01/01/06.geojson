@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7849,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0715449996021,
+          -4.491029999934483
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7849,
+        "CU_NAME": "DUMUDUM",
+        "CU_NO": "002",
+        "GEOCODE": "13010106002",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "PARIAKANAM",
+        "LATITUDE": -4.48652,
+        "LONGITUDE": 145.102688,
+        "REGHH": 72,
+        "TOTPOP2000": 370,
+        "MALE2000": 175,
+        "FEMALE2000": 195,
+        "POP2008": 458,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010106002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7850,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.06919900023377,
+          -4.4082330002527215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7850,
+        "CU_NAME": "GUM",
+        "CU_NO": "004",
+        "GEOCODE": "13010106004",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "PARIAKANAM",
+        "LATITUDE": -4.407801,
+        "LONGITUDE": 145.06925,
+        "REGHH": 13,
+        "TOTPOP2000": 83,
+        "MALE2000": 42,
+        "FEMALE2000": 41,
+        "POP2008": 102,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010106004,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7851,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.04554899958669,
+          -4.4408919999658
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7851,
+        "CU_NAME": "PARIAKANAM",
+        "CU_NO": "012",
+        "GEOCODE": "13010106012",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "PARIAKANAM",
+        "LATITUDE": -4.436821,
+        "LONGITUDE": 145.050704,
+        "REGHH": 24,
+        "TOTPOP2000": 138,
+        "MALE2000": 73,
+        "FEMALE2000": 65,
+        "POP2008": 170,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010106012,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

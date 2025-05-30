@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10070,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.98081999984322,
+          -8.963609999901507
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10070,
+        "CU_NAME": "GAWA",
+        "CU_NO": "005",
+        "GEOCODE": "05021110005",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "11",
+        "WARD_NO": "10",
+        "WARD_NAME": "GAWA ISLAND",
+        "LATITUDE": -8.965068,
+        "LONGITUDE": 151.979862,
+        "REGHH": 164,
+        "TOTPOP2000": 837,
+        "MALE2000": 446,
+        "FEMALE2000": 391,
+        "POP2008": 1020,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021110005,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

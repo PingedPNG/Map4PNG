@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11792,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.47765299968626,
+          -6.276336999552825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11792,
+        "CU_NAME": "RUMDINAN",
+        "CU_NO": "001",
+        "GEOCODE": "12061918001",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "18",
+        "WARD_NAME": "SUKURUM",
+        "LATITUDE": -6.277752,
+        "LONGITUDE": 146.476623,
+        "REGHH": 34,
+        "TOTPOP2000": 188,
+        "MALE2000": 95,
+        "FEMALE2000": 93,
+        "POP2008": 234,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061918001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11793,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.46702999993465,
+          -6.287941999623513
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11793,
+        "CU_NAME": "GABAGIAP",
+        "CU_NO": "002",
+        "GEOCODE": "12061918002",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "18",
+        "WARD_NAME": "SUKURUM",
+        "LATITUDE": -6.289357,
+        "LONGITUDE": 146.465999,
+        "REGHH": 17,
+        "TOTPOP2000": 80,
+        "MALE2000": 34,
+        "FEMALE2000": 46,
+        "POP2008": 99,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061918002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11794,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.46987799996975,
+          -6.248123999822667
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11794,
+        "CU_NAME": "TUGUNTUGUN/KUPASA",
+        "CU_NO": "003",
+        "GEOCODE": "12061918003",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "18",
+        "WARD_NAME": "SUKURUM",
+        "LATITUDE": -6.249539,
+        "LONGITUDE": 146.468848,
+        "REGHH": 22,
+        "TOTPOP2000": 111,
+        "MALE2000": 58,
+        "FEMALE2000": 53,
+        "POP2008": 138,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061918003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11795,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.47186199973157,
+          -6.240438999759988
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11795,
+        "CU_NAME": "TARATARAK",
+        "CU_NO": "004",
+        "GEOCODE": "12061918004",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "18",
+        "WARD_NAME": "SUKURUM",
+        "LATITUDE": -6.241854,
+        "LONGITUDE": 146.470832,
+        "REGHH": 24,
+        "TOTPOP2000": 96,
+        "MALE2000": 54,
+        "FEMALE2000": 42,
+        "POP2008": 120,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061918004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11796,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.47772400026247,
+          -6.274874999581527
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11796,
+        "CU_NAME": "SUKURUM",
+        "CU_NO": "008",
+        "GEOCODE": "12061918008",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "18",
+        "WARD_NAME": "SUKURUM",
+        "LATITUDE": -6.27629,
+        "LONGITUDE": 146.476694,
+        "REGHH": 63,
+        "TOTPOP2000": 319,
+        "MALE2000": 183,
+        "FEMALE2000": 136,
+        "POP2008": 398,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061918008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11797,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4548619999814,
+          -6.2857989997240225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11797,
+        "CU_NAME": "WAROM",
+        "CU_NO": "009",
+        "GEOCODE": "12061918009",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "18",
+        "WARD_NAME": "SUKURUM",
+        "LATITUDE": -6.287214,
+        "LONGITUDE": 146.453831,
+        "REGHH": 18,
+        "TOTPOP2000": 82,
+        "MALE2000": 51,
+        "FEMALE2000": 31,
+        "POP2008": 102,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061918009,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

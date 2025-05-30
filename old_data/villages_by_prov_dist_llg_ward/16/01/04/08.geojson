@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9390,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7450409997424,
+          -1.991795999785495
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9390,
+        "CU_NAME": "NDREHET",
+        "CU_NO": "011",
+        "GEOCODE": "16010408011",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "NDREHET",
+        "LATITUDE": -1.99218,
+        "LONGITUDE": 146.746295,
+        "REGHH": 98,
+        "TOTPOP2000": 554,
+        "MALE2000": 307,
+        "FEMALE2000": 247,
+        "POP2008": 680,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010408011,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

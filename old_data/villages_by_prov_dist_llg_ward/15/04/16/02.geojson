@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19068,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2884430004442,
+          -3.342442999944467
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19068,
+        "CU_NAME": "WATAPE 2",
+        "CU_NO": "003",
+        "GEOCODE": "15041602003",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "02",
+        "WARD_NAME": "SMOCK",
+        "LATITUDE": -3.334929,
+        "LONGITUDE": 141.290707,
+        "REGHH": 13,
+        "TOTPOP2000": 93,
+        "MALE2000": 45,
+        "FEMALE2000": 48,
+        "POP2008": 111,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041602003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19069,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.24687399993525,
+          -3.3138719998928536
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19069,
+        "CU_NAME": "SMOCK",
+        "CU_NO": "019",
+        "GEOCODE": "15041602019",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "02",
+        "WARD_NAME": "SMOCK",
+        "LATITUDE": -3.315248,
+        "LONGITUDE": 141.245782,
+        "REGHH": 24,
+        "TOTPOP2000": 164,
+        "MALE2000": 90,
+        "FEMALE2000": 74,
+        "POP2008": 198,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041602019,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19070,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.29642599986005,
+          -3.296644000420258
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19070,
+        "CU_NAME": "WATAPE 1",
+        "CU_NO": "025",
+        "GEOCODE": "15041602025",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "02",
+        "WARD_NAME": "SMOCK",
+        "LATITUDE": -3.298019,
+        "LONGITUDE": 141.295335,
+        "REGHH": 24,
+        "TOTPOP2000": 153,
+        "MALE2000": 82,
+        "FEMALE2000": 71,
+        "POP2008": 185,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041602025,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

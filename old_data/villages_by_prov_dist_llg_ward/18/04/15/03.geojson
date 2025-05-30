@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1408940000581,
+          -4.187719999878027
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5107,
+        "CU_NAME": "KARAVIA",
+        "CU_NO": "003",
+        "GEOCODE": "18041503003",
+        "PROV_KEY": "18",
+        "DIST_NO": "04",
+        "LLG_NO": "15",
+        "WARD_NO": "03",
+        "WARD_NAME": "KARAVIA",
+        "LATITUDE": -4.189119,
+        "LONGITUDE": 152.139948,
+        "REGHH": 98,
+        "TOTPOP2000": 489,
+        "MALE2000": 249,
+        "FEMALE2000": 240,
+        "POP2008": 597,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18041503003,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

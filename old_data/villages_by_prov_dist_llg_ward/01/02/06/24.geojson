@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15333,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.27390600006197,
+          -6.190840000365654
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15333,
+        "CU_NAME": "YULAWAS",
+        "CU_NO": "009",
+        "GEOCODE": "01020624009",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "24",
+        "WARD_NAME": "YULAWAS",
+        "LATITUDE": -6.185615,
+        "LONGITUDE": 141.267955,
+        "REGHH": 25,
+        "TOTPOP2000": 134,
+        "MALE2000": 71,
+        "FEMALE2000": 63,
+        "POP2008": 174,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020624009,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

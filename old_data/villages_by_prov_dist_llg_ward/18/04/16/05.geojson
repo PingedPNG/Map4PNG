@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.20090400021945,
+          -4.18111600020319
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5135,
+        "CU_NAME": "RABUANA",
+        "CU_NO": "001",
+        "GEOCODE": "18041605001",
+        "PROV_KEY": "18",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "05",
+        "WARD_NAME": "RABUANA",
+        "LATITUDE": -4.182515,
+        "LONGITUDE": 152.199959,
+        "REGHH": 92,
+        "TOTPOP2000": 571,
+        "MALE2000": 293,
+        "FEMALE2000": 278,
+        "POP2008": 696,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18041605001,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.20064299987462,
+          -4.17973799960896
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5136,
+        "CU_NAME": "RABUANA GELAGELA",
+        "CU_NO": "501",
+        "GEOCODE": "18041605501",
+        "PROV_KEY": "18",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "05",
+        "WARD_NAME": "RABUANA",
+        "LATITUDE": -4.181137,
+        "LONGITUDE": 152.199698,
+        "REGHH": 64,
+        "TOTPOP2000": 283,
+        "MALE2000": 144,
+        "FEMALE2000": 139,
+        "POP2008": 344,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18041605501,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

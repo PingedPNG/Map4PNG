@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20911,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6319759996927,
+          -6.107272000202613
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20911,
+        "CU_NAME": "PUINZ",
+        "CU_NO": "017",
+        "GEOCODE": "07061801017",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "01",
+        "WARD_NAME": "PUINZ 1",
+        "LATITUDE": -6.110204,
+        "LONGITUDE": 143.630764,
+        "REGHH": 55,
+        "TOTPOP2000": 243,
+        "MALE2000": 127,
+        "FEMALE2000": 116,
+        "POP2008": 339,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061801017,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63196800022308,
+          -6.105458000186502
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20912,
+        "CU_NAME": "MOSUP",
+        "CU_NO": "018",
+        "GEOCODE": "07061801018",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "01",
+        "WARD_NAME": "PUINZ 1",
+        "LATITUDE": -6.110205,
+        "LONGITUDE": 143.630765,
+        "REGHH": 64,
+        "TOTPOP2000": 336,
+        "MALE2000": 178,
+        "FEMALE2000": 158,
+        "POP2008": 467,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061801018,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

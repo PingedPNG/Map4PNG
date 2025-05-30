@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19548,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.97391799971592,
+          -6.2398949998543
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19548,
+        "CU_NAME": "KENDAL",
+        "CU_NO": "005",
+        "GEOCODE": "07020518005",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "18",
+        "WARD_NAME": "KENDAL 1",
+        "LATITUDE": -6.24352,
+        "LONGITUDE": 143.974811,
+        "REGHH": 32,
+        "TOTPOP2000": 175,
+        "MALE2000": 84,
+        "FEMALE2000": 91,
+        "POP2008": 243,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020518005,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19549,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9735049995561,
+          -6.239383999671816
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19549,
+        "CU_NAME": "POLGORO",
+        "CU_NO": "006",
+        "GEOCODE": "07020518006",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "18",
+        "WARD_NAME": "KENDAL 1",
+        "LATITUDE": -6.24352,
+        "LONGITUDE": 143.974811,
+        "REGHH": 53,
+        "TOTPOP2000": 246,
+        "MALE2000": 137,
+        "FEMALE2000": 109,
+        "POP2008": 342,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020518006,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19550,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9781630003223,
+          -6.237885999838966
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19550,
+        "CU_NAME": "MARAPUGLI-KOSOPO",
+        "CU_NO": "007",
+        "GEOCODE": "07020518007",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "18",
+        "WARD_NAME": "KENDAL 1",
+        "LATITUDE": -6.24352,
+        "LONGITUDE": 143.974811,
+        "REGHH": 51,
+        "TOTPOP2000": 286,
+        "MALE2000": 143,
+        "FEMALE2000": 143,
+        "POP2008": 398,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020518007,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.978191999861,
+          -6.242904000119438
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19551,
+        "CU_NAME": "YAWALINDA",
+        "CU_NO": "008",
+        "GEOCODE": "07020518008",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "18",
+        "WARD_NAME": "KENDAL 1",
+        "LATITUDE": -6.24352,
+        "LONGITUDE": 143.974811,
+        "REGHH": 31,
+        "TOTPOP2000": 195,
+        "MALE2000": 92,
+        "FEMALE2000": 103,
+        "POP2008": 272,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020518008,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10243,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4309790003806,
+          -9.365828999808457
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10243,
+        "CU_NAME": "FATAVI",
+        "CU_NO": "001",
+        "GEOCODE": "05041424001",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "14",
+        "WARD_NO": "24",
+        "WARD_NAME": "FATAVI",
+        "LATITUDE": -9.367287,
+        "LONGITUDE": 150.429997,
+        "REGHH": 80,
+        "TOTPOP2000": 426,
+        "MALE2000": 206,
+        "FEMALE2000": 220,
+        "POP2008": 519,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041424001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

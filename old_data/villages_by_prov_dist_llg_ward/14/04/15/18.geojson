@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6837,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7002780000297,
+          -3.755583999901603
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6837,
+        "CU_NAME": "MANUWARA",
+        "CU_NO": "036",
+        "GEOCODE": "14041518036",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "15",
+        "WARD_NO": "18",
+        "WARD_NAME": "MANUWARA",
+        "LATITUDE": -3.757164,
+        "LONGITUDE": 143.699047,
+        "REGHH": 47,
+        "TOTPOP2000": 297,
+        "MALE2000": 157,
+        "FEMALE2000": 140,
+        "POP2008": 354,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041518036,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6838,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71875500044302,
+          -3.786895000403888
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6838,
+        "CU_NAME": "PARUA",
+        "CU_NO": "037",
+        "GEOCODE": "14041518037",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "15",
+        "WARD_NO": "18",
+        "WARD_NAME": "MANUWARA",
+        "LATITUDE": -3.788477,
+        "LONGITUDE": 143.717524,
+        "REGHH": 16,
+        "TOTPOP2000": 93,
+        "MALE2000": 41,
+        "FEMALE2000": 52,
+        "POP2008": 109,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041518037,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6839,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7186570004203,
+          -3.790665999835994
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6839,
+        "CU_NAME": "SAMOWIA",
+        "CU_NO": "038",
+        "GEOCODE": "14041518038",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "15",
+        "WARD_NO": "18",
+        "WARD_NAME": "MANUWARA",
+        "LATITUDE": -3.792248,
+        "LONGITUDE": 143.717426,
+        "REGHH": 31,
+        "TOTPOP2000": 159,
+        "MALE2000": 86,
+        "FEMALE2000": 73,
+        "POP2008": 190,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041518038,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10889,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.7023060001219,
+          -6.579768999839416
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10889,
+        "CU_NAME": "KANGARUO",
+        "CU_NO": "016",
+        "GEOCODE": "12020817016",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "17",
+        "WARD_NAME": "KANGARUO",
+        "LATITUDE": -6.58119,
+        "LONGITUDE": 147.701292,
+        "REGHH": 53,
+        "TOTPOP2000": 331,
+        "MALE2000": 183,
+        "FEMALE2000": 148,
+        "POP2008": 413,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020817016,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10890,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.73857099975191,
+          -6.626227000075971
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10890,
+        "CU_NAME": "MAGAZAING",
+        "CU_NO": "028",
+        "GEOCODE": "12020817028",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "17",
+        "WARD_NAME": "KANGARUO",
+        "LATITUDE": -6.633175,
+        "LONGITUDE": 147.734252,
+        "REGHH": 31,
+        "TOTPOP2000": 188,
+        "MALE2000": 100,
+        "FEMALE2000": 88,
+        "POP2008": 234,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020817028,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10891,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.71624699999916,
+          -6.544172000437413
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10891,
+        "CU_NAME": "HAMANG",
+        "CU_NO": "029",
+        "GEOCODE": "12020817029",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "17",
+        "WARD_NAME": "KANGARUO",
+        "LATITUDE": -6.545593,
+        "LONGITUDE": 147.715233,
+        "REGHH": 7,
+        "TOTPOP2000": 45,
+        "MALE2000": 23,
+        "FEMALE2000": 22,
+        "POP2008": 53,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020817029,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4635,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1598380004234,
+          -4.387610999847709
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4635,
+        "CU_NAME": "TAMANAIRIK NO.1",
+        "CU_NO": "011",
+        "GEOCODE": "18010529011",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "29",
+        "WARD_NAME": "TAMANAIRIK NO.1",
+        "LATITUDE": -4.389012,
+        "LONGITUDE": 152.158892,
+        "REGHH": 110,
+        "TOTPOP2000": 734,
+        "MALE2000": 374,
+        "FEMALE2000": 360,
+        "POP2008": 894,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010529011,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

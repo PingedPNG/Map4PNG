@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9799,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.04273900030466,
+          -10.632811999873866
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9799,
+        "CU_NAME": "ISUISU",
+        "CU_NO": "014",
+        "GEOCODE": "05010616014",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "06",
+        "WARD_NO": "16",
+        "WARD_NAME": "ISUISU",
+        "LATITUDE": -10.634282,
+        "LONGITUDE": 150.041747,
+        "REGHH": 55,
+        "TOTPOP2000": 316,
+        "MALE2000": 163,
+        "FEMALE2000": 153,
+        "POP2008": 384,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010616014,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

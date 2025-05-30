@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11212,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2379619996466,
+          -6.250597999697902
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11212,
+        "CU_NAME": "GATSENG",
+        "CU_NO": "002",
+        "GEOCODE": "12041307002",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "GERAON",
+        "LATITUDE": -6.252016,
+        "LONGITUDE": 147.236942,
+        "REGHH": 27,
+        "TOTPOP2000": 137,
+        "MALE2000": 56,
+        "FEMALE2000": 81,
+        "POP2008": 171,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041307002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.236517999606,
+          -6.238198999883878
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11213,
+        "CU_NAME": "GERAON",
+        "CU_NO": "003",
+        "GEOCODE": "12041307003",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "GERAON",
+        "LATITUDE": -6.242637,
+        "LONGITUDE": 147.231979,
+        "REGHH": 49,
+        "TOTPOP2000": 258,
+        "MALE2000": 129,
+        "FEMALE2000": 129,
+        "POP2008": 322,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041307003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.24335800027154,
+          -6.245075000410907
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11214,
+        "CU_NAME": "KOMBAN",
+        "CU_NO": "007",
+        "GEOCODE": "12041307007",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "GERAON",
+        "LATITUDE": -6.246491,
+        "LONGITUDE": 147.242338,
+        "REGHH": 42,
+        "TOTPOP2000": 194,
+        "MALE2000": 109,
+        "FEMALE2000": 85,
+        "POP2008": 242,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041307007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2356439997708,
+          -6.255079000395483
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11215,
+        "CU_NAME": "WANAM",
+        "CU_NO": "026",
+        "GEOCODE": "12041307026",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "GERAON",
+        "LATITUDE": -6.256496,
+        "LONGITUDE": 147.234624,
+        "REGHH": 29,
+        "TOTPOP2000": 178,
+        "MALE2000": 82,
+        "FEMALE2000": 96,
+        "POP2008": 222,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041307026,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

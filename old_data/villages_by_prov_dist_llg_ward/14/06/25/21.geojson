@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7349,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.59162100030903,
+          -3.7176909998397036
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7349,
+        "CU_NAME": "KUSAUN",
+        "CU_NO": "014",
+        "GEOCODE": "14062521014",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "25",
+        "WARD_NO": "21",
+        "WARD_NAME": "KUSAUN",
+        "LATITUDE": -3.719272,
+        "LONGITUDE": 143.590388,
+        "REGHH": 57,
+        "TOTPOP2000": 300,
+        "MALE2000": 144,
+        "FEMALE2000": 156,
+        "POP2008": 358,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062521014,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

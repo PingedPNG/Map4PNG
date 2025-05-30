@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9573,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.94371799978592,
+          -9.752573000143798
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9573,
+        "CU_NAME": "PORA",
+        "CU_NO": "001",
+        "GEOCODE": "05010115001",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "15",
+        "WARD_NAME": "PORA",
+        "LATITUDE": -9.754034,
+        "LONGITUDE": 149.942728,
+        "REGHH": 22,
+        "TOTPOP2000": 120,
+        "MALE2000": 70,
+        "FEMALE2000": 50,
+        "POP2008": 145,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010115001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

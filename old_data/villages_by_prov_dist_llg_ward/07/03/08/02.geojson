@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19753,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.85257999976727,
+          -6.520854999858329
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19753,
+        "CU_NAME": "TIRIPI",
+        "CU_NO": "009",
+        "GEOCODE": "07030802009",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "TIRIPI",
+        "LATITUDE": -6.523247,
+        "LONGITUDE": 143.85161,
+        "REGHH": 22,
+        "TOTPOP2000": 166,
+        "MALE2000": 96,
+        "FEMALE2000": 70,
+        "POP2008": 231,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030802009,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19754,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.85334399992576,
+          -6.518987000049947
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19754,
+        "CU_NAME": "KALOLO",
+        "CU_NO": "010",
+        "GEOCODE": "07030802010",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "TIRIPI",
+        "LATITUDE": -6.523247,
+        "LONGITUDE": 143.85161,
+        "REGHH": 47,
+        "TOTPOP2000": 236,
+        "MALE2000": 121,
+        "FEMALE2000": 115,
+        "POP2008": 328,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030802010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.84124200031818,
+          -6.518435999821463
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19755,
+        "CU_NAME": "WAPURUPI",
+        "CU_NO": "011",
+        "GEOCODE": "07030802011",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "TIRIPI",
+        "LATITUDE": -6.523247,
+        "LONGITUDE": 143.85161,
+        "REGHH": 23,
+        "TOTPOP2000": 117,
+        "MALE2000": 53,
+        "FEMALE2000": 64,
+        "POP2008": 163,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030802011,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21070,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.58662300005153,
+          -6.141807000092911
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21070,
+        "CU_NAME": "KOMBEM",
+        "CU_NO": "001",
+        "GEOCODE": "07061924001",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "24",
+        "WARD_NAME": "TOPA",
+        "LATITUDE": -6.145069,
+        "LONGITUDE": 143.585411,
+        "REGHH": 44,
+        "TOTPOP2000": 302,
+        "MALE2000": 157,
+        "FEMALE2000": 145,
+        "POP2008": 420,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061924001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21071,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.58481899959725,
+          -6.144052000199622
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21071,
+        "CU_NAME": "MOKURIA",
+        "CU_NO": "002",
+        "GEOCODE": "07061924002",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "24",
+        "WARD_NAME": "TOPA",
+        "LATITUDE": -6.145069,
+        "LONGITUDE": 143.585411,
+        "REGHH": 45,
+        "TOTPOP2000": 295,
+        "MALE2000": 139,
+        "FEMALE2000": 156,
+        "POP2008": 410,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061924002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21072,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.58244299974467,
+          -6.142155999999375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21072,
+        "CU_NAME": "TOPA",
+        "CU_NO": "003",
+        "GEOCODE": "07061924003",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "24",
+        "WARD_NAME": "TOPA",
+        "LATITUDE": -6.145069,
+        "LONGITUDE": 143.585411,
+        "REGHH": 96,
+        "TOTPOP2000": 596,
+        "MALE2000": 285,
+        "FEMALE2000": 311,
+        "POP2008": 827,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061924003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21073,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.58514200010325,
+          -6.140453999752253
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21073,
+        "CU_NAME": "PILL",
+        "CU_NO": "004",
+        "GEOCODE": "07061924004",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "24",
+        "WARD_NAME": "TOPA",
+        "LATITUDE": -6.14507,
+        "LONGITUDE": 143.585412,
+        "REGHH": 44,
+        "TOTPOP2000": 253,
+        "MALE2000": 128,
+        "FEMALE2000": 125,
+        "POP2008": 353,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061924004,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21158,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5745510000287,
+          -6.506620999959125
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21158,
+        "CU_NAME": "HARABIYU",
+        "CU_NO": "010",
+        "GEOCODE": "07072205010",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "05",
+        "WARD_NAME": "HARABIYU",
+        "LATITUDE": -6.508513,
+        "LONGITUDE": 143.580468,
+        "REGHH": 55,
+        "TOTPOP2000": 322,
+        "MALE2000": 161,
+        "FEMALE2000": 161,
+        "POP2008": 448,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072205010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21159,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.57777400026998,
+          -6.502142000253059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21159,
+        "CU_NAME": "KUNIFALU",
+        "CU_NO": "011",
+        "GEOCODE": "07072205011",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "05",
+        "WARD_NAME": "HARABIYU",
+        "LATITUDE": -6.508513,
+        "LONGITUDE": 143.580468,
+        "REGHH": 20,
+        "TOTPOP2000": 133,
+        "MALE2000": 77,
+        "FEMALE2000": 56,
+        "POP2008": 185,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072205011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21160,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.58448400033637,
+          -6.510733999874162
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21160,
+        "CU_NAME": "WANUMA",
+        "CU_NO": "012",
+        "GEOCODE": "07072205012",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "05",
+        "WARD_NAME": "HARABIYU",
+        "LATITUDE": -6.508513,
+        "LONGITUDE": 143.580468,
+        "REGHH": 15,
+        "TOTPOP2000": 89,
+        "MALE2000": 47,
+        "FEMALE2000": 42,
+        "POP2008": 124,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072205012,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21161,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.59257500023614,
+          -6.506229999914524
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21161,
+        "CU_NAME": "FOGEABO",
+        "CU_NO": "013",
+        "GEOCODE": "07072205013",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "05",
+        "WARD_NAME": "HARABIYU",
+        "LATITUDE": -6.508513,
+        "LONGITUDE": 143.580468,
+        "REGHH": 20,
+        "TOTPOP2000": 122,
+        "MALE2000": 62,
+        "FEMALE2000": 60,
+        "POP2008": 170,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072205013,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21162,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.58137399991028,
+          -6.497361000110004
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21162,
+        "CU_NAME": "BELISIGABO",
+        "CU_NO": "014",
+        "GEOCODE": "07072205014",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "05",
+        "WARD_NAME": "HARABIYU",
+        "LATITUDE": -6.508513,
+        "LONGITUDE": 143.580468,
+        "REGHH": 14,
+        "TOTPOP2000": 80,
+        "MALE2000": 36,
+        "FEMALE2000": 44,
+        "POP2008": 110,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072205014,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.06904099964254,
+          -4.343302999833554
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7111,
+        "CU_NAME": "MARI",
+        "CU_NO": "001",
+        "GEOCODE": "14052023001",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "20",
+        "WARD_NO": "23",
+        "WARD_NAME": "MARI",
+        "LATITUDE": -4.3449,
+        "LONGITUDE": 143.063548,
+        "REGHH": 14,
+        "TOTPOP2000": 76,
+        "MALE2000": 46,
+        "FEMALE2000": 30,
+        "POP2008": 92,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052023001,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.99398199976952,
+          -4.382727000350712
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7112,
+        "CU_NAME": "MILAE",
+        "CU_NO": "002",
+        "GEOCODE": "14052023002",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "20",
+        "WARD_NO": "23",
+        "WARD_NAME": "MARI",
+        "LATITUDE": -4.382538,
+        "LONGITUDE": 142.995729,
+        "REGHH": 19,
+        "TOTPOP2000": 87,
+        "MALE2000": 43,
+        "FEMALE2000": 44,
+        "POP2008": 103,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052023002,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

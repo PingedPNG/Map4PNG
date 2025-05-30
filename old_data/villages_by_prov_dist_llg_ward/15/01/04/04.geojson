@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18446,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.92648399983682,
+          -3.4257319998318962
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18446,
+        "CU_NAME": "KAKOI",
+        "CU_NO": "006",
+        "GEOCODE": "15010404006",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "KAKOI",
+        "LATITUDE": -3.427108,
+        "LONGITUDE": 141.9254,
+        "REGHH": 41,
+        "TOTPOP2000": 226,
+        "MALE2000": 113,
+        "FEMALE2000": 113,
+        "POP2008": 273,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010404006,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18447,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.9089729999041,
+          -3.4557520001546322
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18447,
+        "CU_NAME": "KWATIM",
+        "CU_NO": "008",
+        "GEOCODE": "15010404008",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "KAKOI",
+        "LATITUDE": -3.45713,
+        "LONGITUDE": 141.907889,
+        "REGHH": 20,
+        "TOTPOP2000": 101,
+        "MALE2000": 53,
+        "FEMALE2000": 48,
+        "POP2008": 123,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010404008,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18448,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.89994800010015,
+          -3.447449000371023
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18448,
+        "CU_NAME": "KWAMTUM",
+        "CU_NO": "009",
+        "GEOCODE": "15010404009",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "KAKOI",
+        "LATITUDE": -3.447311,
+        "LONGITUDE": 141.909351,
+        "REGHH": 11,
+        "TOTPOP2000": 72,
+        "MALE2000": 35,
+        "FEMALE2000": 37,
+        "POP2008": 88,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010404009,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18449,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.94072400001266,
+          -3.456324999599019
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18449,
+        "CU_NAME": "TIMENI",
+        "CU_NO": "015",
+        "GEOCODE": "15010404015",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "KAKOI",
+        "LATITUDE": -3.457703,
+        "LONGITUDE": 141.93964,
+        "REGHH": 23,
+        "TOTPOP2000": 117,
+        "MALE2000": 61,
+        "FEMALE2000": 56,
+        "POP2008": 141,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010404015,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

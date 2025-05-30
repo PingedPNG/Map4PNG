@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9572,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.93573500037007,
+          -9.756316000083302
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9572,
+        "CU_NAME": "MENAPI",
+        "CU_NO": "016",
+        "GEOCODE": "05010114016",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "14",
+        "WARD_NAME": "MENAPI",
+        "LATITUDE": -9.759547,
+        "LONGITUDE": 149.932943,
+        "REGHH": 86,
+        "TOTPOP2000": 413,
+        "MALE2000": 222,
+        "FEMALE2000": 191,
+        "POP2008": 503,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010114016,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

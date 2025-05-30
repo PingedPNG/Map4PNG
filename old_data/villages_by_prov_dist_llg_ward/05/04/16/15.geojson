@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10301,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.26760699986323,
+          -10.03848800022098
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10301,
+        "CU_NAME": "BIHAUWA",
+        "CU_NO": "002",
+        "GEOCODE": "05041615002",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "16",
+        "WARD_NO": "15",
+        "WARD_NAME": "BIAUWA",
+        "LATITUDE": -10.039956,
+        "LONGITUDE": 151.266635,
+        "REGHH": 113,
+        "TOTPOP2000": 545,
+        "MALE2000": 277,
+        "FEMALE2000": 268,
+        "POP2008": 664,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041615002,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

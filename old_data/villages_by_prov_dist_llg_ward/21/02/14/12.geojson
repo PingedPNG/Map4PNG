@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20500,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7046739997054,
+          -5.569661999801383
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20500,
+        "CU_NAME": "TUGU",
+        "CU_NO": "007",
+        "GEOCODE": "07051412007",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "12",
+        "WARD_NAME": "TUGU",
+        "LATITUDE": -5.57306,
+        "LONGITUDE": 142.705162,
+        "REGHH": 20,
+        "TOTPOP2000": 142,
+        "MALE2000": 106,
+        "FEMALE2000": 36,
+        "POP2008": 197,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051412007,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20501,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.70790600036173,
+          -5.567299999695194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20501,
+        "CU_NAME": "WAYIA",
+        "CU_NO": "008",
+        "GEOCODE": "07051412008",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "12",
+        "WARD_NAME": "TUGU",
+        "LATITUDE": -5.57306,
+        "LONGITUDE": 142.705162,
+        "REGHH": 31,
+        "TOTPOP2000": 149,
+        "MALE2000": 71,
+        "FEMALE2000": 78,
+        "POP2008": 207,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051412008,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20502,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7045140004209,
+          -5.564668999774483
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20502,
+        "CU_NAME": "KAMA",
+        "CU_NO": "009",
+        "GEOCODE": "07051412009",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "12",
+        "WARD_NAME": "TUGU",
+        "LATITUDE": -5.57306,
+        "LONGITUDE": 142.705162,
+        "REGHH": 54,
+        "TOTPOP2000": 280,
+        "MALE2000": 149,
+        "FEMALE2000": 131,
+        "POP2008": 389,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051412009,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20503,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.70038699986026,
+          -5.567699000108746
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20503,
+        "CU_NAME": "KENAMU",
+        "CU_NO": "010",
+        "GEOCODE": "07051412010",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "12",
+        "WARD_NAME": "TUGU",
+        "LATITUDE": -5.57306,
+        "LONGITUDE": 142.705162,
+        "REGHH": 38,
+        "TOTPOP2000": 218,
+        "MALE2000": 94,
+        "FEMALE2000": 124,
+        "POP2008": 303,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051412010,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

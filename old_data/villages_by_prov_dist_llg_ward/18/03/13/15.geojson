@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5019,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.01262000041277,
+          -4.966309000160209
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5019,
+        "CU_NAME": "MASARAU",
+        "CU_NO": "001",
+        "GEOCODE": "18031315001",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "15",
+        "WARD_NAME": "TOL",
+        "LATITUDE": -4.967718,
+        "LONGITUDE": 152.011671,
+        "REGHH": 14,
+        "TOTPOP2000": 68,
+        "MALE2000": 37,
+        "FEMALE2000": 31,
+        "POP2008": 84,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031315001,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

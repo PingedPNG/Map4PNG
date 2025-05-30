@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10640,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.73805500043795,
+          -7.304525999775024
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10640,
+        "CU_NAME": "MAMBU CREEK",
+        "CU_NO": "401",
+        "GEOCODE": "12010510401",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "SANDY CREEK",
+        "LATITUDE": -7.30553,
+        "LONGITUDE": 146.737196,
+        "REGHH": 24,
+        "TOTPOP2000": 108,
+        "MALE2000": 60,
+        "FEMALE2000": 48,
+        "POP2008": 134,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010510401,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10641,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.77725100033342,
+          -7.282676000297101
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10641,
+        "CU_NAME": "HET SANDY CREEK",
+        "CU_NO": "403",
+        "GEOCODE": "12010510403",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "SANDY CREEK",
+        "LATITUDE": -7.284103,
+        "LONGITUDE": 146.776222,
+        "REGHH": 24,
+        "TOTPOP2000": 137,
+        "MALE2000": 82,
+        "FEMALE2000": 55,
+        "POP2008": 171,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010510403,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10642,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.73712199968065,
+          -7.3043560000293155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10642,
+        "CU_NAME": "HET MAMBU CREEK",
+        "CU_NO": "404",
+        "GEOCODE": "12010510404",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "SANDY CREEK",
+        "LATITUDE": -7.30553,
+        "LONGITUDE": 146.737196,
+        "REGHH": 21,
+        "TOTPOP2000": 97,
+        "MALE2000": 56,
+        "FEMALE2000": 41,
+        "POP2008": 121,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010510404,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10643,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.742392999937,
+          -7.309941000376796
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10643,
+        "CU_NAME": "SANDY CREEK",
+        "CU_NO": "421",
+        "GEOCODE": "12010510421",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "SANDY CREEK",
+        "LATITUDE": -7.311368,
+        "LONGITUDE": 146.741364,
+        "REGHH": 33,
+        "TOTPOP2000": 168,
+        "MALE2000": 104,
+        "FEMALE2000": 64,
+        "POP2008": 210,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010510421,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

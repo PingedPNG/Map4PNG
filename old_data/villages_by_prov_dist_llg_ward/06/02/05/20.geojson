@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13508,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.10903600031122,
+          -8.972539999821095
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13508,
+        "CU_NAME": "ASAFA",
+        "CU_NO": "004",
+        "GEOCODE": "06020520004",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "ASAFA",
+        "LATITUDE": -8.977572,
+        "LONGITUDE": 148.105463,
+        "REGHH": 53,
+        "TOTPOP2000": 259,
+        "MALE2000": 141,
+        "FEMALE2000": 118,
+        "POP2008": 320,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020520004,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13509,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.12633200022174,
+          -9.008717999935698
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13509,
+        "CU_NAME": "JAIAPA",
+        "CU_NO": "007",
+        "GEOCODE": "06020520007",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "ASAFA",
+        "LATITUDE": -9.009872,
+        "LONGITUDE": 148.119035,
+        "REGHH": 22,
+        "TOTPOP2000": 104,
+        "MALE2000": 65,
+        "FEMALE2000": 39,
+        "POP2008": 128,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020520007,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13510,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.06437400016,
+          -8.986423999767737
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13510,
+        "CU_NAME": "ENJORO",
+        "CU_NO": "008",
+        "GEOCODE": "06020520008",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "ASAFA",
+        "LATITUDE": -8.98459,
+        "LONGITUDE": 148.059301,
+        "REGHH": 18,
+        "TOTPOP2000": 82,
+        "MALE2000": 41,
+        "FEMALE2000": 41,
+        "POP2008": 100,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020520008,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13511,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.11254900043605,
+          -9.015228999818419
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13511,
+        "CU_NAME": "GODIBETH",
+        "CU_NO": "009",
+        "GEOCODE": "06020520009",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "ASAFA",
+        "LATITUDE": -9.01952,
+        "LONGITUDE": 148.100548,
+        "REGHH": 27,
+        "TOTPOP2000": 161,
+        "MALE2000": 90,
+        "FEMALE2000": 71,
+        "POP2008": 199,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020520009,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

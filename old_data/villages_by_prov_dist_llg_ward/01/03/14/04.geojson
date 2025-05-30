@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15699,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.92664599991303,
+          -8.742179000360522
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15699,
+        "CU_NAME": "KUBUR HAMLET",
+        "CU_NO": "011",
+        "GEOCODE": "01031404011",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "04",
+        "WARD_NAME": "IAMEGA",
+        "LATITUDE": -8.74361,
+        "LONGITUDE": 142.925564,
+        "REGHH": 8,
+        "TOTPOP2000": 20,
+        "MALE2000": 8,
+        "FEMALE2000": 12,
+        "POP2008": 28,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031404011,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15700,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.91722299974174,
+          -8.766630000174302
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15700,
+        "CU_NAME": "MER",
+        "CU_NO": "038",
+        "GEOCODE": "01031404038",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "04",
+        "WARD_NAME": "IAMEGA",
+        "LATITUDE": -8.766342,
+        "LONGITUDE": 142.914831,
+        "REGHH": 56,
+        "TOTPOP2000": 229,
+        "MALE2000": 105,
+        "FEMALE2000": 124,
+        "POP2008": 298,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031404038,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

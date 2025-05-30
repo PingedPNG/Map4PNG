@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20078,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7499429997697,
+          -6.39299000018832
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20078,
+        "CU_NAME": "WASUMA",
+        "CU_NO": "016",
+        "GEOCODE": "07030943016",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "43",
+        "WARD_NAME": "WASUMA",
+        "LATITUDE": -6.396834,
+        "LONGITUDE": 143.752367,
+        "REGHH": 87,
+        "TOTPOP2000": 543,
+        "MALE2000": 267,
+        "FEMALE2000": 276,
+        "POP2008": 755,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030943016,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20079,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.75325200037958,
+          -6.391214000125956
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20079,
+        "CU_NAME": "YAWARE",
+        "CU_NO": "017",
+        "GEOCODE": "07030943017",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "43",
+        "WARD_NAME": "WASUMA",
+        "LATITUDE": -6.396834,
+        "LONGITUDE": 143.752367,
+        "REGHH": 31,
+        "TOTPOP2000": 184,
+        "MALE2000": 94,
+        "FEMALE2000": 90,
+        "POP2008": 255,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030943017,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20080,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.74954600034766,
+          -6.3918200001928085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20080,
+        "CU_NAME": "NAGARANDA",
+        "CU_NO": "018",
+        "GEOCODE": "07030943018",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "43",
+        "WARD_NAME": "WASUMA",
+        "LATITUDE": -6.396834,
+        "LONGITUDE": 143.752367,
+        "REGHH": 25,
+        "TOTPOP2000": 167,
+        "MALE2000": 80,
+        "FEMALE2000": 87,
+        "POP2008": 232,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030943018,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

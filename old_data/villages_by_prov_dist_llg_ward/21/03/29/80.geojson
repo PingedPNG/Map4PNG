@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21830,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9460439996309,
+          -5.859602000232087
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21830,
+        "CU_NAME": "TARI (ADMIN. POLICE STN.)",
+        "CU_NO": "001",
+        "GEOCODE": "07082980001",
+        "PROV_KEY": "21",
+        "DIST_NO": "3",
+        "LLG_NO": "29",
+        "WARD_NO": "80",
+        "WARD_NAME": "TARI URBAN",
+        "LATITUDE": -5.857457,
+        "LONGITUDE": 142.945375,
+        "REGHH": 97,
+        "TOTPOP2000": 709,
+        "MALE2000": 362,
+        "FEMALE2000": 347,
+        "POP2008": 986,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7082980001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21831,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.93836199970656,
+          -5.858123000376111
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21831,
+        "CU_NAME": "TARI (POLICE BARRACKS)",
+        "CU_NO": "002",
+        "GEOCODE": "07082980002",
+        "PROV_KEY": "21",
+        "DIST_NO": "3",
+        "LLG_NO": "29",
+        "WARD_NO": "80",
+        "WARD_NAME": "TARI URBAN",
+        "LATITUDE": -5.857789,
+        "LONGITUDE": 142.942253,
+        "REGHH": 85,
+        "TOTPOP2000": 600,
+        "MALE2000": 321,
+        "FEMALE2000": 279,
+        "POP2008": 833,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7082980002,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12349,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.78996600033076,
+          -5.858438999660052
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12349,
+        "CU_NAME": "ROINJI",
+        "CU_NO": "017",
+        "GEOCODE": "12092811017",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "11",
+        "WARD_NAME": "ROINJI",
+        "LATITUDE": -5.856964,
+        "LONGITUDE": 146.795048,
+        "REGHH": 38,
+        "TOTPOP2000": 237,
+        "MALE2000": 126,
+        "FEMALE2000": 111,
+        "POP2008": 296,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092811017,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

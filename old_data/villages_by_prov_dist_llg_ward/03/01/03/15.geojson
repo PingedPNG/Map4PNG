@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1024,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.39552900006333,
+          -10.142562999982431
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1024,
+        "CU_NAME": "DOM",
+        "CU_NO": "009",
+        "GEOCODE": "03010315009",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "15",
+        "WARD_NAME": "DOM",
+        "LATITUDE": -10.144023,
+        "LONGITUDE": 148.394515,
+        "REGHH": 17,
+        "TOTPOP2000": 111,
+        "MALE2000": 62,
+        "FEMALE2000": 49,
+        "POP2008": 135,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010315009,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1025,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3851420004031,
+          -10.136374999706447
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1025,
+        "CU_NAME": "IABA",
+        "CU_NO": "017",
+        "GEOCODE": "03010315017",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "15",
+        "WARD_NAME": "DOM",
+        "LATITUDE": -10.137835,
+        "LONGITUDE": 148.384128,
+        "REGHH": 16,
+        "TOTPOP2000": 122,
+        "MALE2000": 50,
+        "FEMALE2000": 72,
+        "POP2008": 146,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010315017,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1026,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.38382599996999,
+          -10.134249999737676
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1026,
+        "CU_NAME": "SISINAPAPA",
+        "CU_NO": "052",
+        "GEOCODE": "03010315052",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "15",
+        "WARD_NAME": "DOM",
+        "LATITUDE": -10.13571,
+        "LONGITUDE": 148.382812,
+        "REGHH": 10,
+        "TOTPOP2000": 65,
+        "MALE2000": 31,
+        "FEMALE2000": 34,
+        "POP2008": 80,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010315052,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1027,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.38758299965582,
+          -10.140077999599953
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1027,
+        "CU_NAME": "SIPOROBO",
+        "CU_NO": "063",
+        "GEOCODE": "03010315063",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "15",
+        "WARD_NAME": "DOM",
+        "LATITUDE": -10.141538,
+        "LONGITUDE": 148.386569,
+        "REGHH": 7,
+        "TOTPOP2000": 56,
+        "MALE2000": 21,
+        "FEMALE2000": 35,
+        "POP2008": 64,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010315063,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

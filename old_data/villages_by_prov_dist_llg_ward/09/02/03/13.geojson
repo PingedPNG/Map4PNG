@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.34563200031664,
+          -5.721574999586494
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16266,
+        "CU_NAME": "RAUNA",
+        "CU_NO": "053",
+        "GEOCODE": "09020313053",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "13",
+        "WARD_NAME": "RAUNA",
+        "LATITUDE": -5.722511,
+        "LONGITUDE": 144.345967,
+        "REGHH": 91,
+        "TOTPOP2000": 370,
+        "MALE2000": 185,
+        "FEMALE2000": 185,
+        "POP2008": 450,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020313053,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3524170002445,
+          -5.723999999900002
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16267,
+        "CU_NAME": "TIKIMP",
+        "CU_NO": "054",
+        "GEOCODE": "09020313054",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "13",
+        "WARD_NAME": "RAUNA",
+        "LATITUDE": -5.724936,
+        "LONGITUDE": 144.352752,
+        "REGHH": 9,
+        "TOTPOP2000": 37,
+        "MALE2000": 18,
+        "FEMALE2000": 19,
+        "POP2008": 45,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020313054,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.34938499981797,
+          -5.723597000201323
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16268,
+        "CU_NAME": "KUNEMP",
+        "CU_NO": "055",
+        "GEOCODE": "09020313055",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "13",
+        "WARD_NAME": "RAUNA",
+        "LATITUDE": -5.724533,
+        "LONGITUDE": 144.34972,
+        "REGHH": 34,
+        "TOTPOP2000": 136,
+        "MALE2000": 68,
+        "FEMALE2000": 68,
+        "POP2008": 166,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020313055,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16269,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.33928299981062,
+          -5.7272030001183225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16269,
+        "CU_NAME": "RUI PLANTATION",
+        "CU_NO": "401",
+        "GEOCODE": "09020313401",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "13",
+        "WARD_NAME": "RAUNA",
+        "LATITUDE": -5.728139,
+        "LONGITUDE": 144.339619,
+        "REGHH": 111,
+        "TOTPOP2000": 523,
+        "MALE2000": 276,
+        "FEMALE2000": 247,
+        "POP2008": 637,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020313401,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

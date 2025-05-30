@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7547,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.822011999854,
+          -7.39485000032721
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7547,
+        "CU_NAME": "M'BU'U",
+        "CU_NO": "002",
+        "GEOCODE": "02010507002",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "07",
+        "WARD_NAME": "BU'U",
+        "LATITUDE": -7.399167,
+        "LONGITUDE": 145.815871,
+        "REGHH": 74,
+        "TOTPOP2000": 477,
+        "MALE2000": 240,
+        "FEMALE2000": 237,
+        "POP2008": 585,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010507002,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7548,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.795990999585,
+          -7.391712000408461
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7548,
+        "CU_NAME": "SINDE",
+        "CU_NO": "006",
+        "GEOCODE": "02010507006",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "07",
+        "WARD_NAME": "BU'U",
+        "LATITUDE": -7.393138,
+        "LONGITUDE": 145.794949,
+        "REGHH": 9,
+        "TOTPOP2000": 52,
+        "MALE2000": 28,
+        "FEMALE2000": 24,
+        "POP2008": 62,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010507006,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7549,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.77348000020186,
+          -7.296568999759472
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7549,
+        "CU_NAME": "UKUNDI",
+        "CU_NO": "007",
+        "GEOCODE": "02010507007",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "07",
+        "WARD_NAME": "BU'U",
+        "LATITUDE": -7.297104,
+        "LONGITUDE": 145.782076,
+        "REGHH": 76,
+        "TOTPOP2000": 322,
+        "MALE2000": 167,
+        "FEMALE2000": 155,
+        "POP2008": 396,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010507007,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7550,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7882529997762,
+          -7.403672999809032
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7550,
+        "CU_NAME": "HANGKAI",
+        "CU_NO": "008",
+        "GEOCODE": "02010507008",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "07",
+        "WARD_NAME": "BU'U",
+        "LATITUDE": -7.405099,
+        "LONGITUDE": 145.787211,
+        "REGHH": 44,
+        "TOTPOP2000": 210,
+        "MALE2000": 103,
+        "FEMALE2000": 107,
+        "POP2008": 258,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010507008,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

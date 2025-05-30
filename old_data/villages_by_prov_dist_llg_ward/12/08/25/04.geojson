@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.65470400038942,
+          -6.3305820000592234
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12142,
+        "CU_NAME": "LOWAI 2",
+        "CU_NO": "013",
+        "GEOCODE": "12082504013",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "25",
+        "WARD_NO": "04",
+        "WARD_NAME": "LOWAI",
+        "LATITUDE": -6.33552,
+        "LONGITUDE": 146.651158,
+        "REGHH": 39,
+        "TOTPOP2000": 249,
+        "MALE2000": 114,
+        "FEMALE2000": 135,
+        "POP2008": 310,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082504013,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.65966299974775,
+          -6.343129000402996
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12143,
+        "CU_NAME": "LOWAI 1",
+        "CU_NO": "014",
+        "GEOCODE": "12082504014",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "25",
+        "WARD_NO": "04",
+        "WARD_NAME": "LOWAI",
+        "LATITUDE": -6.344545,
+        "LONGITUDE": 146.658635,
+        "REGHH": 38,
+        "TOTPOP2000": 249,
+        "MALE2000": 120,
+        "FEMALE2000": 129,
+        "POP2008": 310,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082504014,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.64256199983652,
+          -6.347089999603725
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12144,
+        "CU_NAME": "KAPORA",
+        "CU_NO": "015",
+        "GEOCODE": "12082504015",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "25",
+        "WARD_NO": "04",
+        "WARD_NAME": "LOWAI",
+        "LATITUDE": -6.348506,
+        "LONGITUDE": 146.641534,
+        "REGHH": 43,
+        "TOTPOP2000": 243,
+        "MALE2000": 132,
+        "FEMALE2000": 111,
+        "POP2008": 303,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082504015,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.67362299960178,
+          -6.355218000310401
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12145,
+        "CU_NAME": "NEMEM",
+        "CU_NO": "022",
+        "GEOCODE": "12082504022",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "25",
+        "WARD_NO": "04",
+        "WARD_NAME": "LOWAI",
+        "LATITUDE": -6.355398,
+        "LONGITUDE": 146.674658,
+        "REGHH": 17,
+        "TOTPOP2000": 115,
+        "MALE2000": 57,
+        "FEMALE2000": 58,
+        "POP2008": 143,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082504022,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

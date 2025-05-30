@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30600,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.36959480025985,
+          -6.574257539753603
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30600,
+        "CU_NAME": "AIYARU",
+        "CU_NO": "004",
+        "GEOCODE": "11071024004",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "24",
+        "WARD_NAME": "TAROTU-MANE",
+        "LATITUDE": -6.574258,
+        "LONGITUDE": 145.369595,
+        "REGHH": 51,
+        "TOTPOP2000": 222,
+        "MALE2000": 108,
+        "FEMALE2000": 114,
+        "POP2008": 264,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30601,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.33992791963783,
+          -6.547700879891636
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30601,
+        "CU_NAME": "AO-MANE",
+        "CU_NO": "010",
+        "GEOCODE": "11071024010",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "24",
+        "WARD_NAME": "TAROTU-MANE",
+        "LATITUDE": -6.547701,
+        "LONGITUDE": 145.339928,
+        "REGHH": 34,
+        "TOTPOP2000": 119,
+        "MALE2000": 62,
+        "FEMALE2000": 57,
+        "POP2008": 143,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30602,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.39954932004514,
+          -6.626434319887892
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30602,
+        "CU_NAME": "TAROTU-MANE",
+        "CU_NO": "036",
+        "GEOCODE": "11071024036",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "24",
+        "WARD_NAME": "TAROTU-MANE",
+        "LATITUDE": -6.626434,
+        "LONGITUDE": 145.399549,
+        "REGHH": 88,
+        "TOTPOP2000": 398,
+        "MALE2000": 193,
+        "FEMALE2000": 205,
+        "POP2008": 474,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30603,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.34787096037655,
+          -6.57023201959197
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30603,
+        "CU_NAME": "UTU-MANE",
+        "CU_NO": "037",
+        "GEOCODE": "11071024037",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "24",
+        "WARD_NAME": "TAROTU-MANE",
+        "LATITUDE": -6.570232,
+        "LONGITUDE": 145.347871,
+        "REGHH": 56,
+        "TOTPOP2000": 189,
+        "MALE2000": 91,
+        "FEMALE2000": 98,
+        "POP2008": 225,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

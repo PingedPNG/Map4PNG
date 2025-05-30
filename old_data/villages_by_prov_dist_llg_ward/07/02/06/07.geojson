@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19577,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.14054299985958,
+          -6.112100999861184
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19577,
+        "CU_NAME": "KAWILENGE",
+        "CU_NO": "001",
+        "GEOCODE": "07020607001",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "BEECHWOOD 2",
+        "LATITUDE": -6.116344,
+        "LONGITUDE": 144.140827,
+        "REGHH": 184,
+        "TOTPOP2000": 938,
+        "MALE2000": 452,
+        "FEMALE2000": 486,
+        "POP2008": 1303,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020607001,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

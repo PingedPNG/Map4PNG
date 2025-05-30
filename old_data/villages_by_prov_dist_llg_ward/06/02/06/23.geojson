@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13692,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.25241511106856,
+          -8.669839235592178
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13692,
+        "CU_NAME": "DARATA",
+        "CU_NO": "003",
+        "GEOCODE": "06020623003",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "AHORA & BEURU",
+        "LATITUDE": -8.68937,
+        "LONGITUDE": 148.247255,
+        "REGHH": 18,
+        "TOTPOP2000": 93,
+        "MALE2000": 55,
+        "FEMALE2000": 38,
+        "POP2008": 117,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020623003,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13693,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2453890002023,
+          -8.631488000370894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13693,
+        "CU_NAME": "BEURU",
+        "CU_NO": "019",
+        "GEOCODE": "06020623019",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "AHORA & BEURU",
+        "LATITUDE": -8.632932,
+        "LONGITUDE": 148.244377,
+        "REGHH": 31,
+        "TOTPOP2000": 179,
+        "MALE2000": 97,
+        "FEMALE2000": 82,
+        "POP2008": 222,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020623019,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13694,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.24431700022944,
+          -8.690069000284097
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13694,
+        "CU_NAME": "AHORA",
+        "CU_NO": "020",
+        "GEOCODE": "06020623020",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "AHORA & BEURU",
+        "LATITUDE": -8.692784,
+        "LONGITUDE": 148.241405,
+        "REGHH": 38,
+        "TOTPOP2000": 207,
+        "MALE2000": 96,
+        "FEMALE2000": 111,
+        "POP2008": 257,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020623020,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13695,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.24296599998092,
+          -8.6858869998851
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13695,
+        "CU_NAME": "AHORA VOP BLOCK",
+        "CU_NO": "402",
+        "GEOCODE": "06020623402",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "AHORA & BEURU",
+        "LATITUDE": -8.692386,
+        "LONGITUDE": 148.241971,
+        "REGHH": 48,
+        "TOTPOP2000": 283,
+        "MALE2000": 162,
+        "FEMALE2000": 121,
+        "POP2008": 351,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020623402,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13696,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2454260001099,
+          -8.641468000148052
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13696,
+        "CU_NAME": "DARATA VOP",
+        "CU_NO": "403",
+        "GEOCODE": "06020623403",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "AHORA & BEURU",
+        "LATITUDE": -8.64252,
+        "LONGITUDE": 148.240892,
+        "REGHH": 22,
+        "TOTPOP2000": 152,
+        "MALE2000": 80,
+        "FEMALE2000": 72,
+        "POP2008": 188,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020623403,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13697,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.23733400016408,
+          -8.690092000445418
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13697,
+        "CU_NAME": "AHORA C/SCH",
+        "CU_NO": "404",
+        "GEOCODE": "06020623404",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "AHORA & BEURU",
+        "LATITUDE": -8.692784,
+        "LONGITUDE": 148.241405,
+        "REGHH": 6,
+        "TOTPOP2000": 41,
+        "MALE2000": 22,
+        "FEMALE2000": 19,
+        "POP2008": 49,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020623404,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13698,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2355030002633,
+          -8.618060999915144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13698,
+        "CU_NAME": "BEURU BLOCKS",
+        "CU_NO": "405",
+        "GEOCODE": "06020623405",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "AHORA & BEURU",
+        "LATITUDE": -8.6164,
+        "LONGITUDE": 148.238165,
+        "REGHH": 34,
+        "TOTPOP2000": 187,
+        "MALE2000": 95,
+        "FEMALE2000": 92,
+        "POP2008": 231,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020623405,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

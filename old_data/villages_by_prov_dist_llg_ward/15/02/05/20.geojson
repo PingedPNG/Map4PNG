@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18532,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4188110002275,
+          -3.833435999971357
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18532,
+        "CU_NAME": "GAMU",
+        "CU_NO": "001",
+        "GEOCODE": "15020520001",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "GAMU",
+        "LATITUDE": -3.834818,
+        "LONGITUDE": 142.417733,
+        "REGHH": 82,
+        "TOTPOP2000": 379,
+        "MALE2000": 198,
+        "FEMALE2000": 181,
+        "POP2008": 458,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020520001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.47594900014633,
+          -3.887051000203428
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18533,
+        "CU_NAME": "ULAP",
+        "CU_NO": "006",
+        "GEOCODE": "15020520006",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "GAMU",
+        "LATITUDE": -3.891016,
+        "LONGITUDE": 142.471566,
+        "REGHH": 70,
+        "TOTPOP2000": 284,
+        "MALE2000": 137,
+        "FEMALE2000": 147,
+        "POP2008": 343,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020520006,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

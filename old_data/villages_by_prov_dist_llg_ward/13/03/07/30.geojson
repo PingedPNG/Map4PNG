@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8487,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.72936400024844,
+          -5.133487999771319
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8487,
+        "CU_NAME": "IRAGARAT",
+        "CU_NO": "017",
+        "GEOCODE": "13030730017",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "30",
+        "WARD_NAME": "WARD 30",
+        "LATITUDE": -5.134888,
+        "LONGITUDE": 144.728313,
+        "REGHH": 105,
+        "TOTPOP2000": 603,
+        "MALE2000": 327,
+        "FEMALE2000": 276,
+        "POP2008": 747,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030730017,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

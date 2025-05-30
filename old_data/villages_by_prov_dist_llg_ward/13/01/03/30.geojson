@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8041,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.92300699987322,
+          -4.432016999884581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8041,
+        "CU_NAME": "AMUK",
+        "CU_NO": "001",
+        "GEOCODE": "13010330001",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "30",
+        "WARD_NAME": "ANDEAMARUP",
+        "LATITUDE": -4.433409,
+        "LONGITUDE": 144.921959,
+        "REGHH": 96,
+        "TOTPOP2000": 478,
+        "MALE2000": 247,
+        "FEMALE2000": 231,
+        "POP2008": 592,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010330001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8042,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9325799997672,
+          -4.43715100011849
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8042,
+        "CU_NAME": "ANDEAMARUP",
+        "CU_NO": "002",
+        "GEOCODE": "13010330002",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "30",
+        "WARD_NAME": "ANDEAMARUP",
+        "LATITUDE": -4.438543,
+        "LONGITUDE": 144.931532,
+        "REGHH": 66,
+        "TOTPOP2000": 438,
+        "MALE2000": 225,
+        "FEMALE2000": 213,
+        "POP2008": 542,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010330002,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

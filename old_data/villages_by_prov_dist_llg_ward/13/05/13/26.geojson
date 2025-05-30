@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8996,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.90189199991596,
+          -4.701615000232039
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8996,
+        "CU_NAME": "MARUP 1",
+        "CU_NO": "020",
+        "GEOCODE": "13051326020",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "26",
+        "WARD_NAME": "WARD 26",
+        "LATITUDE": -4.703012,
+        "LONGITUDE": 145.900857,
+        "REGHH": 94,
+        "TOTPOP2000": 523,
+        "MALE2000": 261,
+        "FEMALE2000": 262,
+        "POP2008": 647,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051326020,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91755500006332,
+          -4.6994179996409
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8997,
+        "CU_NAME": "MARUP 2",
+        "CU_NO": "021",
+        "GEOCODE": "13051326021",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "26",
+        "WARD_NAME": "WARD 26",
+        "LATITUDE": -4.700815,
+        "LONGITUDE": 145.91652,
+        "REGHH": 129,
+        "TOTPOP2000": 691,
+        "MALE2000": 359,
+        "FEMALE2000": 332,
+        "POP2008": 855,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051326021,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8998,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.891611999794,
+          -4.692744000335324
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8998,
+        "CU_NAME": "MIDAN",
+        "CU_NO": "022",
+        "GEOCODE": "13051326022",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "26",
+        "WARD_NAME": "WARD 26",
+        "LATITUDE": -4.694141,
+        "LONGITUDE": 145.890576,
+        "REGHH": 32,
+        "TOTPOP2000": 170,
+        "MALE2000": 86,
+        "FEMALE2000": 84,
+        "POP2008": 211,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051326022,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8999,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89685299956636,
+          -4.7099519997848915
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8999,
+        "CU_NAME": "NUMAU COMM. SCH.",
+        "CU_NO": "411",
+        "GEOCODE": "13051326411",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "26",
+        "WARD_NAME": "WARD 26",
+        "LATITUDE": -4.711349,
+        "LONGITUDE": 145.895818,
+        "REGHH": 38,
+        "TOTPOP2000": 187,
+        "MALE2000": 96,
+        "FEMALE2000": 91,
+        "POP2008": 231,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051326411,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

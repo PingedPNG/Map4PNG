@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.96428800029105,
+          -5.471093000341625
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15496,
+        "CU_NAME": "YASAP",
+        "CU_NO": "001",
+        "GEOCODE": "01020915001",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "15",
+        "WARD_NAME": "YASAP",
+        "LATITUDE": -5.472491,
+        "LONGITUDE": 141.963202,
+        "REGHH": 28,
+        "TOTPOP2000": 193,
+        "MALE2000": 101,
+        "FEMALE2000": 92,
+        "POP2008": 250,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020915001,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15497,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.01425599961476,
+          -5.525162999972451
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15497,
+        "CU_NAME": "WANIABIL",
+        "CU_NO": "003",
+        "GEOCODE": "01020915003",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "15",
+        "WARD_NAME": "YASAP",
+        "LATITUDE": -5.526562,
+        "LONGITUDE": 142.01317,
+        "REGHH": 21,
+        "TOTPOP2000": 122,
+        "MALE2000": 57,
+        "FEMALE2000": 65,
+        "POP2008": 158,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020915003,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

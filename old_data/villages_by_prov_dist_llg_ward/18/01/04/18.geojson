@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4583,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1163410000372,
+          -4.258497000136401
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4583,
+        "CU_NAME": "RABURBUR",
+        "CU_NO": "011",
+        "GEOCODE": "18010418011",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "18",
+        "WARD_NAME": "RABURBUR",
+        "LATITUDE": -4.259897,
+        "LONGITUDE": 152.115394,
+        "REGHH": 112,
+        "TOTPOP2000": 732,
+        "MALE2000": 382,
+        "FEMALE2000": 350,
+        "POP2008": 892,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010418011,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

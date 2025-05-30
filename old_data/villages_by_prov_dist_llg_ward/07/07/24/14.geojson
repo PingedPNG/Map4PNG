@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21274,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4591889995727,
+          -6.218328999983328
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21274,
+        "CU_NAME": "ENJUA 1",
+        "CU_NO": "002",
+        "GEOCODE": "07072414002",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "24",
+        "WARD_NO": "14",
+        "WARD_NAME": "ENJUA 1",
+        "LATITUDE": -6.221614,
+        "LONGITUDE": 143.457521,
+        "REGHH": 167,
+        "TOTPOP2000": 769,
+        "MALE2000": 385,
+        "FEMALE2000": 384,
+        "POP2008": 1069,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072414002,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

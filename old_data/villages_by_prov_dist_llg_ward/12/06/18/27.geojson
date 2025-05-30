@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11690,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.32757800012462,
+          -6.368201000076056
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11690,
+        "CU_NAME": "SIRIWARANG",
+        "CU_NO": "015",
+        "GEOCODE": "12061827015",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "27",
+        "WARD_NAME": "SANGAN",
+        "LATITUDE": -6.369617,
+        "LONGITUDE": 146.326545,
+        "REGHH": 109,
+        "TOTPOP2000": 634,
+        "MALE2000": 316,
+        "FEMALE2000": 318,
+        "POP2008": 791,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061827015,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11691,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4262339999991,
+          -6.531935000000203
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11691,
+        "CU_NAME": "RIARA",
+        "CU_NO": "016",
+        "GEOCODE": "12061827016",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "27",
+        "WARD_NAME": "SANGAN",
+        "LATITUDE": -6.533353,
+        "LONGITUDE": 146.425202,
+        "REGHH": 66,
+        "TOTPOP2000": 374,
+        "MALE2000": 197,
+        "FEMALE2000": 177,
+        "POP2008": 466,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061827016,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11692,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.32208300033028,
+          -6.386506999798144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11692,
+        "CU_NAME": "SANGAN C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "12061827401",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "27",
+        "WARD_NAME": "SANGAN",
+        "LATITUDE": -6.392643,
+        "LONGITUDE": 146.324469,
+        "REGHH": 4,
+        "TOTPOP2000": 16,
+        "MALE2000": 7,
+        "FEMALE2000": 9,
+        "POP2008": 16,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061827401,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11693,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.34309799997277,
+          -6.389626999786174
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11693,
+        "CU_NAME": "LERON PLAINS FARM",
+        "CU_NO": "503",
+        "GEOCODE": "12061827503",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "27",
+        "WARD_NAME": "SANGAN",
+        "LATITUDE": -6.391043,
+        "LONGITUDE": 146.342066,
+        "REGHH": 18,
+        "TOTPOP2000": 84,
+        "MALE2000": 42,
+        "FEMALE2000": 42,
+        "POP2008": 105,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061827503,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

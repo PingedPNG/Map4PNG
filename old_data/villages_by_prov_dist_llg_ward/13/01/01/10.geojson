@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7858,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.17074400023546,
+          -4.393087999711383
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7858,
+        "CU_NAME": "AIDIBAL",
+        "CU_NO": "001",
+        "GEOCODE": "13010110001",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "AIDIBAL",
+        "LATITUDE": -4.39413,
+        "LONGITUDE": 145.169439,
+        "REGHH": 51,
+        "TOTPOP2000": 295,
+        "MALE2000": 161,
+        "FEMALE2000": 134,
+        "POP2008": 365,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010110001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7859,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.15157700037832,
+          -4.389351000048578
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7859,
+        "CU_NAME": "DALUA",
+        "CU_NO": "010",
+        "GEOCODE": "13010110010",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "AIDIBAL",
+        "LATITUDE": -4.390743,
+        "LONGITUDE": 145.150532,
+        "REGHH": 32,
+        "TOTPOP2000": 223,
+        "MALE2000": 114,
+        "FEMALE2000": 109,
+        "POP2008": 276,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010110010,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7860,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.16687399983527,
+          -4.386055000038198
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7860,
+        "CU_NAME": "KABAK COMM. SCH",
+        "CU_NO": "401",
+        "GEOCODE": "13010110401",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "AIDIBAL",
+        "LATITUDE": -4.386575,
+        "LONGITUDE": 145.162391,
+        "REGHH": 4,
+        "TOTPOP2000": 29,
+        "MALE2000": 18,
+        "FEMALE2000": 11,
+        "POP2008": 37,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010110401,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7861,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1570180003805,
+          -4.386578999920857
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7861,
+        "CU_NAME": "KABAK PLANTATION",
+        "CU_NO": "404",
+        "GEOCODE": "13010110404",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "AIDIBAL",
+        "LATITUDE": -4.387115,
+        "LONGITUDE": 145.158985,
+        "REGHH": 17,
+        "TOTPOP2000": 86,
+        "MALE2000": 51,
+        "FEMALE2000": 35,
+        "POP2008": 106,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010110404,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7862,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.17244500043648,
+          -4.392106000291619
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7862,
+        "CU_NAME": "BANARA CATH. MISS.",
+        "CU_NO": "501",
+        "GEOCODE": "13010110501",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "AIDIBAL",
+        "LATITUDE": -4.393847,
+        "LONGITUDE": 145.171312,
+        "REGHH": 9,
+        "TOTPOP2000": 44,
+        "MALE2000": 22,
+        "FEMALE2000": 22,
+        "POP2008": 52,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010110501,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

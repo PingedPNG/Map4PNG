@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8668,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.68453899957524,
+          -5.715902999723596
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8668,
+        "CU_NAME": "BAIPA",
+        "CU_NO": "005",
+        "GEOCODE": "13041009005",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD 9",
+        "LATITUDE": -5.714027,
+        "LONGITUDE": 145.687781,
+        "REGHH": 19,
+        "TOTPOP2000": 72,
+        "MALE2000": 36,
+        "FEMALE2000": 36,
+        "POP2008": 88,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041009005,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8669,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7680289997386,
+          -5.66845499969844
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8669,
+        "CU_NAME": "KWANJE",
+        "CU_NO": "008",
+        "GEOCODE": "13041009008",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD 9",
+        "LATITUDE": -5.669862,
+        "LONGITUDE": 145.76699,
+        "REGHH": 7,
+        "TOTPOP2000": 56,
+        "MALE2000": 26,
+        "FEMALE2000": 30,
+        "POP2008": 72,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041009008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8670,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.71989499955464,
+          -5.71249099975978
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8670,
+        "CU_NAME": "AUROP",
+        "CU_NO": "009",
+        "GEOCODE": "13041009009",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD 9",
+        "LATITUDE": -5.721916,
+        "LONGITUDE": 145.719496,
+        "REGHH": 11,
+        "TOTPOP2000": 26,
+        "MALE2000": 18,
+        "FEMALE2000": 8,
+        "POP2008": 34,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041009009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8671,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.74057099975187,
+          -5.729704000339325
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8671,
+        "CU_NAME": "SISARI",
+        "CU_NO": "011",
+        "GEOCODE": "13041009011",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD 9",
+        "LATITUDE": -5.727272,
+        "LONGITUDE": 145.740636,
+        "REGHH": 8,
+        "TOTPOP2000": 49,
+        "MALE2000": 26,
+        "FEMALE2000": 23,
+        "POP2008": 58,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041009011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8672,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.66361399958646,
+          -5.696477999659919
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8672,
+        "CU_NAME": "SAIPA",
+        "CU_NO": "026",
+        "GEOCODE": "13041009026",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD 9",
+        "LATITUDE": -5.696249,
+        "LONGITUDE": 145.667291,
+        "REGHH": 49,
+        "TOTPOP2000": 238,
+        "MALE2000": 137,
+        "FEMALE2000": 101,
+        "POP2008": 295,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041009026,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.65851600011342,
+          -5.6506329998130695
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8673,
+        "CU_NAME": "YOKOBI",
+        "CU_NO": "032",
+        "GEOCODE": "13041009032",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD 9",
+        "LATITUDE": -5.65441,
+        "LONGITUDE": 145.65454,
+        "REGHH": 7,
+        "TOTPOP2000": 34,
+        "MALE2000": 20,
+        "FEMALE2000": 14,
+        "POP2008": 42,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041009032,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

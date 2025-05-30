@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17455,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.13297599984253,
+          -5.8564099996217465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17455,
+        "CU_NAME": "GIHAMU",
+        "CU_NO": "014",
+        "GEOCODE": "09071201014",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "GIHAMU 1",
+        "LATITUDE": -5.857348,
+        "LONGITUDE": 144.133309,
+        "REGHH": 105,
+        "TOTPOP2000": 446,
+        "MALE2000": 213,
+        "FEMALE2000": 233,
+        "POP2008": 543,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071201014,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17456,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.12033799979895,
+          -5.844764000358282
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17456,
+        "CU_NAME": "ENAMONG",
+        "CU_NO": "015",
+        "GEOCODE": "09071201015",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "GIHAMU 1",
+        "LATITUDE": -5.845702,
+        "LONGITUDE": 144.120671,
+        "REGHH": 80,
+        "TOTPOP2000": 335,
+        "MALE2000": 162,
+        "FEMALE2000": 173,
+        "POP2008": 408,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071201015,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17457,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.13088899982756,
+          -5.848982999765553
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17457,
+        "CU_NAME": "GIHAMU C/S",
+        "CU_NO": "401",
+        "GEOCODE": "09071201401",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "GIHAMU 1",
+        "LATITUDE": -5.849921,
+        "LONGITUDE": 144.131222,
+        "REGHH": 1,
+        "TOTPOP2000": 5,
+        "MALE2000": 2,
+        "FEMALE2000": 3,
+        "POP2008": 5,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071201401,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

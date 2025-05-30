@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8676,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70529199972611,
+          -5.478587999736362
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8676,
+        "CU_NAME": "BAWAK",
+        "CU_NO": "007",
+        "GEOCODE": "13041011007",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -5.481626,
+        "LONGITUDE": 145.701387,
+        "REGHH": 65,
+        "TOTPOP2000": 369,
+        "MALE2000": 178,
+        "FEMALE2000": 191,
+        "POP2008": 457,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041011007,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6992350000952,
+          -5.4773490001562095
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8677,
+        "CU_NAME": "WALIGA",
+        "CU_NO": "011",
+        "GEOCODE": "13041011011",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -5.478754,
+        "LONGITUDE": 145.698196,
+        "REGHH": 32,
+        "TOTPOP2000": 195,
+        "MALE2000": 96,
+        "FEMALE2000": 99,
+        "POP2008": 241,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041011011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8678,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.71276199976649,
+          -5.485795000239023
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8678,
+        "CU_NAME": "JAMJAM",
+        "CU_NO": "016",
+        "GEOCODE": "13041011016",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -5.4872,
+        "LONGITUDE": 145.711723,
+        "REGHH": 48,
+        "TOTPOP2000": 296,
+        "MALE2000": 155,
+        "FEMALE2000": 141,
+        "POP2008": 366,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041011016,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8679,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7067660002508,
+          -5.470601000136014
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8679,
+        "CU_NAME": "TIRE",
+        "CU_NO": "018",
+        "GEOCODE": "13041011018",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -5.472006,
+        "LONGITUDE": 145.705727,
+        "REGHH": 12,
+        "TOTPOP2000": 71,
+        "MALE2000": 41,
+        "FEMALE2000": 30,
+        "POP2008": 87,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041011018,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8680,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.65270199999736,
+          -5.481163999818705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8680,
+        "CU_NAME": "BUAI",
+        "CU_NO": "025",
+        "GEOCODE": "13041011025",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -5.491109,
+        "LONGITUDE": 145.651642,
+        "REGHH": 38,
+        "TOTPOP2000": 210,
+        "MALE2000": 110,
+        "FEMALE2000": 100,
+        "POP2008": 260,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041011025,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8681,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.71801300000004,
+          -5.478244000060499
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8681,
+        "CU_NAME": "USINO SETTLEMENT",
+        "CU_NO": "401",
+        "GEOCODE": "13041011401",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -5.479649,
+        "LONGITUDE": 145.716974,
+        "REGHH": 18,
+        "TOTPOP2000": 151,
+        "MALE2000": 83,
+        "FEMALE2000": 68,
+        "POP2008": 187,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041011401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

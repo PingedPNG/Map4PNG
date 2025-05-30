@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4719,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.30897099971196,
+          -4.3706940003278305
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4719,
+        "CU_NAME": "LIVUAN",
+        "CU_NO": "011",
+        "GEOCODE": "18020809011",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "09",
+        "WARD_NAME": "LIVUAN",
+        "LATITUDE": -4.372095,
+        "LONGITUDE": 152.308027,
+        "REGHH": 94,
+        "TOTPOP2000": 524,
+        "MALE2000": 282,
+        "FEMALE2000": 242,
+        "POP2008": 638,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020809011,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

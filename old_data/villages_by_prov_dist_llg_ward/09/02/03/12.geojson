@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3356040001246,
+          -5.721228999818436
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16262,
+        "CU_NAME": "PENG 1",
+        "CU_NO": "001",
+        "GEOCODE": "09020312001",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "PENG",
+        "LATITUDE": -5.722165,
+        "LONGITUDE": 144.33594,
+        "REGHH": 59,
+        "TOTPOP2000": 256,
+        "MALE2000": 128,
+        "FEMALE2000": 128,
+        "POP2008": 312,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020312001,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3410809999882,
+          -5.7236130000398475
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16263,
+        "CU_NAME": "PENG 2",
+        "CU_NO": "002",
+        "GEOCODE": "09020312002",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "PENG",
+        "LATITUDE": -5.724549,
+        "LONGITUDE": 144.341416,
+        "REGHH": 49,
+        "TOTPOP2000": 165,
+        "MALE2000": 82,
+        "FEMALE2000": 83,
+        "POP2008": 201,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020312002,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16264,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.31989599970063,
+          -5.724183000245205
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16264,
+        "CU_NAME": "MINJIM",
+        "CU_NO": "003",
+        "GEOCODE": "09020312003",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "PENG",
+        "LATITUDE": -5.725119,
+        "LONGITUDE": 144.32023,
+        "REGHH": 52,
+        "TOTPOP2000": 208,
+        "MALE2000": 107,
+        "FEMALE2000": 101,
+        "POP2008": 253,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020312003,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.32065799976692,
+          -5.727757999631933
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16265,
+        "CU_NAME": "ENGAL C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "09020312401",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "PENG",
+        "LATITUDE": -5.728694,
+        "LONGITUDE": 144.320992,
+        "REGHH": 81,
+        "TOTPOP2000": 299,
+        "MALE2000": 147,
+        "FEMALE2000": 152,
+        "POP2008": 364,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020312401,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

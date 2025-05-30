@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18621,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1974300002944,
+          -3.5454329998330536
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18621,
+        "CU_NAME": "WULUKUM",
+        "CU_NO": "019",
+        "GEOCODE": "15020706019",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "WULUKUM",
+        "LATITUDE": -3.546812,
+        "LONGITUDE": 142.196349,
+        "REGHH": 95,
+        "TOTPOP2000": 473,
+        "MALE2000": 231,
+        "FEMALE2000": 242,
+        "POP2008": 571,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020706019,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

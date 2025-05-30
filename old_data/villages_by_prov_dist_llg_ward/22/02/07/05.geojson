@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16946,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.91498799969645,
+          -5.727208000348867
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16946,
+        "CU_NAME": "MONGUM",
+        "CU_NO": "012",
+        "GEOCODE": "09040705012",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "MONGUM",
+        "LATITUDE": -5.728817,
+        "LONGITUDE": 144.915331,
+        "REGHH": 67,
+        "TOTPOP2000": 359,
+        "MALE2000": 184,
+        "FEMALE2000": 175,
+        "POP2008": 437,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040705012,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16947,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9218199999931,
+          -5.7303800000369165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16947,
+        "CU_NAME": "AMBNUM",
+        "CU_NO": "013",
+        "GEOCODE": "09040705013",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "MONGUM",
+        "LATITUDE": -5.728817,
+        "LONGITUDE": 144.915331,
+        "REGHH": 58,
+        "TOTPOP2000": 359,
+        "MALE2000": 183,
+        "FEMALE2000": 176,
+        "POP2008": 437,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040705013,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16948,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9165269996214,
+          -5.722939000434451
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16948,
+        "CU_NAME": "NGOND KENDEI",
+        "CU_NO": "014",
+        "GEOCODE": "09040705014",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "MONGUM",
+        "LATITUDE": -5.728817,
+        "LONGITUDE": 144.915331,
+        "REGHH": 33,
+        "TOTPOP2000": 146,
+        "MALE2000": 80,
+        "FEMALE2000": 66,
+        "POP2008": 178,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040705014,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

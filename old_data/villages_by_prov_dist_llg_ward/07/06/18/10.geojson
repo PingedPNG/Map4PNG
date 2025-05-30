@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20941,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6048919998659,
+          -6.060048999761477
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20941,
+        "CU_NAME": "BIA-TULUM",
+        "CU_NO": "021",
+        "GEOCODE": "07061810021",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "10",
+        "WARD_NAME": "TULUM 1",
+        "LATITUDE": -6.065283,
+        "LONGITUDE": 143.605008,
+        "REGHH": 34,
+        "TOTPOP2000": 184,
+        "MALE2000": 99,
+        "FEMALE2000": 85,
+        "POP2008": 255,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061810021,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60326999971073,
+          -6.061897999592986
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20942,
+        "CU_NAME": "WEI",
+        "CU_NO": "022",
+        "GEOCODE": "07061810022",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "10",
+        "WARD_NAME": "TULUM 1",
+        "LATITUDE": -6.065283,
+        "LONGITUDE": 143.605008,
+        "REGHH": 39,
+        "TOTPOP2000": 246,
+        "MALE2000": 122,
+        "FEMALE2000": 124,
+        "POP2008": 342,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061810022,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20943,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60942800040198,
+          -6.058089000207133
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20943,
+        "CU_NAME": "SU TOMBE-TELEM",
+        "CU_NO": "023",
+        "GEOCODE": "07061810023",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "10",
+        "WARD_NAME": "TULUM 1",
+        "LATITUDE": -6.065283,
+        "LONGITUDE": 143.605008,
+        "REGHH": 40,
+        "TOTPOP2000": 192,
+        "MALE2000": 103,
+        "FEMALE2000": 89,
+        "POP2008": 266,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061810023,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

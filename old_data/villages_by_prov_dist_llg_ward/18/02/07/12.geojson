@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4704,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.46408399957693,
+          -4.218706999828157
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4704,
+        "CU_NAME": "MUALIM",
+        "CU_NO": "022",
+        "GEOCODE": "18020712022",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "12",
+        "WARD_NAME": "MUALIM",
+        "LATITUDE": -4.218462,
+        "LONGITUDE": 152.463025,
+        "REGHH": 77,
+        "TOTPOP2000": 412,
+        "MALE2000": 208,
+        "FEMALE2000": 204,
+        "POP2008": 502,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020712022,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

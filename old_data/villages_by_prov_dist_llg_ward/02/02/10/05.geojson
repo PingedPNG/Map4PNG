@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7805,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.85474599982808,
+          -7.781259999649194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7805,
+        "CU_NAME": "GIBU NO. 1 & 2",
+        "CU_NO": "004",
+        "GEOCODE": "02021005004",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "GIBU",
+        "LATITUDE": -7.779784,
+        "LONGITUDE": 143.853699,
+        "REGHH": 3,
+        "TOTPOP2000": 16,
+        "MALE2000": 6,
+        "FEMALE2000": 10,
+        "POP2008": 16,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021005004,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7806,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.88800200009234,
+          -7.7641070000379955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7806,
+        "CU_NAME": "HARAGU",
+        "CU_NO": "006",
+        "GEOCODE": "02021005006",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "GIBU",
+        "LATITUDE": -7.765543,
+        "LONGITUDE": 143.888452,
+        "REGHH": 9,
+        "TOTPOP2000": 47,
+        "MALE2000": 30,
+        "FEMALE2000": 17,
+        "POP2008": 55,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021005006,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7807,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.89195599986954,
+          -7.913619999763114
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7807,
+        "CU_NAME": "MAPOIA",
+        "CU_NO": "010",
+        "GEOCODE": "02021005010",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "GIBU",
+        "LATITUDE": -7.914343,
+        "LONGITUDE": 143.893803,
+        "REGHH": 12,
+        "TOTPOP2000": 70,
+        "MALE2000": 37,
+        "FEMALE2000": 33,
+        "POP2008": 86,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021005010,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 959,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.17781700025444,
+          -10.090654000181928
+        ]
+      },
+      "properties": {
+        "OBJECTID": 959,
+        "CU_NAME": "GAVUONE",
+        "CU_NO": "015",
+        "GEOCODE": "03010214015",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "GAVUONE",
+        "LATITUDE": -10.090877,
+        "LONGITUDE": 148.178465,
+        "REGHH": 336,
+        "TOTPOP2000": 2418,
+        "MALE2000": 1215,
+        "FEMALE2000": 1203,
+        "POP2008": 2901,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010214015,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 960,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.1885759999825,
+          -10.080352999990907
+        ]
+      },
+      "properties": {
+        "OBJECTID": 960,
+        "CU_NAME": "MANAGA SETTLEMENT",
+        "CU_NO": "016",
+        "GEOCODE": "03010214016",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "GAVUONE",
+        "LATITUDE": -10.081812,
+        "LONGITUDE": 148.187559,
+        "REGHH": 2,
+        "TOTPOP2000": 12,
+        "MALE2000": 8,
+        "FEMALE2000": 4,
+        "POP2008": 12,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010214016,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 961,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.18051899985198,
+          -10.087748000170052
+        ]
+      },
+      "properties": {
+        "OBJECTID": 961,
+        "CU_NAME": "GAVUONE COMM. SCHOOL",
+        "CU_NO": "409",
+        "GEOCODE": "03010214409",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "GAVUONE",
+        "LATITUDE": -10.089207,
+        "LONGITUDE": 148.179502,
+        "REGHH": 3,
+        "TOTPOP2000": 12,
+        "MALE2000": 7,
+        "FEMALE2000": 5,
+        "POP2008": 12,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010214409,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 962,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.15589500015415,
+          -9.937276000287113
+        ]
+      },
+      "properties": {
+        "OBJECTID": 962,
+        "CU_NAME": "LAKO SETTLEMENT",
+        "CU_NO": "411",
+        "GEOCODE": "03010214411",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "GAVUONE",
+        "LATITUDE": -9.938733,
+        "LONGITUDE": 148.154878,
+        "REGHH": 3,
+        "TOTPOP2000": 23,
+        "MALE2000": 10,
+        "FEMALE2000": 13,
+        "POP2008": 31,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010214411,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.17660500012073,
+          -10.037534000293817
+        ]
+      },
+      "properties": {
+        "OBJECTID": 963,
+        "CU_NAME": "LOKALOKA S'MNT",
+        "CU_NO": "412",
+        "GEOCODE": "03010214412",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "GAVUONE",
+        "LATITUDE": -10.038992,
+        "LONGITUDE": 148.175588,
+        "REGHH": 5,
+        "TOTPOP2000": 42,
+        "MALE2000": 22,
+        "FEMALE2000": 20,
+        "POP2008": 50,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010214412,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

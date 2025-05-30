@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9682,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.27073899970515,
+          -10.165671999962797
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9682,
+        "CU_NAME": "TOPURA",
+        "CU_NO": "017",
+        "GEOCODE": "05010402017",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "02",
+        "WARD_NAME": "TOPURA",
+        "LATITUDE": -10.16618,
+        "LONGITUDE": 150.267484,
+        "REGHH": 99,
+        "TOTPOP2000": 442,
+        "MALE2000": 210,
+        "FEMALE2000": 232,
+        "POP2008": 539,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010402017,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

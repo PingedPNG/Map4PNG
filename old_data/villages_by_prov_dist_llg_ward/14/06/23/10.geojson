@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7231,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.28016499961507,
+          -3.607233999849143
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7231,
+        "CU_NAME": "MOMBUK",
+        "CU_NO": "017",
+        "GEOCODE": "14062310017",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "23",
+        "WARD_NO": "10",
+        "WARD_NAME": "SINIANGU/MOMBUK",
+        "LATITUDE": -3.608812,
+        "LONGITUDE": 143.278929,
+        "REGHH": 67,
+        "TOTPOP2000": 347,
+        "MALE2000": 161,
+        "FEMALE2000": 186,
+        "POP2008": 414,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062310017,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.27753399969436,
+          -3.6209700001653005
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7232,
+        "CU_NAME": "SINIANGU",
+        "CU_NO": "030",
+        "GEOCODE": "14062310030",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "23",
+        "WARD_NO": "10",
+        "WARD_NAME": "SINIANGU/MOMBUK",
+        "LATITUDE": -3.622548,
+        "LONGITUDE": 143.276296,
+        "REGHH": 45,
+        "TOTPOP2000": 202,
+        "MALE2000": 101,
+        "FEMALE2000": 101,
+        "POP2008": 241,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062310030,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

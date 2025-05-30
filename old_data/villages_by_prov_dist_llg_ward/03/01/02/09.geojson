@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 949,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.13215799999182,
+          -9.97925599996438
+        ]
+      },
+      "properties": {
+        "OBJECTID": 949,
+        "CU_NAME": "BUKUKU",
+        "CU_NO": "007",
+        "GEOCODE": "03010209007",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "BUKUKU",
+        "LATITUDE": -9.980714,
+        "LONGITUDE": 148.131141,
+        "REGHH": 30,
+        "TOTPOP2000": 174,
+        "MALE2000": 86,
+        "FEMALE2000": 88,
+        "POP2008": 208,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010209007,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 950,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.16636500004483,
+          -10.025380000086898
+        ]
+      },
+      "properties": {
+        "OBJECTID": 950,
+        "CU_NAME": "KALAPA",
+        "CU_NO": "021",
+        "GEOCODE": "03010209021",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "BUKUKU",
+        "LATITUDE": -10.026237,
+        "LONGITUDE": 148.165785,
+        "REGHH": 24,
+        "TOTPOP2000": 173,
+        "MALE2000": 86,
+        "FEMALE2000": 87,
+        "POP2008": 207,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010209021,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 951,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.10846400001367,
+          -10.020843000404113
+        ]
+      },
+      "properties": {
+        "OBJECTID": 951,
+        "CU_NAME": "UDIRI",
+        "CU_NO": "041",
+        "GEOCODE": "03010209041",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "BUKUKU",
+        "LATITUDE": -10.022301,
+        "LONGITUDE": 148.107446,
+        "REGHH": 13,
+        "TOTPOP2000": 86,
+        "MALE2000": 42,
+        "FEMALE2000": 44,
+        "POP2008": 102,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010209041,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

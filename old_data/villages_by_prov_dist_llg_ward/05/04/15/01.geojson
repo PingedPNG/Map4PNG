@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10245,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.88241083439254,
+          -9.945315500509878
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10245,
+        "CU_NAME": "MAIABARI",
+        "CU_NO": "006",
+        "GEOCODE": "05041501006",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "MAIABARI",
+        "LATITUDE": -9.9408,
+        "LONGITUDE": 150.889,
+        "REGHH": 52,
+        "TOTPOP2000": 288,
+        "MALE2000": 148,
+        "FEMALE2000": 140,
+        "POP2008": 351,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041501006,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

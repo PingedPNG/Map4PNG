@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1626,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.7676040004244,
+          -9.948265999875957
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1626,
+        "CU_NAME": "GOULUPU",
+        "CU_NO": "036",
+        "GEOCODE": "03041121036",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "21",
+        "WARD_NAME": "GOULUPU",
+        "LATITUDE": -9.949722,
+        "LONGITUDE": 147.766582,
+        "REGHH": 89,
+        "TOTPOP2000": 457,
+        "MALE2000": 251,
+        "FEMALE2000": 206,
+        "POP2008": 549,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041121036,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1627,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.77983799982394,
+          -9.9430660001957
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1627,
+        "CU_NAME": "LAUNAKALANA DPI",
+        "CU_NO": "505",
+        "GEOCODE": "03041121505",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "21",
+        "WARD_NAME": "GOULUPU",
+        "LATITUDE": -9.944522,
+        "LONGITUDE": 147.778816,
+        "REGHH": 26,
+        "TOTPOP2000": 102,
+        "MALE2000": 54,
+        "FEMALE2000": 48,
+        "POP2008": 122,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041121505,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

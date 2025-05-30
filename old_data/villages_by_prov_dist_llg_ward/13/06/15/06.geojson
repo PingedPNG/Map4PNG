@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9157,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.15034200008336,
+          -5.73571399960133
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9157,
+        "CU_NAME": "YANDARA",
+        "CU_NO": "032",
+        "GEOCODE": "13061506032",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "06",
+        "WARD_NAME": "WARD 6",
+        "LATITUDE": -5.737121,
+        "LONGITUDE": 145.149295,
+        "REGHH": 96,
+        "TOTPOP2000": 486,
+        "MALE2000": 260,
+        "FEMALE2000": 226,
+        "POP2008": 601,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061506032,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

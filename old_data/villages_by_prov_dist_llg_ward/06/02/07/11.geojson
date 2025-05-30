@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13787,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.91125100033344,
+          -8.052304000129482
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13787,
+        "CU_NAME": "KOTAURE",
+        "CU_NO": "012",
+        "GEOCODE": "06020711012",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "11",
+        "WARD_NAME": "KOTAURE",
+        "LATITUDE": -8.044897,
+        "LONGITUDE": 147.910216,
+        "REGHH": 42,
+        "TOTPOP2000": 207,
+        "MALE2000": 111,
+        "FEMALE2000": 96,
+        "POP2008": 257,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020711012,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13788,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.9220019996926,
+          -8.022123999622863
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13788,
+        "CU_NAME": "YAJIWARI",
+        "CU_NO": "029",
+        "GEOCODE": "06020711029",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "11",
+        "WARD_NAME": "KATAURE",
+        "LATITUDE": -8.023561,
+        "LONGITUDE": 147.920987,
+        "REGHH": 14,
+        "TOTPOP2000": 85,
+        "MALE2000": 44,
+        "FEMALE2000": 41,
+        "POP2008": 105,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020711029,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13789,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.8908969996968,
+          -8.077315999733571
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13789,
+        "CU_NAME": "JINGADA, CP 02 & 03",
+        "CU_NO": "031",
+        "GEOCODE": "06020711031",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "11",
+        "WARD_NAME": "KATAURE",
+        "LATITUDE": -8.081288,
+        "LONGITUDE": 147.886718,
+        "REGHH": 31,
+        "TOTPOP2000": 173,
+        "MALE2000": 91,
+        "FEMALE2000": 82,
+        "POP2008": 214,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020711031,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13790,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.9049270000811,
+          -8.045828000062102
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13790,
+        "CU_NAME": "KOTAURE C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "06020711401",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "11",
+        "WARD_NAME": "KATAURE",
+        "LATITUDE": -8.047253,
+        "LONGITUDE": 147.908983,
+        "REGHH": 1,
+        "TOTPOP2000": 1,
+        "MALE2000": 1,
+        "FEMALE2000": 0,
+        "POP2008": 1,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020711401,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

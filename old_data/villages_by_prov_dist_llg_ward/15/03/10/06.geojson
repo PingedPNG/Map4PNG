@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18730,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.70661100019754,
+          -5.023772999824018
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18730,
+        "CU_NAME": "ABUNGKAMIN",
+        "CU_NO": "001",
+        "GEOCODE": "15031006001",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "ABUNGKAMIN",
+        "LATITUDE": -5.025167,
+        "LONGITUDE": 141.705522,
+        "REGHH": 19,
+        "TOTPOP2000": 184,
+        "MALE2000": 87,
+        "FEMALE2000": 97,
+        "POP2008": 223,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031006001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18731,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.67973199993196,
+          -5.041041000241933
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18731,
+        "CU_NAME": "KOBRENMIN (ELIPTAMIN)",
+        "CU_NO": "018",
+        "GEOCODE": "15031006018",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "ABUNGKAMIN",
+        "LATITUDE": -5.042435,
+        "LONGITUDE": 141.678643,
+        "REGHH": 43,
+        "TOTPOP2000": 330,
+        "MALE2000": 162,
+        "FEMALE2000": 168,
+        "POP2008": 398,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031006018,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18732,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.68406500009974,
+          -5.048007000422672
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18732,
+        "CU_NAME": "TRAPDAVIP",
+        "CU_NO": "030",
+        "GEOCODE": "15031006030",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "ABUNGKAMIN",
+        "LATITUDE": -5.049401,
+        "LONGITUDE": 141.682976,
+        "REGHH": 16,
+        "TOTPOP2000": 143,
+        "MALE2000": 68,
+        "FEMALE2000": 75,
+        "POP2008": 174,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031006030,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18733,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.69213299983812,
+          -5.032347000413665
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18733,
+        "CU_NAME": "UTEMTIGIN",
+        "CU_NO": "032",
+        "GEOCODE": "15031006032",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "ABUNGKAMIN",
+        "LATITUDE": -5.033741,
+        "LONGITUDE": 141.691044,
+        "REGHH": 20,
+        "TOTPOP2000": 151,
+        "MALE2000": 78,
+        "FEMALE2000": 73,
+        "POP2008": 183,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031006032,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

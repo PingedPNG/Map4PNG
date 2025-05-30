@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5782,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.69538099993326,
+          -5.441283999856637
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5782,
+        "CU_NAME": "KAIAP",
+        "CU_NO": "001",
+        "GEOCODE": "08041110001",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "10",
+        "WARD_NAME": "KAIAP",
+        "LATITUDE": -5.442685,
+        "LONGITUDE": 143.694316,
+        "REGHH": 37,
+        "TOTPOP2000": 186,
+        "MALE2000": 85,
+        "FEMALE2000": 101,
+        "POP2008": 234,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041110001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5783,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.70061700037434,
+          -5.444302999683657
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5783,
+        "CU_NAME": "ANDALMALE",
+        "CU_NO": "002",
+        "GEOCODE": "08041110002",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "10",
+        "WARD_NAME": "KAIAP",
+        "LATITUDE": -5.445704,
+        "LONGITUDE": 143.699552,
+        "REGHH": 41,
+        "TOTPOP2000": 186,
+        "MALE2000": 101,
+        "FEMALE2000": 85,
+        "POP2008": 234,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041110002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5784,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.69939199964108,
+          -5.44146700020184
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5784,
+        "CU_NAME": "LAKEN",
+        "CU_NO": "003",
+        "GEOCODE": "08041110003",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "10",
+        "WARD_NAME": "KAIAP",
+        "LATITUDE": -5.442868,
+        "LONGITUDE": 143.698327,
+        "REGHH": 41,
+        "TOTPOP2000": 200,
+        "MALE2000": 100,
+        "FEMALE2000": 100,
+        "POP2008": 251,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041110003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5785,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6652780002795,
+          -5.478634000059003
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5785,
+        "CU_NAME": "KEPESANDA",
+        "CU_NO": "004",
+        "GEOCODE": "08041110004",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "10",
+        "WARD_NAME": "KAIAP",
+        "LATITUDE": -5.478741,
+        "LONGITUDE": 143.6535,
+        "REGHH": 37,
+        "TOTPOP2000": 192,
+        "MALE2000": 100,
+        "FEMALE2000": 92,
+        "POP2008": 242,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041110004,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

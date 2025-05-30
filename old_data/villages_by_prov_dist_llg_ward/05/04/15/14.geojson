@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.78446466940898,
+          -9.614601262837937
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10259,
+        "CU_NAME": "GALUBWA",
+        "CU_NO": "008",
+        "GEOCODE": "05041514008",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "14",
+        "WARD_NAME": "GALUBWA",
+        "LATITUDE": -9.618475,
+        "LONGITUDE": 150.790068,
+        "REGHH": 108,
+        "TOTPOP2000": 560,
+        "MALE2000": 279,
+        "FEMALE2000": 281,
+        "POP2008": 682,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041514008,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

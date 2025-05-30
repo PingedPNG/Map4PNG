@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5439669999771,
+          -3.6763150001370946
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18504,
+        "CU_NAME": "HAMBASAMA",
+        "CU_NO": "007",
+        "GEOCODE": "15020511007",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "HAMBASAMA",
+        "LATITUDE": -3.674375,
+        "LONGITUDE": 142.543413,
+        "REGHH": 166,
+        "TOTPOP2000": 799,
+        "MALE2000": 414,
+        "FEMALE2000": 385,
+        "POP2008": 967,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020511007,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18505,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5362989997991,
+          -3.671275999787497
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18505,
+        "CU_NAME": "SEPITALA",
+        "CU_NO": "012",
+        "GEOCODE": "15020511012",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "HAMBASAMA",
+        "LATITUDE": -3.665168,
+        "LONGITUDE": 142.53521,
+        "REGHH": 86,
+        "TOTPOP2000": 453,
+        "MALE2000": 237,
+        "FEMALE2000": 216,
+        "POP2008": 548,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020511012,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18506,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5406439996209,
+          -3.6570769997037473
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18506,
+        "CU_NAME": "NUKUANGLO DPI STATI",
+        "CU_NO": "402",
+        "GEOCODE": "15020511402",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "HAMBASAMA",
+        "LATITUDE": -3.658458,
+        "LONGITUDE": 142.539567,
+        "REGHH": 3,
+        "TOTPOP2000": 25,
+        "MALE2000": 15,
+        "FEMALE2000": 10,
+        "POP2008": 33,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020511402,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18507,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4769899995889,
+          -3.673432000286539
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18507,
+        "CU_NAME": "NUKU HIGH",
+        "CU_NO": "501",
+        "GEOCODE": "15020511501",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "HAMBASAMA",
+        "LATITUDE": -3.674233,
+        "LONGITUDE": 142.482153,
+        "REGHH": 4,
+        "TOTPOP2000": 11,
+        "MALE2000": 7,
+        "FEMALE2000": 4,
+        "POP2008": 11,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020511501,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

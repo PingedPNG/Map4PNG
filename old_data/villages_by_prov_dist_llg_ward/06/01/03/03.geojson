@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13242,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3896220001552,
+          -9.102761000219914
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13242,
+        "CU_NAME": "KAWOWOKI",
+        "CU_NO": "011",
+        "GEOCODE": "06010303011",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "KAWOWOKI",
+        "LATITUDE": -9.104211,
+        "LONGITUDE": 148.388611,
+        "REGHH": 59,
+        "TOTPOP2000": 443,
+        "MALE2000": 231,
+        "FEMALE2000": 212,
+        "POP2008": 548,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010303011,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

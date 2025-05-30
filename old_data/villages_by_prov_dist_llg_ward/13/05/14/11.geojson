@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9058,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.69964500011667,
+          -4.824487999921189
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9058,
+        "CU_NAME": "GARUP",
+        "CU_NO": "011",
+        "GEOCODE": "13051411011",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -4.825886,
+        "LONGITUDE": 145.698607,
+        "REGHH": 84,
+        "TOTPOP2000": 601,
+        "MALE2000": 316,
+        "FEMALE2000": 285,
+        "POP2008": 745,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051411011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9059,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70932100026403,
+          -4.848528999713494
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9059,
+        "CU_NAME": "KURUM",
+        "CU_NO": "013",
+        "GEOCODE": "13051411013",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -4.849927,
+        "LONGITUDE": 145.708283,
+        "REGHH": 36,
+        "TOTPOP2000": 285,
+        "MALE2000": 141,
+        "FEMALE2000": 144,
+        "POP2008": 353,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051411013,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9060,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.69418099995323,
+          -4.847937000292291
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9060,
+        "CU_NAME": "ZIZI",
+        "CU_NO": "014",
+        "GEOCODE": "13051411014",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -4.84646,
+        "LONGITUDE": 145.68988,
+        "REGHH": 37,
+        "TOTPOP2000": 255,
+        "MALE2000": 136,
+        "FEMALE2000": 119,
+        "POP2008": 315,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051411014,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

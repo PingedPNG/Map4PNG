@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10313,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.962091999746,
+          -10.101909000300054
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10313,
+        "CU_NAME": "BWASIYAIYAI",
+        "CU_NO": "004",
+        "GEOCODE": "05041627004",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "16",
+        "WARD_NO": "27",
+        "WARD_NAME": "BWASIYAIYAI",
+        "LATITUDE": -10.099594,
+        "LONGITUDE": 150.957346,
+        "REGHH": 71,
+        "TOTPOP2000": 324,
+        "MALE2000": 176,
+        "FEMALE2000": 148,
+        "POP2008": 394,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041627004,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

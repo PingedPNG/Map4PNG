@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8052,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.81054500005177,
+          -4.4688000000199395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8052,
+        "CU_NAME": "BARIT",
+        "CU_NO": "003",
+        "GEOCODE": "13010334003",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "34",
+        "WARD_NAME": "BARITUMBO",
+        "LATITUDE": -4.46484,
+        "LONGITUDE": 144.803532,
+        "REGHH": 30,
+        "TOTPOP2000": 191,
+        "MALE2000": 97,
+        "FEMALE2000": 94,
+        "POP2008": 236,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010334003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8053,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.73002099996927,
+          -4.506990000288226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8053,
+        "CU_NAME": "RENG",
+        "CU_NO": "010",
+        "GEOCODE": "13010334010",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "34",
+        "WARD_NAME": "BARITUMBO",
+        "LATITUDE": -4.490771,
+        "LONGITUDE": 144.73371,
+        "REGHH": 70,
+        "TOTPOP2000": 345,
+        "MALE2000": 175,
+        "FEMALE2000": 170,
+        "POP2008": 427,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010334010,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8054,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.72844900032112,
+          -4.449818999746981
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8054,
+        "CU_NAME": "UMBO",
+        "CU_NO": "013",
+        "GEOCODE": "13010334013",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "34",
+        "WARD_NAME": "BARITUMBO",
+        "LATITUDE": -4.453718,
+        "LONGITUDE": 144.71138,
+        "REGHH": 39,
+        "TOTPOP2000": 227,
+        "MALE2000": 123,
+        "FEMALE2000": 104,
+        "POP2008": 280,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010334013,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

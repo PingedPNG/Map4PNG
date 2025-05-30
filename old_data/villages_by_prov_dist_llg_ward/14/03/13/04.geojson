@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6696,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.15676800004326,
+          -3.7792549997184324
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6696,
+        "CU_NAME": "YAUNJANGE 1",
+        "CU_NO": "019",
+        "GEOCODE": "14031304019",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "04",
+        "WARD_NAME": "YAUNJANGE",
+        "LATITUDE": -3.780835,
+        "LONGITUDE": 143.15553,
+        "REGHH": 50,
+        "TOTPOP2000": 237,
+        "MALE2000": 119,
+        "FEMALE2000": 118,
+        "POP2008": 282,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031304019,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6697,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.15473900000495,
+          -3.7547930002966723
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6697,
+        "CU_NAME": "YAUNJANGE 2",
+        "CU_NO": "020",
+        "GEOCODE": "14031304020",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "04",
+        "WARD_NAME": "YAUNJANGE",
+        "LATITUDE": -3.761889,
+        "LONGITUDE": 143.153514,
+        "REGHH": 122,
+        "TOTPOP2000": 543,
+        "MALE2000": 256,
+        "FEMALE2000": 287,
+        "POP2008": 646,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031304020,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

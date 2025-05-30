@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18534,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.51410199960765,
+          -3.849698999908867
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18534,
+        "CU_NAME": "SEMENGLA",
+        "CU_NO": "004",
+        "GEOCODE": "15020521004",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "21",
+        "WARD_NAME": "SEMENGLA",
+        "LATITUDE": -3.845057,
+        "LONGITUDE": 142.515013,
+        "REGHH": 52,
+        "TOTPOP2000": 300,
+        "MALE2000": 159,
+        "FEMALE2000": 141,
+        "POP2008": 362,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020521004,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18535,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.51575000006255,
+          -3.8346399997361686
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18535,
+        "CU_NAME": "WULBOWE",
+        "CU_NO": "011",
+        "GEOCODE": "15020521011",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "21",
+        "WARD_NAME": "SEMENGLA",
+        "LATITUDE": -3.832502,
+        "LONGITUDE": 142.511506,
+        "REGHH": 91,
+        "TOTPOP2000": 450,
+        "MALE2000": 212,
+        "FEMALE2000": 238,
+        "POP2008": 544,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020521011,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

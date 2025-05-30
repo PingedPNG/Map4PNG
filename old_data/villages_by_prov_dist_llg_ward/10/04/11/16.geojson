@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14526,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8942999998452,
+          -5.85818899982246
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14526,
+        "CU_NAME": "KAWA",
+        "CU_NO": "002",
+        "GEOCODE": "10041116002",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "BINDEKU",
+        "LATITUDE": -5.859597,
+        "LONGITUDE": 144.893248,
+        "REGHH": 102,
+        "TOTPOP2000": 517,
+        "MALE2000": 268,
+        "FEMALE2000": 249,
+        "POP2008": 596,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041116002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14527,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.90027800032954,
+          -5.843026000249665
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14527,
+        "CU_NAME": "DINAGEYAUGL",
+        "CU_NO": "003",
+        "GEOCODE": "10041116003",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "BINDEKU",
+        "LATITUDE": -5.844434,
+        "LONGITUDE": 144.899228,
+        "REGHH": 37,
+        "TOTPOP2000": 165,
+        "MALE2000": 87,
+        "FEMALE2000": 78,
+        "POP2008": 189,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041116003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14528,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9062169999147,
+          -5.85072099987417
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14528,
+        "CU_NAME": "KUGLBO - ELI",
+        "CU_NO": "004",
+        "GEOCODE": "10041116004",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "BINDEKU",
+        "LATITUDE": -5.852129,
+        "LONGITUDE": 144.905167,
+        "REGHH": 19,
+        "TOTPOP2000": 92,
+        "MALE2000": 52,
+        "FEMALE2000": 40,
+        "POP2008": 108,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041116004,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

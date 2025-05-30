@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1157009997014,
+          -3.422902999773555
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19102,
+        "CU_NAME": "PUNDA",
+        "CU_NO": "001",
+        "GEOCODE": "15041613001",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "13",
+        "WARD_NAME": "PUNDA",
+        "LATITUDE": -3.427183,
+        "LONGITUDE": 141.110275,
+        "REGHH": 81,
+        "TOTPOP2000": 279,
+        "MALE2000": 158,
+        "FEMALE2000": 121,
+        "POP2008": 338,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041613001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.09597900033066,
+          -3.4123179999756985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19103,
+        "CU_NAME": "UMEDA",
+        "CU_NO": "003",
+        "GEOCODE": "15041613003",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "13",
+        "WARD_NAME": "PUNDA",
+        "LATITUDE": -3.413694,
+        "LONGITUDE": 141.094886,
+        "REGHH": 61,
+        "TOTPOP2000": 289,
+        "MALE2000": 166,
+        "FEMALE2000": 123,
+        "POP2008": 349,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041613003,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

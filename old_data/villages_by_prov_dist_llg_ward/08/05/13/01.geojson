@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5876,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.96707699990372,
+          -5.522058999822946
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5876,
+        "CU_NAME": "AWAS",
+        "CU_NO": "002",
+        "GEOCODE": "08051301002",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "01",
+        "WARD_NAME": "AWAS",
+        "LATITUDE": -5.517687,
+        "LONGITUDE": 143.967317,
+        "REGHH": 85,
+        "TOTPOP2000": 409,
+        "MALE2000": 212,
+        "FEMALE2000": 197,
+        "POP2008": 515,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051301002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5877,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.94713600032617,
+          -5.521004999780871
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5877,
+        "CU_NAME": "WAINAPKAM",
+        "CU_NO": "003",
+        "GEOCODE": "08051301003",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "01",
+        "WARD_NAME": "AWAS",
+        "LATITUDE": -5.522408,
+        "LONGITUDE": 143.946074,
+        "REGHH": 194,
+        "TOTPOP2000": 935,
+        "MALE2000": 510,
+        "FEMALE2000": 425,
+        "POP2008": 1175,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051301003,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 28691,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.23740316042756,
+          -5.946736410357005
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28691,
+        "CU_NAME": "KIRIFUMA",
+        "CU_NO": "006",
+        "GEOCODE": "11010118006",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "NAMTA",
+        "LATITUDE": -5.946736,
+        "LONGITUDE": 145.237403,
+        "REGHH": 64,
+        "TOTPOP2000": 228,
+        "MALE2000": 129,
+        "FEMALE2000": 99,
+        "POP2008": 271,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28692,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.25583155967877,
+          -5.959930859621409
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28692,
+        "CU_NAME": "KOMUNI",
+        "CU_NO": "039",
+        "GEOCODE": "11010118039",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "NAMTA",
+        "LATITUDE": -5.959931,
+        "LONGITUDE": 145.255832,
+        "REGHH": 66,
+        "TOTPOP2000": 288,
+        "MALE2000": 140,
+        "FEMALE2000": 148,
+        "POP2008": 342,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28693,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.24747919970537,
+          -5.942562029913688
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28693,
+        "CU_NAME": "RONGGOKO",
+        "CU_NO": "058",
+        "GEOCODE": "11010118058",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "NAMTA",
+        "LATITUDE": -5.942562,
+        "LONGITUDE": 145.247479,
+        "REGHH": 76,
+        "TOTPOP2000": 234,
+        "MALE2000": 131,
+        "FEMALE2000": 103,
+        "POP2008": 278,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28694,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26067464002267,
+          -5.9566421701999275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28694,
+        "CU_NAME": "MEFENGA",
+        "CU_NO": "066",
+        "GEOCODE": "11010118066",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "NAMTA",
+        "LATITUDE": -5.956642,
+        "LONGITUDE": 145.260675,
+        "REGHH": 95,
+        "TOTPOP2000": 360,
+        "MALE2000": 199,
+        "FEMALE2000": 161,
+        "POP2008": 428,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28695,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.24967339980765,
+          -5.952070439599083
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28695,
+        "CU_NAME": "URAIMO",
+        "CU_NO": "083",
+        "GEOCODE": "11010118083",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "NAMTA",
+        "LATITUDE": -5.95207,
+        "LONGITUDE": 145.249673,
+        "REGHH": 20,
+        "TOTPOP2000": 78,
+        "MALE2000": 40,
+        "FEMALE2000": 38,
+        "POP2008": 94,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28696,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2485404797594,
+          -5.948439210101412
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28696,
+        "CU_NAME": "KAUMA",
+        "CU_NO": "084",
+        "GEOCODE": "11010118084",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "NAMTA",
+        "LATITUDE": -5.948439,
+        "LONGITUDE": 145.24854,
+        "REGHH": 99,
+        "TOTPOP2000": 401,
+        "MALE2000": 200,
+        "FEMALE2000": 201,
+        "POP2008": 477,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28697,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2487017596785,
+          -5.942257829735013
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28697,
+        "CU_NAME": "NAMTA PRIMARY SCH",
+        "CU_NO": "401",
+        "GEOCODE": "11010118401",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "NAMTA",
+        "LATITUDE": -5.942258,
+        "LONGITUDE": 145.248702,
+        "REGHH": 5,
+        "TOTPOP2000": 18,
+        "MALE2000": 13,
+        "FEMALE2000": 5,
+        "POP2008": 18,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

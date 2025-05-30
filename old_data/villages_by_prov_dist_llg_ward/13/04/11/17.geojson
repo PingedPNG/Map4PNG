@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0926850003126,
+          -5.9441929999069885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8724,
+        "CU_NAME": "DURUKOPO",
+        "CU_NO": "001",
+        "GEOCODE": "13041117001",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "17",
+        "WARD_NAME": "WARD 17",
+        "LATITUDE": -5.945604,
+        "LONGITUDE": 146.09165,
+        "REGHH": 79,
+        "TOTPOP2000": 381,
+        "MALE2000": 189,
+        "FEMALE2000": 192,
+        "POP2008": 471,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041117001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.05864099968244,
+          -5.951233999949068
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8725,
+        "CU_NAME": "MUNAMBE",
+        "CU_NO": "003",
+        "GEOCODE": "13041117003",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "17",
+        "WARD_NAME": "WARD 17",
+        "LATITUDE": -5.957974,
+        "LONGITUDE": 146.06321,
+        "REGHH": 32,
+        "TOTPOP2000": 162,
+        "MALE2000": 81,
+        "FEMALE2000": 81,
+        "POP2008": 200,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041117003,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

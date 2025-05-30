@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13059,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2922340002989,
+          -8.629664999939735
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13059,
+        "CU_NAME": "KONJE",
+        "CU_NO": "017",
+        "GEOCODE": "06010118017",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "KONJE",
+        "LATITUDE": -8.63111,
+        "LONGITUDE": 148.291223,
+        "REGHH": 61,
+        "TOTPOP2000": 413,
+        "MALE2000": 226,
+        "FEMALE2000": 187,
+        "POP2008": 510,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010118017,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13060,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2952629996878,
+          -8.620198000437313
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13060,
+        "CU_NAME": "BEPORE",
+        "CU_NO": "059",
+        "GEOCODE": "06010118059",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "KONJE",
+        "LATITUDE": -8.619097,
+        "LONGITUDE": 148.29625,
+        "REGHH": 24,
+        "TOTPOP2000": 160,
+        "MALE2000": 87,
+        "FEMALE2000": 73,
+        "POP2008": 198,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010118059,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13061,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.31302000017297,
+          -8.617493999848193
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13061,
+        "CU_NAME": "BASABUA",
+        "CU_NO": "060",
+        "GEOCODE": "06010118060",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "KONJE",
+        "LATITUDE": -8.616395,
+        "LONGITUDE": 148.314007,
+        "REGHH": 5,
+        "TOTPOP2000": 13,
+        "MALE2000": 10,
+        "FEMALE2000": 3,
+        "POP2008": 13,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010118060,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13062,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.30127900012587,
+          -8.62175400024688
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13062,
+        "CU_NAME": "BANUMO",
+        "CU_NO": "061",
+        "GEOCODE": "06010118061",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "KONJE",
+        "LATITUDE": -8.620654,
+        "LONGITUDE": 148.302266,
+        "REGHH": 8,
+        "TOTPOP2000": 43,
+        "MALE2000": 19,
+        "FEMALE2000": 24,
+        "POP2008": 51,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010118061,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13063,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.29937899974107,
+          -8.62146400036329
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13063,
+        "CU_NAME": "GOMBARA",
+        "CU_NO": "062",
+        "GEOCODE": "06010118062",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "KONJE",
+        "LATITUDE": -8.620364,
+        "LONGITUDE": 148.300366,
+        "REGHH": 5,
+        "TOTPOP2000": 31,
+        "MALE2000": 20,
+        "FEMALE2000": 11,
+        "POP2008": 39,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010118062,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

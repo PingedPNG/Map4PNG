@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5385,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.72833699985267,
+          -5.436689000197134
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5385,
+        "CU_NAME": "TALEMANDA",
+        "CU_NO": "001",
+        "GEOCODE": "08020306001",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "TALEMANDA",
+        "LATITUDE": -5.433166,
+        "LONGITUDE": 143.72725,
+        "REGHH": 49,
+        "TOTPOP2000": 239,
+        "MALE2000": 137,
+        "FEMALE2000": 102,
+        "POP2008": 300,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020306001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5386,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7314899995639,
+          -5.428488999767467
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5386,
+        "CU_NAME": "APUMANDA",
+        "CU_NO": "002",
+        "GEOCODE": "08020306002",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "TALEMANDA",
+        "LATITUDE": -5.42989,
+        "LONGITUDE": 143.730425,
+        "REGHH": 21,
+        "TOTPOP2000": 110,
+        "MALE2000": 70,
+        "FEMALE2000": 40,
+        "POP2008": 138,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020306002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5387,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7346430001744,
+          -5.4256560004240555
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5387,
+        "CU_NAME": "KAPAPUS (KAPOPAIS)",
+        "CU_NO": "003",
+        "GEOCODE": "08020306003",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "TALEMANDA",
+        "LATITUDE": -5.427057,
+        "LONGITUDE": 143.733579,
+        "REGHH": 19,
+        "TOTPOP2000": 107,
+        "MALE2000": 59,
+        "FEMALE2000": 48,
+        "POP2008": 134,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020306003,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

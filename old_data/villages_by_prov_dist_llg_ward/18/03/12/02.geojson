@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4911,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7105209997444,
+          -5.96239100004459
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4911,
+        "CU_NAME": "WAIPO",
+        "CU_NO": "003",
+        "GEOCODE": "18031202003",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "WAIPO",
+        "LATITUDE": -5.963811,
+        "LONGITUDE": 150.709551,
+        "REGHH": 9,
+        "TOTPOP2000": 68,
+        "MALE2000": 35,
+        "FEMALE2000": 33,
+        "POP2008": 84,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031202003,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7092840002565,
+          -5.940537000382221
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4912,
+        "CU_NAME": "LOPUN",
+        "CU_NO": "004",
+        "GEOCODE": "18031202004",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "WAIPO",
+        "LATITUDE": -5.945667,
+        "LONGITUDE": 150.704576,
+        "REGHH": 16,
+        "TOTPOP2000": 116,
+        "MALE2000": 55,
+        "FEMALE2000": 61,
+        "POP2008": 140,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031202004,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4913,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.63692699998114,
+          -5.90157799972485
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4913,
+        "CU_NAME": "AINBULU",
+        "CU_NO": "005",
+        "GEOCODE": "18031202005",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "WAIPO",
+        "LATITUDE": -5.902997,
+        "LONGITUDE": 150.635956,
+        "REGHH": 7,
+        "TOTPOP2000": 69,
+        "MALE2000": 34,
+        "FEMALE2000": 35,
+        "POP2008": 85,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031202005,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4914,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.71584799988534,
+          -5.959149999872523
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4914,
+        "CU_NAME": "WALA",
+        "CU_NO": "007",
+        "GEOCODE": "18031202007",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "WAIPO",
+        "LATITUDE": -5.960569,
+        "LONGITUDE": 150.714878,
+        "REGHH": 3,
+        "TOTPOP2000": 16,
+        "MALE2000": 8,
+        "FEMALE2000": 8,
+        "POP2008": 16,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031202007,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

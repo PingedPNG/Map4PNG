@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5434,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5911120002187,
+          -5.356352999791056
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5434,
+        "CU_NAME": "LONDOL",
+        "CU_NO": "005",
+        "GEOCODE": "08020322005",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "22",
+        "WARD_NAME": "LONDOL",
+        "LATITUDE": -5.357738,
+        "LONGITUDE": 143.59356,
+        "REGHH": 28,
+        "TOTPOP2000": 166,
+        "MALE2000": 94,
+        "FEMALE2000": 72,
+        "POP2008": 209,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020322005,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5435,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.57799799980796,
+          -5.356367000436649
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5435,
+        "CU_NAME": "KAINDAN",
+        "CU_NO": "006",
+        "GEOCODE": "08020322006",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "22",
+        "WARD_NAME": "LONDOL",
+        "LATITUDE": -5.357767,
+        "LONGITUDE": 143.576932,
+        "REGHH": 83,
+        "TOTPOP2000": 453,
+        "MALE2000": 242,
+        "FEMALE2000": 211,
+        "POP2008": 570,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020322006,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5436,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.57560700016302,
+          -5.373049999957459
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5436,
+        "CU_NAME": "WARALIA",
+        "CU_NO": "007",
+        "GEOCODE": "08020322007",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "22",
+        "WARD_NAME": "LONDOL",
+        "LATITUDE": -5.37445,
+        "LONGITUDE": 143.574541,
+        "REGHH": 43,
+        "TOTPOP2000": 161,
+        "MALE2000": 85,
+        "FEMALE2000": 76,
+        "POP2008": 203,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020322007,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5437,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5936369997478,
+          -5.359864999869785
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5437,
+        "CU_NAME": "LONDOL A/POST & MISS/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "08020322401",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "22",
+        "WARD_NAME": "LONDOL",
+        "LATITUDE": -5.357738,
+        "LONGITUDE": 143.59356,
+        "REGHH": 9,
+        "TOTPOP2000": 50,
+        "MALE2000": 23,
+        "FEMALE2000": 27,
+        "POP2008": 64,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020322401,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7366,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.19031400019105,
+          -3.6884240000675277
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7366,
+        "CU_NAME": "BUKITU",
+        "CU_NO": "002",
+        "GEOCODE": "14062610002",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "26",
+        "WARD_NO": "10",
+        "WARD_NAME": "BUKITU",
+        "LATITUDE": -3.690003,
+        "LONGITUDE": 143.189075,
+        "REGHH": 85,
+        "TOTPOP2000": 388,
+        "MALE2000": 200,
+        "FEMALE2000": 188,
+        "POP2008": 463,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062610002,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7367,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1815241596123,
+          -3.6826260303669756
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7367,
+        "CU_NAME": "SUANIMBU",
+        "CU_NO": "004",
+        "GEOCODE": "14062610004",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "26",
+        "WARD_NO": "10",
+        "WARD_NAME": "BUKITU",
+        "LATITUDE": -3.682468,
+        "LONGITUDE": 143.180945,
+        "REGHH": 65,
+        "TOTPOP2000": 299,
+        "MALE2000": 153,
+        "FEMALE2000": 146,
+        "POP2008": 357,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062610004,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7368,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.19742299977167,
+          -3.67851600001336
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7368,
+        "CU_NAME": "WALGAI",
+        "CU_NO": "006",
+        "GEOCODE": "14062610006",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "26",
+        "WARD_NO": "10",
+        "WARD_NAME": "BUKITU",
+        "LATITUDE": -3.680095,
+        "LONGITUDE": 143.196184,
+        "REGHH": 28,
+        "TOTPOP2000": 128,
+        "MALE2000": 65,
+        "FEMALE2000": 63,
+        "POP2008": 152,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062610006,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

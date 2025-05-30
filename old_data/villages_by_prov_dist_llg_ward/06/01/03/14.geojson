@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13282,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.26927099985687,
+          -9.1971399998111
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13282,
+        "CU_NAME": "ITOKAMA",
+        "CU_NO": "009",
+        "GEOCODE": "06010314009",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "UFIA",
+        "LATITUDE": -9.198601,
+        "LONGITUDE": 148.265012,
+        "REGHH": 65,
+        "TOTPOP2000": 381,
+        "MALE2000": 197,
+        "FEMALE2000": 184,
+        "POP2008": 471,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010314009,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.26615299996104,
+          -9.210609000404986
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13283,
+        "CU_NAME": "UFIA",
+        "CU_NO": "029",
+        "GEOCODE": "06010314029",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "UFIA",
+        "LATITUDE": -9.212058,
+        "LONGITUDE": 148.26514,
+        "REGHH": 18,
+        "TOTPOP2000": 97,
+        "MALE2000": 44,
+        "FEMALE2000": 53,
+        "POP2008": 121,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010314029,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.24110699968833,
+          -9.25806599994587
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13284,
+        "CU_NAME": "UMUWATE",
+        "CU_NO": "030",
+        "GEOCODE": "06010314030",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "UFIA",
+        "LATITUDE": -9.263631,
+        "LONGITUDE": 148.236668,
+        "REGHH": 15,
+        "TOTPOP2000": 90,
+        "MALE2000": 36,
+        "FEMALE2000": 54,
+        "POP2008": 112,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010314030,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2330870003649,
+          -9.276015000291977
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13285,
+        "CU_NAME": "NAUKUANANE",
+        "CU_NO": "031",
+        "GEOCODE": "06010314031",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "UFIA",
+        "LATITUDE": -9.27403,
+        "LONGITUDE": 148.237107,
+        "REGHH": 29,
+        "TOTPOP2000": 181,
+        "MALE2000": 91,
+        "FEMALE2000": 90,
+        "POP2008": 224,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010314031,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

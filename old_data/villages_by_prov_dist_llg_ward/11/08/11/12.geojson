@@ -1,0 +1,677 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30862,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.61492147994238,
+          -5.980178609854931
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30862,
+        "CU_NAME": "OPENALUGA",
+        "CU_NO": "004",
+        "GEOCODE": "11081112004",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -5.980179,
+        "LONGITUDE": 145.614921,
+        "REGHH": 8,
+        "TOTPOP2000": 40,
+        "MALE2000": 21,
+        "FEMALE2000": 19,
+        "POP2008": 48,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30863,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.550182320158,
+          -6.055871760373407
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30863,
+        "CU_NAME": "FUMITOGA",
+        "CU_NO": "011",
+        "GEOCODE": "11081112011",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.055872,
+        "LONGITUDE": 145.550182,
+        "REGHH": 73,
+        "TOTPOP2000": 255,
+        "MALE2000": 128,
+        "FEMALE2000": 127,
+        "POP2008": 304,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30864,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50260904007519,
+          -6.086437019652692
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30864,
+        "CU_NAME": "AUKEPA",
+        "CU_NO": "024",
+        "GEOCODE": "11081112024",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.086437,
+        "LONGITUDE": 145.502609,
+        "REGHH": 30,
+        "TOTPOP2000": 152,
+        "MALE2000": 101,
+        "FEMALE2000": 51,
+        "POP2008": 181,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30865,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52521092044765,
+          -6.053390639666247
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30865,
+        "CU_NAME": "LOHUTO",
+        "CU_NO": "037",
+        "GEOCODE": "11081112037",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.053391,
+        "LONGITUDE": 145.525211,
+        "REGHH": 8,
+        "TOTPOP2000": 42,
+        "MALE2000": 25,
+        "FEMALE2000": 17,
+        "POP2008": 50,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30866,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.53512532007755,
+          -6.053275530041617
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30866,
+        "CU_NAME": "SIMIGA",
+        "CU_NO": "049",
+        "GEOCODE": "11081112049",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.053276,
+        "LONGITUDE": 145.535125,
+        "REGHH": 54,
+        "TOTPOP2000": 240,
+        "MALE2000": 126,
+        "FEMALE2000": 114,
+        "POP2008": 286,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30867,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5365858397647,
+          -6.04391372963488
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30867,
+        "CU_NAME": "GLAFOTO",
+        "CU_NO": "050",
+        "GEOCODE": "11081112050",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.043914,
+        "LONGITUDE": 145.536586,
+        "REGHH": 27,
+        "TOTPOP2000": 97,
+        "MALE2000": 55,
+        "FEMALE2000": 42,
+        "POP2008": 113,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30868,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5420635995555,
+          -6.0385865397369685
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30868,
+        "CU_NAME": "MALEPATO-MILIPAGA",
+        "CU_NO": "051",
+        "GEOCODE": "11081112051",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.038587,
+        "LONGITUDE": 145.542064,
+        "REGHH": 31,
+        "TOTPOP2000": 110,
+        "MALE2000": 60,
+        "FEMALE2000": 50,
+        "POP2008": 132,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5306717603935,
+          -6.055526970193455
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30869,
+        "CU_NAME": "DARK VALLEY",
+        "CU_NO": "052",
+        "GEOCODE": "11081112052",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.055527,
+        "LONGITUDE": 145.530672,
+        "REGHH": 12,
+        "TOTPOP2000": 35,
+        "MALE2000": 17,
+        "FEMALE2000": 18,
+        "POP2008": 43,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30870,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.53368927993643,
+          -6.057765089587178
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30870,
+        "CU_NAME": "GONAGATOGA",
+        "CU_NO": "053",
+        "GEOCODE": "11081112053",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.057765,
+        "LONGITUDE": 145.533689,
+        "REGHH": 12,
+        "TOTPOP2000": 49,
+        "MALE2000": 24,
+        "FEMALE2000": 25,
+        "POP2008": 57,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30871,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.53788040036022,
+          -6.049833300266528
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30871,
+        "CU_NAME": "FILOX",
+        "CU_NO": "054",
+        "GEOCODE": "11081112054",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.049833,
+        "LONGITUDE": 145.53788,
+        "REGHH": 12,
+        "TOTPOP2000": 38,
+        "MALE2000": 23,
+        "FEMALE2000": 15,
+        "POP2008": 46,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30872,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.54524707998883,
+          -6.043106699614441
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30872,
+        "CU_NAME": "PORGERA",
+        "CU_NO": "055",
+        "GEOCODE": "11081112055",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.043107,
+        "LONGITUDE": 145.545247,
+        "REGHH": 7,
+        "TOTPOP2000": 22,
+        "MALE2000": 9,
+        "FEMALE2000": 13,
+        "POP2008": 22,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5505426803005,
+          -6.052739849764237
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30873,
+        "CU_NAME": "BIFAKA",
+        "CU_NO": "056",
+        "GEOCODE": "11081112056",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.05274,
+        "LONGITUDE": 145.550543,
+        "REGHH": 16,
+        "TOTPOP2000": 54,
+        "MALE2000": 26,
+        "FEMALE2000": 28,
+        "POP2008": 62,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30874,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.54058724010906,
+          -6.0547166099835295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30874,
+        "CU_NAME": "YAFAKISE",
+        "CU_NO": "057",
+        "GEOCODE": "11081112057",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.054717,
+        "LONGITUDE": 145.540587,
+        "REGHH": 4,
+        "TOTPOP2000": 18,
+        "MALE2000": 7,
+        "FEMALE2000": 11,
+        "POP2008": 18,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30875,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5424351202846,
+          -6.0550024496033075
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30875,
+        "CU_NAME": "LOTOPILO",
+        "CU_NO": "058",
+        "GEOCODE": "11081112058",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.055002,
+        "LONGITUDE": 145.542435,
+        "REGHH": 4,
+        "TOTPOP2000": 18,
+        "MALE2000": 9,
+        "FEMALE2000": 9,
+        "POP2008": 18,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30876,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5283368002032,
+          -6.057481859799964
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30876,
+        "CU_NAME": "SALELUGA",
+        "CU_NO": "059",
+        "GEOCODE": "11081112059",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.057482,
+        "LONGITUDE": 145.528337,
+        "REGHH": 28,
+        "TOTPOP2000": 132,
+        "MALE2000": 73,
+        "FEMALE2000": 59,
+        "POP2008": 156,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30877,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5312772802224,
+          -6.053556599657327
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30877,
+        "CU_NAME": "FOKEPS",
+        "CU_NO": "060",
+        "GEOCODE": "11081112060",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.053557,
+        "LONGITUDE": 145.531277,
+        "REGHH": 15,
+        "TOTPOP2000": 68,
+        "MALE2000": 41,
+        "FEMALE2000": 27,
+        "POP2008": 83,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30878,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.53599723978084,
+          -6.058949129798464
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30878,
+        "CU_NAME": "YAFIGOSALO",
+        "CU_NO": "061",
+        "GEOCODE": "11081112061",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.058949,
+        "LONGITUDE": 145.535997,
+        "REGHH": 13,
+        "TOTPOP2000": 57,
+        "MALE2000": 33,
+        "FEMALE2000": 24,
+        "POP2008": 65,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30879,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52848224036313,
+          -6.046729649953363
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30879,
+        "CU_NAME": "GALELUGA",
+        "CU_NO": "062",
+        "GEOCODE": "11081112062",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.04673,
+        "LONGITUDE": 145.528482,
+        "REGHH": 10,
+        "TOTPOP2000": 53,
+        "MALE2000": 33,
+        "FEMALE2000": 20,
+        "POP2008": 61,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30880,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.54394135970608,
+          -6.053558130303429
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30880,
+        "CU_NAME": "GOLIYATO-MESE",
+        "CU_NO": "064",
+        "GEOCODE": "11081112064",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.053558,
+        "LONGITUDE": 145.543941,
+        "REGHH": 25,
+        "TOTPOP2000": 82,
+        "MALE2000": 44,
+        "FEMALE2000": 38,
+        "POP2008": 98,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30881,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.54822139969792,
+          -6.052622130307043
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30881,
+        "CU_NAME": "NAMA LIMIGA",
+        "CU_NO": "065",
+        "GEOCODE": "11081112065",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.052622,
+        "LONGITUDE": 145.548221,
+        "REGHH": 14,
+        "TOTPOP2000": 74,
+        "MALE2000": 38,
+        "FEMALE2000": 36,
+        "POP2008": 90,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30882,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.53322271975276,
+          -6.049747440192164
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30882,
+        "CU_NAME": "GIPINARO",
+        "CU_NO": "066",
+        "GEOCODE": "11081112066",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "NEKEMATIGI",
+        "LATITUDE": -6.049747,
+        "LONGITUDE": 145.533223,
+        "REGHH": 60,
+        "TOTPOP2000": 250,
+        "MALE2000": 129,
+        "FEMALE2000": 121,
+        "POP2008": 298,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

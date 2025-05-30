@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13067,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.27343899961022,
+          -8.610239999876057
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13067,
+        "CU_NAME": "KUROU",
+        "CU_NO": "019",
+        "GEOCODE": "06010120019",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "20",
+        "WARD_NAME": "JINANGA",
+        "LATITUDE": -8.609139,
+        "LONGITUDE": 148.274426,
+        "REGHH": 44,
+        "TOTPOP2000": 277,
+        "MALE2000": 152,
+        "FEMALE2000": 125,
+        "POP2008": 343,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010120019,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13068,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.28049200020575,
+          -8.615019999972958
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13068,
+        "CU_NAME": "JINANGA",
+        "CU_NO": "028",
+        "GEOCODE": "06010120028",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "20",
+        "WARD_NAME": "JINANGA",
+        "LATITUDE": -8.613919,
+        "LONGITUDE": 148.281479,
+        "REGHH": 5,
+        "TOTPOP2000": 43,
+        "MALE2000": 20,
+        "FEMALE2000": 23,
+        "POP2008": 51,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010120028,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13069,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.27665300033573,
+          -8.612561999936304
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13069,
+        "CU_NAME": "SEBU (SARODA)",
+        "CU_NO": "029",
+        "GEOCODE": "06010120029",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "20",
+        "WARD_NAME": "JINANGA",
+        "LATITUDE": -8.611461,
+        "LONGITUDE": 148.27764,
+        "REGHH": 12,
+        "TOTPOP2000": 60,
+        "MALE2000": 37,
+        "FEMALE2000": 23,
+        "POP2008": 76,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010120029,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13070,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.28456700016704,
+          -8.618197999937706
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13070,
+        "CU_NAME": "GONA ANG MISS/ STN",
+        "CU_NO": "401",
+        "GEOCODE": "06010120401",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "20",
+        "WARD_NAME": "JINANGA",
+        "LATITUDE": -8.61834,
+        "LONGITUDE": 148.291905,
+        "REGHH": 13,
+        "TOTPOP2000": 67,
+        "MALE2000": 37,
+        "FEMALE2000": 30,
+        "POP2008": 83,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010120401,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

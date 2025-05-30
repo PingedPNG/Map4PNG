@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.89405399959253,
+          -9.473940999577394
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1813,
+        "CU_NAME": "ABARO",
+        "CU_NO": "001",
+        "GEOCODE": "03041315001",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "15",
+        "WARD_NAME": "CENTRAL MT. OBREE",
+        "LATITUDE": -9.477182,
+        "LONGITUDE": 147.891243,
+        "REGHH": 12,
+        "TOTPOP2000": 56,
+        "MALE2000": 25,
+        "FEMALE2000": 31,
+        "POP2008": 64,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041315001,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.8705969997518,
+          -9.498198000337425
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1814,
+        "CU_NAME": "BORO",
+        "CU_NO": "006",
+        "GEOCODE": "03041315006",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "15",
+        "WARD_NAME": "CENTRAL MT. OBREE",
+        "LATITUDE": -9.49965,
+        "LONGITUDE": 147.869578,
+        "REGHH": 9,
+        "TOTPOP2000": 36,
+        "MALE2000": 19,
+        "FEMALE2000": 17,
+        "POP2008": 44,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041315006,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.8911850003875,
+          -9.458746000327608
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1815,
+        "CU_NAME": "BOTO (SOMORI)",
+        "CU_NO": "022",
+        "GEOCODE": "03041315022",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "15",
+        "WARD_NAME": "CENTRAL MT. OBREE",
+        "LATITUDE": -9.458605,
+        "LONGITUDE": 147.892957,
+        "REGHH": 26,
+        "TOTPOP2000": 115,
+        "MALE2000": 65,
+        "FEMALE2000": 50,
+        "POP2008": 139,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041315022,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1816,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.91314899972667,
+          -9.498937000242336
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1816,
+        "CU_NAME": "TABU",
+        "CU_NO": "024",
+        "GEOCODE": "03041315024",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "15",
+        "WARD_NAME": "CENTRAL MT. OBREE",
+        "LATITUDE": -9.500389,
+        "LONGITUDE": 147.91213,
+        "REGHH": 35,
+        "TOTPOP2000": 174,
+        "MALE2000": 89,
+        "FEMALE2000": 85,
+        "POP2008": 208,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041315024,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1817,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.87096000030385,
+          -9.507205000210547
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1817,
+        "CU_NAME": "ADARA",
+        "CU_NO": "028",
+        "GEOCODE": "03041315028",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "15",
+        "WARD_NAME": "CENTRAL MT. OBREE",
+        "LATITUDE": -9.510642,
+        "LONGITUDE": 147.868948,
+        "REGHH": 14,
+        "TOTPOP2000": 53,
+        "MALE2000": 30,
+        "FEMALE2000": 23,
+        "POP2008": 61,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041315028,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

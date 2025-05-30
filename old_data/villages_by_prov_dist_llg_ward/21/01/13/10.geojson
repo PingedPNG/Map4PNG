@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20333,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.34536299980266,
+          -5.9786299997746255
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20333,
+        "CU_NAME": "MAPIA",
+        "CU_NO": "006",
+        "GEOCODE": "07041310006",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "10",
+        "WARD_NAME": "MABIA",
+        "LATITUDE": -5.982777,
+        "LONGITUDE": 143.346619,
+        "REGHH": 28,
+        "TOTPOP2000": 159,
+        "MALE2000": 73,
+        "FEMALE2000": 86,
+        "POP2008": 222,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041310006,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20334,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3490829995808,
+          -5.978521000143985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20334,
+        "CU_NAME": "MULI IPA",
+        "CU_NO": "007",
+        "GEOCODE": "07041310007",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "10",
+        "WARD_NAME": "MABIA",
+        "LATITUDE": -5.982777,
+        "LONGITUDE": 143.346619,
+        "REGHH": 17,
+        "TOTPOP2000": 105,
+        "MALE2000": 55,
+        "FEMALE2000": 50,
+        "POP2008": 146,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041310007,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20335,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3454399997562,
+          -5.979501000370817
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20335,
+        "CU_NAME": "NIKAURE SAKURA",
+        "CU_NO": "008",
+        "GEOCODE": "07041310008",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "10",
+        "WARD_NAME": "MABIA",
+        "LATITUDE": -5.982777,
+        "LONGITUDE": 143.346619,
+        "REGHH": 49,
+        "TOTPOP2000": 212,
+        "MALE2000": 112,
+        "FEMALE2000": 100,
+        "POP2008": 295,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041310008,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20336,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.344870999597,
+          -5.976814999712417
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20336,
+        "CU_NAME": "YOKOTE LAWEYA",
+        "CU_NO": "009",
+        "GEOCODE": "07041310009",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "10",
+        "WARD_NAME": "MABIA",
+        "LATITUDE": -5.982777,
+        "LONGITUDE": 143.346619,
+        "REGHH": 10,
+        "TOTPOP2000": 45,
+        "MALE2000": 25,
+        "FEMALE2000": 20,
+        "POP2008": 61,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041310009,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20337,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.34568500026262,
+          -5.977724000262356
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20337,
+        "CU_NAME": "ALIAKALE WIWI",
+        "CU_NO": "010",
+        "GEOCODE": "07041310010",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "10",
+        "WARD_NAME": "MABIA",
+        "LATITUDE": -5.982777,
+        "LONGITUDE": 143.346619,
+        "REGHH": 14,
+        "TOTPOP2000": 82,
+        "MALE2000": 41,
+        "FEMALE2000": 41,
+        "POP2008": 114,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041310010,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

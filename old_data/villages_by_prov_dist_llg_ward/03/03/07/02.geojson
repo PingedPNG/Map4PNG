@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.02555199972505,
+          -9.388167000206863
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1225,
+        "CU_NAME": "BOERA",
+        "CU_NO": "001",
+        "GEOCODE": "03030702001",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOERA",
+        "LATITUDE": -9.389616,
+        "LONGITUDE": 147.024521,
+        "REGHH": 155,
+        "TOTPOP2000": 1310,
+        "MALE2000": 683,
+        "FEMALE2000": 627,
+        "POP2008": 1572,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030702001,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

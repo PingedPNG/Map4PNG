@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 31489,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.01830506932356,
+          -6.693757749020847
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31489,
+        "CU_NAME": "Bishop",
+        "CU_NO": "878",
+        "GEOCODE": "878",
+        "PROV_KEY": "12",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": -6.693757749,
+        "LONGITUDE": 147.018305069,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 878,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31490,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.02298722767853,
+          -6.707539507742069
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31490,
+        "CU_NAME": "Yangpla Didiman",
+        "CU_NO": "888",
+        "GEOCODE": "888",
+        "PROV_KEY": "12",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": -6.707539508,
+        "LONGITUDE": 147.022987228,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 888,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31492,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0132564093559,
+          -6.725186022017283
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31492,
+        "CU_NAME": "Butibum Gravel",
+        "CU_NO": "880",
+        "GEOCODE": "880",
+        "PROV_KEY": "12",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": -6.725186022,
+        "LONGITUDE": 147.013256409,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 880,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

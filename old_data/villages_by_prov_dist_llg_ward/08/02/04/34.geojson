@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5516,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.84865100024354,
+          -5.3721839995918685
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5516,
+        "CU_NAME": "SAMAREMANDA",
+        "CU_NO": "008",
+        "GEOCODE": "08020434008",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "34",
+        "WARD_NAME": "SAMAREMANDA",
+        "LATITUDE": -5.36373,
+        "LONGITUDE": 143.849326,
+        "REGHH": 26,
+        "TOTPOP2000": 124,
+        "MALE2000": 69,
+        "FEMALE2000": 55,
+        "POP2008": 156,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020434008,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5517,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8559759998925,
+          -5.339620999809256
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5517,
+        "CU_NAME": "WALI",
+        "CU_NO": "009",
+        "GEOCODE": "08020434009",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "34",
+        "WARD_NAME": "SAMAREMANDA",
+        "LATITUDE": -5.358495,
+        "LONGITUDE": 143.85098,
+        "REGHH": 49,
+        "TOTPOP2000": 191,
+        "MALE2000": 105,
+        "FEMALE2000": 86,
+        "POP2008": 241,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020434009,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5518,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.83880000011993,
+          -5.3708579995969785
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5518,
+        "CU_NAME": "ANDITALE",
+        "CU_NO": "010",
+        "GEOCODE": "08020434010",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "34",
+        "WARD_NAME": "SAMAREMANDA",
+        "LATITUDE": -5.372259,
+        "LONGITUDE": 143.837737,
+        "REGHH": 36,
+        "TOTPOP2000": 146,
+        "MALE2000": 80,
+        "FEMALE2000": 66,
+        "POP2008": 183,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020434010,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

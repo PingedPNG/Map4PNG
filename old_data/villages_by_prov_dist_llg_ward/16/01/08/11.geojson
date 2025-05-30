@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9479,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.20189200001585,
+          -2.1973560003790453
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9479,
+        "CU_NAME": "LAHAN",
+        "CU_NO": "001",
+        "GEOCODE": "16010811001",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "08",
+        "WARD_NO": "11",
+        "WARD_NAME": "LAPAP LAHAN",
+        "LATITUDE": -2.19774,
+        "LONGITUDE": 147.201122,
+        "REGHH": 14,
+        "TOTPOP2000": 79,
+        "MALE2000": 39,
+        "FEMALE2000": 40,
+        "POP2008": 95,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010811001,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9480,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.20359999964035,
+          -2.1958490001312043
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9480,
+        "CU_NAME": "LAPAP",
+        "CU_NO": "007",
+        "GEOCODE": "16010811007",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "08",
+        "WARD_NO": "11",
+        "WARD_NAME": "LAPAP LAHAN",
+        "LATITUDE": -2.197646,
+        "LONGITUDE": 147.201263,
+        "REGHH": 18,
+        "TOTPOP2000": 91,
+        "MALE2000": 44,
+        "FEMALE2000": 47,
+        "POP2008": 112,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010811007,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

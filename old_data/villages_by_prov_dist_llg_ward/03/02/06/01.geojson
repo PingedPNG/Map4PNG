@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1160,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.50617399993018,
+          -8.55115700019536
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1160,
+        "CU_NAME": "GOROWAKU",
+        "CU_NO": "004",
+        "GEOCODE": "03020601004",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "CHIRIME",
+        "LATITUDE": -8.552599,
+        "LONGITUDE": 147.505152,
+        "REGHH": 41,
+        "TOTPOP2000": 216,
+        "MALE2000": 118,
+        "FEMALE2000": 98,
+        "POP2008": 259,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020601004,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1161,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.48720800034903,
+          -8.534778000304414
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1161,
+        "CU_NAME": "KIPIPI",
+        "CU_NO": "008",
+        "GEOCODE": "03020601008",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "CHIRIME",
+        "LATITUDE": -8.536219,
+        "LONGITUDE": 147.486186,
+        "REGHH": 15,
+        "TOTPOP2000": 102,
+        "MALE2000": 47,
+        "FEMALE2000": 55,
+        "POP2008": 122,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020601008,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1162,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.46604900036118,
+          -8.541783999631832
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1162,
+        "CU_NAME": "SONGAKU",
+        "CU_NO": "009",
+        "GEOCODE": "03020601009",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "CHIRIME",
+        "LATITUDE": -8.543227,
+        "LONGITUDE": 147.465027,
+        "REGHH": 51,
+        "TOTPOP2000": 281,
+        "MALE2000": 140,
+        "FEMALE2000": 141,
+        "POP2008": 337,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020601009,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1163,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.46127300044873,
+          -8.528151999615034
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1163,
+        "CU_NAME": "YONGAI",
+        "CU_NO": "011",
+        "GEOCODE": "03020601011",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "CHIRIME",
+        "LATITUDE": -8.529593,
+        "LONGITUDE": 147.460251,
+        "REGHH": 48,
+        "TOTPOP2000": 280,
+        "MALE2000": 134,
+        "FEMALE2000": 146,
+        "POP2008": 336,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020601011,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1164,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.48359800024753,
+          -8.544893000011882
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1164,
+        "CU_NAME": "TURALA",
+        "CU_NO": "025",
+        "GEOCODE": "03020601025",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "CHIRIME",
+        "LATITUDE": -8.542022,
+        "LONGITUDE": 147.49299,
+        "REGHH": 10,
+        "TOTPOP2000": 72,
+        "MALE2000": 37,
+        "FEMALE2000": 35,
+        "POP2008": 88,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020601025,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

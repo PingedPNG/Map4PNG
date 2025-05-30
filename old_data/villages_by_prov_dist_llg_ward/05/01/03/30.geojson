@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9680,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.06286799955865,
+          -10.11587200029254
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9680,
+        "CU_NAME": "POVA",
+        "CU_NO": "018",
+        "GEOCODE": "05010330018",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "30",
+        "WARD_NAME": "POVA",
+        "LATITUDE": -10.117337,
+        "LONGITUDE": 150.061878,
+        "REGHH": 54,
+        "TOTPOP2000": 259,
+        "MALE2000": 127,
+        "FEMALE2000": 132,
+        "POP2008": 316,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010330018,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

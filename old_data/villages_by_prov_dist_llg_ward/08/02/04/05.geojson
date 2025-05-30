@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5454,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8861330002378,
+          -5.3944290001981585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5454,
+        "CU_NAME": "AIYULITES",
+        "CU_NO": "001",
+        "GEOCODE": "08020405001",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "05",
+        "WARD_NAME": "AIYULUTES",
+        "LATITUDE": -5.39583,
+        "LONGITUDE": 143.88507,
+        "REGHH": 55,
+        "TOTPOP2000": 313,
+        "MALE2000": 160,
+        "FEMALE2000": 153,
+        "POP2008": 393,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020405001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5455,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9002720002527,
+          -5.414503999659814
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5455,
+        "CU_NAME": "KEPAKANDA",
+        "CU_NO": "002",
+        "GEOCODE": "08020405002",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "05",
+        "WARD_NAME": "AIYULUTES",
+        "LATITUDE": -5.415905,
+        "LONGITUDE": 143.89921,
+        "REGHH": 54,
+        "TOTPOP2000": 302,
+        "MALE2000": 157,
+        "FEMALE2000": 145,
+        "POP2008": 380,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020405002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

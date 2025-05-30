@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13824,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.48208499972304,
+          -8.020493999998052
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13824,
+        "CU_NAME": "GOBE",
+        "CU_NO": "004",
+        "GEOCODE": "06020802004",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "GOBE",
+        "LATITUDE": -8.020333,
+        "LONGITUDE": 147.482757,
+        "REGHH": 31,
+        "TOTPOP2000": 191,
+        "MALE2000": 93,
+        "FEMALE2000": 98,
+        "POP2008": 236,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020802004,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13825,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.45457099985185,
+          -8.047028999688564
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13825,
+        "CU_NAME": "IEMA",
+        "CU_NO": "011",
+        "GEOCODE": "06020802011",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "GOBE",
+        "LATITUDE": -8.048465,
+        "LONGITUDE": 147.45355,
+        "REGHH": 52,
+        "TOTPOP2000": 253,
+        "MALE2000": 121,
+        "FEMALE2000": 132,
+        "POP2008": 313,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020802011,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13826,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.43312800025706,
+          -8.061132999888002
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13826,
+        "CU_NAME": "TUBE",
+        "CU_NO": "015",
+        "GEOCODE": "06020802015",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "GOBE",
+        "LATITUDE": -8.062569,
+        "LONGITUDE": 147.432107,
+        "REGHH": 17,
+        "TOTPOP2000": 89,
+        "MALE2000": 37,
+        "FEMALE2000": 52,
+        "POP2008": 111,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020802015,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4334750000712,
+          -8.073193000256708
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13827,
+        "CU_NAME": "BURI",
+        "CU_NO": "016",
+        "GEOCODE": "06020802016",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "GOBE",
+        "LATITUDE": -8.07463,
+        "LONGITUDE": 147.432454,
+        "REGHH": 2,
+        "TOTPOP2000": 9,
+        "MALE2000": 5,
+        "FEMALE2000": 4,
+        "POP2008": 9,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020802016,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

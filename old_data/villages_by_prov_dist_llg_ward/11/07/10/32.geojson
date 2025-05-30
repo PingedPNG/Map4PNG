@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30641,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7537093996691,
+          -6.533441010094521
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30641,
+        "CU_NAME": "AWIYANA",
+        "CU_NO": "004",
+        "GEOCODE": "11071032004",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "32",
+        "WARD_NAME": "ASEMPA",
+        "LATITUDE": -6.533441,
+        "LONGITUDE": 145.753709,
+        "REGHH": 82,
+        "TOTPOP2000": 341,
+        "MALE2000": 173,
+        "FEMALE2000": 168,
+        "POP2008": 407,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30642,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.750168079893,
+          -6.523754040016911
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30642,
+        "CU_NAME": "AVIKARA",
+        "CU_NO": "006",
+        "GEOCODE": "11071032006",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "32",
+        "WARD_NAME": "ASEMPA",
+        "LATITUDE": -6.523754,
+        "LONGITUDE": 145.750168,
+        "REGHH": 56,
+        "TOTPOP2000": 259,
+        "MALE2000": 145,
+        "FEMALE2000": 114,
+        "POP2008": 308,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30643,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7331674398256,
+          -6.54802650012283
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30643,
+        "CU_NAME": "KOMAIPA",
+        "CU_NO": "009",
+        "GEOCODE": "11071032009",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "32",
+        "WARD_NAME": "ASEMPA",
+        "LATITUDE": -6.548027,
+        "LONGITUDE": 145.733167,
+        "REGHH": 35,
+        "TOTPOP2000": 146,
+        "MALE2000": 84,
+        "FEMALE2000": 62,
+        "POP2008": 173,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30644,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7517934803849,
+          -6.5425523403181955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30644,
+        "CU_NAME": "ASEMPA",
+        "CU_NO": "010",
+        "GEOCODE": "11071032010",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "32",
+        "WARD_NAME": "ASEMPA",
+        "LATITUDE": -6.542552,
+        "LONGITUDE": 145.751793,
+        "REGHH": 41,
+        "TOTPOP2000": 189,
+        "MALE2000": 102,
+        "FEMALE2000": 87,
+        "POP2008": 225,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30645,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7361576001931,
+          -6.5320100996863175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30645,
+        "CU_NAME": "WANTAGA",
+        "CU_NO": "011",
+        "GEOCODE": "11071032011",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "32",
+        "WARD_NAME": "ASEMPA",
+        "LATITUDE": -6.53201,
+        "LONGITUDE": 145.736158,
+        "REGHH": 40,
+        "TOTPOP2000": 223,
+        "MALE2000": 118,
+        "FEMALE2000": 105,
+        "POP2008": 265,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

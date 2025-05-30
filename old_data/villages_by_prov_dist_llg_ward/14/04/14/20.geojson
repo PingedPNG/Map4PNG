@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6778,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.19381099957798,
+          -3.3789239996428364
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6778,
+        "CU_NAME": "KUMINIM",
+        "CU_NO": "016",
+        "GEOCODE": "14041420016",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "20",
+        "WARD_NAME": "LOWAN",
+        "LATITUDE": -3.380499,
+        "LONGITUDE": 143.192574,
+        "REGHH": 51,
+        "TOTPOP2000": 273,
+        "MALE2000": 147,
+        "FEMALE2000": 126,
+        "POP2008": 325,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041420016,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6779,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.18182499992383,
+          -3.394298999998796
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6779,
+        "CU_NAME": "LOWAN 2",
+        "CU_NO": "047",
+        "GEOCODE": "14041420047",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "20",
+        "WARD_NAME": "LOWAN/KUMINIM",
+        "LATITUDE": -3.395875,
+        "LONGITUDE": 143.180588,
+        "REGHH": 46,
+        "TOTPOP2000": 263,
+        "MALE2000": 129,
+        "FEMALE2000": 134,
+        "POP2008": 313,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041420047,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6780,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.16117199988798,
+          -3.3911759998724733
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6780,
+        "CU_NAME": "LOWAN 3",
+        "CU_NO": "051",
+        "GEOCODE": "14041420051",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "20",
+        "WARD_NAME": "LOWAN/KUMINIM",
+        "LATITUDE": -3.392751,
+        "LONGITUDE": 143.159934,
+        "REGHH": 82,
+        "TOTPOP2000": 494,
+        "MALE2000": 247,
+        "FEMALE2000": 247,
+        "POP2008": 588,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041420051,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6781,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.17772399966293,
+          -3.3949999999500164
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6781,
+        "CU_NAME": "LOWAN COMM/SCHOOL",
+        "CU_NO": "510",
+        "GEOCODE": "14041420510",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "20",
+        "WARD_NAME": "LOWAN",
+        "LATITUDE": -3.396577,
+        "LONGITUDE": 143.176486,
+        "REGHH": 19,
+        "TOTPOP2000": 132,
+        "MALE2000": 68,
+        "FEMALE2000": 64,
+        "POP2008": 156,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041420510,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9414,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.25698700015005,
+          -2.068644000320319
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9414,
+        "CU_NAME": "ROSSUN",
+        "CU_NO": "012",
+        "GEOCODE": "16010512012",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "12",
+        "WARD_NAME": "ROSSUN",
+        "LATITUDE": -2.069813,
+        "LONGITUDE": 147.255288,
+        "REGHH": 44,
+        "TOTPOP2000": 245,
+        "MALE2000": 124,
+        "FEMALE2000": 121,
+        "POP2008": 301,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010512012,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9415,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.24144500018667,
+          -2.0685389999748054
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9415,
+        "CU_NAME": "WAREMBU",
+        "CU_NO": "019",
+        "GEOCODE": "16010512019",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "12",
+        "WARD_NAME": "ROSSUN",
+        "LATITUDE": -2.069905,
+        "LONGITUDE": 147.24043,
+        "REGHH": 19,
+        "TOTPOP2000": 113,
+        "MALE2000": 54,
+        "FEMALE2000": 59,
+        "POP2008": 137,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010512019,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

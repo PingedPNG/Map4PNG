@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6908,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6405900003283,
+          -3.7039520002845165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6908,
+        "CU_NAME": "SOINUMBO",
+        "CU_NO": "013",
+        "GEOCODE": "14041702013",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "17",
+        "WARD_NO": "02",
+        "WARD_NAME": "PASSAM 2",
+        "LATITUDE": -3.705533,
+        "LONGITUDE": 143.639358,
+        "REGHH": 36,
+        "TOTPOP2000": 161,
+        "MALE2000": 78,
+        "FEMALE2000": 83,
+        "POP2008": 193,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041702013,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6909,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.65071200035857,
+          -3.6966479998052932
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6909,
+        "CU_NAME": "POLIERE",
+        "CU_NO": "023",
+        "GEOCODE": "14041702023",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "17",
+        "WARD_NO": "02",
+        "WARD_NAME": "PASSAM 2",
+        "LATITUDE": -3.698227,
+        "LONGITUDE": 143.64948,
+        "REGHH": 31,
+        "TOTPOP2000": 146,
+        "MALE2000": 84,
+        "FEMALE2000": 62,
+        "POP2008": 173,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041702023,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6910,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64550300026326,
+          -3.6946739996053566
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6910,
+        "CU_NAME": "KUMAU",
+        "CU_NO": "024",
+        "GEOCODE": "14041702024",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "17",
+        "WARD_NO": "02",
+        "WARD_NAME": "PASSAM 2",
+        "LATITUDE": -3.696253,
+        "LONGITUDE": 143.644271,
+        "REGHH": 15,
+        "TOTPOP2000": 80,
+        "MALE2000": 44,
+        "FEMALE2000": 36,
+        "POP2008": 96,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041702024,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

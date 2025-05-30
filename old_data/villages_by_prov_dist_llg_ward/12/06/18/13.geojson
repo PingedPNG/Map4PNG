@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11633,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1988880001811,
+          -6.208564000228364
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11633,
+        "CU_NAME": "MARAFAU",
+        "CU_NO": "007",
+        "GEOCODE": "12061813007",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "13",
+        "WARD_NAME": "ZUMARA",
+        "LATITUDE": -6.209972,
+        "LONGITUDE": 146.194065,
+        "REGHH": 32,
+        "TOTPOP2000": 201,
+        "MALE2000": 95,
+        "FEMALE2000": 106,
+        "POP2008": 251,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061813007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11634,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.19952299978672,
+          -6.217012000403429
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11634,
+        "CU_NAME": "MITZING",
+        "CU_NO": "008",
+        "GEOCODE": "12061813008",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "13",
+        "WARD_NAME": "ZUMARA",
+        "LATITUDE": -6.218426,
+        "LONGITUDE": 146.198489,
+        "REGHH": 33,
+        "TOTPOP2000": 169,
+        "MALE2000": 72,
+        "FEMALE2000": 97,
+        "POP2008": 211,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061813008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11635,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.19528500040246,
+          -6.193124999618988
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11635,
+        "CU_NAME": "ZUMARA",
+        "CU_NO": "013",
+        "GEOCODE": "12061813013",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "13",
+        "WARD_NAME": "ZUMARA",
+        "LATITUDE": -6.196209,
+        "LONGITUDE": 146.196154,
+        "REGHH": 46,
+        "TOTPOP2000": 282,
+        "MALE2000": 128,
+        "FEMALE2000": 154,
+        "POP2008": 352,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061813013,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11636,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.196183999592,
+          -6.19570099970133
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11636,
+        "CU_NAME": "ZUMARA COMM.SCH.",
+        "CU_NO": "401",
+        "GEOCODE": "12061813401",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "13",
+        "WARD_NAME": "ZUMARA",
+        "LATITUDE": -6.196209,
+        "LONGITUDE": 146.196154,
+        "REGHH": 5,
+        "TOTPOP2000": 34,
+        "MALE2000": 19,
+        "FEMALE2000": 15,
+        "POP2008": 42,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061813401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

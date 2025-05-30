@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18774,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.6055560003092,
+          -5.060446000282639
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18774,
+        "CU_NAME": "OFEKTAMAN",
+        "CU_NO": "023",
+        "GEOCODE": "15031021023",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "21",
+        "WARD_NAME": "OFEKTAMAN",
+        "LATITUDE": -5.06869,
+        "LONGITUDE": 141.596513,
+        "REGHH": 14,
+        "TOTPOP2000": 116,
+        "MALE2000": 57,
+        "FEMALE2000": 59,
+        "POP2008": 140,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031021023,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18775,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.48233900004493,
+          -5.041662000101155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18775,
+        "CU_NAME": "SIKTAMIN",
+        "CU_NO": "027",
+        "GEOCODE": "15031021027",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "21",
+        "WARD_NAME": "OFEKTAMAN",
+        "LATITUDE": -5.04058,
+        "LONGITUDE": 141.480894,
+        "REGHH": 6,
+        "TOTPOP2000": 35,
+        "MALE2000": 16,
+        "FEMALE2000": 19,
+        "POP2008": 43,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031021027,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18776,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.57571200000882,
+          -5.071842999754608
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18776,
+        "CU_NAME": "DUKADANG",
+        "CU_NO": "028",
+        "GEOCODE": "15031021028",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "21",
+        "WARD_NAME": "OFEKTAMAN",
+        "LATITUDE": -5.073237,
+        "LONGITUDE": 141.574622,
+        "REGHH": 11,
+        "TOTPOP2000": 83,
+        "MALE2000": 47,
+        "FEMALE2000": 36,
+        "POP2008": 99,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031021028,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18777,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.48007600000744,
+          -5.003543000409081
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18777,
+        "CU_NAME": "INEMTAMAN",
+        "CU_NO": "029",
+        "GEOCODE": "15031021029",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "21",
+        "WARD_NAME": "OFEKTAMAN",
+        "LATITUDE": -5.002103,
+        "LONGITUDE": 141.484625,
+        "REGHH": 14,
+        "TOTPOP2000": 69,
+        "MALE2000": 40,
+        "FEMALE2000": 29,
+        "POP2008": 85,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031021029,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

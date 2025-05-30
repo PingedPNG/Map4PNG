@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.56276599975115,
+          -3.707755000292991
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7309,
+        "CU_NAME": "URIEGEMBI",
+        "CU_NO": "042",
+        "GEOCODE": "14062501042",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "25",
+        "WARD_NO": "01",
+        "WARD_NAME": "URIEGEMBI",
+        "LATITUDE": -3.709334,
+        "LONGITUDE": 143.561533,
+        "REGHH": 85,
+        "TOTPOP2000": 481,
+        "MALE2000": 251,
+        "FEMALE2000": 230,
+        "POP2008": 573,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062501042,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6540,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.86368200002437,
+          -4.378110999722821
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6540,
+        "CU_NAME": "AKURAN",
+        "CU_NO": "002",
+        "GEOCODE": "14020905002",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "AKURAN",
+        "LATITUDE": -4.387108,
+        "LONGITUDE": 143.864239,
+        "REGHH": 79,
+        "TOTPOP2000": 446,
+        "MALE2000": 238,
+        "FEMALE2000": 208,
+        "POP2008": 530,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020905002,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

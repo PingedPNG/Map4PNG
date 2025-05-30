@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8526,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0886850004125,
+          -4.739818000200501
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8526,
+        "CU_NAME": "IABARANGA",
+        "CU_NO": "003",
+        "GEOCODE": "13030809003",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD 9",
+        "LATITUDE": -4.741214,
+        "LONGITUDE": 145.087639,
+        "REGHH": 17,
+        "TOTPOP2000": 88,
+        "MALE2000": 47,
+        "FEMALE2000": 41,
+        "POP2008": 109,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030809003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8527,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.07619199986095,
+          -4.8452030001183175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8527,
+        "CU_NAME": "KOKOPOGOSA",
+        "CU_NO": "010",
+        "GEOCODE": "13030809010",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD 9",
+        "LATITUDE": -4.855539,
+        "LONGITUDE": 145.073022,
+        "REGHH": 25,
+        "TOTPOP2000": 114,
+        "MALE2000": 54,
+        "FEMALE2000": 60,
+        "POP2008": 140,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030809010,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8528,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0763609995605,
+          -4.879366999986985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8528,
+        "CU_NAME": "TINDIGINAI",
+        "CU_NO": "015",
+        "GEOCODE": "13030809015",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD 9",
+        "LATITUDE": -4.874762,
+        "LONGITUDE": 145.077799,
+        "REGHH": 43,
+        "TOTPOP2000": 249,
+        "MALE2000": 127,
+        "FEMALE2000": 122,
+        "POP2008": 308,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030809015,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

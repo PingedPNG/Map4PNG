@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.80712300002654,
+          -5.724826000219707
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20869,
+        "CU_NAME": "HUMBURU",
+        "CU_NO": "007",
+        "GEOCODE": "07051706007",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "06",
+        "WARD_NAME": "HUMBURU 1",
+        "LATITUDE": -5.729078,
+        "LONGITUDE": 142.80475,
+        "REGHH": 58,
+        "TOTPOP2000": 342,
+        "MALE2000": 176,
+        "FEMALE2000": 166,
+        "POP2008": 475,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051706007,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20870,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.80109800007267,
+          -5.72258200015915
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20870,
+        "CU_NAME": "HUKU",
+        "CU_NO": "008",
+        "GEOCODE": "07051706008",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "06",
+        "WARD_NAME": "HUMBURU 1",
+        "LATITUDE": -5.729078,
+        "LONGITUDE": 142.80475,
+        "REGHH": 53,
+        "TOTPOP2000": 321,
+        "MALE2000": 157,
+        "FEMALE2000": 164,
+        "POP2008": 446,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051706008,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20871,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.80673700021248,
+          -5.721808999585619
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20871,
+        "CU_NAME": "ATE",
+        "CU_NO": "009",
+        "GEOCODE": "07051706009",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "06",
+        "WARD_NAME": "HUMBURU 1",
+        "LATITUDE": -5.729078,
+        "LONGITUDE": 142.80475,
+        "REGHH": 43,
+        "TOTPOP2000": 280,
+        "MALE2000": 143,
+        "FEMALE2000": 137,
+        "POP2008": 389,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051706009,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20872,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8029730002039,
+          -5.721067000441678
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20872,
+        "CU_NAME": "KAYA",
+        "CU_NO": "010",
+        "GEOCODE": "07051706010",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "06",
+        "WARD_NAME": "HUMBURU 1",
+        "LATITUDE": -5.729078,
+        "LONGITUDE": 142.80475,
+        "REGHH": 29,
+        "TOTPOP2000": 178,
+        "MALE2000": 85,
+        "FEMALE2000": 93,
+        "POP2008": 247,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051706010,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

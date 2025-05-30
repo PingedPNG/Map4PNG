@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 27278,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.76305650225584,
+          -6.349408477019551
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27278,
+        "CU_NAME": "Tavatana",
+        "CU_NO": "772",
+        "GEOCODE": "772",
+        "PROV_KEY": "20",
+        "DIST_NO": null,
+        "LLG_NO": null,
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": -6.349433,
+        "LONGITUDE": 155.763044,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 772,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27279,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.8293980003175,
+          -6.616737000412172
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27279,
+        "CU_NAME": "Wissai",
+        "CU_NO": "773",
+        "GEOCODE": "773",
+        "PROV_KEY": "20",
+        "DIST_NO": null,
+        "LLG_NO": null,
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": -6.616652,
+        "LONGITUDE": 155.829217,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 773,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31063,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.5914557503827,
+          -5.028296921565641
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31063,
+        "CU_NAME": "Haku",
+        "CU_NO": "858",
+        "GEOCODE": "858",
+        "PROV_KEY": "20",
+        "DIST_NO": null,
+        "LLG_NO": null,
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": -5.029192,
+        "LONGITUDE": 154.590702,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 858,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

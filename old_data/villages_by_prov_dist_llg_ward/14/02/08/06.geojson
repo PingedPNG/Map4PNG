@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6484,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0278589996932,
+          -3.827221000248926
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6484,
+        "CU_NAME": "KIS",
+        "CU_NO": "007",
+        "GEOCODE": "14020806007",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "06",
+        "WARD_NAME": "KIS",
+        "LATITUDE": -3.828802,
+        "LONGITUDE": 144.026632,
+        "REGHH": 75,
+        "TOTPOP2000": 455,
+        "MALE2000": 239,
+        "FEMALE2000": 216,
+        "POP2008": 541,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020806007,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

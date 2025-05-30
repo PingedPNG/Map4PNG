@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.39272200012033,
+          -9.146300999891196
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13232,
+        "CU_NAME": "AFORE",
+        "CU_NO": "001",
+        "GEOCODE": "06010302001",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "NINIURI",
+        "LATITUDE": -9.14517,
+        "LONGITUDE": 148.391701,
+        "REGHH": 17,
+        "TOTPOP2000": 110,
+        "MALE2000": 58,
+        "FEMALE2000": 52,
+        "POP2008": 135,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010302001,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.41182399967795,
+          -9.128255999614623
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13233,
+        "CU_NAME": "NINIURI",
+        "CU_NO": "020",
+        "GEOCODE": "06010302020",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "NINIURI",
+        "LATITUDE": -9.129892,
+        "LONGITUDE": 148.410939,
+        "REGHH": 11,
+        "TOTPOP2000": 53,
+        "MALE2000": 29,
+        "FEMALE2000": 24,
+        "POP2008": 66,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010302020,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.37199200013072,
+          -9.13196099960038
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13234,
+        "CU_NAME": "SEMAHARA",
+        "CU_NO": "023",
+        "GEOCODE": "06010302023",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "NINIURI",
+        "LATITUDE": -9.133411,
+        "LONGITUDE": 148.370981,
+        "REGHH": 19,
+        "TOTPOP2000": 102,
+        "MALE2000": 52,
+        "FEMALE2000": 50,
+        "POP2008": 126,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010302023,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.38622199984547,
+          -9.143778999601125
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13235,
+        "CU_NAME": "KOROKORO",
+        "CU_NO": "041",
+        "GEOCODE": "06010302041",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "NINIURI",
+        "LATITUDE": -9.145222,
+        "LONGITUDE": 148.387159,
+        "REGHH": 7,
+        "TOTPOP2000": 42,
+        "MALE2000": 27,
+        "FEMALE2000": 15,
+        "POP2008": 50,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010302041,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.39651599971364,
+          -9.131964999784884
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13236,
+        "CU_NAME": "AFORE BLOCKS",
+        "CU_NO": "044",
+        "GEOCODE": "06010302044",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "NINIURI",
+        "LATITUDE": -9.133033,
+        "LONGITUDE": 148.397632,
+        "REGHH": 32,
+        "TOTPOP2000": 208,
+        "MALE2000": 114,
+        "FEMALE2000": 94,
+        "POP2008": 258,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010302044,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13237,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3977619996167,
+          -9.129406999633261
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13237,
+        "CU_NAME": "OGAN 1",
+        "CU_NO": "045",
+        "GEOCODE": "06010302045",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "NINIURI",
+        "LATITUDE": -9.133093,
+        "LONGITUDE": 148.397887,
+        "REGHH": 7,
+        "TOTPOP2000": 45,
+        "MALE2000": 25,
+        "FEMALE2000": 20,
+        "POP2008": 53,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010302045,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13238,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.34348400028648,
+          -9.103508999640553
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13238,
+        "CU_NAME": "OGAN 2",
+        "CU_NO": "046",
+        "GEOCODE": "06010302046",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "NINIURI",
+        "LATITUDE": -9.11097,
+        "LONGITUDE": 148.355722,
+        "REGHH": 10,
+        "TOTPOP2000": 61,
+        "MALE2000": 38,
+        "FEMALE2000": 23,
+        "POP2008": 77,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010302046,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13239,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.4026249999439,
+          -9.10951999984809
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13239,
+        "CU_NAME": "BASAPE",
+        "CU_NO": "047",
+        "GEOCODE": "06010302047",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "NINIURI",
+        "LATITUDE": -9.11097,
+        "LONGITUDE": 148.401614,
+        "REGHH": 15,
+        "TOTPOP2000": 106,
+        "MALE2000": 60,
+        "FEMALE2000": 46,
+        "POP2008": 130,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010302047,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13240,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.38581499996235,
+          -9.135873000138815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13240,
+        "CU_NAME": "AFORE GOVT. STATION",
+        "CU_NO": "401",
+        "GEOCODE": "06010302401",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "NINIURI",
+        "LATITUDE": -9.140538,
+        "LONGITUDE": 148.387413,
+        "REGHH": 28,
+        "TOTPOP2000": 188,
+        "MALE2000": 99,
+        "FEMALE2000": 89,
+        "POP2008": 232,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010302401,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13241,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3898190002467,
+          -9.12112099973433
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13241,
+        "CU_NAME": "BOIKIKI PLANTATION",
+        "CU_NO": "402",
+        "GEOCODE": "06010302402",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "NINIURI",
+        "LATITUDE": -9.12115,
+        "LONGITUDE": 148.391013,
+        "REGHH": 20,
+        "TOTPOP2000": 128,
+        "MALE2000": 74,
+        "FEMALE2000": 54,
+        "POP2008": 159,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010302402,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

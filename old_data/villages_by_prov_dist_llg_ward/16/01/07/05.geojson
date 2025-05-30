@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9457,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.40564700010907,
+          -2.076612999989891
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9457,
+        "CU_NAME": "NARINGEL",
+        "CU_NO": "004",
+        "GEOCODE": "16010705004",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "NARINGEL",
+        "LATITUDE": -2.077979,
+        "LONGITUDE": 147.404635,
+        "REGHH": 39,
+        "TOTPOP2000": 249,
+        "MALE2000": 127,
+        "FEMALE2000": 122,
+        "POP2008": 306,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010705004,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

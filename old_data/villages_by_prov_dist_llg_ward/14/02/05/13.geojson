@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6300,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.09069299968223,
+          -4.102650999743787
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6300,
+        "CU_NAME": "MAGENDO 3/4",
+        "CU_NO": "001",
+        "GEOCODE": "14020513001",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "13",
+        "WARD_NAME": "MAGENDO 2",
+        "LATITUDE": -4.104235,
+        "LONGITUDE": 144.089466,
+        "REGHH": 43,
+        "TOTPOP2000": 283,
+        "MALE2000": 142,
+        "FEMALE2000": 141,
+        "POP2008": 336,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020513001,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

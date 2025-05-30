@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9853,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.66120900009537,
+          -10.609603999824685
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9853,
+        "CU_NAME": "SAMARAI 03",
+        "CU_NO": "401",
+        "GEOCODE": "05020808401",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "SAMARAI EAST",
+        "LATITUDE": -10.611076,
+        "LONGITUDE": 150.660227,
+        "REGHH": 43,
+        "TOTPOP2000": 247,
+        "MALE2000": 120,
+        "FEMALE2000": 127,
+        "POP2008": 300,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020808401,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

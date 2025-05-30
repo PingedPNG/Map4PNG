@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5955,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.82137899984104,
+          -5.653794999939237
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5955,
+        "CU_NAME": "YOGOS",
+        "CU_NO": "011",
+        "GEOCODE": "08051404011",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "04",
+        "WARD_NAME": "YOGOS",
+        "LATITUDE": -5.655199,
+        "LONGITUDE": 143.820315,
+        "REGHH": 232,
+        "TOTPOP2000": 1141,
+        "MALE2000": 595,
+        "FEMALE2000": 546,
+        "POP2008": 1433,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051404011,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

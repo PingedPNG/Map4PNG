@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4774,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.21243200033666,
+          -4.336857000250291
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4774,
+        "CU_NAME": "NANUK",
+        "CU_NO": "018",
+        "GEOCODE": "18020918018",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "18",
+        "WARD_NAME": "NANUK",
+        "LATITUDE": -4.338258,
+        "LONGITUDE": 152.211487,
+        "REGHH": 117,
+        "TOTPOP2000": 669,
+        "MALE2000": 322,
+        "FEMALE2000": 347,
+        "POP2008": 815,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020918018,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

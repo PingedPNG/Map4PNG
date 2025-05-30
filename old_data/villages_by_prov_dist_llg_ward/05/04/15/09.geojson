@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10254,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.78379921696035,
+          -9.725485577497352
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10254,
+        "CU_NAME": "KENAIA",
+        "CU_NO": "001",
+        "GEOCODE": "05041509001",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "09",
+        "WARD_NAME": "KENAIA",
+        "LATITUDE": -9.727133,
+        "LONGITUDE": 150.786201,
+        "REGHH": 102,
+        "TOTPOP2000": 533,
+        "MALE2000": 269,
+        "FEMALE2000": 264,
+        "POP2008": 649,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041509001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

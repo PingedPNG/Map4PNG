@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6771,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.33245099971396,
+          -3.514594999559563
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6771,
+        "CU_NAME": "SAPUAIN",
+        "CU_NO": "008",
+        "GEOCODE": "14041415008",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "15",
+        "WARD_NAME": "SAPUAIN",
+        "LATITUDE": -3.517274,
+        "LONGITUDE": 143.32964,
+        "REGHH": 97,
+        "TOTPOP2000": 632,
+        "MALE2000": 322,
+        "FEMALE2000": 310,
+        "POP2008": 753,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041415008,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

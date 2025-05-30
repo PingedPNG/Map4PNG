@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.76418800037595,
+          -6.221523999832698
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21225,
+        "CU_NAME": "IGILABOSADO",
+        "CU_NO": "003",
+        "GEOCODE": "07072304003",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "04",
+        "WARD_NAME": "BOBOLE",
+        "LATITUDE": -6.22798,
+        "LONGITUDE": 142.767503,
+        "REGHH": 26,
+        "TOTPOP2000": 101,
+        "MALE2000": 52,
+        "FEMALE2000": 49,
+        "POP2008": 140,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072304003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7622629997377,
+          -6.22541500030195
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21226,
+        "CU_NAME": "BOBOLE",
+        "CU_NO": "004",
+        "GEOCODE": "07072304004",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "04",
+        "WARD_NAME": "BOBOLE",
+        "LATITUDE": -6.22798,
+        "LONGITUDE": 142.767503,
+        "REGHH": 47,
+        "TOTPOP2000": 230,
+        "MALE2000": 131,
+        "FEMALE2000": 99,
+        "POP2008": 320,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072304004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7639229998466,
+          -6.224586999890107
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21227,
+        "CU_NAME": "GIMISADO",
+        "CU_NO": "005",
+        "GEOCODE": "07072304005",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "04",
+        "WARD_NAME": "BOBOLE",
+        "LATITUDE": -6.22799,
+        "LONGITUDE": 142.767504,
+        "REGHH": 13,
+        "TOTPOP2000": 59,
+        "MALE2000": 34,
+        "FEMALE2000": 25,
+        "POP2008": 82,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072304005,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

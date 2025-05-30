@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18683,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.82952299988665,
+          -3.8126639998436644
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18683,
+        "CU_NAME": "NORMBALIP",
+        "CU_NO": "013",
+        "GEOCODE": "15030811013",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "11",
+        "WARD_NAME": "NORAMBALIP",
+        "LATITUDE": -3.814045,
+        "LONGITUDE": 141.828438,
+        "REGHH": 47,
+        "TOTPOP2000": 334,
+        "MALE2000": 172,
+        "FEMALE2000": 162,
+        "POP2008": 403,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030811013,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18684,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.8034639996639,
+          -3.8537380000086614
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18684,
+        "CU_NAME": "YARU",
+        "CU_NO": "018",
+        "GEOCODE": "15030811018",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "11",
+        "WARD_NAME": "NORAMBALIP",
+        "LATITUDE": -3.85512,
+        "LONGITUDE": 141.802378,
+        "REGHH": 61,
+        "TOTPOP2000": 388,
+        "MALE2000": 192,
+        "FEMALE2000": 196,
+        "POP2008": 469,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030811018,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

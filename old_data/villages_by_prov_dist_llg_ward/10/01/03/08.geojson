@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13988,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.24831800007576,
+          -6.240903999619832
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13988,
+        "CU_NAME": "NAMBAIYUFA",
+        "CU_NO": "009",
+        "GEOCODE": "10010308009",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "ATINO",
+        "LATITUDE": -6.242318,
+        "LONGITUDE": 145.247271,
+        "REGHH": 24,
+        "TOTPOP2000": 77,
+        "MALE2000": 38,
+        "FEMALE2000": 39,
+        "POP2008": 86,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010308009,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13989,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.24189899993894,
+          -6.2385810004128075
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13989,
+        "CU_NAME": "KOROU",
+        "CU_NO": "010",
+        "GEOCODE": "10010308010",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "ATINO",
+        "LATITUDE": -6.239993,
+        "LONGITUDE": 145.240852,
+        "REGHH": 16,
+        "TOTPOP2000": 60,
+        "MALE2000": 24,
+        "FEMALE2000": 36,
+        "POP2008": 68,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010308010,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13990,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.25804499987692,
+          -6.234825999919906
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13990,
+        "CU_NAME": "NAMBYIA",
+        "CU_NO": "011",
+        "GEOCODE": "10010308011",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "ATINO",
+        "LATITUDE": -6.236238,
+        "LONGITUDE": 145.256997,
+        "REGHH": 31,
+        "TOTPOP2000": 94,
+        "MALE2000": 47,
+        "FEMALE2000": 47,
+        "POP2008": 110,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010308011,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13991,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.23803499981545,
+          -6.235680999778253
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13991,
+        "CU_NAME": "NAMBAIYUFA COMM. SCH",
+        "CU_NO": "401",
+        "GEOCODE": "10010308401",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "ATINO",
+        "LATITUDE": -6.237093,
+        "LONGITUDE": 145.236988,
+        "REGHH": 22,
+        "TOTPOP2000": 86,
+        "MALE2000": 38,
+        "FEMALE2000": 48,
+        "POP2008": 102,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010308401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

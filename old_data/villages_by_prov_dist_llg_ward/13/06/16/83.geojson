@@ -1,0 +1,613 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9332,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.90714000001105,
+          -5.98689399955839
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9332,
+        "CU_NAME": "SAKSAK, SAROA, GOBUANI",
+        "CU_NO": "002",
+        "GEOCODE": "13061683002",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.988305,
+        "LONGITUDE": 145.906103,
+        "REGHH": 50,
+        "TOTPOP2000": 296,
+        "MALE2000": 162,
+        "FEMALE2000": 134,
+        "POP2008": 366,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9333,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91125399997213,
+          -5.994098999968799
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9333,
+        "CU_NAME": "PERINDA HAMLET",
+        "CU_NO": "004",
+        "GEOCODE": "13061683004",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.99551,
+        "LONGITUDE": 145.910217,
+        "REGHH": 27,
+        "TOTPOP2000": 178,
+        "MALE2000": 97,
+        "FEMALE2000": 81,
+        "POP2008": 220,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683004,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9334,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.90158300005544,
+          -5.981736000016326
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9334,
+        "CU_NAME": "KANAI HAMLET",
+        "CU_NO": "005",
+        "GEOCODE": "13061683005",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.983147,
+        "LONGITUDE": 145.900545,
+        "REGHH": 32,
+        "TOTPOP2000": 175,
+        "MALE2000": 94,
+        "FEMALE2000": 81,
+        "POP2008": 217,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683005,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9335,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89927199960312,
+          -5.986403000298196
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9335,
+        "CU_NAME": "MURUK A & B",
+        "CU_NO": "006",
+        "GEOCODE": "13061683006",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.987814,
+        "LONGITUDE": 145.898234,
+        "REGHH": 95,
+        "TOTPOP2000": 410,
+        "MALE2000": 229,
+        "FEMALE2000": 181,
+        "POP2008": 507,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683006,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9336,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89293799978896,
+          -5.979872000392447
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9336,
+        "CU_NAME": "KUMUL/MALALO",
+        "CU_NO": "007",
+        "GEOCODE": "13061683007",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.981283,
+        "LONGITUDE": 145.8919,
+        "REGHH": 144,
+        "TOTPOP2000": 534,
+        "MALE2000": 308,
+        "FEMALE2000": 226,
+        "POP2008": 660,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683007,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9337,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89665899961324,
+          -5.976976999988494
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9337,
+        "CU_NAME": "KOKI VILLAGE",
+        "CU_NO": "009",
+        "GEOCODE": "13061683009",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.978388,
+        "LONGITUDE": 145.895621,
+        "REGHH": 123,
+        "TOTPOP2000": 656,
+        "MALE2000": 368,
+        "FEMALE2000": 288,
+        "POP2008": 812,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9338,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89612800030704,
+          -5.982850000127371
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9338,
+        "CU_NAME": "LANU VILLAGE",
+        "CU_NO": "011",
+        "GEOCODE": "13061683011",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.984261,
+        "LONGITUDE": 145.89509,
+        "REGHH": 79,
+        "TOTPOP2000": 381,
+        "MALE2000": 252,
+        "FEMALE2000": 129,
+        "POP2008": 471,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9339,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89917899981106,
+          -5.978032000076723
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9339,
+        "CU_NAME": "TARANGAU",
+        "CU_NO": "012",
+        "GEOCODE": "13061683012",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.979443,
+        "LONGITUDE": 145.898141,
+        "REGHH": 55,
+        "TOTPOP2000": 254,
+        "MALE2000": 146,
+        "FEMALE2000": 108,
+        "POP2008": 314,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683012,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9340,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89824099972247,
+          -5.975413999856187
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9340,
+        "CU_NAME": "WARIAS",
+        "CU_NO": "013",
+        "GEOCODE": "13061683013",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.976825,
+        "LONGITUDE": 145.897203,
+        "REGHH": 86,
+        "TOTPOP2000": 445,
+        "MALE2000": 279,
+        "FEMALE2000": 166,
+        "POP2008": 550,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683013,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9341,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9129869998502,
+          -5.996081999684463
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9341,
+        "CU_NAME": "BORA",
+        "CU_NO": "014",
+        "GEOCODE": "13061683014",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.997493,
+        "LONGITUDE": 145.91195,
+        "REGHH": 53,
+        "TOTPOP2000": 169,
+        "MALE2000": 123,
+        "FEMALE2000": 46,
+        "POP2008": 210,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683014,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8957010004009,
+          -5.975332999718091
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9342,
+        "CU_NAME": "SIOS COMPOUND",
+        "CU_NO": "015",
+        "GEOCODE": "13061683015",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.976744,
+        "LONGITUDE": 145.894663,
+        "REGHH": 184,
+        "TOTPOP2000": 619,
+        "MALE2000": 362,
+        "FEMALE2000": 257,
+        "POP2008": 767,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683015,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9343,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8968229999815,
+          -5.978092000145637
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9343,
+        "CU_NAME": "POPO",
+        "CU_NO": "016",
+        "GEOCODE": "13061683016",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.979503,
+        "LONGITUDE": 145.895785,
+        "REGHH": 21,
+        "TOTPOP2000": 92,
+        "MALE2000": 51,
+        "FEMALE2000": 41,
+        "POP2008": 115,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683016,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9344,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.904798999974,
+          -5.9839539997772135
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9344,
+        "CU_NAME": "KAVAR",
+        "CU_NO": "017",
+        "GEOCODE": "13061683017",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.985365,
+        "LONGITUDE": 145.903761,
+        "REGHH": 17,
+        "TOTPOP2000": 100,
+        "MALE2000": 53,
+        "FEMALE2000": 47,
+        "POP2008": 124,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683017,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89045400035195,
+          -5.981720000177802
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9345,
+        "CU_NAME": "KAPUL/PILIPINO",
+        "CU_NO": "018",
+        "GEOCODE": "13061683018",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.983131,
+        "LONGITUDE": 145.889416,
+        "REGHH": 31,
+        "TOTPOP2000": 210,
+        "MALE2000": 117,
+        "FEMALE2000": 93,
+        "POP2008": 260,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683018,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9346,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89199300027678,
+          -5.981028999788464
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9346,
+        "CU_NAME": "SEMBAO",
+        "CU_NO": "019",
+        "GEOCODE": "13061683019",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.98244,
+        "LONGITUDE": 145.890955,
+        "REGHH": 12,
+        "TOTPOP2000": 85,
+        "MALE2000": 48,
+        "FEMALE2000": 37,
+        "POP2008": 105,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683019,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9347,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89347000004057,
+          -5.983013000449546
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9347,
+        "CU_NAME": "KAUKAU",
+        "CU_NO": "020",
+        "GEOCODE": "13061683020",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.984424,
+        "LONGITUDE": 145.892432,
+        "REGHH": 29,
+        "TOTPOP2000": 195,
+        "MALE2000": 92,
+        "FEMALE2000": 103,
+        "POP2008": 241,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683020,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9348,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89812000043776,
+          -5.984570000305212
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9348,
+        "CU_NAME": "PUKPUK VILLAGE",
+        "CU_NO": "021",
+        "GEOCODE": "13061683021",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.985981,
+        "LONGITUDE": 145.897082,
+        "REGHH": 24,
+        "TOTPOP2000": 97,
+        "MALE2000": 46,
+        "FEMALE2000": 51,
+        "POP2008": 121,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683021,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9349,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89490599971214,
+          -5.980535000389921
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9349,
+        "CU_NAME": "KULAO/KANDA/KIAP",
+        "CU_NO": "022",
+        "GEOCODE": "13061683022",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.981946,
+        "LONGITUDE": 145.893868,
+        "REGHH": 37,
+        "TOTPOP2000": 188,
+        "MALE2000": 118,
+        "FEMALE2000": 70,
+        "POP2008": 232,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683022,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9350,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9208439997509,
+          -5.996137000422209
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9350,
+        "CU_NAME": "RAI COAST S'MENT",
+        "CU_NO": "023",
+        "GEOCODE": "13061683023",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "83",
+        "WARD_NAME": "RAMU SUGAR URBAN",
+        "LATITUDE": -5.997548,
+        "LONGITUDE": 145.919807,
+        "REGHH": 28,
+        "TOTPOP2000": 193,
+        "MALE2000": 114,
+        "FEMALE2000": 79,
+        "POP2008": 238,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061683023,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

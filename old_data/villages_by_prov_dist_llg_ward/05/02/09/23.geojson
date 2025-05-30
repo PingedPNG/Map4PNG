@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9957,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.36332299975675,
+          -10.691212000433438
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9957,
+        "CU_NAME": "PALUALUAL",
+        "CU_NO": "001",
+        "GEOCODE": "05020923001",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "23",
+        "WARD_NAME": "EAST PANAEATI",
+        "LATITUDE": -10.698549,
+        "LONGITUDE": 152.369314,
+        "REGHH": 42,
+        "TOTPOP2000": 210,
+        "MALE2000": 105,
+        "FEMALE2000": 105,
+        "POP2008": 255,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020923001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9958,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.37378288946888,
+          -10.697576140126728
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9958,
+        "CU_NAME": "MAGGIAU",
+        "CU_NO": "002",
+        "GEOCODE": "05020923002",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "23",
+        "WARD_NAME": "EAST PANAEATI",
+        "LATITUDE": -10.69815,
+        "LONGITUDE": 152.373347,
+        "REGHH": 22,
+        "TOTPOP2000": 131,
+        "MALE2000": 57,
+        "FEMALE2000": 74,
+        "POP2008": 160,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020923002,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9959,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.37558749606615,
+          -10.698272997800586
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9959,
+        "CU_NAME": "BWAGANATI",
+        "CU_NO": "003",
+        "GEOCODE": "05020923003",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "23",
+        "WARD_NAME": "EAST PANAEATI",
+        "LATITUDE": -10.698972,
+        "LONGITUDE": 152.375476,
+        "REGHH": 45,
+        "TOTPOP2000": 224,
+        "MALE2000": 112,
+        "FEMALE2000": 112,
+        "POP2008": 274,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020923003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9960,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.38953066600754,
+          -10.70246750507124
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9960,
+        "CU_NAME": "LEBWALEBWAL",
+        "CU_NO": "004",
+        "GEOCODE": "05020923004",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "23",
+        "WARD_NAME": "EAST PANAEATI",
+        "LATITUDE": -10.704393,
+        "LONGITUDE": 152.391595,
+        "REGHH": 15,
+        "TOTPOP2000": 92,
+        "MALE2000": 52,
+        "FEMALE2000": 40,
+        "POP2008": 111,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020923004,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9961,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.36706586389857,
+          -10.701106276833173
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9961,
+        "CU_NAME": "EAST PANAEATI SUB H/CENT.",
+        "CU_NO": "007",
+        "GEOCODE": "05020923007",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "23",
+        "WARD_NAME": "EAST PANAEATI",
+        "LATITUDE": -10.701765,
+        "LONGITUDE": 152.366234,
+        "REGHH": 10,
+        "TOTPOP2000": 50,
+        "MALE2000": 27,
+        "FEMALE2000": 23,
+        "POP2008": 58,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020923007,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

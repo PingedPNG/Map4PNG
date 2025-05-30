@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12993,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5183229997067,
+          -9.00210599989191
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12993,
+        "CU_NAME": "EMO",
+        "CU_NO": "018",
+        "GEOCODE": "06010104018",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "04",
+        "WARD_NAME": "EMO",
+        "LATITUDE": -9.00038,
+        "LONGITUDE": 148.52541,
+        "REGHH": 46,
+        "TOTPOP2000": 278,
+        "MALE2000": 143,
+        "FEMALE2000": 135,
+        "POP2008": 345,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010104018,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12994,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.52466599993602,
+          -8.996202000122139
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12994,
+        "CU_NAME": "ENDADURU",
+        "CU_NO": "019",
+        "GEOCODE": "06010104019",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "04",
+        "WARD_NAME": "EMO",
+        "LATITUDE": -8.997641,
+        "LONGITUDE": 148.525997,
+        "REGHH": 43,
+        "TOTPOP2000": 232,
+        "MALE2000": 123,
+        "FEMALE2000": 109,
+        "POP2008": 287,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010104019,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12995,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.51943399967945,
+          -9.00620400001452
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12995,
+        "CU_NAME": "REIBAI",
+        "CU_NO": "036",
+        "GEOCODE": "06010104036",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "04",
+        "WARD_NAME": "EMO",
+        "LATITUDE": -9.007653,
+        "LONGITUDE": 148.518425,
+        "REGHH": 57,
+        "TOTPOP2000": 375,
+        "MALE2000": 200,
+        "FEMALE2000": 175,
+        "POP2008": 464,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010104036,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

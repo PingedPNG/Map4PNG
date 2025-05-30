@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20068,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.73693299965828,
+          -6.3227450001815555
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20068,
+        "CU_NAME": "PUTI",
+        "CU_NO": "009",
+        "GEOCODE": "07030941009",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "41",
+        "WARD_NAME": "PUTI",
+        "LATITUDE": -6.326941,
+        "LONGITUDE": 143.737033,
+        "REGHH": 14,
+        "TOTPOP2000": 75,
+        "MALE2000": 35,
+        "FEMALE2000": 40,
+        "POP2008": 104,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030941009,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20069,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7358839998468,
+          -6.322699999905012
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20069,
+        "CU_NAME": "MALUE",
+        "CU_NO": "010",
+        "GEOCODE": "07030941010",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "41",
+        "WARD_NAME": "PUTI",
+        "LATITUDE": -6.326941,
+        "LONGITUDE": 143.737033,
+        "REGHH": 33,
+        "TOTPOP2000": 149,
+        "MALE2000": 76,
+        "FEMALE2000": 73,
+        "POP2008": 207,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030941010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20070,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7365269998212,
+          -6.322134999930256
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20070,
+        "CU_NAME": "AWAROANDA",
+        "CU_NO": "011",
+        "GEOCODE": "07030941011",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "41",
+        "WARD_NAME": "PUTI",
+        "LATITUDE": -6.326941,
+        "LONGITUDE": 143.737033,
+        "REGHH": 9,
+        "TOTPOP2000": 49,
+        "MALE2000": 29,
+        "FEMALE2000": 20,
+        "POP2008": 67,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030941011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20071,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.74178600042364,
+          -6.324098999669047
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20071,
+        "CU_NAME": "AGARE",
+        "CU_NO": "012",
+        "GEOCODE": "07030941012",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "41",
+        "WARD_NAME": "PUTI",
+        "LATITUDE": -6.326941,
+        "LONGITUDE": 143.737033,
+        "REGHH": 32,
+        "TOTPOP2000": 151,
+        "MALE2000": 70,
+        "FEMALE2000": 81,
+        "POP2008": 209,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030941012,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

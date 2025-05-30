@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.01127900022573,
+          -4.770824000127448
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8533,
+        "CU_NAME": "INASI",
+        "CU_NO": "006",
+        "GEOCODE": "13030812006",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD 12",
+        "LATITUDE": -4.793102,
+        "LONGITUDE": 145.018277,
+        "REGHH": 17,
+        "TOTPOP2000": 125,
+        "MALE2000": 70,
+        "FEMALE2000": 55,
+        "POP2008": 155,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030812006,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

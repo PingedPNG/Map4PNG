@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6748,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.42727199990293,
+          -3.4184959997905366
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6748,
+        "CU_NAME": "KARAWAP",
+        "CU_NO": "011",
+        "GEOCODE": "14041407011",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "07",
+        "WARD_NAME": "KARAWAP",
+        "LATITUDE": -3.417496,
+        "LONGITUDE": 143.426497,
+        "REGHH": 52,
+        "TOTPOP2000": 274,
+        "MALE2000": 137,
+        "FEMALE2000": 137,
+        "POP2008": 326,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041407011,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6749,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.43631599968376,
+          -3.4622959997605562
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6749,
+        "CU_NAME": "KAWANUMBO",
+        "CU_NO": "013",
+        "GEOCODE": "14041407013",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "07",
+        "WARD_NAME": "KARAWAP",
+        "LATITUDE": -3.463873,
+        "LONGITUDE": 143.435082,
+        "REGHH": 57,
+        "TOTPOP2000": 312,
+        "MALE2000": 157,
+        "FEMALE2000": 155,
+        "POP2008": 371,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041407013,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6750,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.40950699994812,
+          -3.4771310003953317
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6750,
+        "CU_NAME": "MAJUOM",
+        "CU_NO": "022",
+        "GEOCODE": "14041407022",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "07",
+        "WARD_NAME": "KARAWAP",
+        "LATITUDE": -3.478708,
+        "LONGITUDE": 143.408272,
+        "REGHH": 24,
+        "TOTPOP2000": 132,
+        "MALE2000": 65,
+        "FEMALE2000": 67,
+        "POP2008": 156,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041407022,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4191519995652,
+          -3.4123479995604953
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6751,
+        "CU_NAME": "KARAWAP PLANTATION",
+        "CU_NO": "507",
+        "GEOCODE": "14041407507",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "07",
+        "WARD_NAME": "KARAWAP",
+        "LATITUDE": -3.413923,
+        "LONGITUDE": 143.418258,
+        "REGHH": 8,
+        "TOTPOP2000": 36,
+        "MALE2000": 16,
+        "FEMALE2000": 20,
+        "POP2008": 44,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041407507,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

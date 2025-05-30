@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.22529899964923,
+          -2.898422999621687
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18942,
+        "CU_NAME": "KILIPAU",
+        "CU_NO": "009",
+        "GEOCODE": "15041317009",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "17",
+        "WARD_NAME": "KILIPAU",
+        "LATITUDE": -2.899794,
+        "LONGITUDE": 141.224208,
+        "REGHH": 47,
+        "TOTPOP2000": 312,
+        "MALE2000": 160,
+        "FEMALE2000": 152,
+        "POP2008": 377,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041317009,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18943,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.21423300015294,
+          -2.8759439999155916
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18943,
+        "CU_NAME": "KILIWES",
+        "CU_NO": "010",
+        "GEOCODE": "15041317010",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "17",
+        "WARD_NAME": "KILIPAU",
+        "LATITUDE": -2.874197,
+        "LONGITUDE": 141.217894,
+        "REGHH": 60,
+        "TOTPOP2000": 286,
+        "MALE2000": 154,
+        "FEMALE2000": 132,
+        "POP2008": 346,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041317010,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18944,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1927769999586,
+          -2.8943380000985712
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18944,
+        "CU_NAME": "VFP BLK 1 BASE CAMP",
+        "CU_NO": "401",
+        "GEOCODE": "15041317401",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "17",
+        "WARD_NAME": "KILIPAU",
+        "LATITUDE": -2.894047,
+        "LONGITUDE": 141.189618,
+        "REGHH": 54,
+        "TOTPOP2000": 162,
+        "MALE2000": 96,
+        "FEMALE2000": 66,
+        "POP2008": 195,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041317401,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19896,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.89932099956457,
+          -6.339152999611201
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19896,
+        "CU_NAME": "KAWARE",
+        "CU_NO": "004",
+        "GEOCODE": "07030912004",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "MUNGARO",
+        "LATITUDE": -6.343445,
+        "LONGITUDE": 143.89977,
+        "REGHH": 21,
+        "TOTPOP2000": 93,
+        "MALE2000": 42,
+        "FEMALE2000": 51,
+        "POP2008": 129,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030912004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19897,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.90673799985882,
+          -6.33902399995759
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19897,
+        "CU_NAME": "MUNGARO",
+        "CU_NO": "011",
+        "GEOCODE": "07030912011",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "MUNGARO",
+        "LATITUDE": -6.343445,
+        "LONGITUDE": 143.89977,
+        "REGHH": 17,
+        "TOTPOP2000": 112,
+        "MALE2000": 45,
+        "FEMALE2000": 67,
+        "POP2008": 156,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030912011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19898,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.90621099983787,
+          -6.340774999766381
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19898,
+        "CU_NAME": "KAMBEANGA",
+        "CU_NO": "012",
+        "GEOCODE": "07030912012",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "MUNGARO",
+        "LATITUDE": -6.343445,
+        "LONGITUDE": 143.89977,
+        "REGHH": 22,
+        "TOTPOP2000": 118,
+        "MALE2000": 67,
+        "FEMALE2000": 51,
+        "POP2008": 164,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030912012,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19899,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9004440000906,
+          -6.341883999646825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19899,
+        "CU_NAME": "MARARO",
+        "CU_NO": "013",
+        "GEOCODE": "07030912013",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "MUNGARO",
+        "LATITUDE": -6.343445,
+        "LONGITUDE": 143.89977,
+        "REGHH": 38,
+        "TOTPOP2000": 198,
+        "MALE2000": 93,
+        "FEMALE2000": 105,
+        "POP2008": 275,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030912013,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19900,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9001469998842,
+          -6.336908999550644
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19900,
+        "CU_NAME": "YARENA",
+        "CU_NO": "014",
+        "GEOCODE": "07030912014",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "MUNGARO",
+        "LATITUDE": -6.343445,
+        "LONGITUDE": 143.89977,
+        "REGHH": 35,
+        "TOTPOP2000": 163,
+        "MALE2000": 88,
+        "FEMALE2000": 75,
+        "POP2008": 226,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030912014,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

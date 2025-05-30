@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.61422899996842,
+          -6.619674000054999
+        ]
+      },
+      "properties": {
+        "OBJECTID": 604,
+        "CU_NAME": "OKOMO",
+        "CU_NO": "001",
+        "GEOCODE": "20030905001",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "LENOKE",
+        "LATITUDE": -6.621111,
+        "LONGITUDE": 155.613333,
+        "REGHH": 45,
+        "TOTPOP2000": 222,
+        "MALE2000": 119,
+        "FEMALE2000": 103,
+        "POP2008": 250,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030905001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 605,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.6086740001051,
+          -6.594396999921571
+        ]
+      },
+      "properties": {
+        "OBJECTID": 605,
+        "CU_NAME": "BURUPURRUNO",
+        "CU_NO": "002",
+        "GEOCODE": "20030905002",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "LENOKE",
+        "LATITUDE": -6.595833,
+        "LONGITUDE": 155.607778,
+        "REGHH": 32,
+        "TOTPOP2000": 165,
+        "MALE2000": 78,
+        "FEMALE2000": 87,
+        "POP2008": 188,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030905002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 606,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.61172899979363,
+          -6.634674000204882
+        ]
+      },
+      "properties": {
+        "OBJECTID": 606,
+        "CU_NAME": "PORUPI",
+        "CU_NO": "003",
+        "GEOCODE": "20030905003",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "LENOKE",
+        "LATITUDE": -6.636111,
+        "LONGITUDE": 155.610833,
+        "REGHH": 27,
+        "TOTPOP2000": 172,
+        "MALE2000": 99,
+        "FEMALE2000": 73,
+        "POP2008": 196,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030905003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 607,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.61618000000703,
+          -6.670524999628981
+        ]
+      },
+      "properties": {
+        "OBJECTID": 607,
+        "CU_NAME": "NUMAKEI",
+        "CU_NO": "004",
+        "GEOCODE": "20030905004",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "LENOKE",
+        "LATITUDE": -6.670833,
+        "LONGITUDE": 155.618611,
+        "REGHH": 41,
+        "TOTPOP2000": 234,
+        "MALE2000": 123,
+        "FEMALE2000": 111,
+        "POP2008": 266,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030905004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 608,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.61253500009025,
+          -6.645250999633902
+        ]
+      },
+      "properties": {
+        "OBJECTID": 608,
+        "CU_NAME": "OMITARO",
+        "CU_NO": "005",
+        "GEOCODE": "20030905005",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "LENOKE",
+        "LATITUDE": -6.652222,
+        "LONGITUDE": 155.615278,
+        "REGHH": 18,
+        "TOTPOP2000": 98,
+        "MALE2000": 55,
+        "FEMALE2000": 43,
+        "POP2008": 111,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030905005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 609,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.63665399988224,
+          -6.665255000317984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 609,
+        "CU_NAME": "TOKAINO",
+        "CU_NO": "006",
+        "GEOCODE": "20030905006",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "LENOKE",
+        "LATITUDE": -6.666692,
+        "LONGITUDE": 155.635759,
+        "REGHH": 2,
+        "TOTPOP2000": 9,
+        "MALE2000": 3,
+        "FEMALE2000": 6,
+        "POP2008": 9,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030905006,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 610,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.63420700035283,
+          -6.652184000091495
+        ]
+      },
+      "properties": {
+        "OBJECTID": 610,
+        "CU_NAME": "KUMILOUGU",
+        "CU_NO": "007",
+        "GEOCODE": "20030905007",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "LENOKE",
+        "LATITUDE": -6.657778,
+        "LONGITUDE": 155.634722,
+        "REGHH": 18,
+        "TOTPOP2000": 100,
+        "MALE2000": 51,
+        "FEMALE2000": 49,
+        "POP2008": 115,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030905007,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.63754699969434,
+          -6.6549520000347115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 611,
+        "CU_NAME": "OREMUTSI",
+        "CU_NO": "008",
+        "GEOCODE": "20030905008",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "LENOKE",
+        "LATITUDE": -6.659167,
+        "LONGITUDE": 155.636389,
+        "REGHH": 40,
+        "TOTPOP2000": 230,
+        "MALE2000": 118,
+        "FEMALE2000": 112,
+        "POP2008": 260,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030905008,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 612,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.62607799960006,
+          -6.57463100032038
+        ]
+      },
+      "properties": {
+        "OBJECTID": 612,
+        "CU_NAME": "MASIOGU",
+        "CU_NO": "009",
+        "GEOCODE": "20030905009",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "LENOKE",
+        "LATITUDE": -6.583837,
+        "LONGITUDE": 155.626056,
+        "REGHH": 13,
+        "TOTPOP2000": 69,
+        "MALE2000": 33,
+        "FEMALE2000": 36,
+        "POP2008": 77,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030905009,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 613,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.6347690001893,
+          -6.6246759995976845
+        ]
+      },
+      "properties": {
+        "OBJECTID": 613,
+        "CU_NAME": "UBAMIOIUTU",
+        "CU_NO": "010",
+        "GEOCODE": "20030905010",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "LENOKE",
+        "LATITUDE": -6.628889,
+        "LONGITUDE": 155.633889,
+        "REGHH": 50,
+        "TOTPOP2000": 261,
+        "MALE2000": 136,
+        "FEMALE2000": 125,
+        "POP2008": 293,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030905010,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 614,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.64116800030308,
+          -6.707288999787465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 614,
+        "CU_NAME": "KIKIMOGU",
+        "CU_NO": "011",
+        "GEOCODE": "20030905011",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "LENOKE",
+        "LATITUDE": -6.708727,
+        "LONGITUDE": 155.640273,
+        "REGHH": 60,
+        "TOTPOP2000": 366,
+        "MALE2000": 192,
+        "FEMALE2000": 174,
+        "POP2008": 413,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030905011,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 615,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.63645100041344,
+          -6.694118000345384
+        ]
+      },
+      "properties": {
+        "OBJECTID": 615,
+        "CU_NAME": "PIARINO",
+        "CU_NO": "012",
+        "GEOCODE": "20030905012",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "LENOKE",
+        "LATITUDE": -6.695556,
+        "LONGITUDE": 155.635556,
+        "REGHH": 27,
+        "TOTPOP2000": 162,
+        "MALE2000": 79,
+        "FEMALE2000": 83,
+        "POP2008": 183,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030905012,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 616,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.6382279996226,
+          -6.665944999761905
+        ]
+      },
+      "properties": {
+        "OBJECTID": 616,
+        "CU_NAME": "PARERONO",
+        "CU_NO": "013",
+        "GEOCODE": "20030905013",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "LENOKE",
+        "LATITUDE": -6.667382,
+        "LONGITUDE": 155.637333,
+        "REGHH": 66,
+        "TOTPOP2000": 408,
+        "MALE2000": 200,
+        "FEMALE2000": 208,
+        "POP2008": 459,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030905013,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 617,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.63330800026404,
+          -6.612387000359718
+        ]
+      },
+      "properties": {
+        "OBJECTID": 617,
+        "CU_NAME": "MAKAROI",
+        "CU_NO": "014",
+        "GEOCODE": "20030905014",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "LENOKE",
+        "LATITUDE": -6.613824,
+        "LONGITUDE": 155.632413,
+        "REGHH": 26,
+        "TOTPOP2000": 140,
+        "MALE2000": 69,
+        "FEMALE2000": 71,
+        "POP2008": 156,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030905014,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 618,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.63672799969754,
+          -6.6599520003844646
+        ]
+      },
+      "properties": {
+        "OBJECTID": 618,
+        "CU_NAME": "LENOKE HEALTH CENTRE",
+        "CU_NO": "401",
+        "GEOCODE": "20030905401",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "LENOKE",
+        "LATITUDE": -6.661389,
+        "LONGITUDE": 155.635833,
+        "REGHH": 4,
+        "TOTPOP2000": 29,
+        "MALE2000": 17,
+        "FEMALE2000": 12,
+        "POP2008": 29,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030905401,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

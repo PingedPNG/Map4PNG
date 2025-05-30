@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7317,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.48152299978665,
+          -3.8065989998439136
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7317,
+        "CU_NAME": "SUANDOGUM",
+        "CU_NO": "018",
+        "GEOCODE": "14062507018",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "25",
+        "WARD_NO": "07",
+        "WARD_NAME": "SUANDOGUM",
+        "LATITUDE": -3.808179,
+        "LONGITUDE": 143.480289,
+        "REGHH": 104,
+        "TOTPOP2000": 465,
+        "MALE2000": 223,
+        "FEMALE2000": 242,
+        "POP2008": 553,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062507018,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.47107399996514,
+          -3.811769999985472
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7318,
+        "CU_NAME": "MAPRINGA",
+        "CU_NO": "037",
+        "GEOCODE": "14062507037",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "25",
+        "WARD_NO": "07",
+        "WARD_NAME": "SUANDOGUM",
+        "LATITUDE": -3.81335,
+        "LONGITUDE": 143.46984,
+        "REGHH": 42,
+        "TOTPOP2000": 198,
+        "MALE2000": 91,
+        "FEMALE2000": 107,
+        "POP2008": 236,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062507037,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

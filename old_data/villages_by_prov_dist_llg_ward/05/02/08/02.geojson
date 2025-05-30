@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9843,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6100940000381,
+          -10.577051999649996
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9843,
+        "CU_NAME": "LOANI",
+        "CU_NO": "011",
+        "GEOCODE": "05020802011",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "LOANI",
+        "LATITUDE": -10.581501,
+        "LONGITUDE": 150.60529,
+        "REGHH": 61,
+        "TOTPOP2000": 346,
+        "MALE2000": 192,
+        "FEMALE2000": 154,
+        "POP2008": 422,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020802011,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

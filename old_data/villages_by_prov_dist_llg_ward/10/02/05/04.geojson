@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8862409996225,
+          -6.1757210001239855
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14104,
+        "CU_NAME": "YANI",
+        "CU_NO": "003",
+        "GEOCODE": "10020504003",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "YANI",
+        "LATITUDE": -6.177132,
+        "LONGITUDE": 144.88519,
+        "REGHH": 93,
+        "TOTPOP2000": 433,
+        "MALE2000": 214,
+        "FEMALE2000": 219,
+        "POP2008": 500,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020504003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.88615800029152,
+          -6.178126000414522
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14105,
+        "CU_NAME": "OROME",
+        "CU_NO": "004",
+        "GEOCODE": "10020504004",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "YANI",
+        "LATITUDE": -6.179537,
+        "LONGITUDE": 144.885107,
+        "REGHH": 103,
+        "TOTPOP2000": 546,
+        "MALE2000": 265,
+        "FEMALE2000": 281,
+        "POP2008": 630,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020504004,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

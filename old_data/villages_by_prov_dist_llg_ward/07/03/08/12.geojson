@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19807,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2229139996814,
+          -6.692605999866942
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19807,
+        "CU_NAME": "WARAGA",
+        "CU_NO": "014",
+        "GEOCODE": "07030812014",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARAGA",
+        "LATITUDE": -6.702941,
+        "LONGITUDE": 144.223241,
+        "REGHH": 15,
+        "TOTPOP2000": 89,
+        "MALE2000": 46,
+        "FEMALE2000": 43,
+        "POP2008": 124,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030812014,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19808,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.23025700016046,
+          -6.702855000357943
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19808,
+        "CU_NAME": "PIRAREKE",
+        "CU_NO": "015",
+        "GEOCODE": "07030812015",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARAGA",
+        "LATITUDE": -6.702941,
+        "LONGITUDE": 144.223241,
+        "REGHH": 15,
+        "TOTPOP2000": 73,
+        "MALE2000": 38,
+        "FEMALE2000": 35,
+        "POP2008": 101,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030812015,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19809,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2137709998318,
+          -6.703219000056777
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19809,
+        "CU_NAME": "DOULO",
+        "CU_NO": "016",
+        "GEOCODE": "07030812016",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARAGA",
+        "LATITUDE": -6.702941,
+        "LONGITUDE": 144.223241,
+        "REGHH": 21,
+        "TOTPOP2000": 118,
+        "MALE2000": 55,
+        "FEMALE2000": 63,
+        "POP2008": 164,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030812016,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

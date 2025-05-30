@@ -1,0 +1,549 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1074,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.89627000036035,
+          -8.055770999931667
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1074,
+        "CU_NAME": "GAGAVE",
+        "CU_NO": "005",
+        "GEOCODE": "03020404005",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZHAKE",
+        "LATITUDE": -8.057206,
+        "LONGITUDE": 146.895241,
+        "REGHH": 50,
+        "TOTPOP2000": 211,
+        "MALE2000": 100,
+        "FEMALE2000": 111,
+        "POP2008": 253,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020404005,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1075,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.88491600017335,
+          -8.101359999664226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1075,
+        "CU_NAME": "GANIAWAI",
+        "CU_NO": "006",
+        "GEOCODE": "03020404006",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZHAKE",
+        "LATITUDE": -8.102796,
+        "LONGITUDE": 146.883887,
+        "REGHH": 25,
+        "TOTPOP2000": 151,
+        "MALE2000": 68,
+        "FEMALE2000": 83,
+        "POP2008": 182,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020404006,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1076,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8806009999363,
+          -8.125430999940647
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1076,
+        "CU_NAME": "GUARI NO. 1",
+        "CU_NO": "009",
+        "GEOCODE": "03020404009",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZHAKE",
+        "LATITUDE": -8.126867,
+        "LONGITUDE": 146.879572,
+        "REGHH": 9,
+        "TOTPOP2000": 60,
+        "MALE2000": 32,
+        "FEMALE2000": 28,
+        "POP2008": 70,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020404009,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1077,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.81101599978865,
+          -8.154273999945076
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1077,
+        "CU_NAME": "KELEVI",
+        "CU_NO": "013",
+        "GEOCODE": "03020404013",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZHAKE",
+        "LATITUDE": -8.15571,
+        "LONGITUDE": 146.809986,
+        "REGHH": 24,
+        "TOTPOP2000": 134,
+        "MALE2000": 79,
+        "FEMALE2000": 55,
+        "POP2008": 159,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020404013,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1078,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.89052099964454,
+          -8.038800999766295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1078,
+        "CU_NAME": "RAPAULA",
+        "CU_NO": "017",
+        "GEOCODE": "03020404017",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZHAKE",
+        "LATITUDE": -8.040236,
+        "LONGITUDE": 146.889492,
+        "REGHH": 30,
+        "TOTPOP2000": 120,
+        "MALE2000": 63,
+        "FEMALE2000": 57,
+        "POP2008": 144,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020404017,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1079,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8792780000797,
+          -8.079060000118886
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1079,
+        "CU_NAME": "LOBUDONO",
+        "CU_NO": "018",
+        "GEOCODE": "03020404018",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZHAKE",
+        "LATITUDE": -8.080495,
+        "LONGITUDE": 146.878249,
+        "REGHH": 22,
+        "TOTPOP2000": 100,
+        "MALE2000": 49,
+        "FEMALE2000": 51,
+        "POP2008": 119,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020404018,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1080,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.86263599975166,
+          -8.103294999864318
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1080,
+        "CU_NAME": "OMUITU",
+        "CU_NO": "020",
+        "GEOCODE": "03020404020",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZHAKE",
+        "LATITUDE": -8.10473,
+        "LONGITUDE": 146.861607,
+        "REGHH": 26,
+        "TOTPOP2000": 144,
+        "MALE2000": 80,
+        "FEMALE2000": 64,
+        "POP2008": 173,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020404020,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1081,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.89887199984298,
+          -8.01236700023685
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1081,
+        "CU_NAME": "TORULA",
+        "CU_NO": "024",
+        "GEOCODE": "03020404024",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZHAKE",
+        "LATITUDE": -8.013802,
+        "LONGITUDE": 146.897843,
+        "REGHH": 80,
+        "TOTPOP2000": 337,
+        "MALE2000": 175,
+        "FEMALE2000": 162,
+        "POP2008": 404,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020404024,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1082,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8920019995927,
+          -8.043149999772652
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1082,
+        "CU_NAME": "ZHAKE",
+        "CU_NO": "027",
+        "GEOCODE": "03020404027",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZHAKE",
+        "LATITUDE": -8.044585,
+        "LONGITUDE": 146.890973,
+        "REGHH": 33,
+        "TOTPOP2000": 160,
+        "MALE2000": 90,
+        "FEMALE2000": 70,
+        "POP2008": 192,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020404027,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9111609999802,
+          -8.103875999677598
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1083,
+        "CU_NAME": "ZHEVIAMAI",
+        "CU_NO": "029",
+        "GEOCODE": "03020404029",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZHAKE",
+        "LATITUDE": -8.105312,
+        "LONGITUDE": 146.910132,
+        "REGHH": 9,
+        "TOTPOP2000": 60,
+        "MALE2000": 35,
+        "FEMALE2000": 25,
+        "POP2008": 70,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020404029,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1084,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.65696400028844,
+          -8.216406999983008
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1084,
+        "CU_NAME": "KOTAVE",
+        "CU_NO": "030",
+        "GEOCODE": "03020404030",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZHAKE",
+        "LATITUDE": -8.21504,
+        "LONGITUDE": 146.652,
+        "REGHH": 4,
+        "TOTPOP2000": 25,
+        "MALE2000": 13,
+        "FEMALE2000": 12,
+        "POP2008": 33,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020404030,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1085,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.86158799998623,
+          -8.125016999734726
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1085,
+        "CU_NAME": "HOPALEK",
+        "CU_NO": "031",
+        "GEOCODE": "03020404031",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZHAKE",
+        "LATITUDE": -8.126453,
+        "LONGITUDE": 146.860559,
+        "REGHH": 11,
+        "TOTPOP2000": 58,
+        "MALE2000": 33,
+        "FEMALE2000": 25,
+        "POP2008": 66,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020404031,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1086,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.69475700023543,
+          -8.195655999924384
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1086,
+        "CU_NAME": "OVIZA",
+        "CU_NO": "032",
+        "GEOCODE": "03020404032",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZHAKE",
+        "LATITUDE": -8.194646,
+        "LONGITUDE": 146.684613,
+        "REGHH": 10,
+        "TOTPOP2000": 43,
+        "MALE2000": 23,
+        "FEMALE2000": 20,
+        "POP2008": 51,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020404032,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1087,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.62377000018546,
+          -8.243043999880626
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1087,
+        "CU_NAME": "PILIVI",
+        "CU_NO": "033",
+        "GEOCODE": "03020404033",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZHAKE",
+        "LATITUDE": -8.226776,
+        "LONGITUDE": 146.640461,
+        "REGHH": 8,
+        "TOTPOP2000": 42,
+        "MALE2000": 22,
+        "FEMALE2000": 20,
+        "POP2008": 50,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020404033,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1088,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.91177200027767,
+          -8.097847000438662
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1088,
+        "CU_NAME": "WARABUNG",
+        "CU_NO": "034",
+        "GEOCODE": "03020404034",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZHAKE",
+        "LATITUDE": -8.099351,
+        "LONGITUDE": 146.911775,
+        "REGHH": 10,
+        "TOTPOP2000": 57,
+        "MALE2000": 33,
+        "FEMALE2000": 24,
+        "POP2008": 65,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020404034,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1089,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.71640000006005,
+          -8.184827999712354
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1089,
+        "CU_NAME": "ZARIULOP",
+        "CU_NO": "035",
+        "GEOCODE": "03020404035",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZHAKE",
+        "LATITUDE": -8.178254,
+        "LONGITUDE": 146.695651,
+        "REGHH": 3,
+        "TOTPOP2000": 14,
+        "MALE2000": 10,
+        "FEMALE2000": 4,
+        "POP2008": 14,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020404035,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1090,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.88057100035144,
+          -8.075655999624644
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1090,
+        "CU_NAME": "OMU & COMM. SCHOOL",
+        "CU_NO": "036",
+        "GEOCODE": "03020404036",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZHAKE",
+        "LATITUDE": -8.077091,
+        "LONGITUDE": 146.879542,
+        "REGHH": 21,
+        "TOTPOP2000": 126,
+        "MALE2000": 57,
+        "FEMALE2000": 69,
+        "POP2008": 150,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020404036,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

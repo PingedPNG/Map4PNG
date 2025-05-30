@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19029,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.20354700019402,
+          -3.8220279999921445
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19029,
+        "CU_NAME": "AMINII",
+        "CU_NO": "002",
+        "GEOCODE": "15041433002",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "33",
+        "WARD_NAME": "AMINI",
+        "LATITUDE": -3.823409,
+        "LONGITUDE": 141.202454,
+        "REGHH": 34,
+        "TOTPOP2000": 199,
+        "MALE2000": 92,
+        "FEMALE2000": 107,
+        "POP2008": 240,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041433002,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11721,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.44506100036494,
+          -6.095101000111015
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11721,
+        "CU_NAME": "ARAWEK",
+        "CU_NO": "001",
+        "GEOCODE": "12061904001",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "04",
+        "WARD_NAME": "ARAWEK",
+        "LATITUDE": -6.096514,
+        "LONGITUDE": 146.444029,
+        "REGHH": 49,
+        "TOTPOP2000": 273,
+        "MALE2000": 145,
+        "FEMALE2000": 128,
+        "POP2008": 341,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061904001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11722,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.43840099990632,
+          -6.075315999633631
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11722,
+        "CU_NAME": "WAMBAGUYAK",
+        "CU_NO": "002",
+        "GEOCODE": "12061904002",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "04",
+        "WARD_NAME": "ARAWEK",
+        "LATITUDE": -6.076729,
+        "LONGITUDE": 146.43737,
+        "REGHH": 8,
+        "TOTPOP2000": 37,
+        "MALE2000": 19,
+        "FEMALE2000": 18,
+        "POP2008": 45,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061904002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11723,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.44807299986917,
+          -6.09641400040573
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11723,
+        "CU_NAME": "GWAING",
+        "CU_NO": "011",
+        "GEOCODE": "12061904011",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "04",
+        "WARD_NAME": "ARAWEK",
+        "LATITUDE": -6.097827,
+        "LONGITUDE": 146.447043,
+        "REGHH": 26,
+        "TOTPOP2000": 132,
+        "MALE2000": 74,
+        "FEMALE2000": 58,
+        "POP2008": 164,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061904011,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4502199999531,
+          -6.0820410003918255
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11724,
+        "CU_NAME": "HET WANTOAT",
+        "CU_NO": "043",
+        "GEOCODE": "12061904043",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "04",
+        "WARD_NAME": "ARAWEK",
+        "LATITUDE": -6.083454,
+        "LONGITUDE": 146.44919,
+        "REGHH": 50,
+        "TOTPOP2000": 264,
+        "MALE2000": 136,
+        "FEMALE2000": 128,
+        "POP2008": 329,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061904043,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

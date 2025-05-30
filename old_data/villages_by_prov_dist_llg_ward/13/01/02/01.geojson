@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7926,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.01800099994625,
+          -4.038187000129881
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7926,
+        "CU_NAME": "BALIAU",
+        "CU_NO": "002",
+        "GEOCODE": "13010201002",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "01",
+        "WARD_NAME": "BALIAU WARD",
+        "LATITUDE": -4.036832,
+        "LONGITUDE": 145.01813,
+        "REGHH": 229,
+        "TOTPOP2000": 1383,
+        "MALE2000": 685,
+        "FEMALE2000": 698,
+        "POP2008": 1710,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010201002,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

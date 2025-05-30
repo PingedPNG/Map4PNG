@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.40424199996835,
+          -6.440042999984428
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21175,
+        "CU_NAME": "GESEGE",
+        "CU_NO": "008",
+        "GEOCODE": "07072208008",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "08",
+        "WARD_NAME": "GESEGE",
+        "LATITUDE": -6.444291,
+        "LONGITUDE": 143.404514,
+        "REGHH": 66,
+        "TOTPOP2000": 368,
+        "MALE2000": 172,
+        "FEMALE2000": 196,
+        "POP2008": 511,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072208008,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21176,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.41220999959182,
+          -6.443755000292981
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21176,
+        "CU_NAME": "HEGESO",
+        "CU_NO": "011",
+        "GEOCODE": "07072208011",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "08",
+        "WARD_NAME": "GESEGE",
+        "LATITUDE": -6.444291,
+        "LONGITUDE": 143.404514,
+        "REGHH": 36,
+        "TOTPOP2000": 395,
+        "MALE2000": 193,
+        "FEMALE2000": 202,
+        "POP2008": 549,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072208011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21177,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4248620002811,
+          -6.44791100039231
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21177,
+        "CU_NAME": "ASU",
+        "CU_NO": "012",
+        "GEOCODE": "07072208012",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "08",
+        "WARD_NAME": "GESEGE",
+        "LATITUDE": -6.444291,
+        "LONGITUDE": 143.404514,
+        "REGHH": 10,
+        "TOTPOP2000": 63,
+        "MALE2000": 29,
+        "FEMALE2000": 34,
+        "POP2008": 88,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072208012,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

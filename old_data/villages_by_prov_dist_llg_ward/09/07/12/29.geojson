@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17520,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.91622100009909,
+          -5.916051999899821
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17520,
+        "CU_NAME": "MALKE",
+        "CU_NO": "022",
+        "GEOCODE": "09071229022",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "29",
+        "WARD_NAME": "MALKE  1",
+        "LATITUDE": -5.916992,
+        "LONGITUDE": 143.916551,
+        "REGHH": 65,
+        "TOTPOP2000": 271,
+        "MALE2000": 139,
+        "FEMALE2000": 132,
+        "POP2008": 330,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071229022,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17521,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.90738700011002,
+          -5.916322999806539
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17521,
+        "CU_NAME": "MAPUPU",
+        "CU_NO": "023",
+        "GEOCODE": "09071229023",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "29",
+        "WARD_NAME": "MALKE  1",
+        "LATITUDE": -5.917263,
+        "LONGITUDE": 143.907717,
+        "REGHH": 43,
+        "TOTPOP2000": 186,
+        "MALE2000": 103,
+        "FEMALE2000": 83,
+        "POP2008": 227,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071229023,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17522,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9780689995847,
+          -5.867477000063445
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17522,
+        "CU_NAME": "LAMA",
+        "CU_NO": "024",
+        "GEOCODE": "09071229024",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "29",
+        "WARD_NAME": "MALKE  1",
+        "LATITUDE": -5.868416,
+        "LONGITUDE": 143.9784,
+        "REGHH": 35,
+        "TOTPOP2000": 198,
+        "MALE2000": 94,
+        "FEMALE2000": 104,
+        "POP2008": 241,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071229024,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

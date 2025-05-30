@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21839,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9599570000156,
+          -5.873885999739059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21839,
+        "CU_NAME": "PAI 2",
+        "CU_NO": "006",
+        "GEOCODE": "07083008006",
+        "PROV_KEY": "21",
+        "DIST_NO": "3",
+        "LLG_NO": "30",
+        "WARD_NO": "08",
+        "WARD_NAME": "PAI 2",
+        "LATITUDE": -5.878129,
+        "LONGITUDE": 142.960221,
+        "REGHH": 106,
+        "TOTPOP2000": 554,
+        "MALE2000": 285,
+        "FEMALE2000": 269,
+        "POP2008": 769,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7083008006,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

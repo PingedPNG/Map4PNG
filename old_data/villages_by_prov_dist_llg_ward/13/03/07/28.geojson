@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8483,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.78698900014228,
+          -5.08487600002735
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8483,
+        "CU_NAME": "ATEMBIE",
+        "CU_NO": "001",
+        "GEOCODE": "13030728001",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "28",
+        "WARD_NAME": "WARD 28",
+        "LATITUDE": -5.092351,
+        "LONGITUDE": 144.774735,
+        "REGHH": 59,
+        "TOTPOP2000": 329,
+        "MALE2000": 168,
+        "FEMALE2000": 161,
+        "POP2008": 407,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030728001,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

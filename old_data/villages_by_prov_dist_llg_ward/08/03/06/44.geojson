@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5624,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.45792799987737,
+          -5.447006000226679
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5624,
+        "CU_NAME": "PAINDAKO",
+        "CU_NO": "045",
+        "GEOCODE": "08030644045",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "44",
+        "WARD_NAME": "PAINDAKO",
+        "LATITUDE": -5.448407,
+        "LONGITUDE": 143.45686,
+        "REGHH": 118,
+        "TOTPOP2000": 920,
+        "MALE2000": 477,
+        "FEMALE2000": 443,
+        "POP2008": 1157,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030644045,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9586,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.72124399981078,
+          -9.71326999981062
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9586,
+        "CU_NAME": "MAPOUNA",
+        "CU_NO": "015",
+        "GEOCODE": "05010126015",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "26",
+        "WARD_NAME": "MAPOUNA",
+        "LATITUDE": -9.71473,
+        "LONGITUDE": 149.72025,
+        "REGHH": 32,
+        "TOTPOP2000": 215,
+        "MALE2000": 111,
+        "FEMALE2000": 104,
+        "POP2008": 261,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010126015,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

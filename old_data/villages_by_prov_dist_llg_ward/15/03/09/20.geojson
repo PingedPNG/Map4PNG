@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18715,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.2129779996351,
+          -5.065911999639013
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18715,
+        "CU_NAME": "MONDUBAN",
+        "CU_NO": "004",
+        "GEOCODE": "15030920004",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "20",
+        "WARD_NAME": "MONDUBAN",
+        "LATITUDE": -5.067293,
+        "LONGITUDE": 142.219299,
+        "REGHH": 43,
+        "TOTPOP2000": 272,
+        "MALE2000": 142,
+        "FEMALE2000": 130,
+        "POP2008": 330,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030920004,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18716,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.29529200042555,
+          -5.150739000304554
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18716,
+        "CU_NAME": "NELIAI",
+        "CU_NO": "901",
+        "GEOCODE": "15030920901",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "20",
+        "WARD_NAME": "MONDUBAN",
+        "LATITUDE": -5.152135,
+        "LONGITUDE": 142.29421,
+        "REGHH": 14,
+        "TOTPOP2000": 83,
+        "MALE2000": 50,
+        "FEMALE2000": 33,
+        "POP2008": 99,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030920901,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18717,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.2838430003543,
+          -5.124078000199518
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18717,
+        "CU_NAME": "PAFLIM",
+        "CU_NO": "902",
+        "GEOCODE": "15030920902",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "20",
+        "WARD_NAME": "MONDUBAN",
+        "LATITUDE": -5.125474,
+        "LONGITUDE": 142.282761,
+        "REGHH": 26,
+        "TOTPOP2000": 148,
+        "MALE2000": 79,
+        "FEMALE2000": 69,
+        "POP2008": 180,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030920902,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

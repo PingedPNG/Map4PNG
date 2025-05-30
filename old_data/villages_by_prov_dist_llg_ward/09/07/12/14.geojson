@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.97433900024475,
+          -5.851399999710168
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17491,
+        "CU_NAME": "KARAPANGI",
+        "CU_NO": "038",
+        "GEOCODE": "09071214038",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "14",
+        "WARD_NAME": "KARAPANGI",
+        "LATITUDE": -5.85161,
+        "LONGITUDE": 143.972526,
+        "REGHH": 60,
+        "TOTPOP2000": 286,
+        "MALE2000": 139,
+        "FEMALE2000": 147,
+        "POP2008": 348,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071214038,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17492,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.96428699984529,
+          -5.871879999862074
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17492,
+        "CU_NAME": "PANJAMU",
+        "CU_NO": "039",
+        "GEOCODE": "09071214039",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "14",
+        "WARD_NAME": "KARAPANGI",
+        "LATITUDE": -5.872819,
+        "LONGITUDE": 143.964618,
+        "REGHH": 57,
+        "TOTPOP2000": 221,
+        "MALE2000": 120,
+        "FEMALE2000": 101,
+        "POP2008": 270,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071214039,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17493,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9745920002207,
+          -5.848772999973903
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17493,
+        "CU_NAME": "AMBAPULG",
+        "CU_NO": "040",
+        "GEOCODE": "09071214040",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "14",
+        "WARD_NAME": "KARAPANGI",
+        "LATITUDE": -5.85161,
+        "LONGITUDE": 143.972526,
+        "REGHH": 47,
+        "TOTPOP2000": 182,
+        "MALE2000": 102,
+        "FEMALE2000": 80,
+        "POP2008": 222,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071214040,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

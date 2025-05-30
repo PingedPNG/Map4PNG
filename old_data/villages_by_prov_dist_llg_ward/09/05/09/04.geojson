@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17072,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.16721400042582,
+          -5.5830159995886675
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17072,
+        "CU_NAME": "KELUAPE.1",
+        "CU_NO": "001",
+        "GEOCODE": "09050904001",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "04",
+        "WARD_NAME": "KELUAPE.1",
+        "LATITUDE": -5.584262,
+        "LONGITUDE": 144.167235,
+        "REGHH": 95,
+        "TOTPOP2000": 429,
+        "MALE2000": 210,
+        "FEMALE2000": 219,
+        "POP2008": 523,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050904001,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

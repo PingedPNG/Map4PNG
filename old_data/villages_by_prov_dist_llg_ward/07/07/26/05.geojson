@@ -1,0 +1,581 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21576,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5634160000484,
+          -6.256861999881323
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21576,
+        "CU_NAME": "PIPIM",
+        "CU_NO": "001",
+        "GEOCODE": "07072605001",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "05",
+        "WARD_NAME": "UTUPIA",
+        "LATITUDE": -6.260346,
+        "LONGITUDE": 143.56348,
+        "REGHH": 17,
+        "TOTPOP2000": 113,
+        "MALE2000": 64,
+        "FEMALE2000": 49,
+        "POP2008": 157,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072605001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21577,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.56313200044156,
+          -6.2554769998636175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21577,
+        "CU_NAME": "WONGU",
+        "CU_NO": "002",
+        "GEOCODE": "07072605002",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "05",
+        "WARD_NAME": "UTUPIA",
+        "LATITUDE": -6.260346,
+        "LONGITUDE": 143.56348,
+        "REGHH": 20,
+        "TOTPOP2000": 114,
+        "MALE2000": 60,
+        "FEMALE2000": 54,
+        "POP2008": 158,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072605002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21578,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.56223599959173,
+          -6.256105000045693
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21578,
+        "CU_NAME": "ULIM",
+        "CU_NO": "003",
+        "GEOCODE": "07072605003",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "05",
+        "WARD_NAME": "UTUPIA",
+        "LATITUDE": -6.260346,
+        "LONGITUDE": 143.56348,
+        "REGHH": 27,
+        "TOTPOP2000": 158,
+        "MALE2000": 103,
+        "FEMALE2000": 55,
+        "POP2008": 221,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072605003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21579,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.56480100006615,
+          -6.2570640002034
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21579,
+        "CU_NAME": "TELEM",
+        "CU_NO": "004",
+        "GEOCODE": "07072605004",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "05",
+        "WARD_NAME": "UTUPIA",
+        "LATITUDE": -6.260346,
+        "LONGITUDE": 143.56348,
+        "REGHH": 64,
+        "TOTPOP2000": 376,
+        "MALE2000": 200,
+        "FEMALE2000": 176,
+        "POP2008": 522,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072605004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21580,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.563757999632,
+          -6.256029000138199
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21580,
+        "CU_NAME": "SORUN",
+        "CU_NO": "005",
+        "GEOCODE": "07072605005",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "05",
+        "WARD_NAME": "UTUPIA",
+        "LATITUDE": -6.260346,
+        "LONGITUDE": 143.56348,
+        "REGHH": 60,
+        "TOTPOP2000": 302,
+        "MALE2000": 161,
+        "FEMALE2000": 141,
+        "POP2008": 420,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072605005,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21581,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.56376700004705,
+          -6.258039000199631
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21581,
+        "CU_NAME": "TEMLA",
+        "CU_NO": "006",
+        "GEOCODE": "07072605006",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "05",
+        "WARD_NAME": "UTUPIA",
+        "LATITUDE": -6.260346,
+        "LONGITUDE": 143.56348,
+        "REGHH": 13,
+        "TOTPOP2000": 88,
+        "MALE2000": 49,
+        "FEMALE2000": 39,
+        "POP2008": 123,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072605006,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21582,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5641699997458,
+          -6.255403000048375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21582,
+        "CU_NAME": "UTUPIA",
+        "CU_NO": "007",
+        "GEOCODE": "07072605007",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "05",
+        "WARD_NAME": "UTUPIA",
+        "LATITUDE": -6.260346,
+        "LONGITUDE": 143.56348,
+        "REGHH": 28,
+        "TOTPOP2000": 193,
+        "MALE2000": 110,
+        "FEMALE2000": 83,
+        "POP2008": 268,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072605007,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21583,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5622320003066,
+          -6.255411999564103
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21583,
+        "CU_NAME": "TIPIM",
+        "CU_NO": "008",
+        "GEOCODE": "07072605008",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "05",
+        "WARD_NAME": "UTUPIA",
+        "LATITUDE": -6.260346,
+        "LONGITUDE": 143.56348,
+        "REGHH": 9,
+        "TOTPOP2000": 41,
+        "MALE2000": 20,
+        "FEMALE2000": 21,
+        "POP2008": 57,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072605008,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21584,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.56472600020481,
+          -6.255955000322956
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21584,
+        "CU_NAME": "UMIM",
+        "CU_NO": "009",
+        "GEOCODE": "07072605009",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "05",
+        "WARD_NAME": "UTUPIA",
+        "LATITUDE": -6.260346,
+        "LONGITUDE": 143.56348,
+        "REGHH": 17,
+        "TOTPOP2000": 99,
+        "MALE2000": 54,
+        "FEMALE2000": 45,
+        "POP2008": 137,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072605009,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21585,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.56265399998222,
+          -6.256658000366372
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21585,
+        "CU_NAME": "SUKUL",
+        "CU_NO": "010",
+        "GEOCODE": "07072605010",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "05",
+        "WARD_NAME": "UTUPIA",
+        "LATITUDE": -6.260346,
+        "LONGITUDE": 143.56348,
+        "REGHH": 17,
+        "TOTPOP2000": 65,
+        "MALE2000": 36,
+        "FEMALE2000": 29,
+        "POP2008": 90,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072605010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21586,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5637619998165,
+          -6.256930000319187
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21586,
+        "CU_NAME": "ESDA",
+        "CU_NO": "011",
+        "GEOCODE": "07072605011",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "05",
+        "WARD_NAME": "UTUPIA",
+        "LATITUDE": -6.260346,
+        "LONGITUDE": 143.56348,
+        "REGHH": 14,
+        "TOTPOP2000": 76,
+        "MALE2000": 47,
+        "FEMALE2000": 29,
+        "POP2008": 105,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072605011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21587,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.56112999984964,
+          -6.256250000437149
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21587,
+        "CU_NAME": "KUMANDA",
+        "CU_NO": "012",
+        "GEOCODE": "07072605012",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "05",
+        "WARD_NAME": "UTUPIA",
+        "LATITUDE": -6.260346,
+        "LONGITUDE": 143.56348,
+        "REGHH": 12,
+        "TOTPOP2000": 56,
+        "MALE2000": 33,
+        "FEMALE2000": 23,
+        "POP2008": 78,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072605012,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21588,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5633380000487,
+          -6.255129000003308
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21588,
+        "CU_NAME": "BLESSING CENTRE",
+        "CU_NO": "013",
+        "GEOCODE": "07072605013",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "05",
+        "WARD_NAME": "UTUPIA",
+        "LATITUDE": -6.260346,
+        "LONGITUDE": 143.56348,
+        "REGHH": 22,
+        "TOTPOP2000": 141,
+        "MALE2000": 83,
+        "FEMALE2000": 58,
+        "POP2008": 196,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072605013,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21589,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.56153899982507,
+          -6.255138000418356
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21589,
+        "CU_NAME": "KOSTEANDA",
+        "CU_NO": "014",
+        "GEOCODE": "07072605014",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "05",
+        "WARD_NAME": "UTUPIA",
+        "LATITUDE": -6.260346,
+        "LONGITUDE": 143.56348,
+        "REGHH": 6,
+        "TOTPOP2000": 34,
+        "MALE2000": 17,
+        "FEMALE2000": 17,
+        "POP2008": 48,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072605014,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21590,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.56472900034316,
+          -6.256508999790469
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21590,
+        "CU_NAME": "WOPOL",
+        "CU_NO": "015",
+        "GEOCODE": "07072605015",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "05",
+        "WARD_NAME": "UTUPIA",
+        "LATITUDE": -6.260346,
+        "LONGITUDE": 143.56348,
+        "REGHH": 8,
+        "TOTPOP2000": 41,
+        "MALE2000": 19,
+        "FEMALE2000": 22,
+        "POP2008": 57,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072605015,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21591,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.56473499972049,
+          -6.257895999900427
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21591,
+        "CU_NAME": "TOKURA",
+        "CU_NO": "016",
+        "GEOCODE": "07072605016",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "05",
+        "WARD_NAME": "UTUPIA",
+        "LATITUDE": -6.260346,
+        "LONGITUDE": 143.56348,
+        "REGHH": 34,
+        "TOTPOP2000": 136,
+        "MALE2000": 66,
+        "FEMALE2000": 70,
+        "POP2008": 189,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072605016,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21592,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.56279700028142,
+          -6.257767000246815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21592,
+        "CU_NAME": "EDEP",
+        "CU_NO": "017",
+        "GEOCODE": "07072605017",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "05",
+        "WARD_NAME": "UTUPIA",
+        "LATITUDE": -6.260346,
+        "LONGITUDE": 143.56348,
+        "REGHH": 13,
+        "TOTPOP2000": 57,
+        "MALE2000": 30,
+        "FEMALE2000": 27,
+        "POP2008": 79,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072605017,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21593,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.56168600030878,
+          -6.2569399998810695
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21593,
+        "CU_NAME": "KIP-OMLEIPA",
+        "CU_NO": "018",
+        "GEOCODE": "07072605018",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "05",
+        "WARD_NAME": "UTUPIA",
+        "LATITUDE": -6.260346,
+        "LONGITUDE": 143.56348,
+        "REGHH": 30,
+        "TOTPOP2000": 110,
+        "MALE2000": 51,
+        "FEMALE2000": 59,
+        "POP2008": 153,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072605018,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

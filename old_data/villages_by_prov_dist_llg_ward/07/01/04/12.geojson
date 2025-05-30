@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19393,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.16704599987304,
+          -6.454483000390098
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19393,
+        "CU_NAME": "MAUPINI",
+        "CU_NO": "017",
+        "GEOCODE": "07010412017",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "12",
+        "WARD_NAME": "MAUPINI",
+        "LATITUDE": -6.458458,
+        "LONGITUDE": 144.167733,
+        "REGHH": 41,
+        "TOTPOP2000": 170,
+        "MALE2000": 83,
+        "FEMALE2000": 87,
+        "POP2008": 235,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010412017,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19394,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.17026199979148,
+          -6.453521000094042
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19394,
+        "CU_NAME": "TANGOKENE",
+        "CU_NO": "018",
+        "GEOCODE": "07010412018",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "12",
+        "WARD_NAME": "MAUPINI",
+        "LATITUDE": -6.458458,
+        "LONGITUDE": 144.167733,
+        "REGHH": 11,
+        "TOTPOP2000": 49,
+        "MALE2000": 26,
+        "FEMALE2000": 23,
+        "POP2008": 67,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010412018,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19395,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.16810200000737,
+          -6.451652000239562
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19395,
+        "CU_NAME": "LUMBENE",
+        "CU_NO": "019",
+        "GEOCODE": "07010412019",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "12",
+        "WARD_NAME": "MAUPINI",
+        "LATITUDE": -6.458458,
+        "LONGITUDE": 144.167733,
+        "REGHH": 22,
+        "TOTPOP2000": 109,
+        "MALE2000": 56,
+        "FEMALE2000": 53,
+        "POP2008": 152,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010412019,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

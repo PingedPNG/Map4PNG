@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6436,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.00136500009478,
+          -4.136997999957657
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6436,
+        "CU_NAME": "MARUA",
+        "CU_NO": "030",
+        "GEOCODE": "14020722030",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "22",
+        "WARD_NAME": "MARUA",
+        "LATITUDE": -4.138583,
+        "LONGITUDE": 144.000137,
+        "REGHH": 53,
+        "TOTPOP2000": 512,
+        "MALE2000": 264,
+        "FEMALE2000": 248,
+        "POP2008": 610,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020722030,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.01888400039638,
+          -5.507387999556499
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17143,
+        "CU_NAME": "ALIPMANDA",
+        "CU_NO": "007",
+        "GEOCODE": "09051007007",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "07",
+        "WARD_NAME": "NEKERAPA.3",
+        "LATITUDE": -5.508324,
+        "LONGITUDE": 144.019214,
+        "REGHH": 49,
+        "TOTPOP2000": 203,
+        "MALE2000": 103,
+        "FEMALE2000": 100,
+        "POP2008": 247,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051007007,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

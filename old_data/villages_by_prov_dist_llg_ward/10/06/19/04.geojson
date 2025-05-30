@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14999,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.01300000044978,
+          -5.997676000347099
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14999,
+        "CU_NAME": "KANIGKWA",
+        "CU_NO": "003",
+        "GEOCODE": "10061904003",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "04",
+        "WARD_NAME": "GURUMA 2",
+        "LATITUDE": -5.999085,
+        "LONGITUDE": 145.011951,
+        "REGHH": 54,
+        "TOTPOP2000": 250,
+        "MALE2000": 134,
+        "FEMALE2000": 116,
+        "POP2008": 290,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061904003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.01714099985736,
+          -5.994415000152117
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15000,
+        "CU_NAME": "BUGAPU",
+        "CU_NO": "004",
+        "GEOCODE": "10061904004",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "04",
+        "WARD_NAME": "GURUMA 2",
+        "LATITUDE": -5.995824,
+        "LONGITUDE": 145.016092,
+        "REGHH": 55,
+        "TOTPOP2000": 259,
+        "MALE2000": 134,
+        "FEMALE2000": 125,
+        "POP2008": 299,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061904004,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

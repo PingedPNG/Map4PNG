@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18967,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.40088600028878,
+          -2.871472999679156
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18967,
+        "CU_NAME": "SEME",
+        "CU_NO": "002",
+        "GEOCODE": "15041327002",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "27",
+        "WARD_NAME": "IMBRINIS",
+        "LATITUDE": -2.872846,
+        "LONGITUDE": 141.394642,
+        "REGHH": 24,
+        "TOTPOP2000": 98,
+        "MALE2000": 51,
+        "FEMALE2000": 47,
+        "POP2008": 118,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041327002,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

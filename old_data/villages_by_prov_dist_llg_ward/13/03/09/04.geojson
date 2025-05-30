@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8593,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4633479996105,
+          -5.210383999821715
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8593,
+        "CU_NAME": "AINONG (001)",
+        "CU_NO": "001",
+        "GEOCODE": "13030904001",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "04",
+        "WARD_NAME": "AINONG",
+        "LATITUDE": -5.217886,
+        "LONGITUDE": 144.459219,
+        "REGHH": 98,
+        "TOTPOP2000": 691,
+        "MALE2000": 365,
+        "FEMALE2000": 326,
+        "POP2008": 855,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030904001,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

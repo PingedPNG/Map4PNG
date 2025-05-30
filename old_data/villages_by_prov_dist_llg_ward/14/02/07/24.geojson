@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6438,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.98818700032984,
+          -4.144692000435441
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6438,
+        "CU_NAME": "NANTEN",
+        "CU_NO": "032",
+        "GEOCODE": "14020724032",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "24",
+        "WARD_NAME": "NANTEN",
+        "LATITUDE": -4.146277,
+        "LONGITUDE": 143.986959,
+        "REGHH": 101,
+        "TOTPOP2000": 624,
+        "MALE2000": 339,
+        "FEMALE2000": 285,
+        "POP2008": 743,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020724032,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

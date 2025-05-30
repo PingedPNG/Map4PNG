@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20010,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.73872200032008,
+          -6.366861000334836
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20010,
+        "CU_NAME": "RAITA",
+        "CU_NO": "010",
+        "GEOCODE": "07030933010",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "33",
+        "WARD_NAME": "SUMI",
+        "LATITUDE": -6.373644,
+        "LONGITUDE": 143.738803,
+        "REGHH": 68,
+        "TOTPOP2000": 311,
+        "MALE2000": 155,
+        "FEMALE2000": 156,
+        "POP2008": 432,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030933010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20011,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7402069995535,
+          -6.369524999978694
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20011,
+        "CU_NAME": "SUMI STATION",
+        "CU_NO": "012",
+        "GEOCODE": "07030933012",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "33",
+        "WARD_NAME": "SUMI",
+        "LATITUDE": -6.373644,
+        "LONGITUDE": 143.738803,
+        "REGHH": 34,
+        "TOTPOP2000": 127,
+        "MALE2000": 63,
+        "FEMALE2000": 64,
+        "POP2008": 177,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030933012,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20012,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7387440004353,
+          -6.371086000018863
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20012,
+        "CU_NAME": "OPO",
+        "CU_NO": "013",
+        "GEOCODE": "07030933013",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "33",
+        "WARD_NAME": "SUMI",
+        "LATITUDE": -6.373644,
+        "LONGITUDE": 143.738803,
+        "REGHH": 40,
+        "TOTPOP2000": 173,
+        "MALE2000": 85,
+        "FEMALE2000": 88,
+        "POP2008": 241,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030933013,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20013,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.73684199995841,
+          -6.370251000183487
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20013,
+        "CU_NAME": "ANDASARE",
+        "CU_NO": "014",
+        "GEOCODE": "07030933014",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "33",
+        "WARD_NAME": "SUMI",
+        "LATITUDE": -6.373644,
+        "LONGITUDE": 143.738803,
+        "REGHH": 21,
+        "TOTPOP2000": 94,
+        "MALE2000": 40,
+        "FEMALE2000": 54,
+        "POP2008": 130,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030933014,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20014,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.73683300044263,
+          -6.368560999590386
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20014,
+        "CU_NAME": "KAMBUA",
+        "CU_NO": "015",
+        "GEOCODE": "07030933015",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "33",
+        "WARD_NAME": "SUMI",
+        "LATITUDE": -6.373644,
+        "LONGITUDE": 143.738803,
+        "REGHH": 12,
+        "TOTPOP2000": 55,
+        "MALE2000": 23,
+        "FEMALE2000": 32,
+        "POP2008": 76,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030933015,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20015,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.73999200043056,
+          -6.367911000192464
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20015,
+        "CU_NAME": "SUMI STATION",
+        "CU_NO": "401",
+        "GEOCODE": "07030933401",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "33",
+        "WARD_NAME": "SUMI",
+        "LATITUDE": -6.373644,
+        "LONGITUDE": 143.738803,
+        "REGHH": 14,
+        "TOTPOP2000": 65,
+        "MALE2000": 33,
+        "FEMALE2000": 32,
+        "POP2008": 90,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030933401,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

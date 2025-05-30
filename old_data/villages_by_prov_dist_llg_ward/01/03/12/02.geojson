@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15568,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.73889400035785,
+          -9.273181000003092
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15568,
+        "CU_NAME": "MABUDAWAN",
+        "CU_NO": "007",
+        "GEOCODE": "01031202007",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "MABUDAWAN",
+        "LATITUDE": -9.274616,
+        "LONGITUDE": 142.737808,
+        "REGHH": 133,
+        "TOTPOP2000": 951,
+        "MALE2000": 486,
+        "FEMALE2000": 465,
+        "POP2008": 1232,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031202007,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15569,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.74413800026855,
+          -9.26403299992296
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15569,
+        "CU_NAME": "MABUDAWAN COMMUNITY SCHOOL",
+        "CU_NO": "008",
+        "GEOCODE": "01031202008",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "MABUDAWAN",
+        "LATITUDE": -9.265468,
+        "LONGITUDE": 142.743052,
+        "REGHH": 4,
+        "TOTPOP2000": 30,
+        "MALE2000": 19,
+        "FEMALE2000": 11,
+        "POP2008": 38,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031202008,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15570,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.73701600008837,
+          -9.275000000249747
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15570,
+        "CU_NAME": "MABUDAWAN HEALTH CENTRE",
+        "CU_NO": "009",
+        "GEOCODE": "01031202009",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "MABUDAWAN",
+        "LATITUDE": -9.276435,
+        "LONGITUDE": 142.73593,
+        "REGHH": 1,
+        "TOTPOP2000": 2,
+        "MALE2000": 1,
+        "FEMALE2000": 1,
+        "POP2008": 2,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031202009,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

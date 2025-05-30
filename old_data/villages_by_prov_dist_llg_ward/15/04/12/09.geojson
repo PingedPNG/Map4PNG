@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18865,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1586310000207,
+          -3.5628340000889693
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18865,
+        "CU_NAME": "NAINERI 2 (MOAS)",
+        "CU_NO": "002",
+        "GEOCODE": "15041209002",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "09",
+        "WARD_NAME": "NAINERI",
+        "LATITUDE": -3.564212,
+        "LONGITUDE": 141.157538,
+        "REGHH": 29,
+        "TOTPOP2000": 169,
+        "MALE2000": 86,
+        "FEMALE2000": 83,
+        "POP2008": 204,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041209002,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18866,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.16051399962146,
+          -3.535638999640071
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18866,
+        "CU_NAME": "AINOKNERI",
+        "CU_NO": "006",
+        "GEOCODE": "15041209006",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "09",
+        "WARD_NAME": "NAINERI",
+        "LATITUDE": -3.537017,
+        "LONGITUDE": 141.159421,
+        "REGHH": 23,
+        "TOTPOP2000": 135,
+        "MALE2000": 71,
+        "FEMALE2000": 64,
+        "POP2008": 163,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041209006,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18867,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1474699997408,
+          -3.544774000020027
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18867,
+        "CU_NAME": "MOAKNERI",
+        "CU_NO": "018",
+        "GEOCODE": "15041209018",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "09",
+        "WARD_NAME": "NAINERI",
+        "LATITUDE": -3.546152,
+        "LONGITUDE": 141.146377,
+        "REGHH": 30,
+        "TOTPOP2000": 181,
+        "MALE2000": 96,
+        "FEMALE2000": 85,
+        "POP2008": 219,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041209018,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18868,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.14337899994098,
+          -3.5940679997383427
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18868,
+        "CU_NAME": "NAINERI 1& 3",
+        "CU_NO": "020",
+        "GEOCODE": "15041209020",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "09",
+        "WARD_NAME": "NAINERI",
+        "LATITUDE": -3.595446,
+        "LONGITUDE": 141.142286,
+        "REGHH": 54,
+        "TOTPOP2000": 295,
+        "MALE2000": 147,
+        "FEMALE2000": 148,
+        "POP2008": 356,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041209020,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

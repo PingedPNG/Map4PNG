@@ -1,0 +1,869 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30753,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.54656468031578,
+          -6.1209574199489225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30753,
+        "CU_NAME": "TRIGISO",
+        "CU_NO": "020",
+        "GEOCODE": "11081107020",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.120957,
+        "LONGITUDE": 145.546565,
+        "REGHH": 24,
+        "TOTPOP2000": 88,
+        "MALE2000": 54,
+        "FEMALE2000": 34,
+        "POP2008": 104,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30754,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.55191751977782,
+          -6.117106950125617
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30754,
+        "CU_NAME": "MUNUE",
+        "CU_NO": "028",
+        "GEOCODE": "11081107028",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.117107,
+        "LONGITUDE": 145.551918,
+        "REGHH": 49,
+        "TOTPOP2000": 191,
+        "MALE2000": 95,
+        "FEMALE2000": 96,
+        "POP2008": 227,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5684163201571,
+          -6.110792819932669
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30755,
+        "CU_NAME": "SEKILUGA",
+        "CU_NO": "042",
+        "GEOCODE": "11081107042",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.110793,
+        "LONGITUDE": 145.568416,
+        "REGHH": 29,
+        "TOTPOP2000": 136,
+        "MALE2000": 66,
+        "FEMALE2000": 70,
+        "POP2008": 160,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30756,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.55858867992367,
+          -6.1121720696852435
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30756,
+        "CU_NAME": "FIFALAGA",
+        "CU_NO": "046",
+        "GEOCODE": "11081107046",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.112172,
+        "LONGITUDE": 145.558589,
+        "REGHH": 39,
+        "TOTPOP2000": 162,
+        "MALE2000": 83,
+        "FEMALE2000": 79,
+        "POP2008": 194,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30757,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5609031202829,
+          -6.1317678599987175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30757,
+        "CU_NAME": "NOTAPAGU",
+        "CU_NO": "059",
+        "GEOCODE": "11081107059",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.131768,
+        "LONGITUDE": 145.560903,
+        "REGHH": 38,
+        "TOTPOP2000": 160,
+        "MALE2000": 85,
+        "FEMALE2000": 75,
+        "POP2008": 192,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30758,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.55643011995414,
+          -6.154264439652138
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30758,
+        "CU_NAME": "TUGUMA SEGEYA",
+        "CU_NO": "069",
+        "GEOCODE": "11081107069",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.154264,
+        "LONGITUDE": 145.55643,
+        "REGHH": 49,
+        "TOTPOP2000": 167,
+        "MALE2000": 91,
+        "FEMALE2000": 76,
+        "POP2008": 199,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30759,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.557291239699,
+          -6.1501212899655116
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30759,
+        "CU_NAME": "LAHAPARAGA",
+        "CU_NO": "075",
+        "GEOCODE": "11081107075",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.150121,
+        "LONGITUDE": 145.557291,
+        "REGHH": 7,
+        "TOTPOP2000": 36,
+        "MALE2000": 19,
+        "FEMALE2000": 17,
+        "POP2008": 44,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30760,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5211638003692,
+          -6.125465340053381
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30760,
+        "CU_NAME": "LOPALE",
+        "CU_NO": "076",
+        "GEOCODE": "11081107076",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.125465,
+        "LONGITUDE": 145.521164,
+        "REGHH": 12,
+        "TOTPOP2000": 47,
+        "MALE2000": 25,
+        "FEMALE2000": 22,
+        "POP2008": 55,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30761,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.55352852032502,
+          -6.148854719869405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30761,
+        "CU_NAME": "FIFARAGA",
+        "CU_NO": "077",
+        "GEOCODE": "11081107077",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.148855,
+        "LONGITUDE": 145.553529,
+        "REGHH": 15,
+        "TOTPOP2000": 70,
+        "MALE2000": 36,
+        "FEMALE2000": 34,
+        "POP2008": 86,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30762,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.56322583980068,
+          -6.13529486976239
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30762,
+        "CU_NAME": "PLOPLOMARI",
+        "CU_NO": "078",
+        "GEOCODE": "11081107078",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.135295,
+        "LONGITUDE": 145.563226,
+        "REGHH": 12,
+        "TOTPOP2000": 49,
+        "MALE2000": 24,
+        "FEMALE2000": 25,
+        "POP2008": 57,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30763,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.56088691989555,
+          -6.139238039903546
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30763,
+        "CU_NAME": "FAGAGITAHI",
+        "CU_NO": "079",
+        "GEOCODE": "11081107079",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.139238,
+        "LONGITUDE": 145.560887,
+        "REGHH": 11,
+        "TOTPOP2000": 37,
+        "MALE2000": 14,
+        "FEMALE2000": 23,
+        "POP2008": 45,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30764,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.56009240034405,
+          -6.136528770186544
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30764,
+        "CU_NAME": "BLEYAE",
+        "CU_NO": "081",
+        "GEOCODE": "11081107081",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.136529,
+        "LONGITUDE": 145.560092,
+        "REGHH": 28,
+        "TOTPOP2000": 95,
+        "MALE2000": 42,
+        "FEMALE2000": 53,
+        "POP2008": 111,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30765,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.55282436015614,
+          -6.138866430141604
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30765,
+        "CU_NAME": "LUPULO",
+        "CU_NO": "082",
+        "GEOCODE": "11081107082",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.138866,
+        "LONGITUDE": 145.552824,
+        "REGHH": 22,
+        "TOTPOP2000": 80,
+        "MALE2000": 41,
+        "FEMALE2000": 39,
+        "POP2008": 96,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30766,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5427252802475,
+          -6.137569620341651
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30766,
+        "CU_NAME": "MOKIFALO",
+        "CU_NO": "083",
+        "GEOCODE": "11081107083",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.13757,
+        "LONGITUDE": 145.542725,
+        "REGHH": 22,
+        "TOTPOP2000": 71,
+        "MALE2000": 41,
+        "FEMALE2000": 30,
+        "POP2008": 87,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30767,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.55527272035977,
+          -6.1374990604332424
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30767,
+        "CU_NAME": "FOTOGU",
+        "CU_NO": "084",
+        "GEOCODE": "11081107084",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.137499,
+        "LONGITUDE": 145.555273,
+        "REGHH": 45,
+        "TOTPOP2000": 117,
+        "MALE2000": 55,
+        "FEMALE2000": 62,
+        "POP2008": 141,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30768,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5519509997389,
+          -6.1356140103782195
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30768,
+        "CU_NAME": "NEGEYAE",
+        "CU_NO": "087",
+        "GEOCODE": "11081107087",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.135614,
+        "LONGITUDE": 145.551951,
+        "REGHH": 4,
+        "TOTPOP2000": 27,
+        "MALE2000": 10,
+        "FEMALE2000": 17,
+        "POP2008": 35,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30769,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5533751598358,
+          -6.136451010305848
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30769,
+        "CU_NAME": "LOKIYAFISE",
+        "CU_NO": "088",
+        "GEOCODE": "11081107088",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.136451,
+        "LONGITUDE": 145.553375,
+        "REGHH": 28,
+        "TOTPOP2000": 132,
+        "MALE2000": 64,
+        "FEMALE2000": 68,
+        "POP2008": 156,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30770,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5551618402468,
+          -6.135236010033793
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30770,
+        "CU_NAME": "KAUNAFA",
+        "CU_NO": "091",
+        "GEOCODE": "11081107091",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.135236,
+        "LONGITUDE": 145.555162,
+        "REGHH": 47,
+        "TOTPOP2000": 167,
+        "MALE2000": 99,
+        "FEMALE2000": 68,
+        "POP2008": 199,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30771,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.54528272012146,
+          -6.145733250389128
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30771,
+        "CU_NAME": "SEGIHEPATO",
+        "CU_NO": "098",
+        "GEOCODE": "11081107098",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.145733,
+        "LONGITUDE": 145.545283,
+        "REGHH": 6,
+        "TOTPOP2000": 27,
+        "MALE2000": 14,
+        "FEMALE2000": 13,
+        "POP2008": 35,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30772,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.536755399742,
+          -6.128144280134393
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30772,
+        "CU_NAME": "MEMEX",
+        "CU_NO": "100",
+        "GEOCODE": "11081107100",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.128144,
+        "LONGITUDE": 145.536755,
+        "REGHH": 18,
+        "TOTPOP2000": 68,
+        "MALE2000": 36,
+        "FEMALE2000": 32,
+        "POP2008": 83,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30773,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.53832968007077,
+          -6.134407919689693
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30773,
+        "CU_NAME": "GINIGIE",
+        "CU_NO": "101",
+        "GEOCODE": "11081107101",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.134408,
+        "LONGITUDE": 145.53833,
+        "REGHH": 17,
+        "TOTPOP2000": 45,
+        "MALE2000": 23,
+        "FEMALE2000": 22,
+        "POP2008": 53,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30774,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.53358199980948,
+          -6.119421119788797
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30774,
+        "CU_NAME": "GRITOGA",
+        "CU_NO": "102",
+        "GEOCODE": "11081107102",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.119421,
+        "LONGITUDE": 145.533582,
+        "REGHH": 9,
+        "TOTPOP2000": 29,
+        "MALE2000": 14,
+        "FEMALE2000": 15,
+        "POP2008": 37,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30775,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.562398920374,
+          -6.116238630408418
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30775,
+        "CU_NAME": "SOYUGUPOL SITATOGA",
+        "CU_NO": "103",
+        "GEOCODE": "11081107103",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.116239,
+        "LONGITUDE": 145.562399,
+        "REGHH": 13,
+        "TOTPOP2000": 60,
+        "MALE2000": 30,
+        "FEMALE2000": 30,
+        "POP2008": 68,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30776,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5551550000033,
+          -6.127937460345493
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30776,
+        "CU_NAME": "NINIFARE",
+        "CU_NO": "104",
+        "GEOCODE": "11081107104",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.127937,
+        "LONGITUDE": 145.555155,
+        "REGHH": 10,
+        "TOTPOP2000": 33,
+        "MALE2000": 16,
+        "FEMALE2000": 17,
+        "POP2008": 41,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30777,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52425116036284,
+          -6.13241999978311
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30777,
+        "CU_NAME": "BOGELILO",
+        "CU_NO": "105",
+        "GEOCODE": "11081107105",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.13242,
+        "LONGITUDE": 145.524251,
+        "REGHH": 35,
+        "TOTPOP2000": 150,
+        "MALE2000": 79,
+        "FEMALE2000": 71,
+        "POP2008": 178,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30778,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5513901195584,
+          -6.1304220002750185
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30778,
+        "CU_NAME": "SAFAMETO",
+        "CU_NO": "109",
+        "GEOCODE": "11081107109",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.130422,
+        "LONGITUDE": 145.55139,
+        "REGHH": 51,
+        "TOTPOP2000": 194,
+        "MALE2000": 98,
+        "FEMALE2000": 96,
+        "POP2008": 231,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30779,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.54754244033143,
+          -6.142915710391662
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30779,
+        "CU_NAME": "RINTEBE HIGH SCH",
+        "CU_NO": "401",
+        "GEOCODE": "11081107401",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "RINTEBE",
+        "LATITUDE": -6.142916,
+        "LONGITUDE": 145.547542,
+        "REGHH": 6,
+        "TOTPOP2000": 24,
+        "MALE2000": 12,
+        "FEMALE2000": 12,
+        "POP2008": 32,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16351,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.47508400032643,
+          -5.758856000204219
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16351,
+        "CU_NAME": "WAGHI",
+        "CU_NO": "019",
+        "GEOCODE": "09020327019",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "27",
+        "WARD_NAME": "KONDAPINA.1",
+        "LATITUDE": -5.759793,
+        "LONGITUDE": 144.47542,
+        "REGHH": 76,
+        "TOTPOP2000": 286,
+        "MALE2000": 160,
+        "FEMALE2000": 126,
+        "POP2008": 348,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020327019,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16352,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4859840002615,
+          -5.736974000149928
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16352,
+        "CU_NAME": "KAIKAI",
+        "CU_NO": "020",
+        "GEOCODE": "09020327020",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "27",
+        "WARD_NAME": "KONDAPINA.1",
+        "LATITUDE": -5.737911,
+        "LONGITUDE": 144.48632,
+        "REGHH": 84,
+        "TOTPOP2000": 421,
+        "MALE2000": 215,
+        "FEMALE2000": 206,
+        "POP2008": 514,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020327020,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16353,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4745259997751,
+          -5.746805000250504
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16353,
+        "CU_NAME": "KORAKONA",
+        "CU_NO": "021",
+        "GEOCODE": "09020327021",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "27",
+        "WARD_NAME": "KONDAPINA.1",
+        "LATITUDE": -5.747742,
+        "LONGITUDE": 144.474862,
+        "REGHH": 19,
+        "TOTPOP2000": 82,
+        "MALE2000": 47,
+        "FEMALE2000": 35,
+        "POP2008": 98,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020327021,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16354,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.48412600001495,
+          -5.746165999561185
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16354,
+        "CU_NAME": "KONDAPINA.1",
+        "CU_NO": "022",
+        "GEOCODE": "09020327022",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "27",
+        "WARD_NAME": "KONDAPINA.1",
+        "LATITUDE": -5.747103,
+        "LONGITUDE": 144.484462,
+        "REGHH": 54,
+        "TOTPOP2000": 267,
+        "MALE2000": 134,
+        "FEMALE2000": 133,
+        "POP2008": 326,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020327022,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16355,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.48729300037178,
+          -5.746865000319474
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16355,
+        "CU_NAME": "KONDAPINA C/SCH.",
+        "CU_NO": "401",
+        "GEOCODE": "09020327401",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "27",
+        "WARD_NAME": "KONDAPINA.1",
+        "LATITUDE": -5.747802,
+        "LONGITUDE": 144.487629,
+        "REGHH": 3,
+        "TOTPOP2000": 18,
+        "MALE2000": 11,
+        "FEMALE2000": 7,
+        "POP2008": 18,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020327401,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

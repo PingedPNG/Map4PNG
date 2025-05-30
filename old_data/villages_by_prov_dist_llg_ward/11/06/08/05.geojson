@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.90027367978655,
+          -6.5853958501383545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30213,
+        "CU_NAME": "BIBEORI",
+        "CU_NO": "006",
+        "GEOCODE": "11060805006",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "BIBEORI",
+        "LATITUDE": -6.585396,
+        "LONGITUDE": 145.900274,
+        "REGHH": 40,
+        "TOTPOP2000": 208,
+        "MALE2000": 108,
+        "FEMALE2000": 100,
+        "POP2008": 248,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89890640001045,
+          -6.591476519925379
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30214,
+        "CU_NAME": "MUNARA",
+        "CU_NO": "007",
+        "GEOCODE": "11060805007",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "BIBEORI",
+        "LATITUDE": -6.591477,
+        "LONGITUDE": 145.898906,
+        "REGHH": 15,
+        "TOTPOP2000": 72,
+        "MALE2000": 39,
+        "FEMALE2000": 33,
+        "POP2008": 88,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9040169603145,
+          -6.5925124202119605
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30215,
+        "CU_NAME": "NEW AILAND",
+        "CU_NO": "008",
+        "GEOCODE": "11060805008",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "BIBEORI",
+        "LATITUDE": -6.592512,
+        "LONGITUDE": 145.904017,
+        "REGHH": 7,
+        "TOTPOP2000": 34,
+        "MALE2000": 19,
+        "FEMALE2000": 15,
+        "POP2008": 42,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.90451988008851,
+          -6.588175050238306
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30216,
+        "CU_NAME": "KUASASANDA",
+        "CU_NO": "009",
+        "GEOCODE": "11060805009",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "BIBEORI",
+        "LATITUDE": -6.588175,
+        "LONGITUDE": 145.90452,
+        "REGHH": 19,
+        "TOTPOP2000": 113,
+        "MALE2000": 60,
+        "FEMALE2000": 53,
+        "POP2008": 136,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9055131201344,
+          -6.583295700236306
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30217,
+        "CU_NAME": "SUNTOP",
+        "CU_NO": "010",
+        "GEOCODE": "11060805010",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "BIBEORI",
+        "LATITUDE": -6.583296,
+        "LONGITUDE": 145.905513,
+        "REGHH": 25,
+        "TOTPOP2000": 125,
+        "MALE2000": 59,
+        "FEMALE2000": 66,
+        "POP2008": 149,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89213263980957,
+          -6.616619010259058
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30218,
+        "CU_NAME": "NAUNATA",
+        "CU_NO": "011",
+        "GEOCODE": "11060805011",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "BIBEORI",
+        "LATITUDE": -6.616619,
+        "LONGITUDE": 145.892133,
+        "REGHH": 32,
+        "TOTPOP2000": 130,
+        "MALE2000": 72,
+        "FEMALE2000": 58,
+        "POP2008": 154,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30219,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9063979999678,
+          -6.603144930294263
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30219,
+        "CU_NAME": "WAI'AURA",
+        "CU_NO": "012",
+        "GEOCODE": "11060805012",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "BIBEORI",
+        "LATITUDE": -6.603145,
+        "LONGITUDE": 145.906398,
+        "REGHH": 8,
+        "TOTPOP2000": 57,
+        "MALE2000": 26,
+        "FEMALE2000": 31,
+        "POP2008": 65,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

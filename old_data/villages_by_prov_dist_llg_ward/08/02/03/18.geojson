@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5420,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62573399962446,
+          -5.3933720000177345
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5420,
+        "CU_NAME": "TAGEM",
+        "CU_NO": "001",
+        "GEOCODE": "08020318001",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "18",
+        "WARD_NAME": "TAGEM",
+        "LATITUDE": -5.394773,
+        "LONGITUDE": 143.624668,
+        "REGHH": 9,
+        "TOTPOP2000": 69,
+        "MALE2000": 35,
+        "FEMALE2000": 34,
+        "POP2008": 85,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020318001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5421,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62276700039683,
+          -5.3888269999660565
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5421,
+        "CU_NAME": "SOKAIM",
+        "CU_NO": "002",
+        "GEOCODE": "08020318002",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "18",
+        "WARD_NAME": "TAGEM",
+        "LATITUDE": -5.390228,
+        "LONGITUDE": 143.621701,
+        "REGHH": 45,
+        "TOTPOP2000": 171,
+        "MALE2000": 87,
+        "FEMALE2000": 84,
+        "POP2008": 215,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020318002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5422,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63201999992316,
+          -5.397014999842327
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5422,
+        "CU_NAME": "MAKOMBI",
+        "CU_NO": "003",
+        "GEOCODE": "08020318003",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "18",
+        "WARD_NAME": "TAGEM",
+        "LATITUDE": -5.398416,
+        "LONGITUDE": 143.630954,
+        "REGHH": 42,
+        "TOTPOP2000": 211,
+        "MALE2000": 115,
+        "FEMALE2000": 96,
+        "POP2008": 264,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020318003,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9924,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.52739700007157,
+          -10.628395000328965
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9924,
+        "CU_NAME": "EBORA",
+        "CU_NO": "008",
+        "GEOCODE": "05020914008",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "EBORA",
+        "LATITUDE": -10.62956,
+        "LONGITUDE": 152.524873,
+        "REGHH": 37,
+        "TOTPOP2000": 217,
+        "MALE2000": 110,
+        "FEMALE2000": 107,
+        "POP2008": 264,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020914008,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9925,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.5307689999894,
+          -10.63088399999657
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9925,
+        "CU_NAME": "WAGAWOWOLIA",
+        "CU_NO": "009",
+        "GEOCODE": "05020914009",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "EBORA",
+        "LATITUDE": -10.632362,
+        "LONGITUDE": 152.529815,
+        "REGHH": 35,
+        "TOTPOP2000": 213,
+        "MALE2000": 101,
+        "FEMALE2000": 112,
+        "POP2008": 259,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020914009,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9926,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.5219740000001,
+          -10.624513000274703
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9926,
+        "CU_NAME": "BULUBULU",
+        "CU_NO": "010",
+        "GEOCODE": "05020914010",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "EBORA",
+        "LATITUDE": -10.625991,
+        "LONGITUDE": 152.52102,
+        "REGHH": 17,
+        "TOTPOP2000": 90,
+        "MALE2000": 44,
+        "FEMALE2000": 46,
+        "POP2008": 108,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020914010,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

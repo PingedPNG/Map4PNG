@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6608,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.99716199982652,
+          -3.564090999599898
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6608,
+        "CU_NAME": "NINGALIM",
+        "CU_NO": "011",
+        "GEOCODE": "14031014011",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "NINGALIM",
+        "LATITUDE": -3.565668,
+        "LONGITUDE": 142.995922,
+        "REGHH": 132,
+        "TOTPOP2000": 690,
+        "MALE2000": 358,
+        "FEMALE2000": 332,
+        "POP2008": 822,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031014011,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

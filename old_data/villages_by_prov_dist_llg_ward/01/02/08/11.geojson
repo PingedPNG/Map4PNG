@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15414,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.14659399981326,
+          -5.594796999681762
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15414,
+        "CU_NAME": "WOGAM",
+        "CU_NO": "027",
+        "GEOCODE": "01020811027",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "11",
+        "WARD_NAME": "WOGAM",
+        "LATITUDE": -5.596195,
+        "LONGITUDE": 141.145498,
+        "REGHH": 41,
+        "TOTPOP2000": 190,
+        "MALE2000": 107,
+        "FEMALE2000": 83,
+        "POP2008": 246,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020811027,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15415,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.13954899958674,
+          -5.591161000179966
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15415,
+        "CU_NAME": "WUWUNGO",
+        "CU_NO": "030",
+        "GEOCODE": "01020811030",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "11",
+        "WARD_NAME": "WOGAM",
+        "LATITUDE": -5.592559,
+        "LONGITUDE": 141.138453,
+        "REGHH": 22,
+        "TOTPOP2000": 86,
+        "MALE2000": 50,
+        "FEMALE2000": 36,
+        "POP2008": 111,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020811030,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

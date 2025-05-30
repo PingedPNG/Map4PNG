@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10162,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3287530002508,
+          -8.642422000075214
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10162,
+        "CU_NAME": "LALELA",
+        "CU_NO": "001",
+        "GEOCODE": "05031228001",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "28",
+        "WARD_NAME": "LALELA",
+        "LATITUDE": -8.643875,
+        "LONGITUDE": 151.327786,
+        "REGHH": 147,
+        "TOTPOP2000": 701,
+        "MALE2000": 363,
+        "FEMALE2000": 338,
+        "POP2008": 854,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031228001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10163,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.33846000002904,
+          -8.64173099968582
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10163,
+        "CU_NAME": "LALAK",
+        "CU_NO": "002",
+        "GEOCODE": "05031228002",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "28",
+        "WARD_NAME": "LALELA",
+        "LATITUDE": -8.643185,
+        "LONGITUDE": 151.337493,
+        "REGHH": 30,
+        "TOTPOP2000": 150,
+        "MALE2000": 78,
+        "FEMALE2000": 72,
+        "POP2008": 182,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031228002,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10164,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.35303699955796,
+          -8.630277000283286
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10164,
+        "CU_NAME": "TAREGASI",
+        "CU_NO": "003",
+        "GEOCODE": "05031228003",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "28",
+        "WARD_NAME": "LALELA",
+        "LATITUDE": -8.631729,
+        "LONGITUDE": 151.352071,
+        "REGHH": 11,
+        "TOTPOP2000": 57,
+        "MALE2000": 32,
+        "FEMALE2000": 25,
+        "POP2008": 69,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031228003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10165,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3436009996865,
+          -8.637840000115887
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10165,
+        "CU_NAME": "KIMUTU",
+        "CU_NO": "004",
+        "GEOCODE": "05031228004",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "28",
+        "WARD_NAME": "LALELA",
+        "LATITUDE": -8.639292,
+        "LONGITUDE": 151.342634,
+        "REGHH": 8,
+        "TOTPOP2000": 48,
+        "MALE2000": 25,
+        "FEMALE2000": 23,
+        "POP2008": 56,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031228004,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

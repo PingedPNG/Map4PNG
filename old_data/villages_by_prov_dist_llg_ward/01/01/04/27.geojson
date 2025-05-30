@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15203,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.45517900031064,
+          -7.536361999806388
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15203,
+        "CU_NAME": "LEVAME",
+        "CU_NO": "008",
+        "GEOCODE": "01010427008",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "27",
+        "WARD_NAME": "LEVAME",
+        "LATITUDE": -7.537779,
+        "LONGITUDE": 141.454082,
+        "REGHH": 16,
+        "TOTPOP2000": 118,
+        "MALE2000": 60,
+        "FEMALE2000": 58,
+        "POP2008": 153,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010427008,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

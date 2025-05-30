@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16187,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3908560003042,
+          -6.238459000182672
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16187,
+        "CU_NAME": "AMBOPANE",
+        "CU_NO": "008",
+        "GEOCODE": "09010236008",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "36",
+        "WARD_NAME": "AMBOPANE",
+        "LATITUDE": -6.239402,
+        "LONGITUDE": 144.391191,
+        "REGHH": 24,
+        "TOTPOP2000": 103,
+        "MALE2000": 50,
+        "FEMALE2000": 53,
+        "POP2008": 127,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010236008,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

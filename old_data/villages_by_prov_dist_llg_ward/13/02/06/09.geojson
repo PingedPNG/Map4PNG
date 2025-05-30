@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8339,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.61203899989994,
+          -5.3230780004493
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8339,
+        "CU_NAME": "BURU (BUR)",
+        "CU_NO": "009",
+        "GEOCODE": "13020609009",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD NINE",
+        "LATITUDE": -5.324481,
+        "LONGITUDE": 145.610999,
+        "REGHH": 55,
+        "TOTPOP2000": 335,
+        "MALE2000": 174,
+        "FEMALE2000": 161,
+        "POP2008": 415,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020609009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8340,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6565320003516,
+          -5.318574999636496
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8340,
+        "CU_NAME": "DERIN",
+        "CU_NO": "010",
+        "GEOCODE": "13020609010",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD NINE",
+        "LATITUDE": -5.319978,
+        "LONGITUDE": 145.655492,
+        "REGHH": 100,
+        "TOTPOP2000": 567,
+        "MALE2000": 304,
+        "FEMALE2000": 263,
+        "POP2008": 701,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020609010,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8341,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.63380299990854,
+          -5.3247860000738
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8341,
+        "CU_NAME": "TADUP",
+        "CU_NO": "023",
+        "GEOCODE": "13020609023",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD NINE",
+        "LATITUDE": -5.326189,
+        "LONGITUDE": 145.632763,
+        "REGHH": 25,
+        "TOTPOP2000": 171,
+        "MALE2000": 90,
+        "FEMALE2000": 81,
+        "POP2008": 212,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020609023,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6330359996117,
+          -5.320461000274918
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8342,
+        "CU_NAME": "TADUP C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "13020609401",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD NINE",
+        "LATITUDE": -5.321864,
+        "LONGITUDE": 145.631996,
+        "REGHH": 4,
+        "TOTPOP2000": 26,
+        "MALE2000": 12,
+        "FEMALE2000": 14,
+        "POP2008": 34,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020609401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

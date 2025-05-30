@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1599,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.56380400005457,
+          -9.788947000303779
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1599,
+        "CU_NAME": "GOMORE",
+        "CU_NO": "035",
+        "GEOCODE": "03041104035",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "GOMORE",
+        "LATITUDE": -9.790401,
+        "LONGITUDE": 147.56278,
+        "REGHH": 70,
+        "TOTPOP2000": 373,
+        "MALE2000": 198,
+        "FEMALE2000": 175,
+        "POP2008": 448,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041104035,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

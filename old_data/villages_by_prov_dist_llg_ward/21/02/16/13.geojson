@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20785,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6502170002144,
+          -5.717883000200231
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20785,
+        "CU_NAME": "TOLO",
+        "CU_NO": "001",
+        "GEOCODE": "07051613001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "16",
+        "WARD_NO": "13",
+        "WARD_NAME": "BETEGE 2",
+        "LATITUDE": -5.72213,
+        "LONGITUDE": 142.6507,
+        "REGHH": 51,
+        "TOTPOP2000": 160,
+        "MALE2000": 72,
+        "FEMALE2000": 88,
+        "POP2008": 223,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051613001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20786,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.64851299987515,
+          -5.716776999558817
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20786,
+        "CU_NAME": "KANIMU",
+        "CU_NO": "002",
+        "GEOCODE": "07051613002",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "16",
+        "WARD_NO": "13",
+        "WARD_NAME": "BETEGE 2",
+        "LATITUDE": -5.72213,
+        "LONGITUDE": 142.6507,
+        "REGHH": 51,
+        "TOTPOP2000": 183,
+        "MALE2000": 90,
+        "FEMALE2000": 93,
+        "POP2008": 254,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051613002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20787,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.65043500037507,
+          -5.716060999815227
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20787,
+        "CU_NAME": "NENEKE",
+        "CU_NO": "003",
+        "GEOCODE": "07051613003",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "16",
+        "WARD_NO": "13",
+        "WARD_NAME": "BETEGE 2",
+        "LATITUDE": -5.72213,
+        "LONGITUDE": 142.6507,
+        "REGHH": 42,
+        "TOTPOP2000": 140,
+        "MALE2000": 74,
+        "FEMALE2000": 66,
+        "POP2008": 195,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051613003,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

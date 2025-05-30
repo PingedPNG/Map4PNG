@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15642,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.22400600007688,
+          -8.631998999654058
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15642,
+        "CU_NAME": "DIMISISI VILLAGE",
+        "CU_NO": "006",
+        "GEOCODE": "01031307006",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "DIMISISI",
+        "LATITUDE": -8.632577,
+        "LONGITUDE": 142.218574,
+        "REGHH": 75,
+        "TOTPOP2000": 423,
+        "MALE2000": 217,
+        "FEMALE2000": 206,
+        "POP2008": 547,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031307006,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15643,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.2288139996664,
+          -8.624260999845205
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15643,
+        "CU_NAME": "ECP MISSION",
+        "CU_NO": "007",
+        "GEOCODE": "01031307007",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "DIMISISI",
+        "LATITUDE": -8.625689,
+        "LONGITUDE": 142.227724,
+        "REGHH": 1,
+        "TOTPOP2000": 5,
+        "MALE2000": 3,
+        "FEMALE2000": 2,
+        "POP2008": 5,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031307007,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

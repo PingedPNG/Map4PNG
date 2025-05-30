@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5530,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.96063499960565,
+          -5.127345999817976
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5530,
+        "CU_NAME": "MULALE",
+        "CU_NO": "002",
+        "GEOCODE": "08020504002",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "MULALE",
+        "LATITUDE": -5.124928,
+        "LONGITUDE": 143.955266,
+        "REGHH": 98,
+        "TOTPOP2000": 667,
+        "MALE2000": 392,
+        "FEMALE2000": 275,
+        "POP2008": 838,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020504002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

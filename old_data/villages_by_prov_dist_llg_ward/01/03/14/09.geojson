@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15711,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.65035500028307,
+          -8.544871999942814
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15711,
+        "CU_NAME": "UPIARA",
+        "CU_NO": "029",
+        "GEOCODE": "01031409029",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "09",
+        "WARD_NAME": "UPIARA",
+        "LATITUDE": -8.546301,
+        "LONGITUDE": 142.64927,
+        "REGHH": 43,
+        "TOTPOP2000": 257,
+        "MALE2000": 138,
+        "FEMALE2000": 119,
+        "POP2008": 333,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031409029,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15712,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.67293800028858,
+          -8.549371999717948
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15712,
+        "CU_NAME": "BITURI HEALTH CENTRE",
+        "CU_NO": "402",
+        "GEOCODE": "01031409402",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "09",
+        "WARD_NAME": "UPIARA",
+        "LATITUDE": -8.550801,
+        "LONGITUDE": 142.671853,
+        "REGHH": 3,
+        "TOTPOP2000": 13,
+        "MALE2000": 9,
+        "FEMALE2000": 4,
+        "POP2008": 13,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031409402,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15713,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.67293800028858,
+          -8.549371999717948
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15713,
+        "CU_NAME": "BITURI COMMUNITY SCHOOL",
+        "CU_NO": "403",
+        "GEOCODE": "01031409403",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "09",
+        "WARD_NAME": "UPIARA",
+        "LATITUDE": -8.550801,
+        "LONGITUDE": 142.671853,
+        "REGHH": 40,
+        "TOTPOP2000": 207,
+        "MALE2000": 119,
+        "FEMALE2000": 88,
+        "POP2008": 269,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031409403,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

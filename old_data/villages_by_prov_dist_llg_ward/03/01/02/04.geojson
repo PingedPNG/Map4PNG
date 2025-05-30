@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.02540099975636,
+          -10.13096500023454
+        ]
+      },
+      "properties": {
+        "OBJECTID": 937,
+        "CU_NAME": "EGALA'AUNA",
+        "CU_NO": "012",
+        "GEOCODE": "03010204012",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "GAIVAKALANA",
+        "LATITUDE": -10.129902,
+        "LONGITUDE": 148.023722,
+        "REGHH": 71,
+        "TOTPOP2000": 506,
+        "MALE2000": 254,
+        "FEMALE2000": 252,
+        "POP2008": 607,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010204012,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0204610003749,
+          -10.134988999642587
+        ]
+      },
+      "properties": {
+        "OBJECTID": 938,
+        "CU_NAME": "GAIVAKALANA",
+        "CU_NO": "014",
+        "GEOCODE": "03010204014",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "GAIVAKALANA",
+        "LATITUDE": -10.131294,
+        "LONGITUDE": 148.021081,
+        "REGHH": 101,
+        "TOTPOP2000": 600,
+        "MALE2000": 301,
+        "FEMALE2000": 299,
+        "POP2008": 719,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010204014,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

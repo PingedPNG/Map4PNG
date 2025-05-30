@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18978,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.47268199987445,
+          -3.7435370001323918
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18978,
+        "CU_NAME": "NAGATIMAN",
+        "CU_NO": "007",
+        "GEOCODE": "15041405007",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "05",
+        "WARD_NAME": "NAGATIMAN",
+        "LATITUDE": -3.744917,
+        "LONGITUDE": 141.471593,
+        "REGHH": 22,
+        "TOTPOP2000": 131,
+        "MALE2000": 75,
+        "FEMALE2000": 56,
+        "POP2008": 158,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041405007,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18979,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.43755699975577,
+          -3.7618910002693724
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18979,
+        "CU_NAME": "TILA (WEIKU)",
+        "CU_NO": "010",
+        "GEOCODE": "15041405010",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "05",
+        "WARD_NAME": "NAGATIMAN",
+        "LATITUDE": -3.763271,
+        "LONGITUDE": 141.436467,
+        "REGHH": 27,
+        "TOTPOP2000": 157,
+        "MALE2000": 72,
+        "FEMALE2000": 85,
+        "POP2008": 189,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041405010,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

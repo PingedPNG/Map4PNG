@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14910,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.00752499977898,
+          -6.1093580001715395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14910,
+        "CU_NAME": "PERENIME",
+        "CU_NO": "009",
+        "GEOCODE": "10061803009",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "03",
+        "WARD_NAME": "BOMAIKU",
+        "LATITUDE": -6.109483,
+        "LONGITUDE": 145.006994,
+        "REGHH": 103,
+        "TOTPOP2000": 449,
+        "MALE2000": 229,
+        "FEMALE2000": 220,
+        "POP2008": 518,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061803009,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14911,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0097560001393,
+          -6.1159589997080275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14911,
+        "CU_NAME": "MALGANA",
+        "CU_NO": "010",
+        "GEOCODE": "10061803010",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "03",
+        "WARD_NAME": "BOMAIKU",
+        "LATITUDE": -6.11737,
+        "LONGITUDE": 145.008706,
+        "REGHH": 23,
+        "TOTPOP2000": 77,
+        "MALE2000": 40,
+        "FEMALE2000": 37,
+        "POP2008": 86,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061803010,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.00291200018876,
+          -6.103478999755964
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14912,
+        "CU_NAME": "PERAMARA",
+        "CU_NO": "011",
+        "GEOCODE": "10061803011",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "03",
+        "WARD_NAME": "BOMAIKU",
+        "LATITUDE": -6.104583,
+        "LONGITUDE": 145.002377,
+        "REGHH": 22,
+        "TOTPOP2000": 94,
+        "MALE2000": 53,
+        "FEMALE2000": 41,
+        "POP2008": 110,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061803011,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14913,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.00776700014706,
+          -6.1052339997492595
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14913,
+        "CU_NAME": "YOBA AULABOL",
+        "CU_NO": "012",
+        "GEOCODE": "10061803012",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "03",
+        "WARD_NAME": "BOMAIKU",
+        "LATITUDE": -6.106285,
+        "LONGITUDE": 145.006718,
+        "REGHH": 40,
+        "TOTPOP2000": 174,
+        "MALE2000": 87,
+        "FEMALE2000": 87,
+        "POP2008": 199,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061803012,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14914,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0090499999576,
+          -6.107772999923952
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14914,
+        "CU_NAME": "KOGE CATH MSN",
+        "CU_NO": "401",
+        "GEOCODE": "10061803401",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "03",
+        "WARD_NAME": "BOMAIKU",
+        "LATITUDE": -6.109239,
+        "LONGITUDE": 145.008772,
+        "REGHH": 12,
+        "TOTPOP2000": 45,
+        "MALE2000": 19,
+        "FEMALE2000": 26,
+        "POP2008": 53,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061803401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

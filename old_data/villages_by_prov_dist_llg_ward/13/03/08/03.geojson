@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8502,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.90755100027854,
+          -4.723948000399844
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8502,
+        "CU_NAME": "OSUM",
+        "CU_NO": "018",
+        "GEOCODE": "13030803018",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD 3",
+        "LATITUDE": -4.728525,
+        "LONGITUDE": 144.906493,
+        "REGHH": 18,
+        "TOTPOP2000": 127,
+        "MALE2000": 69,
+        "FEMALE2000": 58,
+        "POP2008": 158,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030803018,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8503,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97178500007772,
+          -4.754759000327567
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8503,
+        "CU_NAME": "PONDOMA",
+        "CU_NO": "019",
+        "GEOCODE": "13030803019",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD 3",
+        "LATITUDE": -4.751201,
+        "LONGITUDE": 144.969342,
+        "REGHH": 36,
+        "TOTPOP2000": 174,
+        "MALE2000": 97,
+        "FEMALE2000": 77,
+        "POP2008": 216,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030803019,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95663600025125,
+          -4.721947999900237
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8504,
+        "CU_NAME": "SUANJAMBI",
+        "CU_NO": "021",
+        "GEOCODE": "13030803021",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD 3",
+        "LATITUDE": -4.723344,
+        "LONGITUDE": 144.955588,
+        "REGHH": 36,
+        "TOTPOP2000": 193,
+        "MALE2000": 99,
+        "FEMALE2000": 94,
+        "POP2008": 238,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030803021,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8505,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97155999959432,
+          -4.715323000156275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8505,
+        "CU_NAME": "YIGIBUGOR",
+        "CU_NO": "029",
+        "GEOCODE": "13030803029",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD 3",
+        "LATITUDE": -4.716719,
+        "LONGITUDE": 144.970512,
+        "REGHH": 25,
+        "TOTPOP2000": 132,
+        "MALE2000": 66,
+        "FEMALE2000": 66,
+        "POP2008": 164,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030803029,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

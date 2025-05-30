@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10687,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.30185599995446,
+          -6.4365449996519715
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10687,
+        "CU_NAME": "KOIRE",
+        "CU_NO": "001",
+        "GEOCODE": "12020603001",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "KOR",
+        "LATITUDE": -6.437964,
+        "LONGITUDE": 147.300836,
+        "REGHH": 96,
+        "TOTPOP2000": 486,
+        "MALE2000": 234,
+        "FEMALE2000": 252,
+        "POP2008": 607,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020603001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10688,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3227429999895,
+          -6.444347999760339
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10688,
+        "CU_NAME": "KOR",
+        "CU_NO": "004",
+        "GEOCODE": "12020603004",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "KOR",
+        "LATITUDE": -6.445767,
+        "LONGITUDE": 147.321724,
+        "REGHH": 51,
+        "TOTPOP2000": 248,
+        "MALE2000": 125,
+        "FEMALE2000": 123,
+        "POP2008": 309,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020603004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10689,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.32143499992537,
+          -6.462953999827164
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10689,
+        "CU_NAME": "UBANENG",
+        "CU_NO": "013",
+        "GEOCODE": "12020603013",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "KOR",
+        "LATITUDE": -6.464373,
+        "LONGITUDE": 147.320416,
+        "REGHH": 71,
+        "TOTPOP2000": 313,
+        "MALE2000": 144,
+        "FEMALE2000": 169,
+        "POP2008": 391,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020603013,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10690,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.33320300031824,
+          -6.453606999563306
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10690,
+        "CU_NAME": "ZEVEZANG",
+        "CU_NO": "016",
+        "GEOCODE": "12020603016",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "KOR",
+        "LATITUDE": -6.455026,
+        "LONGITUDE": 147.332184,
+        "REGHH": 58,
+        "TOTPOP2000": 315,
+        "MALE2000": 158,
+        "FEMALE2000": 157,
+        "POP2008": 393,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020603016,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10691,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.31488299995056,
+          -6.4676420001781025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10691,
+        "CU_NAME": "NOMBUNUNG",
+        "CU_NO": "017",
+        "GEOCODE": "12020603017",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "KOR",
+        "LATITUDE": -6.469061,
+        "LONGITUDE": 147.313864,
+        "REGHH": 52,
+        "TOTPOP2000": 241,
+        "MALE2000": 125,
+        "FEMALE2000": 116,
+        "POP2008": 301,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020603017,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

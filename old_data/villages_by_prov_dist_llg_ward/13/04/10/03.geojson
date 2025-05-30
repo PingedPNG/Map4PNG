@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8645,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.80447899980607,
+          -5.546436999867581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8645,
+        "CU_NAME": "BANG",
+        "CU_NO": "002",
+        "GEOCODE": "13041003002",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD 3",
+        "LATITUDE": -5.547843,
+        "LONGITUDE": 145.803441,
+        "REGHH": 53,
+        "TOTPOP2000": 426,
+        "MALE2000": 217,
+        "FEMALE2000": 209,
+        "POP2008": 528,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041003002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8646,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.83822400013753,
+          -5.575473999825192
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8646,
+        "CU_NAME": "GUR",
+        "CU_NO": "005",
+        "GEOCODE": "13041003005",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD 3",
+        "LATITUDE": -5.57688,
+        "LONGITUDE": 145.837186,
+        "REGHH": 13,
+        "TOTPOP2000": 98,
+        "MALE2000": 55,
+        "FEMALE2000": 43,
+        "POP2008": 122,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041003005,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8647,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8800839996769,
+          -5.526739999851088
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8647,
+        "CU_NAME": "SEKWANAM",
+        "CU_NO": "011",
+        "GEOCODE": "13041003011",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD 3",
+        "LATITUDE": -5.528146,
+        "LONGITUDE": 145.879047,
+        "REGHH": 31,
+        "TOTPOP2000": 230,
+        "MALE2000": 121,
+        "FEMALE2000": 109,
+        "POP2008": 284,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041003011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8648,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8520789996462,
+          -5.506384000021512
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8648,
+        "CU_NAME": "SONGUM",
+        "CU_NO": "012",
+        "GEOCODE": "13041003012",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD 3",
+        "LATITUDE": -5.50779,
+        "LONGITUDE": 145.851042,
+        "REGHH": 51,
+        "TOTPOP2000": 353,
+        "MALE2000": 173,
+        "FEMALE2000": 180,
+        "POP2008": 438,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041003012,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8649,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.86109700002658,
+          -5.507212000433412
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8649,
+        "CU_NAME": "YANGLAM",
+        "CU_NO": "013",
+        "GEOCODE": "13041003013",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD 3",
+        "LATITUDE": -5.508618,
+        "LONGITUDE": 145.86006,
+        "REGHH": 28,
+        "TOTPOP2000": 175,
+        "MALE2000": 85,
+        "FEMALE2000": 90,
+        "POP2008": 217,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041003013,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11194,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.31140399959497,
+          -6.139723000216236
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11194,
+        "CU_NAME": "ZAGAN",
+        "CU_NO": "002",
+        "GEOCODE": "12041301002",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "01",
+        "WARD_NAME": "TAKNANE",
+        "LATITUDE": -6.142146,
+        "LONGITUDE": 147.308374,
+        "REGHH": 29,
+        "TOTPOP2000": 203,
+        "MALE2000": 100,
+        "FEMALE2000": 103,
+        "POP2008": 254,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041301002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11195,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.30219800043744,
+          -6.117455000347945
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11195,
+        "CU_NAME": "KUMBIP",
+        "CU_NO": "010",
+        "GEOCODE": "12041301010",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "01",
+        "WARD_NAME": "TAKNANE",
+        "LATITUDE": -6.11887,
+        "LONGITUDE": 147.301179,
+        "REGHH": 30,
+        "TOTPOP2000": 119,
+        "MALE2000": 65,
+        "FEMALE2000": 54,
+        "POP2008": 149,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041301010,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11196,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.31636499994488,
+          -6.153765000254509
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11196,
+        "CU_NAME": "TAKNAWE",
+        "CU_NO": "023",
+        "GEOCODE": "12041301023",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "01",
+        "WARD_NAME": "TAKNANE",
+        "LATITUDE": -6.155181,
+        "LONGITUDE": 147.315346,
+        "REGHH": 45,
+        "TOTPOP2000": 329,
+        "MALE2000": 156,
+        "FEMALE2000": 173,
+        "POP2008": 410,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041301023,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

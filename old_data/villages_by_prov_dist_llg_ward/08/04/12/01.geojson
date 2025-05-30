@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5857,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.41908500007276,
+          -5.1335049996559405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5857,
+        "CU_NAME": "BIAK",
+        "CU_NO": "001",
+        "GEOCODE": "08041201001",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BIAK",
+        "LATITUDE": -5.14223,
+        "LONGITUDE": 143.421328,
+        "REGHH": 75,
+        "TOTPOP2000": 374,
+        "MALE2000": 185,
+        "FEMALE2000": 189,
+        "POP2008": 469,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041201001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5858,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.45760200013228,
+          -5.118696000220211
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5858,
+        "CU_NAME": "PAI",
+        "CU_NO": "002",
+        "GEOCODE": "08041201002",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BIAK",
+        "LATITUDE": -5.133274,
+        "LONGITUDE": 143.450947,
+        "REGHH": 73,
+        "TOTPOP2000": 343,
+        "MALE2000": 184,
+        "FEMALE2000": 159,
+        "POP2008": 431,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041201002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5859,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.37162000016292,
+          -5.141846000292617
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5859,
+        "CU_NAME": "EMO",
+        "CU_NO": "003",
+        "GEOCODE": "08041201003",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BIAK",
+        "LATITUDE": -5.139512,
+        "LONGITUDE": 143.380645,
+        "REGHH": 20,
+        "TOTPOP2000": 108,
+        "MALE2000": 65,
+        "FEMALE2000": 43,
+        "POP2008": 135,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041201003,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

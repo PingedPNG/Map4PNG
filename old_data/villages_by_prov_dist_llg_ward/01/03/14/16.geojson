@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15727,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7341409997074,
+          -9.234984000311329
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15727,
+        "CU_NAME": "KULALAE (TOGO)",
+        "CU_NO": "027",
+        "GEOCODE": "01031416027",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "16",
+        "WARD_NAME": "KULALAE",
+        "LATITUDE": -9.236419,
+        "LONGITUDE": 142.733055,
+        "REGHH": 59,
+        "TOTPOP2000": 302,
+        "MALE2000": 141,
+        "FEMALE2000": 161,
+        "POP2008": 392,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031416027,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15728,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7126349999054,
+          -9.235000000149853
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15728,
+        "CU_NAME": "BARNAP HAMLET",
+        "CU_NO": "028",
+        "GEOCODE": "01031416028",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "16",
+        "WARD_NAME": "KULALAE",
+        "LATITUDE": -9.236435,
+        "LONGITUDE": 142.711549,
+        "REGHH": 6,
+        "TOTPOP2000": 28,
+        "MALE2000": 15,
+        "FEMALE2000": 13,
+        "POP2008": 36,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031416028,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15729,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.71092800032704,
+          -9.226500000274768
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15729,
+        "CU_NAME": "NGOMTONO HAMLET",
+        "CU_NO": "029",
+        "GEOCODE": "01031416029",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "16",
+        "WARD_NAME": "KULALAE",
+        "LATITUDE": -9.227935,
+        "LONGITUDE": 142.709842,
+        "REGHH": 8,
+        "TOTPOP2000": 62,
+        "MALE2000": 33,
+        "FEMALE2000": 29,
+        "POP2008": 79,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031416029,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

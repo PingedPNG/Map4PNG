@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15074,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.56935899981806,
+          -8.104988999742488
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15074,
+        "CU_NAME": "SISIAMI NO. 1",
+        "CU_NO": "017",
+        "GEOCODE": "01010213017",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "13",
+        "WARD_NAME": "SISIAMI",
+        "LATITUDE": -8.104866,
+        "LONGITUDE": 143.570587,
+        "REGHH": 24,
+        "TOTPOP2000": 146,
+        "MALE2000": 67,
+        "FEMALE2000": 79,
+        "POP2008": 189,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010213017,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15075,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.55044099975237,
+          -8.084448000374891
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15075,
+        "CU_NAME": "SISIAMI NO. 2",
+        "CU_NO": "018",
+        "GEOCODE": "01010213018",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "13",
+        "WARD_NAME": "SISIAMI",
+        "LATITUDE": -8.083304,
+        "LONGITUDE": 143.551147,
+        "REGHH": 12,
+        "TOTPOP2000": 88,
+        "MALE2000": 40,
+        "FEMALE2000": 48,
+        "POP2008": 113,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010213018,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

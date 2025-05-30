@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15610,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1997360003162,
+          -8.272554000066975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15610,
+        "CU_NAME": "KENAME",
+        "CU_NO": "010",
+        "GEOCODE": "01031222010",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "22",
+        "WARD_NAME": "KENAME",
+        "LATITUDE": -8.274891,
+        "LONGITUDE": 143.196636,
+        "REGHH": 51,
+        "TOTPOP2000": 297,
+        "MALE2000": 143,
+        "FEMALE2000": 154,
+        "POP2008": 385,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031222010,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.19371499964757,
+          -8.26176799999314
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15611,
+        "CU_NAME": "ARATO",
+        "CU_NO": "031",
+        "GEOCODE": "01031222031",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "22",
+        "WARD_NAME": "KENAME",
+        "LATITUDE": -8.263663,
+        "LONGITUDE": 143.189262,
+        "REGHH": 42,
+        "TOTPOP2000": 258,
+        "MALE2000": 123,
+        "FEMALE2000": 135,
+        "POP2008": 335,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031222031,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15612,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.21089000027337,
+          -8.271416999794667
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15612,
+        "CU_NAME": "TEAPOPO COMM. SCHOOL",
+        "CU_NO": "032",
+        "GEOCODE": "01031222032",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "22",
+        "WARD_NAME": "KENAME",
+        "LATITUDE": -8.274595,
+        "LONGITUDE": 143.205491,
+        "REGHH": 6,
+        "TOTPOP2000": 51,
+        "MALE2000": 27,
+        "FEMALE2000": 24,
+        "POP2008": 67,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031222032,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15613,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.19570699977828,
+          -8.275174000379764
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15613,
+        "CU_NAME": "TEAPOPO HEALTH CENTRE",
+        "CU_NO": "033",
+        "GEOCODE": "01031222033",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "22",
+        "WARD_NAME": "KENAME",
+        "LATITUDE": -8.275696,
+        "LONGITUDE": 143.202421,
+        "REGHH": 1,
+        "TOTPOP2000": 6,
+        "MALE2000": 3,
+        "FEMALE2000": 3,
+        "POP2008": 6,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031222033,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

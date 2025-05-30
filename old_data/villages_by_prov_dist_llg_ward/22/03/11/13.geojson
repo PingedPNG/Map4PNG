@@ -1,0 +1,613 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6791310003954,
+          -5.825599999740177
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17324,
+        "CU_NAME": "KENDU",
+        "CU_NO": "008",
+        "GEOCODE": "09061113008",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.826554,
+        "LONGITUDE": 144.678806,
+        "REGHH": 41,
+        "TOTPOP2000": 205,
+        "MALE2000": 102,
+        "FEMALE2000": 103,
+        "POP2008": 249,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113008,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17325,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.69809900006885,
+          -5.794990000088376
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17325,
+        "CU_NAME": "BINSKU",
+        "CU_NO": "009",
+        "GEOCODE": "09061113009",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.795928,
+        "LONGITUDE": 144.698438,
+        "REGHH": 20,
+        "TOTPOP2000": 93,
+        "MALE2000": 38,
+        "FEMALE2000": 55,
+        "POP2008": 113,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113009,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17326,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.69585700010055,
+          -5.806564999674947
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17326,
+        "CU_NAME": "AMBANG",
+        "CU_NO": "010",
+        "GEOCODE": "09061113010",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.807043,
+        "LONGITUDE": 144.696313,
+        "REGHH": 54,
+        "TOTPOP2000": 246,
+        "MALE2000": 124,
+        "FEMALE2000": 122,
+        "POP2008": 299,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113010,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17327,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.69001999982322,
+          -5.815633999709291
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17327,
+        "CU_NAME": "TUPA",
+        "CU_NO": "011",
+        "GEOCODE": "09061113011",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.816572,
+        "LONGITUDE": 144.69036,
+        "REGHH": 82,
+        "TOTPOP2000": 319,
+        "MALE2000": 152,
+        "FEMALE2000": 167,
+        "POP2008": 388,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113011,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17328,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.678084999823,
+          -5.826043000384118
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17328,
+        "CU_NAME": "KENDU BAIMAN",
+        "CU_NO": "012",
+        "GEOCODE": "09061113012",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.826554,
+        "LONGITUDE": 144.678806,
+        "REGHH": 33,
+        "TOTPOP2000": 181,
+        "MALE2000": 86,
+        "FEMALE2000": 95,
+        "POP2008": 221,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113012,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17329,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.67227699998364,
+          -5.8224849999826915
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17329,
+        "CU_NAME": "KOSUWA",
+        "CU_NO": "013",
+        "GEOCODE": "09061113013",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.823423,
+        "LONGITUDE": 144.672617,
+        "REGHH": 18,
+        "TOTPOP2000": 93,
+        "MALE2000": 45,
+        "FEMALE2000": 48,
+        "POP2008": 113,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113013,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17330,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.67614500029163,
+          -5.830915000227037
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17330,
+        "CU_NAME": "KISAP",
+        "CU_NO": "014",
+        "GEOCODE": "09061113014",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.831745,
+        "LONGITUDE": 144.673768,
+        "REGHH": 32,
+        "TOTPOP2000": 124,
+        "MALE2000": 68,
+        "FEMALE2000": 56,
+        "POP2008": 150,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113014,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17331,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6569720001578,
+          -5.843535000339955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17331,
+        "CU_NAME": "BILU",
+        "CU_NO": "015",
+        "GEOCODE": "09061113015",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.844473,
+        "LONGITUDE": 144.65731,
+        "REGHH": 61,
+        "TOTPOP2000": 295,
+        "MALE2000": 158,
+        "FEMALE2000": 137,
+        "POP2008": 360,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113015,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17332,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6497560001394,
+          -5.853751000208433
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17332,
+        "CU_NAME": "TOLA",
+        "CU_NO": "016",
+        "GEOCODE": "09061113016",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.854688,
+        "LONGITUDE": 144.650094,
+        "REGHH": 39,
+        "TOTPOP2000": 197,
+        "MALE2000": 104,
+        "FEMALE2000": 93,
+        "POP2008": 240,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113016,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17333,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.66038600021375,
+          -5.824410999767792
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17333,
+        "CU_NAME": "KARMAL",
+        "CU_NO": "017",
+        "GEOCODE": "09061113017",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.825349,
+        "LONGITUDE": 144.660726,
+        "REGHH": 40,
+        "TOTPOP2000": 199,
+        "MALE2000": 96,
+        "FEMALE2000": 103,
+        "POP2008": 242,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113017,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17334,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6421229997767,
+          -5.845656000124279
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17334,
+        "CU_NAME": "WAGHI  BLOCK",
+        "CU_NO": "018",
+        "GEOCODE": "09061113018",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.846594,
+        "LONGITUDE": 144.642461,
+        "REGHH": 31,
+        "TOTPOP2000": 138,
+        "MALE2000": 76,
+        "FEMALE2000": 62,
+        "POP2008": 169,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113018,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17335,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6820100000615,
+          -5.830202999768574
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17335,
+        "CU_NAME": "KEROWIL",
+        "CU_NO": "019",
+        "GEOCODE": "09061113019",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.831141,
+        "LONGITUDE": 144.68235,
+        "REGHH": 33,
+        "TOTPOP2000": 179,
+        "MALE2000": 85,
+        "FEMALE2000": 94,
+        "POP2008": 218,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113019,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17336,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.67899699961185,
+          -5.83435699977565
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17336,
+        "CU_NAME": "BARIYA",
+        "CU_NO": "020",
+        "GEOCODE": "09061113020",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.835295,
+        "LONGITUDE": 144.679337,
+        "REGHH": 60,
+        "TOTPOP2000": 231,
+        "MALE2000": 107,
+        "FEMALE2000": 124,
+        "POP2008": 282,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113020,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17337,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.68527100025653,
+          -5.819147999880215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17337,
+        "CU_NAME": "NANGAMB",
+        "CU_NO": "021",
+        "GEOCODE": "09061113021",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.820086,
+        "LONGITUDE": 144.685611,
+        "REGHH": 59,
+        "TOTPOP2000": 238,
+        "MALE2000": 114,
+        "FEMALE2000": 124,
+        "POP2008": 290,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113021,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17338,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6873560001793,
+          -5.8175990003935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17338,
+        "CU_NAME": "GUSAMP",
+        "CU_NO": "022",
+        "GEOCODE": "09061113022",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.818537,
+        "LONGITUDE": 144.687696,
+        "REGHH": 42,
+        "TOTPOP2000": 189,
+        "MALE2000": 90,
+        "FEMALE2000": 99,
+        "POP2008": 230,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113022,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17339,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6601249998689,
+          -5.838132000291523
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17339,
+        "CU_NAME": "KASGANA",
+        "CU_NO": "023",
+        "GEOCODE": "09061113023",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.83907,
+        "LONGITUDE": 144.660465,
+        "REGHH": 35,
+        "TOTPOP2000": 154,
+        "MALE2000": 78,
+        "FEMALE2000": 76,
+        "POP2008": 187,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113023,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17340,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.67908700016494,
+          -5.82485799969686
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17340,
+        "CU_NAME": "YAPA",
+        "CU_NO": "024",
+        "GEOCODE": "09061113024",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.826554,
+        "LONGITUDE": 144.678806,
+        "REGHH": 62,
+        "TOTPOP2000": 241,
+        "MALE2000": 112,
+        "FEMALE2000": 129,
+        "POP2008": 293,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113024,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17341,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6951679998034,
+          -5.806677000343257
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17341,
+        "CU_NAME": "AMBANG C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "09061113401",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.807043,
+        "LONGITUDE": 144.696313,
+        "REGHH": 3,
+        "TOTPOP2000": 6,
+        "MALE2000": 3,
+        "FEMALE2000": 3,
+        "POP2008": 6,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113401,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.67181800040044,
+          -5.830261999791389
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17342,
+        "CU_NAME": "KISAP C/SCHOOL",
+        "CU_NO": "402",
+        "GEOCODE": "09061113402",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "KENDU",
+        "LATITUDE": -5.831745,
+        "LONGITUDE": 144.673768,
+        "REGHH": 3,
+        "TOTPOP2000": 17,
+        "MALE2000": 10,
+        "FEMALE2000": 7,
+        "POP2008": 17,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061113402,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

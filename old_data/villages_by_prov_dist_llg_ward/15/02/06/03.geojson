@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18558,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.58820600040667,
+          -3.5962080003988603
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18558,
+        "CU_NAME": "NANGEN",
+        "CU_NO": "005",
+        "GEOCODE": "15020603005",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "NANGEN",
+        "LATITUDE": -3.597588,
+        "LONGITUDE": 142.58713,
+        "REGHH": 39,
+        "TOTPOP2000": 212,
+        "MALE2000": 117,
+        "FEMALE2000": 95,
+        "POP2008": 256,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020603005,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18559,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.593578999971,
+          -3.618366999737191
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18559,
+        "CU_NAME": "WOMGRIR",
+        "CU_NO": "012",
+        "GEOCODE": "15020603012",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "NANGEN",
+        "LATITUDE": -3.619747,
+        "LONGITUDE": 142.592503,
+        "REGHH": 62,
+        "TOTPOP2000": 302,
+        "MALE2000": 167,
+        "FEMALE2000": 135,
+        "POP2008": 365,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020603012,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18560,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5726069996134,
+          -3.548737000212327
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18560,
+        "CU_NAME": "WUMERAU",
+        "CU_NO": "013",
+        "GEOCODE": "15020603013",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "NANGEN",
+        "LATITUDE": -3.550117,
+        "LONGITUDE": 142.571531,
+        "REGHH": 54,
+        "TOTPOP2000": 290,
+        "MALE2000": 140,
+        "FEMALE2000": 150,
+        "POP2008": 350,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020603013,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

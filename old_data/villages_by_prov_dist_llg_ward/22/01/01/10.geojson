@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15794,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.34595099973887,
+          -5.865673999655314
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15794,
+        "CU_NAME": "ULYA",
+        "CU_NO": "014",
+        "GEOCODE": "09010110014",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "ULYA",
+        "LATITUDE": -5.866613,
+        "LONGITUDE": 144.346285,
+        "REGHH": 58,
+        "TOTPOP2000": 306,
+        "MALE2000": 151,
+        "FEMALE2000": 155,
+        "POP2008": 373,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010110014,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15795,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3541550003531,
+          -5.873874000084982
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15795,
+        "CU_NAME": "APRA",
+        "CU_NO": "015",
+        "GEOCODE": "09010110015",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "ULYA",
+        "LATITUDE": -5.874813,
+        "LONGITUDE": 144.354491,
+        "REGHH": 69,
+        "TOTPOP2000": 372,
+        "MALE2000": 206,
+        "FEMALE2000": 166,
+        "POP2008": 454,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010110015,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15796,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3345530002208,
+          -5.859392000440437
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15796,
+        "CU_NAME": "KOMON CRUSHER",
+        "CU_NO": "018",
+        "GEOCODE": "09010110018",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "ULYA",
+        "LATITUDE": -5.860331,
+        "LONGITUDE": 144.334887,
+        "REGHH": 37,
+        "TOTPOP2000": 235,
+        "MALE2000": 138,
+        "FEMALE2000": 97,
+        "POP2008": 286,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010110018,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15797,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.34427699988373,
+          -5.868150999668842
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15797,
+        "CU_NAME": "ULYA PLANTATION",
+        "CU_NO": "401",
+        "GEOCODE": "09010110401",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "ULYA",
+        "LATITUDE": -5.868797,
+        "LONGITUDE": 144.347052,
+        "REGHH": 47,
+        "TOTPOP2000": 243,
+        "MALE2000": 149,
+        "FEMALE2000": 94,
+        "POP2008": 296,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010110401,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15798,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.34968800030106,
+          -5.86756799976331
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15798,
+        "CU_NAME": "ULYA SETTLEMENT",
+        "CU_NO": "402",
+        "GEOCODE": "09010110402",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "ULYA",
+        "LATITUDE": -5.868797,
+        "LONGITUDE": 144.347052,
+        "REGHH": 39,
+        "TOTPOP2000": 241,
+        "MALE2000": 148,
+        "FEMALE2000": 93,
+        "POP2008": 293,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010110402,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

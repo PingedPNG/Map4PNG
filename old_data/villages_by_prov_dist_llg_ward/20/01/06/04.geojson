@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 243,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.74256199983654,
+          -3.3599489996465763
+        ]
+      },
+      "properties": {
+        "OBJECTID": 243,
+        "CU_NAME": "BUSURIA",
+        "CU_NO": "001",
+        "GEOCODE": "20010604001",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "NUGURIA",
+        "LATITUDE": -3.360023,
+        "LONGITUDE": 154.743524,
+        "REGHH": 58,
+        "TOTPOP2000": 320,
+        "MALE2000": 148,
+        "FEMALE2000": 172,
+        "POP2008": 360,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010604001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 244,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.7368889999275,
+          -3.3361379996688925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 244,
+        "CU_NAME": "TEKANI",
+        "CU_NO": "002",
+        "GEOCODE": "20010604002",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "NUGURIA",
+        "LATITUDE": -3.336803,
+        "LONGITUDE": 154.736791,
+        "REGHH": 1,
+        "TOTPOP2000": 10,
+        "MALE2000": 4,
+        "FEMALE2000": 6,
+        "POP2008": 10,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010604002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 245,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.56226200039112,
+          -3.1664399999060038
+        ]
+      },
+      "properties": {
+        "OBJECTID": 245,
+        "CU_NAME": "PAONA",
+        "CU_NO": "003",
+        "GEOCODE": "20010604003",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "NUGURIA",
+        "LATITUDE": -3.160349,
+        "LONGITUDE": 154.565961,
+        "REGHH": 4,
+        "TOTPOP2000": 27,
+        "MALE2000": 13,
+        "FEMALE2000": 14,
+        "POP2008": 27,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010604003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 246,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.75195000019244,
+          -3.3769369997427248
+        ]
+      },
+      "properties": {
+        "OBJECTID": 246,
+        "CU_NAME": "HUNAIMOHU",
+        "CU_NO": "004",
+        "GEOCODE": "20010604004",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "NUGURIA",
+        "LATITUDE": -3.350246,
+        "LONGITUDE": 154.806569,
+        "REGHH": 2,
+        "TOTPOP2000": 6,
+        "MALE2000": 5,
+        "FEMALE2000": 1,
+        "POP2008": 6,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010604004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 247,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.77508400042632,
+          -3.412466999652281
+        ]
+      },
+      "properties": {
+        "OBJECTID": 247,
+        "CU_NAME": "HAUMA",
+        "CU_NO": "005",
+        "GEOCODE": "20010604005",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "NUGURIA",
+        "LATITUDE": -3.502396,
+        "LONGITUDE": 154.813914,
+        "REGHH": 25,
+        "TOTPOP2000": 139,
+        "MALE2000": 65,
+        "FEMALE2000": 74,
+        "POP2008": 155,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010604005,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

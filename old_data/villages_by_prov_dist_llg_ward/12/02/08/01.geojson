@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10833,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.83700400013458,
+          -6.545342999579702
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10833,
+        "CU_NAME": "KAMLAWA",
+        "CU_NO": "008",
+        "GEOCODE": "12020801008",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOLEM",
+        "LATITUDE": -6.545936,
+        "LONGITUDE": 147.83578,
+        "REGHH": 58,
+        "TOTPOP2000": 326,
+        "MALE2000": 178,
+        "FEMALE2000": 148,
+        "POP2008": 406,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020801008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10834,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.84718300009547,
+          -6.566243000214229
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10834,
+        "CU_NAME": "MANEBA WHARF",
+        "CU_NO": "011",
+        "GEOCODE": "12020801011",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOLEM",
+        "LATITUDE": -6.567664,
+        "LONGITUDE": 147.846171,
+        "REGHH": 38,
+        "TOTPOP2000": 245,
+        "MALE2000": 135,
+        "FEMALE2000": 110,
+        "POP2008": 305,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020801011,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10835,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.84189900013882,
+          -6.574894999904302
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10835,
+        "CU_NAME": "KOLEM C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "12020801401",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOLEM",
+        "LATITUDE": -6.576316,
+        "LONGITUDE": 147.840887,
+        "REGHH": 68,
+        "TOTPOP2000": 401,
+        "MALE2000": 197,
+        "FEMALE2000": 204,
+        "POP2008": 501,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020801401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

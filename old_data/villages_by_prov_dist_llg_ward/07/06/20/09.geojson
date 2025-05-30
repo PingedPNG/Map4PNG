@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21085,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.67060999975172,
+          -6.152367999683406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21085,
+        "CU_NAME": "MES",
+        "CU_NO": "007",
+        "GEOCODE": "07062009007",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "20",
+        "WARD_NO": "09",
+        "WARD_NAME": "MES WA",
+        "LATITUDE": -6.156613,
+        "LONGITUDE": 143.670886,
+        "REGHH": 67,
+        "TOTPOP2000": 353,
+        "MALE2000": 178,
+        "FEMALE2000": 175,
+        "POP2008": 490,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7062009007,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21086,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.66189299976224,
+          -6.151960999800281
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21086,
+        "CU_NAME": "WA",
+        "CU_NO": "014",
+        "GEOCODE": "07062009014",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "20",
+        "WARD_NO": "09",
+        "WARD_NAME": "MES WA",
+        "LATITUDE": -6.156205,
+        "LONGITUDE": 143.662169,
+        "REGHH": 67,
+        "TOTPOP2000": 366,
+        "MALE2000": 189,
+        "FEMALE2000": 177,
+        "POP2008": 508,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7062009014,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

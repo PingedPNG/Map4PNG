@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20425,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3276090003551,
+          -5.860477000113406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20425,
+        "CU_NAME": "ARIAKA",
+        "CU_NO": "001",
+        "GEOCODE": "07041327001",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "27",
+        "WARD_NAME": "ARIAKA",
+        "LATITUDE": -5.86472,
+        "LONGITUDE": 143.32788,
+        "REGHH": 70,
+        "TOTPOP2000": 331,
+        "MALE2000": 167,
+        "FEMALE2000": 164,
+        "POP2008": 460,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041327001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20426,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3287370002124,
+          -5.859354999633467
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20426,
+        "CU_NAME": "AWABIA",
+        "CU_NO": "002",
+        "GEOCODE": "07041327002",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "27",
+        "WARD_NAME": "ARIAKA",
+        "LATITUDE": -5.863598,
+        "LONGITUDE": 143.329008,
+        "REGHH": 23,
+        "TOTPOP2000": 131,
+        "MALE2000": 72,
+        "FEMALE2000": 59,
+        "POP2008": 183,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041327002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20427,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.32894499991187,
+          -5.8580869996152956
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20427,
+        "CU_NAME": "HUMBIRABE",
+        "CU_NO": "003",
+        "GEOCODE": "07041327003",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "27",
+        "WARD_NAME": "ARIAKA",
+        "LATITUDE": -5.86233,
+        "LONGITUDE": 143.329216,
+        "REGHH": 67,
+        "TOTPOP2000": 326,
+        "MALE2000": 156,
+        "FEMALE2000": 170,
+        "POP2008": 453,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041327003,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

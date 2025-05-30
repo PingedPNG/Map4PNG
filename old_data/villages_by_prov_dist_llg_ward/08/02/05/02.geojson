@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5527,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.89522799967256,
+          -5.127359999564305
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5527,
+        "CU_NAME": "SAINA (YENGIS)",
+        "CU_NO": "001",
+        "GEOCODE": "08020502001",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "02",
+        "WARD_NAME": "SAINA",
+        "LATITUDE": -5.128758,
+        "LONGITUDE": 143.894166,
+        "REGHH": 27,
+        "TOTPOP2000": 115,
+        "MALE2000": 60,
+        "FEMALE2000": 55,
+        "POP2008": 145,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020502001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5528,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.90996899956974,
+          -5.117145999788022
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5528,
+        "CU_NAME": "NEWTOWN",
+        "CU_NO": "002",
+        "GEOCODE": "08020502002",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "02",
+        "WARD_NAME": "SAINA",
+        "LATITUDE": -5.118544,
+        "LONGITUDE": 143.908907,
+        "REGHH": 25,
+        "TOTPOP2000": 126,
+        "MALE2000": 62,
+        "FEMALE2000": 64,
+        "POP2008": 158,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020502002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

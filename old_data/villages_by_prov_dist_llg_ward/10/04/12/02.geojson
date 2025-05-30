@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14564,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.80622892152758,
+          -5.950766405545153
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14564,
+        "CU_NAME": "GAMAR 2",
+        "CU_NO": "003",
+        "GEOCODE": "10041202003",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "KUMAI BONMEKU",
+        "LATITUDE": -5.957204,
+        "LONGITUDE": 144.804241,
+        "REGHH": 60,
+        "TOTPOP2000": 408,
+        "MALE2000": 209,
+        "FEMALE2000": 199,
+        "POP2008": 470,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041202003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14565,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7927959999355,
+          -5.96935700022533
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14565,
+        "CU_NAME": "KUZIL",
+        "CU_NO": "004",
+        "GEOCODE": "10041202004",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "KUMAI BONMEKU",
+        "LATITUDE": -5.970766,
+        "LONGITUDE": 144.791744,
+        "REGHH": 100,
+        "TOTPOP2000": 677,
+        "MALE2000": 346,
+        "FEMALE2000": 331,
+        "POP2008": 781,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041202004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14566,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.80209399973842,
+          -5.961170000395157
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14566,
+        "CU_NAME": "NIGLGOL",
+        "CU_NO": "005",
+        "GEOCODE": "10041202005",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "KUMAI BONMEKU",
+        "LATITUDE": -5.962579,
+        "LONGITUDE": 144.801042,
+        "REGHH": 60,
+        "TOTPOP2000": 373,
+        "MALE2000": 200,
+        "FEMALE2000": 173,
+        "POP2008": 430,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041202005,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

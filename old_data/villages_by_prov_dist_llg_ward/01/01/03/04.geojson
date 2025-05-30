@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.71818899972266,
+          -7.904021999615566
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15105,
+        "CU_NAME": "PIKIWA",
+        "CU_NO": "012",
+        "GEOCODE": "01010304012",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "PIKIWA",
+        "LATITUDE": -7.905445,
+        "LONGITUDE": 142.717106,
+        "REGHH": 68,
+        "TOTPOP2000": 536,
+        "MALE2000": 269,
+        "FEMALE2000": 267,
+        "POP2008": 696,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010304012,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

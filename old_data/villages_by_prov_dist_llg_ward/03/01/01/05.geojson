@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 890,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.26627600003746,
+          -10.288789000112217
+        ]
+      },
+      "properties": {
+        "OBJECTID": 890,
+        "CU_NAME": "DEBA",
+        "CU_NO": "010",
+        "GEOCODE": "03010105010",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "DAGAEA ORO/ABATI",
+        "LATITUDE": -10.291639,
+        "LONGITUDE": 149.265354,
+        "REGHH": 9,
+        "TOTPOP2000": 44,
+        "MALE2000": 17,
+        "FEMALE2000": 27,
+        "POP2008": 52,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010105010,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 891,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.26240899977563,
+          -10.174266999722192
+        ]
+      },
+      "properties": {
+        "OBJECTID": 891,
+        "CU_NAME": "LAUA",
+        "CU_NO": "030",
+        "GEOCODE": "03010105030",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "DAGAEA ORO/ABATI",
+        "LATITUDE": -10.17573,
+        "LONGITUDE": 149.261407,
+        "REGHH": 19,
+        "TOTPOP2000": 91,
+        "MALE2000": 53,
+        "FEMALE2000": 38,
+        "POP2008": 107,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010105030,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 892,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3208890004271,
+          -10.323449000371
+        ]
+      },
+      "properties": {
+        "OBJECTID": 892,
+        "CU_NAME": "LOUPOM ISLAND",
+        "CU_NO": "031",
+        "GEOCODE": "03010105031",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "DAGAEA ORO/ABATI",
+        "LATITUDE": -10.322639,
+        "LONGITUDE": 149.321395,
+        "REGHH": 65,
+        "TOTPOP2000": 395,
+        "MALE2000": 211,
+        "FEMALE2000": 184,
+        "POP2008": 473,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010105031,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 893,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2803440003754,
+          -10.235897999992687
+        ]
+      },
+      "properties": {
+        "OBJECTID": 893,
+        "CU_NAME": "MAGORE",
+        "CU_NO": "033",
+        "GEOCODE": "03010105033",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "DAGAEA ORO/ABATI",
+        "LATITUDE": -10.237362,
+        "LONGITUDE": 149.279342,
+        "REGHH": 41,
+        "TOTPOP2000": 241,
+        "MALE2000": 128,
+        "FEMALE2000": 113,
+        "POP2008": 290,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010105033,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

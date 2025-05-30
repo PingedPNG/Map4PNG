@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12317,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0072499999876,
+          -5.5552289997185085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12317,
+        "CU_NAME": "KABI",
+        "CU_NO": "015",
+        "GEOCODE": "12092719015",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "27",
+        "WARD_NO": "19",
+        "WARD_NAME": "MABEY",
+        "LATITUDE": -5.554854,
+        "LONGITUDE": 148.007425,
+        "REGHH": 78,
+        "TOTPOP2000": 474,
+        "MALE2000": 237,
+        "FEMALE2000": 237,
+        "POP2008": 591,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092719015,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.04191100029254,
+          -5.582774000119969
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12318,
+        "CU_NAME": "KAMPALAP",
+        "CU_NO": "016",
+        "GEOCODE": "12092719016",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "27",
+        "WARD_NO": "19",
+        "WARD_NAME": "MABEY",
+        "LATITUDE": -5.584184,
+        "LONGITUDE": 148.040903,
+        "REGHH": 158,
+        "TOTPOP2000": 913,
+        "MALE2000": 442,
+        "FEMALE2000": 471,
+        "POP2008": 1139,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092719016,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4866,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.64949700028637,
+          -5.30488200040395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4866,
+        "CU_NAME": "BAKURIA NO.1",
+        "CU_NO": "019",
+        "GEOCODE": "18031032019",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "32",
+        "WARD_NAME": "KAVALE",
+        "LATITUDE": -5.306295,
+        "LONGITUDE": 151.648542,
+        "REGHH": 39,
+        "TOTPOP2000": 168,
+        "MALE2000": 87,
+        "FEMALE2000": 81,
+        "POP2008": 204,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031032019,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4867,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.67219700029136,
+          -5.283684000416258
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4867,
+        "CU_NAME": "BAKURIA NO.2",
+        "CU_NO": "020",
+        "GEOCODE": "18031032020",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "32",
+        "WARD_NAME": "KAVALE",
+        "LATITUDE": -5.285098,
+        "LONGITUDE": 151.671242,
+        "REGHH": 15,
+        "TOTPOP2000": 76,
+        "MALE2000": 32,
+        "FEMALE2000": 44,
+        "POP2008": 92,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031032020,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4868,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6629189996122,
+          -5.320618000320394
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4868,
+        "CU_NAME": "KULA",
+        "CU_NO": "021",
+        "GEOCODE": "18031032021",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "32",
+        "WARD_NAME": "KAVALE",
+        "LATITUDE": -5.322031,
+        "LONGITUDE": 151.661964,
+        "REGHH": 37,
+        "TOTPOP2000": 175,
+        "MALE2000": 92,
+        "FEMALE2000": 83,
+        "POP2008": 213,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031032021,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.73234499962211,
+          -5.323700000354677
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4869,
+        "CU_NAME": "KAVALE",
+        "CU_NO": "028",
+        "GEOCODE": "18031032028",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "32",
+        "WARD_NAME": "KAVALE",
+        "LATITUDE": -5.321753,
+        "LONGITUDE": 151.733463,
+        "REGHH": 29,
+        "TOTPOP2000": 156,
+        "MALE2000": 80,
+        "FEMALE2000": 76,
+        "POP2008": 189,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031032028,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4870,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6634879997714,
+          -5.2959300003691965
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4870,
+        "CU_NAME": "IRE",
+        "CU_NO": "029",
+        "GEOCODE": "18031032029",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "32",
+        "WARD_NAME": "KAVALE",
+        "LATITUDE": -5.297343,
+        "LONGITUDE": 151.662533,
+        "REGHH": 25,
+        "TOTPOP2000": 109,
+        "MALE2000": 45,
+        "FEMALE2000": 64,
+        "POP2008": 133,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031032029,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

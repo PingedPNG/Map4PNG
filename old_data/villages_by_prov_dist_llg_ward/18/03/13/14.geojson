@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5018,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.96194199982347,
+          -4.927073000218741
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5018,
+        "CU_NAME": "KAVUDEMKI VILLAGE",
+        "CU_NO": "002",
+        "GEOCODE": "18031314002",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "14",
+        "WARD_NAME": "KAVUDEMKI",
+        "LATITUDE": -4.928481,
+        "LONGITUDE": 151.960992,
+        "REGHH": 25,
+        "TOTPOP2000": 153,
+        "MALE2000": 74,
+        "FEMALE2000": 79,
+        "POP2008": 186,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031314002,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

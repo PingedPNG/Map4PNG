@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1652,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.67988799963155,
+          -9.80678900021212
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1652,
+        "CU_NAME": "KWIKILA 01",
+        "CU_NO": "001",
+        "GEOCODE": "03041181001",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "81",
+        "WARD_NAME": "KWIKILA URBAN",
+        "LATITUDE": -9.808244,
+        "LONGITUDE": 147.678865,
+        "REGHH": 25,
+        "TOTPOP2000": 179,
+        "MALE2000": 89,
+        "FEMALE2000": 90,
+        "POP2008": 214,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041181001,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1653,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6798869995854,
+          -9.806788000166023
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1653,
+        "CU_NAME": "KWIKILA 02",
+        "CU_NO": "002",
+        "GEOCODE": "03041181002",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "81",
+        "WARD_NAME": "KWIKILA URBAN",
+        "LATITUDE": -9.808243,
+        "LONGITUDE": 147.678864,
+        "REGHH": 35,
+        "TOTPOP2000": 224,
+        "MALE2000": 123,
+        "FEMALE2000": 101,
+        "POP2008": 268,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041181002,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1654,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6798889996777,
+          -9.806790000258275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1654,
+        "CU_NAME": "KWIKILA 03",
+        "CU_NO": "003",
+        "GEOCODE": "03041181003",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "81",
+        "WARD_NAME": "KWIKILA URBAN",
+        "LATITUDE": -9.808245,
+        "LONGITUDE": 147.678866,
+        "REGHH": 65,
+        "TOTPOP2000": 465,
+        "MALE2000": 237,
+        "FEMALE2000": 228,
+        "POP2008": 558,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041181003,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1655,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.67988600043861,
+          -9.806787000119925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1655,
+        "CU_NAME": "KWIKILA 04",
+        "CU_NO": "004",
+        "GEOCODE": "03041181004",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "81",
+        "WARD_NAME": "KWIKILA URBAN",
+        "LATITUDE": -9.808242,
+        "LONGITUDE": 147.678863,
+        "REGHH": 27,
+        "TOTPOP2000": 206,
+        "MALE2000": 116,
+        "FEMALE2000": 90,
+        "POP2008": 247,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041181004,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

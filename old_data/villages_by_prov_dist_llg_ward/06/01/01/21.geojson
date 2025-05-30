@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13071,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.21781300016994,
+          -8.552424000167434
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13071,
+        "CU_NAME": "BAKUBARI",
+        "CU_NO": "003",
+        "GEOCODE": "06010121003",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "BAKUBARI",
+        "LATITUDE": -8.557738,
+        "LONGITUDE": 148.223785,
+        "REGHH": 46,
+        "TOTPOP2000": 371,
+        "MALE2000": 192,
+        "FEMALE2000": 179,
+        "POP2008": 459,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010121003,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13072,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.18748099984828,
+          -8.545634000009045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13072,
+        "CU_NAME": "FUFUDA",
+        "CU_NO": "008",
+        "GEOCODE": "06010121008",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "BAKUBARI",
+        "LATITUDE": -8.547071,
+        "LONGITUDE": 148.188365,
+        "REGHH": 45,
+        "TOTPOP2000": 232,
+        "MALE2000": 127,
+        "FEMALE2000": 105,
+        "POP2008": 287,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010121008,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13073,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.21296999986566,
+          -8.527996999661752
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13073,
+        "CU_NAME": "URUGARI",
+        "CU_NO": "036",
+        "GEOCODE": "06010121036",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "BAKUBARI",
+        "LATITUDE": -8.522692,
+        "LONGITUDE": 148.215456,
+        "REGHH": 18,
+        "TOTPOP2000": 121,
+        "MALE2000": 67,
+        "FEMALE2000": 54,
+        "POP2008": 150,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010121036,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

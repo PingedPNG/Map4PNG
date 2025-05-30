@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19821,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.15970699957848,
+          -6.777959999654229
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19821,
+        "CU_NAME": "SOPISA",
+        "CU_NO": "009",
+        "GEOCODE": "07030817009",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "17",
+        "WARD_NAME": "SOPISA",
+        "LATITUDE": -6.787073,
+        "LONGITUDE": 144.156532,
+        "REGHH": 19,
+        "TOTPOP2000": 105,
+        "MALE2000": 58,
+        "FEMALE2000": 47,
+        "POP2008": 146,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030817009,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19822,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.15191199983894,
+          -6.777472999679162
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19822,
+        "CU_NAME": "WALETAO",
+        "CU_NO": "010",
+        "GEOCODE": "07030817010",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "17",
+        "WARD_NAME": "SOPISA",
+        "LATITUDE": -6.787073,
+        "LONGITUDE": 144.156532,
+        "REGHH": 10,
+        "TOTPOP2000": 77,
+        "MALE2000": 43,
+        "FEMALE2000": 34,
+        "POP2008": 106,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030817010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19823,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1559160001234,
+          -6.773413000409619
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19823,
+        "CU_NAME": "UBUATAO",
+        "CU_NO": "011",
+        "GEOCODE": "07030817011",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "17",
+        "WARD_NAME": "SOPISA",
+        "LATITUDE": -6.787073,
+        "LONGITUDE": 144.156532,
+        "REGHH": 8,
+        "TOTPOP2000": 72,
+        "MALE2000": 42,
+        "FEMALE2000": 30,
+        "POP2008": 100,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030817011,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

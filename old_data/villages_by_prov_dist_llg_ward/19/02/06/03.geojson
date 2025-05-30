@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17983,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2559609997004,
+          -4.997512000178631
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17983,
+        "CU_NAME": "UBILI",
+        "CU_NO": "014",
+        "GEOCODE": "19020603014",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "UBILI",
+        "LATITUDE": -4.99892,
+        "LONGITUDE": 151.255,
+        "REGHH": 95,
+        "TOTPOP2000": 646,
+        "MALE2000": 323,
+        "FEMALE2000": 323,
+        "POP2008": 851,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020603014,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17984,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2519679999233,
+          -5.0027729999738995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17984,
+        "CU_NAME": "ULAMONA CATHOLIC MISSION",
+        "CU_NO": "508",
+        "GEOCODE": "19020603508",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "UBILI",
+        "LATITUDE": -5.00417,
+        "LONGITUDE": 151.247,
+        "REGHH": 133,
+        "TOTPOP2000": 853,
+        "MALE2000": 454,
+        "FEMALE2000": 399,
+        "POP2008": 1123,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020603508,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

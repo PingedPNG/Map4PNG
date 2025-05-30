@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12276,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.62229899959925,
+          -5.303432000086673
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12276,
+        "CU_NAME": "AWAR",
+        "CU_NO": "006",
+        "GEOCODE": "12092701006",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "27",
+        "WARD_NO": "01",
+        "WARD_NAME": "BON",
+        "LATITUDE": -5.303934,
+        "LONGITUDE": 147.624068,
+        "REGHH": 42,
+        "TOTPOP2000": 262,
+        "MALE2000": 129,
+        "FEMALE2000": 133,
+        "POP2008": 327,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092701006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.56597500034604,
+          -5.293384999917748
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12277,
+        "CU_NAME": "BON",
+        "CU_NO": "010",
+        "GEOCODE": "12092701010",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "27",
+        "WARD_NO": "01",
+        "WARD_NAME": "BON",
+        "LATITUDE": -5.299314,
+        "LONGITUDE": 147.558129,
+        "REGHH": 29,
+        "TOTPOP2000": 165,
+        "MALE2000": 89,
+        "FEMALE2000": 76,
+        "POP2008": 206,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092701010,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12278,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.60027500019112,
+          -5.342202000122143
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12278,
+        "CU_NAME": "MULAU",
+        "CU_NO": "022",
+        "GEOCODE": "12092701022",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "27",
+        "WARD_NO": "01",
+        "WARD_NAME": "BON",
+        "LATITUDE": -5.343609,
+        "LONGITUDE": 147.599262,
+        "REGHH": 35,
+        "TOTPOP2000": 223,
+        "MALE2000": 120,
+        "FEMALE2000": 103,
+        "POP2008": 278,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092701022,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12279,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.62629100022957,
+          -5.3133859995641615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12279,
+        "CU_NAME": "TUL",
+        "CU_NO": "033",
+        "GEOCODE": "12092701033",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "27",
+        "WARD_NO": "01",
+        "WARD_NAME": "BON",
+        "LATITUDE": -5.321926,
+        "LONGITUDE": 147.622914,
+        "REGHH": 28,
+        "TOTPOP2000": 187,
+        "MALE2000": 89,
+        "FEMALE2000": 98,
+        "POP2008": 233,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092701033,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

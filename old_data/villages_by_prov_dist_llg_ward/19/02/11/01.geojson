@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.16497800043442,
+          -5.565485999679083
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18223,
+        "CU_NAME": "MOROKEA",
+        "CU_NO": "020",
+        "GEOCODE": "19021101020",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "NALABU",
+        "LATITUDE": -5.5669,
+        "LONGITUDE": 150.164,
+        "REGHH": 144,
+        "TOTPOP2000": 741,
+        "MALE2000": 402,
+        "FEMALE2000": 339,
+        "POP2008": 977,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19021101020,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.16897699958895,
+          -5.55291600007331
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18224,
+        "CU_NAME": "RUANGO",
+        "CU_NO": "023",
+        "GEOCODE": "19021101023",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "NALABU",
+        "LATITUDE": -5.55433,
+        "LONGITUDE": 150.168,
+        "REGHH": 79,
+        "TOTPOP2000": 466,
+        "MALE2000": 253,
+        "FEMALE2000": 213,
+        "POP2008": 613,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19021101023,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.17897700028834,
+          -5.576866000165751
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18225,
+        "CU_NAME": "MOROKEA VOP",
+        "CU_NO": "041",
+        "GEOCODE": "19021101041",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "NALABU",
+        "LATITUDE": -5.57828,
+        "LONGITUDE": 150.178,
+        "REGHH": 96,
+        "TOTPOP2000": 648,
+        "MALE2000": 358,
+        "FEMALE2000": 290,
+        "POP2008": 853,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19021101041,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.17897700028834,
+          -5.596386000113739
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18226,
+        "CU_NAME": "HUVENI / LOBE",
+        "CU_NO": "402",
+        "GEOCODE": "19021101402",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "NALABU",
+        "LATITUDE": -5.5978,
+        "LONGITUDE": 150.178,
+        "REGHH": 124,
+        "TOTPOP2000": 782,
+        "MALE2000": 442,
+        "FEMALE2000": 340,
+        "POP2008": 1028,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19021101402,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.2129769997888,
+          -5.576226000329598
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18227,
+        "CU_NAME": "DAGI SETTLEMENT (INCL. RUMES)",
+        "CU_NO": "502",
+        "GEOCODE": "19021101502",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "NALABU",
+        "LATITUDE": -5.57764,
+        "LONGITUDE": 150.212,
+        "REGHH": 151,
+        "TOTPOP2000": 1066,
+        "MALE2000": 584,
+        "FEMALE2000": 482,
+        "POP2008": 1403,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19021101502,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18228,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.21138099993323,
+          -5.589841999608552
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18228,
+        "CU_NAME": "KUMBANGO PLANTATION",
+        "CU_NO": "511",
+        "GEOCODE": "19021101511",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "NALABU",
+        "LATITUDE": -5.59287,
+        "LONGITUDE": 150.212,
+        "REGHH": 324,
+        "TOTPOP2000": 1523,
+        "MALE2000": 879,
+        "FEMALE2000": 644,
+        "POP2008": 2004,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19021101511,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

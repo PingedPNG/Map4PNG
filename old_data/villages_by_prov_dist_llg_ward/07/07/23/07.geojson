@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6362730001989,
+          -6.449955000223042
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21235,
+        "CU_NAME": "BANISA",
+        "CU_NO": "003",
+        "GEOCODE": "07072307003",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "07",
+        "WARD_NAME": "BANISA",
+        "LATITUDE": -6.452552,
+        "LONGITUDE": 142.632649,
+        "REGHH": 59,
+        "TOTPOP2000": 242,
+        "MALE2000": 123,
+        "FEMALE2000": 119,
+        "POP2008": 338,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072307003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.63486199988142,
+          -6.43548700032477
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21236,
+        "CU_NAME": "HASIF",
+        "CU_NO": "007",
+        "GEOCODE": "07072307007",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "07",
+        "WARD_NAME": "BANISA",
+        "LATITUDE": -6.44323,
+        "LONGITUDE": 142.633076,
+        "REGHH": 36,
+        "TOTPOP2000": 172,
+        "MALE2000": 86,
+        "FEMALE2000": 86,
+        "POP2008": 240,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072307007,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21237,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.63429899999892,
+          -6.442259999699161
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21237,
+        "CU_NAME": "WASOWEIDO",
+        "CU_NO": "033",
+        "GEOCODE": "07072307033",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "07",
+        "WARD_NAME": "BANISA",
+        "LATITUDE": -6.448738,
+        "LONGITUDE": 142.631796,
+        "REGHH": 46,
+        "TOTPOP2000": 230,
+        "MALE2000": 127,
+        "FEMALE2000": 103,
+        "POP2008": 320,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072307033,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

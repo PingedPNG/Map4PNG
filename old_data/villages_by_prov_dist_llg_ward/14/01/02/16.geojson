@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.67441099986786,
+          -3.5668920001656375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6105,
+        "CU_NAME": "ALBULUM",
+        "CU_NO": "001",
+        "GEOCODE": "14010216001",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "16",
+        "WARD_NAME": "YAVATONG",
+        "LATITUDE": -3.568469,
+        "LONGITUDE": 142.673166,
+        "REGHH": 84,
+        "TOTPOP2000": 376,
+        "MALE2000": 191,
+        "FEMALE2000": 185,
+        "POP2008": 447,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010216001,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.67315000017243,
+          -3.590294000167944
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6106,
+        "CU_NAME": "KILMANGLENG",
+        "CU_NO": "002",
+        "GEOCODE": "14010216002",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "16",
+        "WARD_NAME": "YAVATONG",
+        "LATITUDE": -3.591871,
+        "LONGITUDE": 142.671906,
+        "REGHH": 64,
+        "TOTPOP2000": 307,
+        "MALE2000": 152,
+        "FEMALE2000": 155,
+        "POP2008": 366,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010216002,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.68022399993777,
+          -3.5917360001162706
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6107,
+        "CU_NAME": "WINGAMON",
+        "CU_NO": "008",
+        "GEOCODE": "14010216008",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "16",
+        "WARD_NAME": "YAVATONG",
+        "LATITUDE": -3.593313,
+        "LONGITUDE": 142.678979,
+        "REGHH": 24,
+        "TOTPOP2000": 111,
+        "MALE2000": 57,
+        "FEMALE2000": 54,
+        "POP2008": 133,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010216008,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6875739998403,
+          -3.566064999799835
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6108,
+        "CU_NAME": "YAVATONG",
+        "CU_NO": "011",
+        "GEOCODE": "14010216011",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "16",
+        "WARD_NAME": "YAVATONG",
+        "LATITUDE": -3.569177,
+        "LONGITUDE": 142.6843,
+        "REGHH": 61,
+        "TOTPOP2000": 279,
+        "MALE2000": 148,
+        "FEMALE2000": 131,
+        "POP2008": 332,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010216011,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.70657004037514,
+          -3.602226959606469
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6109,
+        "CU_NAME": "MANGUALM",
+        "CU_NO": "013",
+        "GEOCODE": "14010216013",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "16",
+        "WARD_NAME": "YAVATONG",
+        "LATITUDE": -3.60271,
+        "LONGITUDE": 142.707217,
+        "REGHH": 23,
+        "TOTPOP2000": 95,
+        "MALE2000": 53,
+        "FEMALE2000": 42,
+        "POP2008": 111,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010216013,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.68950599990205,
+          -3.5686840000665256
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6110,
+        "CU_NAME": "YAVATONG C/SCH",
+        "CU_NO": "402",
+        "GEOCODE": "14010216402",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "16",
+        "WARD_NAME": "YAVATONG",
+        "LATITUDE": -3.570261,
+        "LONGITUDE": 142.688261,
+        "REGHH": 2,
+        "TOTPOP2000": 13,
+        "MALE2000": 4,
+        "FEMALE2000": 9,
+        "POP2008": 13,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010216402,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

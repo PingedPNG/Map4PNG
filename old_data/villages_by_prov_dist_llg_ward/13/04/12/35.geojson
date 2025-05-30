@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8889,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.20258200035914,
+          -5.3909030003731
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8889,
+        "CU_NAME": "BOK",
+        "CU_NO": "001",
+        "GEOCODE": "13041235001",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "35",
+        "WARD_NAME": "WARD 35",
+        "LATITUDE": -5.39231,
+        "LONGITUDE": 147.205795,
+        "REGHH": 39,
+        "TOTPOP2000": 242,
+        "MALE2000": 119,
+        "FEMALE2000": 123,
+        "POP2008": 300,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041235001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8890,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.20268899989753,
+          -5.356194999699426
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8890,
+        "CU_NAME": "KAUT",
+        "CU_NO": "002",
+        "GEOCODE": "13041235002",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "35",
+        "WARD_NAME": "WARD 35",
+        "LATITUDE": -5.357601,
+        "LONGITUDE": 147.20167,
+        "REGHH": 75,
+        "TOTPOP2000": 358,
+        "MALE2000": 184,
+        "FEMALE2000": 174,
+        "POP2008": 443,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041235002,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

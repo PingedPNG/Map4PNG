@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18122,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.40697399955047,
+          -5.445556999955556
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18122,
+        "CU_NAME": "KASSIA",
+        "CU_NO": "011",
+        "GEOCODE": "19020803011",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "03",
+        "WARD_NAME": "HOSKINS",
+        "LATITUDE": -5.44697,
+        "LONGITUDE": 150.406,
+        "REGHH": 98,
+        "TOTPOP2000": 702,
+        "MALE2000": 351,
+        "FEMALE2000": 351,
+        "POP2008": 923,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020803011,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18123,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.41497399975037,
+          -5.460617000174352
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18123,
+        "CU_NAME": "KASSIA BLOCKS",
+        "CU_NO": "012",
+        "GEOCODE": "19020803012",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "03",
+        "WARD_NAME": "HOSKINS",
+        "LATITUDE": -5.46203,
+        "LONGITUDE": 150.414,
+        "REGHH": 35,
+        "TOTPOP2000": 221,
+        "MALE2000": 116,
+        "FEMALE2000": 105,
+        "POP2008": 292,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020803012,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18124,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4083659998911,
+          -5.478654000081974
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18124,
+        "CU_NAME": "HOSKINS SECONDARY SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "19020803401",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "03",
+        "WARD_NAME": "HOSKINS",
+        "LATITUDE": -5.47887,
+        "LONGITUDE": 150.409,
+        "REGHH": 21,
+        "TOTPOP2000": 107,
+        "MALE2000": 58,
+        "FEMALE2000": 49,
+        "POP2008": 141,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020803401,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18125,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.40397399970038,
+          -5.456917000419196
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18125,
+        "CU_NAME": "HOSKINS AIRPORT",
+        "CU_NO": "402",
+        "GEOCODE": "19020803402",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "03",
+        "WARD_NAME": "HOSKINS",
+        "LATITUDE": -5.45833,
+        "LONGITUDE": 150.403,
+        "REGHH": 6,
+        "TOTPOP2000": 32,
+        "MALE2000": 19,
+        "FEMALE2000": 13,
+        "POP2008": 40,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020803402,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

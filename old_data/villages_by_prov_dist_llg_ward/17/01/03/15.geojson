@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12563,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.15212700026098,
+          -2.8743269999910126
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12563,
+        "CU_NAME": "PANAMAFEI",
+        "CU_NO": "011",
+        "GEOCODE": "17010315011",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "15",
+        "WARD_NAME": "PANGEIFUA",
+        "LATITUDE": -2.872382,
+        "LONGITUDE": 151.151488,
+        "REGHH": 33,
+        "TOTPOP2000": 211,
+        "MALE2000": 106,
+        "FEMALE2000": 105,
+        "POP2008": 264,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010315011,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12564,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.19694100022707,
+          -2.919061999911321
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12564,
+        "CU_NAME": "PANAGAI",
+        "CU_NO": "013",
+        "GEOCODE": "17010315013",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "15",
+        "WARD_NAME": "PANGEIFUA",
+        "LATITUDE": -2.920442,
+        "LONGITUDE": 151.195982,
+        "REGHH": 24,
+        "TOTPOP2000": 144,
+        "MALE2000": 73,
+        "FEMALE2000": 71,
+        "POP2008": 181,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010315013,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12565,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.18294000028084,
+          -2.9053529999409307
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12565,
+        "CU_NAME": "PANGEIFUA",
+        "CU_NO": "014",
+        "GEOCODE": "17010315014",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "15",
+        "WARD_NAME": "PANGEIFUA",
+        "LATITUDE": -2.906733,
+        "LONGITUDE": 151.181981,
+        "REGHH": 27,
+        "TOTPOP2000": 169,
+        "MALE2000": 83,
+        "FEMALE2000": 86,
+        "POP2008": 212,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010315014,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12566,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1621270000611,
+          -2.890710000066406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12566,
+        "CU_NAME": "PARACHUCUP",
+        "CU_NO": "015",
+        "GEOCODE": "17010315015",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "15",
+        "WARD_NAME": "PANGEIFUA",
+        "LATITUDE": -2.89209,
+        "LONGITUDE": 151.161167,
+        "REGHH": 28,
+        "TOTPOP2000": 150,
+        "MALE2000": 76,
+        "FEMALE2000": 74,
+        "POP2008": 188,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010315015,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

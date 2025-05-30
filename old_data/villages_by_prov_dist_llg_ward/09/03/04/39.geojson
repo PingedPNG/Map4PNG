@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16786,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2439280001771,
+          -5.839082000034239
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16786,
+        "CU_NAME": "KUGURAMP",
+        "CU_NO": "015",
+        "GEOCODE": "09030439015",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "39",
+        "WARD_NAME": "KUGURAMP",
+        "LATITUDE": -5.840709,
+        "LONGITUDE": 144.244187,
+        "REGHH": 93,
+        "TOTPOP2000": 385,
+        "MALE2000": 192,
+        "FEMALE2000": 193,
+        "POP2008": 469,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030439015,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16787,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2437069998782,
+          -5.840555999659614
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16787,
+        "CU_NAME": "KOROBUL",
+        "CU_NO": "016",
+        "GEOCODE": "09030439016",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "39",
+        "WARD_NAME": "KUGURAMP",
+        "LATITUDE": -5.840709,
+        "LONGITUDE": 144.244187,
+        "REGHH": 41,
+        "TOTPOP2000": 187,
+        "MALE2000": 90,
+        "FEMALE2000": 97,
+        "POP2008": 228,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030439016,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16788,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.24321299958035,
+          -5.839720999824237
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16788,
+        "CU_NAME": "RUGUWA",
+        "CU_NO": "017",
+        "GEOCODE": "09030439017",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "39",
+        "WARD_NAME": "KUGURAMP",
+        "LATITUDE": -5.840709,
+        "LONGITUDE": 144.244187,
+        "REGHH": 116,
+        "TOTPOP2000": 573,
+        "MALE2000": 287,
+        "FEMALE2000": 286,
+        "POP2008": 698,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030439017,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

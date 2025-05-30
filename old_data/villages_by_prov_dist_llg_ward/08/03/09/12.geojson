@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5720,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.12202999978467,
+          -5.482459000182644
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5720,
+        "CU_NAME": "UPPER MAPINGI",
+        "CU_NO": "001",
+        "GEOCODE": "08030912001",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "YANJIKALE",
+        "LATITUDE": -5.482064,
+        "LONGITUDE": 143.122214,
+        "REGHH": 196,
+        "TOTPOP2000": 1565,
+        "MALE2000": 888,
+        "FEMALE2000": 677,
+        "POP2008": 1966,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030912001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5721,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.12507599995752,
+          -5.470728999743471
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5721,
+        "CU_NAME": "LOWER MAPINGI",
+        "CU_NO": "002",
+        "GEOCODE": "08030912002",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "YANJIKALE",
+        "LATITUDE": -5.473922,
+        "LONGITUDE": 143.12401,
+        "REGHH": 145,
+        "TOTPOP2000": 1074,
+        "MALE2000": 596,
+        "FEMALE2000": 478,
+        "POP2008": 1350,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030912002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

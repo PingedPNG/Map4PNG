@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5179,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.07731499988745,
+          -4.094169999845576
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5179,
+        "CU_NAME": "RAKIVAL",
+        "CU_NO": "001",
+        "GEOCODE": "18041801001",
+        "PROV_KEY": "18",
+        "DIST_NO": "04",
+        "LLG_NO": "18",
+        "WARD_NO": "01",
+        "WARD_NAME": "RAKIVAL",
+        "LATITUDE": -4.095567,
+        "LONGITUDE": 152.076368,
+        "REGHH": 45,
+        "TOTPOP2000": 296,
+        "MALE2000": 154,
+        "FEMALE2000": 142,
+        "POP2008": 361,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18041801001,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.62781799960112,
+          -6.509486999925059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10869,
+        "CU_NAME": "MAIWANENG",
+        "CU_NO": "002",
+        "GEOCODE": "12020813002",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "SAMANTIKI",
+        "LATITUDE": -6.508393,
+        "LONGITUDE": 147.625682,
+        "REGHH": 39,
+        "TOTPOP2000": 212,
+        "MALE2000": 103,
+        "FEMALE2000": 109,
+        "POP2008": 264,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020813002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10870,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6637209996245,
+          -6.4905000002747215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10870,
+        "CU_NAME": "SAMANTIKI",
+        "CU_NO": "033",
+        "GEOCODE": "12020813033",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "SAMANTIKI",
+        "LATITUDE": -6.489734,
+        "LONGITUDE": 147.661453,
+        "REGHH": 57,
+        "TOTPOP2000": 304,
+        "MALE2000": 155,
+        "FEMALE2000": 149,
+        "POP2008": 380,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020813033,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10871,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.68542000023285,
+          -6.525582000209113
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10871,
+        "CU_NAME": "ZAZAGUO",
+        "CU_NO": "052",
+        "GEOCODE": "12020813052",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "SAMANTIKI",
+        "LATITUDE": -6.52729,
+        "LONGITUDE": 147.677979,
+        "REGHH": 12,
+        "TOTPOP2000": 64,
+        "MALE2000": 28,
+        "FEMALE2000": 36,
+        "POP2008": 80,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020813052,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10872,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.68111999978828,
+          -6.492407000082949
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10872,
+        "CU_NAME": "FONDENGKO",
+        "CU_NO": "054",
+        "GEOCODE": "12020813054",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "SAMANTIKI",
+        "LATITUDE": -6.493827,
+        "LONGITUDE": 147.680106,
+        "REGHH": 24,
+        "TOTPOP2000": 132,
+        "MALE2000": 65,
+        "FEMALE2000": 67,
+        "POP2008": 164,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020813054,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

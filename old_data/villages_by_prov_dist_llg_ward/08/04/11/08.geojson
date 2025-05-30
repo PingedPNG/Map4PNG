@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5773,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.670733000028,
+          -5.4603129996451685
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5773,
+        "CU_NAME": "SOPAS",
+        "CU_NO": "008",
+        "GEOCODE": "08041108008",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "08",
+        "WARD_NAME": "SOPAS",
+        "LATITUDE": -5.461206,
+        "LONGITUDE": 143.67067,
+        "REGHH": 20,
+        "TOTPOP2000": 83,
+        "MALE2000": 39,
+        "FEMALE2000": 44,
+        "POP2008": 105,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041108008,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5774,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6648870002349,
+          -5.463554999863334
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5774,
+        "CU_NAME": "KEPAKANDA",
+        "CU_NO": "009",
+        "GEOCODE": "08041108009",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "08",
+        "WARD_NAME": "SOPAS",
+        "LATITUDE": -5.462532,
+        "LONGITUDE": 143.66572,
+        "REGHH": 32,
+        "TOTPOP2000": 113,
+        "MALE2000": 56,
+        "FEMALE2000": 57,
+        "POP2008": 142,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041108009,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5775,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.67977999994707,
+          -5.460667999828274
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5775,
+        "CU_NAME": "LAKAIYOK",
+        "CU_NO": "010",
+        "GEOCODE": "08041108010",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "08",
+        "WARD_NAME": "SOPAS",
+        "LATITUDE": -5.462069,
+        "LONGITUDE": 143.678715,
+        "REGHH": 30,
+        "TOTPOP2000": 185,
+        "MALE2000": 95,
+        "FEMALE2000": 90,
+        "POP2008": 233,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041108010,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5776,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5829990002038,
+          -5.464542000412962
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5776,
+        "CU_NAME": "LYAINLYAM",
+        "CU_NO": "011",
+        "GEOCODE": "08041108011",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "08",
+        "WARD_NAME": "SOPAS",
+        "LATITUDE": -5.465943,
+        "LONGITUDE": 143.581933,
+        "REGHH": 49,
+        "TOTPOP2000": 283,
+        "MALE2000": 163,
+        "FEMALE2000": 120,
+        "POP2008": 355,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041108011,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5777,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.66346100012515,
+          -5.467617000124392
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5777,
+        "CU_NAME": "SOPAS INT. C/SCH MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "08041108401",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "08",
+        "WARD_NAME": "SOPAS",
+        "LATITUDE": -5.467387,
+        "LONGITUDE": 143.666808,
+        "REGHH": 25,
+        "TOTPOP2000": 244,
+        "MALE2000": 106,
+        "FEMALE2000": 138,
+        "POP2008": 306,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041108401,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

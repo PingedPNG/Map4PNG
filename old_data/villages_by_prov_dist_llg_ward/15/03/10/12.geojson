@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18753,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.61049200040554,
+          -5.144581999659522
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18753,
+        "CU_NAME": "BOGLAMIN",
+        "CU_NO": "008",
+        "GEOCODE": "15031012008",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "BOGALMIN",
+        "LATITUDE": -5.145977,
+        "LONGITUDE": 141.609402,
+        "REGHH": 22,
+        "TOTPOP2000": 195,
+        "MALE2000": 91,
+        "FEMALE2000": 104,
+        "POP2008": 236,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031012008,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18754,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.62683699962793,
+          -5.1385890002820815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18754,
+        "CU_NAME": "FRAMTIGIN",
+        "CU_NO": "012",
+        "GEOCODE": "15031012012",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "BOGALMIN",
+        "LATITUDE": -5.139984,
+        "LONGITUDE": 141.625747,
+        "REGHH": 11,
+        "TOTPOP2000": 86,
+        "MALE2000": 47,
+        "FEMALE2000": 39,
+        "POP2008": 102,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031012012,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.62661099999775,
+          -5.147474999971223
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18755,
+        "CU_NAME": "TELEFOLIP",
+        "CU_NO": "029",
+        "GEOCODE": "15031012029",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "BOGALMIN",
+        "LATITUDE": -5.14887,
+        "LONGITUDE": 141.625521,
+        "REGHH": 36,
+        "TOTPOP2000": 219,
+        "MALE2000": 115,
+        "FEMALE2000": 104,
+        "POP2008": 264,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031012029,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

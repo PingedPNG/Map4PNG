@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15584,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64577700030839,
+          -8.231766999647277
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15584,
+        "CU_NAME": "TIRE'ERE",
+        "CU_NO": "021",
+        "GEOCODE": "01031209021",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "09",
+        "WARD_NAME": "TIRE'ERE",
+        "LATITUDE": -8.233195,
+        "LONGITUDE": 143.644705,
+        "REGHH": 103,
+        "TOTPOP2000": 866,
+        "MALE2000": 460,
+        "FEMALE2000": 406,
+        "POP2008": 1126,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031209021,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

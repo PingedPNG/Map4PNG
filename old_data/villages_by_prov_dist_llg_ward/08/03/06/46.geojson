@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5626,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5093859995643,
+          -5.40585800024644
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5626,
+        "CU_NAME": "KULITA",
+        "CU_NO": "001",
+        "GEOCODE": "08030646001",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "46",
+        "WARD_NAME": "KULITA",
+        "LATITUDE": -5.407259,
+        "LONGITUDE": 143.508319,
+        "REGHH": 21,
+        "TOTPOP2000": 88,
+        "MALE2000": 51,
+        "FEMALE2000": 37,
+        "POP2008": 112,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030646001,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

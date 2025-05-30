@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.65073299972823,
+          -3.8028169999045645
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6185,
+        "CU_NAME": "BONGOMASI",
+        "CU_NO": "006",
+        "GEOCODE": "14010310006",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "BONGOMASI",
+        "LATITUDE": -3.803884,
+        "LONGITUDE": 142.649997,
+        "REGHH": 120,
+        "TOTPOP2000": 566,
+        "MALE2000": 283,
+        "FEMALE2000": 283,
+        "POP2008": 673,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010310006,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

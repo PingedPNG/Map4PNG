@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19669,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6469379998889,
+          -6.266975000395917
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19669,
+        "CU_NAME": "MEGI",
+        "CU_NO": "006",
+        "GEOCODE": "07020712006",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "12",
+        "WARD_NAME": "MEGI",
+        "LATITUDE": -6.271121,
+        "LONGITUDE": 143.647958,
+        "REGHH": 29,
+        "TOTPOP2000": 150,
+        "MALE2000": 72,
+        "FEMALE2000": 78,
+        "POP2008": 208,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020712006,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19670,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64888499974302,
+          -6.269168999949329
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19670,
+        "CU_NAME": "RETAH",
+        "CU_NO": "007",
+        "GEOCODE": "07020712007",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "12",
+        "WARD_NAME": "MEGI",
+        "LATITUDE": -6.271121,
+        "LONGITUDE": 143.647958,
+        "REGHH": 22,
+        "TOTPOP2000": 137,
+        "MALE2000": 74,
+        "FEMALE2000": 63,
+        "POP2008": 191,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020712007,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19671,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6519380002386,
+          -6.26659700005149
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19671,
+        "CU_NAME": "PANGERE",
+        "CU_NO": "008",
+        "GEOCODE": "07020712008",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "12",
+        "WARD_NAME": "MEGI",
+        "LATITUDE": -6.271121,
+        "LONGITUDE": 143.647958,
+        "REGHH": 28,
+        "TOTPOP2000": 206,
+        "MALE2000": 93,
+        "FEMALE2000": 113,
+        "POP2008": 287,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020712008,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19672,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6495489997866,
+          -6.265756999985513
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19672,
+        "CU_NAME": "AKITA",
+        "CU_NO": "009",
+        "GEOCODE": "07020712009",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "12",
+        "WARD_NAME": "MEGI",
+        "LATITUDE": -6.271121,
+        "LONGITUDE": 143.647958,
+        "REGHH": 27,
+        "TOTPOP2000": 142,
+        "MALE2000": 73,
+        "FEMALE2000": 69,
+        "POP2008": 197,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020712009,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64758400000164,
+          -6.264488999967341
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19673,
+        "CU_NAME": "KUNDIPI",
+        "CU_NO": "010",
+        "GEOCODE": "07020712010",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "12",
+        "WARD_NAME": "MEGI",
+        "LATITUDE": -6.271121,
+        "LONGITUDE": 143.647958,
+        "REGHH": 25,
+        "TOTPOP2000": 129,
+        "MALE2000": 54,
+        "FEMALE2000": 75,
+        "POP2008": 179,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020712010,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

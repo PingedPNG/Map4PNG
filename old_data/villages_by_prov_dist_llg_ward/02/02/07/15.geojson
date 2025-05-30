@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7654,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.04222400003766,
+          -7.648925999835001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7654,
+        "CU_NAME": "AIKAVARAVI",
+        "CU_NO": "001",
+        "GEOCODE": "02020715001",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "15",
+        "WARD_NAME": "AIKAVARAVI",
+        "LATITUDE": -7.648929,
+        "LONGITUDE": 145.041893,
+        "REGHH": 51,
+        "TOTPOP2000": 358,
+        "MALE2000": 195,
+        "FEMALE2000": 163,
+        "POP2008": 440,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020715001,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

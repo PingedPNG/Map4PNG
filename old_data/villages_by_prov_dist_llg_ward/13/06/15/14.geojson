@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9173,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2229349995506,
+          -5.741917999715895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9173,
+        "CU_NAME": "ARANAM",
+        "CU_NO": "001",
+        "GEOCODE": "13061514001",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "14",
+        "WARD_NAME": "WARD 14",
+        "LATITUDE": -5.743325,
+        "LONGITUDE": 145.221889,
+        "REGHH": 17,
+        "TOTPOP2000": 101,
+        "MALE2000": 53,
+        "FEMALE2000": 48,
+        "POP2008": 125,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061514001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.23025800000676,
+          -5.741309000410013
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9174,
+        "CU_NAME": "MONDINONGRA",
+        "CU_NO": "021",
+        "GEOCODE": "13061514021",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "14",
+        "WARD_NAME": "WARD 14",
+        "LATITUDE": -5.742716,
+        "LONGITUDE": 145.229212,
+        "REGHH": 36,
+        "TOTPOP2000": 211,
+        "MALE2000": 111,
+        "FEMALE2000": 100,
+        "POP2008": 262,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061514021,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.21247400007508,
+          -5.7640450002764965
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9175,
+        "CU_NAME": "MIKAINAMBA/PISIGAMI",
+        "CU_NO": "022",
+        "GEOCODE": "13061514022",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "14",
+        "WARD_NAME": "WARD 14",
+        "LATITUDE": -5.765452,
+        "LONGITUDE": 145.211428,
+        "REGHH": 15,
+        "TOTPOP2000": 81,
+        "MALE2000": 40,
+        "FEMALE2000": 41,
+        "POP2008": 99,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061514022,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9176,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.23628400000666,
+          -5.742531000105544
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9176,
+        "CU_NAME": "BUNDI C/MISS.",
+        "CU_NO": "401",
+        "GEOCODE": "13061514401",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "14",
+        "WARD_NAME": "WARD 14",
+        "LATITUDE": -5.743938,
+        "LONGITUDE": 145.235238,
+        "REGHH": 12,
+        "TOTPOP2000": 61,
+        "MALE2000": 33,
+        "FEMALE2000": 28,
+        "POP2008": 77,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061514401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

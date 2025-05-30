@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11780,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.54590999974675,
+          -6.204986999850121
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11780,
+        "CU_NAME": "WARAMBUNG",
+        "CU_NO": "022",
+        "GEOCODE": "12061915022",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "15",
+        "WARD_NAME": "KAMANG",
+        "LATITUDE": -6.206402,
+        "LONGITUDE": 146.544881,
+        "REGHH": 49,
+        "TOTPOP2000": 213,
+        "MALE2000": 123,
+        "FEMALE2000": 90,
+        "POP2008": 265,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061915022,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11781,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.54211700019948,
+          -6.22098300006536
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11781,
+        "CU_NAME": "KAMANG",
+        "CU_NO": "023",
+        "GEOCODE": "12061915023",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "15",
+        "WARD_NAME": "KAMANG",
+        "LATITUDE": -6.222396,
+        "LONGITUDE": 146.539384,
+        "REGHH": 55,
+        "TOTPOP2000": 276,
+        "MALE2000": 130,
+        "FEMALE2000": 146,
+        "POP2008": 344,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061915023,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11782,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5391110000727,
+          -6.185946000407569
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11782,
+        "CU_NAME": "KANDUMIN",
+        "CU_NO": "024",
+        "GEOCODE": "12061915024",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "15",
+        "WARD_NAME": "KAMANG",
+        "LATITUDE": -6.18736,
+        "LONGITUDE": 146.538082,
+        "REGHH": 11,
+        "TOTPOP2000": 49,
+        "MALE2000": 25,
+        "FEMALE2000": 24,
+        "POP2008": 60,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061915024,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

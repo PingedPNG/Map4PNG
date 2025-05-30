@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18925,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.63650899959077,
+          -2.836266000275657
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18925,
+        "CU_NAME": "ISI",
+        "CU_NO": "001",
+        "GEOCODE": "15041311001",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "11",
+        "WARD_NAME": "LAITRE",
+        "LATITUDE": -2.836968,
+        "LONGITUDE": 141.635393,
+        "REGHH": 31,
+        "TOTPOP2000": 298,
+        "MALE2000": 156,
+        "FEMALE2000": 142,
+        "POP2008": 359,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041311001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18926,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.6153909996949,
+          -2.8284450002365134
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18926,
+        "CU_NAME": "PINO",
+        "CU_NO": "005",
+        "GEOCODE": "15041311005",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "11",
+        "WARD_NAME": "LAITRE",
+        "LATITUDE": -2.829816,
+        "LONGITUDE": 141.61867,
+        "REGHH": 38,
+        "TOTPOP2000": 327,
+        "MALE2000": 153,
+        "FEMALE2000": 174,
+        "POP2008": 395,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041311005,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18927,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.6252419998185,
+          -2.8310659996960794
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18927,
+        "CU_NAME": "LAITRE CM",
+        "CU_NO": "401",
+        "GEOCODE": "15041311401",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "11",
+        "WARD_NAME": "LAITRE",
+        "LATITUDE": -2.832437,
+        "LONGITUDE": 141.624155,
+        "REGHH": 8,
+        "TOTPOP2000": 37,
+        "MALE2000": 17,
+        "FEMALE2000": 20,
+        "POP2008": 45,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041311401,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

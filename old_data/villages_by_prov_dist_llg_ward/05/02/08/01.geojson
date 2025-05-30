@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9841,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.91966400009358,
+          -10.662500000174816
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9841,
+        "CU_NAME": "BUIARI ISLAND",
+        "CU_NO": "003",
+        "GEOCODE": "05020801003",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAMAMA",
+        "LATITUDE": -10.663973,
+        "LONGITUDE": 150.918685,
+        "REGHH": 61,
+        "TOTPOP2000": 377,
+        "MALE2000": 208,
+        "FEMALE2000": 169,
+        "POP2008": 459,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020801003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9842,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.95577299972422,
+          -10.59296799977335
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9842,
+        "CU_NAME": "HAMAMA",
+        "CU_NO": "008",
+        "GEOCODE": "05020801008",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAMAMA",
+        "LATITUDE": -10.592265,
+        "LONGITUDE": 150.954496,
+        "REGHH": 32,
+        "TOTPOP2000": 237,
+        "MALE2000": 136,
+        "FEMALE2000": 101,
+        "POP2008": 289,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020801008,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

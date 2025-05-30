@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17749,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.64442399986774,
+          -5.492332000421413
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17749,
+        "CU_NAME": "AKONGA",
+        "CU_NO": "001",
+        "GEOCODE": "19010207001",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "07",
+        "WARD_NAME": "ALAIDO",
+        "LATITUDE": -5.49141,
+        "LONGITUDE": 148.646,
+        "REGHH": 53,
+        "TOTPOP2000": 281,
+        "MALE2000": 133,
+        "FEMALE2000": 148,
+        "POP2008": 371,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010207001,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17750,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.62011700039932,
+          -5.498844000350289
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17750,
+        "CU_NAME": "ALAIDO",
+        "CU_NO": "002",
+        "GEOCODE": "19010207002",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "07",
+        "WARD_NAME": "ALAIDO",
+        "LATITUDE": -5.500254,
+        "LONGITUDE": 148.619117,
+        "REGHH": 42,
+        "TOTPOP2000": 217,
+        "MALE2000": 100,
+        "FEMALE2000": 117,
+        "POP2008": 286,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010207002,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.6371170001495,
+          -5.49088600028864
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17751,
+        "CU_NAME": "BAMBAK",
+        "CU_NO": "003",
+        "GEOCODE": "19010207003",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "07",
+        "WARD_NAME": "ALAIDO",
+        "LATITUDE": -5.492296,
+        "LONGITUDE": 148.636118,
+        "REGHH": 17,
+        "TOTPOP2000": 112,
+        "MALE2000": 53,
+        "FEMALE2000": 59,
+        "POP2008": 147,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010207003,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17752,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.63026499982993,
+          -5.4968680000581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17752,
+        "CU_NAME": "MAREKA",
+        "CU_NO": "007",
+        "GEOCODE": "19010207007",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "07",
+        "WARD_NAME": "ALAIDO",
+        "LATITUDE": -5.49797,
+        "LONGITUDE": 148.629,
+        "REGHH": 18,
+        "TOTPOP2000": 102,
+        "MALE2000": 52,
+        "FEMALE2000": 50,
+        "POP2008": 135,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010207007,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17753,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.63142999959484,
+          -5.492702000396946
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17753,
+        "CU_NAME": "NAMARAMANGA",
+        "CU_NO": "008",
+        "GEOCODE": "19010207008",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "07",
+        "WARD_NAME": "ALAIDO",
+        "LATITUDE": -5.494112,
+        "LONGITUDE": 148.630431,
+        "REGHH": 19,
+        "TOTPOP2000": 93,
+        "MALE2000": 51,
+        "FEMALE2000": 42,
+        "POP2008": 122,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010207008,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

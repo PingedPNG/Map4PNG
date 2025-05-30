@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30340,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.74479723960098,
+          -7.0763984099585855
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30340,
+        "CU_NAME": "SINE",
+        "CU_NO": "002",
+        "GEOCODE": "11060911002",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "11",
+        "WARD_NAME": "SINEI",
+        "LATITUDE": -7.076398,
+        "LONGITUDE": 145.744797,
+        "REGHH": 15,
+        "TOTPOP2000": 77,
+        "MALE2000": 42,
+        "FEMALE2000": 35,
+        "POP2008": 93,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30341,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.72604339998304,
+          -7.06811247031419
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30341,
+        "CU_NAME": "KWALIO",
+        "CU_NO": "009",
+        "GEOCODE": "11060911009",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "11",
+        "WARD_NAME": "SINEI",
+        "LATITUDE": -7.068112,
+        "LONGITUDE": 145.726043,
+        "REGHH": 30,
+        "TOTPOP2000": 146,
+        "MALE2000": 75,
+        "FEMALE2000": 71,
+        "POP2008": 173,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.66797900033066,
+          -7.104215969691211
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30342,
+        "CU_NAME": "WIAWIA",
+        "CU_NO": "010",
+        "GEOCODE": "11060911010",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "11",
+        "WARD_NAME": "SINEI",
+        "LATITUDE": -7.104216,
+        "LONGITUDE": 145.667979,
+        "REGHH": 34,
+        "TOTPOP2000": 160,
+        "MALE2000": 92,
+        "FEMALE2000": 68,
+        "POP2008": 192,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30343,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70881595988874,
+          -7.122545010044121
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30343,
+        "CU_NAME": "KUALERE",
+        "CU_NO": "011",
+        "GEOCODE": "11060911011",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "11",
+        "WARD_NAME": "SINEI",
+        "LATITUDE": -7.122545,
+        "LONGITUDE": 145.708816,
+        "REGHH": 7,
+        "TOTPOP2000": 30,
+        "MALE2000": 17,
+        "FEMALE2000": 13,
+        "POP2008": 38,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30344,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70221104020743,
+          -7.107911999838848
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30344,
+        "CU_NAME": "NOLONKWANZI",
+        "CU_NO": "012",
+        "GEOCODE": "11060911012",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "11",
+        "WARD_NAME": "SINEI",
+        "LATITUDE": -7.107912,
+        "LONGITUDE": 145.702211,
+        "REGHH": 20,
+        "TOTPOP2000": 104,
+        "MALE2000": 49,
+        "FEMALE2000": 55,
+        "POP2008": 123,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

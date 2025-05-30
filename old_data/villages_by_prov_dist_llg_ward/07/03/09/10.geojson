@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.86733300021785,
+          -6.400322000160145
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19888,
+        "CU_NAME": "KALA",
+        "CU_NO": "003",
+        "GEOCODE": "07030910003",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "10",
+        "WARD_NAME": "MARILI",
+        "LATITUDE": -6.396056,
+        "LONGITUDE": 143.864207,
+        "REGHH": 38,
+        "TOTPOP2000": 205,
+        "MALE2000": 100,
+        "FEMALE2000": 105,
+        "POP2008": 286,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030910003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19889,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8614390000099,
+          -6.385830000054398
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19889,
+        "CU_NAME": "MARILI",
+        "CU_NO": "009",
+        "GEOCODE": "07030910009",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "10",
+        "WARD_NAME": "MARILI",
+        "LATITUDE": -6.396056,
+        "LONGITUDE": 143.864207,
+        "REGHH": 54,
+        "TOTPOP2000": 256,
+        "MALE2000": 126,
+        "FEMALE2000": 130,
+        "POP2008": 356,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030910009,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19890,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.86077099978183,
+          -6.3901759999224055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19890,
+        "CU_NAME": "MURU",
+        "CU_NO": "012",
+        "GEOCODE": "07030910012",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "10",
+        "WARD_NAME": "MARILI",
+        "LATITUDE": -6.396056,
+        "LONGITUDE": 143.864207,
+        "REGHH": 50,
+        "TOTPOP2000": 258,
+        "MALE2000": 128,
+        "FEMALE2000": 130,
+        "POP2008": 358,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030910012,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

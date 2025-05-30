@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17509,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.94080599979713,
+          -5.895775000116089
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17509,
+        "CU_NAME": "PAGAPENA 3",
+        "CU_NO": "029",
+        "GEOCODE": "09071223029",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "23",
+        "WARD_NAME": "PAGAPENA 3",
+        "LATITUDE": -5.896713,
+        "LONGITUDE": 143.941135,
+        "REGHH": 49,
+        "TOTPOP2000": 199,
+        "MALE2000": 95,
+        "FEMALE2000": 104,
+        "POP2008": 242,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071223029,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17510,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9574660000559,
+          -5.87872599990493
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17510,
+        "CU_NAME": "TAMBUL STATION",
+        "CU_NO": "401",
+        "GEOCODE": "09071223401",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "23",
+        "WARD_NAME": "PAGAPENA 3",
+        "LATITUDE": -5.879665,
+        "LONGITUDE": 143.957796,
+        "REGHH": 50,
+        "TOTPOP2000": 259,
+        "MALE2000": 134,
+        "FEMALE2000": 125,
+        "POP2008": 316,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071223401,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17511,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.94739499967955,
+          -5.877053000095827
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17511,
+        "CU_NAME": "TAMBUL BIBLE SCH",
+        "CU_NO": "402",
+        "GEOCODE": "09071223402",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "23",
+        "WARD_NAME": "PAGAPENA 3",
+        "LATITUDE": -5.877992,
+        "LONGITUDE": 143.947724,
+        "REGHH": 46,
+        "TOTPOP2000": 234,
+        "MALE2000": 104,
+        "FEMALE2000": 130,
+        "POP2008": 285,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071223402,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

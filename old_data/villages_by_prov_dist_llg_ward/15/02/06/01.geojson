@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.47947600001748,
+          -3.6127030002432434
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18552,
+        "CU_NAME": "KUVALVU",
+        "CU_NO": "002",
+        "GEOCODE": "15020601002",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "KUVALVU",
+        "LATITUDE": -3.614083,
+        "LONGITUDE": 142.478399,
+        "REGHH": 39,
+        "TOTPOP2000": 174,
+        "MALE2000": 95,
+        "FEMALE2000": 79,
+        "POP2008": 210,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020601002,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18553,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.54211099982285,
+          -3.6164409999521467
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18553,
+        "CU_NAME": "SUAU",
+        "CU_NO": "007",
+        "GEOCODE": "15020601007",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "KUVALVU",
+        "LATITUDE": -3.613138,
+        "LONGITUDE": 142.5353,
+        "REGHH": 53,
+        "TOTPOP2000": 286,
+        "MALE2000": 129,
+        "FEMALE2000": 157,
+        "POP2008": 346,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020601007,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18554,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.49383200014677,
+          -3.614135999776522
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18554,
+        "CU_NAME": "WERANGYUWOK",
+        "CU_NO": "011",
+        "GEOCODE": "15020601011",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "KUVALVU",
+        "LATITUDE": -3.615516,
+        "LONGITUDE": 142.492755,
+        "REGHH": 46,
+        "TOTPOP2000": 258,
+        "MALE2000": 129,
+        "FEMALE2000": 129,
+        "POP2008": 311,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020601011,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18555,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.47719099986477,
+          -3.6166770000434667
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18555,
+        "CU_NAME": "YILIWAMBUK",
+        "CU_NO": "018",
+        "GEOCODE": "15020601018",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "KUVALVU",
+        "LATITUDE": -3.618057,
+        "LONGITUDE": 142.476114,
+        "REGHH": 54,
+        "TOTPOP2000": 250,
+        "MALE2000": 134,
+        "FEMALE2000": 116,
+        "POP2008": 302,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020601018,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

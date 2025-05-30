@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10221,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.5889689998196,
+          -9.627730999585935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10221,
+        "CU_NAME": "UKEOKEO",
+        "CU_NO": "022",
+        "GEOCODE": "05041403022",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "14",
+        "WARD_NO": "03",
+        "WARD_NAME": "UKEOKEO",
+        "LATITUDE": -9.629192,
+        "LONGITUDE": 150.587988,
+        "REGHH": 145,
+        "TOTPOP2000": 787,
+        "MALE2000": 392,
+        "FEMALE2000": 395,
+        "POP2008": 959,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041403022,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17946,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.94323700028735,
+          -5.461299000148699
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17946,
+        "CU_NAME": "ARUMIGI",
+        "CU_NO": "003",
+        "GEOCODE": "19010509003",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "09",
+        "WARD_NAME": "ANEMSAHE",
+        "LATITUDE": -5.462576,
+        "LONGITUDE": 148.942879,
+        "REGHH": 38,
+        "TOTPOP2000": 213,
+        "MALE2000": 102,
+        "FEMALE2000": 111,
+        "POP2008": 280,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010509003,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17947,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.97999400012304,
+          -5.458470000090358
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17947,
+        "CU_NAME": "KARAIAI",
+        "CU_NO": "014",
+        "GEOCODE": "19010509014",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "09",
+        "WARD_NAME": "ANEMSAHE",
+        "LATITUDE": -5.45988,
+        "LONGITUDE": 148.979,
+        "REGHH": 26,
+        "TOTPOP2000": 147,
+        "MALE2000": 80,
+        "FEMALE2000": 67,
+        "POP2008": 193,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010509014,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17948,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.04121500037206,
+          -5.493757999631953
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17948,
+        "CU_NAME": "PUREILING",
+        "CU_NO": "021",
+        "GEOCODE": "19010509021",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "09",
+        "WARD_NAME": "ANEMSAHE",
+        "LATITUDE": -5.49295,
+        "LONGITUDE": 149.043,
+        "REGHH": 45,
+        "TOTPOP2000": 284,
+        "MALE2000": 149,
+        "FEMALE2000": 135,
+        "POP2008": 374,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010509021,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17949,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.8840399998462,
+          -5.470760000273742
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17949,
+        "CU_NAME": "TAMUNIAI",
+        "CU_NO": "025",
+        "GEOCODE": "19010509025",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "09",
+        "WARD_NAME": "ANEMSAHE",
+        "LATITUDE": -5.47249,
+        "LONGITUDE": 148.883,
+        "REGHH": 50,
+        "TOTPOP2000": 273,
+        "MALE2000": 150,
+        "FEMALE2000": 123,
+        "POP2008": 360,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010509025,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17950,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.01594399961596,
+          -5.4767969998815715
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17950,
+        "CU_NAME": "MOSILIKI",
+        "CU_NO": "026",
+        "GEOCODE": "19010509026",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "09",
+        "WARD_NAME": "ANEMSAHE",
+        "LATITUDE": -5.47614,
+        "LONGITUDE": 149.017,
+        "REGHH": 12,
+        "TOTPOP2000": 80,
+        "MALE2000": 44,
+        "FEMALE2000": 36,
+        "POP2008": 105,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010509026,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

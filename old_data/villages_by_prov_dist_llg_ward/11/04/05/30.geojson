@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29920,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9462957201714,
+          -6.418550339826254
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29920,
+        "CU_NAME": "BARABUNA",
+        "CU_NO": "008",
+        "GEOCODE": "11040530008",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "30",
+        "WARD_NAME": "ENRANDORA",
+        "LATITUDE": -6.41855,
+        "LONGITUDE": 145.946296,
+        "REGHH": 153,
+        "TOTPOP2000": 660,
+        "MALE2000": 329,
+        "FEMALE2000": 331,
+        "POP2008": 787,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29921,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.92327335997766,
+          -6.394089690286933
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29921,
+        "CU_NAME": "BATAINABURA",
+        "CU_NO": "010",
+        "GEOCODE": "11040530010",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "30",
+        "WARD_NAME": "ENRANDORA",
+        "LATITUDE": -6.39409,
+        "LONGITUDE": 145.923273,
+        "REGHH": 91,
+        "TOTPOP2000": 432,
+        "MALE2000": 217,
+        "FEMALE2000": 215,
+        "POP2008": 515,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

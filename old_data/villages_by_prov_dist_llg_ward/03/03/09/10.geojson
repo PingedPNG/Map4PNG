@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1470,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4864490004211,
+          -9.447183000395114
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1470,
+        "CU_NAME": "OGOTANA",
+        "CU_NO": "015",
+        "GEOCODE": "03030910015",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "10",
+        "WARD_NAME": "OGOTANA",
+        "LATITUDE": -9.448634,
+        "LONGITUDE": 147.485423,
+        "REGHH": 20,
+        "TOTPOP2000": 130,
+        "MALE2000": 78,
+        "FEMALE2000": 52,
+        "POP2008": 154,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030910015,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1471,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4643429999296,
+          -9.429063000257202
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1471,
+        "CU_NAME": "WARORO SETTLEMENT",
+        "CU_NO": "436",
+        "GEOCODE": "03030910436",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "10",
+        "WARD_NAME": "OGOTANA",
+        "LATITUDE": -9.430513,
+        "LONGITUDE": 147.463318,
+        "REGHH": 2,
+        "TOTPOP2000": 11,
+        "MALE2000": 6,
+        "FEMALE2000": 5,
+        "POP2008": 11,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030910436,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1472,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.47222500008377,
+          -9.431740999647388
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1472,
+        "CU_NAME": "CATALINA PLANTATION",
+        "CU_NO": "503",
+        "GEOCODE": "03030910503",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "10",
+        "WARD_NAME": "OGOTANA",
+        "LATITUDE": -9.433191,
+        "LONGITUDE": 147.4712,
+        "REGHH": 3,
+        "TOTPOP2000": 13,
+        "MALE2000": 9,
+        "FEMALE2000": 4,
+        "POP2008": 13,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030910503,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1473,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.48137999958738,
+          -9.442926000134776
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1473,
+        "CU_NAME": "EILOGO ESTATE",
+        "CU_NO": "505",
+        "GEOCODE": "03030910505",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "10",
+        "WARD_NAME": "OGOTANA",
+        "LATITUDE": -9.444377,
+        "LONGITUDE": 147.480355,
+        "REGHH": 19,
+        "TOTPOP2000": 94,
+        "MALE2000": 50,
+        "FEMALE2000": 44,
+        "POP2008": 110,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030910505,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1474,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.47406200026114,
+          -9.460578000274438
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1474,
+        "CU_NAME": "NINOA ESTATE",
+        "CU_NO": "519",
+        "GEOCODE": "03030910519",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "10",
+        "WARD_NAME": "OGOTANA",
+        "LATITUDE": -9.462029,
+        "LONGITUDE": 147.473037,
+        "REGHH": 3,
+        "TOTPOP2000": 17,
+        "MALE2000": 11,
+        "FEMALE2000": 6,
+        "POP2008": 17,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030910519,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

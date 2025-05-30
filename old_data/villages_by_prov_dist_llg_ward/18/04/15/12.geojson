@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1485279995676,
+          -4.223539999671175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5116,
+        "CU_NAME": "MALAGUNA NO.3",
+        "CU_NO": "013",
+        "GEOCODE": "18041512013",
+        "PROV_KEY": "18",
+        "DIST_NO": "04",
+        "LLG_NO": "15",
+        "WARD_NO": "12",
+        "WARD_NAME": "MALAGUNA NO.3",
+        "LATITUDE": -4.224939,
+        "LONGITUDE": 152.147582,
+        "REGHH": 146,
+        "TOTPOP2000": 816,
+        "MALE2000": 417,
+        "FEMALE2000": 399,
+        "POP2008": 993,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18041512013,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

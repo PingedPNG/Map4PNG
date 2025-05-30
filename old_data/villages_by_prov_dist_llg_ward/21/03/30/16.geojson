@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21847,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.97682900015832,
+          -5.807810000431118
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21847,
+        "CU_NAME": "KUANDI 1",
+        "CU_NO": "006",
+        "GEOCODE": "07083016006",
+        "PROV_KEY": "21",
+        "DIST_NO": "3",
+        "LLG_NO": "30",
+        "WARD_NO": "16",
+        "WARD_NAME": "KUANDI 1",
+        "LATITUDE": -5.822121,
+        "LONGITUDE": 142.970753,
+        "REGHH": 127,
+        "TOTPOP2000": 1227,
+        "MALE2000": 571,
+        "FEMALE2000": 656,
+        "POP2008": 1706,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7083016006,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

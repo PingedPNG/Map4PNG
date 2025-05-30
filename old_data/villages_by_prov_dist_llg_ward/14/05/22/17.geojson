@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7181,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.03773200013177,
+          -3.8141289999533114
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7181,
+        "CU_NAME": "URUWARU",
+        "CU_NO": "009",
+        "GEOCODE": "14052217009",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "22",
+        "WARD_NO": "17",
+        "WARD_NAME": "SERANGWANDU",
+        "LATITUDE": -3.815709,
+        "LONGITUDE": 143.036491,
+        "REGHH": 18,
+        "TOTPOP2000": 106,
+        "MALE2000": 56,
+        "FEMALE2000": 50,
+        "POP2008": 126,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052217009,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.00675699983572,
+          -3.813493000301662
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7182,
+        "CU_NAME": "MAKUNGU",
+        "CU_NO": "010",
+        "GEOCODE": "14052217010",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "22",
+        "WARD_NO": "17",
+        "WARD_NAME": "SERANGWANDU",
+        "LATITUDE": -3.815073,
+        "LONGITUDE": 143.005517,
+        "REGHH": 23,
+        "TOTPOP2000": 151,
+        "MALE2000": 78,
+        "FEMALE2000": 73,
+        "POP2008": 180,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052217010,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7183,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.026834000289,
+          -3.8037649995550282
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7183,
+        "CU_NAME": "SERANGWANDU 1",
+        "CU_NO": "018",
+        "GEOCODE": "14052217018",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "22",
+        "WARD_NO": "17",
+        "WARD_NAME": "SERANGWANDU",
+        "LATITUDE": -3.803306,
+        "LONGITUDE": 143.024064,
+        "REGHH": 43,
+        "TOTPOP2000": 282,
+        "MALE2000": 125,
+        "FEMALE2000": 157,
+        "POP2008": 335,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052217018,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.01164300032428,
+          -3.8131319998418576
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7184,
+        "CU_NAME": "SERANGWANDU 2",
+        "CU_NO": "019",
+        "GEOCODE": "14052217019",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "22",
+        "WARD_NO": "17",
+        "WARD_NAME": "SERANGWANDU",
+        "LATITUDE": -3.814712,
+        "LONGITUDE": 143.010403,
+        "REGHH": 78,
+        "TOTPOP2000": 394,
+        "MALE2000": 196,
+        "FEMALE2000": 198,
+        "POP2008": 469,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052217019,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0240369999077,
+          -3.866158999937852
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7185,
+        "CU_NAME": "MANGI",
+        "CU_NO": "020",
+        "GEOCODE": "14052217020",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "22",
+        "WARD_NO": "17",
+        "WARD_NAME": "SERANGWANDU",
+        "LATITUDE": -3.867741,
+        "LONGITUDE": 143.022797,
+        "REGHH": 21,
+        "TOTPOP2000": 96,
+        "MALE2000": 45,
+        "FEMALE2000": 51,
+        "POP2008": 112,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052217020,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

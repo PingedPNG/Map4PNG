@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29917,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9687568395566,
+          -6.479966519938898
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29917,
+        "CU_NAME": "BAENABUTA",
+        "CU_NO": "021",
+        "GEOCODE": "11040529021",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "29",
+        "WARD_NAME": "ANDANDARA",
+        "LATITUDE": -6.479967,
+        "LONGITUDE": 145.968757,
+        "REGHH": 112,
+        "TOTPOP2000": 536,
+        "MALE2000": 269,
+        "FEMALE2000": 267,
+        "POP2008": 638,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29918,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.99311371992235,
+          -6.4933062303981615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29918,
+        "CU_NAME": "VAIRANAUTA",
+        "CU_NO": "024",
+        "GEOCODE": "11040529024",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "29",
+        "WARD_NAME": "ANDANDARA",
+        "LATITUDE": -6.493306,
+        "LONGITUDE": 145.993114,
+        "REGHH": 113,
+        "TOTPOP2000": 498,
+        "MALE2000": 249,
+        "FEMALE2000": 249,
+        "POP2008": 592,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29919,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.98154224028224,
+          -6.4906586101067205
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29919,
+        "CU_NAME": "SUWAIRA EBC",
+        "CU_NO": "401",
+        "GEOCODE": "11040529401",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "29",
+        "WARD_NAME": "ANDANDARA",
+        "LATITUDE": -6.490659,
+        "LONGITUDE": 145.981542,
+        "REGHH": 8,
+        "TOTPOP2000": 35,
+        "MALE2000": 16,
+        "FEMALE2000": 19,
+        "POP2008": 43,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

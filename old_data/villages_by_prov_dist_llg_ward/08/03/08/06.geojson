@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.93099499991933,
+          -5.3771110001724765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5677,
+        "CU_NAME": "KOMANGA",
+        "CU_NO": "008",
+        "GEOCODE": "08030806008",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "06",
+        "WARD_NAME": "KOMANGA",
+        "LATITUDE": -5.3765,
+        "LONGITUDE": 142.92891,
+        "REGHH": 82,
+        "TOTPOP2000": 697,
+        "MALE2000": 401,
+        "FEMALE2000": 296,
+        "POP2008": 876,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030806008,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

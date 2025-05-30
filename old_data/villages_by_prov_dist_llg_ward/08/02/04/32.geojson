@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5512,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.81194099987727,
+          -5.245649000101253
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5512,
+        "CU_NAME": "KAIMAS",
+        "CU_NO": "003",
+        "GEOCODE": "08020432003",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "32",
+        "WARD_NAME": "KAIMAS",
+        "LATITUDE": -5.247048,
+        "LONGITUDE": 143.810878,
+        "REGHH": 42,
+        "TOTPOP2000": 275,
+        "MALE2000": 152,
+        "FEMALE2000": 123,
+        "POP2008": 345,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020432003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5513,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.83047600026725,
+          -5.25211799984578
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5513,
+        "CU_NAME": "UMOKEA",
+        "CU_NO": "004",
+        "GEOCODE": "08020432004",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "32",
+        "WARD_NAME": "KAIMAS",
+        "LATITUDE": -5.253518,
+        "LONGITUDE": 143.829413,
+        "REGHH": 57,
+        "TOTPOP2000": 332,
+        "MALE2000": 178,
+        "FEMALE2000": 154,
+        "POP2008": 417,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020432004,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

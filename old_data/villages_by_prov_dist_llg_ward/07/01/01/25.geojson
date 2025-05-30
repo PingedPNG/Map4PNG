@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19183,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.00597300035372,
+          -6.381541000117011
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19183,
+        "CU_NAME": "PAURA",
+        "CU_NO": "023",
+        "GEOCODE": "07010125023",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "25",
+        "WARD_NAME": "WALUPOU 2",
+        "LATITUDE": -6.385075,
+        "LONGITUDE": 144.006957,
+        "REGHH": 32,
+        "TOTPOP2000": 164,
+        "MALE2000": 87,
+        "FEMALE2000": 77,
+        "POP2008": 227,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010125023,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.00385699990068,
+          -6.381729999839592
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19184,
+        "CU_NAME": "PEMBU",
+        "CU_NO": "026",
+        "GEOCODE": "07010125026",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "25",
+        "WARD_NAME": "WALUPOU 2",
+        "LATITUDE": -6.385075,
+        "LONGITUDE": 144.006957,
+        "REGHH": 3,
+        "TOTPOP2000": 19,
+        "MALE2000": 10,
+        "FEMALE2000": 9,
+        "POP2008": 27,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010125026,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7073,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.29973400002416,
+          -4.099686999755193
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7073,
+        "CU_NAME": "GAIKOROBI",
+        "CU_NO": "001",
+        "GEOCODE": "14051925001",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "19",
+        "WARD_NO": "25",
+        "WARD_NAME": "GAIKOROBI",
+        "LATITUDE": -4.103319,
+        "LONGITUDE": 143.295962,
+        "REGHH": 100,
+        "TOTPOP2000": 561,
+        "MALE2000": 270,
+        "FEMALE2000": 291,
+        "POP2008": 667,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14051925001,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

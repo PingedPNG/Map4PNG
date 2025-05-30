@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7999,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.65798800024606,
+          -4.262939999980972
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7999,
+        "CU_NAME": "DAMANGAP",
+        "CU_NO": "005",
+        "GEOCODE": "13010317005",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "17",
+        "WARD_NAME": "DAMANGAP",
+        "LATITUDE": -4.264159,
+        "LONGITUDE": 144.658241,
+        "REGHH": 15,
+        "TOTPOP2000": 112,
+        "MALE2000": 46,
+        "FEMALE2000": 66,
+        "POP2008": 138,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010317005,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6109680001731,
+          -4.2427149998972595
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8000,
+        "CU_NAME": "HUMKANAN",
+        "CU_NO": "016",
+        "GEOCODE": "13010317016",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "17",
+        "WARD_NAME": "DAMANGAP",
+        "LATITUDE": -4.237172,
+        "LONGITUDE": 144.611757,
+        "REGHH": 32,
+        "TOTPOP2000": 220,
+        "MALE2000": 114,
+        "FEMALE2000": 106,
+        "POP2008": 272,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010317016,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8001,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.64413099974593,
+          -4.5147409997972545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8001,
+        "CU_NAME": "JERIKIN",
+        "CU_NO": "017",
+        "GEOCODE": "13010317017",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "17",
+        "WARD_NAME": "DAMANGAP",
+        "LATITUDE": -4.516134,
+        "LONGITUDE": 144.643081,
+        "REGHH": 24,
+        "TOTPOP2000": 148,
+        "MALE2000": 74,
+        "FEMALE2000": 74,
+        "POP2008": 183,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010317017,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6585259998751,
+          -4.293420999979105
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8002,
+        "CU_NAME": "KUKUM",
+        "CU_NO": "018",
+        "GEOCODE": "13010317018",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "17",
+        "WARD_NAME": "DAMANGAP",
+        "LATITUDE": -4.294811,
+        "LONGITUDE": 144.657475,
+        "REGHH": 27,
+        "TOTPOP2000": 183,
+        "MALE2000": 97,
+        "FEMALE2000": 86,
+        "POP2008": 226,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010317018,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.65925200007985,
+          -4.2775890001321955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8003,
+        "CU_NAME": "MBATNEMB",
+        "CU_NO": "019",
+        "GEOCODE": "13010317019",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "17",
+        "WARD_NAME": "DAMANGAP",
+        "LATITUDE": -4.278979,
+        "LONGITUDE": 144.658201,
+        "REGHH": 22,
+        "TOTPOP2000": 113,
+        "MALE2000": 62,
+        "FEMALE2000": 51,
+        "POP2008": 139,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010317019,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.658484999783,
+          -4.271703000293201
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8004,
+        "CU_NAME": "ABBU C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "13010317401",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "17",
+        "WARD_NAME": "DAMANGAP",
+        "LATITUDE": -4.265783,
+        "LONGITUDE": 144.655637,
+        "REGHH": 11,
+        "TOTPOP2000": 68,
+        "MALE2000": 35,
+        "FEMALE2000": 33,
+        "POP2008": 84,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010317401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

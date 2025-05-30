@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15667,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.30395099973896,
+          -8.598302999783584
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15667,
+        "CU_NAME": "INDORODORO",
+        "CU_NO": "003",
+        "GEOCODE": "01031315003",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "15",
+        "WARD_NAME": "KANDARISA",
+        "LATITUDE": -8.59196,
+        "LONGITUDE": 141.29677,
+        "REGHH": 24,
+        "TOTPOP2000": 157,
+        "MALE2000": 74,
+        "FEMALE2000": 83,
+        "POP2008": 204,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031315003,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15668,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.22050299971374,
+          -8.619992999976944
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15668,
+        "CU_NAME": "KANDARISA",
+        "CU_NO": "005",
+        "GEOCODE": "01031315005",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "15",
+        "WARD_NAME": "KANDARISA",
+        "LATITUDE": -8.621418,
+        "LONGITUDE": 141.2194,
+        "REGHH": 22,
+        "TOTPOP2000": 148,
+        "MALE2000": 78,
+        "FEMALE2000": 70,
+        "POP2008": 192,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031315005,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15669,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.28513099969598,
+          -8.655618999816966
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15669,
+        "CU_NAME": "MENGETE",
+        "CU_NO": "007",
+        "GEOCODE": "01031315007",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "15",
+        "WARD_NAME": "KANDARISA",
+        "LATITUDE": -8.657045,
+        "LONGITUDE": 141.284029,
+        "REGHH": 9,
+        "TOTPOP2000": 47,
+        "MALE2000": 20,
+        "FEMALE2000": 27,
+        "POP2008": 63,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031315007,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10286,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1196035778429,
+          -10.041711604806665
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10286,
+        "CU_NAME": "SAWATUPWA",
+        "CU_NO": "020",
+        "GEOCODE": "05041602020",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "16",
+        "WARD_NO": "02",
+        "WARD_NAME": "SAWATUPWA",
+        "LATITUDE": -10.042679,
+        "LONGITUDE": 151.117434,
+        "REGHH": 101,
+        "TOTPOP2000": 506,
+        "MALE2000": 260,
+        "FEMALE2000": 246,
+        "POP2008": 617,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041602020,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

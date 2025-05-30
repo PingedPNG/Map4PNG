@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.04897900028072,
+          -5.25891999965819
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18250,
+        "CU_NAME": "PANGALU",
+        "CU_NO": "021",
+        "GEOCODE": "19021106021",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "TABEKEMELI",
+        "LATITUDE": -5.26033,
+        "LONGITUDE": 150.048,
+        "REGHH": 97,
+        "TOTPOP2000": 484,
+        "MALE2000": 254,
+        "FEMALE2000": 230,
+        "POP2008": 638,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19021106021,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18251,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.01297900028067,
+          -5.223461000324846
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18251,
+        "CU_NAME": "WAGANAKAI",
+        "CU_NO": "026",
+        "GEOCODE": "19021106026",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "TABEKEMELI",
+        "LATITUDE": -5.22487,
+        "LONGITUDE": 150.012,
+        "REGHH": 74,
+        "TOTPOP2000": 516,
+        "MALE2000": 271,
+        "FEMALE2000": 245,
+        "POP2008": 679,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19021106026,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.06897799983494,
+          -5.23948099984824
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18252,
+        "CU_NAME": "RAKABOKU",
+        "CU_NO": "029",
+        "GEOCODE": "19021106029",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "TABEKEMELI",
+        "LATITUDE": -5.24089,
+        "LONGITUDE": 150.068,
+        "REGHH": 50,
+        "TOTPOP2000": 287,
+        "MALE2000": 163,
+        "FEMALE2000": 124,
+        "POP2008": 378,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19021106029,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

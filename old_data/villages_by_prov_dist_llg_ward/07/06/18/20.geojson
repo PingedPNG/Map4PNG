@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20972,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63813200029165,
+          -6.042688999597601
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20972,
+        "CU_NAME": "HEIP",
+        "CU_NO": "003",
+        "GEOCODE": "07061820003",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "20",
+        "WARD_NAME": "HEIP",
+        "LATITUDE": -6.046784,
+        "LONGITUDE": 143.638772,
+        "REGHH": 44,
+        "TOTPOP2000": 318,
+        "MALE2000": 154,
+        "FEMALE2000": 164,
+        "POP2008": 441,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061820003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20973,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64077299977419,
+          -6.042136000176242
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20973,
+        "CU_NAME": "TUKUNDA",
+        "CU_NO": "004",
+        "GEOCODE": "07061820004",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "20",
+        "WARD_NAME": "HEIP",
+        "LATITUDE": -6.046784,
+        "LONGITUDE": 143.638772,
+        "REGHH": 46,
+        "TOTPOP2000": 314,
+        "MALE2000": 153,
+        "FEMALE2000": 161,
+        "POP2008": 437,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061820004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20974,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6395089999404,
+          -6.040802999858499
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20974,
+        "CU_NAME": "ELAM",
+        "CU_NO": "005",
+        "GEOCODE": "07061820005",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "20",
+        "WARD_NAME": "HEIP",
+        "LATITUDE": -6.046784,
+        "LONGITUDE": 143.638772,
+        "REGHH": 69,
+        "TOTPOP2000": 433,
+        "MALE2000": 218,
+        "FEMALE2000": 215,
+        "POP2008": 601,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061820005,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15594,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.44539099999474,
+          -8.978684999912787
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15594,
+        "CU_NAME": "PARAMA",
+        "CU_NO": "010",
+        "GEOCODE": "01031214010",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "14",
+        "WARD_NAME": "PARAMA",
+        "LATITUDE": -8.990929,
+        "LONGITUDE": 143.44835,
+        "REGHH": 60,
+        "TOTPOP2000": 438,
+        "MALE2000": 237,
+        "FEMALE2000": 201,
+        "POP2008": 567,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031214010,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

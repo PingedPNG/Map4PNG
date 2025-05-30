@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4460,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.042414000206,
+          -4.3478089998853875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4460,
+        "CU_NAME": "KEREVAT 01",
+        "CU_NO": "001",
+        "GEOCODE": "18010182001",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "82",
+        "WARD_NAME": "KEREVAT URBAN",
+        "LATITUDE": -4.34921,
+        "LONGITUDE": 152.041466,
+        "REGHH": 60,
+        "TOTPOP2000": 363,
+        "MALE2000": 187,
+        "FEMALE2000": 176,
+        "POP2008": 443,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010182001,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4461,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.04746600025578,
+          -4.351352999641165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4461,
+        "CU_NAME": "KEREVAT 02",
+        "CU_NO": "002",
+        "GEOCODE": "18010182002",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "82",
+        "WARD_NAME": "KEREVAT URBAN",
+        "LATITUDE": -4.352754,
+        "LONGITUDE": 152.046518,
+        "REGHH": 97,
+        "TOTPOP2000": 577,
+        "MALE2000": 322,
+        "FEMALE2000": 255,
+        "POP2008": 703,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010182002,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

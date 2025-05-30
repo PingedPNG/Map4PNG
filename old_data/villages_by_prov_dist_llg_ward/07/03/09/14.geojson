@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19904,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.84052799976746,
+          -6.387818000000664
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19904,
+        "CU_NAME": "PORANE",
+        "CU_NO": "009",
+        "GEOCODE": "07030914009",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "PORANE",
+        "LATITUDE": -6.391391,
+        "LONGITUDE": 143.839856,
+        "REGHH": 8,
+        "TOTPOP2000": 39,
+        "MALE2000": 19,
+        "FEMALE2000": 20,
+        "POP2008": 55,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030914009,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19905,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.83754199966359,
+          -6.387021000119034
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19905,
+        "CU_NAME": "AMBEAME",
+        "CU_NO": "010",
+        "GEOCODE": "07030914010",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "PORANE",
+        "LATITUDE": -6.391391,
+        "LONGITUDE": 143.839856,
+        "REGHH": 41,
+        "TOTPOP2000": 199,
+        "MALE2000": 108,
+        "FEMALE2000": 91,
+        "POP2008": 276,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030914010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19906,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.84106000001907,
+          -6.385916999569815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19906,
+        "CU_NAME": "KAMBEANDA",
+        "CU_NO": "011",
+        "GEOCODE": "07030914011",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "PORANE",
+        "LATITUDE": -6.391391,
+        "LONGITUDE": 143.839856,
+        "REGHH": 51,
+        "TOTPOP2000": 264,
+        "MALE2000": 129,
+        "FEMALE2000": 135,
+        "POP2008": 368,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030914011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19907,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.83809099979987,
+          -6.388237999583964
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19907,
+        "CU_NAME": "LEGAITA",
+        "CU_NO": "012",
+        "GEOCODE": "07030914012",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "PORANE",
+        "LATITUDE": -6.391391,
+        "LONGITUDE": 143.839856,
+        "REGHH": 17,
+        "TOTPOP2000": 96,
+        "MALE2000": 56,
+        "FEMALE2000": 40,
+        "POP2008": 133,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030914012,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19908,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.83923400034894,
+          -6.385220999849196
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19908,
+        "CU_NAME": "POPONA",
+        "CU_NO": "013",
+        "GEOCODE": "07030914013",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "PORANE",
+        "LATITUDE": -6.391391,
+        "LONGITUDE": 143.839856,
+        "REGHH": 14,
+        "TOTPOP2000": 77,
+        "MALE2000": 34,
+        "FEMALE2000": 43,
+        "POP2008": 106,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030914013,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8672380003335,
+          -5.7308809997583126
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5976,
+        "CU_NAME": "PITIPAIS",
+        "CU_NO": "005",
+        "GEOCODE": "08051414005",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "14",
+        "WARD_NAME": "PITIPAIS",
+        "LATITUDE": -5.737234,
+        "LONGITUDE": 143.861291,
+        "REGHH": 169,
+        "TOTPOP2000": 890,
+        "MALE2000": 478,
+        "FEMALE2000": 412,
+        "POP2008": 1120,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051414005,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

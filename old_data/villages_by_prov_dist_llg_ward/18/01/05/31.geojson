@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4637,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.12776199971654,
+          -4.437587999586469
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4637,
+        "CU_NAME": "RABATA",
+        "CU_NO": "010",
+        "GEOCODE": "18010531010",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "31",
+        "WARD_NAME": "RABATA",
+        "LATITUDE": -4.43899,
+        "LONGITUDE": 152.126815,
+        "REGHH": 44,
+        "TOTPOP2000": 277,
+        "MALE2000": 153,
+        "FEMALE2000": 124,
+        "POP2008": 337,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010531010,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

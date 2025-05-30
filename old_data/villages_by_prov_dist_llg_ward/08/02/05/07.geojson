@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5534,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.98713400033387,
+          -5.1272350000951405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5534,
+        "CU_NAME": "PUMEAN",
+        "CU_NO": "008",
+        "GEOCODE": "08020507008",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "07",
+        "WARD_NAME": "PUMEAN",
+        "LATITUDE": -5.128633,
+        "LONGITUDE": 143.986073,
+        "REGHH": 74,
+        "TOTPOP2000": 422,
+        "MALE2000": 236,
+        "FEMALE2000": 186,
+        "POP2008": 531,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020507008,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

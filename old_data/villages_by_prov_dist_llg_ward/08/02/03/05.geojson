@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5382,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7789940003729,
+          -5.427292000325508
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5382,
+        "CU_NAME": "AIMATES",
+        "CU_NO": "001",
+        "GEOCODE": "08020305001",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "05",
+        "WARD_NAME": "AIMATES",
+        "LATITUDE": -5.428693,
+        "LONGITUDE": 143.77793,
+        "REGHH": 124,
+        "TOTPOP2000": 548,
+        "MALE2000": 294,
+        "FEMALE2000": 254,
+        "POP2008": 688,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020305001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5383,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.79306199981147,
+          -5.422601999882318
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5383,
+        "CU_NAME": "MERIAMANDA",
+        "CU_NO": "002",
+        "GEOCODE": "08020305002",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "05",
+        "WARD_NAME": "AIMATES",
+        "LATITUDE": -5.424003,
+        "LONGITUDE": 143.791998,
+        "REGHH": 41,
+        "TOTPOP2000": 185,
+        "MALE2000": 91,
+        "FEMALE2000": 94,
+        "POP2008": 233,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020305002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5384,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.76694899979657,
+          -5.420901999727448
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5384,
+        "CU_NAME": "POKARI",
+        "CU_NO": "003",
+        "GEOCODE": "08020305003",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "05",
+        "WARD_NAME": "AIMATES",
+        "LATITUDE": -5.423237,
+        "LONGITUDE": 143.757414,
+        "REGHH": 33,
+        "TOTPOP2000": 181,
+        "MALE2000": 89,
+        "FEMALE2000": 92,
+        "POP2008": 227,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020305003,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

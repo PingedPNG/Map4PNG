@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.10907400016504,
+          -6.376444999836849
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19140,
+        "CU_NAME": "PANGIA STATION",
+        "CU_NO": "801",
+        "GEOCODE": "07010113801",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "13",
+        "WARD_NAME": "PANGIA STATION",
+        "LATITUDE": -6.380691,
+        "LONGITUDE": 144.109358,
+        "REGHH": 67,
+        "TOTPOP2000": 455,
+        "MALE2000": 233,
+        "FEMALE2000": 222,
+        "POP2008": 635,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010113801,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

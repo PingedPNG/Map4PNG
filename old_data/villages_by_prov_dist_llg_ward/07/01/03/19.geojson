@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19337,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.92565299978617,
+          -6.2557970002313255
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19337,
+        "CU_NAME": "RULI",
+        "CU_NO": "021",
+        "GEOCODE": "07010319021",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "19",
+        "WARD_NAME": "PONOWI 2",
+        "LATITUDE": -6.261373,
+        "LONGITUDE": 143.928357,
+        "REGHH": 2,
+        "TOTPOP2000": 8,
+        "MALE2000": 4,
+        "FEMALE2000": 4,
+        "POP2008": 8,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010319021,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19338,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9287339997743,
+          -6.254703000143309
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19338,
+        "CU_NAME": "KEA",
+        "CU_NO": "022",
+        "GEOCODE": "07010319022",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "19",
+        "WARD_NAME": "PONOWI 2",
+        "LATITUDE": -6.261373,
+        "LONGITUDE": 143.928357,
+        "REGHH": 9,
+        "TOTPOP2000": 57,
+        "MALE2000": 27,
+        "FEMALE2000": 30,
+        "POP2008": 79,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010319022,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19339,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.92513099999576,
+          -6.258490000313202
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19339,
+        "CU_NAME": "MUGUSA",
+        "CU_NO": "023",
+        "GEOCODE": "07010319023",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "19",
+        "WARD_NAME": "PONOWI 2",
+        "LATITUDE": -6.261373,
+        "LONGITUDE": 143.928357,
+        "REGHH": 4,
+        "TOTPOP2000": 30,
+        "MALE2000": 14,
+        "FEMALE2000": 16,
+        "POP2008": 40,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010319023,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

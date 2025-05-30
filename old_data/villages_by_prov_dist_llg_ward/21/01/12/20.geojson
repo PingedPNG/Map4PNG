@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20289,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.84320600025683,
+          -6.036814000265849
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20289,
+        "CU_NAME": "LIGAME",
+        "CU_NO": "001",
+        "GEOCODE": "07041220001",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "20",
+        "WARD_NAME": "TUMBITE LIGAME",
+        "LATITUDE": -6.041088,
+        "LONGITUDE": 142.846931,
+        "REGHH": 53,
+        "TOTPOP2000": 293,
+        "MALE2000": 147,
+        "FEMALE2000": 146,
+        "POP2008": 406,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041220001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20290,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8456699996708,
+          -6.0411060003415855
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20290,
+        "CU_NAME": "TUMBITE",
+        "CU_NO": "002",
+        "GEOCODE": "07041220002",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "20",
+        "WARD_NAME": "TUMBITE LIGAME",
+        "LATITUDE": -6.041088,
+        "LONGITUDE": 142.846931,
+        "REGHH": 15,
+        "TOTPOP2000": 143,
+        "MALE2000": 60,
+        "FEMALE2000": 83,
+        "POP2008": 199,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041220002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20291,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.84543899981009,
+          -6.03278799986623
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20291,
+        "CU_NAME": "PAIANDA",
+        "CU_NO": "003",
+        "GEOCODE": "07041220003",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "20",
+        "WARD_NAME": "TUMBITE LIGAME",
+        "LATITUDE": -6.041088,
+        "LONGITUDE": 142.846931,
+        "REGHH": 77,
+        "TOTPOP2000": 379,
+        "MALE2000": 195,
+        "FEMALE2000": 184,
+        "POP2008": 527,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041220003,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

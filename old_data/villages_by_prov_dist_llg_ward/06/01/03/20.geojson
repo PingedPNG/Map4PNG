@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13305,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.50068400016653,
+          -9.501923000346153
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13305,
+        "CU_NAME": "KOIRA",
+        "CU_NO": "010",
+        "GEOCODE": "06010320010",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "MORO",
+        "LATITUDE": -9.503377,
+        "LONGITUDE": 148.499674,
+        "REGHH": 19,
+        "TOTPOP2000": 125,
+        "MALE2000": 69,
+        "FEMALE2000": 56,
+        "POP2008": 155,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010320010,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13306,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.47742499956416,
+          -9.491785999624142
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13306,
+        "CU_NAME": "MORO (URODI)",
+        "CU_NO": "011",
+        "GEOCODE": "06010320011",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "MORO",
+        "LATITUDE": -9.49324,
+        "LONGITUDE": 148.476414,
+        "REGHH": 17,
+        "TOTPOP2000": 122,
+        "MALE2000": 55,
+        "FEMALE2000": 67,
+        "POP2008": 151,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010320011,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13307,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.55633799999873,
+          -9.522791000404311
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13307,
+        "CU_NAME": "UMAUMA",
+        "CU_NO": "017",
+        "GEOCODE": "06010320017",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "MORO",
+        "LATITUDE": -9.524244,
+        "LONGITUDE": 148.555328,
+        "REGHH": 15,
+        "TOTPOP2000": 67,
+        "MALE2000": 32,
+        "FEMALE2000": 35,
+        "POP2008": 83,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010320017,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13308,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.47512300042615,
+          -9.482909000350048
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13308,
+        "CU_NAME": "URUMBAI (URIOBO)",
+        "CU_NO": "031",
+        "GEOCODE": "06010320031",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "MORO",
+        "LATITUDE": -9.484363,
+        "LONGITUDE": 148.474112,
+        "REGHH": 14,
+        "TOTPOP2000": 91,
+        "MALE2000": 41,
+        "FEMALE2000": 50,
+        "POP2008": 114,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010320031,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.6324319999369,
+          -9.480188999922348
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13309,
+        "CU_NAME": "FIODUBO (NOURA)",
+        "CU_NO": "033",
+        "GEOCODE": "06010320033",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "MORO",
+        "LATITUDE": -9.481643,
+        "LONGITUDE": 148.631423,
+        "REGHH": 8,
+        "TOTPOP2000": 46,
+        "MALE2000": 24,
+        "FEMALE2000": 22,
+        "POP2008": 54,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010320033,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13310,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5908040003044,
+          -9.517519000101743
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13310,
+        "CU_NAME": "OURE",
+        "CU_NO": "034",
+        "GEOCODE": "06010320034",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "MORO",
+        "LATITUDE": -9.518974,
+        "LONGITUDE": 148.589795,
+        "REGHH": 6,
+        "TOTPOP2000": 27,
+        "MALE2000": 15,
+        "FEMALE2000": 12,
+        "POP2008": 35,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010320034,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13311,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5298469996394,
+          -9.446104000099467
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13311,
+        "CU_NAME": "DIBAU",
+        "CU_NO": "035",
+        "GEOCODE": "06010320035",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "MORO",
+        "LATITUDE": -9.451416,
+        "LONGITUDE": 148.531452,
+        "REGHH": 11,
+        "TOTPOP2000": 69,
+        "MALE2000": 36,
+        "FEMALE2000": 33,
+        "POP2008": 85,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010320035,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

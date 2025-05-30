@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7280,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4335400002709,
+          -3.7034899996637023
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7280,
+        "CU_NAME": "ABAWIA",
+        "CU_NO": "001",
+        "GEOCODE": "14062411001",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "24",
+        "WARD_NO": "11",
+        "WARD_NAME": "ABAWIA",
+        "LATITUDE": -3.705069,
+        "LONGITUDE": 143.432305,
+        "REGHH": 123,
+        "TOTPOP2000": 639,
+        "MALE2000": 300,
+        "FEMALE2000": 339,
+        "POP2008": 760,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062411001,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

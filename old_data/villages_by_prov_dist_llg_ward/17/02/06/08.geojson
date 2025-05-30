@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12762,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7386229995518,
+          -3.138830000104349
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12762,
+        "CU_NAME": "SOMINIM",
+        "CU_NO": "015",
+        "GEOCODE": "17020608015",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "KONOS",
+        "LATITUDE": -3.138868,
+        "LONGITUDE": 151.740358,
+        "REGHH": 29,
+        "TOTPOP2000": 143,
+        "MALE2000": 81,
+        "FEMALE2000": 62,
+        "POP2008": 179,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020608015,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12763,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.71950600020182,
+          -3.1237150000471843
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12763,
+        "CU_NAME": "KONOS",
+        "CU_NO": "017",
+        "GEOCODE": "17020608017",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "KONOS",
+        "LATITUDE": -3.123899,
+        "LONGITUDE": 151.718358,
+        "REGHH": 76,
+        "TOTPOP2000": 299,
+        "MALE2000": 167,
+        "FEMALE2000": 132,
+        "POP2008": 376,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020608017,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12764,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7037439999857,
+          -3.0986069996133097
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12764,
+        "CU_NAME": "LAMASONG",
+        "CU_NO": "018",
+        "GEOCODE": "17020608018",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "KONOS",
+        "LATITUDE": -3.099318,
+        "LONGITUDE": 151.705477,
+        "REGHH": 70,
+        "TOTPOP2000": 375,
+        "MALE2000": 201,
+        "FEMALE2000": 174,
+        "POP2008": 472,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020608018,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12765,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.765201000326,
+          -3.1359389998848997
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12765,
+        "CU_NAME": "PINIKIDU",
+        "CU_NO": "038",
+        "GEOCODE": "17020608038",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "KONOS",
+        "LATITUDE": -3.137323,
+        "LONGITUDE": 151.76425,
+        "REGHH": 70,
+        "TOTPOP2000": 359,
+        "MALE2000": 198,
+        "FEMALE2000": 161,
+        "POP2008": 451,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020608038,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12766,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.72656800031302,
+          -3.1296510003933236
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12766,
+        "CU_NAME": "KONOS GOVT. STN",
+        "CU_NO": "508",
+        "GEOCODE": "17020608508",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "KONOS",
+        "LATITUDE": -3.129436,
+        "LONGITUDE": 151.726414,
+        "REGHH": 28,
+        "TOTPOP2000": 128,
+        "MALE2000": 78,
+        "FEMALE2000": 50,
+        "POP2008": 161,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020608508,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

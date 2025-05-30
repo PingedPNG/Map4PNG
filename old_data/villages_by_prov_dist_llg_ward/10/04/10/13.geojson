@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14458,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.87067100016657,
+          -5.904187999576493
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14458,
+        "CU_NAME": "KAMBU",
+        "CU_NO": "002",
+        "GEOCODE": "10041013002",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "GENA YOGOMBO",
+        "LATITUDE": -5.905596,
+        "LONGITUDE": 144.86962,
+        "REGHH": 115,
+        "TOTPOP2000": 588,
+        "MALE2000": 308,
+        "FEMALE2000": 280,
+        "POP2008": 679,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041013002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14459,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.88886800025807,
+          -5.904253999922105
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14459,
+        "CU_NAME": "SINGE",
+        "CU_NO": "003",
+        "GEOCODE": "10041013003",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "GENA YOGOMBO",
+        "LATITUDE": -5.905662,
+        "LONGITUDE": 144.887817,
+        "REGHH": 32,
+        "TOTPOP2000": 147,
+        "MALE2000": 77,
+        "FEMALE2000": 70,
+        "POP2008": 171,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041013003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14460,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.89677000043525,
+          -5.906544000305303
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14460,
+        "CU_NAME": "TAMUGL",
+        "CU_NO": "004",
+        "GEOCODE": "10041013004",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "GENA YOGOMBO",
+        "LATITUDE": -5.907952,
+        "LONGITUDE": 144.895719,
+        "REGHH": 47,
+        "TOTPOP2000": 220,
+        "MALE2000": 109,
+        "FEMALE2000": 111,
+        "POP2008": 252,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041013004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14461,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.88969100043937,
+          -5.913014000095984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14461,
+        "CU_NAME": "AGLAUR",
+        "CU_NO": "005",
+        "GEOCODE": "10041013005",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "GENA YOGOMBO",
+        "LATITUDE": -5.914422,
+        "LONGITUDE": 144.88864,
+        "REGHH": 12,
+        "TOTPOP2000": 48,
+        "MALE2000": 25,
+        "FEMALE2000": 23,
+        "POP2008": 56,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041013005,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

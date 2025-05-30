@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5844,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8230179998809,
+          -5.561786999970025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5844,
+        "CU_NAME": "AKOM",
+        "CU_NO": "018",
+        "GEOCODE": "08041129018",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "29",
+        "WARD_NAME": "AKOM",
+        "LATITUDE": -5.56319,
+        "LONGITUDE": 143.821954,
+        "REGHH": 234,
+        "TOTPOP2000": 1288,
+        "MALE2000": 626,
+        "FEMALE2000": 662,
+        "POP2008": 1619,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041129018,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5845,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.82831400039083,
+          -5.5542420000682
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5845,
+        "CU_NAME": "KOPEMALE",
+        "CU_NO": "019",
+        "GEOCODE": "08041129019",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "29",
+        "WARD_NAME": "AKOM",
+        "LATITUDE": -5.555645,
+        "LONGITUDE": 143.82725,
+        "REGHH": 79,
+        "TOTPOP2000": 414,
+        "MALE2000": 208,
+        "FEMALE2000": 206,
+        "POP2008": 520,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041129019,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

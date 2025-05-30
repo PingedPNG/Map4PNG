@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11994,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.92414199985353,
+          -7.275513000024887
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11994,
+        "CU_NAME": "KWAIYU 1",
+        "CU_NO": "001",
+        "GEOCODE": "12072114001",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "14",
+        "WARD_NAME": "HARTINGLI",
+        "LATITUDE": -7.248039,
+        "LONGITUDE": 145.877023,
+        "REGHH": 50,
+        "TOTPOP2000": 226,
+        "MALE2000": 110,
+        "FEMALE2000": 116,
+        "POP2008": 281,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072114001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11995,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9679409997774,
+          -7.291818000100591
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11995,
+        "CU_NAME": "HIYENGALYE 1",
+        "CU_NO": "002",
+        "GEOCODE": "12072114002",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "14",
+        "WARD_NAME": "HARTINGLI",
+        "LATITUDE": -7.240124,
+        "LONGITUDE": 145.94839,
+        "REGHH": 69,
+        "TOTPOP2000": 333,
+        "MALE2000": 175,
+        "FEMALE2000": 158,
+        "POP2008": 415,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072114002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11996,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.96423199960714,
+          -7.301591000224448
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11996,
+        "CU_NAME": "HIYENGALYE 2",
+        "CU_NO": "003",
+        "GEOCODE": "12072114003",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "14",
+        "WARD_NAME": "HARTINGLI",
+        "LATITUDE": -7.247159,
+        "LONGITUDE": 145.949276,
+        "REGHH": 40,
+        "TOTPOP2000": 189,
+        "MALE2000": 95,
+        "FEMALE2000": 94,
+        "POP2008": 235,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072114003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.96797000021536,
+          -7.305460999725312
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11997,
+        "CU_NAME": "LAGAI",
+        "CU_NO": "004",
+        "GEOCODE": "12072114004",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "14",
+        "WARD_NAME": "HARTINGLI",
+        "LATITUDE": -7.278278,
+        "LONGITUDE": 145.920561,
+        "REGHH": 90,
+        "TOTPOP2000": 396,
+        "MALE2000": 218,
+        "FEMALE2000": 178,
+        "POP2008": 493,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072114004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11998,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.92769199988595,
+          -7.277290000133348
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11998,
+        "CU_NAME": "KWAIYU 2",
+        "CU_NO": "005",
+        "GEOCODE": "12072114005",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "14",
+        "WARD_NAME": "HARTINGLI",
+        "LATITUDE": -7.251117,
+        "LONGITUDE": 145.880569,
+        "REGHH": 39,
+        "TOTPOP2000": 171,
+        "MALE2000": 89,
+        "FEMALE2000": 82,
+        "POP2008": 213,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072114005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11999,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9305230000365,
+          -7.279491000009614
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11999,
+        "CU_NAME": "KWAIYU 3",
+        "CU_NO": "006",
+        "GEOCODE": "12072114006",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "14",
+        "WARD_NAME": "HARTINGLI",
+        "LATITUDE": -7.253755,
+        "LONGITUDE": 145.884558,
+        "REGHH": 31,
+        "TOTPOP2000": 134,
+        "MALE2000": 61,
+        "FEMALE2000": 73,
+        "POP2008": 167,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072114006,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

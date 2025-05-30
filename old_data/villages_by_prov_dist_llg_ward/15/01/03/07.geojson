@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18410,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.08891399988124,
+          -3.086834999935263
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18410,
+        "CU_NAME": "AROP 2",
+        "CU_NO": "007",
+        "GEOCODE": "15010307007",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "AROP 2",
+        "LATITUDE": -3.078373,
+        "LONGITUDE": 142.104152,
+        "REGHH": 94,
+        "TOTPOP2000": 550,
+        "MALE2000": 275,
+        "FEMALE2000": 275,
+        "POP2008": 666,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010307007,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

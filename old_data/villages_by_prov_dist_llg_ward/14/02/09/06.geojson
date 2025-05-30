@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6541,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.85793100011563,
+          -4.398624999643971
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6541,
+        "CU_NAME": "BRANDA",
+        "CU_NO": "010",
+        "GEOCODE": "14020906010",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "06",
+        "WARD_NAME": "BRANDA",
+        "LATITUDE": -4.398769,
+        "LONGITUDE": 143.864736,
+        "REGHH": 73,
+        "TOTPOP2000": 452,
+        "MALE2000": 224,
+        "FEMALE2000": 228,
+        "POP2008": 538,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020906010,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.87410899973065,
+          -4.403156999995531
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6542,
+        "CU_NAME": "BIWAT MISSION STATION",
+        "CU_NO": "501",
+        "GEOCODE": "14020906501",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "06",
+        "WARD_NAME": "BRANDA",
+        "LATITUDE": -4.405782,
+        "LONGITUDE": 143.866251,
+        "REGHH": 10,
+        "TOTPOP2000": 59,
+        "MALE2000": 29,
+        "FEMALE2000": 30,
+        "POP2008": 67,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020906501,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

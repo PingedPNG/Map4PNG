@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.33155300017086,
+          -4.506385000267528
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7902,
+        "CU_NAME": "ABABIGAB",
+        "CU_NO": "001",
+        "GEOCODE": "13010126001",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "26",
+        "WARD_NAME": "ALESWAW",
+        "LATITUDE": -4.507779,
+        "LONGITUDE": 145.33051,
+        "REGHH": 24,
+        "TOTPOP2000": 117,
+        "MALE2000": 54,
+        "FEMALE2000": 63,
+        "POP2008": 144,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010126001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7903,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.30117799966501,
+          -4.4794389996101245
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7903,
+        "CU_NAME": "ALESUAP",
+        "CU_NO": "003",
+        "GEOCODE": "13010126003",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "26",
+        "WARD_NAME": "ALESWAW",
+        "LATITUDE": -4.480832,
+        "LONGITUDE": 145.300135,
+        "REGHH": 15,
+        "TOTPOP2000": 75,
+        "MALE2000": 39,
+        "FEMALE2000": 36,
+        "POP2008": 91,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010126003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7904,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27020500036053,
+          -4.495584000401266
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7904,
+        "CU_NAME": "WABA",
+        "CU_NO": "032",
+        "GEOCODE": "13010126032",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "26",
+        "WARD_NAME": "ALESWAW",
+        "LATITUDE": -4.500463,
+        "LONGITUDE": 145.266103,
+        "REGHH": 36,
+        "TOTPOP2000": 190,
+        "MALE2000": 100,
+        "FEMALE2000": 90,
+        "POP2008": 235,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010126032,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7905,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26054600009786,
+          -4.49891900041149
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7905,
+        "CU_NAME": "WABA COMM. SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "13010126401",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "26",
+        "WARD_NAME": "ALESWAW",
+        "LATITUDE": -4.501653,
+        "LONGITUDE": 145.261494,
+        "REGHH": 3,
+        "TOTPOP2000": 18,
+        "MALE2000": 11,
+        "FEMALE2000": 7,
+        "POP2008": 18,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010126401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

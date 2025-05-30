@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29689,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57690295970394,
+          -6.3430673401855415
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29689,
+        "CU_NAME": "BANINOFI",
+        "CU_NO": "006",
+        "GEOCODE": "11030430006",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "30",
+        "WARD_NAME": "KOFIONKA",
+        "LATITUDE": -6.343067,
+        "LONGITUDE": 145.576903,
+        "REGHH": 77,
+        "TOTPOP2000": 291,
+        "MALE2000": 147,
+        "FEMALE2000": 144,
+        "POP2008": 346,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29690,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58780016004937,
+          -6.337421460232179
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29690,
+        "CU_NAME": "DIRAI NO 1",
+        "CU_NO": "007",
+        "GEOCODE": "11030430007",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "30",
+        "WARD_NAME": "KOFIONKA",
+        "LATITUDE": -6.337421,
+        "LONGITUDE": 145.5878,
+        "REGHH": 75,
+        "TOTPOP2000": 280,
+        "MALE2000": 144,
+        "FEMALE2000": 136,
+        "POP2008": 333,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29691,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58729004030317,
+          -6.346429200247371
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29691,
+        "CU_NAME": "MESIMA",
+        "CU_NO": "032",
+        "GEOCODE": "11030430032",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "30",
+        "WARD_NAME": "KOFIONKA",
+        "LATITUDE": -6.346429,
+        "LONGITUDE": 145.58729,
+        "REGHH": 46,
+        "TOTPOP2000": 198,
+        "MALE2000": 101,
+        "FEMALE2000": 97,
+        "POP2008": 236,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29692,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57439016037767,
+          -6.350553629646242
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29692,
+        "CU_NAME": "YAGUNA",
+        "CU_NO": "050",
+        "GEOCODE": "11030430050",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "30",
+        "WARD_NAME": "KOFIONKA",
+        "LATITUDE": -6.350554,
+        "LONGITUDE": 145.57439,
+        "REGHH": 72,
+        "TOTPOP2000": 323,
+        "MALE2000": 168,
+        "FEMALE2000": 155,
+        "POP2008": 384,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7988,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8842339996994,
+          -4.307015000042156
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7988,
+        "CU_NAME": "ARIAP",
+        "CU_NO": "008",
+        "GEOCODE": "13010314008",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "RUGUSAK",
+        "LATITUDE": -4.308406,
+        "LONGITUDE": 144.883186,
+        "REGHH": 43,
+        "TOTPOP2000": 286,
+        "MALE2000": 154,
+        "FEMALE2000": 132,
+        "POP2008": 354,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010314008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7989,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8583339996145,
+          -4.300911000042561
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7989,
+        "CU_NAME": "TIAP",
+        "CU_NO": "023",
+        "GEOCODE": "13010314023",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "RUGUSAK",
+        "LATITUDE": -4.302302,
+        "LONGITUDE": 144.857286,
+        "REGHH": 51,
+        "TOTPOP2000": 293,
+        "MALE2000": 157,
+        "FEMALE2000": 136,
+        "POP2008": 363,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010314023,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7990,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.85477400002014,
+          -4.301461000224947
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7990,
+        "CU_NAME": "TONGBUR",
+        "CU_NO": "024",
+        "GEOCODE": "13010314024",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "RUGUSAK",
+        "LATITUDE": -4.302852,
+        "LONGITUDE": 144.853726,
+        "REGHH": 42,
+        "TOTPOP2000": 242,
+        "MALE2000": 125,
+        "FEMALE2000": 117,
+        "POP2008": 300,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010314024,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7991,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.88284699958945,
+          -4.303855000008184
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7991,
+        "CU_NAME": "NIAPAK",
+        "CU_NO": "025",
+        "GEOCODE": "13010314025",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "RUGUSAK",
+        "LATITUDE": -4.305246,
+        "LONGITUDE": 144.881799,
+        "REGHH": 27,
+        "TOTPOP2000": 137,
+        "MALE2000": 63,
+        "FEMALE2000": 74,
+        "POP2008": 169,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010314025,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7992,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.87893700004258,
+          -4.296175000176049
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7992,
+        "CU_NAME": "WARAMES",
+        "CU_NO": "035",
+        "GEOCODE": "13010314035",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "RUGUSAK",
+        "LATITUDE": -4.29975,
+        "LONGITUDE": 144.873311,
+        "REGHH": 33,
+        "TOTPOP2000": 190,
+        "MALE2000": 102,
+        "FEMALE2000": 88,
+        "POP2008": 235,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010314035,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

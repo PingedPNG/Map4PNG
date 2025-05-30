@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5577,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.51665999955935,
+          -5.518605999767033
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5577,
+        "CU_NAME": "PAPYUKU",
+        "CU_NO": "004",
+        "GEOCODE": "08030613004",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "13",
+        "WARD_NAME": "PAPAYUKU",
+        "LATITUDE": -5.519287,
+        "LONGITUDE": 143.516236,
+        "REGHH": 103,
+        "TOTPOP2000": 503,
+        "MALE2000": 252,
+        "FEMALE2000": 251,
+        "POP2008": 632,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030613004,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5578,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.47202399970786,
+          -5.479258000056632
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5578,
+        "CU_NAME": "KEMBOL",
+        "CU_NO": "005",
+        "GEOCODE": "08030613005",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "13",
+        "WARD_NAME": "PAPAYUKU",
+        "LATITUDE": -5.480659,
+        "LONGITUDE": 143.470956,
+        "REGHH": 57,
+        "TOTPOP2000": 264,
+        "MALE2000": 139,
+        "FEMALE2000": 125,
+        "POP2008": 332,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030613005,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5579,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.52714200000332,
+          -5.520394000382737
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5579,
+        "CU_NAME": "YAKYAK",
+        "CU_NO": "006",
+        "GEOCODE": "08030613006",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "13",
+        "WARD_NAME": "PAPAYUKU",
+        "LATITUDE": -5.521796,
+        "LONGITUDE": 143.526075,
+        "REGHH": 30,
+        "TOTPOP2000": 109,
+        "MALE2000": 53,
+        "FEMALE2000": 56,
+        "POP2008": 137,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030613006,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5580,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.50116700005708,
+          -5.524827999812317
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5580,
+        "CU_NAME": "YALUMANDAKA",
+        "CU_NO": "007",
+        "GEOCODE": "08030613007",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "13",
+        "WARD_NAME": "PAPAYUKU",
+        "LATITUDE": -5.52623,
+        "LONGITUDE": 143.500099,
+        "REGHH": 73,
+        "TOTPOP2000": 358,
+        "MALE2000": 186,
+        "FEMALE2000": 172,
+        "POP2008": 450,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030613007,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5581,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.51686299992753,
+          -5.51565899966306
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5581,
+        "CU_NAME": "PAPYUKU C/SCH & MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "08030613401",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "13",
+        "WARD_NAME": "PAPAYUKU",
+        "LATITUDE": -5.519287,
+        "LONGITUDE": 143.516236,
+        "REGHH": 12,
+        "TOTPOP2000": 60,
+        "MALE2000": 25,
+        "FEMALE2000": 35,
+        "POP2008": 76,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030613401,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7567,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.92268700020497,
+          -7.683865000369451
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7567,
+        "CU_NAME": "IVANDU",
+        "CU_NO": "003",
+        "GEOCODE": "02010512003",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "12",
+        "WARD_NAME": "IVANDU",
+        "LATITUDE": -7.68964,
+        "LONGITUDE": 145.917267,
+        "REGHH": 46,
+        "TOTPOP2000": 280,
+        "MALE2000": 140,
+        "FEMALE2000": 140,
+        "POP2008": 343,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010512003,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7568,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.94203799955415,
+          -7.72106800008811
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7568,
+        "CU_NAME": "MERAPO",
+        "CU_NO": "008",
+        "GEOCODE": "02010512008",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "12",
+        "WARD_NAME": "IVANDU",
+        "LATITUDE": -7.722497,
+        "LONGITUDE": 145.940997,
+        "REGHH": 82,
+        "TOTPOP2000": 444,
+        "MALE2000": 234,
+        "FEMALE2000": 210,
+        "POP2008": 545,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010512008,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7569,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.93480499965108,
+          -7.710900999781245
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7569,
+        "CU_NAME": "KWEMINA",
+        "CU_NO": "014",
+        "GEOCODE": "02010512014",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "12",
+        "WARD_NAME": "IVANDU",
+        "LATITUDE": -7.71233,
+        "LONGITUDE": 145.933764,
+        "REGHH": 37,
+        "TOTPOP2000": 168,
+        "MALE2000": 82,
+        "FEMALE2000": 86,
+        "POP2008": 206,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010512014,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

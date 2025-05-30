@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17556,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.05545699984077,
+          -6.005589000132204
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17556,
+        "CU_NAME": "KUMUNGAPUGL",
+        "CU_NO": "003",
+        "GEOCODE": "09071242003",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "42",
+        "WARD_NAME": "BONGA.2",
+        "LATITUDE": -6.00653,
+        "LONGITUDE": 144.055787,
+        "REGHH": 40,
+        "TOTPOP2000": 182,
+        "MALE2000": 91,
+        "FEMALE2000": 91,
+        "POP2008": 222,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071242003,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17557,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.02960800030905,
+          -6.003168000003143
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17557,
+        "CU_NAME": "BETHEL",
+        "CU_NO": "004",
+        "GEOCODE": "09071242004",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "42",
+        "WARD_NAME": "BONGA.2",
+        "LATITUDE": -6.004109,
+        "LONGITUDE": 144.029939,
+        "REGHH": 21,
+        "TOTPOP2000": 105,
+        "MALE2000": 60,
+        "FEMALE2000": 45,
+        "POP2008": 129,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071242004,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

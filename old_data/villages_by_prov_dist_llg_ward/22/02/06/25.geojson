@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16898,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.59711799999582,
+          -5.671237000287306
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16898,
+        "CU_NAME": "TOLI",
+        "CU_NO": "013",
+        "GEOCODE": "09040625013",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "25",
+        "WARD_NAME": "TOLI",
+        "LATITUDE": -5.672172,
+        "LONGITUDE": 144.597456,
+        "REGHH": 70,
+        "TOTPOP2000": 361,
+        "MALE2000": 183,
+        "FEMALE2000": 178,
+        "POP2008": 439,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040625013,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19851,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9180679998384,
+          -6.7063759999523995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19851,
+        "CU_NAME": "PAWALE",
+        "CU_NO": "009",
+        "GEOCODE": "07030827009",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "27",
+        "WARD_NAME": "PAWALE",
+        "LATITUDE": -6.712326,
+        "LONGITUDE": 143.919601,
+        "REGHH": 64,
+        "TOTPOP2000": 315,
+        "MALE2000": 151,
+        "FEMALE2000": 164,
+        "POP2008": 438,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030827009,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19852,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.92008400017653,
+          -6.706364000298322
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19852,
+        "CU_NAME": "PANDEALA",
+        "CU_NO": "011",
+        "GEOCODE": "07030827011",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "27",
+        "WARD_NAME": "PAWALE",
+        "LATITUDE": -6.712326,
+        "LONGITUDE": 143.919601,
+        "REGHH": 29,
+        "TOTPOP2000": 148,
+        "MALE2000": 72,
+        "FEMALE2000": 76,
+        "POP2008": 205,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030827011,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6152,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7175469997943,
+          -3.5106219998053803
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6152,
+        "CU_NAME": "MIRINGI",
+        "CU_NO": "007",
+        "GEOCODE": "14010226007",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "26",
+        "WARD_NAME": "MIRINGI",
+        "LATITUDE": -3.512198,
+        "LONGITUDE": 142.716304,
+        "REGHH": 27,
+        "TOTPOP2000": 109,
+        "MALE2000": 58,
+        "FEMALE2000": 51,
+        "POP2008": 130,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010226007,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6153,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7261610004299,
+          -3.521577999624924
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6153,
+        "CU_NAME": "MUYEM",
+        "CU_NO": "009",
+        "GEOCODE": "14010226009",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "26",
+        "WARD_NAME": "MIRINGI",
+        "LATITUDE": -3.523154,
+        "LONGITUDE": 142.724918,
+        "REGHH": 26,
+        "TOTPOP2000": 91,
+        "MALE2000": 51,
+        "FEMALE2000": 40,
+        "POP2008": 107,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010226009,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6154,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7497599996243,
+          -3.523871000146471
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6154,
+        "CU_NAME": "SAMARK",
+        "CU_NO": "015",
+        "GEOCODE": "14010226015",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "26",
+        "WARD_NAME": "MIRINGI",
+        "LATITUDE": -3.525447,
+        "LONGITUDE": 142.748517,
+        "REGHH": 19,
+        "TOTPOP2000": 72,
+        "MALE2000": 34,
+        "FEMALE2000": 38,
+        "POP2008": 88,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010226015,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.72867600039717,
+          -3.5297519997549216
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6155,
+        "CU_NAME": "SATNIAM",
+        "CU_NO": "030",
+        "GEOCODE": "14010226030",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "26",
+        "WARD_NAME": "MIRINGI",
+        "LATITUDE": -3.53133,
+        "LONGITUDE": 142.727433,
+        "REGHH": 12,
+        "TOTPOP2000": 48,
+        "MALE2000": 24,
+        "FEMALE2000": 24,
+        "POP2008": 56,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010226030,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.73785600015435,
+          -3.502893000411575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6156,
+        "CU_NAME": "SAUWURK",
+        "CU_NO": "050",
+        "GEOCODE": "14010226050",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "26",
+        "WARD_NAME": "MIRINGI",
+        "LATITUDE": -3.505986,
+        "LONGITUDE": 142.730624,
+        "REGHH": 16,
+        "TOTPOP2000": 72,
+        "MALE2000": 31,
+        "FEMALE2000": 41,
+        "POP2008": 88,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010226050,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

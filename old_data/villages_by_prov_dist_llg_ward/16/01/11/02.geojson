@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9518,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.28890699995816,
+          -2.542949999742632
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9518,
+        "CU_NAME": "LIPAN",
+        "CU_NO": "003",
+        "GEOCODE": "16011102003",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LIPAN",
+        "LATITUDE": -2.540953,
+        "LONGITUDE": 147.291044,
+        "REGHH": 69,
+        "TOTPOP2000": 393,
+        "MALE2000": 203,
+        "FEMALE2000": 190,
+        "POP2008": 482,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16011102003,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

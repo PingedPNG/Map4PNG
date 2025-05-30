@@ -1,0 +1,357 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12966,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.60662299955186,
+          -9.166764000158423
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12966,
+        "CU_NAME": "GOBERA",
+        "CU_NO": "021",
+        "GEOCODE": "06010101021",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "SARIRI",
+        "LATITUDE": -9.168215,
+        "LONGITUDE": 148.605615,
+        "REGHH": 5,
+        "TOTPOP2000": 49,
+        "MALE2000": 21,
+        "FEMALE2000": 28,
+        "POP2008": 58,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010101021,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12967,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.56426100024498,
+          -9.125775000315969
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12967,
+        "CU_NAME": "IWUJI",
+        "CU_NO": "026",
+        "GEOCODE": "06010101026",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "SARIRI",
+        "LATITUDE": -9.127225,
+        "LONGITUDE": 148.563253,
+        "REGHH": 18,
+        "TOTPOP2000": 105,
+        "MALE2000": 62,
+        "FEMALE2000": 43,
+        "POP2008": 129,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010101026,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12968,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.59053499959066,
+          -9.169578999571115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12968,
+        "CU_NAME": "NEMBADI",
+        "CU_NO": "031",
+        "GEOCODE": "06010101031",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "SARIRI",
+        "LATITUDE": -9.17103,
+        "LONGITUDE": 148.589527,
+        "REGHH": 13,
+        "TOTPOP2000": 87,
+        "MALE2000": 47,
+        "FEMALE2000": 40,
+        "POP2008": 108,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010101031,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12969,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5863299999296,
+          -9.185948999946334
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12969,
+        "CU_NAME": "SARIRI",
+        "CU_NO": "038",
+        "GEOCODE": "06010101038",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "SARIRI",
+        "LATITUDE": -9.1874,
+        "LONGITUDE": 148.585322,
+        "REGHH": 5,
+        "TOTPOP2000": 33,
+        "MALE2000": 20,
+        "FEMALE2000": 13,
+        "POP2008": 41,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010101038,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12970,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.60073999985116,
+          -9.169697999662901
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12970,
+        "CU_NAME": "GINEI",
+        "CU_NO": "039",
+        "GEOCODE": "06010101039",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "SARIRI",
+        "LATITUDE": -9.171149,
+        "LONGITUDE": 148.599732,
+        "REGHH": 6,
+        "TOTPOP2000": 38,
+        "MALE2000": 17,
+        "FEMALE2000": 21,
+        "POP2008": 46,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010101039,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12971,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5588879997814,
+          -9.113035000065167
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12971,
+        "CU_NAME": "WAI-E",
+        "CU_NO": "047",
+        "GEOCODE": "06010101047",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "SARIRI",
+        "LATITUDE": -9.114485,
+        "LONGITUDE": 148.557878,
+        "REGHH": 6,
+        "TOTPOP2000": 26,
+        "MALE2000": 15,
+        "FEMALE2000": 11,
+        "POP2008": 34,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010101047,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12972,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.57968500016273,
+          -9.181907999754344
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12972,
+        "CU_NAME": "UNGODA",
+        "CU_NO": "048",
+        "GEOCODE": "06010101048",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "SARIRI",
+        "LATITUDE": -9.183359,
+        "LONGITUDE": 148.578677,
+        "REGHH": 3,
+        "TOTPOP2000": 22,
+        "MALE2000": 9,
+        "FEMALE2000": 13,
+        "POP2008": 30,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010101048,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12973,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.58867800028952,
+          -9.178031999976781
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12973,
+        "CU_NAME": "GORA",
+        "CU_NO": "049",
+        "GEOCODE": "06010101049",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "SARIRI",
+        "LATITUDE": -9.179483,
+        "LONGITUDE": 148.58767,
+        "REGHH": 9,
+        "TOTPOP2000": 66,
+        "MALE2000": 29,
+        "FEMALE2000": 37,
+        "POP2008": 82,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010101049,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12974,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.6154779996101,
+          -9.156759000127693
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12974,
+        "CU_NAME": "VOIKA",
+        "CU_NO": "050",
+        "GEOCODE": "06010101050",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "SARIRI",
+        "LATITUDE": -9.15821,
+        "LONGITUDE": 148.61447,
+        "REGHH": 11,
+        "TOTPOP2000": 86,
+        "MALE2000": 43,
+        "FEMALE2000": 43,
+        "POP2008": 106,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010101050,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12975,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.57119199971112,
+          -9.138531000405294
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12975,
+        "CU_NAME": "YAPANI",
+        "CU_NO": "051",
+        "GEOCODE": "06010101051",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "SARIRI",
+        "LATITUDE": -9.143976,
+        "LONGITUDE": 148.566519,
+        "REGHH": 6,
+        "TOTPOP2000": 34,
+        "MALE2000": 20,
+        "FEMALE2000": 14,
+        "POP2008": 42,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010101051,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.56581399991626,
+          -9.149525000178585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12976,
+        "CU_NAME": "BAREJI H/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "06010101401",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "SARIRI",
+        "LATITUDE": -9.154111,
+        "LONGITUDE": 148.569904,
+        "REGHH": 11,
+        "TOTPOP2000": 79,
+        "MALE2000": 45,
+        "FEMALE2000": 34,
+        "POP2008": 96,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010101401,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

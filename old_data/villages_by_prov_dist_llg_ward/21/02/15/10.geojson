@@ -1,0 +1,517 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20661,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.50460000028988,
+          -5.390517999705878
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20661,
+        "CU_NAME": "KURAKE KANA",
+        "CU_NO": "009",
+        "GEOCODE": "07051510009",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "10",
+        "WARD_NAME": "SUWAKA/LANE",
+        "LATITUDE": -5.397293,
+        "LONGITUDE": 142.508142,
+        "REGHH": 18,
+        "TOTPOP2000": 109,
+        "MALE2000": 58,
+        "FEMALE2000": 51,
+        "POP2008": 152,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051510009,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20662,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.50948499983292,
+          -5.390694999774382
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20662,
+        "CU_NAME": "SUWAKA",
+        "CU_NO": "010",
+        "GEOCODE": "07051510010",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "10",
+        "WARD_NAME": "SUWAKA/LANE",
+        "LATITUDE": -5.397293,
+        "LONGITUDE": 142.508142,
+        "REGHH": 13,
+        "TOTPOP2000": 98,
+        "MALE2000": 58,
+        "FEMALE2000": 40,
+        "POP2008": 135,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051510010,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20663,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5101839996919,
+          -5.395285000102604
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20663,
+        "CU_NAME": "SUKAYU PIRI",
+        "CU_NO": "011",
+        "GEOCODE": "07051510011",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "10",
+        "WARD_NAME": "SUWAKA/LANE",
+        "LATITUDE": -5.397293,
+        "LONGITUDE": 142.508142,
+        "REGHH": 6,
+        "TOTPOP2000": 36,
+        "MALE2000": 20,
+        "FEMALE2000": 16,
+        "POP2008": 52,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051510011,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20664,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.50588700028493,
+          -5.395007999919187
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20664,
+        "CU_NAME": "KIRAPO",
+        "CU_NO": "012",
+        "GEOCODE": "07051510012",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "10",
+        "WARD_NAME": "SUWAKA/LANE",
+        "LATITUDE": -5.397293,
+        "LONGITUDE": 142.508142,
+        "REGHH": 6,
+        "TOTPOP2000": 39,
+        "MALE2000": 22,
+        "FEMALE2000": 17,
+        "POP2008": 55,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051510012,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20665,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5071429997497,
+          -5.393341000386783
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20665,
+        "CU_NAME": "YUKUADA",
+        "CU_NO": "013",
+        "GEOCODE": "07051510013",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "10",
+        "WARD_NAME": "SUWAKA/LANE",
+        "LATITUDE": -5.397293,
+        "LONGITUDE": 142.508142,
+        "REGHH": 5,
+        "TOTPOP2000": 27,
+        "MALE2000": 16,
+        "FEMALE2000": 11,
+        "POP2008": 35,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051510013,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20666,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.50351999994814,
+          -5.394194000152936
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20666,
+        "CU_NAME": "MAKAIADA",
+        "CU_NO": "014",
+        "GEOCODE": "07051510014",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "10",
+        "WARD_NAME": "SUWAKA/LANE",
+        "LATITUDE": -5.397293,
+        "LONGITUDE": 142.508142,
+        "REGHH": 9,
+        "TOTPOP2000": 61,
+        "MALE2000": 35,
+        "FEMALE2000": 26,
+        "POP2008": 85,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051510014,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20667,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.50433599980659,
+          -5.3930319996270555
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20667,
+        "CU_NAME": "TIGU KANA",
+        "CU_NO": "015",
+        "GEOCODE": "07051510015",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "10",
+        "WARD_NAME": "SUWAKA/LANE",
+        "LATITUDE": -5.397293,
+        "LONGITUDE": 142.508142,
+        "REGHH": 9,
+        "TOTPOP2000": 58,
+        "MALE2000": 30,
+        "FEMALE2000": 28,
+        "POP2008": 81,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051510015,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20668,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.50345899983301,
+          -5.392300000044941
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20668,
+        "CU_NAME": "ALI YAWALE",
+        "CU_NO": "016",
+        "GEOCODE": "07051510016",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "10",
+        "WARD_NAME": "SUWAKA/LANE",
+        "LATITUDE": -5.397293,
+        "LONGITUDE": 142.508142,
+        "REGHH": 18,
+        "TOTPOP2000": 106,
+        "MALE2000": 55,
+        "FEMALE2000": 51,
+        "POP2008": 147,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051510016,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20669,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5081090002302,
+          -5.3902390003295295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20669,
+        "CU_NAME": "ALI MANDI",
+        "CU_NO": "017",
+        "GEOCODE": "07051510017",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "10",
+        "WARD_NAME": "SUWAKA/LANE",
+        "LATITUDE": -5.397293,
+        "LONGITUDE": 142.508142,
+        "REGHH": 9,
+        "TOTPOP2000": 49,
+        "MALE2000": 25,
+        "FEMALE2000": 24,
+        "POP2008": 67,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051510017,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20670,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.50977399967041,
+          -5.391611999793895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20670,
+        "CU_NAME": "KALI KANA",
+        "CU_NO": "018",
+        "GEOCODE": "07051510018",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "10",
+        "WARD_NAME": "SUWAKA/LANE",
+        "LATITUDE": -5.397293,
+        "LONGITUDE": 142.508142,
+        "REGHH": 13,
+        "TOTPOP2000": 71,
+        "MALE2000": 35,
+        "FEMALE2000": 36,
+        "POP2008": 98,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051510018,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20671,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.50920500041047,
+          -5.393163000272182
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20671,
+        "CU_NAME": "ALI AMBUALE",
+        "CU_NO": "019",
+        "GEOCODE": "07051510019",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "10",
+        "WARD_NAME": "SUWAKA/LANE",
+        "LATITUDE": -5.397293,
+        "LONGITUDE": 142.508142,
+        "REGHH": 4,
+        "TOTPOP2000": 29,
+        "MALE2000": 20,
+        "FEMALE2000": 9,
+        "POP2008": 38,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051510019,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20672,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.51138200007927,
+          -5.393674999601501
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20672,
+        "CU_NAME": "HADEKE KANA",
+        "CU_NO": "020",
+        "GEOCODE": "07051510020",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "10",
+        "WARD_NAME": "SUWAKA/LANE",
+        "LATITUDE": -5.397293,
+        "LONGITUDE": 142.508142,
+        "REGHH": 3,
+        "TOTPOP2000": 17,
+        "MALE2000": 6,
+        "FEMALE2000": 11,
+        "POP2008": 25,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051510020,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.50800399988475,
+          -5.3940269996462575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20673,
+        "CU_NAME": "PIRILIPI",
+        "CU_NO": "021",
+        "GEOCODE": "07051510021",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "10",
+        "WARD_NAME": "SUWAKA/LANE",
+        "LATITUDE": -5.397293,
+        "LONGITUDE": 142.508142,
+        "REGHH": 8,
+        "TOTPOP2000": 46,
+        "MALE2000": 28,
+        "FEMALE2000": 18,
+        "POP2008": 63,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051510021,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20674,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.51060600026676,
+          -5.392585999744028
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20674,
+        "CU_NAME": "LANE SDA MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "07051510401",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "10",
+        "WARD_NAME": "SUWAKA/LANE",
+        "LATITUDE": -5.397293,
+        "LONGITUDE": 142.508142,
+        "REGHH": 4,
+        "TOTPOP2000": 15,
+        "MALE2000": 8,
+        "FEMALE2000": 7,
+        "POP2008": 23,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051510401,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20675,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.50731300039467,
+          -5.392450999813718
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20675,
+        "CU_NAME": "KOPIAGO H.C",
+        "CU_NO": "402",
+        "GEOCODE": "07051510402",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "10",
+        "WARD_NAME": "SUWAKA/LANE",
+        "LATITUDE": -5.397293,
+        "LONGITUDE": 142.508142,
+        "REGHH": 2,
+        "TOTPOP2000": 15,
+        "MALE2000": 8,
+        "FEMALE2000": 7,
+        "POP2008": 23,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051510402,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20676,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.50577599966277,
+          -5.391476999863585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20676,
+        "CU_NAME": "KIRAPO CAF MISSION",
+        "CU_NO": "403",
+        "GEOCODE": "07051510403",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "10",
+        "WARD_NAME": "SUWAKA/LANE",
+        "LATITUDE": -5.397293,
+        "LONGITUDE": 142.508142,
+        "REGHH": 4,
+        "TOTPOP2000": 17,
+        "MALE2000": 7,
+        "FEMALE2000": 10,
+        "POP2008": 25,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051510403,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

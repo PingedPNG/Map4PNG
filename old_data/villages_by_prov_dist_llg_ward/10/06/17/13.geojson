@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14895,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0300299997847,
+          -6.057731999931832
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14895,
+        "CU_NAME": "WOMAI",
+        "CU_NO": "001",
+        "GEOCODE": "10061713001",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "13",
+        "WARD_NAME": "WOMA",
+        "LATITUDE": -6.059142,
+        "LONGITUDE": 145.028981,
+        "REGHH": 46,
+        "TOTPOP2000": 270,
+        "MALE2000": 129,
+        "FEMALE2000": 141,
+        "POP2008": 310,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061713001,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14896,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0235739997404,
+          -6.051493000001926
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14896,
+        "CU_NAME": "GERA",
+        "CU_NO": "002",
+        "GEOCODE": "10061713002",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "13",
+        "WARD_NAME": "WOMA",
+        "LATITUDE": -6.052903,
+        "LONGITUDE": 145.022525,
+        "REGHH": 50,
+        "TOTPOP2000": 281,
+        "MALE2000": 144,
+        "FEMALE2000": 137,
+        "POP2008": 324,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061713002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14897,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.02565899966316,
+          -6.049602000032223
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14897,
+        "CU_NAME": "GERAKUL",
+        "CU_NO": "003",
+        "GEOCODE": "10061713003",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "13",
+        "WARD_NAME": "WOMA",
+        "LATITUDE": -6.051012,
+        "LONGITUDE": 145.02461,
+        "REGHH": 24,
+        "TOTPOP2000": 122,
+        "MALE2000": 59,
+        "FEMALE2000": 63,
+        "POP2008": 138,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061713003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14898,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.03153199980204,
+          -6.057207000003018
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14898,
+        "CU_NAME": "TUNAKARANAS",
+        "CU_NO": "004",
+        "GEOCODE": "10061713004",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "13",
+        "WARD_NAME": "WOMA",
+        "LATITUDE": -6.058617,
+        "LONGITUDE": 145.030483,
+        "REGHH": 96,
+        "TOTPOP2000": 553,
+        "MALE2000": 289,
+        "FEMALE2000": 264,
+        "POP2008": 637,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061713004,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

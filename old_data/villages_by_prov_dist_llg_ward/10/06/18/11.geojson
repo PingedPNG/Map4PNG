@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.98890600001198,
+          -6.062261000144986
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14936,
+        "CU_NAME": "KONOMA",
+        "CU_NO": "011",
+        "GEOCODE": "10061811011",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "11",
+        "WARD_NAME": "PIGA",
+        "LATITUDE": -6.063671,
+        "LONGITUDE": 144.987856,
+        "REGHH": 40,
+        "TOTPOP2000": 188,
+        "MALE2000": 94,
+        "FEMALE2000": 94,
+        "POP2008": 217,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061811011,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.01918399964188,
+          -6.053520999994134
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14937,
+        "CU_NAME": "HIMI",
+        "CU_NO": "012",
+        "GEOCODE": "10061811012",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "11",
+        "WARD_NAME": "PIGA",
+        "LATITUDE": -6.054931,
+        "LONGITUDE": 145.018135,
+        "REGHH": 52,
+        "TOTPOP2000": 295,
+        "MALE2000": 161,
+        "FEMALE2000": 134,
+        "POP2008": 340,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061811012,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9863259997452,
+          -6.061416999894561
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14938,
+        "CU_NAME": "MOGMAGABA",
+        "CU_NO": "013",
+        "GEOCODE": "10061811013",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "11",
+        "WARD_NAME": "PIGA",
+        "LATITUDE": -6.062827,
+        "LONGITUDE": 144.985276,
+        "REGHH": 22,
+        "TOTPOP2000": 122,
+        "MALE2000": 64,
+        "FEMALE2000": 58,
+        "POP2008": 138,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061811013,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14939,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9811039999497,
+          -6.066345999668101
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14939,
+        "CU_NAME": "AREGOL",
+        "CU_NO": "014",
+        "GEOCODE": "10061811014",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "11",
+        "WARD_NAME": "PIGA",
+        "LATITUDE": -6.067756,
+        "LONGITUDE": 144.980054,
+        "REGHH": 61,
+        "TOTPOP2000": 261,
+        "MALE2000": 140,
+        "FEMALE2000": 121,
+        "POP2008": 301,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061811014,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

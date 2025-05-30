@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 28698,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27675151986682,
+          -5.940037439576145
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28698,
+        "CU_NAME": "KAFANDEYUFA",
+        "CU_NO": "010",
+        "GEOCODE": "11010119010",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "19",
+        "WARD_NAME": "PIKOSA",
+        "LATITUDE": -5.940037,
+        "LONGITUDE": 145.276752,
+        "REGHH": 69,
+        "TOTPOP2000": 200,
+        "MALE2000": 110,
+        "FEMALE2000": 90,
+        "POP2008": 238,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28699,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.25470439978824,
+          -5.963113439833307
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28699,
+        "CU_NAME": "KOMOBOYUFA",
+        "CU_NO": "053",
+        "GEOCODE": "11010119053",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "19",
+        "WARD_NAME": "PIKOSA",
+        "LATITUDE": -5.963113,
+        "LONGITUDE": 145.254704,
+        "REGHH": 66,
+        "TOTPOP2000": 224,
+        "MALE2000": 122,
+        "FEMALE2000": 102,
+        "POP2008": 266,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28700,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.23979895975424,
+          -5.957190000318235
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28700,
+        "CU_NAME": "ORUFEYUFO",
+        "CU_NO": "082",
+        "GEOCODE": "11010119082",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "19",
+        "WARD_NAME": "PIKOSA",
+        "LATITUDE": -5.95719,
+        "LONGITUDE": 145.239799,
+        "REGHH": 68,
+        "TOTPOP2000": 232,
+        "MALE2000": 132,
+        "FEMALE2000": 100,
+        "POP2008": 276,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28701,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27776960008703,
+          -5.935882860405627
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28701,
+        "CU_NAME": "NINOREVE",
+        "CU_NO": "083",
+        "GEOCODE": "11010119083",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "19",
+        "WARD_NAME": "PIKOSA",
+        "LATITUDE": -5.935883,
+        "LONGITUDE": 145.27777,
+        "REGHH": 74,
+        "TOTPOP2000": 232,
+        "MALE2000": 132,
+        "FEMALE2000": 100,
+        "POP2008": 276,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28702,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.25753399969437,
+          -5.968221480237048
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28702,
+        "CU_NAME": "LONOFUGUWE",
+        "CU_NO": "084",
+        "GEOCODE": "11010119084",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "19",
+        "WARD_NAME": "PIKOSA",
+        "LATITUDE": -5.968221,
+        "LONGITUDE": 145.257534,
+        "REGHH": 30,
+        "TOTPOP2000": 83,
+        "MALE2000": 43,
+        "FEMALE2000": 40,
+        "POP2008": 99,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

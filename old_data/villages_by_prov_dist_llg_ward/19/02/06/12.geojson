@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18021,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.91696599978116,
+          -5.4597259995551894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18021,
+        "CU_NAME": "KIAMU",
+        "CU_NO": "007",
+        "GEOCODE": "19020612007",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "SALE / MALASI",
+        "LATITUDE": -5.46114,
+        "LONGITUDE": 150.916,
+        "REGHH": 45,
+        "TOTPOP2000": 294,
+        "MALE2000": 157,
+        "FEMALE2000": 137,
+        "POP2008": 387,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020612007,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18022,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.98017499997638,
+          -5.4621509998686975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18022,
+        "CU_NAME": "MALASI",
+        "CU_NO": "017",
+        "GEOCODE": "19020612017",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "SALE / MALASI",
+        "LATITUDE": -5.46557,
+        "LONGITUDE": 150.978,
+        "REGHH": 48,
+        "TOTPOP2000": 307,
+        "MALE2000": 168,
+        "FEMALE2000": 139,
+        "POP2008": 405,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020612017,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18023,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9543640003984,
+          -5.453961999946273
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18023,
+        "CU_NAME": "SULU",
+        "CU_NO": "029",
+        "GEOCODE": "19020612029",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "SALE / MALASI",
+        "LATITUDE": -5.44987,
+        "LONGITUDE": 150.951,
+        "REGHH": 24,
+        "TOTPOP2000": 173,
+        "MALE2000": 88,
+        "FEMALE2000": 85,
+        "POP2008": 227,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020612029,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18024,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.00996499958512,
+          -5.494376000252146
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18024,
+        "CU_NAME": "SILALI",
+        "CU_NO": "030",
+        "GEOCODE": "19020612030",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "SALE / MALASI",
+        "LATITUDE": -5.49579,
+        "LONGITUDE": 151.009,
+        "REGHH": 69,
+        "TOTPOP2000": 265,
+        "MALE2000": 138,
+        "FEMALE2000": 127,
+        "POP2008": 349,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020612030,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

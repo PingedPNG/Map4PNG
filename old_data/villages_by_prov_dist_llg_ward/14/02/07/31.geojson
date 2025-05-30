@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6453,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.43118500028754,
+          -4.6804330000828145
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6453,
+        "CU_NAME": "TOGO",
+        "CU_NO": "018",
+        "GEOCODE": "14020731018",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "31",
+        "WARD_NAME": "TOGO",
+        "LATITUDE": -4.679593,
+        "LONGITUDE": 144.437115,
+        "REGHH": 29,
+        "TOTPOP2000": 274,
+        "MALE2000": 149,
+        "FEMALE2000": 125,
+        "POP2008": 326,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020731018,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

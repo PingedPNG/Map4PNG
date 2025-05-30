@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8829321202212,
+          -6.338513790279137
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29997,
+        "CU_NAME": "VIETNAM STREET",
+        "CU_NO": "003",
+        "GEOCODE": "11040683003",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "06",
+        "WARD_NO": "83",
+        "WARD_NAME": "UKARUMPA S.I.L.",
+        "LATITUDE": -6.338514,
+        "LONGITUDE": 145.882932,
+        "REGHH": 28,
+        "TOTPOP2000": 97,
+        "MALE2000": 49,
+        "FEMALE2000": 48,
+        "POP2008": 113,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29998,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.88842427995667,
+          -6.332669009966764
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29998,
+        "CU_NAME": "COLUMBIA STREET",
+        "CU_NO": "004",
+        "GEOCODE": "11040683004",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "06",
+        "WARD_NO": "83",
+        "WARD_NAME": "UKARUMPA S.I.L.",
+        "LATITUDE": -6.332669,
+        "LONGITUDE": 145.888424,
+        "REGHH": 32,
+        "TOTPOP2000": 106,
+        "MALE2000": 61,
+        "FEMALE2000": 45,
+        "POP2008": 126,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29999,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.87969715989607,
+          -6.336051299927476
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29999,
+        "CU_NAME": "ABORIGINE STREET",
+        "CU_NO": "006",
+        "GEOCODE": "11040683006",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "06",
+        "WARD_NO": "83",
+        "WARD_NAME": "UKARUMPA S.I.L.",
+        "LATITUDE": -6.336051,
+        "LONGITUDE": 145.879697,
+        "REGHH": 13,
+        "TOTPOP2000": 52,
+        "MALE2000": 30,
+        "FEMALE2000": 22,
+        "POP2008": 60,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.88064468020787,
+          -6.339038040173364
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30000,
+        "CU_NAME": "THE PARK WAY GROVES AVE.",
+        "CU_NO": "007",
+        "GEOCODE": "11040683007",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "06",
+        "WARD_NO": "83",
+        "WARD_NAME": "UKARUMPA S.I.L.",
+        "LATITUDE": -6.339038,
+        "LONGITUDE": 145.880645,
+        "REGHH": 23,
+        "TOTPOP2000": 112,
+        "MALE2000": 58,
+        "FEMALE2000": 54,
+        "POP2008": 135,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

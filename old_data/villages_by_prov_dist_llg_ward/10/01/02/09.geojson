@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13934,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1363479995606,
+          -6.262732999927948
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13934,
+        "CU_NAME": "WANGOI",
+        "CU_NO": "010",
+        "GEOCODE": "10010209010",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "WANGOI",
+        "LATITUDE": -6.263026,
+        "LONGITUDE": 145.135304,
+        "REGHH": 51,
+        "TOTPOP2000": 168,
+        "MALE2000": 86,
+        "FEMALE2000": 82,
+        "POP2008": 192,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010209010,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.12781800010066,
+          -6.2614429997945535
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13935,
+        "CU_NAME": "GANEI",
+        "CU_NO": "011",
+        "GEOCODE": "10010209011",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "WANGOI",
+        "LATITUDE": -6.262855,
+        "LONGITUDE": 145.12677,
+        "REGHH": 54,
+        "TOTPOP2000": 205,
+        "MALE2000": 117,
+        "FEMALE2000": 88,
+        "POP2008": 237,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010209011,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.13226800026803,
+          -6.259970000215276
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13936,
+        "CU_NAME": "AURABOI",
+        "CU_NO": "012",
+        "GEOCODE": "10010209012",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "WANGOI",
+        "LATITUDE": -6.261381,
+        "LONGITUDE": 145.13122,
+        "REGHH": 67,
+        "TOTPOP2000": 291,
+        "MALE2000": 155,
+        "FEMALE2000": 136,
+        "POP2008": 336,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010209012,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.15804700016895,
+          -6.241444000240392
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13937,
+        "CU_NAME": "GAMAR (YAGARI)",
+        "CU_NO": "013",
+        "GEOCODE": "10010209013",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "WANGOI",
+        "LATITUDE": -6.242856,
+        "LONGITUDE": 145.156999,
+        "REGHH": 93,
+        "TOTPOP2000": 424,
+        "MALE2000": 224,
+        "FEMALE2000": 200,
+        "POP2008": 489,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010209013,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.13827300019886,
+          -6.260869000304069
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13938,
+        "CU_NAME": "WANGOI STATION",
+        "CU_NO": "401",
+        "GEOCODE": "10010209401",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "WANGOI",
+        "LATITUDE": -6.262816,
+        "LONGITUDE": 145.136688,
+        "REGHH": 13,
+        "TOTPOP2000": 64,
+        "MALE2000": 40,
+        "FEMALE2000": 24,
+        "POP2008": 72,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010209401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.07079000005854,
+          -5.548140000160856
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17137,
+        "CU_NAME": "MONDAIYANDA",
+        "CU_NO": "001",
+        "GEOCODE": "09051003001",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "MONDAIYANDA",
+        "LATITUDE": -5.549075,
+        "LONGITUDE": 144.071122,
+        "REGHH": 37,
+        "TOTPOP2000": 140,
+        "MALE2000": 79,
+        "FEMALE2000": 61,
+        "POP2008": 172,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051003001,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0722239996379,
+          -5.542685999559183
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17138,
+        "CU_NAME": "WANMANDA",
+        "CU_NO": "002",
+        "GEOCODE": "09051003002",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "MONDAIYANDA",
+        "LATITUDE": -5.543621,
+        "LONGITUDE": 144.072556,
+        "REGHH": 32,
+        "TOTPOP2000": 146,
+        "MALE2000": 78,
+        "FEMALE2000": 68,
+        "POP2008": 178,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051003002,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.07103100038046,
+          -5.56283799987375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17139,
+        "CU_NAME": "YUSA",
+        "CU_NO": "003",
+        "GEOCODE": "09051003003",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "MONDAIYANDA",
+        "LATITUDE": -5.563773,
+        "LONGITUDE": 144.071363,
+        "REGHH": 20,
+        "TOTPOP2000": 80,
+        "MALE2000": 40,
+        "FEMALE2000": 40,
+        "POP2008": 96,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051003003,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5553420003331,
+          -8.571343000279171
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1538,
+        "CU_NAME": "INAWI",
+        "CU_NO": "011",
+        "GEOCODE": "03031011011",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "11",
+        "WARD_NAME": "INAUI",
+        "LATITUDE": -8.572782,
+        "LONGITUDE": 146.554307,
+        "REGHH": 254,
+        "TOTPOP2000": 1800,
+        "MALE2000": 939,
+        "FEMALE2000": 861,
+        "POP2008": 2156,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031011011,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

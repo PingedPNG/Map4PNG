@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15297,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.10773500017024,
+          -6.048908999550633
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15297,
+        "CU_NAME": "BONGUBUN",
+        "CU_NO": "002",
+        "GEOCODE": "01020603002",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "ATKAMBA",
+        "LATITUDE": -6.045889,
+        "LONGITUDE": 141.109282,
+        "REGHH": 14,
+        "TOTPOP2000": 84,
+        "MALE2000": 42,
+        "FEMALE2000": 42,
+        "POP2008": 108,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020603002,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.09055100002865,
+          -6.072103999899639
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15298,
+        "CU_NAME": "ATKAMBA",
+        "CU_NO": "016",
+        "GEOCODE": "01020603016",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "ATKAMBA",
+        "LATITUDE": -6.070549,
+        "LONGITUDE": 141.099791,
+        "REGHH": 72,
+        "TOTPOP2000": 437,
+        "MALE2000": 222,
+        "FEMALE2000": 215,
+        "POP2008": 565,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020603016,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15299,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.15472299966677,
+          -6.031198000287418
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15299,
+        "CU_NAME": "TIWERE",
+        "CU_NO": "017",
+        "GEOCODE": "01020603017",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "ATKAMBA",
+        "LATITUDE": -6.0326,
+        "LONGITUDE": 141.153626,
+        "REGHH": 3,
+        "TOTPOP2000": 16,
+        "MALE2000": 10,
+        "FEMALE2000": 6,
+        "POP2008": 24,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020603017,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

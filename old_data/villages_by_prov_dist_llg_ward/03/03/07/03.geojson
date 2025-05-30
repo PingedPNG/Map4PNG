@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.00249100015958,
+          -9.302322000260062
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1226,
+        "CU_NAME": "PAPA",
+        "CU_NO": "007",
+        "GEOCODE": "03030703007",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "03",
+        "WARD_NAME": "PAPA",
+        "LATITUDE": -9.30377,
+        "LONGITUDE": 147.00146,
+        "REGHH": 94,
+        "TOTPOP2000": 885,
+        "MALE2000": 479,
+        "FEMALE2000": 406,
+        "POP2008": 1061,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030703007,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.00809599963077,
+          -9.309484999632957
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1227,
+        "CU_NAME": "METAGO BIBLE COLLEGE",
+        "CU_NO": "503",
+        "GEOCODE": "03030703503",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "03",
+        "WARD_NAME": "PAPA",
+        "LATITUDE": -9.310933,
+        "LONGITUDE": 147.007065,
+        "REGHH": 20,
+        "TOTPOP2000": 74,
+        "MALE2000": 37,
+        "FEMALE2000": 37,
+        "POP2008": 90,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030703503,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

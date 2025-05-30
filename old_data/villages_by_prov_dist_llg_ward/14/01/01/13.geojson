@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6020,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.10337000012544,
+          -4.289163999718767
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6020,
+        "CU_NAME": "TAURI",
+        "CU_NO": "010",
+        "GEOCODE": "14010113010",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "13",
+        "WARD_NAME": "TAURI",
+        "LATITUDE": -4.290748,
+        "LONGITUDE": 142.102117,
+        "REGHH": 79,
+        "TOTPOP2000": 464,
+        "MALE2000": 220,
+        "FEMALE2000": 244,
+        "POP2008": 552,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010113010,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

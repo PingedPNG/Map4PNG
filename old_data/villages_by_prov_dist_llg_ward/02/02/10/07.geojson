@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7810,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.00471099971298,
+          -7.658707000327752
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7810,
+        "CU_NAME": "PEPEHA",
+        "CU_NO": "002",
+        "GEOCODE": "02021007002",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "07",
+        "WARD_NAME": "KIBENI",
+        "LATITUDE": -7.655742,
+        "LONGITUDE": 144.007263,
+        "REGHH": 5,
+        "TOTPOP2000": 24,
+        "MALE2000": 14,
+        "FEMALE2000": 10,
+        "POP2008": 32,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021007002,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7811,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.82389799999282,
+          -7.482439999806104
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7811,
+        "CU_NAME": "KIBENI",
+        "CU_NO": "004",
+        "GEOCODE": "02021007004",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "07",
+        "WARD_NAME": "KIBENI",
+        "LATITUDE": -7.483862,
+        "LONGITUDE": 143.82283,
+        "REGHH": 22,
+        "TOTPOP2000": 131,
+        "MALE2000": 67,
+        "FEMALE2000": 64,
+        "POP2008": 161,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021007004,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.88831900032164,
+          -7.494327000290809
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7812,
+        "CU_NAME": "GIBIDAI",
+        "CU_NO": "006",
+        "GEOCODE": "02021007006",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "07",
+        "WARD_NAME": "KIBENI",
+        "LATITUDE": -7.495758,
+        "LONGITUDE": 143.888482,
+        "REGHH": 24,
+        "TOTPOP2000": 166,
+        "MALE2000": 79,
+        "FEMALE2000": 87,
+        "POP2008": 204,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021007006,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

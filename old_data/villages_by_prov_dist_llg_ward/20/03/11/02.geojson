@@ -1,0 +1,581 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 739,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.49811900009183,
+          -6.469954999823358
+        ]
+      },
+      "properties": {
+        "OBJECTID": 739,
+        "CU_NAME": "SIPII",
+        "CU_NO": "001",
+        "GEOCODE": "20031102001",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LAMANE EAST",
+        "LATITUDE": -6.471389,
+        "LONGITUDE": 155.497222,
+        "REGHH": 33,
+        "TOTPOP2000": 225,
+        "MALE2000": 108,
+        "FEMALE2000": 117,
+        "POP2008": 254,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031102001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 740,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.4533979999178,
+          -6.45384399970078
+        ]
+      },
+      "properties": {
+        "OBJECTID": 740,
+        "CU_NAME": "OSIAGE",
+        "CU_NO": "002",
+        "GEOCODE": "20031102002",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LAMANE EAST",
+        "LATITUDE": -6.455278,
+        "LONGITUDE": 155.4525,
+        "REGHH": 13,
+        "TOTPOP2000": 102,
+        "MALE2000": 57,
+        "FEMALE2000": 45,
+        "POP2008": 118,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031102002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 741,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.4556199998632,
+          -6.449676999993528
+        ]
+      },
+      "properties": {
+        "OBJECTID": 741,
+        "CU_NAME": "BAKORAM II",
+        "CU_NO": "003",
+        "GEOCODE": "20031102003",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LAMANE EAST",
+        "LATITUDE": -6.451111,
+        "LONGITUDE": 155.454722,
+        "REGHH": 14,
+        "TOTPOP2000": 62,
+        "MALE2000": 35,
+        "FEMALE2000": 27,
+        "POP2008": 70,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031102003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 742,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.42423100026053,
+          -6.440788000166037
+        ]
+      },
+      "properties": {
+        "OBJECTID": 742,
+        "CU_NAME": "AGAWA",
+        "CU_NO": "004",
+        "GEOCODE": "20031102004",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LAMANE EAST",
+        "LATITUDE": -6.442222,
+        "LONGITUDE": 155.423333,
+        "REGHH": 35,
+        "TOTPOP2000": 200,
+        "MALE2000": 96,
+        "FEMALE2000": 104,
+        "POP2008": 224,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031102004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 743,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.46284200015828,
+          -6.465509999886535
+        ]
+      },
+      "properties": {
+        "OBJECTID": 743,
+        "CU_NAME": "OSILEI",
+        "CU_NO": "005",
+        "GEOCODE": "20031102005",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LAMANE EAST",
+        "LATITUDE": -6.466944,
+        "LONGITUDE": 155.461944,
+        "REGHH": 20,
+        "TOTPOP2000": 119,
+        "MALE2000": 64,
+        "FEMALE2000": 55,
+        "POP2008": 135,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031102005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 744,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.46588500019266,
+          -6.4582759999374275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 744,
+        "CU_NAME": "MINGETA",
+        "CU_NO": "006",
+        "GEOCODE": "20031102006",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LAMANE EAST",
+        "LATITUDE": -6.461944,
+        "LONGITUDE": 155.4625,
+        "REGHH": 8,
+        "TOTPOP2000": 33,
+        "MALE2000": 18,
+        "FEMALE2000": 15,
+        "POP2008": 33,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031102006,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.44339800011767,
+          -6.46412199973048
+        ]
+      },
+      "properties": {
+        "OBJECTID": 745,
+        "CU_NAME": "AUMALI",
+        "CU_NO": "007",
+        "GEOCODE": "20031102007",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LAMANE EAST",
+        "LATITUDE": -6.465556,
+        "LONGITUDE": 155.4425,
+        "REGHH": 15,
+        "TOTPOP2000": 71,
+        "MALE2000": 39,
+        "FEMALE2000": 32,
+        "POP2008": 79,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031102007,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.42839799996784,
+          -6.456622000105199
+        ]
+      },
+      "properties": {
+        "OBJECTID": 746,
+        "CU_NAME": "NUKUI",
+        "CU_NO": "008",
+        "GEOCODE": "20031102008",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LAMANE EAST",
+        "LATITUDE": -6.458056,
+        "LONGITUDE": 155.4275,
+        "REGHH": 23,
+        "TOTPOP2000": 127,
+        "MALE2000": 69,
+        "FEMALE2000": 58,
+        "POP2008": 143,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031102008,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.42323200005683,
+          -6.436481000297874
+        ]
+      },
+      "properties": {
+        "OBJECTID": 747,
+        "CU_NAME": "PEILE",
+        "CU_NO": "009",
+        "GEOCODE": "20031102009",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LAMANE EAST",
+        "LATITUDE": -6.437915,
+        "LONGITUDE": 155.422334,
+        "REGHH": 22,
+        "TOTPOP2000": 114,
+        "MALE2000": 57,
+        "FEMALE2000": 57,
+        "POP2008": 130,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031102009,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 748,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.41696399968885,
+          -6.443001999742421
+        ]
+      },
+      "properties": {
+        "OBJECTID": 748,
+        "CU_NAME": "TAKEMALI",
+        "CU_NO": "010",
+        "GEOCODE": "20031102010",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LAMANE EAST",
+        "LATITUDE": -6.444436,
+        "LONGITUDE": 155.416065,
+        "REGHH": 72,
+        "TOTPOP2000": 361,
+        "MALE2000": 191,
+        "FEMALE2000": 170,
+        "POP2008": 407,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031102010,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 749,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.41153800037853,
+          -6.447332999818059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 749,
+        "CU_NAME": "KUNG-ALETU",
+        "CU_NO": "011",
+        "GEOCODE": "20031102011",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LAMANE EAST",
+        "LATITUDE": -6.448767,
+        "LONGITUDE": 155.410639,
+        "REGHH": 25,
+        "TOTPOP2000": 145,
+        "MALE2000": 76,
+        "FEMALE2000": 69,
+        "POP2008": 161,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031102011,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 750,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.41812099998424,
+          -6.44356599967108
+        ]
+      },
+      "properties": {
+        "OBJECTID": 750,
+        "CU_NAME": "SIMAA",
+        "CU_NO": "012",
+        "GEOCODE": "20031102012",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LAMANE EAST",
+        "LATITUDE": -6.445,
+        "LONGITUDE": 155.417222,
+        "REGHH": 10,
+        "TOTPOP2000": 42,
+        "MALE2000": 22,
+        "FEMALE2000": 20,
+        "POP2008": 50,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031102012,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.39145499964854,
+          -6.428843999750768
+        ]
+      },
+      "properties": {
+        "OBJECTID": 751,
+        "CU_NAME": "AMARUS",
+        "CU_NO": "013",
+        "GEOCODE": "20031102013",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LAMANE EAST",
+        "LATITUDE": -6.430278,
+        "LONGITUDE": 155.390556,
+        "REGHH": 26,
+        "TOTPOP2000": 147,
+        "MALE2000": 81,
+        "FEMALE2000": 66,
+        "POP2008": 163,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031102013,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 752,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.38395500002332,
+          -6.426066000245669
+        ]
+      },
+      "properties": {
+        "OBJECTID": 752,
+        "CU_NAME": "MOKOKOREU",
+        "CU_NO": "014",
+        "GEOCODE": "20031102014",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LAMANE EAST",
+        "LATITUDE": -6.4275,
+        "LONGITUDE": 155.383056,
+        "REGHH": 22,
+        "TOTPOP2000": 117,
+        "MALE2000": 45,
+        "FEMALE2000": 72,
+        "POP2008": 133,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031102014,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 753,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.37673199968208,
+          -6.438287999991132
+        ]
+      },
+      "properties": {
+        "OBJECTID": 753,
+        "CU_NAME": "WIWIARO",
+        "CU_NO": "015",
+        "GEOCODE": "20031102015",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LAMANE EAST",
+        "LATITUDE": -6.439722,
+        "LONGITUDE": 155.375833,
+        "REGHH": 49,
+        "TOTPOP2000": 237,
+        "MALE2000": 125,
+        "FEMALE2000": 112,
+        "POP2008": 269,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031102015,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 754,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.49617500037607,
+          -6.4602330002526855
+        ]
+      },
+      "properties": {
+        "OBJECTID": 754,
+        "CU_NAME": "PAGAWABO",
+        "CU_NO": "016",
+        "GEOCODE": "20031102016",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LAMANE EAST",
+        "LATITUDE": -6.461667,
+        "LONGITUDE": 155.495278,
+        "REGHH": 32,
+        "TOTPOP2000": 210,
+        "MALE2000": 96,
+        "FEMALE2000": 114,
+        "POP2008": 234,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031102016,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.44339800011767,
+          -6.456622000105199
+        ]
+      },
+      "properties": {
+        "OBJECTID": 755,
+        "CU_NAME": "POPE COMM. SCH",
+        "CU_NO": "401",
+        "GEOCODE": "20031102401",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LAMANE EAST",
+        "LATITUDE": -6.458056,
+        "LONGITUDE": 155.4425,
+        "REGHH": 2,
+        "TOTPOP2000": 8,
+        "MALE2000": 4,
+        "FEMALE2000": 4,
+        "POP2008": 8,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031102401,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 756,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.38034299982962,
+          -6.423566000070821
+        ]
+      },
+      "properties": {
+        "OBJECTID": 756,
+        "CU_NAME": "TAGINARE COMM. SCH",
+        "CU_NO": "402",
+        "GEOCODE": "20031102402",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "LAMANE EAST",
+        "LATITUDE": -6.425,
+        "LONGITUDE": 155.379444,
+        "REGHH": 3,
+        "TOTPOP2000": 16,
+        "MALE2000": 12,
+        "FEMALE2000": 4,
+        "POP2008": 16,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031102402,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

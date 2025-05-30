@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9761,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.35206599994603,
+          -10.402257999606945
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9761,
+        "CU_NAME": "KILAKILANA",
+        "CU_NO": "001",
+        "GEOCODE": "05010526001",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "26",
+        "WARD_NAME": "KILAKILANA",
+        "LATITUDE": -10.400938,
+        "LONGITUDE": 150.351731,
+        "REGHH": 64,
+        "TOTPOP2000": 428,
+        "MALE2000": 231,
+        "FEMALE2000": 197,
+        "POP2008": 522,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010526001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

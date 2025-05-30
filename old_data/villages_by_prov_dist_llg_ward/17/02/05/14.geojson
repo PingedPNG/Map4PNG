@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12678,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.53449399999818,
+          -3.774715999943396
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12678,
+        "CU_NAME": "KISELA",
+        "CU_NO": "006",
+        "GEOCODE": "17020514006",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "14",
+        "WARD_NAME": "SOPAU",
+        "LATITUDE": -3.776111,
+        "LONGITUDE": 152.533554,
+        "REGHH": 48,
+        "TOTPOP2000": 203,
+        "MALE2000": 119,
+        "FEMALE2000": 84,
+        "POP2008": 255,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020514006,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12679,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.5392299998647,
+          -3.752544000005571
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12679,
+        "CU_NAME": "MATANTIDUK",
+        "CU_NO": "010",
+        "GEOCODE": "17020514010",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "14",
+        "WARD_NAME": "SOPAU",
+        "LATITUDE": -3.755965,
+        "LONGITUDE": 152.544334,
+        "REGHH": 37,
+        "TOTPOP2000": 184,
+        "MALE2000": 98,
+        "FEMALE2000": 86,
+        "POP2008": 230,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020514010,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12680,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.52392600008488,
+          -3.7893700003252206
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12680,
+        "CU_NAME": "PUNAM",
+        "CU_NO": "016",
+        "GEOCODE": "17020514016",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "14",
+        "WARD_NAME": "SOPAU",
+        "LATITUDE": -3.790764,
+        "LONGITUDE": 152.522986,
+        "REGHH": 64,
+        "TOTPOP2000": 326,
+        "MALE2000": 163,
+        "FEMALE2000": 163,
+        "POP2008": 410,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020514016,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12681,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.54285499975845,
+          -3.745433000332639
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12681,
+        "CU_NAME": "SOPAU",
+        "CU_NO": "023",
+        "GEOCODE": "17020514023",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "14",
+        "WARD_NAME": "SOPAU",
+        "LATITUDE": -3.746826,
+        "LONGITUDE": 152.541915,
+        "REGHH": 48,
+        "TOTPOP2000": 240,
+        "MALE2000": 125,
+        "FEMALE2000": 115,
+        "POP2008": 301,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020514023,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8988,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9399009999313,
+          -4.7147089997205285
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8988,
+        "CU_NAME": "BOROMAN",
+        "CU_NO": "003",
+        "GEOCODE": "13051323003",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "23",
+        "WARD_NAME": "WARD 23",
+        "LATITUDE": -4.716106,
+        "LONGITUDE": 145.938866,
+        "REGHH": 165,
+        "TOTPOP2000": 1037,
+        "MALE2000": 570,
+        "FEMALE2000": 467,
+        "POP2008": 1284,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051323003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8989,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.94517000009546,
+          -4.703870999946616
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8989,
+        "CU_NAME": "GAMOG",
+        "CU_NO": "008",
+        "GEOCODE": "13051323008",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "23",
+        "WARD_NAME": "WARD 23",
+        "LATITUDE": -4.705268,
+        "LONGITUDE": 145.944135,
+        "REGHH": 123,
+        "TOTPOP2000": 705,
+        "MALE2000": 371,
+        "FEMALE2000": 334,
+        "POP2008": 873,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051323008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8990,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.94469499977447,
+          -4.708524999628992
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8990,
+        "CU_NAME": "NITLON C/SCHOOL",
+        "CU_NO": "412",
+        "GEOCODE": "13051323412",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "23",
+        "WARD_NAME": "WARD 23",
+        "LATITUDE": -4.709922,
+        "LONGITUDE": 145.94366,
+        "REGHH": 7,
+        "TOTPOP2000": 28,
+        "MALE2000": 16,
+        "FEMALE2000": 12,
+        "POP2008": 36,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051323412,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

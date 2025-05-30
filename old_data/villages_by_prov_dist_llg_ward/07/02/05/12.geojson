@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19528,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.97726100009515,
+          -6.183995000368952
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19528,
+        "CU_NAME": "KOMULU",
+        "CU_NO": "001",
+        "GEOCODE": "07020512001",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "12",
+        "WARD_NAME": "YAWIAGIL1",
+        "LATITUDE": -6.188956,
+        "LONGITUDE": 143.977751,
+        "REGHH": 19,
+        "TOTPOP2000": 90,
+        "MALE2000": 49,
+        "FEMALE2000": 41,
+        "POP2008": 125,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020512001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19529,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.97828699974525,
+          -6.184400000159826
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19529,
+        "CU_NAME": "KENGEREMA",
+        "CU_NO": "002",
+        "GEOCODE": "07020512002",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "12",
+        "WARD_NAME": "YAWIAGILI",
+        "LATITUDE": -6.188956,
+        "LONGITUDE": 143.977751,
+        "REGHH": 19,
+        "TOTPOP2000": 109,
+        "MALE2000": 55,
+        "FEMALE2000": 54,
+        "POP2008": 152,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020512002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19530,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.97778099979337,
+          -6.185429999994483
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19530,
+        "CU_NAME": "KELEMABO",
+        "CU_NO": "003",
+        "GEOCODE": "07020512003",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "12",
+        "WARD_NAME": "YAWIAGILI",
+        "LATITUDE": -6.188956,
+        "LONGITUDE": 143.977751,
+        "REGHH": 23,
+        "TOTPOP2000": 131,
+        "MALE2000": 65,
+        "FEMALE2000": 66,
+        "POP2008": 183,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020512003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19531,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9766539999822,
+          -6.185436000271125
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19531,
+        "CU_NAME": "KOPILINE",
+        "CU_NO": "004",
+        "GEOCODE": "07020512004",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "12",
+        "WARD_NAME": "YAWIAGILI",
+        "LATITUDE": -6.188956,
+        "LONGITUDE": 143.977751,
+        "REGHH": 30,
+        "TOTPOP2000": 213,
+        "MALE2000": 107,
+        "FEMALE2000": 106,
+        "POP2008": 296,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020512004,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

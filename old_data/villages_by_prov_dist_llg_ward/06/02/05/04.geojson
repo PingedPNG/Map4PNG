@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13437,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.7124149995526,
+          -8.859546999794134
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13437,
+        "CU_NAME": "AMADA",
+        "CU_NO": "001",
+        "GEOCODE": "06020504001",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "SAGA",
+        "LATITUDE": -8.860992,
+        "LONGITUDE": 147.711395,
+        "REGHH": 21,
+        "TOTPOP2000": 132,
+        "MALE2000": 68,
+        "FEMALE2000": 64,
+        "POP2008": 164,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020504001,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13438,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.7215289998635,
+          -8.868696999966517
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13438,
+        "CU_NAME": "FALA",
+        "CU_NO": "003",
+        "GEOCODE": "06020504003",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "SAGA",
+        "LATITUDE": -8.870144,
+        "LONGITUDE": 147.720509,
+        "REGHH": 17,
+        "TOTPOP2000": 100,
+        "MALE2000": 47,
+        "FEMALE2000": 53,
+        "POP2008": 124,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020504003,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13439,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.71394399991573,
+          -8.859936999792637
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13439,
+        "CU_NAME": "BOTUE",
+        "CU_NO": "006",
+        "GEOCODE": "06020504006",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "SAGA",
+        "LATITUDE": -8.861382,
+        "LONGITUDE": 147.712924,
+        "REGHH": 46,
+        "TOTPOP2000": 281,
+        "MALE2000": 159,
+        "FEMALE2000": 122,
+        "POP2008": 348,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020504006,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13440,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.72580099991626,
+          -8.87241999988305
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13440,
+        "CU_NAME": "SAGA",
+        "CU_NO": "028",
+        "GEOCODE": "06020504028",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "SAGA",
+        "LATITUDE": -8.873866,
+        "LONGITUDE": 147.724781,
+        "REGHH": 14,
+        "TOTPOP2000": 78,
+        "MALE2000": 38,
+        "FEMALE2000": 40,
+        "POP2008": 94,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020504028,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13441,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.73781399991628,
+          -8.873898999739026
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13441,
+        "CU_NAME": "KOKODA VILLAGE",
+        "CU_NO": "037",
+        "GEOCODE": "06020504037",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "SAGA",
+        "LATITUDE": -8.879432,
+        "LONGITUDE": 147.736804,
+        "REGHH": 23,
+        "TOTPOP2000": 162,
+        "MALE2000": 77,
+        "FEMALE2000": 85,
+        "POP2008": 200,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020504037,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13442,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.7338289996087,
+          -8.839660000008962
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13442,
+        "CU_NAME": "BOTUE S'MENT",
+        "CU_NO": "038",
+        "GEOCODE": "06020504038",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "SAGA",
+        "LATITUDE": -8.841105,
+        "LONGITUDE": 147.73281,
+        "REGHH": 16,
+        "TOTPOP2000": 92,
+        "MALE2000": 50,
+        "FEMALE2000": 42,
+        "POP2008": 115,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020504038,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

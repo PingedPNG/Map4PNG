@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1220,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.25838099968348,
+          -8.555605000270475
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1220,
+        "CU_NAME": "FATIMA COMM. SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "03020609401",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "WOITAPE STATION",
+        "LATITUDE": -8.557046,
+        "LONGITUDE": 147.257356,
+        "REGHH": 7,
+        "TOTPOP2000": 26,
+        "MALE2000": 15,
+        "FEMALE2000": 11,
+        "POP2008": 34,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020609401,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1221,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2526449995671,
+          -8.542199999930006
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1221,
+        "CU_NAME": "WOITAPE STATION",
+        "CU_NO": "501",
+        "GEOCODE": "03020609501",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "WOITAPE STATION",
+        "LATITUDE": -8.543641,
+        "LONGITUDE": 147.25162,
+        "REGHH": 32,
+        "TOTPOP2000": 213,
+        "MALE2000": 112,
+        "FEMALE2000": 101,
+        "POP2008": 255,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020609501,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

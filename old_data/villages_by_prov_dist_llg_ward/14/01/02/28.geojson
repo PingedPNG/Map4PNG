@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6161,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.74655200007476,
+          -3.5427449999817213
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6161,
+        "CU_NAME": "YAMBES 1,2&3",
+        "CU_NO": "024",
+        "GEOCODE": "14010228024",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "28",
+        "WARD_NAME": "YAMBES",
+        "LATITUDE": -3.545596,
+        "LONGITUDE": 142.746582,
+        "REGHH": 98,
+        "TOTPOP2000": 491,
+        "MALE2000": 247,
+        "FEMALE2000": 244,
+        "POP2008": 585,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010228024,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

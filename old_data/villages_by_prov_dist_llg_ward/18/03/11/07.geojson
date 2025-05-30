@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4895,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1074670000021,
+          -5.292164000268372
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4895,
+        "CU_NAME": "KLAMPUN VILLAGE",
+        "CU_NO": "013",
+        "GEOCODE": "18031107013",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "KLAMPUN",
+        "LATITUDE": -5.291714,
+        "LONGITUDE": 152.107917,
+        "REGHH": 46,
+        "TOTPOP2000": 287,
+        "MALE2000": 134,
+        "FEMALE2000": 153,
+        "POP2008": 350,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031107013,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4896,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1207249998589,
+          -5.308037000207321
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4896,
+        "CU_NAME": "MSETWEI",
+        "CU_NO": "014",
+        "GEOCODE": "18031107014",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "KLAMPUN",
+        "LATITUDE": -5.308055,
+        "LONGITUDE": 152.121639,
+        "REGHH": 49,
+        "TOTPOP2000": 321,
+        "MALE2000": 170,
+        "FEMALE2000": 151,
+        "POP2008": 391,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031107014,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

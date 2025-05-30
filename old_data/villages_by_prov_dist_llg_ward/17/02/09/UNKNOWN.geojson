@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 23488,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.6363540657876,
+          -3.048325130600233
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23488,
+        "CU_NAME": "Kunyae No.2",
+        "CU_NO": null,
+        "GEOCODE": "700010",
+        "PROV_KEY": "17",
+        "DIST_NO": "2",
+        "LLG_NO": "9",
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": -3.048366986,
+        "LONGITUDE": 152.63631221,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 700010,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23489,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.6273036997061,
+          -3.0548733003624875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23489,
+        "CU_NAME": "Kinami",
+        "CU_NO": null,
+        "GEOCODE": "700011",
+        "PROV_KEY": "17",
+        "DIST_NO": "2",
+        "LLG_NO": "9",
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": -3.054915156,
+        "LONGITUDE": 152.627261844,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 700011,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

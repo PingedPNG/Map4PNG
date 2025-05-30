@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10843,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.83950100017114,
+          -6.655446000332574
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10843,
+        "CU_NAME": "NASINGALATU",
+        "CU_NO": "014",
+        "GEOCODE": "12020804014",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "NASINGALATU",
+        "LATITUDE": -6.656868,
+        "LONGITUDE": 147.838488,
+        "REGHH": 113,
+        "TOTPOP2000": 658,
+        "MALE2000": 347,
+        "FEMALE2000": 311,
+        "POP2008": 820,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020804014,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10844,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.83486100023504,
+          -6.658779000250604
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10844,
+        "CU_NAME": "KAMBILI C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "12020804401",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "NASINGALATU",
+        "LATITUDE": -6.660201,
+        "LONGITUDE": 147.833848,
+        "REGHH": 3,
+        "TOTPOP2000": 19,
+        "MALE2000": 9,
+        "FEMALE2000": 10,
+        "POP2008": 27,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020804401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

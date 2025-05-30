@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7674,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.31334899995647,
+          -6.824172000237581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7674,
+        "CU_NAME": "NEGEBARE",
+        "CU_NO": "003",
+        "GEOCODE": "02020801003",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "NEGEBARE",
+        "LATITUDE": -6.825589,
+        "LONGITUDE": 144.312289,
+        "REGHH": 18,
+        "TOTPOP2000": 96,
+        "MALE2000": 47,
+        "FEMALE2000": 49,
+        "POP2008": 119,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020801003,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7675,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3838269999162,
+          -6.857608999855415
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7675,
+        "CU_NAME": "TEKERAPO",
+        "CU_NO": "007",
+        "GEOCODE": "02020801007",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "NEGEBARE",
+        "LATITUDE": -6.859026,
+        "LONGITUDE": 144.382768,
+        "REGHH": 13,
+        "TOTPOP2000": 63,
+        "MALE2000": 32,
+        "FEMALE2000": 31,
+        "POP2008": 79,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020801007,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7676,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.34363700004758,
+          -6.8255930001168394
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7676,
+        "CU_NAME": "TETREBARE",
+        "CU_NO": "008",
+        "GEOCODE": "02020801008",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "NEGEBARE",
+        "LATITUDE": -6.82701,
+        "LONGITUDE": 144.342577,
+        "REGHH": 21,
+        "TOTPOP2000": 137,
+        "MALE2000": 69,
+        "FEMALE2000": 68,
+        "POP2008": 169,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020801008,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

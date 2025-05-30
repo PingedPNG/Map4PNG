@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14210,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.82732000021792,
+          -6.497536000086313
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14210,
+        "CU_NAME": "PERIA (KARIMUI)",
+        "CU_NO": "004",
+        "GEOCODE": "10030706004",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "KARIMUI STATION 2",
+        "LATITUDE": -6.49895,
+        "LONGITUDE": 144.826267,
+        "REGHH": 28,
+        "TOTPOP2000": 157,
+        "MALE2000": 88,
+        "FEMALE2000": 69,
+        "POP2008": 181,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030706004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14211,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.81389199971613,
+          -6.491361999556602
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14211,
+        "CU_NAME": "WEGISIVI",
+        "CU_NO": "005",
+        "GEOCODE": "10030706005",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "KARIMUI STATION 2",
+        "LATITUDE": -6.492776,
+        "LONGITUDE": 144.812839,
+        "REGHH": 29,
+        "TOTPOP2000": 189,
+        "MALE2000": 96,
+        "FEMALE2000": 93,
+        "POP2008": 219,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030706005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14212,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.81942000013294,
+          -6.501394999979198
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14212,
+        "CU_NAME": "OROKOMARU",
+        "CU_NO": "006",
+        "GEOCODE": "10030706006",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "KARIMUI STATION 2",
+        "LATITUDE": -6.502809,
+        "LONGITUDE": 144.818367,
+        "REGHH": 19,
+        "TOTPOP2000": 87,
+        "MALE2000": 37,
+        "FEMALE2000": 50,
+        "POP2008": 103,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030706006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.819167000157,
+          -6.4956080002090175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14213,
+        "CU_NAME": "TOBAIYAKOMA",
+        "CU_NO": "007",
+        "GEOCODE": "10030706007",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "KARIMUI STATION 2",
+        "LATITUDE": -6.497022,
+        "LONGITUDE": 144.818114,
+        "REGHH": 41,
+        "TOTPOP2000": 237,
+        "MALE2000": 119,
+        "FEMALE2000": 118,
+        "POP2008": 273,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030706007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.81942000013294,
+          -6.510027999692397
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14214,
+        "CU_NAME": "KAGOSILI",
+        "CU_NO": "008",
+        "GEOCODE": "10030706008",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "KARIMUI STATION 2",
+        "LATITUDE": -6.511442,
+        "LONGITUDE": 144.818367,
+        "REGHH": 28,
+        "TOTPOP2000": 238,
+        "MALE2000": 131,
+        "FEMALE2000": 107,
+        "POP2008": 275,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030706008,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

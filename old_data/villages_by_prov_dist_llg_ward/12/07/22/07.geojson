@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12029,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.11521000034134,
+          -7.154985999704081
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12029,
+        "CU_NAME": "WASUKWAKA",
+        "CU_NO": "002",
+        "GEOCODE": "12072207002",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "07",
+        "WARD_NAME": "AKWANJA",
+        "LATITUDE": -7.15641,
+        "LONGITUDE": 146.114173,
+        "REGHH": 38,
+        "TOTPOP2000": 189,
+        "MALE2000": 100,
+        "FEMALE2000": 89,
+        "POP2008": 235,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072207002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12030,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.10374300033925,
+          -7.17878399998159
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12030,
+        "CU_NAME": "AKWANJA",
+        "CU_NO": "003",
+        "GEOCODE": "12072207003",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "07",
+        "WARD_NAME": "AKWANJA",
+        "LATITUDE": -7.178808,
+        "LONGITUDE": 146.100265,
+        "REGHH": 51,
+        "TOTPOP2000": 258,
+        "MALE2000": 117,
+        "FEMALE2000": 141,
+        "POP2008": 322,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072207003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12031,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.09041499995237,
+          -7.216492999652189
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12031,
+        "CU_NAME": "WIAKOPA",
+        "CU_NO": "033",
+        "GEOCODE": "12072207033",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "07",
+        "WARD_NAME": "AKWANJA",
+        "LATITUDE": -7.217919,
+        "LONGITUDE": 146.089377,
+        "REGHH": 55,
+        "TOTPOP2000": 295,
+        "MALE2000": 145,
+        "FEMALE2000": 150,
+        "POP2008": 367,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072207033,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

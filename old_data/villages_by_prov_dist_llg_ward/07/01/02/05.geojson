@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19201,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.98063400005913,
+          -6.284144999891794
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19201,
+        "CU_NAME": "YAMEYAME",
+        "CU_NO": "024",
+        "GEOCODE": "07010205024",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "YAMEYAME",
+        "LATITUDE": -6.288215,
+        "LONGITUDE": 143.980386,
+        "REGHH": 81,
+        "TOTPOP2000": 360,
+        "MALE2000": 169,
+        "FEMALE2000": 191,
+        "POP2008": 500,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010205024,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19202,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.97745199990993,
+          -6.282926000334612
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19202,
+        "CU_NAME": "YAMBA",
+        "CU_NO": "025",
+        "GEOCODE": "07010205025",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "YAMEYAME",
+        "LATITUDE": -6.288215,
+        "LONGITUDE": 143.980386,
+        "REGHH": 49,
+        "TOTPOP2000": 280,
+        "MALE2000": 143,
+        "FEMALE2000": 137,
+        "POP2008": 389,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010205025,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19203,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.97956300013243,
+          -6.281853000315664
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19203,
+        "CU_NAME": "KEMBOLI",
+        "CU_NO": "026",
+        "GEOCODE": "07010205026",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "YAMEYAME",
+        "LATITUDE": -6.288215,
+        "LONGITUDE": 143.980386,
+        "REGHH": 50,
+        "TOTPOP2000": 245,
+        "MALE2000": 117,
+        "FEMALE2000": 128,
+        "POP2008": 341,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010205026,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.97763400020904,
+          -6.283984999707911
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19204,
+        "CU_NAME": "LAMA/PUNU",
+        "CU_NO": "027",
+        "GEOCODE": "07010205027",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "YAMEYAME",
+        "LATITUDE": -6.288215,
+        "LONGITUDE": 143.980386,
+        "REGHH": 130,
+        "TOTPOP2000": 567,
+        "MALE2000": 297,
+        "FEMALE2000": 270,
+        "POP2008": 788,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010205027,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

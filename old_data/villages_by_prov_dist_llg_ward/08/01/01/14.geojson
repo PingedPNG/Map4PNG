@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.520807000143,
+          -5.9143339998141755
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5214,
+        "CU_NAME": "TAMBIOK",
+        "CU_NO": "001",
+        "GEOCODE": "08010114001",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "14",
+        "WARD_NAME": "LAKALAP NO.2",
+        "LATITUDE": -5.91574,
+        "LONGITUDE": 143.519739,
+        "REGHH": 60,
+        "TOTPOP2000": 301,
+        "MALE2000": 174,
+        "FEMALE2000": 127,
+        "POP2008": 379,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010114001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.51250100022105,
+          -5.899593999963088
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5215,
+        "CU_NAME": "KITAN",
+        "CU_NO": "002",
+        "GEOCODE": "08010114002",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "14",
+        "WARD_NAME": "LAKALAP NO.2",
+        "LATITUDE": -5.901,
+        "LONGITUDE": 143.511433,
+        "REGHH": 50,
+        "TOTPOP2000": 248,
+        "MALE2000": 127,
+        "FEMALE2000": 121,
+        "POP2008": 312,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010114002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

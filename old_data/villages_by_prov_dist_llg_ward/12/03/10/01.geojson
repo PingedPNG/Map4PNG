@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10940,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9291470002339,
+          -7.079740000200786
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10940,
+        "CU_NAME": "BUGASU (NOMWA)",
+        "CU_NO": "003",
+        "GEOCODE": "12031001003",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "HOTE",
+        "LATITUDE": -7.080239,
+        "LONGITUDE": 146.929513,
+        "REGHH": 33,
+        "TOTPOP2000": 185,
+        "MALE2000": 89,
+        "FEMALE2000": 96,
+        "POP2008": 230,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031001003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10941,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.91121199963413,
+          -7.054919999558308
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10941,
+        "CU_NAME": "DOHO",
+        "CU_NO": "004",
+        "GEOCODE": "12031001004",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "HOTE",
+        "LATITUDE": -7.056345,
+        "LONGITUDE": 146.910186,
+        "REGHH": 28,
+        "TOTPOP2000": 167,
+        "MALE2000": 89,
+        "FEMALE2000": 78,
+        "POP2008": 209,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031001004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9147079998744,
+          -7.041325000348422
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10942,
+        "CU_NAME": "BAIDUM",
+        "CU_NO": "008",
+        "GEOCODE": "12031001008",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "HOTE",
+        "LATITUDE": -7.042749,
+        "LONGITUDE": 146.913682,
+        "REGHH": 21,
+        "TOTPOP2000": 160,
+        "MALE2000": 95,
+        "FEMALE2000": 65,
+        "POP2008": 199,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031001008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10943,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.93413800016867,
+          -7.080850000127384
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10943,
+        "CU_NAME": "POCMATE",
+        "CU_NO": "009",
+        "GEOCODE": "12031001009",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "HOTE",
+        "LATITUDE": -7.080239,
+        "LONGITUDE": 146.929513,
+        "REGHH": 7,
+        "TOTPOP2000": 31,
+        "MALE2000": 20,
+        "FEMALE2000": 11,
+        "POP2008": 39,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031001009,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10944,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9665429998596,
+          -7.071826000369583
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10944,
+        "CU_NAME": "LAMON",
+        "CU_NO": "010",
+        "GEOCODE": "12031001010",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "HOTE",
+        "LATITUDE": -7.069068,
+        "LONGITUDE": 146.973241,
+        "REGHH": 7,
+        "TOTPOP2000": 36,
+        "MALE2000": 24,
+        "FEMALE2000": 12,
+        "POP2008": 44,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031001010,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

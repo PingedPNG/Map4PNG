@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19921,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.89808400007655,
+          -6.373630000424157
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19921,
+        "CU_NAME": "YALUMITA",
+        "CU_NO": "003",
+        "GEOCODE": "07030918003",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "18",
+        "WARD_NAME": "TUMBALERE",
+        "LATITUDE": -6.375767,
+        "LONGITUDE": 143.897721,
+        "REGHH": 17,
+        "TOTPOP2000": 62,
+        "MALE2000": 30,
+        "FEMALE2000": 32,
+        "POP2008": 86,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030918003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19922,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.89603299992302,
+          -6.372687000104918
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19922,
+        "CU_NAME": "RIKILIMI",
+        "CU_NO": "014",
+        "GEOCODE": "07030918014",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "18",
+        "WARD_NAME": "TUMBALERE",
+        "LATITUDE": -6.375767,
+        "LONGITUDE": 143.897721,
+        "REGHH": 19,
+        "TOTPOP2000": 89,
+        "MALE2000": 44,
+        "FEMALE2000": 45,
+        "POP2008": 124,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030918014,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19923,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.90003800025363,
+          -6.367079999642215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19923,
+        "CU_NAME": "TUMBALERE",
+        "CU_NO": "016",
+        "GEOCODE": "07030918016",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "18",
+        "WARD_NAME": "TUMBALERE",
+        "LATITUDE": -6.375767,
+        "LONGITUDE": 143.897721,
+        "REGHH": 21,
+        "TOTPOP2000": 94,
+        "MALE2000": 56,
+        "FEMALE2000": 38,
+        "POP2008": 130,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030918016,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

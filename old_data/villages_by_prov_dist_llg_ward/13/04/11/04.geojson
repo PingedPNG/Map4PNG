@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8698,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89624600035268,
+          -5.843227999672422
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8698,
+        "CU_NAME": "BORO",
+        "CU_NO": "004",
+        "GEOCODE": "13041104004",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "WARD 4",
+        "LATITUDE": -5.844637,
+        "LONGITUDE": 145.895209,
+        "REGHH": 21,
+        "TOTPOP2000": 121,
+        "MALE2000": 61,
+        "FEMALE2000": 60,
+        "POP2008": 150,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041104004,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8699,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9080070004228,
+          -5.845189000172184
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8699,
+        "CU_NAME": "SISIMBA",
+        "CU_NO": "025",
+        "GEOCODE": "13041104025",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "WARD 4",
+        "LATITUDE": -5.8466,
+        "LONGITUDE": 145.90697,
+        "REGHH": 29,
+        "TOTPOP2000": 175,
+        "MALE2000": 86,
+        "FEMALE2000": 89,
+        "POP2008": 217,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041104025,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8700,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91966300014735,
+          -5.845806999893057
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8700,
+        "CU_NAME": "MOGUTA",
+        "CU_NO": "026",
+        "GEOCODE": "13041104026",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "WARD 4",
+        "LATITUDE": -5.841904,
+        "LONGITUDE": 145.918077,
+        "REGHH": 21,
+        "TOTPOP2000": 130,
+        "MALE2000": 64,
+        "FEMALE2000": 66,
+        "POP2008": 162,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041104026,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

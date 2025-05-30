@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18513,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.54591399983133,
+          -3.6726629998974545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18513,
+        "CU_NAME": "ABIGU",
+        "CU_NO": "001",
+        "GEOCODE": "15020513001",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "13",
+        "WARD_NAME": "ABIGU",
+        "LATITUDE": -3.674046,
+        "LONGITUDE": 142.543911,
+        "REGHH": 56,
+        "TOTPOP2000": 254,
+        "MALE2000": 132,
+        "FEMALE2000": 122,
+        "POP2008": 307,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020513001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18514,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5720029996388,
+          -3.6730800002417823
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18514,
+        "CU_NAME": "APDUWANO",
+        "CU_NO": "003",
+        "GEOCODE": "15020513003",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "13",
+        "WARD_NAME": "ABIGU",
+        "LATITUDE": -3.671611,
+        "LONGITUDE": 142.570922,
+        "REGHH": 66,
+        "TOTPOP2000": 302,
+        "MALE2000": 167,
+        "FEMALE2000": 135,
+        "POP2008": 365,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020513003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18515,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.57785199957016,
+          -3.6753240003023393
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18515,
+        "CU_NAME": "MAMBU",
+        "CU_NO": "009",
+        "GEOCODE": "15020513009",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "13",
+        "WARD_NAME": "ABIGU",
+        "LATITUDE": -3.676705,
+        "LONGITUDE": 142.576776,
+        "REGHH": 51,
+        "TOTPOP2000": 230,
+        "MALE2000": 117,
+        "FEMALE2000": 113,
+        "POP2008": 279,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020513009,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18516,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.57370800002423,
+          -3.677391000294392
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18516,
+        "CU_NAME": "YIRIWANDI",
+        "CU_NO": "015",
+        "GEOCODE": "15020513015",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "13",
+        "WARD_NAME": "ABIGU",
+        "LATITUDE": -3.678772,
+        "LONGITUDE": 142.572632,
+        "REGHH": 143,
+        "TOTPOP2000": 707,
+        "MALE2000": 343,
+        "FEMALE2000": 364,
+        "POP2008": 855,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020513015,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18517,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.57447500032106,
+          -3.659488000270926
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18517,
+        "CU_NAME": "SEIM CATHOLIC MISSI",
+        "CU_NO": "401",
+        "GEOCODE": "15020513401",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "13",
+        "WARD_NAME": "ABIGU",
+        "LATITUDE": -3.666057,
+        "LONGITUDE": 142.570816,
+        "REGHH": 8,
+        "TOTPOP2000": 29,
+        "MALE2000": 13,
+        "FEMALE2000": 16,
+        "POP2008": 37,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020513401,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

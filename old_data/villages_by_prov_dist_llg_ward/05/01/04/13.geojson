@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9694,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7342690004141,
+          -10.26709299964216
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9694,
+        "CU_NAME": "WAGOHUHU",
+        "CU_NO": "018",
+        "GEOCODE": "05010413018",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "WAGOHUHU",
+        "LATITUDE": -10.267959,
+        "LONGITUDE": 150.735802,
+        "REGHH": 87,
+        "TOTPOP2000": 373,
+        "MALE2000": 201,
+        "FEMALE2000": 172,
+        "POP2008": 455,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010413018,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

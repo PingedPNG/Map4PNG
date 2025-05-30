@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5026,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.51332699984118,
+          -5.661643000324148
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5026,
+        "CU_NAME": "MANGINUNA",
+        "CU_NO": "004",
+        "GEOCODE": "18031403004",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "03",
+        "WARD_NAME": "MANGINUNA",
+        "LATITUDE": -5.66306,
+        "LONGITUDE": 151.512369,
+        "REGHH": 22,
+        "TOTPOP2000": 133,
+        "MALE2000": 61,
+        "FEMALE2000": 72,
+        "POP2008": 162,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031403004,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5027,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.5115450004015,
+          -5.667831999746966
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5027,
+        "CU_NAME": "WANGA",
+        "CU_NO": "005",
+        "GEOCODE": "18031403005",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "03",
+        "WARD_NAME": "MANGINUNA",
+        "LATITUDE": -5.669249,
+        "LONGITUDE": 151.510587,
+        "REGHH": 6,
+        "TOTPOP2000": 52,
+        "MALE2000": 24,
+        "FEMALE2000": 28,
+        "POP2008": 60,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031403005,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5028,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.5129319996122,
+          -5.652661999851375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5028,
+        "CU_NAME": "BANANAPUNA",
+        "CU_NO": "006",
+        "GEOCODE": "18031403006",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "03",
+        "WARD_NAME": "MANGINUNA",
+        "LATITUDE": -5.653618,
+        "LONGITUDE": 151.513837,
+        "REGHH": 4,
+        "TOTPOP2000": 38,
+        "MALE2000": 18,
+        "FEMALE2000": 20,
+        "POP2008": 46,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031403006,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5029,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.50912600036474,
+          -5.660425999959898
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5029,
+        "CU_NAME": "MARANA",
+        "CU_NO": "007",
+        "GEOCODE": "18031403007",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "03",
+        "WARD_NAME": "MANGINUNA",
+        "LATITUDE": -5.661843,
+        "LONGITUDE": 151.508168,
+        "REGHH": 11,
+        "TOTPOP2000": 73,
+        "MALE2000": 33,
+        "FEMALE2000": 40,
+        "POP2008": 89,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031403007,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17784,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.19067977215377,
+          -6.086486051589986
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17784,
+        "CU_NAME": "MURIEN",
+        "CU_NO": "015",
+        "GEOCODE": "19010307015",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "IOUDO",
+        "LATITUDE": -6.087711,
+        "LONGITUDE": 149.191313,
+        "REGHH": 100,
+        "TOTPOP2000": 591,
+        "MALE2000": 301,
+        "FEMALE2000": 290,
+        "POP2008": 778,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010307015,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17785,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.31461699987472,
+          -6.054256999760696
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17785,
+        "CU_NAME": "SAPOLOU",
+        "CU_NO": "019",
+        "GEOCODE": "19010307019",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "IOUDO",
+        "LATITUDE": -6.055675,
+        "LONGITUDE": 149.313626,
+        "REGHH": 32,
+        "TOTPOP2000": 186,
+        "MALE2000": 92,
+        "FEMALE2000": 94,
+        "POP2008": 245,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010307019,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17786,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.29577579651584,
+          -6.051111357403158
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17786,
+        "CU_NAME": "SARA",
+        "CU_NO": "020",
+        "GEOCODE": "19010307020",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "IOUDO",
+        "LATITUDE": -6.052239,
+        "LONGITUDE": 149.297314,
+        "REGHH": 71,
+        "TOTPOP2000": 415,
+        "MALE2000": 206,
+        "FEMALE2000": 209,
+        "POP2008": 548,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010307020,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17787,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3443030000834,
+          -6.054143999945609
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17787,
+        "CU_NAME": "WASUM",
+        "CU_NO": "021",
+        "GEOCODE": "19010307021",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "IOUDO",
+        "LATITUDE": -6.055562,
+        "LONGITUDE": 149.343313,
+        "REGHH": 93,
+        "TOTPOP2000": 579,
+        "MALE2000": 296,
+        "FEMALE2000": 283,
+        "POP2008": 762,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010307021,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17788,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.30736499999477,
+          -6.050926999981016
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17788,
+        "CU_NAME": "POLIAENG",
+        "CU_NO": "022",
+        "GEOCODE": "19010307022",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "IOUDO",
+        "LATITUDE": -6.053927,
+        "LONGITUDE": 149.303157,
+        "REGHH": 12,
+        "TOTPOP2000": 57,
+        "MALE2000": 28,
+        "FEMALE2000": 29,
+        "POP2008": 73,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010307022,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

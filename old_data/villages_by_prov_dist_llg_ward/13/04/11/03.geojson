@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8695,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.87439900011384,
+          -5.84154400025534
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8695,
+        "CU_NAME": "GURIA",
+        "CU_NO": "011",
+        "GEOCODE": "13041103011",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD 3",
+        "LATITUDE": -5.842953,
+        "LONGITUDE": 145.873361,
+        "REGHH": 29,
+        "TOTPOP2000": 158,
+        "MALE2000": 81,
+        "FEMALE2000": 77,
+        "POP2008": 195,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041103011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8696,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.83028099986836,
+          -5.872035999861453
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8696,
+        "CU_NAME": "AGRIMBA",
+        "CU_NO": "012",
+        "GEOCODE": "13041103012",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD 3",
+        "LATITUDE": -5.873446,
+        "LONGITUDE": 145.829243,
+        "REGHH": 15,
+        "TOTPOP2000": 87,
+        "MALE2000": 47,
+        "FEMALE2000": 40,
+        "POP2008": 108,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041103012,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8697,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8222920001757,
+          -5.884167999953206
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8697,
+        "CU_NAME": "RANARA MISSION",
+        "CU_NO": "501",
+        "GEOCODE": "13041103501",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD 3",
+        "LATITUDE": -5.878846,
+        "LONGITUDE": 145.824444,
+        "REGHH": 11,
+        "TOTPOP2000": 52,
+        "MALE2000": 32,
+        "FEMALE2000": 20,
+        "POP2008": 64,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041103501,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15198,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.31985300011593,
+          -7.613894999554532
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15198,
+        "CU_NAME": "KAVIANANGA NO. 1",
+        "CU_NO": "003",
+        "GEOCODE": "01010424003",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "KAVIANANGA NO.1",
+        "LATITUDE": -7.594588,
+        "LONGITUDE": 141.314411,
+        "REGHH": 114,
+        "TOTPOP2000": 845,
+        "MALE2000": 401,
+        "FEMALE2000": 444,
+        "POP2008": 1097,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010424003,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15199,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3241640001686,
+          -7.590573999690264
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15199,
+        "CU_NAME": "KAVIANANGA COMM. SCH.",
+        "CU_NO": "004",
+        "GEOCODE": "01010424004",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "KAVIANANGA NO.1",
+        "LATITUDE": -7.594588,
+        "LONGITUDE": 141.314411,
+        "REGHH": 5,
+        "TOTPOP2000": 25,
+        "MALE2000": 15,
+        "FEMALE2000": 10,
+        "POP2008": 33,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010424004,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

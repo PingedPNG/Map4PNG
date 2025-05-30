@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.96043000034433,
+          -6.354545999897937
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12103,
+        "CU_NAME": "BAINDOANG",
+        "CU_NO": "004",
+        "GEOCODE": "12082404004",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "24",
+        "WARD_NO": "04",
+        "WARD_NAME": "BAINDOANG",
+        "LATITUDE": -6.360934,
+        "LONGITUDE": 146.95186,
+        "REGHH": 87,
+        "TOTPOP2000": 427,
+        "MALE2000": 204,
+        "FEMALE2000": 223,
+        "POP2008": 533,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082404004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9443919999909,
+          -6.346198999883882
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12104,
+        "CU_NAME": "UMBANG STATION",
+        "CU_NO": "401",
+        "GEOCODE": "12082404401",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "24",
+        "WARD_NO": "04",
+        "WARD_NAME": "BAINDOANG",
+        "LATITUDE": -6.347616,
+        "LONGITUDE": 146.943368,
+        "REGHH": 33,
+        "TOTPOP2000": 165,
+        "MALE2000": 75,
+        "FEMALE2000": 90,
+        "POP2008": 206,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082404401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

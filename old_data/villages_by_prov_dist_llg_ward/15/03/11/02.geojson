@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18793,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0869339996044,
+          -4.622268999614619
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18793,
+        "CU_NAME": "IMNAI 2",
+        "CU_NO": "002",
+        "GEOCODE": "15031102002",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "IMNAI 2",
+        "LATITUDE": -4.623658,
+        "LONGITUDE": 141.085839,
+        "REGHH": 12,
+        "TOTPOP2000": 89,
+        "MALE2000": 48,
+        "FEMALE2000": 41,
+        "POP2008": 105,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031102002,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18794,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.07534700036388,
+          -4.601244000410247
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18794,
+        "CU_NAME": "WARABIO",
+        "CU_NO": "007",
+        "GEOCODE": "15031102007",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "IMNAI 2",
+        "LATITUDE": -4.602632,
+        "LONGITUDE": 141.074252,
+        "REGHH": 24,
+        "TOTPOP2000": 116,
+        "MALE2000": 63,
+        "FEMALE2000": 53,
+        "POP2008": 140,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031102007,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

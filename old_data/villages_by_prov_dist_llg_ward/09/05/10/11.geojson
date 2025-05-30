@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17153,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0745150000672,
+          -5.530959000157679
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17153,
+        "CU_NAME": "KINJANMANDA",
+        "CU_NO": "001",
+        "GEOCODE": "09051011001",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "11",
+        "WARD_NAME": "MINIGIWA",
+        "LATITUDE": -5.531894,
+        "LONGITUDE": 144.074847,
+        "REGHH": 37,
+        "TOTPOP2000": 143,
+        "MALE2000": 76,
+        "FEMALE2000": 67,
+        "POP2008": 175,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051011001,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17154,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.06819700009157,
+          -5.531297999602941
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17154,
+        "CU_NAME": "BAPTIST MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "09051011401",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "11",
+        "WARD_NAME": "MINIGIWA",
+        "LATITUDE": -5.532233,
+        "LONGITUDE": 144.068529,
+        "REGHH": 13,
+        "TOTPOP2000": 54,
+        "MALE2000": 28,
+        "FEMALE2000": 26,
+        "POP2008": 63,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051011401,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

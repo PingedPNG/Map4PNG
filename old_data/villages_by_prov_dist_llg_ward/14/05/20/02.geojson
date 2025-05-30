@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7075,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0198639999237,
+          -4.0712800000719085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7075,
+        "CU_NAME": "YAMANUMBU",
+        "CU_NO": "001",
+        "GEOCODE": "14052002001",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "20",
+        "WARD_NO": "02",
+        "WARD_NAME": "YAMANUMBU",
+        "LATITUDE": -4.072863,
+        "LONGITUDE": 143.018624,
+        "REGHH": 45,
+        "TOTPOP2000": 222,
+        "MALE2000": 103,
+        "FEMALE2000": 119,
+        "POP2008": 264,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052002001,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7076,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.02590899990048,
+          -4.062882999550766
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7076,
+        "CU_NAME": "YAMBIBARAN",
+        "CU_NO": "002",
+        "GEOCODE": "14052002002",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "20",
+        "WARD_NO": "02",
+        "WARD_NAME": "YAMANUMBU",
+        "LATITUDE": -4.064466,
+        "LONGITUDE": 143.024669,
+        "REGHH": 14,
+        "TOTPOP2000": 61,
+        "MALE2000": 32,
+        "FEMALE2000": 29,
+        "POP2008": 69,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052002002,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

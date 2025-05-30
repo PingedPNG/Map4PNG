@@ -1,0 +1,517 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9195,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.18395399967744,
+          -5.530812999720126
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9195,
+        "CU_NAME": "DAUNAGAR",
+        "CU_NO": "001",
+        "GEOCODE": "13061522001",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "22",
+        "WARD_NAME": "WARD 22",
+        "LATITUDE": -5.532218,
+        "LONGITUDE": 145.182908,
+        "REGHH": 34,
+        "TOTPOP2000": 183,
+        "MALE2000": 100,
+        "FEMALE2000": 83,
+        "POP2008": 226,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061522001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9196,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1937609995705,
+          -5.564941999773396
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9196,
+        "CU_NAME": "KURUMBUKARI",
+        "CU_NO": "002",
+        "GEOCODE": "13061522002",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "22",
+        "WARD_NAME": "WARD 22",
+        "LATITUDE": -5.565374,
+        "LONGITUDE": 145.193216,
+        "REGHH": 5,
+        "TOTPOP2000": 24,
+        "MALE2000": 20,
+        "FEMALE2000": 4,
+        "POP2008": 32,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061522002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9197,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.19341499980248,
+          -5.5594829998404975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9197,
+        "CU_NAME": "ENEKUAI",
+        "CU_NO": "003",
+        "GEOCODE": "13061522003",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "22",
+        "WARD_NAME": "KRUMBUKARI",
+        "LATITUDE": -5.565374,
+        "LONGITUDE": 145.193216,
+        "REGHH": 20,
+        "TOTPOP2000": 103,
+        "MALE2000": 64,
+        "FEMALE2000": 39,
+        "POP2008": 127,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061522003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9198,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.17216700020697,
+          -5.565422000324986
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9198,
+        "CU_NAME": "GAIZAI",
+        "CU_NO": "004",
+        "GEOCODE": "13061522004",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "22",
+        "WARD_NAME": "KRUMBUKARI",
+        "LATITUDE": -5.563589,
+        "LONGITUDE": 145.174012,
+        "REGHH": 17,
+        "TOTPOP2000": 72,
+        "MALE2000": 41,
+        "FEMALE2000": 31,
+        "POP2008": 88,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061522004,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9199,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2247489995667,
+          -5.617507000147896
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9199,
+        "CU_NAME": "GAZIBANI",
+        "CU_NO": "005",
+        "GEOCODE": "13061522005",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "22",
+        "WARD_NAME": "KRUMBUKARI",
+        "LATITUDE": -5.618913,
+        "LONGITUDE": 145.223703,
+        "REGHH": 8,
+        "TOTPOP2000": 42,
+        "MALE2000": 22,
+        "FEMALE2000": 20,
+        "POP2008": 50,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061522005,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9200,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.20407100017655,
+          -5.564515999913397
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9200,
+        "CU_NAME": "KINIMATI",
+        "CU_NO": "006",
+        "GEOCODE": "13061522006",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "22",
+        "WARD_NAME": "KRUMBUKARI",
+        "LATITUDE": -5.565374,
+        "LONGITUDE": 145.193216,
+        "REGHH": 23,
+        "TOTPOP2000": 119,
+        "MALE2000": 63,
+        "FEMALE2000": 56,
+        "POP2008": 147,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061522006,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9201,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.19473400037384,
+          -5.578256000414058
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9201,
+        "CU_NAME": "DENGEKEVI",
+        "CU_NO": "007",
+        "GEOCODE": "13061522007",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "22",
+        "WARD_NAME": "KRUMBUKARI",
+        "LATITUDE": -5.579661,
+        "LONGITUDE": 145.193688,
+        "REGHH": 19,
+        "TOTPOP2000": 103,
+        "MALE2000": 60,
+        "FEMALE2000": 43,
+        "POP2008": 127,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061522007,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9202,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.20287399983533,
+          -5.561926000084782
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9202,
+        "CU_NAME": "MIAI",
+        "CU_NO": "008",
+        "GEOCODE": "13061522008",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "22",
+        "WARD_NAME": "KRUMBUKARI",
+        "LATITUDE": -5.565374,
+        "LONGITUDE": 145.193216,
+        "REGHH": 13,
+        "TOTPOP2000": 58,
+        "MALE2000": 32,
+        "FEMALE2000": 26,
+        "POP2008": 74,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061522008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9203,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.21330599977216,
+          -5.62719800008756
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9203,
+        "CU_NAME": "MOKIMI",
+        "CU_NO": "009",
+        "GEOCODE": "13061522009",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "22",
+        "WARD_NAME": "KRUMBUKARI",
+        "LATITUDE": -5.628604,
+        "LONGITUDE": 145.21226,
+        "REGHH": 11,
+        "TOTPOP2000": 71,
+        "MALE2000": 38,
+        "FEMALE2000": 33,
+        "POP2008": 87,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061522009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.24222799982238,
+          -5.607201999772428
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9204,
+        "CU_NAME": "MONDISIPIRI",
+        "CU_NO": "010",
+        "GEOCODE": "13061522010",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "22",
+        "WARD_NAME": "KRUMBUKARI",
+        "LATITUDE": -5.608608,
+        "LONGITUDE": 145.241182,
+        "REGHH": 9,
+        "TOTPOP2000": 45,
+        "MALE2000": 26,
+        "FEMALE2000": 19,
+        "POP2008": 53,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061522010,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9205,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.19476700009704,
+          -5.567591999670981
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9205,
+        "CU_NAME": "MORIUAM",
+        "CU_NO": "011",
+        "GEOCODE": "13061522011",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "22",
+        "WARD_NAME": "KRUMBUKARI",
+        "LATITUDE": -5.565374,
+        "LONGITUDE": 145.193216,
+        "REGHH": 6,
+        "TOTPOP2000": 48,
+        "MALE2000": 26,
+        "FEMALE2000": 22,
+        "POP2008": 56,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061522011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9206,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.18851300037477,
+          -5.564235999591688
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9206,
+        "CU_NAME": "SIPAIP",
+        "CU_NO": "012",
+        "GEOCODE": "13061522012",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "22",
+        "WARD_NAME": "KRUMBUKARI",
+        "LATITUDE": -5.565374,
+        "LONGITUDE": 145.193216,
+        "REGHH": 8,
+        "TOTPOP2000": 42,
+        "MALE2000": 25,
+        "FEMALE2000": 17,
+        "POP2008": 50,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061522012,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9207,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.12657500033606,
+          -5.536438000113549
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9207,
+        "CU_NAME": "TIUGARI",
+        "CU_NO": "013",
+        "GEOCODE": "13061522013",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "22",
+        "WARD_NAME": "KRUMBUKARI",
+        "LATITUDE": -5.534229,
+        "LONGITUDE": 145.123379,
+        "REGHH": 10,
+        "TOTPOP2000": 58,
+        "MALE2000": 30,
+        "FEMALE2000": 28,
+        "POP2008": 74,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061522013,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9208,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2103540003369,
+          -5.57029500021406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9208,
+        "CU_NAME": "VIANIVE",
+        "CU_NO": "014",
+        "GEOCODE": "13061522014",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "22",
+        "WARD_NAME": "KRUMBUKARI",
+        "LATITUDE": -5.5717,
+        "LONGITUDE": 145.209308,
+        "REGHH": 17,
+        "TOTPOP2000": 70,
+        "MALE2000": 36,
+        "FEMALE2000": 34,
+        "POP2008": 86,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061522014,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9209,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2117790004006,
+          -5.63383500038492
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9209,
+        "CU_NAME": "BONOMBU",
+        "CU_NO": "015",
+        "GEOCODE": "13061522015",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "22",
+        "WARD_NAME": "KRUMBUKARI",
+        "LATITUDE": -5.635241,
+        "LONGITUDE": 145.210733,
+        "REGHH": 15,
+        "TOTPOP2000": 72,
+        "MALE2000": 39,
+        "FEMALE2000": 33,
+        "POP2008": 88,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061522015,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9210,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.19288899982757,
+          -5.562499000428488
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9210,
+        "CU_NAME": "KAUNAKORO",
+        "CU_NO": "016",
+        "GEOCODE": "13061522016",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "22",
+        "WARD_NAME": "KRUMBUKARI",
+        "LATITUDE": -5.565374,
+        "LONGITUDE": 145.193216,
+        "REGHH": 11,
+        "TOTPOP2000": 67,
+        "MALE2000": 39,
+        "FEMALE2000": 28,
+        "POP2008": 83,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061522016,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

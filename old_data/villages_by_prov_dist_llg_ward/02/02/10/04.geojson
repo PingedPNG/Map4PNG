@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7802,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.65734000024088,
+          -7.498306000321634
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7802,
+        "CU_NAME": "MEAGIO",
+        "CU_NO": "007",
+        "GEOCODE": "02021004007",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "MASUSU",
+        "LATITUDE": -7.498989,
+        "LONGITUDE": 143.656957,
+        "REGHH": 13,
+        "TOTPOP2000": 90,
+        "MALE2000": 49,
+        "FEMALE2000": 41,
+        "POP2008": 110,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021004007,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7803,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.83449799958305,
+          -7.658280999568433
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7803,
+        "CU_NAME": "MISIKI",
+        "CU_NO": "008",
+        "GEOCODE": "02021004008",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "MASUSU",
+        "LATITUDE": -7.659705,
+        "LONGITUDE": 143.83343,
+        "REGHH": 7,
+        "TOTPOP2000": 45,
+        "MALE2000": 30,
+        "FEMALE2000": 15,
+        "POP2008": 53,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021004008,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7804,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.69947199973308,
+          -7.38548600017873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7804,
+        "CU_NAME": "MASUSU",
+        "CU_NO": "010",
+        "GEOCODE": "02021004010",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "MASUSU",
+        "LATITUDE": -7.386907,
+        "LONGITUDE": 143.698403,
+        "REGHH": 13,
+        "TOTPOP2000": 61,
+        "MALE2000": 32,
+        "FEMALE2000": 29,
+        "POP2008": 77,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021004010,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

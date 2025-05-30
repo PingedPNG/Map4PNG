@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15151,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.87599200043053,
+          -8.278908999950318
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15151,
+        "CU_NAME": "Wasua",
+        "CU_NO": "005",
+        "GEOCODE": "01010331005",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "31",
+        "WARD_NAME": "DEDE",
+        "LATITUDE": -8.280925,
+        "LONGITUDE": 142.871401,
+        "REGHH": 84,
+        "TOTPOP2000": 706,
+        "MALE2000": 368,
+        "FEMALE2000": 338,
+        "POP2008": 915,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010331005,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

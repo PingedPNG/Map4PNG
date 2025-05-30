@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11989,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.92274500018164,
+          -7.149298000002659
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11989,
+        "CU_NAME": "KWENDI",
+        "CU_NO": "016",
+        "GEOCODE": "12072113016",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "13",
+        "WARD_NAME": "WUNUNGAPA",
+        "LATITUDE": -7.150721,
+        "LONGITUDE": 145.921705,
+        "REGHH": 94,
+        "TOTPOP2000": 382,
+        "MALE2000": 191,
+        "FEMALE2000": 191,
+        "POP2008": 477,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072113016,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11990,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9231879999263,
+          -7.146550000082414
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11990,
+        "CU_NAME": "KWALAMJUKA",
+        "CU_NO": "017",
+        "GEOCODE": "12072113017",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "13",
+        "WARD_NAME": "WUNUNGAPA",
+        "LATITUDE": -7.147973,
+        "LONGITUDE": 145.922148,
+        "REGHH": 77,
+        "TOTPOP2000": 346,
+        "MALE2000": 173,
+        "FEMALE2000": 173,
+        "POP2008": 432,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072113017,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11991,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.93404599972314,
+          -7.154792999797053
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11991,
+        "CU_NAME": "KULOLONGI",
+        "CU_NO": "018",
+        "GEOCODE": "12072113018",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "13",
+        "WARD_NAME": "WUNUNGAPA",
+        "LATITUDE": -7.156218,
+        "LONGITUDE": 145.933006,
+        "REGHH": 44,
+        "TOTPOP2000": 178,
+        "MALE2000": 85,
+        "FEMALE2000": 93,
+        "POP2008": 222,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072113018,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11992,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9270439996809,
+          -7.150706000181742
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11992,
+        "CU_NAME": "GWALOKULI",
+        "CU_NO": "019",
+        "GEOCODE": "12072113019",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "13",
+        "WARD_NAME": "WUNUNGAPA",
+        "LATITUDE": -7.152129,
+        "LONGITUDE": 145.926004,
+        "REGHH": 62,
+        "TOTPOP2000": 297,
+        "MALE2000": 149,
+        "FEMALE2000": 148,
+        "POP2008": 371,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072113019,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11993,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9322529997762,
+          -7.158160000383646
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11993,
+        "CU_NAME": "WUNUGAPAN",
+        "CU_NO": "020",
+        "GEOCODE": "12072113020",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "13",
+        "WARD_NAME": "WUNUNGAPA",
+        "LATITUDE": -7.159584,
+        "LONGITUDE": 145.931213,
+        "REGHH": 82,
+        "TOTPOP2000": 304,
+        "MALE2000": 155,
+        "FEMALE2000": 149,
+        "POP2008": 380,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072113020,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29578,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.48501187969453,
+          -6.351719040401349
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29578,
+        "CU_NAME": "HAGEGE",
+        "CU_NO": "015",
+        "GEOCODE": "11030423015",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "KRIMPAVE",
+        "LATITUDE": -6.351719,
+        "LONGITUDE": 145.485012,
+        "REGHH": 10,
+        "TOTPOP2000": 34,
+        "MALE2000": 14,
+        "FEMALE2000": 20,
+        "POP2008": 42,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29579,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5071889599027,
+          -6.368781960319154
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29579,
+        "CU_NAME": "OLGUNI",
+        "CU_NO": "018",
+        "GEOCODE": "11030423018",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "KRIMPAVE",
+        "LATITUDE": -6.368782,
+        "LONGITUDE": 145.507189,
+        "REGHH": 59,
+        "TOTPOP2000": 209,
+        "MALE2000": 106,
+        "FEMALE2000": 103,
+        "POP2008": 249,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29580,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.49449679998736,
+          -6.342701309817528
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29580,
+        "CU_NAME": "NEGIRE",
+        "CU_NO": "036",
+        "GEOCODE": "11030423036",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "KRIMPAVE",
+        "LATITUDE": -6.342701,
+        "LONGITUDE": 145.494497,
+        "REGHH": 87,
+        "TOTPOP2000": 344,
+        "MALE2000": 176,
+        "FEMALE2000": 168,
+        "POP2008": 410,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29581,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5012277200833,
+          -6.361244910424205
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29581,
+        "CU_NAME": "NUMAGA",
+        "CU_NO": "040",
+        "GEOCODE": "11030423040",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "KRIMPAVE",
+        "LATITUDE": -6.361245,
+        "LONGITUDE": 145.501228,
+        "REGHH": 56,
+        "TOTPOP2000": 215,
+        "MALE2000": 95,
+        "FEMALE2000": 120,
+        "POP2008": 256,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29582,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.480299839566,
+          -6.350383979736819
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29582,
+        "CU_NAME": "NUZAGUNA",
+        "CU_NO": "042",
+        "GEOCODE": "11030423042",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "KRIMPAVE",
+        "LATITUDE": -6.350384,
+        "LONGITUDE": 145.4803,
+        "REGHH": 35,
+        "TOTPOP2000": 151,
+        "MALE2000": 83,
+        "FEMALE2000": 68,
+        "POP2008": 180,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29583,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5028851598223,
+          -6.368500979736382
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29583,
+        "CU_NAME": "KEPI",
+        "CU_NO": "043",
+        "GEOCODE": "11030423043",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "KRIMPAVE",
+        "LATITUDE": -6.368501,
+        "LONGITUDE": 145.502885,
+        "REGHH": 16,
+        "TOTPOP2000": 71,
+        "MALE2000": 38,
+        "FEMALE2000": 33,
+        "POP2008": 87,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29584,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5105279600973,
+          -6.360815340255726
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29584,
+        "CU_NAME": "KEVERUFA",
+        "CU_NO": "044",
+        "GEOCODE": "11030423044",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "KRIMPAVE",
+        "LATITUDE": -6.360815,
+        "LONGITUDE": 145.510528,
+        "REGHH": 12,
+        "TOTPOP2000": 51,
+        "MALE2000": 26,
+        "FEMALE2000": 25,
+        "POP2008": 59,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29585,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5030514804415,
+          -6.365083590135555
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29585,
+        "CU_NAME": "KUNEPA",
+        "CU_NO": "045",
+        "GEOCODE": "11030423045",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "KRIMPAVE",
+        "LATITUDE": -6.365084,
+        "LONGITUDE": 145.503051,
+        "REGHH": 39,
+        "TOTPOP2000": 170,
+        "MALE2000": 90,
+        "FEMALE2000": 80,
+        "POP2008": 202,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29586,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.49966315962718,
+          -6.366882959980558
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29586,
+        "CU_NAME": "VENEMETE",
+        "CU_NO": "046",
+        "GEOCODE": "11030423046",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "KRIMPAVE",
+        "LATITUDE": -6.366883,
+        "LONGITUDE": 145.499663,
+        "REGHH": 9,
+        "TOTPOP2000": 48,
+        "MALE2000": 25,
+        "FEMALE2000": 23,
+        "POP2008": 56,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29587,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4915404802091,
+          -6.3620312398497845
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29587,
+        "CU_NAME": "KAFEGETI",
+        "CU_NO": "047",
+        "GEOCODE": "11030423047",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "KRIMPAVE",
+        "LATITUDE": -6.362031,
+        "LONGITUDE": 145.49154,
+        "REGHH": 17,
+        "TOTPOP2000": 82,
+        "MALE2000": 38,
+        "FEMALE2000": 44,
+        "POP2008": 98,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29588,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50652511993837,
+          -6.374179800057675
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29588,
+        "CU_NAME": "KOSE",
+        "CU_NO": "049",
+        "GEOCODE": "11030423049",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "KRIMPAVE",
+        "LATITUDE": -6.37418,
+        "LONGITUDE": 145.506525,
+        "REGHH": 21,
+        "TOTPOP2000": 93,
+        "MALE2000": 49,
+        "FEMALE2000": 44,
+        "POP2008": 109,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29589,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4941526402322,
+          -6.359919930260503
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29589,
+        "CU_NAME": "JAFATEGA",
+        "CU_NO": "050",
+        "GEOCODE": "11030423050",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "KRIMPAVE",
+        "LATITUDE": -6.35992,
+        "LONGITUDE": 145.494153,
+        "REGHH": 9,
+        "TOTPOP2000": 40,
+        "MALE2000": 24,
+        "FEMALE2000": 16,
+        "POP2008": 48,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29590,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50173856018648,
+          -6.372970110282324
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29590,
+        "CU_NAME": "KUMERE",
+        "CU_NO": "051",
+        "GEOCODE": "11030423051",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "KRIMPAVE",
+        "LATITUDE": -6.37297,
+        "LONGITUDE": 145.501739,
+        "REGHH": 21,
+        "TOTPOP2000": 83,
+        "MALE2000": 41,
+        "FEMALE2000": 42,
+        "POP2008": 99,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29591,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.47899736043985,
+          -6.3569240097352235
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29591,
+        "CU_NAME": "HAGUPORO",
+        "CU_NO": "052",
+        "GEOCODE": "11030423052",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "KRIMPAVE",
+        "LATITUDE": -6.356924,
+        "LONGITUDE": 145.478997,
+        "REGHH": 28,
+        "TOTPOP2000": 123,
+        "MALE2000": 51,
+        "FEMALE2000": 72,
+        "POP2008": 147,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

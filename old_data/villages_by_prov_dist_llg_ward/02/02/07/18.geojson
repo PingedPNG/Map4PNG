@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7658,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.17291300043473,
+          -7.841344999671946
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7658,
+        "CU_NAME": "APIOPE (AIOKE)",
+        "CU_NO": "001",
+        "GEOCODE": "02020718001",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "18",
+        "WARD_NAME": "APIOPE",
+        "LATITUDE": -7.843672,
+        "LONGITUDE": 145.174349,
+        "REGHH": 32,
+        "TOTPOP2000": 193,
+        "MALE2000": 97,
+        "FEMALE2000": 96,
+        "POP2008": 237,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020718001,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7659,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1491269998113,
+          -7.8257309999856375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7659,
+        "CU_NAME": "KEREIA",
+        "CU_NO": "002",
+        "GEOCODE": "02020718002",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "18",
+        "WARD_NAME": "APIOPE",
+        "LATITUDE": -7.827159,
+        "LONGITUDE": 145.148075,
+        "REGHH": 3,
+        "TOTPOP2000": 29,
+        "MALE2000": 20,
+        "FEMALE2000": 9,
+        "POP2008": 37,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020718002,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7660,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.10671299990508,
+          -7.811944000015558
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7660,
+        "CU_NAME": "KAPAI NO.1(LAKIPAIRI)",
+        "CU_NO": "004",
+        "GEOCODE": "02020718004",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "18",
+        "WARD_NAME": "APIOPE",
+        "LATITUDE": -7.813372,
+        "LONGITUDE": 145.105661,
+        "REGHH": 4,
+        "TOTPOP2000": 37,
+        "MALE2000": 16,
+        "FEMALE2000": 21,
+        "POP2008": 45,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020718004,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

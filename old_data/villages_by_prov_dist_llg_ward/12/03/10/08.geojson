@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10973,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1193579998719,
+          -7.199747999970157
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10973,
+        "CU_NAME": "SALUS",
+        "CU_NO": "019",
+        "GEOCODE": "12031008019",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "SALUS",
+        "LATITUDE": -7.200234,
+        "LONGITUDE": 147.120056,
+        "REGHH": 121,
+        "TOTPOP2000": 756,
+        "MALE2000": 414,
+        "FEMALE2000": 342,
+        "POP2008": 943,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031008019,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10974,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0776849999628,
+          -7.230129999899532
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10974,
+        "CU_NAME": "BUISALUM",
+        "CU_NO": "020",
+        "GEOCODE": "12031008020",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "SALUS",
+        "LATITUDE": -7.231557,
+        "LONGITUDE": 147.076661,
+        "REGHH": 4,
+        "TOTPOP2000": 21,
+        "MALE2000": 10,
+        "FEMALE2000": 11,
+        "POP2008": 29,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031008020,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

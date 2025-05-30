@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8055,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.65269699996668,
+          -4.496892999612214
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8055,
+        "CU_NAME": "WANKIN",
+        "CU_NO": "002",
+        "GEOCODE": "13010335002",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "35",
+        "WARD_NAME": "KAYOMA",
+        "LATITUDE": -4.498286,
+        "LONGITUDE": 144.651646,
+        "REGHH": 42,
+        "TOTPOP2000": 248,
+        "MALE2000": 116,
+        "FEMALE2000": 132,
+        "POP2008": 307,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010335002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8056,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.65044799967552,
+          -4.454573000443588
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8056,
+        "CU_NAME": "DAKIT",
+        "CU_NO": "005",
+        "GEOCODE": "13010335005",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "35",
+        "WARD_NAME": "KAYOMA",
+        "LATITUDE": -4.451578,
+        "LONGITUDE": 144.647956,
+        "REGHH": 65,
+        "TOTPOP2000": 411,
+        "MALE2000": 205,
+        "FEMALE2000": 206,
+        "POP2008": 508,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010335005,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8057,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.62365000044724,
+          -4.555863000377144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8057,
+        "CU_NAME": "YAMU",
+        "CU_NO": "011",
+        "GEOCODE": "13010335011",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "35",
+        "WARD_NAME": "KAYOMA",
+        "LATITUDE": -4.557256,
+        "LONGITUDE": 144.622598,
+        "REGHH": 75,
+        "TOTPOP2000": 467,
+        "MALE2000": 229,
+        "FEMALE2000": 238,
+        "POP2008": 578,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010335011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8058,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.64441300015994,
+          -4.513617000124384
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8058,
+        "CU_NAME": "ZUKIN",
+        "CU_NO": "015",
+        "GEOCODE": "13010335015",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "35",
+        "WARD_NAME": "KAYOMA",
+        "LATITUDE": -4.51501,
+        "LONGITUDE": 144.643363,
+        "REGHH": 54,
+        "TOTPOP2000": 337,
+        "MALE2000": 167,
+        "FEMALE2000": 170,
+        "POP2008": 417,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010335015,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8059,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.63067299965928,
+          -4.533308999910389
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8059,
+        "CU_NAME": "KAYOMA",
+        "CU_NO": "016",
+        "GEOCODE": "13010335016",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "35",
+        "WARD_NAME": "KAYOMA",
+        "LATITUDE": -4.539464,
+        "LONGITUDE": 144.630897,
+        "REGHH": 18,
+        "TOTPOP2000": 117,
+        "MALE2000": 60,
+        "FEMALE2000": 57,
+        "POP2008": 144,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010335016,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8060,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.63459000042826,
+          -4.54713099969581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8060,
+        "CU_NAME": "KAYOMA SUB H/CNTR",
+        "CU_NO": "401",
+        "GEOCODE": "13010335401",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "35",
+        "WARD_NAME": "KAYOMA",
+        "LATITUDE": -4.543181,
+        "LONGITUDE": 144.630898,
+        "REGHH": 4,
+        "TOTPOP2000": 28,
+        "MALE2000": 15,
+        "FEMALE2000": 13,
+        "POP2008": 36,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010335401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

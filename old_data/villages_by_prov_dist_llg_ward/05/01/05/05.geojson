@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9710,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.28609600013033,
+          -10.286124000422262
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9710,
+        "CU_NAME": "DELAMA NO 1",
+        "CU_NO": "003",
+        "GEOCODE": "05010505003",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "YANEYANENE",
+        "LATITUDE": -10.287591,
+        "LONGITUDE": 150.285109,
+        "REGHH": 21,
+        "TOTPOP2000": 116,
+        "MALE2000": 51,
+        "FEMALE2000": 65,
+        "POP2008": 140,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010505003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9711,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3132790000259,
+          -10.306465999606132
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9711,
+        "CU_NAME": "YANEYANENE",
+        "CU_NO": "006",
+        "GEOCODE": "05010505006",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "YANEYANENE",
+        "LATITUDE": -10.307934,
+        "LONGITUDE": 150.312292,
+        "REGHH": 86,
+        "TOTPOP2000": 472,
+        "MALE2000": 262,
+        "FEMALE2000": 210,
+        "POP2008": 575,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010505006,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9712,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.32322099984935,
+          -10.317306000371559
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9712,
+        "CU_NAME": "SINEADA",
+        "CU_NO": "007",
+        "GEOCODE": "05010505007",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "YANEYANENE",
+        "LATITUDE": -10.318774,
+        "LONGITUDE": 150.322234,
+        "REGHH": 24,
+        "TOTPOP2000": 143,
+        "MALE2000": 76,
+        "FEMALE2000": 67,
+        "POP2008": 175,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010505007,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

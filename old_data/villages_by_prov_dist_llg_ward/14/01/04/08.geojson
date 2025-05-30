@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6220,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.62268999994365,
+          -4.125334999910251
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6220,
+        "CU_NAME": "AHAM",
+        "CU_NO": "001",
+        "GEOCODE": "14010408001",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "WANIUM",
+        "LATITUDE": -4.121256,
+        "LONGITUDE": 141.622837,
+        "REGHH": 13,
+        "TOTPOP2000": 54,
+        "MALE2000": 28,
+        "FEMALE2000": 26,
+        "POP2008": 62,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010408001,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6221,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.60643999970625,
+          -4.4172369999874945
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6221,
+        "CU_NAME": "OWIYO",
+        "CU_NO": "010",
+        "GEOCODE": "14010408010",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "WANIUM",
+        "LATITUDE": -4.418821,
+        "LONGITUDE": 141.605181,
+        "REGHH": 3,
+        "TOTPOP2000": 17,
+        "MALE2000": 6,
+        "FEMALE2000": 11,
+        "POP2008": 17,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010408010,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6222,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.83950699984825,
+          -4.4039719998078795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6222,
+        "CU_NAME": "WANIUM",
+        "CU_NO": "012",
+        "GEOCODE": "14010408012",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "WANIUM",
+        "LATITUDE": -4.405557,
+        "LONGITUDE": 141.838251,
+        "REGHH": 34,
+        "TOTPOP2000": 178,
+        "MALE2000": 91,
+        "FEMALE2000": 87,
+        "POP2008": 211,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010408012,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.82101899982706,
+          -4.427352999741117
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6223,
+        "CU_NAME": "IYIE",
+        "CU_NO": "013",
+        "GEOCODE": "14010408013",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "WANIUM",
+        "LATITUDE": -4.425035,
+        "LONGITUDE": 141.832443,
+        "REGHH": 23,
+        "TOTPOP2000": 96,
+        "MALE2000": 44,
+        "FEMALE2000": 52,
+        "POP2008": 112,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010408013,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15315,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.57246799969846,
+          -5.870764999704932
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15315,
+        "CU_NAME": "DRIMSKAI",
+        "CU_NO": "003",
+        "GEOCODE": "01020613003",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "13",
+        "WARD_NAME": "DRIMSKAI",
+        "LATITUDE": -5.870341,
+        "LONGITUDE": 141.572141,
+        "REGHH": 8,
+        "TOTPOP2000": 57,
+        "MALE2000": 28,
+        "FEMALE2000": 29,
+        "POP2008": 73,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020613003,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15316,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.75000200019224,
+          -5.833876000077282
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15316,
+        "CU_NAME": "SIPIPEN",
+        "CU_NO": "008",
+        "GEOCODE": "01020613008",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "13",
+        "WARD_NAME": "DRIMSKAI",
+        "LATITUDE": -5.827295,
+        "LONGITUDE": 141.747559,
+        "REGHH": 21,
+        "TOTPOP2000": 130,
+        "MALE2000": 68,
+        "FEMALE2000": 62,
+        "POP2008": 168,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020613008,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

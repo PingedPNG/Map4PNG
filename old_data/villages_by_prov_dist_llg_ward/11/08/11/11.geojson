@@ -1,0 +1,645 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30842,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.59163488004572,
+          -6.052851989827445
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30842,
+        "CU_NAME": "GUGUTOGA",
+        "CU_NO": "019",
+        "GEOCODE": "11081111019",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.052852,
+        "LONGITUDE": 145.591635,
+        "REGHH": 26,
+        "TOTPOP2000": 132,
+        "MALE2000": 71,
+        "FEMALE2000": 61,
+        "POP2008": 156,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30843,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58795099973895,
+          -6.039195030026576
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30843,
+        "CU_NAME": "GONUMUSALO",
+        "CU_NO": "027",
+        "GEOCODE": "11081111027",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.039195,
+        "LONGITUDE": 145.587951,
+        "REGHH": 27,
+        "TOTPOP2000": 108,
+        "MALE2000": 46,
+        "FEMALE2000": 62,
+        "POP2008": 129,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30844,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57930703998795,
+          -6.033219029634438
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30844,
+        "CU_NAME": "MEHI",
+        "CU_NO": "028",
+        "GEOCODE": "11081111028",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.033219,
+        "LONGITUDE": 145.579307,
+        "REGHH": 29,
+        "TOTPOP2000": 113,
+        "MALE2000": 61,
+        "FEMALE2000": 52,
+        "POP2008": 136,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30845,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57628988017393,
+          -6.047910090178448
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30845,
+        "CU_NAME": "NASEGLIFI",
+        "CU_NO": "047",
+        "GEOCODE": "11081111047",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.04791,
+        "LONGITUDE": 145.57629,
+        "REGHH": 21,
+        "TOTPOP2000": 102,
+        "MALE2000": 59,
+        "FEMALE2000": 43,
+        "POP2008": 120,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30846,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.56769488041448,
+          -6.052288589746581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30846,
+        "CU_NAME": "AGUYA",
+        "CU_NO": "048",
+        "GEOCODE": "11081111048",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.052289,
+        "LONGITUDE": 145.567695,
+        "REGHH": 17,
+        "TOTPOP2000": 88,
+        "MALE2000": 47,
+        "FEMALE2000": 41,
+        "POP2008": 104,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30847,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58616107996988,
+          -6.0686970298440315
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30847,
+        "CU_NAME": "AFELUGA",
+        "CU_NO": "057",
+        "GEOCODE": "11081111057",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.068697,
+        "LONGITUDE": 145.586161,
+        "REGHH": 14,
+        "TOTPOP2000": 51,
+        "MALE2000": 29,
+        "FEMALE2000": 22,
+        "POP2008": 59,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30848,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57207644037544,
+          -6.050902050089519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30848,
+        "CU_NAME": "NASELUGA",
+        "CU_NO": "058",
+        "GEOCODE": "11081111058",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.050902,
+        "LONGITUDE": 145.572076,
+        "REGHH": 38,
+        "TOTPOP2000": 172,
+        "MALE2000": 88,
+        "FEMALE2000": 84,
+        "POP2008": 204,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30849,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57301927971605,
+          -6.028796160214597
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30849,
+        "CU_NAME": "GOLIPAGA",
+        "CU_NO": "059",
+        "GEOCODE": "11081111059",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.028796,
+        "LONGITUDE": 145.573019,
+        "REGHH": 31,
+        "TOTPOP2000": 135,
+        "MALE2000": 70,
+        "FEMALE2000": 65,
+        "POP2008": 159,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30850,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5881468397049,
+          -6.059169989803138
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30850,
+        "CU_NAME": "LOPA-HILUZ",
+        "CU_NO": "060",
+        "GEOCODE": "11081111060",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.05917,
+        "LONGITUDE": 145.588147,
+        "REGHH": 26,
+        "TOTPOP2000": 117,
+        "MALE2000": 65,
+        "FEMALE2000": 52,
+        "POP2008": 141,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30851,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58476427994765,
+          -6.058719540074662
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30851,
+        "CU_NAME": "FOKO",
+        "CU_NO": "061",
+        "GEOCODE": "11081111061",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.05872,
+        "LONGITUDE": 145.584764,
+        "REGHH": 33,
+        "TOTPOP2000": 136,
+        "MALE2000": 73,
+        "FEMALE2000": 63,
+        "POP2008": 160,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30852,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57636476042546,
+          -6.060091589854949
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30852,
+        "CU_NAME": "KASSA",
+        "CU_NO": "062",
+        "GEOCODE": "11081111062",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.060092,
+        "LONGITUDE": 145.576365,
+        "REGHH": 26,
+        "TOTPOP2000": 98,
+        "MALE2000": 47,
+        "FEMALE2000": 51,
+        "POP2008": 114,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30853,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5731459995883,
+          -6.049780019931916
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30853,
+        "CU_NAME": "FIMEX",
+        "CU_NO": "063",
+        "GEOCODE": "11081111063",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.04978,
+        "LONGITUDE": 145.573146,
+        "REGHH": 27,
+        "TOTPOP2000": 108,
+        "MALE2000": 57,
+        "FEMALE2000": 51,
+        "POP2008": 129,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30854,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.55958443987004,
+          -6.036002370213168
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30854,
+        "CU_NAME": "MAMUFALO",
+        "CU_NO": "064",
+        "GEOCODE": "11081111064",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.036002,
+        "LONGITUDE": 145.559584,
+        "REGHH": 27,
+        "TOTPOP2000": 106,
+        "MALE2000": 57,
+        "FEMALE2000": 49,
+        "POP2008": 126,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30855,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57379507987912,
+          -6.07011893983713
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30855,
+        "CU_NAME": "NEVEKO",
+        "CU_NO": "065",
+        "GEOCODE": "11081111065",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.070119,
+        "LONGITUDE": 145.573795,
+        "REGHH": 34,
+        "TOTPOP2000": 110,
+        "MALE2000": 53,
+        "FEMALE2000": 57,
+        "POP2008": 132,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30856,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58060196031226,
+          -6.066420299856929
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30856,
+        "CU_NAME": "KINIPALO",
+        "CU_NO": "066",
+        "GEOCODE": "11081111066",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.06642,
+        "LONGITUDE": 145.580602,
+        "REGHH": 29,
+        "TOTPOP2000": 129,
+        "MALE2000": 62,
+        "FEMALE2000": 67,
+        "POP2008": 153,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30857,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5642936003694,
+          -6.028592579783663
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30857,
+        "CU_NAME": "NEKEMU",
+        "CU_NO": "067",
+        "GEOCODE": "11081111067",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.028593,
+        "LONGITUDE": 145.564294,
+        "REGHH": 14,
+        "TOTPOP2000": 74,
+        "MALE2000": 35,
+        "FEMALE2000": 39,
+        "POP2008": 90,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30858,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5896761197572,
+          -6.067459979994055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30858,
+        "CU_NAME": "EFANUGA",
+        "CU_NO": "068",
+        "GEOCODE": "11081111068",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.06746,
+        "LONGITUDE": 145.589676,
+        "REGHH": 10,
+        "TOTPOP2000": 46,
+        "MALE2000": 22,
+        "FEMALE2000": 24,
+        "POP2008": 54,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30859,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57136183997704,
+          -6.047461979586615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30859,
+        "CU_NAME": "ZOIPAGELE",
+        "CU_NO": "069",
+        "GEOCODE": "11081111069",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.047462,
+        "LONGITUDE": 145.571362,
+        "REGHH": 19,
+        "TOTPOP2000": 78,
+        "MALE2000": 41,
+        "FEMALE2000": 37,
+        "POP2008": 94,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30860,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.56489731975557,
+          -6.031802610002387
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30860,
+        "CU_NAME": "OSAYAFALO",
+        "CU_NO": "070",
+        "GEOCODE": "11081111070",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.031803,
+        "LONGITUDE": 145.564897,
+        "REGHH": 12,
+        "TOTPOP2000": 50,
+        "MALE2000": 27,
+        "FEMALE2000": 23,
+        "POP2008": 58,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30861,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57610195963775,
+          -6.0625851301995795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30861,
+        "CU_NAME": "SINAGAMI",
+        "CU_NO": "071",
+        "GEOCODE": "11081111071",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "OREGEGABO",
+        "LATITUDE": -6.062585,
+        "LONGITUDE": 145.576102,
+        "REGHH": 29,
+        "TOTPOP2000": 125,
+        "MALE2000": 64,
+        "FEMALE2000": 61,
+        "POP2008": 149,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

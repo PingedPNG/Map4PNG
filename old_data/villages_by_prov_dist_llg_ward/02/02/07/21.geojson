@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7664,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.07745100036345,
+          -6.9790330001727625
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7664,
+        "CU_NAME": "WABO/URI (LURI)",
+        "CU_NO": "007",
+        "GEOCODE": "02020721007",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "21",
+        "WARD_NAME": "WABO",
+        "LATITUDE": -6.982678,
+        "LONGITUDE": 145.069627,
+        "REGHH": 43,
+        "TOTPOP2000": 361,
+        "MALE2000": 181,
+        "FEMALE2000": 180,
+        "POP2008": 443,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020721007,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7665,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.07905899987304,
+          -6.987003999934586
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7665,
+        "CU_NAME": "URA",
+        "CU_NO": "008",
+        "GEOCODE": "02020721008",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "21",
+        "WARD_NAME": "WABO",
+        "LATITUDE": -6.988424,
+        "LONGITUDE": 145.078009,
+        "REGHH": 16,
+        "TOTPOP2000": 125,
+        "MALE2000": 65,
+        "FEMALE2000": 60,
+        "POP2008": 153,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020721008,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

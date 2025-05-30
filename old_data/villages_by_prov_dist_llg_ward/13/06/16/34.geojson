@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9305,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.01316600001098,
+          -5.422898000042608
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9305,
+        "CU_NAME": "KUKAPANG",
+        "CU_NO": "902",
+        "GEOCODE": "13061634902",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "34",
+        "WARD_NAME": "KUKAPANG",
+        "LATITUDE": -5.396288,
+        "LONGITUDE": 144.999161,
+        "REGHH": 10,
+        "TOTPOP2000": 57,
+        "MALE2000": 32,
+        "FEMALE2000": 25,
+        "POP2008": 73,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061634902,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9306,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96542499996383,
+          -5.377289000287078
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9306,
+        "CU_NAME": "YANGAR",
+        "CU_NO": "903",
+        "GEOCODE": "13061634903",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "34",
+        "WARD_NAME": "KUKAPANG",
+        "LATITUDE": -5.378692,
+        "LONGITUDE": 144.964376,
+        "REGHH": 9,
+        "TOTPOP2000": 53,
+        "MALE2000": 34,
+        "FEMALE2000": 19,
+        "POP2008": 66,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061634903,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9307,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.91166500023962,
+          -5.345810000131337
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9307,
+        "CU_NAME": "WUKUL",
+        "CU_NO": "904",
+        "GEOCODE": "13061634904",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "34",
+        "WARD_NAME": "KUKAPANG",
+        "LATITUDE": -5.368014,
+        "LONGITUDE": 144.939538,
+        "REGHH": 41,
+        "TOTPOP2000": 231,
+        "MALE2000": 128,
+        "FEMALE2000": 103,
+        "POP2008": 286,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061634904,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

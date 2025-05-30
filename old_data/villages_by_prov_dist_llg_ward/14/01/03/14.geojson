@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6190,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.64783700017745,
+          -3.741012999750069
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6190,
+        "CU_NAME": "KUATENGISI",
+        "CU_NO": "010",
+        "GEOCODE": "14010314010",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "KUATENGISI",
+        "LATITUDE": -3.742592,
+        "LONGITUDE": 142.646593,
+        "REGHH": 187,
+        "TOTPOP2000": 772,
+        "MALE2000": 378,
+        "FEMALE2000": 394,
+        "POP2008": 919,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010314010,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

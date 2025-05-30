@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30615,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.39800636040525,
+          -6.66935801955691
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30615,
+        "CU_NAME": "KETEVE",
+        "CU_NO": "017",
+        "GEOCODE": "11071027017",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "27",
+        "WARD_NAME": "SOMAI",
+        "LATITUDE": -6.669358,
+        "LONGITUDE": 145.398006,
+        "REGHH": 42,
+        "TOTPOP2000": 220,
+        "MALE2000": 111,
+        "FEMALE2000": 109,
+        "POP2008": 262,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30616,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3927010402209,
+          -6.704046450083581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30616,
+        "CU_NAME": "SOMAI",
+        "CU_NO": "033",
+        "GEOCODE": "11071027033",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "27",
+        "WARD_NAME": "SOMAI",
+        "LATITUDE": -6.704046,
+        "LONGITUDE": 145.392701,
+        "REGHH": 36,
+        "TOTPOP2000": 179,
+        "MALE2000": 87,
+        "FEMALE2000": 92,
+        "POP2008": 212,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30617,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.39797467998756,
+          -6.683683680157685
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30617,
+        "CU_NAME": "TUNETI",
+        "CU_NO": "034",
+        "GEOCODE": "11071027034",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "27",
+        "WARD_NAME": "SOMAI",
+        "LATITUDE": -6.683684,
+        "LONGITUDE": 145.397975,
+        "REGHH": 24,
+        "TOTPOP2000": 112,
+        "MALE2000": 60,
+        "FEMALE2000": 52,
+        "POP2008": 135,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30618,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3851561599289,
+          -6.710668199677627
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30618,
+        "CU_NAME": "HOKILIVI",
+        "CU_NO": "035",
+        "GEOCODE": "11071027035",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "27",
+        "WARD_NAME": "SOMAI",
+        "LATITUDE": -6.710668,
+        "LONGITUDE": 145.385156,
+        "REGHH": 19,
+        "TOTPOP2000": 91,
+        "MALE2000": 51,
+        "FEMALE2000": 40,
+        "POP2008": 107,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30619,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38655152013666,
+          -6.686493930250606
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30619,
+        "CU_NAME": "YAVAVI",
+        "CU_NO": "036",
+        "GEOCODE": "11071027036",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "27",
+        "WARD_NAME": "SOMAI",
+        "LATITUDE": -6.686494,
+        "LONGITUDE": 145.386552,
+        "REGHH": 10,
+        "TOTPOP2000": 52,
+        "MALE2000": 29,
+        "FEMALE2000": 23,
+        "POP2008": 60,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30620,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.36117007993528,
+          -6.647314860092649
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30620,
+        "CU_NAME": "AGEA-KETEVE",
+        "CU_NO": "038",
+        "GEOCODE": "11071027038",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "27",
+        "WARD_NAME": "SOMAI",
+        "LATITUDE": -6.647315,
+        "LONGITUDE": 145.36117,
+        "REGHH": 47,
+        "TOTPOP2000": 299,
+        "MALE2000": 147,
+        "FEMALE2000": 152,
+        "POP2008": 357,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

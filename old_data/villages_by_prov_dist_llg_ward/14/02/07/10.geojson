@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6416,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.10611300031474,
+          -4.444805999697053
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6416,
+        "CU_NAME": "YAMEN 1",
+        "CU_NO": "023",
+        "GEOCODE": "14020710023",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "10",
+        "WARD_NAME": "YAMEN",
+        "LATITUDE": -4.460701,
+        "LONGITUDE": 144.098848,
+        "REGHH": 24,
+        "TOTPOP2000": 175,
+        "MALE2000": 97,
+        "FEMALE2000": 78,
+        "POP2008": 207,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020710023,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6417,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.07136499959518,
+          -4.46769899960907
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6417,
+        "CU_NAME": "YAMEN 2",
+        "CU_NO": "024",
+        "GEOCODE": "14020710024",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "10",
+        "WARD_NAME": "YAMEN",
+        "LATITUDE": -4.469287,
+        "LONGITUDE": 144.070137,
+        "REGHH": 46,
+        "TOTPOP2000": 300,
+        "MALE2000": 161,
+        "FEMALE2000": 139,
+        "POP2008": 358,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020710024,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

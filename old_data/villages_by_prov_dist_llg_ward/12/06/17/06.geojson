@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11550,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.19875999967428,
+          -6.562929000273073
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11550,
+        "CU_NAME": "DAMIRFAGAN",
+        "CU_NO": "001",
+        "GEOCODE": "12061706001",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "06",
+        "WARD_NAME": "NGAROWAIN",
+        "LATITUDE": -6.564347,
+        "LONGITUDE": 146.197725,
+        "REGHH": 9,
+        "TOTPOP2000": 56,
+        "MALE2000": 30,
+        "FEMALE2000": 26,
+        "POP2008": 72,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061706001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.12960100028602,
+          -6.519447999725344
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11551,
+        "CU_NAME": "ARINGKUN",
+        "CU_NO": "002",
+        "GEOCODE": "12061706002",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "06",
+        "WARD_NAME": "NGAROWAIN",
+        "LATITUDE": -6.520865,
+        "LONGITUDE": 146.128565,
+        "REGHH": 10,
+        "TOTPOP2000": 77,
+        "MALE2000": 35,
+        "FEMALE2000": 42,
+        "POP2008": 94,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061706002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.26256400032844,
+          -6.550619000066774
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11552,
+        "CU_NAME": "NGAROWAIN",
+        "CU_NO": "005",
+        "GEOCODE": "12061706005",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "06",
+        "WARD_NAME": "NGAROWAIN",
+        "LATITUDE": -6.552037,
+        "LONGITUDE": 146.26153,
+        "REGHH": 54,
+        "TOTPOP2000": 358,
+        "MALE2000": 185,
+        "FEMALE2000": 173,
+        "POP2008": 447,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061706005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11553,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.287723999563,
+          -6.529760999570442
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11553,
+        "CU_NAME": "YANUF",
+        "CU_NO": "016",
+        "GEOCODE": "12061706016",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "06",
+        "WARD_NAME": "NGAROWAIN",
+        "LATITUDE": -6.531179,
+        "LONGITUDE": 146.286689,
+        "REGHH": 26,
+        "TOTPOP2000": 124,
+        "MALE2000": 63,
+        "FEMALE2000": 61,
+        "POP2008": 155,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061706016,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11554,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2504310001906,
+          -6.557436999717709
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11554,
+        "CU_NAME": "NGAROWAIN C/SCHOOL",
+        "CU_NO": "503",
+        "GEOCODE": "12061706503",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "06",
+        "WARD_NAME": "NGAROWAIN",
+        "LATITUDE": -6.553905,
+        "LONGITUDE": 146.243366,
+        "REGHH": 8,
+        "TOTPOP2000": 53,
+        "MALE2000": 34,
+        "FEMALE2000": 19,
+        "POP2008": 68,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061706503,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

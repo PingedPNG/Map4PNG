@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18759,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.5830060000269,
+          -5.000416000098255
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18759,
+        "CU_NAME": "INANTINGIN",
+        "CU_NO": "014",
+        "GEOCODE": "15031015014",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "15",
+        "WARD_NAME": "INANTIGIN",
+        "LATITUDE": -5.019965,
+        "LONGITUDE": 141.583573,
+        "REGHH": 17,
+        "TOTPOP2000": 74,
+        "MALE2000": 36,
+        "FEMALE2000": 38,
+        "POP2008": 90,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031015014,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18760,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.55810800028405,
+          -5.0321619999762675
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18760,
+        "CU_NAME": "IVATIGIN",
+        "CU_NO": "015",
+        "GEOCODE": "15031015015",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "15",
+        "WARD_NAME": "INANTIGIN",
+        "LATITUDE": -5.033555,
+        "LONGITUDE": 141.557018,
+        "REGHH": 6,
+        "TOTPOP2000": 50,
+        "MALE2000": 26,
+        "FEMALE2000": 24,
+        "POP2008": 58,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031015015,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

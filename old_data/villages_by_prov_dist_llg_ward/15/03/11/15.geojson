@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18821,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.18430999980671,
+          -4.833350000302232
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18821,
+        "CU_NAME": "MUTUTEIMIN",
+        "CU_NO": "011",
+        "GEOCODE": "15031115011",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "15",
+        "WARD_NAME": "MUTUTEIMIN",
+        "LATITUDE": -4.834741,
+        "LONGITUDE": 141.183216,
+        "REGHH": 21,
+        "TOTPOP2000": 116,
+        "MALE2000": 66,
+        "FEMALE2000": 50,
+        "POP2008": 140,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031115011,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

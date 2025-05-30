@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.39022699977625,
+          -10.407714000300814
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9746,
+        "CU_NAME": "GAMADOUDO",
+        "CU_NO": "003",
+        "GEOCODE": "05010518003",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "18",
+        "WARD_NAME": "GAMADOUDOU",
+        "LATITUDE": -10.406321,
+        "LONGITUDE": 150.386192,
+        "REGHH": 71,
+        "TOTPOP2000": 445,
+        "MALE2000": 254,
+        "FEMALE2000": 191,
+        "POP2008": 542,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010518003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.38222000015298,
+          -10.40945499964846
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9747,
+        "CU_NAME": "ULABO LOGGING CAMP",
+        "CU_NO": "401",
+        "GEOCODE": "05010518401",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "18",
+        "WARD_NAME": "GAMADOUDOU",
+        "LATITUDE": -10.410924,
+        "LONGITUDE": 150.381234,
+        "REGHH": 98,
+        "TOTPOP2000": 349,
+        "MALE2000": 235,
+        "FEMALE2000": 114,
+        "POP2008": 425,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010518401,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

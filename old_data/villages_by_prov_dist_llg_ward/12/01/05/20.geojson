@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10674,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.585730999686,
+          -7.580748999866387
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10674,
+        "CU_NAME": "ANANDIA VILLAGE",
+        "CU_NO": "001",
+        "GEOCODE": "12010520001",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "TEKADU",
+        "LATITUDE": -7.582178,
+        "LONGITUDE": 146.584699,
+        "REGHH": 11,
+        "TOTPOP2000": 61,
+        "MALE2000": 28,
+        "FEMALE2000": 33,
+        "POP2008": 77,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010520001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10675,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.55828400020653,
+          -7.665556999655735
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10675,
+        "CU_NAME": "PIAROKOMANGA",
+        "CU_NO": "003",
+        "GEOCODE": "12010520003",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "TEKADU",
+        "LATITUDE": -7.666987,
+        "LONGITUDE": 146.557252,
+        "REGHH": 4,
+        "TOTPOP2000": 15,
+        "MALE2000": 7,
+        "FEMALE2000": 8,
+        "POP2008": 15,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010520003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10676,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.56055699980573,
+          -7.6662150003219836
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10676,
+        "CU_NAME": "KOROMA",
+        "CU_NO": "004",
+        "GEOCODE": "12010520004",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "TEKADU",
+        "LATITUDE": -7.667645,
+        "LONGITUDE": 146.559525,
+        "REGHH": 18,
+        "TOTPOP2000": 95,
+        "MALE2000": 48,
+        "FEMALE2000": 47,
+        "POP2008": 119,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010520004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.54872700015096,
+          -7.681515999963381
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10677,
+        "CU_NAME": "PAYAPI",
+        "CU_NO": "007",
+        "GEOCODE": "12010520007",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "TEKADU",
+        "LATITUDE": -7.682946,
+        "LONGITUDE": 146.547694,
+        "REGHH": 13,
+        "TOTPOP2000": 69,
+        "MALE2000": 37,
+        "FEMALE2000": 32,
+        "POP2008": 85,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010520007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10678,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.55086599986612,
+          -7.674679000335573
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10678,
+        "CU_NAME": "ONE MILE",
+        "CU_NO": "008",
+        "GEOCODE": "12010520008",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "TEKADU",
+        "LATITUDE": -7.676109,
+        "LONGITUDE": 146.549833,
+        "REGHH": 8,
+        "TOTPOP2000": 47,
+        "MALE2000": 25,
+        "FEMALE2000": 22,
+        "POP2008": 56,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010520008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10679,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6431069997883,
+          -7.557938000138563
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10679,
+        "CU_NAME": "YENINA",
+        "CU_NO": "011",
+        "GEOCODE": "12010520011",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "TEKADU",
+        "LATITUDE": -7.559367,
+        "LONGITUDE": 146.642076,
+        "REGHH": 15,
+        "TOTPOP2000": 82,
+        "MALE2000": 45,
+        "FEMALE2000": 37,
+        "POP2008": 102,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010520011,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10680,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6371850000877,
+          -7.557519999748138
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10680,
+        "CU_NAME": "YENIWE",
+        "CU_NO": "012",
+        "GEOCODE": "12010520012",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "TEKADU",
+        "LATITUDE": -7.555746,
+        "LONGITUDE": 146.642127,
+        "REGHH": 8,
+        "TOTPOP2000": 52,
+        "MALE2000": 30,
+        "FEMALE2000": 22,
+        "POP2008": 66,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010520012,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

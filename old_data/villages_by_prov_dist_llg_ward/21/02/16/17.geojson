@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20797,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.67406099991524,
+          -5.718111999968755
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20797,
+        "CU_NAME": "WAKIRIA",
+        "CU_NO": "001",
+        "GEOCODE": "07051617001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "16",
+        "WARD_NO": "17",
+        "WARD_NAME": "BETEGE 1",
+        "LATITUDE": -5.721223,
+        "LONGITUDE": 142.674317,
+        "REGHH": 54,
+        "TOTPOP2000": 189,
+        "MALE2000": 86,
+        "FEMALE2000": 103,
+        "POP2008": 263,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051617001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20798,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.67406900028425,
+          -5.720753000350612
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20798,
+        "CU_NAME": "PINA",
+        "CU_NO": "002",
+        "GEOCODE": "07051617002",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "16",
+        "WARD_NO": "17",
+        "WARD_NAME": "BETEGE 1",
+        "LATITUDE": -5.721223,
+        "LONGITUDE": 142.674317,
+        "REGHH": 28,
+        "TOTPOP2000": 138,
+        "MALE2000": 64,
+        "FEMALE2000": 74,
+        "POP2008": 192,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051617002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20799,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.67067400020505,
+          -5.717366999787146
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20799,
+        "CU_NAME": "HEMO",
+        "CU_NO": "003",
+        "GEOCODE": "07051617003",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "16",
+        "WARD_NO": "17",
+        "WARD_NAME": "BETEGE 1",
+        "LATITUDE": -5.721223,
+        "LONGITUDE": 142.674317,
+        "REGHH": 25,
+        "TOTPOP2000": 98,
+        "MALE2000": 55,
+        "FEMALE2000": 43,
+        "POP2008": 135,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051617003,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20800,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6774460004326,
+          -5.71810200040693
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20800,
+        "CU_NAME": "NENEKE",
+        "CU_NO": "004",
+        "GEOCODE": "07051617004",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "16",
+        "WARD_NO": "17",
+        "WARD_NAME": "BETEGE 1",
+        "LATITUDE": -5.721223,
+        "LONGITUDE": 142.674317,
+        "REGHH": 34,
+        "TOTPOP2000": 127,
+        "MALE2000": 60,
+        "FEMALE2000": 67,
+        "POP2008": 177,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051617004,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

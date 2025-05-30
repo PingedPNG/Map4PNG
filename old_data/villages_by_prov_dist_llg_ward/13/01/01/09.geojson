@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7855,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1414130002098,
+          -4.433133000087821
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7855,
+        "CU_NAME": "BUANAVAV",
+        "CU_NO": "008",
+        "GEOCODE": "13010109008",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "09",
+        "WARD_NAME": "MILALIMUDA",
+        "LATITUDE": -4.440369,
+        "LONGITUDE": 145.139261,
+        "REGHH": 11,
+        "TOTPOP2000": 81,
+        "MALE2000": 45,
+        "FEMALE2000": 36,
+        "POP2008": 99,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010109008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7856,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1698240000776,
+          -4.412330000329177
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7856,
+        "CU_NAME": "MILALIMUDA",
+        "CU_NO": "014",
+        "GEOCODE": "13010109014",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "09",
+        "WARD_NAME": "MILALIMUDA",
+        "LATITUDE": -4.413722,
+        "LONGITUDE": 145.168779,
+        "REGHH": 23,
+        "TOTPOP2000": 141,
+        "MALE2000": 68,
+        "FEMALE2000": 73,
+        "POP2008": 174,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010109014,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7857,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1514819995947,
+          -4.410012999600212
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7857,
+        "CU_NAME": "WANURU",
+        "CU_NO": "019",
+        "GEOCODE": "13010109019",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "09",
+        "WARD_NAME": "MILALIMUDA",
+        "LATITUDE": -4.411405,
+        "LONGITUDE": 145.150437,
+        "REGHH": 22,
+        "TOTPOP2000": 134,
+        "MALE2000": 76,
+        "FEMALE2000": 58,
+        "POP2008": 166,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010109019,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

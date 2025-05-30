@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5078,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.03567599994756,
+          -5.728419000436475
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5078,
+        "CU_NAME": "AONA",
+        "CU_NO": "011",
+        "GEOCODE": "18031427011",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "27",
+        "WARD_NAME": "AONA",
+        "LATITUDE": -5.738233,
+        "LONGITUDE": 151.037474,
+        "REGHH": 37,
+        "TOTPOP2000": 234,
+        "MALE2000": 101,
+        "FEMALE2000": 133,
+        "POP2008": 285,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031427011,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5079,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.05116600021086,
+          -5.735165000364418
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5079,
+        "CU_NAME": "WANGPUPUNA",
+        "CU_NO": "012",
+        "GEOCODE": "18031427012",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "27",
+        "WARD_NAME": "AONA",
+        "LATITUDE": -5.736582,
+        "LONGITUDE": 151.050201,
+        "REGHH": 22,
+        "TOTPOP2000": 133,
+        "MALE2000": 64,
+        "FEMALE2000": 69,
+        "POP2008": 162,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031427012,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5080,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.06228000012197,
+          -5.735467999948185
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5080,
+        "CU_NAME": "PONGLONA",
+        "CU_NO": "013",
+        "GEOCODE": "18031427013",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "27",
+        "WARD_NAME": "AONA",
+        "LATITUDE": -5.73615,
+        "LONGITUDE": 151.05771,
+        "REGHH": 5,
+        "TOTPOP2000": 23,
+        "MALE2000": 9,
+        "FEMALE2000": 14,
+        "POP2008": 31,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031427013,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5081,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.03750299966373,
+          -5.745844000000545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5081,
+        "CU_NAME": "AONA CATHOLIC MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "18031427401",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "27",
+        "WARD_NAME": "AONA",
+        "LATITUDE": -5.74074,
+        "LONGITUDE": 151.037491,
+        "REGHH": 7,
+        "TOTPOP2000": 34,
+        "MALE2000": 17,
+        "FEMALE2000": 17,
+        "POP2008": 42,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031427401,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

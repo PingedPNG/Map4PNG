@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3741749996766,
+          -9.379823000331157
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10215,
+        "CU_NAME": "AWAIA/GAYAMA",
+        "CU_NO": "001",
+        "GEOCODE": "05031326001",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "26",
+        "WARD_NAME": "AWAIA",
+        "LATITUDE": -9.380048,
+        "LONGITUDE": 150.374452,
+        "REGHH": 49,
+        "TOTPOP2000": 243,
+        "MALE2000": 127,
+        "FEMALE2000": 116,
+        "POP2008": 296,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031326001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3618559999545,
+          -9.368236000191189
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10216,
+        "CU_NAME": "BOLUBOLU STATION",
+        "CU_NO": "501",
+        "GEOCODE": "05031326501",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "26",
+        "WARD_NAME": "AWAIA",
+        "LATITUDE": -9.373082,
+        "LONGITUDE": 150.361604,
+        "REGHH": 51,
+        "TOTPOP2000": 294,
+        "MALE2000": 147,
+        "FEMALE2000": 147,
+        "POP2008": 359,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031326501,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

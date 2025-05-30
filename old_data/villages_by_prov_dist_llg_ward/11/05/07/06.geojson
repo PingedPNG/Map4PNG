@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30023,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1773083595932,
+          -6.492152609755067
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30023,
+        "CU_NAME": "GATE",
+        "CU_NO": "008",
+        "GEOCODE": "11050706008",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "UBAIGUBI",
+        "LATITUDE": -6.492153,
+        "LONGITUDE": 145.177308,
+        "REGHH": 38,
+        "TOTPOP2000": 180,
+        "MALE2000": 83,
+        "FEMALE2000": 97,
+        "POP2008": 213,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30024,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.16672327975562,
+          -6.465078540242416
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30024,
+        "CU_NAME": "AKOIAEPI",
+        "CU_NO": "014",
+        "GEOCODE": "11050706014",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "UBAIGUBI",
+        "LATITUDE": -6.465079,
+        "LONGITUDE": 145.166723,
+        "REGHH": 87,
+        "TOTPOP2000": 368,
+        "MALE2000": 178,
+        "FEMALE2000": 190,
+        "POP2008": 437,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30025,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.17320796007937,
+          -6.4891017901154555
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30025,
+        "CU_NAME": "KAVIAVITAI",
+        "CU_NO": "034",
+        "GEOCODE": "11050706034",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "UBAIGUBI",
+        "LATITUDE": -6.489102,
+        "LONGITUDE": 145.173208,
+        "REGHH": 17,
+        "TOTPOP2000": 83,
+        "MALE2000": 47,
+        "FEMALE2000": 36,
+        "POP2008": 99,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30026,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.16117352024185,
+          -6.4735968602068965
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30026,
+        "CU_NAME": "AVININGI",
+        "CU_NO": "035",
+        "GEOCODE": "11050706035",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "UBAIGUBI",
+        "LATITUDE": -6.473597,
+        "LONGITUDE": 145.161174,
+        "REGHH": 33,
+        "TOTPOP2000": 140,
+        "MALE2000": 71,
+        "FEMALE2000": 69,
+        "POP2008": 165,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30027,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1671624798646,
+          -6.504701399749763
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30027,
+        "CU_NAME": "KUFEYANEI",
+        "CU_NO": "036",
+        "GEOCODE": "11050706036",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "UBAIGUBI",
+        "LATITUDE": -6.504701,
+        "LONGITUDE": 145.167162,
+        "REGHH": 67,
+        "TOTPOP2000": 281,
+        "MALE2000": 147,
+        "FEMALE2000": 134,
+        "POP2008": 334,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30028,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.16559251987894,
+          -6.479796510300673
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30028,
+        "CU_NAME": "KEVAI",
+        "CU_NO": "037",
+        "GEOCODE": "11050706037",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "UBAIGUBI",
+        "LATITUDE": -6.479797,
+        "LONGITUDE": 145.165593,
+        "REGHH": 29,
+        "TOTPOP2000": 115,
+        "MALE2000": 57,
+        "FEMALE2000": 58,
+        "POP2008": 139,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

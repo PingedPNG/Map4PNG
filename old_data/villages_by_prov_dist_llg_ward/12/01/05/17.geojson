@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10663,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.83385199977,
+          -7.673988999992332
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10663,
+        "CU_NAME": "TAURORO (DAUDORE)",
+        "CU_NO": "002",
+        "GEOCODE": "12010517002",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "WISINI",
+        "LATITUDE": -7.67542,
+        "LONGITUDE": 146.832823,
+        "REGHH": 19,
+        "TOTPOP2000": 125,
+        "MALE2000": 72,
+        "FEMALE2000": 53,
+        "POP2008": 157,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010517002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10664,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.81364300042424,
+          -7.681044999826838
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10664,
+        "CU_NAME": "ILABU (ELABU)",
+        "CU_NO": "004",
+        "GEOCODE": "12010517004",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "WISINI",
+        "LATITUDE": -7.682476,
+        "LONGITUDE": 146.812614,
+        "REGHH": 40,
+        "TOTPOP2000": 195,
+        "MALE2000": 103,
+        "FEMALE2000": 92,
+        "POP2008": 243,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010517004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10665,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8472659996263,
+          -7.667178999810972
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10665,
+        "CU_NAME": "KASANGARE",
+        "CU_NO": "005",
+        "GEOCODE": "12010517005",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "WISINI",
+        "LATITUDE": -7.662771,
+        "LONGITUDE": 146.850452,
+        "REGHH": 30,
+        "TOTPOP2000": 172,
+        "MALE2000": 96,
+        "FEMALE2000": 76,
+        "POP2008": 215,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010517005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10666,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8123619998065,
+          -7.660191999561107
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10666,
+        "CU_NAME": "WISINI",
+        "CU_NO": "010",
+        "GEOCODE": "12010517010",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "WISINI",
+        "LATITUDE": -7.665809,
+        "LONGITUDE": 146.816923,
+        "REGHH": 64,
+        "TOTPOP2000": 301,
+        "MALE2000": 156,
+        "FEMALE2000": 145,
+        "POP2008": 375,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010517010,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

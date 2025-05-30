@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6740,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.39280499955112,
+          -3.5488479999352194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6740,
+        "CU_NAME": "SIRO",
+        "CU_NO": "044",
+        "GEOCODE": "14041405044",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "05",
+        "WARD_NAME": "SIRO/WANJO",
+        "LATITUDE": -3.550425,
+        "LONGITUDE": 143.39157,
+        "REGHH": 18,
+        "TOTPOP2000": 119,
+        "MALE2000": 68,
+        "FEMALE2000": 51,
+        "POP2008": 143,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041405044,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6741,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.40380599964726,
+          -3.5192350003949286
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6741,
+        "CU_NAME": "WANJO (ESTIMATED)",
+        "CU_NO": "056",
+        "GEOCODE": "14041405056",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "05",
+        "WARD_NAME": "SIRO/WANJO",
+        "LATITUDE": -3.520812,
+        "LONGITUDE": 143.402571,
+        "REGHH": 58,
+        "TOTPOP2000": 432,
+        "MALE2000": 221,
+        "FEMALE2000": 211,
+        "POP2008": 515,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041405056,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

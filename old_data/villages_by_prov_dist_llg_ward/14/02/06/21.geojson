@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6380,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.2857479998704,
+          -4.443414000255871
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6380,
+        "CU_NAME": "SANGRIMAN",
+        "CU_NO": "014",
+        "GEOCODE": "14020621014",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "21",
+        "WARD_NAME": "SANGRIMAN",
+        "LATITUDE": -4.453148,
+        "LONGITUDE": 143.290637,
+        "REGHH": 73,
+        "TOTPOP2000": 374,
+        "MALE2000": 180,
+        "FEMALE2000": 194,
+        "POP2008": 445,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020621014,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

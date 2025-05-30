@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9412640004333,
+          -3.773947999600466
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7136,
+        "CU_NAME": "JAMBITANGET",
+        "CU_NO": "010",
+        "GEOCODE": "14052117010",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "21",
+        "WARD_NO": "17",
+        "WARD_NAME": "JAMBITANGET",
+        "LATITUDE": -3.776723,
+        "LONGITUDE": 142.939788,
+        "REGHH": 167,
+        "TOTPOP2000": 806,
+        "MALE2000": 389,
+        "FEMALE2000": 417,
+        "POP2008": 960,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052117010,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9611120002187,
+          -3.79713000024924
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7137,
+        "CU_NAME": "LINGU",
+        "CU_NO": "011",
+        "GEOCODE": "14052117011",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "21",
+        "WARD_NO": "17",
+        "WARD_NAME": "JAMBITANGET",
+        "LATITUDE": -3.79871,
+        "LONGITUDE": 142.95987,
+        "REGHH": 56,
+        "TOTPOP2000": 259,
+        "MALE2000": 122,
+        "FEMALE2000": 137,
+        "POP2008": 308,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052117011,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.94562500009374,
+          -3.7780350001150964
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7138,
+        "CU_NAME": "BANGANGU",
+        "CU_NO": "012",
+        "GEOCODE": "14052117012",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "21",
+        "WARD_NO": "17",
+        "WARD_NAME": "JAMBITANGET",
+        "LATITUDE": -3.779614,
+        "LONGITUDE": 142.944384,
+        "REGHH": 23,
+        "TOTPOP2000": 128,
+        "MALE2000": 62,
+        "FEMALE2000": 66,
+        "POP2008": 152,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052117012,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

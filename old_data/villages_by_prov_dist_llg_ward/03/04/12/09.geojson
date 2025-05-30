@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1667,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6716900001934,
+          -9.95960800040882
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1667,
+        "CU_NAME": "GALOMARUPU",
+        "CU_NO": "003",
+        "GEOCODE": "03041209003",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "09",
+        "WARD_NAME": "GALOMARUPU",
+        "LATITUDE": -9.961064,
+        "LONGITUDE": 147.670665,
+        "REGHH": 97,
+        "TOTPOP2000": 549,
+        "MALE2000": 265,
+        "FEMALE2000": 284,
+        "POP2008": 659,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041209003,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4980,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.3788629996278,
+          -4.673402999648658
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4980,
+        "CU_NAME": "LAT",
+        "CU_NO": "009",
+        "GEOCODE": "18031307009",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "LAT",
+        "LATITUDE": -4.674809,
+        "LONGITUDE": 152.37792,
+        "REGHH": 46,
+        "TOTPOP2000": 312,
+        "MALE2000": 177,
+        "FEMALE2000": 135,
+        "POP2008": 380,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031307009,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4981,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.36644299974466,
+          -4.599450000417164
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4981,
+        "CU_NAME": "INDUNA PLANTATION",
+        "CU_NO": "503",
+        "GEOCODE": "18031307503",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "LAT",
+        "LATITUDE": -4.600392,
+        "LONGITUDE": 152.368752,
+        "REGHH": 7,
+        "TOTPOP2000": 73,
+        "MALE2000": 70,
+        "FEMALE2000": 3,
+        "POP2008": 89,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031307503,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4982,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.35805200039954,
+          -4.563331000325377
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4982,
+        "CU_NAME": "MATLAR PLANTATION",
+        "CU_NO": "508",
+        "GEOCODE": "18031307508",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "LAT",
+        "LATITUDE": -4.564735,
+        "LONGITUDE": 152.357109,
+        "REGHH": 11,
+        "TOTPOP2000": 85,
+        "MALE2000": 53,
+        "FEMALE2000": 32,
+        "POP2008": 101,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031307508,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4983,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.37186299967777,
+          -4.6279990003535545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4983,
+        "CU_NAME": "TALILIS PLANTATION",
+        "CU_NO": "515",
+        "GEOCODE": "18031307515",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "LAT",
+        "LATITUDE": -4.628939,
+        "LONGITUDE": 152.372779,
+        "REGHH": 8,
+        "TOTPOP2000": 45,
+        "MALE2000": 17,
+        "FEMALE2000": 28,
+        "POP2008": 53,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031307515,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

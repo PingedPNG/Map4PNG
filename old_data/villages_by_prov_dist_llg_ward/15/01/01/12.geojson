@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.43107300001896,
+          -3.1811670000569734
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18298,
+        "CU_NAME": "PROU",
+        "CU_NO": "013",
+        "GEOCODE": "15010112013",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "12",
+        "WARD_NAME": "PROU/VOKAU",
+        "LATITUDE": -3.17903,
+        "LONGITUDE": 142.428993,
+        "REGHH": 31,
+        "TOTPOP2000": 215,
+        "MALE2000": 113,
+        "FEMALE2000": 102,
+        "POP2008": 260,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010112013,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18299,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.41218999976877,
+          -3.1766169997746942
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18299,
+        "CU_NAME": "VOKAU",
+        "CU_NO": "018",
+        "GEOCODE": "15010112018",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "12",
+        "WARD_NAME": "PROU/VOKAU",
+        "LATITUDE": -3.171472,
+        "LONGITUDE": 142.409106,
+        "REGHH": 78,
+        "TOTPOP2000": 499,
+        "MALE2000": 272,
+        "FEMALE2000": 227,
+        "POP2008": 603,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010112018,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18300,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.3992300001645,
+          -3.1765340004437235
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18300,
+        "CU_NAME": "AITAPE HIGH SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "15010112401",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "12",
+        "WARD_NAME": "PROU/VOKAU",
+        "LATITUDE": -3.177909,
+        "LONGITUDE": 142.398152,
+        "REGHH": 12,
+        "TOTPOP2000": 82,
+        "MALE2000": 44,
+        "FEMALE2000": 38,
+        "POP2008": 98,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010112401,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

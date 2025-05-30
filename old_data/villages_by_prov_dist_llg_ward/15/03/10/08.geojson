@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.69906400020352,
+          -5.017643999570851
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18738,
+        "CU_NAME": "AGAMTAUIP",
+        "CU_NO": "003",
+        "GEOCODE": "15031008003",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "AGAMTAUIP",
+        "LATITUDE": -5.019038,
+        "LONGITUDE": 141.697975,
+        "REGHH": 22,
+        "TOTPOP2000": 168,
+        "MALE2000": 91,
+        "FEMALE2000": 77,
+        "POP2008": 203,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031008003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18739,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.67496599958133,
+          -5.008879000065747
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18739,
+        "CU_NAME": "BILTAVIP",
+        "CU_NO": "006",
+        "GEOCODE": "15031008006",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "AGAMTAUIP",
+        "LATITUDE": -5.017691,
+        "LONGITUDE": 141.680584,
+        "REGHH": 15,
+        "TOTPOP2000": 115,
+        "MALE2000": 60,
+        "FEMALE2000": 55,
+        "POP2008": 139,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031008006,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18740,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.68793699969285,
+          -5.021343000179286
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18740,
+        "CU_NAME": "TAGATEMTIGIN",
+        "CU_NO": "028",
+        "GEOCODE": "15031008028",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "AGAMTAUIP",
+        "LATITUDE": -5.022737,
+        "LONGITUDE": 141.686848,
+        "REGHH": 18,
+        "TOTPOP2000": 154,
+        "MALE2000": 73,
+        "FEMALE2000": 81,
+        "POP2008": 186,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031008028,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

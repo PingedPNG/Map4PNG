@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 880,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.41719399980332,
+          -10.16054099986718
+        ]
+      },
+      "properties": {
+        "OBJECTID": 880,
+        "CU_NAME": "GABURU - MARA",
+        "CU_NO": "017",
+        "GEOCODE": "03010103017",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "MALAORO/KENENE",
+        "LATITUDE": -10.162004,
+        "LONGITUDE": 149.416195,
+        "REGHH": 9,
+        "TOTPOP2000": 54,
+        "MALE2000": 28,
+        "FEMALE2000": 26,
+        "POP2008": 62,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010103017,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 881,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.37278699972035,
+          -10.177773999570377
+        ]
+      },
+      "properties": {
+        "OBJECTID": 881,
+        "CU_NAME": "NUNUMAI",
+        "CU_NO": "039",
+        "GEOCODE": "03010103039",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "MALAORO/KENENE",
+        "LATITUDE": -10.179238,
+        "LONGITUDE": 149.371787,
+        "REGHH": 34,
+        "TOTPOP2000": 190,
+        "MALE2000": 101,
+        "FEMALE2000": 89,
+        "POP2008": 228,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010103039,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 882,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.35712200038006,
+          -10.202150999568914
+        ]
+      },
+      "properties": {
+        "OBJECTID": 882,
+        "CU_NAME": "KOEABA",
+        "CU_NO": "053",
+        "GEOCODE": "03010103053",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "MALAORO/KENENE",
+        "LATITUDE": -10.203615,
+        "LONGITUDE": 149.356122,
+        "REGHH": 6,
+        "TOTPOP2000": 36,
+        "MALE2000": 20,
+        "FEMALE2000": 16,
+        "POP2008": 44,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010103053,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 883,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.38509099964995,
+          -10.200782000289053
+        ]
+      },
+      "properties": {
+        "OBJECTID": 883,
+        "CU_NAME": "GOIBO",
+        "CU_NO": "054",
+        "GEOCODE": "03010103054",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "MALAORO/KENENE",
+        "LATITUDE": -10.195927,
+        "LONGITUDE": 149.399815,
+        "REGHH": 7,
+        "TOTPOP2000": 47,
+        "MALE2000": 27,
+        "FEMALE2000": 20,
+        "POP2008": 55,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010103054,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

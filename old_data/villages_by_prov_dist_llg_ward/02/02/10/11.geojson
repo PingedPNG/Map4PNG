@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7818,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.17048700027487,
+          -7.768755000342935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7818,
+        "CU_NAME": "AI'DIO",
+        "CU_NO": "001",
+        "GEOCODE": "02021011001",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "11",
+        "WARD_NAME": "KEMEI",
+        "LATITUDE": -7.769583,
+        "LONGITUDE": 144.166533,
+        "REGHH": 10,
+        "TOTPOP2000": 47,
+        "MALE2000": 26,
+        "FEMALE2000": 21,
+        "POP2008": 55,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021011001,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7819,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1194480001252,
+          -7.781775000016182
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7819,
+        "CU_NAME": "KEMEI",
+        "CU_NO": "010",
+        "GEOCODE": "02021011010",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "11",
+        "WARD_NAME": "KEMEI",
+        "LATITUDE": -7.7832,
+        "LONGITUDE": 144.118383,
+        "REGHH": 10,
+        "TOTPOP2000": 50,
+        "MALE2000": 27,
+        "FEMALE2000": 23,
+        "POP2008": 58,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021011010,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

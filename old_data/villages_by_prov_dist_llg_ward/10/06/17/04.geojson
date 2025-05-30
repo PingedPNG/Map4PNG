@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14857,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.03433200032157,
+          -6.134014000445745
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14857,
+        "CU_NAME": "MAIDOM",
+        "CU_NO": "007",
+        "GEOCODE": "10061704007",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "04",
+        "WARD_NAME": "TEMISNOWAI",
+        "LATITUDE": -6.135425,
+        "LONGITUDE": 145.033283,
+        "REGHH": 36,
+        "TOTPOP2000": 220,
+        "MALE2000": 111,
+        "FEMALE2000": 109,
+        "POP2008": 252,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061704007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14858,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.03194099977736,
+          -6.118453999652331
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14858,
+        "CU_NAME": "BOLEN",
+        "CU_NO": "008",
+        "GEOCODE": "10061704008",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "04",
+        "WARD_NAME": "TEMISNOWAI",
+        "LATITUDE": -6.119865,
+        "LONGITUDE": 145.030892,
+        "REGHH": 24,
+        "TOTPOP2000": 109,
+        "MALE2000": 61,
+        "FEMALE2000": 48,
+        "POP2008": 125,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061704008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14859,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.03999899995392,
+          -6.104466000305649
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14859,
+        "CU_NAME": "GUNKUA",
+        "CU_NO": "009",
+        "GEOCODE": "10061704009",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "04",
+        "WARD_NAME": "TEMISNOWAI",
+        "LATITUDE": -6.105877,
+        "LONGITUDE": 145.03895,
+        "REGHH": 5,
+        "TOTPOP2000": 14,
+        "MALE2000": 7,
+        "FEMALE2000": 7,
+        "POP2008": 14,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061704009,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14860,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.02762899967865,
+          -6.1087639997587075
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14860,
+        "CU_NAME": "TULIKUL",
+        "CU_NO": "010",
+        "GEOCODE": "10061704010",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "04",
+        "WARD_NAME": "TEMISNOWAI",
+        "LATITUDE": -6.110175,
+        "LONGITUDE": 145.02658,
+        "REGHH": 11,
+        "TOTPOP2000": 33,
+        "MALE2000": 18,
+        "FEMALE2000": 15,
+        "POP2008": 41,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061704010,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1594,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4631780001646,
+          -9.709094999734418
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1594,
+        "CU_NAME": "MANUGORO",
+        "CU_NO": "062",
+        "GEOCODE": "03041101062",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "MANUGORO",
+        "LATITUDE": -9.710548,
+        "LONGITUDE": 147.462152,
+        "REGHH": 59,
+        "TOTPOP2000": 413,
+        "MALE2000": 218,
+        "FEMALE2000": 195,
+        "POP2008": 495,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041101062,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1595,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.44931500028713,
+          -9.666123000176299
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1595,
+        "CU_NAME": "SABUIA",
+        "CU_NO": "071",
+        "GEOCODE": "03041101071",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "MANUGORO",
+        "LATITUDE": -9.667576,
+        "LONGITUDE": 147.448289,
+        "REGHH": 18,
+        "TOTPOP2000": 155,
+        "MALE2000": 81,
+        "FEMALE2000": 74,
+        "POP2008": 187,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041101071,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1596,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.46943700011752,
+          -9.640274999791359
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1596,
+        "CU_NAME": "SENUNU",
+        "CU_NO": "075",
+        "GEOCODE": "03041101075",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "MANUGORO",
+        "LATITUDE": -9.641727,
+        "LONGITUDE": 147.468412,
+        "REGHH": 18,
+        "TOTPOP2000": 112,
+        "MALE2000": 59,
+        "FEMALE2000": 53,
+        "POP2008": 136,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041101075,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

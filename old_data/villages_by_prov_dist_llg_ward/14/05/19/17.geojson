@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7054,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.144508000344,
+          -3.992170999591906
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7054,
+        "CU_NAME": "NUMANGUA 2",
+        "CU_NO": "007",
+        "GEOCODE": "14051917007",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "19",
+        "WARD_NO": "17",
+        "WARD_NAME": "NUMANGUA 2",
+        "LATITUDE": -3.993159,
+        "LONGITUDE": 143.144611,
+        "REGHH": 41,
+        "TOTPOP2000": 229,
+        "MALE2000": 114,
+        "FEMALE2000": 115,
+        "POP2008": 272,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14051917007,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7055,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.15548200009425,
+          -4.005847999885248
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7055,
+        "CU_NAME": "NUMANGUA",
+        "CU_NO": "008",
+        "GEOCODE": "14051917008",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "19",
+        "WARD_NO": "17",
+        "WARD_NAME": "NUMANGUA 2",
+        "LATITUDE": -4.00743,
+        "LONGITUDE": 143.154242,
+        "REGHH": 19,
+        "TOTPOP2000": 118,
+        "MALE2000": 64,
+        "FEMALE2000": 54,
+        "POP2008": 142,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14051917008,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7056,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.14753399959443,
+          -3.989197000041486
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7056,
+        "CU_NAME": "NUMANGUA 1",
+        "CU_NO": "009",
+        "GEOCODE": "14051917009",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "19",
+        "WARD_NO": "17",
+        "WARD_NAME": "NUMANGUA 2",
+        "LATITUDE": -3.993159,
+        "LONGITUDE": 143.144611,
+        "REGHH": 17,
+        "TOTPOP2000": 108,
+        "MALE2000": 50,
+        "FEMALE2000": 58,
+        "POP2008": 129,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14051917009,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7057,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.15014200025314,
+          -3.993604000024561
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7057,
+        "CU_NAME": "NUMANGUA 3",
+        "CU_NO": "010",
+        "GEOCODE": "14051917010",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "19",
+        "WARD_NO": "17",
+        "WARD_NAME": "NUMANGUA 2",
+        "LATITUDE": -3.995186,
+        "LONGITUDE": 143.148902,
+        "REGHH": 4,
+        "TOTPOP2000": 18,
+        "MALE2000": 11,
+        "FEMALE2000": 7,
+        "POP2008": 18,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14051917010,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

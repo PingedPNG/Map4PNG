@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17697,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.36577399987027,
+          -6.007629999824587
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17697,
+        "CU_NAME": "ASIRIM",
+        "CU_NO": "034",
+        "GEOCODE": "19010107034",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "ASIRIM",
+        "LATITUDE": -6.01067,
+        "LONGITUDE": 150.368,
+        "REGHH": 27,
+        "TOTPOP2000": 175,
+        "MALE2000": 88,
+        "FEMALE2000": 87,
+        "POP2008": 231,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010107034,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17698,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.40001899987703,
+          -5.904128000406843
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17698,
+        "CU_NAME": "APARAS",
+        "CU_NO": "035",
+        "GEOCODE": "19010107035",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "ASIRIM",
+        "LATITUDE": -5.905546,
+        "LONGITUDE": 150.399044,
+        "REGHH": 16,
+        "TOTPOP2000": 91,
+        "MALE2000": 47,
+        "FEMALE2000": 44,
+        "POP2008": 119,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010107035,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17699,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.28597700003854,
+          -6.036739999551287
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17699,
+        "CU_NAME": "ZIKAR",
+        "CU_NO": "036",
+        "GEOCODE": "19010107036",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "ASIRIM",
+        "LATITUDE": -6.03816,
+        "LONGITUDE": 150.285,
+        "REGHH": 12,
+        "TOTPOP2000": 49,
+        "MALE2000": 19,
+        "FEMALE2000": 30,
+        "POP2008": 65,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010107036,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

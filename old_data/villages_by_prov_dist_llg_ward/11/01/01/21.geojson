@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 28712,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2576934800701,
+          -5.912535329641685
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28712,
+        "CU_NAME": "MARZOWE",
+        "CU_NO": "031",
+        "GEOCODE": "11010121031",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "KWONGI NO. 1",
+        "LATITUDE": -5.912535,
+        "LONGITUDE": 145.257693,
+        "REGHH": 27,
+        "TOTPOP2000": 82,
+        "MALE2000": 48,
+        "FEMALE2000": 34,
+        "POP2008": 98,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28713,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2642663596049,
+          -5.915009340308757
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28713,
+        "CU_NAME": "DUKU",
+        "CU_NO": "046",
+        "GEOCODE": "11010121046",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "KWONGI NO. 1",
+        "LATITUDE": -5.915009,
+        "LONGITUDE": 145.264266,
+        "REGHH": 10,
+        "TOTPOP2000": 30,
+        "MALE2000": 22,
+        "FEMALE2000": 8,
+        "POP2008": 38,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28714,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26369683963753,
+          -5.921274239814295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28714,
+        "CU_NAME": "AMAGUKU",
+        "CU_NO": "063",
+        "GEOCODE": "11010121063",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "KWONGI NO. 1",
+        "LATITUDE": -5.921274,
+        "LONGITUDE": 145.263697,
+        "REGHH": 20,
+        "TOTPOP2000": 73,
+        "MALE2000": 38,
+        "FEMALE2000": 35,
+        "POP2008": 89,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28715,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.25518787981684,
+          -5.906156309765834
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28715,
+        "CU_NAME": "GURUKUWE",
+        "CU_NO": "064",
+        "GEOCODE": "11010121064",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "KWONGI NO. 1",
+        "LATITUDE": -5.906156,
+        "LONGITUDE": 145.255188,
+        "REGHH": 30,
+        "TOTPOP2000": 80,
+        "MALE2000": 49,
+        "FEMALE2000": 31,
+        "POP2008": 96,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28716,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26015480040382,
+          -5.928040620178422
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28716,
+        "CU_NAME": "AMBOKU",
+        "CU_NO": "087",
+        "GEOCODE": "11010121087",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "KWONGI NO. 1",
+        "LATITUDE": -5.928041,
+        "LONGITUDE": 145.260155,
+        "REGHH": 8,
+        "TOTPOP2000": 30,
+        "MALE2000": 18,
+        "FEMALE2000": 12,
+        "POP2008": 38,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28717,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.25951040018492,
+          -5.920192170132509
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28717,
+        "CU_NAME": "SIKINUMUGA",
+        "CU_NO": "088",
+        "GEOCODE": "11010121088",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "KWONGI NO. 1",
+        "LATITUDE": -5.920192,
+        "LONGITUDE": 145.25951,
+        "REGHH": 31,
+        "TOTPOP2000": 95,
+        "MALE2000": 53,
+        "FEMALE2000": 42,
+        "POP2008": 111,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28718,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.25777411958006,
+          -5.924245769826371
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28718,
+        "CU_NAME": "SIGAMU",
+        "CU_NO": "089",
+        "GEOCODE": "11010121089",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "KWONGI NO. 1",
+        "LATITUDE": -5.924246,
+        "LONGITUDE": 145.257774,
+        "REGHH": 11,
+        "TOTPOP2000": 36,
+        "MALE2000": 21,
+        "FEMALE2000": 15,
+        "POP2008": 44,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28719,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.25516952015732,
+          -5.9012642703297615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28719,
+        "CU_NAME": "ROKA",
+        "CU_NO": "090",
+        "GEOCODE": "11010121090",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "KWONGI NO. 1",
+        "LATITUDE": -5.901264,
+        "LONGITUDE": 145.25517,
+        "REGHH": 52,
+        "TOTPOP2000": 163,
+        "MALE2000": 86,
+        "FEMALE2000": 77,
+        "POP2008": 195,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28720,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26815363957883,
+          -5.923555649873322
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28720,
+        "CU_NAME": "GUMUNOKU",
+        "CU_NO": "091",
+        "GEOCODE": "11010121091",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "KWONGI NO. 1",
+        "LATITUDE": -5.923556,
+        "LONGITUDE": 145.268154,
+        "REGHH": 23,
+        "TOTPOP2000": 77,
+        "MALE2000": 42,
+        "FEMALE2000": 35,
+        "POP2008": 93,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28721,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.15949016024274,
+          -6.074979029958229
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28721,
+        "CU_NAME": "KOFINGA",
+        "CU_NO": "092",
+        "GEOCODE": "11010121092",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "KWONGI NO. 1",
+        "LATITUDE": -6.074979,
+        "LONGITUDE": 145.15949,
+        "REGHH": 19,
+        "TOTPOP2000": 51,
+        "MALE2000": 28,
+        "FEMALE2000": 23,
+        "POP2008": 59,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28722,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2488054398193,
+          -5.917472640050278
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28722,
+        "CU_NAME": "GUMINI",
+        "CU_NO": "093",
+        "GEOCODE": "11010121093",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "KWONGI NO. 1",
+        "LATITUDE": -5.917473,
+        "LONGITUDE": 145.248805,
+        "REGHH": 25,
+        "TOTPOP2000": 80,
+        "MALE2000": 42,
+        "FEMALE2000": 38,
+        "POP2008": 96,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28723,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2460636802947,
+          -5.889738419592334
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28723,
+        "CU_NAME": "LIVISERO",
+        "CU_NO": "094",
+        "GEOCODE": "11010121094",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "KWONGI NO. 1",
+        "LATITUDE": -5.889738,
+        "LONGITUDE": 145.246064,
+        "REGHH": 12,
+        "TOTPOP2000": 42,
+        "MALE2000": 25,
+        "FEMALE2000": 17,
+        "POP2008": 50,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27000080029677,
+          -5.909183280284083
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28724,
+        "CU_NAME": "MARUNOSO",
+        "CU_NO": "095",
+        "GEOCODE": "11010121095",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "KWONGI NO. 1",
+        "LATITUDE": -5.909183,
+        "LONGITUDE": 145.270001,
+        "REGHH": 24,
+        "TOTPOP2000": 93,
+        "MALE2000": 54,
+        "FEMALE2000": 39,
+        "POP2008": 109,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.25227151961496,
+          -5.897897550331663
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28725,
+        "CU_NAME": "SIVIKU",
+        "CU_NO": "096",
+        "GEOCODE": "11010121096",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "KWONGI NO. 1",
+        "LATITUDE": -5.897898,
+        "LONGITUDE": 145.252272,
+        "REGHH": 15,
+        "TOTPOP2000": 48,
+        "MALE2000": 21,
+        "FEMALE2000": 27,
+        "POP2008": 56,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28726,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26686592012618,
+          -5.9258609099529735
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28726,
+        "CU_NAME": "MORORA",
+        "CU_NO": "097",
+        "GEOCODE": "11010121097",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "KWONGI NO. 1",
+        "LATITUDE": -5.925861,
+        "LONGITUDE": 145.266866,
+        "REGHH": 11,
+        "TOTPOP2000": 46,
+        "MALE2000": 22,
+        "FEMALE2000": 24,
+        "POP2008": 54,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

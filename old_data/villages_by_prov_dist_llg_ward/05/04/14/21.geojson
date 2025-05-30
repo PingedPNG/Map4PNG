@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10240,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.59227500029112,
+          -9.43734299987949
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10240,
+        "CU_NAME": "AGAILUMA",
+        "CU_NO": "001",
+        "GEOCODE": "05041421001",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "14",
+        "WARD_NO": "21",
+        "WARD_NAME": "AGEALUMA",
+        "LATITUDE": -9.438802,
+        "LONGITUDE": 150.591295,
+        "REGHH": 41,
+        "TOTPOP2000": 231,
+        "MALE2000": 123,
+        "FEMALE2000": 108,
+        "POP2008": 282,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041421001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

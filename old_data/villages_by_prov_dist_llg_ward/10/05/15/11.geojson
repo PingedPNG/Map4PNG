@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14750,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.00759500030904,
+          -5.9715109997328
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14750,
+        "CU_NAME": "SIMBANGE",
+        "CU_NO": "006",
+        "GEOCODE": "10051511006",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": "11",
+        "WARD_NAME": "KOROMBA BARENGIGL",
+        "LATITUDE": -5.97292,
+        "LONGITUDE": 145.006546,
+        "REGHH": 50,
+        "TOTPOP2000": 202,
+        "MALE2000": 106,
+        "FEMALE2000": 96,
+        "POP2008": 234,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051511006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.00476300011246,
+          -5.972463999613865
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14751,
+        "CU_NAME": "GEWA",
+        "CU_NO": "007",
+        "GEOCODE": "10051511007",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": "11",
+        "WARD_NAME": "KOROMBA BARENGIGL",
+        "LATITUDE": -5.973873,
+        "LONGITUDE": 145.003714,
+        "REGHH": 42,
+        "TOTPOP2000": 157,
+        "MALE2000": 79,
+        "FEMALE2000": 78,
+        "POP2008": 181,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051511007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14752,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.00653800012867,
+          -5.954673000258708
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14752,
+        "CU_NAME": "WAIDORKA",
+        "CU_NO": "008",
+        "GEOCODE": "10051511008",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": "11",
+        "WARD_NAME": "KOROMBA BARENGIGL",
+        "LATITUDE": -5.956082,
+        "LONGITUDE": 145.005489,
+        "REGHH": 25,
+        "TOTPOP2000": 111,
+        "MALE2000": 61,
+        "FEMALE2000": 50,
+        "POP2008": 127,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051511008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14753,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.00581500006228,
+          -5.94831100005257
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14753,
+        "CU_NAME": "INGA",
+        "CU_NO": "009",
+        "GEOCODE": "10051511009",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": "11",
+        "WARD_NAME": "KOROMBA BARENGIGL",
+        "LATITUDE": -5.94972,
+        "LONGITUDE": 145.004766,
+        "REGHH": 50,
+        "TOTPOP2000": 234,
+        "MALE2000": 119,
+        "FEMALE2000": 115,
+        "POP2008": 270,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051511009,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14754,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.00727299984908,
+          -5.968888000181039
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14754,
+        "CU_NAME": "BARENGIL 2",
+        "CU_NO": "010",
+        "GEOCODE": "10051511010",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": "11",
+        "WARD_NAME": "KOROMBA BARENGIGL",
+        "LATITUDE": -5.970297,
+        "LONGITUDE": 145.006224,
+        "REGHH": 61,
+        "TOTPOP2000": 228,
+        "MALE2000": 130,
+        "FEMALE2000": 98,
+        "POP2008": 262,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051511010,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.01200000019992,
+          -5.9716489998014595
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14755,
+        "CU_NAME": "GAWAGLKE",
+        "CU_NO": "011",
+        "GEOCODE": "10051511011",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": "11",
+        "WARD_NAME": "KOROMBA BARENGIGL",
+        "LATITUDE": -5.973058,
+        "LONGITUDE": 145.010951,
+        "REGHH": 64,
+        "TOTPOP2000": 232,
+        "MALE2000": 122,
+        "FEMALE2000": 110,
+        "POP2008": 267,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051511011,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

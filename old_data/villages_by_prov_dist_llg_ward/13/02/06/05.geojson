@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.55557599963277,
+          -5.265626000439511
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8318,
+        "CU_NAME": "BEMARI",
+        "CU_NO": "006",
+        "GEOCODE": "13020605006",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARD FIVE",
+        "LATITUDE": -5.267029,
+        "LONGITUDE": 145.554535,
+        "REGHH": 19,
+        "TOTPOP2000": 83,
+        "MALE2000": 47,
+        "FEMALE2000": 36,
+        "POP2008": 102,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020605006,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8319,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58704600027272,
+          -5.245110000426109
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8319,
+        "CU_NAME": "BERIN",
+        "CU_NO": "007",
+        "GEOCODE": "13020605007",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARD FIVE",
+        "LATITUDE": -5.246512,
+        "LONGITUDE": 145.586006,
+        "REGHH": 77,
+        "TOTPOP2000": 425,
+        "MALE2000": 227,
+        "FEMALE2000": 198,
+        "POP2008": 525,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020605007,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8320,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58214499999178,
+          -5.2791900000184455
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8320,
+        "CU_NAME": "SIHAN",
+        "CU_NO": "022",
+        "GEOCODE": "13020605022",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARD FIVE",
+        "LATITUDE": -5.283641,
+        "LONGITUDE": 145.57652,
+        "REGHH": 32,
+        "TOTPOP2000": 201,
+        "MALE2000": 116,
+        "FEMALE2000": 85,
+        "POP2008": 249,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020605022,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8321,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.55296599978112,
+          -5.275618999916844
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8321,
+        "CU_NAME": "WAGUMA",
+        "CU_NO": "028",
+        "GEOCODE": "13020605028",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARD FIVE",
+        "LATITUDE": -5.277022,
+        "LONGITUDE": 145.551925,
+        "REGHH": 62,
+        "TOTPOP2000": 367,
+        "MALE2000": 191,
+        "FEMALE2000": 176,
+        "POP2008": 454,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020605028,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6097190004316,
+          -7.992914999827349
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10936,
+        "CU_NAME": "PEMA",
+        "CU_NO": "901",
+        "GEOCODE": "12030921901",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "21",
+        "WARD_NAME": "PEMA",
+        "LATITUDE": -7.998443,
+        "LONGITUDE": 147.615684,
+        "REGHH": 49,
+        "TOTPOP2000": 274,
+        "MALE2000": 135,
+        "FEMALE2000": 139,
+        "POP2008": 342,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030921901,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.63104199988845,
+          -7.974812999620212
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10937,
+        "CU_NAME": "GOMA",
+        "CU_NO": "902",
+        "GEOCODE": "12030921902",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "21",
+        "WARD_NAME": "PEMA",
+        "LATITUDE": -7.987275,
+        "LONGITUDE": 147.650006,
+        "REGHH": 5,
+        "TOTPOP2000": 26,
+        "MALE2000": 11,
+        "FEMALE2000": 15,
+        "POP2008": 34,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030921902,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.58728400005657,
+          -7.994863999773713
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10938,
+        "CU_NAME": "SOPU",
+        "CU_NO": "904",
+        "GEOCODE": "12030921904",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "21",
+        "WARD_NAME": "PEMA",
+        "LATITUDE": -7.9963,
+        "LONGITUDE": 147.586265,
+        "REGHH": 25,
+        "TOTPOP2000": 103,
+        "MALE2000": 56,
+        "FEMALE2000": 47,
+        "POP2008": 127,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030921904,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10939,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.62879100040436,
+          -7.9953240003023325
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10939,
+        "CU_NAME": "PEPEWARE",
+        "CU_NO": "905",
+        "GEOCODE": "12030921905",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "21",
+        "WARD_NAME": "PEMA",
+        "LATITUDE": -7.99676,
+        "LONGITUDE": 147.627772,
+        "REGHH": 23,
+        "TOTPOP2000": 120,
+        "MALE2000": 65,
+        "FEMALE2000": 55,
+        "POP2008": 150,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030921905,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

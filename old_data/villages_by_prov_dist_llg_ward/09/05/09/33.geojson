@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.11387300023887,
+          -5.491837000077453
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17104,
+        "CU_NAME": "YAKASMANDA.1",
+        "CU_NO": "001",
+        "GEOCODE": "09050933001",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "33",
+        "WARD_NAME": "YAKASMANDA.1",
+        "LATITUDE": -5.492772,
+        "LONGITUDE": 144.114204,
+        "REGHH": 48,
+        "TOTPOP2000": 177,
+        "MALE2000": 82,
+        "FEMALE2000": 95,
+        "POP2008": 216,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050933001,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

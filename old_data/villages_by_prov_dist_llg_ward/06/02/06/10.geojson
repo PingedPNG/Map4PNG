@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13594,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0772599999491,
+          -8.873691000039571
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13594,
+        "CU_NAME": "GAROMBI",
+        "CU_NO": "006",
+        "GEOCODE": "06020610006",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "10",
+        "WARD_NAME": "BINDUTA",
+        "LATITUDE": -8.875138,
+        "LONGITUDE": 148.076245,
+        "REGHH": 34,
+        "TOTPOP2000": 203,
+        "MALE2000": 107,
+        "FEMALE2000": 96,
+        "POP2008": 251,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020610006,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13595,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.05696500023464,
+          -8.856933999804198
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13595,
+        "CU_NAME": "SAMBAHUTA",
+        "CU_NO": "007",
+        "GEOCODE": "06020610007",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "10",
+        "WARD_NAME": "BINDUTA",
+        "LATITUDE": -8.85838,
+        "LONGITUDE": 148.05595,
+        "REGHH": 17,
+        "TOTPOP2000": 90,
+        "MALE2000": 54,
+        "FEMALE2000": 36,
+        "POP2008": 112,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020610007,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13596,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.06421600006843,
+          -8.861763000362146
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13596,
+        "CU_NAME": "ISOGE",
+        "CU_NO": "010",
+        "GEOCODE": "06020610010",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "10",
+        "WARD_NAME": "BINDUTA",
+        "LATITUDE": -8.863209,
+        "LONGITUDE": 148.063201,
+        "REGHH": 79,
+        "TOTPOP2000": 412,
+        "MALE2000": 227,
+        "FEMALE2000": 185,
+        "POP2008": 509,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020610010,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13597,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.08483300024284,
+          -8.873404000294329
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13597,
+        "CU_NAME": "SIVEPI",
+        "CU_NO": "020",
+        "GEOCODE": "06020610020",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "10",
+        "WARD_NAME": "BINDUTA",
+        "LATITUDE": -8.877386,
+        "LONGITUDE": 148.081284,
+        "REGHH": 35,
+        "TOTPOP2000": 210,
+        "MALE2000": 113,
+        "FEMALE2000": 97,
+        "POP2008": 260,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020610020,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13598,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.07001200025366,
+          -8.866840999812268
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13598,
+        "CU_NAME": "BINDUTA",
+        "CU_NO": "032",
+        "GEOCODE": "06020610032",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "10",
+        "WARD_NAME": "BINDUTA",
+        "LATITUDE": -8.868287,
+        "LONGITUDE": 148.068997,
+        "REGHH": 26,
+        "TOTPOP2000": 169,
+        "MALE2000": 100,
+        "FEMALE2000": 69,
+        "POP2008": 210,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020610032,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

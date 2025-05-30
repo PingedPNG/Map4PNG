@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.19159399996317,
+          -6.198524000382292
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11235,
+        "CU_NAME": "GILANG",
+        "CU_NO": "001",
+        "GEOCODE": "12041314001",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "14",
+        "WARD_NAME": "GILANG",
+        "LATITUDE": -6.19994,
+        "LONGITUDE": 147.190573,
+        "REGHH": 80,
+        "TOTPOP2000": 411,
+        "MALE2000": 194,
+        "FEMALE2000": 217,
+        "POP2008": 514,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041314001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.19073199978197,
+          -6.205640000285712
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11236,
+        "CU_NAME": "UPAT",
+        "CU_NO": "013",
+        "GEOCODE": "12041314013",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "14",
+        "WARD_NAME": "GILANG",
+        "LATITUDE": -6.207056,
+        "LONGITUDE": 147.189711,
+        "REGHH": 74,
+        "TOTPOP2000": 371,
+        "MALE2000": 173,
+        "FEMALE2000": 198,
+        "POP2008": 463,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041314013,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11237,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.20053699958294,
+          -6.190255000367927
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11237,
+        "CU_NAME": "UMBIAMON",
+        "CU_NO": "014",
+        "GEOCODE": "12041314014",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "14",
+        "WARD_NAME": "GILANG",
+        "LATITUDE": -6.191671,
+        "LONGITUDE": 147.199517,
+        "REGHH": 37,
+        "TOTPOP2000": 179,
+        "MALE2000": 86,
+        "FEMALE2000": 93,
+        "POP2008": 223,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041314014,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

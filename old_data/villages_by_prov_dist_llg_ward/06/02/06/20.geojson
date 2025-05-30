@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13664,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.11634099993728,
+          -8.749943999615823
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13664,
+        "CU_NAME": "IWORE",
+        "CU_NO": "001",
+        "GEOCODE": "06020620001",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "20",
+        "WARD_NAME": "PAPOGA",
+        "LATITUDE": -8.74858,
+        "LONGITUDE": 148.114691,
+        "REGHH": 20,
+        "TOTPOP2000": 137,
+        "MALE2000": 70,
+        "FEMALE2000": 67,
+        "POP2008": 169,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020620001,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13665,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.11203700020747,
+          -8.759255000018186
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13665,
+        "CU_NAME": "GIGISESUSU",
+        "CU_NO": "005",
+        "GEOCODE": "06020620005",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "20",
+        "WARD_NAME": "PAPOGA",
+        "LATITUDE": -8.7607,
+        "LONGITUDE": 148.111023,
+        "REGHH": 7,
+        "TOTPOP2000": 42,
+        "MALE2000": 20,
+        "FEMALE2000": 22,
+        "POP2008": 50,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020620005,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13666,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.08692100030396,
+          -8.738794999889308
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13666,
+        "CU_NAME": "IJIKATA",
+        "CU_NO": "008",
+        "GEOCODE": "06020620008",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "20",
+        "WARD_NAME": "PAPOGA",
+        "LATITUDE": -8.74024,
+        "LONGITUDE": 148.085907,
+        "REGHH": 22,
+        "TOTPOP2000": 143,
+        "MALE2000": 75,
+        "FEMALE2000": 68,
+        "POP2008": 177,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020620008,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13667,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.10559599995554,
+          -8.724027999692396
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13667,
+        "CU_NAME": "JAJAU",
+        "CU_NO": "011",
+        "GEOCODE": "06020620011",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "20",
+        "WARD_NAME": "PAPOGA",
+        "LATITUDE": -8.731165,
+        "LONGITUDE": 148.102694,
+        "REGHH": 44,
+        "TOTPOP2000": 288,
+        "MALE2000": 149,
+        "FEMALE2000": 139,
+        "POP2008": 356,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020620011,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13668,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.10351900040166,
+          -8.761409999571754
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13668,
+        "CU_NAME": "KANARI",
+        "CU_NO": "012",
+        "GEOCODE": "06020620012",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "20",
+        "WARD_NAME": "PAPOGA",
+        "LATITUDE": -8.762855,
+        "LONGITUDE": 148.102505,
+        "REGHH": 20,
+        "TOTPOP2000": 126,
+        "MALE2000": 70,
+        "FEMALE2000": 56,
+        "POP2008": 156,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020620012,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13669,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0862899999836,
+          -8.735439999856055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13669,
+        "CU_NAME": "PAPOGA",
+        "CU_NO": "016",
+        "GEOCODE": "06020620016",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "20",
+        "WARD_NAME": "PAPOGA",
+        "LATITUDE": -8.736885,
+        "LONGITUDE": 148.085276,
+        "REGHH": 64,
+        "TOTPOP2000": 417,
+        "MALE2000": 235,
+        "FEMALE2000": 182,
+        "POP2008": 517,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020620016,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13670,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.11291999955836,
+          -8.75551500021703
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13670,
+        "CU_NAME": "BEGAHAMBO",
+        "CU_NO": "017",
+        "GEOCODE": "06020620017",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "20",
+        "WARD_NAME": "PAPOGA",
+        "LATITUDE": -8.75696,
+        "LONGITUDE": 148.111906,
+        "REGHH": 28,
+        "TOTPOP2000": 153,
+        "MALE2000": 78,
+        "FEMALE2000": 75,
+        "POP2008": 189,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020620017,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13671,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.10529899974915,
+          -8.732981999819401
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13671,
+        "CU_NAME": "MANENETA",
+        "CU_NO": "018",
+        "GEOCODE": "06020620018",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "20",
+        "WARD_NAME": "PAPOGA",
+        "LATITUDE": -8.73443,
+        "LONGITUDE": 148.103015,
+        "REGHH": 30,
+        "TOTPOP2000": 161,
+        "MALE2000": 88,
+        "FEMALE2000": 73,
+        "POP2008": 199,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020620018,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13672,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.09187600037717,
+          -8.74175699978565
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13672,
+        "CU_NAME": "PUHEMO",
+        "CU_NO": "019",
+        "GEOCODE": "06020620019",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "20",
+        "WARD_NAME": "PAPOGA",
+        "LATITUDE": -8.743202,
+        "LONGITUDE": 148.090862,
+        "REGHH": 36,
+        "TOTPOP2000": 207,
+        "MALE2000": 113,
+        "FEMALE2000": 94,
+        "POP2008": 257,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020620019,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.09568799990132,
+          -8.747809000085226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13673,
+        "CU_NAME": "ISUGA",
+        "CU_NO": "020",
+        "GEOCODE": "06020620020",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "20",
+        "WARD_NAME": "PAPOGA",
+        "LATITUDE": -8.749254,
+        "LONGITUDE": 148.094674,
+        "REGHH": 40,
+        "TOTPOP2000": 225,
+        "MALE2000": 127,
+        "FEMALE2000": 98,
+        "POP2008": 278,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020620020,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

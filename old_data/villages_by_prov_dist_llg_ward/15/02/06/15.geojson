@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18595,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.44469300038168,
+          -3.537688999747502
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18595,
+        "CU_NAME": "MAI",
+        "CU_NO": "003",
+        "GEOCODE": "15020615003",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "MAI",
+        "LATITUDE": -3.539068,
+        "LONGITUDE": 142.443615,
+        "REGHH": 56,
+        "TOTPOP2000": 295,
+        "MALE2000": 139,
+        "FEMALE2000": 156,
+        "POP2008": 356,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020615003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18596,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.45525199987992,
+          -3.5937009999011593
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18596,
+        "CU_NAME": "WANALI",
+        "CU_NO": "011",
+        "GEOCODE": "15020615011",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "MAI",
+        "LATITUDE": -3.595081,
+        "LONGITUDE": 142.454174,
+        "REGHH": 26,
+        "TOTPOP2000": 138,
+        "MALE2000": 66,
+        "FEMALE2000": 72,
+        "POP2008": 167,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020615011,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18597,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.47374500013177,
+          -3.579965999631156
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18597,
+        "CU_NAME": "YAMBIL",
+        "CU_NO": "017",
+        "GEOCODE": "15020615017",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "MAI",
+        "LATITUDE": -3.581346,
+        "LONGITUDE": 142.472668,
+        "REGHH": 78,
+        "TOTPOP2000": 442,
+        "MALE2000": 221,
+        "FEMALE2000": 221,
+        "POP2008": 535,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020615017,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18598,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.47131899977205,
+          -3.5342529995762106
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18598,
+        "CU_NAME": "YIRKI",
+        "CU_NO": "019",
+        "GEOCODE": "15020615019",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "MAI",
+        "LATITUDE": -3.519072,
+        "LONGITUDE": 142.471215,
+        "REGHH": 14,
+        "TOTPOP2000": 45,
+        "MALE2000": 29,
+        "FEMALE2000": 16,
+        "POP2008": 53,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020615019,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18599,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4321839999917,
+          -3.5430139997961874
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18599,
+        "CU_NAME": "MESU",
+        "CU_NO": "020",
+        "GEOCODE": "15020615020",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "MAI",
+        "LATITUDE": -3.544393,
+        "LONGITUDE": 142.431106,
+        "REGHH": 29,
+        "TOTPOP2000": 146,
+        "MALE2000": 82,
+        "FEMALE2000": 64,
+        "POP2008": 178,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020615020,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

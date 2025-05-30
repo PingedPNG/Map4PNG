@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7512,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0311609995805,
+          -7.49563899964005
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7512,
+        "CU_NAME": "IKOSE",
+        "CU_NO": "003",
+        "GEOCODE": "02010314003",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "IKOSE",
+        "LATITUDE": -7.497066,
+        "LONGITUDE": 146.030122,
+        "REGHH": 39,
+        "TOTPOP2000": 202,
+        "MALE2000": 102,
+        "FEMALE2000": 100,
+        "POP2008": 248,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010314003,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7513,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.97847199978298,
+          -7.4985750001361
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7513,
+        "CU_NAME": "UYAHAWA",
+        "CU_NO": "008",
+        "GEOCODE": "02010314008",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "IKOSE",
+        "LATITUDE": -7.500002,
+        "LONGITUDE": 145.977432,
+        "REGHH": 21,
+        "TOTPOP2000": 100,
+        "MALE2000": 54,
+        "FEMALE2000": 46,
+        "POP2008": 124,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010314008,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7514,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.04383899967013,
+          -7.489438999710046
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7514,
+        "CU_NAME": "IAUYETEBU",
+        "CU_NO": "009",
+        "GEOCODE": "02010314009",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "IKOSE",
+        "LATITUDE": -7.490866,
+        "LONGITUDE": 146.0428,
+        "REGHH": 12,
+        "TOTPOP2000": 50,
+        "MALE2000": 26,
+        "FEMALE2000": 24,
+        "POP2008": 58,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010314009,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7515,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0430389996502,
+          -7.503794999839329
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7515,
+        "CU_NAME": "KATOPA",
+        "CU_NO": "010",
+        "GEOCODE": "02010314010",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "IKOSE",
+        "LATITUDE": -7.505222,
+        "LONGITUDE": 146.042,
+        "REGHH": 16,
+        "TOTPOP2000": 74,
+        "MALE2000": 39,
+        "FEMALE2000": 35,
+        "POP2008": 90,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010314010,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7516,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.04088400009664,
+          -7.500730999735822
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7516,
+        "CU_NAME": "WABI",
+        "CU_NO": "014",
+        "GEOCODE": "02010314014",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "IKOSE",
+        "LATITUDE": -7.502158,
+        "LONGITUDE": 146.039845,
+        "REGHH": 16,
+        "TOTPOP2000": 78,
+        "MALE2000": 38,
+        "FEMALE2000": 40,
+        "POP2008": 94,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010314014,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

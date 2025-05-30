@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6544269997063,
+          -5.683730999985642
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16901,
+        "CU_NAME": "KAUL",
+        "CU_NO": "002",
+        "GEOCODE": "09040627002",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "27",
+        "WARD_NAME": "KAUL",
+        "LATITUDE": -5.685201,
+        "LONGITUDE": 144.653689,
+        "REGHH": 55,
+        "TOTPOP2000": 244,
+        "MALE2000": 116,
+        "FEMALE2000": 128,
+        "POP2008": 297,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040627002,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.64380099981634,
+          -5.675667000431702
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16902,
+        "CU_NAME": "KAUL KUA",
+        "CU_NO": "003",
+        "GEOCODE": "09040627003",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "27",
+        "WARD_NAME": "KAUL",
+        "LATITUDE": -5.676602,
+        "LONGITUDE": 144.64414,
+        "REGHH": 45,
+        "TOTPOP2000": 202,
+        "MALE2000": 107,
+        "FEMALE2000": 95,
+        "POP2008": 246,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040627003,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16903,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.64521600031821,
+          -5.676757000335272
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16903,
+        "CU_NAME": "KOSKALA",
+        "CU_NO": "004",
+        "GEOCODE": "09040627004",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "27",
+        "WARD_NAME": "KAUL",
+        "LATITUDE": -5.67688,
+        "LONGITUDE": 144.644484,
+        "REGHH": 75,
+        "TOTPOP2000": 335,
+        "MALE2000": 159,
+        "FEMALE2000": 176,
+        "POP2008": 408,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040627004,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.77838300017538,
+          -6.479819999693177
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10813,
+        "CU_NAME": "BALANGKO",
+        "CU_NO": "003",
+        "GEOCODE": "12020706003",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "FIOR",
+        "LATITUDE": -6.48124,
+        "LONGITUDE": 147.77737,
+        "REGHH": 57,
+        "TOTPOP2000": 316,
+        "MALE2000": 155,
+        "FEMALE2000": 161,
+        "POP2008": 394,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020706003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.77088299965078,
+          -6.464391999591044
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10814,
+        "CU_NAME": "FIOR",
+        "CU_NO": "009",
+        "GEOCODE": "12020706009",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "FIOR",
+        "LATITUDE": -6.465812,
+        "LONGITUDE": 147.76987,
+        "REGHH": 52,
+        "TOTPOP2000": 294,
+        "MALE2000": 149,
+        "FEMALE2000": 145,
+        "POP2008": 366,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020706009,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.761453000056,
+          -6.470837000027473
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10815,
+        "CU_NAME": "MASANGKO",
+        "CU_NO": "027",
+        "GEOCODE": "12020706027",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "FIOR",
+        "LATITUDE": -6.472257,
+        "LONGITUDE": 147.76044,
+        "REGHH": 65,
+        "TOTPOP2000": 319,
+        "MALE2000": 163,
+        "FEMALE2000": 156,
+        "POP2008": 398,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020706027,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

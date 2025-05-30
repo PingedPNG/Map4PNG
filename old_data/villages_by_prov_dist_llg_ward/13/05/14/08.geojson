@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9051,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70050400015953,
+          -4.773621999655518
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9051,
+        "CU_NAME": "SARANG NO. 1",
+        "CU_NO": "011",
+        "GEOCODE": "13051408011",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "08",
+        "WARD_NAME": "WARD 8",
+        "LATITUDE": -4.774583,
+        "LONGITUDE": 145.699554,
+        "REGHH": 110,
+        "TOTPOP2000": 602,
+        "MALE2000": 297,
+        "FEMALE2000": 305,
+        "POP2008": 746,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051408011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9052,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.68917200008775,
+          -4.768589999628716
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9052,
+        "CU_NAME": "SARANG NO. 2/IKAREM",
+        "CU_NO": "013",
+        "GEOCODE": "13051408013",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "08",
+        "WARD_NAME": "WARD 8",
+        "LATITUDE": -4.769987,
+        "LONGITUDE": 145.688134,
+        "REGHH": 102,
+        "TOTPOP2000": 588,
+        "MALE2000": 320,
+        "FEMALE2000": 268,
+        "POP2008": 728,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051408013,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9053,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.69200200019225,
+          -4.7774319999867885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9053,
+        "CU_NAME": "SAKUL P/SCH. & A/POST",
+        "CU_NO": "402",
+        "GEOCODE": "13051408402",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "08",
+        "WARD_NAME": "WARD 8",
+        "LATITUDE": -4.775543,
+        "LONGITUDE": 145.687293,
+        "REGHH": 5,
+        "TOTPOP2000": 31,
+        "MALE2000": 14,
+        "FEMALE2000": 17,
+        "POP2008": 39,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051408402,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9054,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.71819999963031,
+          -4.790464000213376
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9054,
+        "CU_NAME": "DYLUP PLANTATION",
+        "CU_NO": "501",
+        "GEOCODE": "13051408501",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "08",
+        "WARD_NAME": "WARD 8",
+        "LATITUDE": -4.79186,
+        "LONGITUDE": 145.717162,
+        "REGHH": 156,
+        "TOTPOP2000": 952,
+        "MALE2000": 508,
+        "FEMALE2000": 444,
+        "POP2008": 1178,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051408501,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

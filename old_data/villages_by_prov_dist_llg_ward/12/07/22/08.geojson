@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12032,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.09473100023558,
+          -7.187561000040091
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12032,
+        "CU_NAME": "KAPO",
+        "CU_NO": "010",
+        "GEOCODE": "12072208010",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "08",
+        "WARD_NAME": "TAUPA",
+        "LATITUDE": -7.188985,
+        "LONGITUDE": 146.093692,
+        "REGHH": 52,
+        "TOTPOP2000": 255,
+        "MALE2000": 140,
+        "FEMALE2000": 115,
+        "POP2008": 318,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072208010,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12033,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.08685100017362,
+          -7.2055810000630345
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12033,
+        "CU_NAME": "TOPA",
+        "CU_NO": "025",
+        "GEOCODE": "12072208025",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "08",
+        "WARD_NAME": "TAUPA",
+        "LATITUDE": -7.207005,
+        "LONGITUDE": 146.085813,
+        "REGHH": 40,
+        "TOTPOP2000": 179,
+        "MALE2000": 87,
+        "FEMALE2000": 92,
+        "POP2008": 223,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072208025,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12034,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.09379400019304,
+          -7.202321999960304
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12034,
+        "CU_NAME": "KAPO MISS/STN",
+        "CU_NO": "401",
+        "GEOCODE": "12072208401",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "08",
+        "WARD_NAME": "TAUPA",
+        "LATITUDE": -7.205134,
+        "LONGITUDE": 146.089263,
+        "REGHH": 58,
+        "TOTPOP2000": 271,
+        "MALE2000": 137,
+        "FEMALE2000": 134,
+        "POP2008": 338,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072208401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

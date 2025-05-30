@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8845,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1965029999136,
+          -5.625489000416962
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8845,
+        "CU_NAME": "BASOR",
+        "CU_NO": "002",
+        "GEOCODE": "13041224002",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "24",
+        "WARD_NAME": "WARD 24",
+        "LATITUDE": -5.626897,
+        "LONGITUDE": 146.19547,
+        "REGHH": 58,
+        "TOTPOP2000": 345,
+        "MALE2000": 171,
+        "FEMALE2000": 174,
+        "POP2008": 427,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041224002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8846,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2064580003365,
+          -5.652351999944813
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8846,
+        "CU_NAME": "BAUBO",
+        "CU_NO": "003",
+        "GEOCODE": "13041224003",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "24",
+        "WARD_NAME": "WARD 24",
+        "LATITUDE": -5.65376,
+        "LONGITUDE": 146.205425,
+        "REGHH": 8,
+        "TOTPOP2000": 46,
+        "MALE2000": 18,
+        "FEMALE2000": 28,
+        "POP2008": 54,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041224003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8847,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2081130002149,
+          -5.6387509995589085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8847,
+        "CU_NAME": "BIDUA",
+        "CU_NO": "004",
+        "GEOCODE": "13041224004",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "24",
+        "WARD_NAME": "WARD 24",
+        "LATITUDE": -5.640159,
+        "LONGITUDE": 146.20708,
+        "REGHH": 15,
+        "TOTPOP2000": 101,
+        "MALE2000": 49,
+        "FEMALE2000": 52,
+        "POP2008": 125,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041224004,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8848,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.20808199968462,
+          -5.645903000223257
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8848,
+        "CU_NAME": "GOGU",
+        "CU_NO": "014",
+        "GEOCODE": "13041224014",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "24",
+        "WARD_NAME": "WARD 24",
+        "LATITUDE": -5.646579,
+        "LONGITUDE": 146.203785,
+        "REGHH": 20,
+        "TOTPOP2000": 123,
+        "MALE2000": 58,
+        "FEMALE2000": 65,
+        "POP2008": 152,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041224014,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

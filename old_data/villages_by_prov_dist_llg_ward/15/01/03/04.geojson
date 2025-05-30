@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18408,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0585449996521,
+          -3.070220999999094
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18408,
+        "CU_NAME": "WARAPU",
+        "CU_NO": "032",
+        "GEOCODE": "15010304032",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "PAUPA",
+        "LATITUDE": -3.071595,
+        "LONGITUDE": 142.057463,
+        "REGHH": 260,
+        "TOTPOP2000": 1806,
+        "MALE2000": 961,
+        "FEMALE2000": 845,
+        "POP2008": 2183,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010304032,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

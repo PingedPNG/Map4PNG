@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8013,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.77782600026978,
+          -4.307339999741146
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8013,
+        "CU_NAME": "IGOS",
+        "CU_NO": "018",
+        "GEOCODE": "13010321018",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "MIKAREP",
+        "LATITUDE": -4.314054,
+        "LONGITUDE": 144.772774,
+        "REGHH": 50,
+        "TOTPOP2000": 246,
+        "MALE2000": 125,
+        "FEMALE2000": 121,
+        "POP2008": 305,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010321018,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8014,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.77746199967157,
+          -4.32140199980239
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8014,
+        "CU_NAME": "IRUARI",
+        "CU_NO": "020",
+        "GEOCODE": "13010321020",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "MIKAREP",
+        "LATITUDE": -4.319444,
+        "LONGITUDE": 144.771107,
+        "REGHH": 52,
+        "TOTPOP2000": 337,
+        "MALE2000": 180,
+        "FEMALE2000": 157,
+        "POP2008": 417,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010321020,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8015,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.78710700018803,
+          -4.322220999799242
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8015,
+        "CU_NAME": "MIKAREW",
+        "CU_NO": "024",
+        "GEOCODE": "13010321024",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "MIKAREP",
+        "LATITUDE": -4.323612,
+        "LONGITUDE": 144.786058,
+        "REGHH": 60,
+        "TOTPOP2000": 354,
+        "MALE2000": 187,
+        "FEMALE2000": 167,
+        "POP2008": 439,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010321024,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8016,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.79013899971517,
+          -4.306483999836701
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8016,
+        "CU_NAME": "WAZANGABANG",
+        "CU_NO": "036",
+        "GEOCODE": "13010321036",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "MIKAREP",
+        "LATITUDE": -4.307875,
+        "LONGITUDE": 144.78909,
+        "REGHH": 65,
+        "TOTPOP2000": 336,
+        "MALE2000": 183,
+        "FEMALE2000": 153,
+        "POP2008": 416,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010321036,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8017,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.78498999968883,
+          -4.318784999628008
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8017,
+        "CU_NAME": "MIKAREW C/SCH",
+        "CU_NO": "503",
+        "GEOCODE": "13010321503",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "MIKAREP",
+        "LATITUDE": -4.320176,
+        "LONGITUDE": 144.783941,
+        "REGHH": 8,
+        "TOTPOP2000": 48,
+        "MALE2000": 28,
+        "FEMALE2000": 20,
+        "POP2008": 56,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010321503,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

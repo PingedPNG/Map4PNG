@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4493,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.8493429999795,
+          -4.314296000360059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4493,
+        "CU_NAME": "RADINGI",
+        "CU_NO": "020",
+        "GEOCODE": "18010217020",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "17",
+        "WARD_NAME": "RADINGI",
+        "LATITUDE": -4.315696,
+        "LONGITUDE": 151.848392,
+        "REGHH": 76,
+        "TOTPOP2000": 375,
+        "MALE2000": 192,
+        "FEMALE2000": 183,
+        "POP2008": 457,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010217020,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4494,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.88326899966466,
+          -4.311144999841815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4494,
+        "CU_NAME": "MANDRESS PLANTATION",
+        "CU_NO": "508",
+        "GEOCODE": "18010217508",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "17",
+        "WARD_NAME": "RADINGI",
+        "LATITUDE": -4.311147,
+        "LONGITUDE": 151.882321,
+        "REGHH": 53,
+        "TOTPOP2000": 185,
+        "MALE2000": 119,
+        "FEMALE2000": 66,
+        "POP2008": 225,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010217508,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

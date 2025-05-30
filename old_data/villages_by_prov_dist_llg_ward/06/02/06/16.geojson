@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13625,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.000072999969,
+          -8.823081999934288
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13625,
+        "CU_NAME": "HONAI",
+        "CU_NO": "003",
+        "GEOCODE": "06020616003",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "16",
+        "WARD_NAME": "KOROPATA",
+        "LATITUDE": -8.824528,
+        "LONGITUDE": 147.999057,
+        "REGHH": 11,
+        "TOTPOP2000": 63,
+        "MALE2000": 29,
+        "FEMALE2000": 34,
+        "POP2008": 79,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020616003,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13626,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.00571100006266,
+          -8.823786000023858
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13626,
+        "CU_NAME": "BATA",
+        "CU_NO": "004",
+        "GEOCODE": "06020616004",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "16",
+        "WARD_NAME": "KOROPATA",
+        "LATITUDE": -8.825232,
+        "LONGITUDE": 148.004694,
+        "REGHH": 20,
+        "TOTPOP2000": 124,
+        "MALE2000": 68,
+        "FEMALE2000": 56,
+        "POP2008": 154,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020616004,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13627,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0047869997203,
+          -8.842092999792044
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13627,
+        "CU_NAME": "KOROPATA 1",
+        "CU_NO": "014",
+        "GEOCODE": "06020616014",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "16",
+        "WARD_NAME": "KOROPATA",
+        "LATITUDE": -8.843539,
+        "LONGITUDE": 148.003771,
+        "REGHH": 69,
+        "TOTPOP2000": 456,
+        "MALE2000": 237,
+        "FEMALE2000": 219,
+        "POP2008": 564,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020616014,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13628,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.00519299955738,
+          -8.83809899996885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13628,
+        "CU_NAME": "KOROPATA 2",
+        "CU_NO": "015",
+        "GEOCODE": "06020616015",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "16",
+        "WARD_NAME": "KOROPATA",
+        "LATITUDE": -8.84082,
+        "LONGITUDE": 147.999735,
+        "REGHH": 127,
+        "TOTPOP2000": 889,
+        "MALE2000": 464,
+        "FEMALE2000": 425,
+        "POP2008": 1100,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020616015,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13629,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.99156299963283,
+          -8.832018000130574
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13629,
+        "CU_NAME": "HARANGE C/SCH",
+        "CU_NO": "403",
+        "GEOCODE": "06020616403",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "16",
+        "WARD_NAME": "KOROPATA",
+        "LATITUDE": -8.837267,
+        "LONGITUDE": 147.986111,
+        "REGHH": 2,
+        "TOTPOP2000": 10,
+        "MALE2000": 5,
+        "FEMALE2000": 5,
+        "POP2008": 10,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020616403,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

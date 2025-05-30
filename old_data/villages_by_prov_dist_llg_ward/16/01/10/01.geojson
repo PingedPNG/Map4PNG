@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.83019500019918,
+          -2.3847610001200223
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9498,
+        "CU_NAME": "M'BUKE",
+        "CU_NO": "006",
+        "GEOCODE": "16011001006",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "MBUKE/WHAL",
+        "LATITUDE": -2.382289,
+        "LONGITUDE": 146.825387,
+        "REGHH": 91,
+        "TOTPOP2000": 406,
+        "MALE2000": 214,
+        "FEMALE2000": 192,
+        "POP2008": 499,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16011001006,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9499,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.82915699999558,
+          -2.267115999603675
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9499,
+        "CU_NAME": "WAL",
+        "CU_NO": "012",
+        "GEOCODE": "16011001012",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "MBUKE/WHAL",
+        "LATITUDE": -2.266531,
+        "LONGITUDE": 146.825873,
+        "REGHH": 27,
+        "TOTPOP2000": 111,
+        "MALE2000": 63,
+        "FEMALE2000": 48,
+        "POP2008": 135,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16011001012,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

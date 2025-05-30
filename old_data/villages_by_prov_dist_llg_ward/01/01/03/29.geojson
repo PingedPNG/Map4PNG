@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.91506400000367,
+          -8.303742000293028
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15147,
+        "CU_NAME": "KONDOBU",
+        "CU_NO": "030",
+        "GEOCODE": "01010329030",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "29",
+        "WARD_NAME": "KONDOBU",
+        "LATITUDE": -8.305169,
+        "LONGITUDE": 142.913983,
+        "REGHH": 24,
+        "TOTPOP2000": 188,
+        "MALE2000": 105,
+        "FEMALE2000": 83,
+        "POP2008": 244,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010329030,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

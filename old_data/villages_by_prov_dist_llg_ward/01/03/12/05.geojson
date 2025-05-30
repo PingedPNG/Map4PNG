@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15577,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1517380001087,
+          -8.494210000091357
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15577,
+        "CU_NAME": "KOABU",
+        "CU_NO": "006",
+        "GEOCODE": "01031205006",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "SEVERIMABU",
+        "LATITUDE": -8.499058,
+        "LONGITUDE": 143.156746,
+        "REGHH": 52,
+        "TOTPOP2000": 330,
+        "MALE2000": 168,
+        "FEMALE2000": 162,
+        "POP2008": 428,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031205006,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15578,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.2097449996321,
+          -8.540574999636476
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15578,
+        "CU_NAME": "SEVERIMABU",
+        "CU_NO": "011",
+        "GEOCODE": "01031205011",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "SEVERIMABU",
+        "LATITUDE": -8.541959,
+        "LONGITUDE": 143.216829,
+        "REGHH": 57,
+        "TOTPOP2000": 475,
+        "MALE2000": 256,
+        "FEMALE2000": 219,
+        "POP2008": 616,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031205011,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

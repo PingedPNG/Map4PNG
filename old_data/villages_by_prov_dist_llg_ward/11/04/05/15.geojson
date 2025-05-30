@@ -1,0 +1,517 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29816,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91525579961558,
+          -6.255865890098676
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29816,
+        "CU_NAME": "ISONTENU",
+        "CU_NO": "012",
+        "GEOCODE": "11040515012",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AKUITENU",
+        "LATITUDE": -6.255866,
+        "LONGITUDE": 145.915256,
+        "REGHH": 157,
+        "TOTPOP2000": 764,
+        "MALE2000": 393,
+        "FEMALE2000": 371,
+        "POP2008": 910,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29817,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.870640280025,
+          -6.302079899767534
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29817,
+        "CU_NAME": "BARINENGKA",
+        "CU_NO": "013",
+        "GEOCODE": "11040515013",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AKUITENU",
+        "LATITUDE": -6.30208,
+        "LONGITUDE": 145.87064,
+        "REGHH": 96,
+        "TOTPOP2000": 439,
+        "MALE2000": 228,
+        "FEMALE2000": 211,
+        "POP2008": 523,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29818,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8727160403131,
+          -6.276574890019106
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29818,
+        "CU_NAME": "MAPARA",
+        "CU_NO": "015",
+        "GEOCODE": "11040515015",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AKUITENU",
+        "LATITUDE": -6.276575,
+        "LONGITUDE": 145.872716,
+        "REGHH": 30,
+        "TOTPOP2000": 167,
+        "MALE2000": 87,
+        "FEMALE2000": 80,
+        "POP2008": 199,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29819,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.92281724002362,
+          -6.269861520192933
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29819,
+        "CU_NAME": "PUNANO NO 2",
+        "CU_NO": "022",
+        "GEOCODE": "11040515022",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AKUITENU",
+        "LATITUDE": -6.269862,
+        "LONGITUDE": 145.922817,
+        "REGHH": 89,
+        "TOTPOP2000": 352,
+        "MALE2000": 188,
+        "FEMALE2000": 164,
+        "POP2008": 419,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29820,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.88588519974223,
+          -6.266042819820257
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29820,
+        "CU_NAME": "BIKUPIMPA",
+        "CU_NO": "023",
+        "GEOCODE": "11040515023",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AKUITENU",
+        "LATITUDE": -6.266043,
+        "LONGITUDE": 145.885885,
+        "REGHH": 132,
+        "TOTPOP2000": 588,
+        "MALE2000": 286,
+        "FEMALE2000": 302,
+        "POP2008": 700,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29821,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9189166401909,
+          -6.27277545042665
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29821,
+        "CU_NAME": "KANAMPA",
+        "CU_NO": "024",
+        "GEOCODE": "11040515024",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AKUITENU",
+        "LATITUDE": -6.272775,
+        "LONGITUDE": 145.918917,
+        "REGHH": 21,
+        "TOTPOP2000": 84,
+        "MALE2000": 39,
+        "FEMALE2000": 45,
+        "POP2008": 100,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29822,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91593908022446,
+          -6.265706399630574
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29822,
+        "CU_NAME": "ONAMA",
+        "CU_NO": "025",
+        "GEOCODE": "11040515025",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AKUITENU",
+        "LATITUDE": -6.265706,
+        "LONGITUDE": 145.915939,
+        "REGHH": 36,
+        "TOTPOP2000": 238,
+        "MALE2000": 118,
+        "FEMALE2000": 120,
+        "POP2008": 283,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29823,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91512295985683,
+          -6.268321350250062
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29823,
+        "CU_NAME": "KOMUMPA",
+        "CU_NO": "026",
+        "GEOCODE": "11040515026",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AKUITENU",
+        "LATITUDE": -6.268321,
+        "LONGITUDE": 145.915123,
+        "REGHH": 36,
+        "TOTPOP2000": 197,
+        "MALE2000": 101,
+        "FEMALE2000": 96,
+        "POP2008": 235,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29824,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91170151970948,
+          -6.266329830357336
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29824,
+        "CU_NAME": "BEVOMPA",
+        "CU_NO": "027",
+        "GEOCODE": "11040515027",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AKUITENU",
+        "LATITUDE": -6.26633,
+        "LONGITUDE": 145.911702,
+        "REGHH": 7,
+        "TOTPOP2000": 41,
+        "MALE2000": 15,
+        "FEMALE2000": 26,
+        "POP2008": 49,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29825,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91509596041033,
+          -6.267155040172895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29825,
+        "CU_NAME": "PERORE",
+        "CU_NO": "028",
+        "GEOCODE": "11040515028",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AKUITENU",
+        "LATITUDE": -6.267155,
+        "LONGITUDE": 145.915096,
+        "REGHH": 50,
+        "TOTPOP2000": 242,
+        "MALE2000": 123,
+        "FEMALE2000": 119,
+        "POP2008": 288,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29826,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9175752797754,
+          -6.270847919995447
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29826,
+        "CU_NAME": "OKIPA",
+        "CU_NO": "029",
+        "GEOCODE": "11040515029",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AKUITENU",
+        "LATITUDE": -6.270848,
+        "LONGITUDE": 145.917575,
+        "REGHH": 127,
+        "TOTPOP2000": 544,
+        "MALE2000": 250,
+        "FEMALE2000": 294,
+        "POP2008": 647,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91320020032902,
+          -6.271999920060239
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29827,
+        "CU_NAME": "KEMEFA",
+        "CU_NO": "030",
+        "GEOCODE": "11040515030",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AKUITENU",
+        "LATITUDE": -6.272,
+        "LONGITUDE": 145.9132,
+        "REGHH": 29,
+        "TOTPOP2000": 148,
+        "MALE2000": 76,
+        "FEMALE2000": 72,
+        "POP2008": 176,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29828,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9116720003626,
+          -6.268531500228505
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29828,
+        "CU_NAME": "ONAYO",
+        "CU_NO": "031",
+        "GEOCODE": "11040515031",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AKUITENU",
+        "LATITUDE": -6.268532,
+        "LONGITUDE": 145.911672,
+        "REGHH": 24,
+        "TOTPOP2000": 116,
+        "MALE2000": 53,
+        "FEMALE2000": 63,
+        "POP2008": 140,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29829,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91156651977917,
+          -6.270629489958935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29829,
+        "CU_NAME": "MUNENGKA",
+        "CU_NO": "032",
+        "GEOCODE": "11040515032",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AKUITENU",
+        "LATITUDE": -6.270629,
+        "LONGITUDE": 145.911567,
+        "REGHH": 6,
+        "TOTPOP2000": 31,
+        "MALE2000": 14,
+        "FEMALE2000": 17,
+        "POP2008": 39,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29830,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91888027970117,
+          -6.269790329859802
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29830,
+        "CU_NAME": "AYOKOM/ARONAIRA",
+        "CU_NO": "033",
+        "GEOCODE": "11040515033",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AKUITENU",
+        "LATITUDE": -6.26979,
+        "LONGITUDE": 145.91888,
+        "REGHH": 51,
+        "TOTPOP2000": 283,
+        "MALE2000": 121,
+        "FEMALE2000": 162,
+        "POP2008": 336,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29831,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.87324884006193,
+          -6.270183810234585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29831,
+        "CU_NAME": "AGARABI COMM SCH",
+        "CU_NO": "401",
+        "GEOCODE": "11040515401",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AKUITENU",
+        "LATITUDE": -6.270184,
+        "LONGITUDE": 145.873249,
+        "REGHH": 7,
+        "TOTPOP2000": 32,
+        "MALE2000": 16,
+        "FEMALE2000": 16,
+        "POP2008": 40,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

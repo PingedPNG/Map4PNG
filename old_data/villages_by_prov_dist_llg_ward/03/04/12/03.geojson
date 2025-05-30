@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1659,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.55987399958553,
+          -9.833062000410962
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1659,
+        "CU_NAME": "GUNUGAU",
+        "CU_NO": "038",
+        "GEOCODE": "03041203038",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "03",
+        "WARD_NAME": "GUNUGAU",
+        "LATITUDE": -9.834517,
+        "LONGITUDE": 147.558849,
+        "REGHH": 43,
+        "TOTPOP2000": 351,
+        "MALE2000": 201,
+        "FEMALE2000": 150,
+        "POP2008": 420,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041203038,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

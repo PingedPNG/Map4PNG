@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.95212000023787,
+          -6.040502000366985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11130,
+        "CU_NAME": "HAMELENGAN",
+        "CU_NO": "012",
+        "GEOCODE": "12041201012",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAMELENGAN",
+        "LATITUDE": -6.045944,
+        "LONGITUDE": 146.954112,
+        "REGHH": 27,
+        "TOTPOP2000": 147,
+        "MALE2000": 70,
+        "FEMALE2000": 77,
+        "POP2008": 183,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041201012,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.95290000023488,
+          -6.016424999813864
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11131,
+        "CU_NAME": "SIANG",
+        "CU_NO": "013",
+        "GEOCODE": "12041201013",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAMELENGAN",
+        "LATITUDE": -6.017838,
+        "LONGITUDE": 146.951875,
+        "REGHH": 23,
+        "TOTPOP2000": 105,
+        "MALE2000": 51,
+        "FEMALE2000": 54,
+        "POP2008": 130,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041201013,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.96486499981995,
+          -6.0283290001831915
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11132,
+        "CU_NAME": "SUPSUNGAN",
+        "CU_NO": "014",
+        "GEOCODE": "12041201014",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAMELENGAN",
+        "LATITUDE": -6.035551,
+        "LONGITUDE": 146.963873,
+        "REGHH": 9,
+        "TOTPOP2000": 34,
+        "MALE2000": 17,
+        "FEMALE2000": 17,
+        "POP2008": 42,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041201014,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.97379499973954,
+          -6.045774999816331
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11133,
+        "CU_NAME": "SOMARETE",
+        "CU_NO": "015",
+        "GEOCODE": "12041201015",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAMELENGAN",
+        "LATITUDE": -6.039364,
+        "LONGITUDE": 146.978636,
+        "REGHH": 12,
+        "TOTPOP2000": 44,
+        "MALE2000": 19,
+        "FEMALE2000": 25,
+        "POP2008": 52,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041201015,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.90880099996627,
+          -6.01140500034046
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11134,
+        "CU_NAME": "APALAP",
+        "CU_NO": "016",
+        "GEOCODE": "12041201016",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAMELENGAN",
+        "LATITUDE": -6.012818,
+        "LONGITUDE": 146.907777,
+        "REGHH": 13,
+        "TOTPOP2000": 60,
+        "MALE2000": 29,
+        "FEMALE2000": 31,
+        "POP2008": 76,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041201016,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

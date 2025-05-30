@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16789,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1687809998433,
+          -5.878020999769262
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16789,
+        "CU_NAME": "ULGA",
+        "CU_NO": "029",
+        "GEOCODE": "09030440029",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "40",
+        "WARD_NAME": "TOBOGA 2",
+        "LATITUDE": -5.877871,
+        "LONGITUDE": 144.168963,
+        "REGHH": 41,
+        "TOTPOP2000": 204,
+        "MALE2000": 108,
+        "FEMALE2000": 96,
+        "POP2008": 248,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030440029,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16790,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.17034099983732,
+          -5.87662900032808
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16790,
+        "CU_NAME": "OLGEMPONA",
+        "CU_NO": "030",
+        "GEOCODE": "09030440030",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "40",
+        "WARD_NAME": "TOBOGA 2",
+        "LATITUDE": -5.877871,
+        "LONGITUDE": 144.168963,
+        "REGHH": 49,
+        "TOTPOP2000": 212,
+        "MALE2000": 106,
+        "FEMALE2000": 106,
+        "POP2008": 258,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030440030,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16791,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.18295000034232,
+          -5.875039999896046
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16791,
+        "CU_NAME": "KITPENG",
+        "CU_NO": "031",
+        "GEOCODE": "09030440031",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "40",
+        "WARD_NAME": "TOBOGA 2",
+        "LATITUDE": -5.87598,
+        "LONGITUDE": 144.183282,
+        "REGHH": 56,
+        "TOTPOP2000": 266,
+        "MALE2000": 129,
+        "FEMALE2000": 137,
+        "POP2008": 325,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030440031,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16792,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1798219999854,
+          -5.87883500043489
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16792,
+        "CU_NAME": "KUNTIKA",
+        "CU_NO": "032",
+        "GEOCODE": "09030440032",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "40",
+        "WARD_NAME": "TOBOGA 2",
+        "LATITUDE": -5.879774,
+        "LONGITUDE": 144.180154,
+        "REGHH": 78,
+        "TOTPOP2000": 345,
+        "MALE2000": 173,
+        "FEMALE2000": 172,
+        "POP2008": 421,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030440032,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

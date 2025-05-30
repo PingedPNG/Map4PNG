@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.33036399969887,
+          -3.6289260001347543
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7252,
+        "CU_NAME": "AMBUKANJA",
+        "CU_NO": "002",
+        "GEOCODE": "14062321002",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "23",
+        "WARD_NO": "21",
+        "WARD_NAME": "AMBUKANJA",
+        "LATITUDE": -3.630504,
+        "LONGITUDE": 143.329128,
+        "REGHH": 94,
+        "TOTPOP2000": 460,
+        "MALE2000": 224,
+        "FEMALE2000": 236,
+        "POP2008": 548,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062321002,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10461,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.39842099982934,
+          -7.260565999621122
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10461,
+        "CU_NAME": "HIKIAWA",
+        "CU_NO": "007",
+        "GEOCODE": "12010302007",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "HAWATA",
+        "LATITUDE": -7.261992,
+        "LONGITUDE": 146.397387,
+        "REGHH": 68,
+        "TOTPOP2000": 473,
+        "MALE2000": 245,
+        "FEMALE2000": 228,
+        "POP2008": 590,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010302007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10462,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4097489997166,
+          -7.249779000400508
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10462,
+        "CU_NAME": "HAWATA 1",
+        "CU_NO": "008",
+        "GEOCODE": "12010302008",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "HAWATA",
+        "LATITUDE": -7.251205,
+        "LONGITUDE": 146.408716,
+        "REGHH": 57,
+        "TOTPOP2000": 359,
+        "MALE2000": 188,
+        "FEMALE2000": 171,
+        "POP2008": 448,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010302008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10463,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.39404400033038,
+          -7.272224000337303
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10463,
+        "CU_NAME": "HAWATA 2",
+        "CU_NO": "009",
+        "GEOCODE": "12010302009",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "HAWATA",
+        "LATITUDE": -7.27365,
+        "LONGITUDE": 146.39301,
+        "REGHH": 63,
+        "TOTPOP2000": 403,
+        "MALE2000": 210,
+        "FEMALE2000": 193,
+        "POP2008": 503,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010302009,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17597,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.15524599980313,
+          -6.0255070004476465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17597,
+        "CU_NAME": "KONGMUL",
+        "CU_NO": "007",
+        "GEOCODE": "09071305007",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "05",
+        "WARD_NAME": "KONGMUL",
+        "LATITUDE": -6.026935,
+        "LONGITUDE": 144.157486,
+        "REGHH": 106,
+        "TOTPOP2000": 410,
+        "MALE2000": 203,
+        "FEMALE2000": 207,
+        "POP2008": 499,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071305007,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

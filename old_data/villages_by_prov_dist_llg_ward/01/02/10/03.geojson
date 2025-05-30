@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.22733800014862,
+          -5.196631999666977
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15504,
+        "CU_NAME": "BULTEM",
+        "CU_NO": "002",
+        "GEOCODE": "01021003002",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "BULTEM",
+        "LATITUDE": -5.203945,
+        "LONGITUDE": 141.214446,
+        "REGHH": 72,
+        "TOTPOP2000": 570,
+        "MALE2000": 297,
+        "FEMALE2000": 273,
+        "POP2008": 739,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1021003002,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

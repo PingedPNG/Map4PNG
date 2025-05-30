@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18786,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.6922990002987,
+          -4.668415999898457
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18786,
+        "CU_NAME": "WAMEIMIN 2",
+        "CU_NO": "002",
+        "GEOCODE": "15031026002",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "26",
+        "WARD_NAME": "FREDA BASE",
+        "LATITUDE": -4.664142,
+        "LONGITUDE": 141.697197,
+        "REGHH": 17,
+        "TOTPOP2000": 102,
+        "MALE2000": 54,
+        "FEMALE2000": 48,
+        "POP2008": 124,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031026002,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18787,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.79304899961176,
+          -4.6926060002666645
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18787,
+        "CU_NAME": "FREDA BASE",
+        "CU_NO": "007",
+        "GEOCODE": "15031026007",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "26",
+        "WARD_NAME": "FREDA BASE",
+        "LATITUDE": -4.698371,
+        "LONGITUDE": 141.785071,
+        "REGHH": 2,
+        "TOTPOP2000": 5,
+        "MALE2000": 5,
+        "FEMALE2000": 0,
+        "POP2008": 5,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031026007,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18788,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.95987099984688,
+          -4.614278999875921
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18788,
+        "CU_NAME": "FREDA AIRSTRIP",
+        "CU_NO": "403",
+        "GEOCODE": "15031026403",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "26",
+        "WARD_NAME": "FREDA BASE",
+        "LATITUDE": -4.613013,
+        "LONGITUDE": 141.961491,
+        "REGHH": 2,
+        "TOTPOP2000": 4,
+        "MALE2000": 4,
+        "FEMALE2000": 0,
+        "POP2008": 4,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031026403,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

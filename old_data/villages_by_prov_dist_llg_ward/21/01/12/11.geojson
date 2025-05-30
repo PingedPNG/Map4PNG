@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.84406800043791,
+          -6.097436999917591
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20266,
+        "CU_NAME": "PADUA",
+        "CU_NO": "017",
+        "GEOCODE": "07041211017",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "PADUA",
+        "LATITUDE": -6.100845,
+        "LONGITUDE": 142.844165,
+        "REGHH": 54,
+        "TOTPOP2000": 323,
+        "MALE2000": 170,
+        "FEMALE2000": 153,
+        "POP2008": 449,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041211017,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8455329996483,
+          -6.094624999743871
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20267,
+        "CU_NAME": "MALIAME",
+        "CU_NO": "018",
+        "GEOCODE": "07041211018",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "PADUA",
+        "LATITUDE": -6.100845,
+        "LONGITUDE": 142.844165,
+        "REGHH": 5,
+        "TOTPOP2000": 29,
+        "MALE2000": 11,
+        "FEMALE2000": 18,
+        "POP2008": 38,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041211018,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83061899986706,
+          -6.100369000229136
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20268,
+        "CU_NAME": "TULUPARI",
+        "CU_NO": "019",
+        "GEOCODE": "07041211019",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "PADUA",
+        "LATITUDE": -6.100845,
+        "LONGITUDE": 142.844165,
+        "REGHH": 43,
+        "TOTPOP2000": 320,
+        "MALE2000": 162,
+        "FEMALE2000": 158,
+        "POP2008": 445,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041211019,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

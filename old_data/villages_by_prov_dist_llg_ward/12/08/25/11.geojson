@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12179,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.75842700010605,
+          -6.38663400025888
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12179,
+        "CU_NAME": "BOKIMANG",
+        "CU_NO": "001",
+        "GEOCODE": "12082511001",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "25",
+        "WARD_NO": "11",
+        "WARD_NAME": "SADAO",
+        "LATITUDE": -6.388051,
+        "LONGITUDE": 146.7574,
+        "REGHH": 48,
+        "TOTPOP2000": 195,
+        "MALE2000": 87,
+        "FEMALE2000": 108,
+        "POP2008": 243,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082511001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12180,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.76658100021302,
+          -6.398249999937491
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12180,
+        "CU_NAME": "SADAU",
+        "CU_NO": "023",
+        "GEOCODE": "12082511023",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "25",
+        "WARD_NO": "11",
+        "WARD_NAME": "SADAO",
+        "LATITUDE": -6.399667,
+        "LONGITUDE": 146.765554,
+        "REGHH": 84,
+        "TOTPOP2000": 399,
+        "MALE2000": 198,
+        "FEMALE2000": 201,
+        "POP2008": 497,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082511023,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12181,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.76367300010895,
+          -6.406171000091547
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12181,
+        "CU_NAME": "SILABO",
+        "CU_NO": "024",
+        "GEOCODE": "12082511024",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "25",
+        "WARD_NO": "11",
+        "WARD_NAME": "SADAO",
+        "LATITUDE": -6.407588,
+        "LONGITUDE": 146.762646,
+        "REGHH": 57,
+        "TOTPOP2000": 254,
+        "MALE2000": 121,
+        "FEMALE2000": 133,
+        "POP2008": 317,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082511024,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.74683899992,
+          -6.392061999661507
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12182,
+        "CU_NAME": "BOSA C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "12082511401",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "25",
+        "WARD_NO": "11",
+        "WARD_NAME": "SADAO",
+        "LATITUDE": -6.393479,
+        "LONGITUDE": 146.745812,
+        "REGHH": 23,
+        "TOTPOP2000": 112,
+        "MALE2000": 59,
+        "FEMALE2000": 53,
+        "POP2008": 139,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082511401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8467,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7533340003639,
+          -4.991864999669929
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8467,
+        "CU_NAME": "WAWAPI",
+        "CU_NO": "034",
+        "GEOCODE": "13030722034",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "22",
+        "WARD_NAME": "WARD 22",
+        "LATITUDE": -5.002159,
+        "LONGITUDE": 144.742896,
+        "REGHH": 11,
+        "TOTPOP2000": 73,
+        "MALE2000": 38,
+        "FEMALE2000": 35,
+        "POP2008": 89,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030722034,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8468,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.73338500041746,
+          -4.99046599990595
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8468,
+        "CU_NAME": "BUNAPI",
+        "CU_NO": "035",
+        "GEOCODE": "13030722035",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "22",
+        "WARD_NAME": "WARD 22",
+        "LATITUDE": -5.007497,
+        "LONGITUDE": 144.736988,
+        "REGHH": 4,
+        "TOTPOP2000": 26,
+        "MALE2000": 13,
+        "FEMALE2000": 13,
+        "POP2008": 34,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030722035,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8469,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7550850001727,
+          -5.007235999841498
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8469,
+        "CU_NAME": "PINAMARA",
+        "CU_NO": "036",
+        "GEOCODE": "13030722036",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "22",
+        "WARD_NAME": "WARD 22",
+        "LATITUDE": -5.011145,
+        "LONGITUDE": 144.744971,
+        "REGHH": 14,
+        "TOTPOP2000": 120,
+        "MALE2000": 66,
+        "FEMALE2000": 54,
+        "POP2008": 148,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030722036,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8095,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.78401999972323,
+          -5.137255999964395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8095,
+        "CU_NAME": "AMBARINA C/SCH",
+        "CU_NO": "001",
+        "GEOCODE": "13020407001",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "WARD 7",
+        "LATITUDE": -5.138656,
+        "LONGITUDE": 145.782982,
+        "REGHH": 9,
+        "TOTPOP2000": 65,
+        "MALE2000": 41,
+        "FEMALE2000": 24,
+        "POP2008": 81,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020407001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8096,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.77212899995345,
+          -5.127015999888442
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8096,
+        "CU_NAME": "AMBRON",
+        "CU_NO": "002",
+        "GEOCODE": "13020407002",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "WARD 7",
+        "LATITUDE": -5.130142,
+        "LONGITUDE": 145.771517,
+        "REGHH": 65,
+        "TOTPOP2000": 408,
+        "MALE2000": 213,
+        "FEMALE2000": 195,
+        "POP2008": 505,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020407002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8097,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.76286199978153,
+          -5.126221000099008
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8097,
+        "CU_NAME": "BALEPA",
+        "CU_NO": "003",
+        "GEOCODE": "13020407003",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "WARD 7",
+        "LATITUDE": -5.125984,
+        "LONGITUDE": 145.762257,
+        "REGHH": 32,
+        "TOTPOP2000": 168,
+        "MALE2000": 91,
+        "FEMALE2000": 77,
+        "POP2008": 208,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020407003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8098,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.76338399957194,
+          -5.123030999580919
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8098,
+        "CU_NAME": "BAITAP",
+        "CU_NO": "004",
+        "GEOCODE": "13020407004",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "WARD 7",
+        "LATITUDE": -5.125984,
+        "LONGITUDE": 145.762257,
+        "REGHH": 13,
+        "TOTPOP2000": 105,
+        "MALE2000": 59,
+        "FEMALE2000": 46,
+        "POP2008": 129,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020407004,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8099,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.76045700039037,
+          -5.124577999874759
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8099,
+        "CU_NAME": "BITEP",
+        "CU_NO": "005",
+        "GEOCODE": "13020407005",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "WARD 7",
+        "LATITUDE": -5.125984,
+        "LONGITUDE": 145.762257,
+        "REGHH": 19,
+        "TOTPOP2000": 87,
+        "MALE2000": 50,
+        "FEMALE2000": 37,
+        "POP2008": 108,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020407005,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.769197999688,
+          -5.131882000353983
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8100,
+        "CU_NAME": "DAMAIKA",
+        "CU_NO": "006",
+        "GEOCODE": "13020407006",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "WARD 7",
+        "LATITUDE": -5.133487,
+        "LONGITUDE": 145.769168,
+        "REGHH": 13,
+        "TOTPOP2000": 68,
+        "MALE2000": 37,
+        "FEMALE2000": 31,
+        "POP2008": 84,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020407006,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7651310000956,
+          -5.156754999843315
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8101,
+        "CU_NAME": "GAMOI",
+        "CU_NO": "007",
+        "GEOCODE": "13020407007",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "WARD 7",
+        "LATITUDE": -5.158157,
+        "LONGITUDE": 145.764093,
+        "REGHH": 62,
+        "TOTPOP2000": 386,
+        "MALE2000": 197,
+        "FEMALE2000": 189,
+        "POP2008": 478,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020407007,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7714439998408,
+          -5.133558000301434
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8102,
+        "CU_NAME": "GUNTABAG",
+        "CU_NO": "008",
+        "GEOCODE": "13020407008",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "WARD 7",
+        "LATITUDE": -5.133487,
+        "LONGITUDE": 145.769168,
+        "REGHH": 34,
+        "TOTPOP2000": 181,
+        "MALE2000": 97,
+        "FEMALE2000": 84,
+        "POP2008": 224,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020407008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7492620003411,
+          -5.157161999726441
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8103,
+        "CU_NAME": "NABONOB",
+        "CU_NO": "028",
+        "GEOCODE": "13020407028",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "WARD 7",
+        "LATITUDE": -5.158564,
+        "LONGITUDE": 145.748224,
+        "REGHH": 16,
+        "TOTPOP2000": 94,
+        "MALE2000": 51,
+        "FEMALE2000": 43,
+        "POP2008": 118,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020407028,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.77459200022065,
+          -5.128817000204322
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8104,
+        "CU_NAME": "AMRON LUTHERAN MISSION",
+        "CU_NO": "502",
+        "GEOCODE": "13020407502",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "WARD 7",
+        "LATITUDE": -5.130134,
+        "LONGITUDE": 145.774758,
+        "REGHH": 38,
+        "TOTPOP2000": 177,
+        "MALE2000": 95,
+        "FEMALE2000": 82,
+        "POP2008": 219,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020407502,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.77938500001778,
+          -5.1429200003576625
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8105,
+        "CU_NAME": "BAITABAG LUTH. MISSION",
+        "CU_NO": "503",
+        "GEOCODE": "13020407503",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "WARD 7",
+        "LATITUDE": -5.147193,
+        "LONGITUDE": 145.779159,
+        "REGHH": 53,
+        "TOTPOP2000": 350,
+        "MALE2000": 186,
+        "FEMALE2000": 164,
+        "POP2008": 433,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020407503,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

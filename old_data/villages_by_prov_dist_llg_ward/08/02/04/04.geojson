@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5451,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8611179995961,
+          -5.391129000003275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5451,
+        "CU_NAME": "SAUANDA",
+        "CU_NO": "009",
+        "GEOCODE": "08020404009",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "SAUANDA",
+        "LATITUDE": -5.39253,
+        "LONGITUDE": 143.860055,
+        "REGHH": 55,
+        "TOTPOP2000": 315,
+        "MALE2000": 163,
+        "FEMALE2000": 152,
+        "POP2008": 396,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020404009,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5452,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.94605099975388,
+          -5.38348600007879
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5452,
+        "CU_NAME": "AIYOKOS",
+        "CU_NO": "010",
+        "GEOCODE": "08020404010",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "SAUANDA",
+        "LATITUDE": -5.388016,
+        "LONGITUDE": 143.945073,
+        "REGHH": 57,
+        "TOTPOP2000": 297,
+        "MALE2000": 140,
+        "FEMALE2000": 157,
+        "POP2008": 374,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020404010,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5453,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8564350003751,
+          -5.399954999623503
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5453,
+        "CU_NAME": "SIRUNKI",
+        "CU_NO": "011",
+        "GEOCODE": "08020404011",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "SAUANDA",
+        "LATITUDE": -5.401356,
+        "LONGITUDE": 143.855372,
+        "REGHH": 54,
+        "TOTPOP2000": 417,
+        "MALE2000": 226,
+        "FEMALE2000": 191,
+        "POP2008": 524,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020404011,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

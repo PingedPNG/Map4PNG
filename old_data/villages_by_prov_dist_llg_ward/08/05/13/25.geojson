@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5928,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.92371799958607,
+          -5.645124000272347
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5928,
+        "CU_NAME": "PAUSA",
+        "CU_NO": "006",
+        "GEOCODE": "08051325006",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "25",
+        "WARD_NAME": "PAUSA",
+        "LATITUDE": -5.646528,
+        "LONGITUDE": 143.922654,
+        "REGHH": 180,
+        "TOTPOP2000": 1171,
+        "MALE2000": 607,
+        "FEMALE2000": 564,
+        "POP2008": 1471,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051325006,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18647,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1816389996402,
+          -3.5715229996866356
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18647,
+        "CU_NAME": "TOMONTONIK",
+        "CU_NO": "013",
+        "GEOCODE": "15020714013",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "TOMONTONIK/YEMNU",
+        "LATITUDE": -3.572902,
+        "LONGITUDE": 142.180558,
+        "REGHH": 49,
+        "TOTPOP2000": 286,
+        "MALE2000": 147,
+        "FEMALE2000": 139,
+        "POP2008": 346,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020714013,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18648,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.18800399998463,
+          -3.5748609998352094
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18648,
+        "CU_NAME": "YEMNU",
+        "CU_NO": "020",
+        "GEOCODE": "15020714020",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "TOMONTONIK/YEMNU",
+        "LATITUDE": -3.57624,
+        "LONGITUDE": 142.186923,
+        "REGHH": 129,
+        "TOTPOP2000": 684,
+        "MALE2000": 356,
+        "FEMALE2000": 328,
+        "POP2008": 826,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020714020,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

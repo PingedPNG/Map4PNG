@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17015,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.19391000034625,
+          -5.6738110002773965
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17015,
+        "CU_NAME": "RUGLI.2",
+        "CU_NO": "032",
+        "GEOCODE": "09050819032",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "19",
+        "WARD_NAME": "RUGLI.2",
+        "LATITUDE": -5.674746,
+        "LONGITUDE": 144.193777,
+        "REGHH": 36,
+        "TOTPOP2000": 146,
+        "MALE2000": 72,
+        "FEMALE2000": 74,
+        "POP2008": 178,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050819032,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17016,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1926669996824,
+          -5.673805000000698
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17016,
+        "CU_NAME": "PYAI",
+        "CU_NO": "033",
+        "GEOCODE": "09050819033",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "19",
+        "WARD_NAME": "RUGLI.2",
+        "LATITUDE": -5.674746,
+        "LONGITUDE": 144.193777,
+        "REGHH": 138,
+        "TOTPOP2000": 603,
+        "MALE2000": 284,
+        "FEMALE2000": 319,
+        "POP2008": 734,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050819033,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

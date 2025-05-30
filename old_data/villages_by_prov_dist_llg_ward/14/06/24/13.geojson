@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.49398099962355,
+          -3.737470000040446
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7284,
+        "CU_NAME": "HANIAK 1",
+        "CU_NO": "007",
+        "GEOCODE": "14062413007",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "24",
+        "WARD_NO": "13",
+        "WARD_NAME": "HANIAK",
+        "LATITUDE": -3.737018,
+        "LONGITUDE": 143.494757,
+        "REGHH": 32,
+        "TOTPOP2000": 185,
+        "MALE2000": 99,
+        "FEMALE2000": 86,
+        "POP2008": 220,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062413007,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4976099997018,
+          -3.754994999719429
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7285,
+        "CU_NAME": "BASIK PNGBC",
+        "CU_NO": "008",
+        "GEOCODE": "14062413008",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "24",
+        "WARD_NO": "13",
+        "WARD_NAME": "HANIAK",
+        "LATITUDE": -3.756575,
+        "LONGITUDE": 143.496376,
+        "REGHH": 5,
+        "TOTPOP2000": 24,
+        "MALE2000": 12,
+        "FEMALE2000": 12,
+        "POP2008": 32,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062413008,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7286,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.50421700041431,
+          -3.734509000190144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7286,
+        "CU_NAME": "HANIAK 2",
+        "CU_NO": "009",
+        "GEOCODE": "14062413009",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "24",
+        "WARD_NO": "13",
+        "WARD_NAME": "HANIAK",
+        "LATITUDE": -3.736089,
+        "LONGITUDE": 143.502983,
+        "REGHH": 72,
+        "TOTPOP2000": 355,
+        "MALE2000": 175,
+        "FEMALE2000": 180,
+        "POP2008": 423,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062413009,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

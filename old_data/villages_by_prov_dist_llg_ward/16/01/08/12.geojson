@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9481,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1992559998646,
+          -2.199204000164457
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9481,
+        "CU_NAME": "MALEH",
+        "CU_NO": "003",
+        "GEOCODE": "16010812003",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "08",
+        "WARD_NO": "12",
+        "WARD_NAME": "MALEH",
+        "LATITUDE": -2.199807,
+        "LONGITUDE": 147.199026,
+        "REGHH": 24,
+        "TOTPOP2000": 142,
+        "MALE2000": 72,
+        "FEMALE2000": 70,
+        "POP2008": 174,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010812003,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

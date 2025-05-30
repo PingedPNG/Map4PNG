@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20849,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.80789299956234,
+          -5.8205040003592785
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20849,
+        "CU_NAME": "TARALIPA",
+        "CU_NO": "001",
+        "GEOCODE": "07051703001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "03",
+        "WARD_NAME": "MAGARA 3",
+        "LATITUDE": -5.824265,
+        "LONGITUDE": 142.808769,
+        "REGHH": 20,
+        "TOTPOP2000": 173,
+        "MALE2000": 87,
+        "FEMALE2000": 86,
+        "POP2008": 241,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051703001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20850,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8089539999272,
+          -5.819588000385863
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20850,
+        "CU_NAME": "HOWA",
+        "CU_NO": "002",
+        "GEOCODE": "07051703002",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "03",
+        "WARD_NAME": "MAGARA 3",
+        "LATITUDE": -5.824265,
+        "LONGITUDE": 142.808769,
+        "REGHH": 24,
+        "TOTPOP2000": 201,
+        "MALE2000": 108,
+        "FEMALE2000": 93,
+        "POP2008": 279,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051703002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20851,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.80728800044096,
+          -5.818706000181692
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20851,
+        "CU_NAME": "UKALI",
+        "CU_NO": "003",
+        "GEOCODE": "07051703003",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "03",
+        "WARD_NAME": "MAGARA 3",
+        "LATITUDE": -5.824265,
+        "LONGITUDE": 142.808769,
+        "REGHH": 16,
+        "TOTPOP2000": 151,
+        "MALE2000": 65,
+        "FEMALE2000": 86,
+        "POP2008": 209,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051703003,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20852,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.816691999736,
+          -5.816341999983251
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20852,
+        "CU_NAME": "JANGA",
+        "CU_NO": "004",
+        "GEOCODE": "07051703004",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "03",
+        "WARD_NAME": "MAGARA 3",
+        "LATITUDE": -5.824265,
+        "LONGITUDE": 142.808769,
+        "REGHH": 15,
+        "TOTPOP2000": 141,
+        "MALE2000": 69,
+        "FEMALE2000": 72,
+        "POP2008": 196,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051703004,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20853,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8012289998186,
+          -5.8218700004001676
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20853,
+        "CU_NAME": "NOGEIA",
+        "CU_NO": "005",
+        "GEOCODE": "07051703005",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "03",
+        "WARD_NAME": "MAGARA 3",
+        "LATITUDE": -5.824265,
+        "LONGITUDE": 142.808769,
+        "REGHH": 23,
+        "TOTPOP2000": 212,
+        "MALE2000": 110,
+        "FEMALE2000": 102,
+        "POP2008": 295,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051703005,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20854,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8085219997905,
+          -5.824585999744045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20854,
+        "CU_NAME": "L/HAYAPI TOPUP SCH",
+        "CU_NO": "401",
+        "GEOCODE": "07051703401",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "03",
+        "WARD_NAME": "MAGARA 3",
+        "LATITUDE": -5.824265,
+        "LONGITUDE": 142.808769,
+        "REGHH": 35,
+        "TOTPOP2000": 229,
+        "MALE2000": 112,
+        "FEMALE2000": 117,
+        "POP2008": 318,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051703401,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6067,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.72693289753522,
+          -3.580727211891258
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6067,
+        "CU_NAME": "MOILENGE",
+        "CU_NO": "006",
+        "GEOCODE": "14010203006",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "MUSUNGUA",
+        "LATITUDE": -3.580591,
+        "LONGITUDE": 142.728945,
+        "REGHH": 26,
+        "TOTPOP2000": 121,
+        "MALE2000": 63,
+        "FEMALE2000": 58,
+        "POP2008": 145,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010203006,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6068,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.74484991978807,
+          -3.579138990272156
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6068,
+        "CU_NAME": "MUSUNGUA",
+        "CU_NO": "012",
+        "GEOCODE": "14010203012",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "MUSUNGUA",
+        "LATITUDE": -3.579152,
+        "LONGITUDE": 142.743644,
+        "REGHH": 57,
+        "TOTPOP2000": 221,
+        "MALE2000": 110,
+        "FEMALE2000": 111,
+        "POP2008": 263,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010203012,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6069,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.72975007960258,
+          -3.571772039947632
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6069,
+        "CU_NAME": "NANAHA",
+        "CU_NO": "015",
+        "GEOCODE": "14010203015",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "MUSUNGUA",
+        "LATITUDE": -3.572001,
+        "LONGITUDE": 142.728514,
+        "REGHH": 66,
+        "TOTPOP2000": 320,
+        "MALE2000": 161,
+        "FEMALE2000": 159,
+        "POP2008": 381,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010203015,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

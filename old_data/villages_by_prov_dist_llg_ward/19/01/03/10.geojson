@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17800,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.93499599976565,
+          -6.179690999739819
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17800,
+        "CU_NAME": "KAUPTUMETE",
+        "CU_NO": "008",
+        "GEOCODE": "19010310008",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "AGULO",
+        "LATITUDE": -6.18111,
+        "LONGITUDE": 148.934,
+        "REGHH": 26,
+        "TOTPOP2000": 141,
+        "MALE2000": 79,
+        "FEMALE2000": 62,
+        "POP2008": 185,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010310008,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17801,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.00721900015685,
+          -6.151911000192456
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17801,
+        "CU_NAME": "KUMBUN",
+        "CU_NO": "009",
+        "GEOCODE": "19010310009",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "AGULO",
+        "LATITUDE": -6.15466,
+        "LONGITUDE": 149.006278,
+        "REGHH": 66,
+        "TOTPOP2000": 373,
+        "MALE2000": 178,
+        "FEMALE2000": 195,
+        "POP2008": 492,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010310009,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17802,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.95899600036523,
+          -6.16202099966938
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17802,
+        "CU_NAME": "MAKLO",
+        "CU_NO": "011",
+        "GEOCODE": "19010310011",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "AGULO",
+        "LATITUDE": -6.16344,
+        "LONGITUDE": 148.958,
+        "REGHH": 30,
+        "TOTPOP2000": 135,
+        "MALE2000": 62,
+        "FEMALE2000": 73,
+        "POP2008": 178,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010310011,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17803,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0409950001192,
+          -6.07519200021062
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17803,
+        "CU_NAME": "DOUGON",
+        "CU_NO": "023",
+        "GEOCODE": "19010310023",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "AGULO",
+        "LATITUDE": -6.07661,
+        "LONGITUDE": 149.04,
+        "REGHH": 43,
+        "TOTPOP2000": 201,
+        "MALE2000": 94,
+        "FEMALE2000": 107,
+        "POP2008": 265,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010310023,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

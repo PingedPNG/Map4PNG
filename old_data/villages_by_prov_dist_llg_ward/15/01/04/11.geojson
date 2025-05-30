@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18479,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.109473000079,
+          -3.4149570002653036
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18479,
+        "CU_NAME": "MIWAUTE",
+        "CU_NO": "013",
+        "GEOCODE": "15010411013",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "MIWAUTE",
+        "LATITUDE": -3.416335,
+        "LONGITUDE": 142.108391,
+        "REGHH": 68,
+        "TOTPOP2000": 311,
+        "MALE2000": 142,
+        "FEMALE2000": 169,
+        "POP2008": 376,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010411013,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18480,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.11097099991173,
+          -3.4128959996506296
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18480,
+        "CU_NAME": "WILBEITE",
+        "CU_NO": "029",
+        "GEOCODE": "15010411029",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "MIWAUTE",
+        "LATITUDE": -3.414274,
+        "LONGITUDE": 142.10989,
+        "REGHH": 46,
+        "TOTPOP2000": 196,
+        "MALE2000": 93,
+        "FEMALE2000": 103,
+        "POP2008": 237,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010411029,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

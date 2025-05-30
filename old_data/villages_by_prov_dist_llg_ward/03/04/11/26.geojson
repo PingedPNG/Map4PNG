@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1642,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.74911300026486,
+          -9.703858000146568
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1642,
+        "CU_NAME": "GAUNOMU",
+        "CU_NO": "022",
+        "GEOCODE": "03041126022",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "26",
+        "WARD_NAME": "GAUNOMU",
+        "LATITUDE": -9.705312,
+        "LONGITUDE": 147.748091,
+        "REGHH": 41,
+        "TOTPOP2000": 205,
+        "MALE2000": 109,
+        "FEMALE2000": 96,
+        "POP2008": 246,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041126022,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1643,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.74129999969534,
+          -9.723293999818168
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1643,
+        "CU_NAME": "BEBEDOBU",
+        "CU_NO": "023",
+        "GEOCODE": "03041126023",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "26",
+        "WARD_NAME": "GAUNOMU",
+        "LATITUDE": -9.724748,
+        "LONGITUDE": 147.740278,
+        "REGHH": 6,
+        "TOTPOP2000": 33,
+        "MALE2000": 20,
+        "FEMALE2000": 13,
+        "POP2008": 41,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041126023,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1644,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.748395000429,
+          -9.723227000325778
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1644,
+        "CU_NAME": "IROFA",
+        "CU_NO": "024",
+        "GEOCODE": "03041126024",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "26",
+        "WARD_NAME": "GAUNOMU",
+        "LATITUDE": -9.724681,
+        "LONGITUDE": 147.747373,
+        "REGHH": 1,
+        "TOTPOP2000": 6,
+        "MALE2000": 4,
+        "FEMALE2000": 2,
+        "POP2008": 6,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041126024,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

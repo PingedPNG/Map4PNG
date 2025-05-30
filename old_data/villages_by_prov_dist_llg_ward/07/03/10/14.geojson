@@ -1,0 +1,357 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.99776799969345,
+          -6.412102000207085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20137,
+        "CU_NAME": "AKU",
+        "CU_NO": "001",
+        "GEOCODE": "07031014001",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "RAKUANDA",
+        "LATITUDE": -6.415185,
+        "LONGITUDE": 143.996678,
+        "REGHH": 21,
+        "TOTPOP2000": 127,
+        "MALE2000": 63,
+        "FEMALE2000": 64,
+        "POP2008": 177,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031014001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.99522900041814,
+          -6.4117259999549105
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20138,
+        "CU_NAME": "RAKUANDA",
+        "CU_NO": "012",
+        "GEOCODE": "07031014012",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "RAKUANDA",
+        "LATITUDE": -6.415185,
+        "LONGITUDE": 143.996678,
+        "REGHH": 9,
+        "TOTPOP2000": 41,
+        "MALE2000": 24,
+        "FEMALE2000": 17,
+        "POP2008": 57,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031014012,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.99776000022393,
+          -6.4107350001200984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20139,
+        "CU_NAME": "LIMBO",
+        "CU_NO": "013",
+        "GEOCODE": "07031014013",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "RAKUANDA",
+        "LATITUDE": -6.415185,
+        "LONGITUDE": 143.996678,
+        "REGHH": 7,
+        "TOTPOP2000": 34,
+        "MALE2000": 19,
+        "FEMALE2000": 15,
+        "POP2008": 48,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031014013,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.99599699986175,
+          -6.409573999640315
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20140,
+        "CU_NAME": "PAYAMANDA",
+        "CU_NO": "014",
+        "GEOCODE": "07031014014",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "RAKUANDA",
+        "LATITUDE": -6.415185,
+        "LONGITUDE": 143.996678,
+        "REGHH": 8,
+        "TOTPOP2000": 28,
+        "MALE2000": 13,
+        "FEMALE2000": 15,
+        "POP2008": 36,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031014014,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20141,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9975559998096,
+          -6.409174000079986
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20141,
+        "CU_NAME": "KARAKURE",
+        "CU_NO": "015",
+        "GEOCODE": "07031014015",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "RAKUANDA",
+        "LATITUDE": -6.415185,
+        "LONGITUDE": 143.996678,
+        "REGHH": 12,
+        "TOTPOP2000": 55,
+        "MALE2000": 28,
+        "FEMALE2000": 27,
+        "POP2008": 76,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031014015,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.99640599983707,
+          -6.412890999719821
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20142,
+        "CU_NAME": "MUNERE",
+        "CU_NO": "016",
+        "GEOCODE": "07031014016",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "RAKUANDA",
+        "LATITUDE": -6.415185,
+        "LONGITUDE": 143.996678,
+        "REGHH": 7,
+        "TOTPOP2000": 28,
+        "MALE2000": 14,
+        "FEMALE2000": 14,
+        "POP2008": 36,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031014016,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9938600002389,
+          -6.4113440003253
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20143,
+        "CU_NAME": "KUNAI",
+        "CU_NO": "017",
+        "GEOCODE": "07031014017",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "RAKUANDA",
+        "LATITUDE": -6.415185,
+        "LONGITUDE": 143.996678,
+        "REGHH": 24,
+        "TOTPOP2000": 138,
+        "MALE2000": 65,
+        "FEMALE2000": 73,
+        "POP2008": 192,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031014017,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.99947500017117,
+          -6.411039999796117
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20144,
+        "CU_NAME": "KALAPAGI",
+        "CU_NO": "018",
+        "GEOCODE": "07031014018",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "RAKUANDA",
+        "LATITUDE": -6.415185,
+        "LONGITUDE": 143.996678,
+        "REGHH": 14,
+        "TOTPOP2000": 68,
+        "MALE2000": 41,
+        "FEMALE2000": 27,
+        "POP2008": 94,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031014018,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.99404499977697,
+          -6.409585000147615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20145,
+        "CU_NAME": "MALA",
+        "CU_NO": "019",
+        "GEOCODE": "07031014019",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "RAKUANDA",
+        "LATITUDE": -6.415185,
+        "LONGITUDE": 143.996678,
+        "REGHH": 11,
+        "TOTPOP2000": 72,
+        "MALE2000": 38,
+        "FEMALE2000": 34,
+        "POP2008": 100,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031014019,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9993109998029,
+          -6.408968999619617
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20146,
+        "CU_NAME": "RAKUNAPI",
+        "CU_NO": "020",
+        "GEOCODE": "07031014020",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "RAKUANDA",
+        "LATITUDE": -6.415185,
+        "LONGITUDE": 143.996678,
+        "REGHH": 11,
+        "TOTPOP2000": 49,
+        "MALE2000": 29,
+        "FEMALE2000": 20,
+        "POP2008": 67,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031014020,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9961800002069,
+          -6.4076200003626695
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20147,
+        "CU_NAME": "YAPIRI",
+        "CU_NO": "021",
+        "GEOCODE": "07031014021",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "RAKUANDA",
+        "LATITUDE": -6.415185,
+        "LONGITUDE": 143.996678,
+        "REGHH": 12,
+        "TOTPOP2000": 55,
+        "MALE2000": 26,
+        "FEMALE2000": 29,
+        "POP2008": 76,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031014021,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

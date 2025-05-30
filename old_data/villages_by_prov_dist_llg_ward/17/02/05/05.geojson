@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12645,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.35599600001547,
+          -3.698403999844686
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12645,
+        "CU_NAME": "KURUMUT",
+        "CU_NO": "006",
+        "GEOCODE": "17020505006",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "RASIRIK",
+        "LATITUDE": -3.705198,
+        "LONGITUDE": 152.361095,
+        "REGHH": 37,
+        "TOTPOP2000": 239,
+        "MALE2000": 128,
+        "FEMALE2000": 111,
+        "POP2008": 300,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020505006,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12646,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.3546869999052,
+          -3.6814290003480323
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12646,
+        "CU_NAME": "RAPONTAMON",
+        "CU_NO": "012",
+        "GEOCODE": "17020505012",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "RASIRIK",
+        "LATITUDE": -3.682821,
+        "LONGITUDE": 152.353745,
+        "REGHH": 53,
+        "TOTPOP2000": 344,
+        "MALE2000": 183,
+        "FEMALE2000": 161,
+        "POP2008": 433,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020505012,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12647,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.3705929995673,
+          -3.713952000084703
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12647,
+        "CU_NAME": "RASIRIK",
+        "CU_NO": "013",
+        "GEOCODE": "17020505013",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "RASIRIK",
+        "LATITUDE": -3.715345,
+        "LONGITUDE": 152.369651,
+        "REGHH": 41,
+        "TOTPOP2000": 198,
+        "MALE2000": 108,
+        "FEMALE2000": 90,
+        "POP2008": 249,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020505013,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12648,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.37179500013917,
+          -3.6740530001458183
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12648,
+        "CU_NAME": "BURAKALAI",
+        "CU_NO": "014",
+        "GEOCODE": "17020505014",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "RASIRIK",
+        "LATITUDE": -3.675445,
+        "LONGITUDE": 152.370853,
+        "REGHH": 23,
+        "TOTPOP2000": 152,
+        "MALE2000": 79,
+        "FEMALE2000": 73,
+        "POP2008": 191,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020505014,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

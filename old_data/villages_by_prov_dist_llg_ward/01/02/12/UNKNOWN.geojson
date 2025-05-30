@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 25256,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.14703291983346,
+          -8.283072959949095
+        ]
+      },
+      "properties": {
+        "OBJECTID": 25256,
+        "CU_NAME": "Walliama",
+        "CU_NO": "724",
+        "GEOCODE": "724",
+        "PROV_KEY": "1",
+        "DIST_NO": "2",
+        "LLG_NO": "12",
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": -8.282664,
+        "LONGITUDE": 143.14724,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": 724,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": null,
+        "PROVINCE": null
+      }
+    }
+  ]
+}

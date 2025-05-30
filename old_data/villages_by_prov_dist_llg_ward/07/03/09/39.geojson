@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20059,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71365399993226,
+          -6.355306999918071
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20059,
+        "CU_NAME": "BATA/YOKERE",
+        "CU_NO": "002",
+        "GEOCODE": "07030939002",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "39",
+        "WARD_NAME": "LAGIRA-BATA",
+        "LATITUDE": -6.359548,
+        "LONGITUDE": 143.715196,
+        "REGHH": 41,
+        "TOTPOP2000": 179,
+        "MALE2000": 90,
+        "FEMALE2000": 89,
+        "POP2008": 250,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030939002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20060,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71535199999482,
+          -6.357410999817716
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20060,
+        "CU_NAME": "LAGIRA",
+        "CU_NO": "007",
+        "GEOCODE": "07030939007",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "39",
+        "WARD_NAME": "LAGIRA-BATA",
+        "LATITUDE": -6.359548,
+        "LONGITUDE": 143.715196,
+        "REGHH": 62,
+        "TOTPOP2000": 295,
+        "MALE2000": 144,
+        "FEMALE2000": 151,
+        "POP2008": 410,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030939007,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20061,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71324099977244,
+          -6.356999999750144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20061,
+        "CU_NAME": "PONAPEANDA",
+        "CU_NO": "008",
+        "GEOCODE": "07030939008",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "39",
+        "WARD_NAME": "LAGIRA-BATA",
+        "LATITUDE": -6.359548,
+        "LONGITUDE": 143.715196,
+        "REGHH": 57,
+        "TOTPOP2000": 243,
+        "MALE2000": 134,
+        "FEMALE2000": 109,
+        "POP2008": 339,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030939008,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20062,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71154699989415,
+          -6.355530000309216
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20062,
+        "CU_NAME": "WALUA",
+        "CU_NO": "009",
+        "GEOCODE": "07030939009",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "39",
+        "WARD_NAME": "LAGIRA-BATA",
+        "LATITUDE": -6.359548,
+        "LONGITUDE": 143.715196,
+        "REGHH": 37,
+        "TOTPOP2000": 149,
+        "MALE2000": 78,
+        "FEMALE2000": 71,
+        "POP2008": 207,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030939009,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

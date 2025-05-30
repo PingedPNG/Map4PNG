@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9576,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.7962760002373,
+          -9.780265000129589
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9576,
+        "CU_NAME": "GIWA",
+        "CU_NO": "011",
+        "GEOCODE": "05010117011",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "17",
+        "WARD_NAME": "GIWA",
+        "LATITUDE": -9.781578,
+        "LONGITUDE": 149.7973,
+        "REGHH": 51,
+        "TOTPOP2000": 294,
+        "MALE2000": 156,
+        "FEMALE2000": 138,
+        "POP2008": 359,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010117011,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9577,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.82841800039046,
+          -9.7764080003289
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9577,
+        "CU_NAME": "KEIBOGIMOGIMU",
+        "CU_NO": "012",
+        "GEOCODE": "05010117012",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "17",
+        "WARD_NAME": "GIWA",
+        "LATITUDE": -9.777869,
+        "LONGITUDE": 149.827426,
+        "REGHH": 51,
+        "TOTPOP2000": 308,
+        "MALE2000": 158,
+        "FEMALE2000": 150,
+        "POP2008": 375,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010117012,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

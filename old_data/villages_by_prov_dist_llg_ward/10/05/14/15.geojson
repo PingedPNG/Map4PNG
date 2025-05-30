@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14688,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.00841799959107,
+          -5.892530999805729
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14688,
+        "CU_NAME": "DIAGLKE",
+        "CU_NO": "006",
+        "GEOCODE": "10051415006",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "15",
+        "WARD_NAME": "KUGLKANE 4",
+        "LATITUDE": -5.893939,
+        "LONGITUDE": 145.007369,
+        "REGHH": 67,
+        "TOTPOP2000": 424,
+        "MALE2000": 230,
+        "FEMALE2000": 194,
+        "POP2008": 489,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051415006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14690,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.04769399957843,
+          -5.903712000108669
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14690,
+        "CU_NAME": "NUGLAUG 2",
+        "CU_NO": "008",
+        "GEOCODE": "10051415008",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "15",
+        "WARD_NAME": "KUGLKANE 4",
+        "LATITUDE": -5.905121,
+        "LONGITUDE": 145.046645,
+        "REGHH": 53,
+        "TOTPOP2000": 240,
+        "MALE2000": 142,
+        "FEMALE2000": 98,
+        "POP2008": 277,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051415008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14691,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0500510003534,
+          -5.899661000354854
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14691,
+        "CU_NAME": "KUMUNOBAKA",
+        "CU_NO": "401",
+        "GEOCODE": "10051415401",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "15",
+        "WARD_NAME": "KUGLKANE 4",
+        "LATITUDE": -5.90107,
+        "LONGITUDE": 145.049002,
+        "REGHH": 20,
+        "TOTPOP2000": 82,
+        "MALE2000": 48,
+        "FEMALE2000": 34,
+        "POP2008": 96,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051415401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

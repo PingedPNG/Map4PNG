@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18316,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.77612699966141,
+          -3.3022259997300694
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18316,
+        "CU_NAME": "CHIMAU",
+        "CU_NO": "016",
+        "GEOCODE": "15010119016",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "19",
+        "WARD_NAME": "ULAU 1",
+        "LATITUDE": -3.299538,
+        "LONGITUDE": 142.777968,
+        "REGHH": 52,
+        "TOTPOP2000": 367,
+        "MALE2000": 188,
+        "FEMALE2000": 179,
+        "POP2008": 443,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010119016,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18317,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.78234500042151,
+          -3.305734999670449
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18317,
+        "CU_NAME": "ULABARAI",
+        "CU_NO": "031",
+        "GEOCODE": "15010119031",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "19",
+        "WARD_NAME": "ULAU 1",
+        "LATITUDE": -3.300728,
+        "LONGITUDE": 142.783978,
+        "REGHH": 49,
+        "TOTPOP2000": 381,
+        "MALE2000": 210,
+        "FEMALE2000": 171,
+        "POP2008": 461,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010119031,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.79523799963408,
+          -3.3113539997872294
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18318,
+        "CU_NAME": "ULAYUT",
+        "CU_NO": "032",
+        "GEOCODE": "15010119032",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "19",
+        "WARD_NAME": "ULAU 1",
+        "LATITUDE": -3.302724,
+        "LONGITUDE": 142.794557,
+        "REGHH": 22,
+        "TOTPOP2000": 177,
+        "MALE2000": 86,
+        "FEMALE2000": 91,
+        "POP2008": 214,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010119032,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18319,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7850340003189,
+          -3.3109639997887257
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18319,
+        "CU_NAME": "ULAU 1",
+        "CU_NO": "401",
+        "GEOCODE": "15010119401",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "19",
+        "WARD_NAME": "ULAU 1",
+        "LATITUDE": -3.30071,
+        "LONGITUDE": 142.783822,
+        "REGHH": 7,
+        "TOTPOP2000": 33,
+        "MALE2000": 15,
+        "FEMALE2000": 18,
+        "POP2008": 41,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010119401,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

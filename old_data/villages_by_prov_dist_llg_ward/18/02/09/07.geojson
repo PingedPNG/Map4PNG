@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4763,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.2130089999655,
+          -4.3095019996175665
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4763,
+        "CU_NAME": "VUNATAGIA",
+        "CU_NO": "007",
+        "GEOCODE": "18020907007",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "07",
+        "WARD_NAME": "VUNATAGIA",
+        "LATITUDE": -4.310902,
+        "LONGITUDE": 152.212064,
+        "REGHH": 88,
+        "TOTPOP2000": 515,
+        "MALE2000": 258,
+        "FEMALE2000": 257,
+        "POP2008": 628,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020907007,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

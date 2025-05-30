@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9378,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.59578300008548,
+          -1.9890990004184914
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9378,
+        "CU_NAME": "JOWAN 2",
+        "CU_NO": "003",
+        "GEOCODE": "16010310003",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "JOWAN 2",
+        "LATITUDE": -1.990246,
+        "LONGITUDE": 146.595194,
+        "REGHH": 11,
+        "TOTPOP2000": 75,
+        "MALE2000": 40,
+        "FEMALE2000": 35,
+        "POP2008": 91,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010310003,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

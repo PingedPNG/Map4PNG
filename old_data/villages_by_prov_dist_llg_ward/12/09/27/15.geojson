@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12305,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.05164500041656,
+          -5.798879999612268
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12305,
+        "CU_NAME": "AROMOT",
+        "CU_NO": "002",
+        "GEOCODE": "12092715002",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "27",
+        "WARD_NO": "15",
+        "WARD_NAME": "GIAM",
+        "LATITUDE": -5.799398,
+        "LONGITUDE": 148.05247,
+        "REGHH": 124,
+        "TOTPOP2000": 824,
+        "MALE2000": 465,
+        "FEMALE2000": 359,
+        "POP2008": 1027,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092715002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12306,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.03484800013518,
+          -5.835352999841007
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12306,
+        "CU_NAME": "MUTU-MALAU",
+        "CU_NO": "023",
+        "GEOCODE": "12092715023",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "27",
+        "WARD_NO": "15",
+        "WARD_NAME": "GIAM",
+        "LATITUDE": -5.83334,
+        "LONGITUDE": 148.03375,
+        "REGHH": 22,
+        "TOTPOP2000": 124,
+        "MALE2000": 65,
+        "FEMALE2000": 59,
+        "POP2008": 155,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092715023,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12307,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.03990599956228,
+          -5.795127000110938
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12307,
+        "CU_NAME": "GIAM C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "12092715401",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "27",
+        "WARD_NO": "15",
+        "WARD_NAME": "GIAM",
+        "LATITUDE": -5.79654,
+        "LONGITUDE": 148.038898,
+        "REGHH": 5,
+        "TOTPOP2000": 27,
+        "MALE2000": 14,
+        "FEMALE2000": 13,
+        "POP2008": 35,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092715401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

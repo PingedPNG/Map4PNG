@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6286,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.75214299959987,
+          -4.358739000304581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6286,
+        "CU_NAME": "CHANGRIWA",
+        "CU_NO": "012",
+        "GEOCODE": "14020501012",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "CHANGRIWA",
+        "LATITUDE": -4.334902,
+        "LONGITUDE": 143.748355,
+        "REGHH": 114,
+        "TOTPOP2000": 688,
+        "MALE2000": 311,
+        "FEMALE2000": 377,
+        "POP2008": 819,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020501012,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4565,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.0280709997769,
+          -4.193802999808554
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4565,
+        "CU_NAME": "RABABAT",
+        "CU_NO": "006",
+        "GEOCODE": "18010401006",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "RABABAT",
+        "LATITUDE": -4.19268,
+        "LONGITUDE": 152.027944,
+        "REGHH": 169,
+        "TOTPOP2000": 1008,
+        "MALE2000": 522,
+        "FEMALE2000": 486,
+        "POP2008": 1228,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010401006,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

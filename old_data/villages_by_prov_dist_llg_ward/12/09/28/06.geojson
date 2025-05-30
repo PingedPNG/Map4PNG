@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12332,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.158671999813,
+          -5.958525999874951
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12332,
+        "CU_NAME": "SIGAWA",
+        "CU_NO": "026",
+        "GEOCODE": "12092806026",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "06",
+        "WARD_NAME": "KIARI",
+        "LATITUDE": -5.959939,
+        "LONGITUDE": 147.157651,
+        "REGHH": 20,
+        "TOTPOP2000": 124,
+        "MALE2000": 56,
+        "FEMALE2000": 68,
+        "POP2008": 155,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092806026,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12333,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.18405100015354,
+          -5.9603919995910815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12333,
+        "CU_NAME": "GALUSE",
+        "CU_NO": "027",
+        "GEOCODE": "12092806027",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "06",
+        "WARD_NAME": "KIARI",
+        "LATITUDE": -5.961805,
+        "LONGITUDE": 147.183031,
+        "REGHH": 28,
+        "TOTPOP2000": 155,
+        "MALE2000": 72,
+        "FEMALE2000": 83,
+        "POP2008": 193,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092806027,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12334,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.18981899994697,
+          -5.970840000265753
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12334,
+        "CU_NAME": "KURATA",
+        "CU_NO": "028",
+        "GEOCODE": "12092806028",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "06",
+        "WARD_NAME": "KIARI",
+        "LATITUDE": -5.972253,
+        "LONGITUDE": 147.188799,
+        "REGHH": 33,
+        "TOTPOP2000": 202,
+        "MALE2000": 103,
+        "FEMALE2000": 99,
+        "POP2008": 252,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092806028,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

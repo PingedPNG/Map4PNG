@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18320,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.85304900001142,
+          -3.32659900044348
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18320,
+        "CU_NAME": "DEIA",
+        "CU_NO": "006",
+        "GEOCODE": "15010120006",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "20",
+        "WARD_NAME": "ULAU 2",
+        "LATITUDE": -3.326636,
+        "LONGITUDE": 142.852641,
+        "REGHH": 30,
+        "TOTPOP2000": 186,
+        "MALE2000": 102,
+        "FEMALE2000": 84,
+        "POP2008": 225,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010120006,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18321,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.80893499995034,
+          -3.309312000048692
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18321,
+        "CU_NAME": "MUNAI",
+        "CU_NO": "017",
+        "GEOCODE": "15010120017",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "20",
+        "WARD_NAME": "ULAU 2",
+        "LATITUDE": -3.30623,
+        "LONGITUDE": 142.808396,
+        "REGHH": 55,
+        "TOTPOP2000": 418,
+        "MALE2000": 206,
+        "FEMALE2000": 212,
+        "POP2008": 506,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010120017,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18322,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82164499971702,
+          -3.316387999906226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18322,
+        "CU_NAME": "MARUBIEN",
+        "CU_NO": "033",
+        "GEOCODE": "15010120033",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "20",
+        "WARD_NAME": "ULAU 2",
+        "LATITUDE": -3.313306,
+        "LONGITUDE": 142.821106,
+        "REGHH": 36,
+        "TOTPOP2000": 264,
+        "MALE2000": 132,
+        "FEMALE2000": 132,
+        "POP2008": 318,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010120033,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

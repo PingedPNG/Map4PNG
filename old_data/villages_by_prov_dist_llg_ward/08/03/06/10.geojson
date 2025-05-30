@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5569,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.53070799987438,
+          -5.537131999741973
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5569,
+        "CU_NAME": "KANAMANDA",
+        "CU_NO": "023",
+        "GEOCODE": "08030610023",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "10",
+        "WARD_NAME": "KANAMANDA",
+        "LATITUDE": -5.538534,
+        "LONGITUDE": 143.529641,
+        "REGHH": 84,
+        "TOTPOP2000": 449,
+        "MALE2000": 224,
+        "FEMALE2000": 225,
+        "POP2008": 564,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030610023,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

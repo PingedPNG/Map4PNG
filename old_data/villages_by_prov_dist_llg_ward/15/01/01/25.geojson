@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18335,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.03194200022324,
+          -3.370075999907442
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18335,
+        "CU_NAME": "MATAPAU",
+        "CU_NO": "010",
+        "GEOCODE": "15010125010",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "25",
+        "WARD_NAME": "MATAPAU",
+        "LATITUDE": -3.361089,
+        "LONGITUDE": 143.024274,
+        "REGHH": 40,
+        "TOTPOP2000": 255,
+        "MALE2000": 125,
+        "FEMALE2000": 130,
+        "POP2008": 308,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010125010,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

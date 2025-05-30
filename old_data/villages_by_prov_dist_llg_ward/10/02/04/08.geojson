@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14077,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84746600025574,
+          -6.170431999936795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14077,
+        "CU_NAME": "GOMGALE",
+        "CU_NO": "001",
+        "GEOCODE": "10020408001",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "YURI",
+        "LATITUDE": -6.171843,
+        "LONGITUDE": 144.846414,
+        "REGHH": 31,
+        "TOTPOP2000": 138,
+        "MALE2000": 72,
+        "FEMALE2000": 66,
+        "POP2008": 161,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020408001,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14078,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84821100043735,
+          -6.167097999972668
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14078,
+        "CU_NAME": "ALAN",
+        "CU_NO": "002",
+        "GEOCODE": "10020408002",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "YURI",
+        "LATITUDE": -6.168509,
+        "LONGITUDE": 144.847159,
+        "REGHH": 20,
+        "TOTPOP2000": 88,
+        "MALE2000": 44,
+        "FEMALE2000": 44,
+        "POP2008": 104,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020408002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14079,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.83866900017426,
+          -6.165275000440886
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14079,
+        "CU_NAME": "YOYA",
+        "CU_NO": "003",
+        "GEOCODE": "10020408003",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "YURI",
+        "LATITUDE": -6.166686,
+        "LONGITUDE": 144.837617,
+        "REGHH": 51,
+        "TOTPOP2000": 176,
+        "MALE2000": 88,
+        "FEMALE2000": 88,
+        "POP2008": 201,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020408003,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

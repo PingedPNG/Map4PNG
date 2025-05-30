@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8335,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.53205300034574,
+          -5.3222449998068555
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8335,
+        "CU_NAME": "BUROA",
+        "CU_NO": "008",
+        "GEOCODE": "13020608008",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "WARD EIGHT",
+        "LATITUDE": -5.323648,
+        "LONGITUDE": 145.531012,
+        "REGHH": 34,
+        "TOTPOP2000": 203,
+        "MALE2000": 100,
+        "FEMALE2000": 103,
+        "POP2008": 251,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020608008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8336,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.66635500008329,
+          -5.3625270003207675
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8336,
+        "CU_NAME": "GONUA",
+        "CU_NO": "013",
+        "GEOCODE": "13020608013",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "WARD EIGHT",
+        "LATITUDE": -5.363931,
+        "LONGITUDE": 145.665315,
+        "REGHH": 129,
+        "TOTPOP2000": 842,
+        "MALE2000": 430,
+        "FEMALE2000": 412,
+        "POP2008": 1042,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020608013,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8337,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6493530002408,
+          -5.346845000196538
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8337,
+        "CU_NAME": "KUYONBON",
+        "CU_NO": "017",
+        "GEOCODE": "13020608017",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "WARD EIGHT",
+        "LATITUDE": -5.348249,
+        "LONGITUDE": 145.648313,
+        "REGHH": 68,
+        "TOTPOP2000": 394,
+        "MALE2000": 208,
+        "FEMALE2000": 186,
+        "POP2008": 489,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020608017,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8338,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.65339603290067,
+          -5.352361823839033
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8338,
+        "CU_NAME": "LAGOGEN C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "13020608401",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "WARD EIGHT",
+        "LATITUDE": -5.3522,
+        "LONGITUDE": 145.652391,
+        "REGHH": 4,
+        "TOTPOP2000": 18,
+        "MALE2000": 8,
+        "FEMALE2000": 10,
+        "POP2008": 18,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020608401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

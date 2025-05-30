@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12507,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.89107600015734,
+          -2.6357429999394526
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12507,
+        "CU_NAME": "KASELOK",
+        "CU_NO": "009",
+        "GEOCODE": "17010304009",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "KASELOK",
+        "LATITUDE": -2.638477,
+        "LONGITUDE": 150.895475,
+        "REGHH": 74,
+        "TOTPOP2000": 416,
+        "MALE2000": 218,
+        "FEMALE2000": 198,
+        "POP2008": 523,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010304009,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12508,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.92801600033818,
+          -2.6506399998360735
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12508,
+        "CU_NAME": "PUTPUT",
+        "CU_NO": "022",
+        "GEOCODE": "17010304022",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "KASELOK",
+        "LATITUDE": -2.652017,
+        "LONGITUDE": 150.927053,
+        "REGHH": 89,
+        "TOTPOP2000": 511,
+        "MALE2000": 274,
+        "FEMALE2000": 237,
+        "POP2008": 643,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010304022,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

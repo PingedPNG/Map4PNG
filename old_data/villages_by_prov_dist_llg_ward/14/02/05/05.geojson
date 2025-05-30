@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6291,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.89893000041923,
+          -4.1840810002379385
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6291,
+        "CU_NAME": "TAMBARI",
+        "CU_NO": "017",
+        "GEOCODE": "14020505017",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "TAMBARI",
+        "LATITUDE": -4.185666,
+        "LONGITUDE": 143.897701,
+        "REGHH": 55,
+        "TOTPOP2000": 345,
+        "MALE2000": 181,
+        "FEMALE2000": 164,
+        "POP2008": 411,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020505017,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.76555499956362,
+          -5.556989999988446
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4813,
+        "CU_NAME": "MATONG",
+        "CU_NO": "024",
+        "GEOCODE": "18031014024",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "MATONG",
+        "LATITUDE": -5.558393,
+        "LONGITUDE": 151.758088,
+        "REGHH": 68,
+        "TOTPOP2000": 341,
+        "MALE2000": 167,
+        "FEMALE2000": 174,
+        "POP2008": 416,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031014024,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.749602000432,
+          -5.538735999966377
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4814,
+        "CU_NAME": "KOLAI",
+        "CU_NO": "025",
+        "GEOCODE": "18031014025",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "MATONG",
+        "LATITUDE": -5.540152,
+        "LONGITUDE": 151.748648,
+        "REGHH": 11,
+        "TOTPOP2000": 87,
+        "MALE2000": 40,
+        "FEMALE2000": 47,
+        "POP2008": 104,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031014025,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7535499999326,
+          -5.5443390002446336
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4815,
+        "CU_NAME": "PUE/MALWEI",
+        "CU_NO": "026",
+        "GEOCODE": "18031014026",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "MATONG",
+        "LATITUDE": -5.546685,
+        "LONGITUDE": 151.751199,
+        "REGHH": 13,
+        "TOTPOP2000": 79,
+        "MALE2000": 38,
+        "FEMALE2000": 41,
+        "POP2008": 95,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031014026,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4816,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.78129599971066,
+          -5.5664439997906925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4816,
+        "CU_NAME": "TUREVUT PAKIA /SAELPUN",
+        "CU_NO": "027",
+        "GEOCODE": "18031014027",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "MATONG",
+        "LATITUDE": -5.56786,
+        "LONGITUDE": 151.780342,
+        "REGHH": 8,
+        "TOTPOP2000": 40,
+        "MALE2000": 18,
+        "FEMALE2000": 22,
+        "POP2008": 48,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031014027,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

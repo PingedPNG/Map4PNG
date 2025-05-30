@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21829,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.95330700001807,
+          -5.859716000093272
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21829,
+        "CU_NAME": "YULUBATE",
+        "CU_NO": "806",
+        "GEOCODE": "07082907806",
+        "PROV_KEY": "21",
+        "DIST_NO": "3",
+        "LLG_NO": "29",
+        "WARD_NO": "07",
+        "WARD_NAME": "YULUBATE",
+        "LATITUDE": -5.86396,
+        "LONGITUDE": 142.953571,
+        "REGHH": 169,
+        "TOTPOP2000": 817,
+        "MALE2000": 347,
+        "FEMALE2000": 470,
+        "POP2008": 1135,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7082907806,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

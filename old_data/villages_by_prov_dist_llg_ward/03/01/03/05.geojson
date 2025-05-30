@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 987,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.58298500035755,
+          -10.182248999991316
+        ]
+      },
+      "properties": {
+        "OBJECTID": 987,
+        "CU_NAME": "DURAMU",
+        "CU_NO": "011",
+        "GEOCODE": "03010305011",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "05",
+        "WARD_NAME": "DURAMU",
+        "LATITUDE": -10.18371,
+        "LONGITUDE": 148.581974,
+        "REGHH": 33,
+        "TOTPOP2000": 213,
+        "MALE2000": 115,
+        "FEMALE2000": 98,
+        "POP2008": 255,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010305011,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 988,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.62498800019614,
+          -10.096321999860379
+        ]
+      },
+      "properties": {
+        "OBJECTID": 988,
+        "CU_NAME": "GADOGUINA NO. 1",
+        "CU_NO": "013",
+        "GEOCODE": "03010305013",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "05",
+        "WARD_NAME": "DURAMU",
+        "LATITUDE": -10.097782,
+        "LONGITUDE": 148.623977,
+        "REGHH": 13,
+        "TOTPOP2000": 74,
+        "MALE2000": 30,
+        "FEMALE2000": 44,
+        "POP2008": 90,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010305013,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 989,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.61801100040736,
+          -10.16243900015968
+        ]
+      },
+      "properties": {
+        "OBJECTID": 989,
+        "CU_NAME": "GADOGUINA NO. 2",
+        "CU_NO": "051",
+        "GEOCODE": "03010305051",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "05",
+        "WARD_NAME": "DURAMU",
+        "LATITUDE": -10.1639,
+        "LONGITUDE": 148.617,
+        "REGHH": 12,
+        "TOTPOP2000": 61,
+        "MALE2000": 31,
+        "FEMALE2000": 30,
+        "POP2008": 72,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010305051,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

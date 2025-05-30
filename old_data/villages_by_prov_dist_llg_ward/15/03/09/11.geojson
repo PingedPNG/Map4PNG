@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18705,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.2397620000163,
+          -5.224213999976087
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18705,
+        "CU_NAME": "OKSAPMIN SUB DISTRICT",
+        "CU_NO": "501",
+        "GEOCODE": "15030911501",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "11",
+        "WARD_NAME": "OKSAPMIN SUB DIST",
+        "LATITUDE": -5.224504,
+        "LONGITUDE": 142.221617,
+        "REGHH": 47,
+        "TOTPOP2000": 327,
+        "MALE2000": 149,
+        "FEMALE2000": 178,
+        "POP2008": 395,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030911501,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

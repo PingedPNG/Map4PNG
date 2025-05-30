@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8885910000747,
+          -6.039435999771513
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14827,
+        "CU_NAME": "NINGORMA",
+        "CU_NO": "010",
+        "GEOCODE": "10051612010",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "12",
+        "WARD_NAME": "GOR",
+        "LATITUDE": -6.040846,
+        "LONGITUDE": 144.88754,
+        "REGHH": 101,
+        "TOTPOP2000": 614,
+        "MALE2000": 316,
+        "FEMALE2000": 298,
+        "POP2008": 708,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051612010,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14828,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.91605400029198,
+          -6.025075000310949
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14828,
+        "CU_NAME": "KURAYAURO",
+        "CU_NO": "011",
+        "GEOCODE": "10051612011",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "12",
+        "WARD_NAME": "GOR",
+        "LATITUDE": -6.026485,
+        "LONGITUDE": 144.915003,
+        "REGHH": 48,
+        "TOTPOP2000": 232,
+        "MALE2000": 127,
+        "FEMALE2000": 105,
+        "POP2008": 267,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051612011,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

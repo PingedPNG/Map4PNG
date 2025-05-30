@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12661,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.40522300024134,
+          -3.664800999766271
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12661,
+        "CU_NAME": "BO",
+        "CU_NO": "004",
+        "GEOCODE": "17020509004",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "09",
+        "WARD_NAME": "PIRE",
+        "LATITUDE": -3.666193,
+        "LONGITUDE": 152.404281,
+        "REGHH": 86,
+        "TOTPOP2000": 494,
+        "MALE2000": 271,
+        "FEMALE2000": 223,
+        "POP2008": 622,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020509004,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12662,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.379207000203,
+          -3.5924079996294154
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12662,
+        "CU_NAME": "PIRE",
+        "CU_NO": "015",
+        "GEOCODE": "17020509015",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "09",
+        "WARD_NAME": "PIRE",
+        "LATITUDE": -3.591999,
+        "LONGITUDE": 152.378266,
+        "REGHH": 66,
+        "TOTPOP2000": 335,
+        "MALE2000": 164,
+        "FEMALE2000": 171,
+        "POP2008": 422,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020509015,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12663,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.40373299987812,
+          -3.645305000025701
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12663,
+        "CU_NAME": "BOPIRE PLTN",
+        "CU_NO": "502",
+        "GEOCODE": "17020509502",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "09",
+        "WARD_NAME": "PIRE",
+        "LATITUDE": -3.646697,
+        "LONGITUDE": 152.402791,
+        "REGHH": 11,
+        "TOTPOP2000": 55,
+        "MALE2000": 42,
+        "FEMALE2000": 13,
+        "POP2008": 71,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020509502,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12664,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.3903580000217,
+          -3.676460999675328
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12664,
+        "CU_NAME": "NAMATANAI SEC HIGH",
+        "CU_NO": "505",
+        "GEOCODE": "17020509505",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "09",
+        "WARD_NAME": "PIRE",
+        "LATITUDE": -3.677853,
+        "LONGITUDE": 152.389416,
+        "REGHH": 17,
+        "TOTPOP2000": 91,
+        "MALE2000": 47,
+        "FEMALE2000": 44,
+        "POP2008": 115,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020509505,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

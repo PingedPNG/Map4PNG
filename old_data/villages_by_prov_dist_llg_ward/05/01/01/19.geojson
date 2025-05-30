@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9579,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.38715600044918,
+          -9.628741000296884
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9579,
+        "CU_NAME": "KWAGILA",
+        "CU_NO": "014",
+        "GEOCODE": "05010119014",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "19",
+        "WARD_NAME": "KWAGILA",
+        "LATITUDE": -9.630199,
+        "LONGITUDE": 149.386158,
+        "REGHH": 23,
+        "TOTPOP2000": 122,
+        "MALE2000": 65,
+        "FEMALE2000": 57,
+        "POP2008": 148,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010119014,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

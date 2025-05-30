@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14069,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.87559699980181,
+          -6.151521000193952
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14069,
+        "CU_NAME": "DIANE",
+        "CU_NO": "007",
+        "GEOCODE": "10020405007",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "05",
+        "WARD_NAME": "KUA",
+        "LATITUDE": -6.152932,
+        "LONGITUDE": 144.874546,
+        "REGHH": 74,
+        "TOTPOP2000": 345,
+        "MALE2000": 180,
+        "FEMALE2000": 165,
+        "POP2008": 398,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020405007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14070,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8515250003785,
+          -6.142629000228112
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14070,
+        "CU_NAME": "DIMILA",
+        "CU_NO": "008",
+        "GEOCODE": "10020405008",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "05",
+        "WARD_NAME": "KUA",
+        "LATITUDE": -6.136944,
+        "LONGITUDE": 144.849956,
+        "REGHH": 20,
+        "TOTPOP2000": 79,
+        "MALE2000": 42,
+        "FEMALE2000": 37,
+        "POP2008": 90,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020405008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14071,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84504199998833,
+          -6.143413999556401
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14071,
+        "CU_NAME": "KUA",
+        "CU_NO": "009",
+        "GEOCODE": "10020405009",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "05",
+        "WARD_NAME": "KUA",
+        "LATITUDE": -6.144825,
+        "LONGITUDE": 144.84399,
+        "REGHH": 13,
+        "TOTPOP2000": 39,
+        "MALE2000": 18,
+        "FEMALE2000": 21,
+        "POP2008": 47,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020405009,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

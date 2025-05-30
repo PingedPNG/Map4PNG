@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 31062,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.86671484001795,
+          -6.290603189785315
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31062,
+        "CU_NAME": "KAINANTU TOWN",
+        "CU_NO": " ",
+        "GEOCODE": "721",
+        "PROV_KEY": "11",
+        "DIST_NO": "11",
+        "LLG_NO": " ",
+        "WARD_NO": " ",
+        "WARD_NAME": " ",
+        "LATITUDE": -6.290603,
+        "LONGITUDE": 145.866715,
+        "REGHH": 0,
+        "TOTPOP2000": 0,
+        "MALE2000": 0,
+        "FEMALE2000": 0,
+        "POP2008": 0,
+        "G_RATE": 0,
+        "Geocode_Num": null,
+        "PROVINCE": 0
+      }
+    }
+  ]
+}

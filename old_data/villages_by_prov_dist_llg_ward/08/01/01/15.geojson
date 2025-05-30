@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5134560001943,
+          -5.941470000240258
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5216,
+        "CU_NAME": "WINJA",
+        "CU_NO": "001",
+        "GEOCODE": "08010115001",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "15",
+        "WARD_NAME": "WINJA NO.1",
+        "LATITUDE": -5.942876,
+        "LONGITUDE": 143.512388,
+        "REGHH": 129,
+        "TOTPOP2000": 678,
+        "MALE2000": 341,
+        "FEMALE2000": 337,
+        "POP2008": 852,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010115001,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

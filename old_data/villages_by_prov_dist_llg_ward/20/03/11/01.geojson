@@ -1,0 +1,453 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.33534400032545,
+          -6.4896770000934225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 725,
+        "CU_NAME": "SINSILUAI",
+        "CU_NO": "001",
+        "GEOCODE": "20031101001",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAITSI",
+        "LATITUDE": -6.491111,
+        "LONGITUDE": 155.334444,
+        "REGHH": 20,
+        "TOTPOP2000": 119,
+        "MALE2000": 59,
+        "FEMALE2000": 60,
+        "POP2008": 135,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031101001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 726,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.32617800031448,
+          -6.502454000251873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 726,
+        "CU_NAME": "MAVELE",
+        "CU_NO": "002",
+        "GEOCODE": "20031101002",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAITSI",
+        "LATITUDE": -6.503889,
+        "LONGITUDE": 155.325278,
+        "REGHH": 46,
+        "TOTPOP2000": 229,
+        "MALE2000": 121,
+        "FEMALE2000": 108,
+        "POP2008": 259,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031101002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 727,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.32228899993743,
+          -6.511343000079364
+        ]
+      },
+      "properties": {
+        "OBJECTID": 727,
+        "CU_NAME": "KIKI",
+        "CU_NO": "003",
+        "GEOCODE": "20031101003",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAITSI",
+        "LATITUDE": -6.512778,
+        "LONGITUDE": 155.321389,
+        "REGHH": 12,
+        "TOTPOP2000": 64,
+        "MALE2000": 36,
+        "FEMALE2000": 28,
+        "POP2008": 72,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031101003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 728,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.31867799978988,
+          -6.528008999715496
+        ]
+      },
+      "properties": {
+        "OBJECTID": 728,
+        "CU_NAME": "MOSIGETA",
+        "CU_NO": "004",
+        "GEOCODE": "20031101004",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAITSI",
+        "LATITUDE": -6.529444,
+        "LONGITUDE": 155.317778,
+        "REGHH": 8,
+        "TOTPOP2000": 35,
+        "MALE2000": 15,
+        "FEMALE2000": 20,
+        "POP2008": 43,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031101004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 729,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.3267329998281,
+          -6.529676000147219
+        ]
+      },
+      "properties": {
+        "OBJECTID": 729,
+        "CU_NAME": "MEWA",
+        "CU_NO": "005",
+        "GEOCODE": "20031101005",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAITSI",
+        "LATITUDE": -6.531111,
+        "LONGITUDE": 155.325833,
+        "REGHH": 28,
+        "TOTPOP2000": 144,
+        "MALE2000": 68,
+        "FEMALE2000": 76,
+        "POP2008": 160,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031101005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 730,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.31060299972876,
+          -6.516941000127019
+        ]
+      },
+      "properties": {
+        "OBJECTID": 730,
+        "CU_NAME": "WAMENABELA",
+        "CU_NO": "006",
+        "GEOCODE": "20031101006",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAITSI",
+        "LATITUDE": -6.523333,
+        "LONGITUDE": 155.318889,
+        "REGHH": 59,
+        "TOTPOP2000": 292,
+        "MALE2000": 154,
+        "FEMALE2000": 138,
+        "POP2008": 329,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031101006,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 731,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.33858300040527,
+          -6.53707799974984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 731,
+        "CU_NAME": "LAVORO",
+        "CU_NO": "007",
+        "GEOCODE": "20031101007",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAITSI",
+        "LATITUDE": -6.538513,
+        "LONGITUDE": 155.337683,
+        "REGHH": 36,
+        "TOTPOP2000": 183,
+        "MALE2000": 96,
+        "FEMALE2000": 87,
+        "POP2008": 207,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031101007,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 732,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.37256600002092,
+          -6.520509000090215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 732,
+        "CU_NAME": "BIROSI",
+        "CU_NO": "008",
+        "GEOCODE": "20031101008",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAITSI",
+        "LATITUDE": -6.521944,
+        "LONGITUDE": 155.371667,
+        "REGHH": 85,
+        "TOTPOP2000": 461,
+        "MALE2000": 229,
+        "FEMALE2000": 232,
+        "POP2008": 519,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031101008,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 733,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.34839999986013,
+          -6.53662100025889
+        ]
+      },
+      "properties": {
+        "OBJECTID": 733,
+        "CU_NAME": "PIKEI",
+        "CU_NO": "009",
+        "GEOCODE": "20031101009",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAITSI",
+        "LATITUDE": -6.538056,
+        "LONGITUDE": 155.3475,
+        "REGHH": 67,
+        "TOTPOP2000": 384,
+        "MALE2000": 190,
+        "FEMALE2000": 194,
+        "POP2008": 432,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031101009,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 734,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.34480899973562,
+          -6.543563000232211
+        ]
+      },
+      "properties": {
+        "OBJECTID": 734,
+        "CU_NAME": "BOKU VILLAGE",
+        "CU_NO": "010",
+        "GEOCODE": "20031101010",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAITSI",
+        "LATITUDE": -6.540556,
+        "LONGITUDE": 155.343611,
+        "REGHH": 47,
+        "TOTPOP2000": 236,
+        "MALE2000": 132,
+        "FEMALE2000": 104,
+        "POP2008": 268,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031101010,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 735,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.35631199959914,
+          -6.573176999818656
+        ]
+      },
+      "properties": {
+        "OBJECTID": 735,
+        "CU_NAME": "SIROKORO",
+        "CU_NO": "011",
+        "GEOCODE": "20031101011",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAITSI",
+        "LATITUDE": -6.577675,
+        "LONGITUDE": 155.354037,
+        "REGHH": 14,
+        "TOTPOP2000": 69,
+        "MALE2000": 34,
+        "FEMALE2000": 35,
+        "POP2008": 77,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031101011,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 736,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.35812200033013,
+          -6.566620999659335
+        ]
+      },
+      "properties": {
+        "OBJECTID": 736,
+        "CU_NAME": "BOKU COMM. SCHOOL",
+        "CU_NO": "403",
+        "GEOCODE": "20031101403",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAITSI",
+        "LATITUDE": -6.568056,
+        "LONGITUDE": 155.357222,
+        "REGHH": 5,
+        "TOTPOP2000": 23,
+        "MALE2000": 11,
+        "FEMALE2000": 12,
+        "POP2008": 23,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031101403,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.35923300030277,
+          -6.565786999870113
+        ]
+      },
+      "properties": {
+        "OBJECTID": 737,
+        "CU_NAME": "BOKU HEALTH CENTRE",
+        "CU_NO": "404",
+        "GEOCODE": "20031101404",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAITSI",
+        "LATITUDE": -6.567222,
+        "LONGITUDE": 155.358333,
+        "REGHH": 6,
+        "TOTPOP2000": 25,
+        "MALE2000": 12,
+        "FEMALE2000": 13,
+        "POP2008": 25,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031101404,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.32728900028724,
+          -6.535786999570348
+        ]
+      },
+      "properties": {
+        "OBJECTID": 738,
+        "CU_NAME": "SOLOM SETTLEMENT",
+        "CU_NO": "405",
+        "GEOCODE": "20031101405",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAITSI",
+        "LATITUDE": -6.537222,
+        "LONGITUDE": 155.326389,
+        "REGHH": 60,
+        "TOTPOP2000": 278,
+        "MALE2000": 136,
+        "FEMALE2000": 142,
+        "POP2008": 312,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031101405,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

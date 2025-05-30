@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7866,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.94177300012393,
+          -4.483300999641358
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7866,
+        "CU_NAME": "WADAGINAM",
+        "CU_NO": "018",
+        "GEOCODE": "13010113018",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "13",
+        "WARD_NAME": "WADAGINAM",
+        "LATITUDE": -4.484694,
+        "LONGITUDE": 144.940725,
+        "REGHH": 166,
+        "TOTPOP2000": 947,
+        "MALE2000": 493,
+        "FEMALE2000": 454,
+        "POP2008": 1172,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010113018,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

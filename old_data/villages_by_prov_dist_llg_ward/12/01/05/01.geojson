@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10560,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.67428499955315,
+          -7.256642000327986
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10560,
+        "CU_NAME": "PINE TOP BRIDGE S'MENT",
+        "CU_NO": "403",
+        "GEOCODE": "12010501403",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "MAUS BOKIS",
+        "LATITUDE": -7.258068,
+        "LONGITUDE": 146.673255,
+        "REGHH": 26,
+        "TOTPOP2000": 120,
+        "MALE2000": 60,
+        "FEMALE2000": 60,
+        "POP2008": 150,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010501403,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10561,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.67550299996356,
+          -7.244066999592292
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10561,
+        "CU_NAME": "TIN BISCUIT SETTLEMENT",
+        "CU_NO": "404",
+        "GEOCODE": "12010501404",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "MAUS BOKIS",
+        "LATITUDE": -7.245493,
+        "LONGITUDE": 146.674473,
+        "REGHH": 18,
+        "TOTPOP2000": 100,
+        "MALE2000": 51,
+        "FEMALE2000": 49,
+        "POP2008": 124,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010501404,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10562,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.67594499966208,
+          -7.248113000014882
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10562,
+        "CU_NAME": "NO. 5 SHIP SETTLEMENT",
+        "CU_NO": "405",
+        "GEOCODE": "12010501405",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "MAUS BOKIS",
+        "LATITUDE": -7.249539,
+        "LONGITUDE": 146.674915,
+        "REGHH": 62,
+        "TOTPOP2000": 341,
+        "MALE2000": 185,
+        "FEMALE2000": 156,
+        "POP2008": 426,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010501405,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10563,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.68005500033803,
+          -7.266096000130233
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10563,
+        "CU_NAME": "MAUS BOKIS",
+        "CU_NO": "412",
+        "GEOCODE": "12010501412",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "MAUS BOKIS",
+        "LATITUDE": -7.267522,
+        "LONGITUDE": 146.679025,
+        "REGHH": 63,
+        "TOTPOP2000": 363,
+        "MALE2000": 205,
+        "FEMALE2000": 158,
+        "POP2008": 452,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010501412,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10564,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.68582999955493,
+          -7.276171999837857
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10564,
+        "CU_NAME": "CLIFF SIDE - PWD CAMP",
+        "CU_NO": "422",
+        "GEOCODE": "12010501422",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "MAUS BOKIS",
+        "LATITUDE": -7.277597,
+        "LONGITUDE": 146.6848,
+        "REGHH": 17,
+        "TOTPOP2000": 84,
+        "MALE2000": 41,
+        "FEMALE2000": 43,
+        "POP2008": 105,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010501422,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

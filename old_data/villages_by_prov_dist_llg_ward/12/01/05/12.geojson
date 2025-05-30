@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10649,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.76718200004927,
+          -7.362848000334907
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10649,
+        "CU_NAME": "KAISENIK",
+        "CU_NO": "003",
+        "GEOCODE": "12010512003",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "12",
+        "WARD_NAME": "KAISENIK",
+        "LATITUDE": -7.364276,
+        "LONGITUDE": 146.766153,
+        "REGHH": 33,
+        "TOTPOP2000": 246,
+        "MALE2000": 121,
+        "FEMALE2000": 125,
+        "POP2008": 306,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010512003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10650,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7654409998023,
+          -7.360733999974059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10650,
+        "CU_NAME": "KAISENIK C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "12010512401",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "12",
+        "WARD_NAME": "KAISENIK",
+        "LATITUDE": -7.362162,
+        "LONGITUDE": 146.764412,
+        "REGHH": 7,
+        "TOTPOP2000": 41,
+        "MALE2000": 26,
+        "FEMALE2000": 15,
+        "POP2008": 49,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010512401,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10651,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.76674999991258,
+          -7.357392999687136
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10651,
+        "CU_NAME": "KAURI COFFEE",
+        "CU_NO": "402",
+        "GEOCODE": "12010512402",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "12",
+        "WARD_NAME": "KAISENIK",
+        "LATITUDE": -7.358821,
+        "LONGITUDE": 146.765721,
+        "REGHH": 1,
+        "TOTPOP2000": 4,
+        "MALE2000": 2,
+        "FEMALE2000": 2,
+        "POP2008": 4,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010512402,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

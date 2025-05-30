@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.18523399974936,
+          -4.2376799997321655
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5143,
+        "CU_NAME": "MATUPIT 2",
+        "CU_NO": "009",
+        "GEOCODE": "18041610009",
+        "PROV_KEY": "18",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "10",
+        "WARD_NAME": "MATUPIT 2",
+        "LATITUDE": -4.239079,
+        "LONGITUDE": 152.184288,
+        "REGHH": 147,
+        "TOTPOP2000": 716,
+        "MALE2000": 359,
+        "FEMALE2000": 357,
+        "POP2008": 872,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18041610009,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

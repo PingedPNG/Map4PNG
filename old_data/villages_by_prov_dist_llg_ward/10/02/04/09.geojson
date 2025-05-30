@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14080,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.85109600038015,
+          -6.173235999741564
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14080,
+        "CU_NAME": "SILEGERUA",
+        "CU_NO": "002",
+        "GEOCODE": "10020409002",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "DELIKU",
+        "LATITUDE": -6.174647,
+        "LONGITUDE": 144.850044,
+        "REGHH": 93,
+        "TOTPOP2000": 415,
+        "MALE2000": 220,
+        "FEMALE2000": 195,
+        "POP2008": 478,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020409002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14081,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.86784700033888,
+          -6.172394999629489
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14081,
+        "CU_NAME": "NINAWANA",
+        "CU_NO": "003",
+        "GEOCODE": "10020409003",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "DELIKU",
+        "LATITUDE": -6.173806,
+        "LONGITUDE": 144.866796,
+        "REGHH": 42,
+        "TOTPOP2000": 176,
+        "MALE2000": 90,
+        "FEMALE2000": 86,
+        "POP2008": 201,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020409003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14082,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.87839300013695,
+          -6.161297999602937
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14082,
+        "CU_NAME": "YOMA/ALKUA",
+        "CU_NO": "004",
+        "GEOCODE": "10020409004",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "DELIKU",
+        "LATITUDE": -6.162709,
+        "LONGITUDE": 144.877342,
+        "REGHH": 71,
+        "TOTPOP2000": 303,
+        "MALE2000": 162,
+        "FEMALE2000": 141,
+        "POP2008": 350,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020409004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14083,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.81163099977084,
+          -6.152838999819949
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14083,
+        "CU_NAME": "KANOGE",
+        "CU_NO": "005",
+        "GEOCODE": "10020409005",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "DELIKU",
+        "LATITUDE": -6.183231,
+        "LONGITUDE": 144.824637,
+        "REGHH": 30,
+        "TOTPOP2000": 158,
+        "MALE2000": 91,
+        "FEMALE2000": 67,
+        "POP2008": 182,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020409005,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

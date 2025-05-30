@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11854,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.23174500003176,
+          -7.435924999638985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11854,
+        "CU_NAME": "KOTEO",
+        "CU_NO": "002",
+        "GEOCODE": "12072009002",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "09",
+        "WARD_NAME": "HENGUETO",
+        "LATITUDE": -7.437352,
+        "LONGITUDE": 146.230709,
+        "REGHH": 29,
+        "TOTPOP2000": 167,
+        "MALE2000": 91,
+        "FEMALE2000": 76,
+        "POP2008": 209,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072009002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11855,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2138050001007,
+          -7.437671000116495
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11855,
+        "CU_NAME": "MUNGO",
+        "CU_NO": "025",
+        "GEOCODE": "12072009025",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "09",
+        "WARD_NAME": "HENGUETO",
+        "LATITUDE": -7.435893,
+        "LONGITUDE": 146.21461,
+        "REGHH": 50,
+        "TOTPOP2000": 304,
+        "MALE2000": 142,
+        "FEMALE2000": 162,
+        "POP2008": 380,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072009025,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11856,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.26900100039586,
+          -7.3916619999013164
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11856,
+        "CU_NAME": "YAKEA",
+        "CU_NO": "034",
+        "GEOCODE": "12072009034",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "09",
+        "WARD_NAME": "HENGUETO",
+        "LATITUDE": -7.393089,
+        "LONGITUDE": 146.267965,
+        "REGHH": 52,
+        "TOTPOP2000": 307,
+        "MALE2000": 152,
+        "FEMALE2000": 155,
+        "POP2008": 383,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072009034,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11857,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.19837299981418,
+          -7.465303000033373
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11857,
+        "CU_NAME": "KALASU",
+        "CU_NO": "035",
+        "GEOCODE": "12072009035",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "09",
+        "WARD_NAME": "HENGUETO",
+        "LATITUDE": -7.46673,
+        "LONGITUDE": 146.197336,
+        "REGHH": 37,
+        "TOTPOP2000": 189,
+        "MALE2000": 104,
+        "FEMALE2000": 85,
+        "POP2008": 235,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072009035,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

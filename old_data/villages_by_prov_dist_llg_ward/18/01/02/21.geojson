@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4503,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1372720003027,
+          -4.479197000141369
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4503,
+        "CU_NAME": "KADAULUNG S/MENT NO.1",
+        "CU_NO": "022",
+        "GEOCODE": "18010221022",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "21",
+        "WARD_NAME": "KADAULUNG S/MENT NO.",
+        "LATITUDE": -4.4806,
+        "LONGITUDE": 152.136325,
+        "REGHH": 100,
+        "TOTPOP2000": 629,
+        "MALE2000": 340,
+        "FEMALE2000": 289,
+        "POP2008": 767,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010221022,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.12632499999881,
+          -4.490410000121358
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4504,
+        "CU_NAME": "MISBEAL  PLNT",
+        "CU_NO": "526",
+        "GEOCODE": "18010221526",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "21",
+        "WARD_NAME": "KADAULUNG S/MENT NO.",
+        "LATITUDE": -4.490402,
+        "LONGITUDE": 152.125271,
+        "REGHH": 11,
+        "TOTPOP2000": 31,
+        "MALE2000": 24,
+        "FEMALE2000": 7,
+        "POP2008": 39,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010221526,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4505,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.13178199983952,
+          -4.487505000155579
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4505,
+        "CU_NAME": "WILLTANE PLNT",
+        "CU_NO": "537",
+        "GEOCODE": "18010221537",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "21",
+        "WARD_NAME": "KADAULUNG S/MENT NO.",
+        "LATITUDE": -4.490103,
+        "LONGITUDE": 152.13105,
+        "REGHH": 24,
+        "TOTPOP2000": 112,
+        "MALE2000": 71,
+        "FEMALE2000": 41,
+        "POP2008": 136,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010221537,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4506,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.11707599975762,
+          -4.505412000363492
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4506,
+        "CU_NAME": "NENGMUTKA",
+        "CU_NO": "547",
+        "GEOCODE": "18010221547",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "21",
+        "WARD_NAME": "KADAULUNG S/MENT NO.",
+        "LATITUDE": -4.506815,
+        "LONGITUDE": 152.116129,
+        "REGHH": 20,
+        "TOTPOP2000": 127,
+        "MALE2000": 70,
+        "FEMALE2000": 57,
+        "POP2008": 154,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010221547,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

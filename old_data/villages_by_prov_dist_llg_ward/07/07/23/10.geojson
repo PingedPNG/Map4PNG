@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21247,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.89955199962515,
+          -6.8133009998412035
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21247,
+        "CU_NAME": "KASUMISI",
+        "CU_NO": "011",
+        "GEOCODE": "07072310011",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "10",
+        "WARD_NAME": "MUSULA",
+        "LATITUDE": -6.817553,
+        "LONGITUDE": 142.899816,
+        "REGHH": 5,
+        "TOTPOP2000": 42,
+        "MALE2000": 26,
+        "FEMALE2000": 16,
+        "POP2008": 58,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072310011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21248,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.89236900022922,
+          -6.8097180000855815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21248,
+        "CU_NAME": "IWATUBU",
+        "CU_NO": "012",
+        "GEOCODE": "07072310012",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "10",
+        "WARD_NAME": "MUSULA",
+        "LATITUDE": -6.807461,
+        "LONGITUDE": 142.886046,
+        "REGHH": 18,
+        "TOTPOP2000": 124,
+        "MALE2000": 64,
+        "FEMALE2000": 60,
+        "POP2008": 172,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072310012,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21249,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.93842700000607,
+          -6.810422000175095
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21249,
+        "CU_NAME": "WALEYO",
+        "CU_NO": "013",
+        "GEOCODE": "07072310013",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "10",
+        "WARD_NAME": "MUSULA",
+        "LATITUDE": -6.812548,
+        "LONGITUDE": 142.911652,
+        "REGHH": 19,
+        "TOTPOP2000": 100,
+        "MALE2000": 50,
+        "FEMALE2000": 50,
+        "POP2008": 139,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072310013,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9316450002167,
+          -6.81185499970843
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21250,
+        "CU_NAME": "MUSULA",
+        "CU_NO": "015",
+        "GEOCODE": "07072310015",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "10",
+        "WARD_NAME": "MUSULA",
+        "LATITUDE": -6.812767,
+        "LONGITUDE": 142.897673,
+        "REGHH": 22,
+        "TOTPOP2000": 169,
+        "MALE2000": 89,
+        "FEMALE2000": 80,
+        "POP2008": 234,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072310015,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18625,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.17837900039058,
+          -3.487078000449287
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18625,
+        "CU_NAME": "WAULI",
+        "CU_NO": "003",
+        "GEOCODE": "15020708003",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "08",
+        "WARD_NAME": "MAMBEL/PIMON",
+        "LATITUDE": -3.486463,
+        "LONGITUDE": 142.177295,
+        "REGHH": 20,
+        "TOTPOP2000": 104,
+        "MALE2000": 49,
+        "FEMALE2000": 55,
+        "POP2008": 127,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020708003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18626,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.17684699988922,
+          -3.5109519997349707
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18626,
+        "CU_NAME": "MAMBEL",
+        "CU_NO": "007",
+        "GEOCODE": "15020708007",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "08",
+        "WARD_NAME": "MAMBEL/PIMON",
+        "LATITUDE": -3.512331,
+        "LONGITUDE": 142.175766,
+        "REGHH": 19,
+        "TOTPOP2000": 103,
+        "MALE2000": 50,
+        "FEMALE2000": 53,
+        "POP2008": 126,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020708007,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18627,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1747850001277,
+          -3.5053830001253345
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18627,
+        "CU_NAME": "BIMON",
+        "CU_NO": "010",
+        "GEOCODE": "15020708010",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "08",
+        "WARD_NAME": "MAMBEL/PIMON",
+        "LATITUDE": -3.506762,
+        "LONGITUDE": 142.173704,
+        "REGHH": 21,
+        "TOTPOP2000": 115,
+        "MALE2000": 57,
+        "FEMALE2000": 58,
+        "POP2008": 139,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020708010,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18628,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.17558099996324,
+          -3.508235000344939
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18628,
+        "CU_NAME": "BIMON C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "15020708401",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "08",
+        "WARD_NAME": "MAMBEL/PIMON",
+        "LATITUDE": -3.509614,
+        "LONGITUDE": 142.1745,
+        "REGHH": 4,
+        "TOTPOP2000": 16,
+        "MALE2000": 11,
+        "FEMALE2000": 5,
+        "POP2008": 16,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020708401,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

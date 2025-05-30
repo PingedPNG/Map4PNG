@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.29825000003757,
+          -8.733349999702682
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1214,
+        "CU_NAME": "ADUAI",
+        "CU_NO": "001",
+        "GEOCODE": "03020608001",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "ADUAI",
+        "LATITUDE": -8.734793,
+        "LONGITUDE": 147.297225,
+        "REGHH": 75,
+        "TOTPOP2000": 329,
+        "MALE2000": 175,
+        "FEMALE2000": 154,
+        "POP2008": 395,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020608001,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2944449999369,
+          -8.748697999712874
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1215,
+        "CU_NAME": "HENENDE",
+        "CU_NO": "002",
+        "GEOCODE": "03020608002",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "ADUAI",
+        "LATITUDE": -8.750141,
+        "LONGITUDE": 147.29342,
+        "REGHH": 39,
+        "TOTPOP2000": 209,
+        "MALE2000": 102,
+        "FEMALE2000": 107,
+        "POP2008": 250,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020608002,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.28558599969415,
+          -8.779938999685044
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1216,
+        "CU_NAME": "IRITUMU",
+        "CU_NO": "003",
+        "GEOCODE": "03020608003",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "ADUAI",
+        "LATITUDE": -8.788346,
+        "LONGITUDE": 147.282974,
+        "REGHH": 18,
+        "TOTPOP2000": 89,
+        "MALE2000": 38,
+        "FEMALE2000": 51,
+        "POP2008": 105,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020608003,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3019020002772,
+          -8.68601100020743
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1217,
+        "CU_NAME": "KAMBISE",
+        "CU_NO": "008",
+        "GEOCODE": "03020608008",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "ADUAI",
+        "LATITUDE": -8.687454,
+        "LONGITUDE": 147.300877,
+        "REGHH": 103,
+        "TOTPOP2000": 476,
+        "MALE2000": 232,
+        "FEMALE2000": 244,
+        "POP2008": 571,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020608008,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3247350001202,
+          -8.65610999997648
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1218,
+        "CU_NAME": "SISIARENDA",
+        "CU_NO": "016",
+        "GEOCODE": "03020608016",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "ADUAI",
+        "LATITUDE": -8.657552,
+        "LONGITUDE": 147.323709,
+        "REGHH": 19,
+        "TOTPOP2000": 76,
+        "MALE2000": 39,
+        "FEMALE2000": 37,
+        "POP2008": 92,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020608016,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1219,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3398959996008,
+          -8.648277000283315
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1219,
+        "CU_NAME": "SUMBI",
+        "CU_NO": "017",
+        "GEOCODE": "03020608017",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "ADUAI",
+        "LATITUDE": -8.649719,
+        "LONGITUDE": 147.338872,
+        "REGHH": 71,
+        "TOTPOP2000": 304,
+        "MALE2000": 145,
+        "FEMALE2000": 159,
+        "POP2008": 364,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020608017,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

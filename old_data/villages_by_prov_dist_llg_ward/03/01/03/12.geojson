@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1013,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.4370229998117,
+          -10.189651999640034
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1013,
+        "CU_NAME": "TUTUBU",
+        "CU_NO": "040",
+        "GEOCODE": "03010312040",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "TUTUBU",
+        "LATITUDE": -10.191113,
+        "LONGITUDE": 148.43601,
+        "REGHH": 32,
+        "TOTPOP2000": 239,
+        "MALE2000": 124,
+        "FEMALE2000": 115,
+        "POP2008": 286,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010312040,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1014,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.44354700029385,
+          -10.154384000121468
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1014,
+        "CU_NAME": "HANAMOA",
+        "CU_NO": "503",
+        "GEOCODE": "03010312503",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "TUTUBU",
+        "LATITUDE": -10.155844,
+        "LONGITUDE": 148.442534,
+        "REGHH": 4,
+        "TOTPOP2000": 27,
+        "MALE2000": 15,
+        "FEMALE2000": 12,
+        "POP2008": 35,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010312503,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

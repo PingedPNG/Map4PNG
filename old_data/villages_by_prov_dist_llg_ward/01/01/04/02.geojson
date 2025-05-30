@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15169,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.41565000034734,
+          -6.780241999668476
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15169,
+        "CU_NAME": "BUSEKI",
+        "CU_NO": "003",
+        "GEOCODE": "01010402003",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "02",
+        "WARD_NAME": "BUSEKI",
+        "LATITUDE": -6.786839,
+        "LONGITUDE": 141.409375,
+        "REGHH": 31,
+        "TOTPOP2000": 187,
+        "MALE2000": 84,
+        "FEMALE2000": 103,
+        "POP2008": 242,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010402003,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

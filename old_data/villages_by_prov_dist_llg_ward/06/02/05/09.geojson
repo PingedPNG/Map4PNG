@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13457,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.73930700041785,
+          -9.00398300011534
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13457,
+        "CU_NAME": "ALOLA",
+        "CU_NO": "002",
+        "GEOCODE": "06020509002",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "09",
+        "WARD_NAME": "ALOLA",
+        "LATITUDE": -9.00543,
+        "LONGITUDE": 147.738287,
+        "REGHH": 11,
+        "TOTPOP2000": 55,
+        "MALE2000": 28,
+        "FEMALE2000": 27,
+        "POP2008": 70,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020509002,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13458,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.73328299961076,
+          -8.966672999958917
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13458,
+        "CU_NAME": "ISURAVA",
+        "CU_NO": "004",
+        "GEOCODE": "06020509004",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "09",
+        "WARD_NAME": "ALOLA",
+        "LATITUDE": -8.96812,
+        "LONGITUDE": 147.732263,
+        "REGHH": 9,
+        "TOTPOP2000": 45,
+        "MALE2000": 23,
+        "FEMALE2000": 22,
+        "POP2008": 53,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020509004,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

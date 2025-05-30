@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8123,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.62848900036715,
+          -5.092434999675447
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8123,
+        "CU_NAME": "BAGUPI",
+        "CU_NO": "003",
+        "GEOCODE": "13020411003",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -5.092073,
+        "LONGITUDE": 145.629921,
+        "REGHH": 8,
+        "TOTPOP2000": 51,
+        "MALE2000": 29,
+        "FEMALE2000": 22,
+        "POP2008": 62,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020411003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8124,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7228360002813,
+          -5.367660999655357
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8124,
+        "CU_NAME": "ITAPI",
+        "CU_NO": "004",
+        "GEOCODE": "13020411004",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -5.369065,
+        "LONGITUDE": 145.721797,
+        "REGHH": 10,
+        "TOTPOP2000": 67,
+        "MALE2000": 40,
+        "FEMALE2000": 27,
+        "POP2008": 83,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020411004,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8125,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6316990000089,
+          -5.063028999788457
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8125,
+        "CU_NAME": "NAKE",
+        "CU_NO": "005",
+        "GEOCODE": "13020411005",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -5.073614,
+        "LONGITUDE": 145.626055,
+        "REGHH": 7,
+        "TOTPOP2000": 58,
+        "MALE2000": 23,
+        "FEMALE2000": 35,
+        "POP2008": 74,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020411005,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5836370004473,
+          -5.082859999689163
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8126,
+        "CU_NAME": "SARUGA",
+        "CU_NO": "006",
+        "GEOCODE": "13020411006",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -5.071499,
+        "LONGITUDE": 145.568518,
+        "REGHH": 19,
+        "TOTPOP2000": 104,
+        "MALE2000": 49,
+        "FEMALE2000": 55,
+        "POP2008": 128,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020411006,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

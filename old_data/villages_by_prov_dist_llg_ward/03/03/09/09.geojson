@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1464,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.61475599978962,
+          -9.453892999562242
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1464,
+        "CU_NAME": "DOE",
+        "CU_NO": "005",
+        "GEOCODE": "03030909005",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "DOE",
+        "LATITUDE": -9.455344,
+        "LONGITUDE": 147.613733,
+        "REGHH": 24,
+        "TOTPOP2000": 158,
+        "MALE2000": 89,
+        "FEMALE2000": 69,
+        "POP2008": 190,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030909005,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.59802699994611,
+          -9.43630799981429
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1465,
+        "CU_NAME": "RUBURU",
+        "CU_NO": "017",
+        "GEOCODE": "03030909017",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "DOE",
+        "LATITUDE": -9.436422,
+        "LONGITUDE": 147.599302,
+        "REGHH": 8,
+        "TOTPOP2000": 47,
+        "MALE2000": 24,
+        "FEMALE2000": 23,
+        "POP2008": 55,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030909017,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.55893000011952,
+          -9.402305000175545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1466,
+        "CU_NAME": "BEREGORO",
+        "CU_NO": "018",
+        "GEOCODE": "03030909018",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "DOE",
+        "LATITUDE": -9.403755,
+        "LONGITUDE": 147.557907,
+        "REGHH": 22,
+        "TOTPOP2000": 99,
+        "MALE2000": 56,
+        "FEMALE2000": 43,
+        "POP2008": 118,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030909018,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1467,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.61854299995957,
+          -9.460634000158961
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1467,
+        "CU_NAME": "LOCKA",
+        "CU_NO": "019",
+        "GEOCODE": "03030909019",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "DOE",
+        "LATITUDE": -9.458282,
+        "LONGITUDE": 147.615213,
+        "REGHH": 6,
+        "TOTPOP2000": 31,
+        "MALE2000": 15,
+        "FEMALE2000": 16,
+        "POP2008": 39,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030909019,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1468,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6012850000028,
+          -9.431071000226439
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1468,
+        "CU_NAME": "EBI",
+        "CU_NO": "401",
+        "GEOCODE": "03030909401",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "DOE",
+        "LATITUDE": -9.434802,
+        "LONGITUDE": 147.602375,
+        "REGHH": 3,
+        "TOTPOP2000": 13,
+        "MALE2000": 6,
+        "FEMALE2000": 7,
+        "POP2008": 13,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030909401,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1469,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5951979998879,
+          -9.429107999634425
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1469,
+        "CU_NAME": "DARADAE ESTATE",
+        "CU_NO": "504",
+        "GEOCODE": "03030909504",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "DOE",
+        "LATITUDE": -9.430559,
+        "LONGITUDE": 147.594175,
+        "REGHH": 7,
+        "TOTPOP2000": 52,
+        "MALE2000": 28,
+        "FEMALE2000": 24,
+        "POP2008": 60,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030909504,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

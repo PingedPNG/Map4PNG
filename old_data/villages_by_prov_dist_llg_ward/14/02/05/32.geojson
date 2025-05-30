@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6323,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.49774999986266,
+          -4.0280589998229175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6323,
+        "CU_NAME": "SAUI",
+        "CU_NO": "008",
+        "GEOCODE": "14020532008",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "32",
+        "WARD_NAME": "SAUI",
+        "LATITUDE": -4.029642,
+        "LONGITUDE": 143.496516,
+        "REGHH": 8,
+        "TOTPOP2000": 45,
+        "MALE2000": 21,
+        "FEMALE2000": 24,
+        "POP2008": 53,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020532008,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.50330499972597,
+          -4.1148819999042985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6324,
+        "CU_NAME": "SUIMBO",
+        "CU_NO": "010",
+        "GEOCODE": "14020532010",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "32",
+        "WARD_NAME": "SAUI",
+        "LATITUDE": -4.116466,
+        "LONGITUDE": 143.502071,
+        "REGHH": 22,
+        "TOTPOP2000": 149,
+        "MALE2000": 76,
+        "FEMALE2000": 73,
+        "POP2008": 177,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020532010,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6325,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.49424400006058,
+          -4.049602999578724
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6325,
+        "CU_NAME": "NAMUK",
+        "CU_NO": "013",
+        "GEOCODE": "14020532013",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "32",
+        "WARD_NAME": "SAUI",
+        "LATITUDE": -4.051186,
+        "LONGITUDE": 143.49301,
+        "REGHH": 16,
+        "TOTPOP2000": 107,
+        "MALE2000": 46,
+        "FEMALE2000": 61,
+        "POP2008": 127,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020532013,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

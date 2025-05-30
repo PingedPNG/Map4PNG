@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14193,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84496800017314,
+          -6.543019000326581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14193,
+        "CU_NAME": "NAIYO 2 (YURO)",
+        "CU_NO": "007",
+        "GEOCODE": "10030701007",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "01",
+        "WARD_NAME": "YURO. 1",
+        "LATITUDE": -6.544434,
+        "LONGITUDE": 144.843914,
+        "REGHH": 78,
+        "TOTPOP2000": 548,
+        "MALE2000": 255,
+        "FEMALE2000": 293,
+        "POP2008": 632,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030701007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14194,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84887000025037,
+          -6.538618999766982
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14194,
+        "CU_NAME": "NAIYO 1",
+        "CU_NO": "008",
+        "GEOCODE": "10030701008",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "01",
+        "WARD_NAME": "YURO. 1",
+        "LATITUDE": -6.540034,
+        "LONGITUDE": 144.847818,
+        "REGHH": 38,
+        "TOTPOP2000": 257,
+        "MALE2000": 137,
+        "FEMALE2000": 120,
+        "POP2008": 297,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030701008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14195,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84137299986412,
+          -6.541385999664101
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14195,
+        "CU_NAME": "YAWIYO",
+        "CU_NO": "009",
+        "GEOCODE": "10030701009",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "01",
+        "WARD_NAME": "YURO. 1",
+        "LATITUDE": -6.542801,
+        "LONGITUDE": 144.84032,
+        "REGHH": 79,
+        "TOTPOP2000": 532,
+        "MALE2000": 293,
+        "FEMALE2000": 239,
+        "POP2008": 614,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030701009,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

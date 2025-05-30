@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9798,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.08682244410056,
+          -10.637701121009854
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9798,
+        "CU_NAME": "SAGA'AHO",
+        "CU_NO": "021",
+        "GEOCODE": "05010615021",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "SAGA'AHO",
+        "LATITUDE": -10.636173,
+        "LONGITUDE": 150.084261,
+        "REGHH": 54,
+        "TOTPOP2000": 294,
+        "MALE2000": 167,
+        "FEMALE2000": 127,
+        "POP2008": 359,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010615021,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

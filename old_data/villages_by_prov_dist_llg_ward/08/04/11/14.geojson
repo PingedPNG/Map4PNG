@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5795,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7037360003162,
+          -5.445815000162099
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5795,
+        "CU_NAME": "TORE",
+        "CU_NO": "010",
+        "GEOCODE": "08041114010",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "14",
+        "WARD_NAME": "TORE",
+        "LATITUDE": -5.447216,
+        "LONGITUDE": 143.702671,
+        "REGHH": 119,
+        "TOTPOP2000": 731,
+        "MALE2000": 353,
+        "FEMALE2000": 378,
+        "POP2008": 918,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041114010,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5796,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71037399976035,
+          -5.454278000129534
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5796,
+        "CU_NAME": "MAJOB",
+        "CU_NO": "011",
+        "GEOCODE": "08041114011",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "14",
+        "WARD_NAME": "TORE",
+        "LATITUDE": -5.456596,
+        "LONGITUDE": 143.704406,
+        "REGHH": 65,
+        "TOTPOP2000": 362,
+        "MALE2000": 176,
+        "FEMALE2000": 186,
+        "POP2008": 454,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041114011,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5797,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.70207900034563,
+          -5.456527000420692
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5797,
+        "CU_NAME": "LYANO",
+        "CU_NO": "012",
+        "GEOCODE": "08041114012",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "14",
+        "WARD_NAME": "TORE",
+        "LATITUDE": -5.457928,
+        "LONGITUDE": 143.701014,
+        "REGHH": 58,
+        "TOTPOP2000": 326,
+        "MALE2000": 180,
+        "FEMALE2000": 146,
+        "POP2008": 410,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041114012,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9587,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.38753299984808,
+          -9.925929999569803
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9587,
+        "CU_NAME": "GAUNANI",
+        "CU_NO": "007",
+        "GEOCODE": "05010201007",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "01",
+        "WARD_NAME": "GAUNANI",
+        "LATITUDE": -9.927391,
+        "LONGITUDE": 149.386534,
+        "REGHH": 63,
+        "TOTPOP2000": 345,
+        "MALE2000": 185,
+        "FEMALE2000": 160,
+        "POP2008": 421,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010201007,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

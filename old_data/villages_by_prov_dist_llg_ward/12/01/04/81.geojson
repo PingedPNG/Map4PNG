@@ -1,0 +1,357 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10549,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.72138999994866,
+          -7.342942999719639
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10549,
+        "CU_NAME": "AIRSTRIP - DIST. OFFICE",
+        "CU_NO": "001",
+        "GEOCODE": "12010481001",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "81",
+        "WARD_NAME": "WAU URBAN",
+        "LATITUDE": -7.34437,
+        "LONGITUDE": 146.720361,
+        "REGHH": 35,
+        "TOTPOP2000": 216,
+        "MALE2000": 110,
+        "FEMALE2000": 106,
+        "POP2008": 269,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010481001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10550,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.72273099973586,
+          -7.334218000260478
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10550,
+        "CU_NAME": "TOWN - MARKET",
+        "CU_NO": "002",
+        "GEOCODE": "12010481002",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "81",
+        "WARD_NAME": "WAU URBAN",
+        "LATITUDE": -7.335645,
+        "LONGITUDE": 146.721702,
+        "REGHH": 6,
+        "TOTPOP2000": 35,
+        "MALE2000": 19,
+        "FEMALE2000": 16,
+        "POP2008": 43,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010481002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.72004900016134,
+          -7.341718999931857
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10551,
+        "CU_NAME": "POLICE BARRACKS LAB. COMP.",
+        "CU_NO": "003",
+        "GEOCODE": "12010481003",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "81",
+        "WARD_NAME": "WAU URBAN",
+        "LATITUDE": -7.343146,
+        "LONGITUDE": 146.71902,
+        "REGHH": 61,
+        "TOTPOP2000": 442,
+        "MALE2000": 243,
+        "FEMALE2000": 199,
+        "POP2008": 551,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010481003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.71865499972853,
+          -7.333474000124966
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10552,
+        "CU_NAME": "SAWDUST COMP. KORANGA RD",
+        "CU_NO": "004",
+        "GEOCODE": "12010481004",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "81",
+        "WARD_NAME": "WAU URBAN",
+        "LATITUDE": -7.334901,
+        "LONGITUDE": 146.717626,
+        "REGHH": 70,
+        "TOTPOP2000": 511,
+        "MALE2000": 258,
+        "FEMALE2000": 253,
+        "POP2008": 637,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010481004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10553,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.71929799970303,
+          -7.336079999792105
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10553,
+        "CU_NAME": "MARIAN HILL COMM. SCHOOL",
+        "CU_NO": "005",
+        "GEOCODE": "12010481005",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "81",
+        "WARD_NAME": "WAU URBAN",
+        "LATITUDE": -7.337507,
+        "LONGITUDE": 146.718269,
+        "REGHH": 32,
+        "TOTPOP2000": 192,
+        "MALE2000": 99,
+        "FEMALE2000": 93,
+        "POP2008": 240,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010481005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10554,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.70974699992416,
+          -7.338567000266778
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10554,
+        "CU_NAME": "WAU HOSPITAL EDDIE ROAD",
+        "CU_NO": "006",
+        "GEOCODE": "12010481006",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "81",
+        "WARD_NAME": "WAU URBAN",
+        "LATITUDE": -7.341391,
+        "LONGITUDE": 146.712209,
+        "REGHH": 29,
+        "TOTPOP2000": 189,
+        "MALE2000": 91,
+        "FEMALE2000": 98,
+        "POP2008": 235,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010481006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10555,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.71221899970715,
+          -7.335974000299814
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10555,
+        "CU_NAME": "MAUS PIPE - EDDIE ROAD",
+        "CU_NO": "007",
+        "GEOCODE": "12010481007",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "81",
+        "WARD_NAME": "WAU URBAN",
+        "LATITUDE": -7.337401,
+        "LONGITUDE": 146.711189,
+        "REGHH": 103,
+        "TOTPOP2000": 690,
+        "MALE2000": 350,
+        "FEMALE2000": 340,
+        "POP2008": 860,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010481007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10556,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7153300001794,
+          -7.3348570000504765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10556,
+        "CU_NAME": "PRYKEST - WAU HOTEL",
+        "CU_NO": "008",
+        "GEOCODE": "12010481008",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "81",
+        "WARD_NAME": "WAU URBAN",
+        "LATITUDE": -7.336284,
+        "LONGITUDE": 146.7143,
+        "REGHH": 80,
+        "TOTPOP2000": 540,
+        "MALE2000": 286,
+        "FEMALE2000": 254,
+        "POP2008": 673,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010481008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10557,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.71945899993295,
+          -7.329909000300063
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10557,
+        "CU_NAME": "KORANGA ROAD",
+        "CU_NO": "009",
+        "GEOCODE": "12010481009",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "81",
+        "WARD_NAME": "WAU URBAN",
+        "LATITUDE": -7.331336,
+        "LONGITUDE": 146.71843,
+        "REGHH": 23,
+        "TOTPOP2000": 198,
+        "MALE2000": 99,
+        "FEMALE2000": 99,
+        "POP2008": 248,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010481009,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10558,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.71581199992397,
+          -7.330228999768451
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10558,
+        "CU_NAME": "MOROBE SETTLEMENT",
+        "CU_NO": "100",
+        "GEOCODE": "12010481100",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "81",
+        "WARD_NAME": "WAU URBAN",
+        "LATITUDE": -7.331656,
+        "LONGITUDE": 146.714783,
+        "REGHH": 21,
+        "TOTPOP2000": 166,
+        "MALE2000": 91,
+        "FEMALE2000": 75,
+        "POP2008": 207,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010481100,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10559,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.72219500019912,
+          -7.318843999950616
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10559,
+        "CU_NAME": "KURANGA NO'S 1 & 2 S'MENT",
+        "CU_NO": "600",
+        "GEOCODE": "12010481600",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "81",
+        "WARD_NAME": "WAU URBAN",
+        "LATITUDE": -7.320271,
+        "LONGITUDE": 146.721166,
+        "REGHH": 190,
+        "TOTPOP2000": 1180,
+        "MALE2000": 644,
+        "FEMALE2000": 536,
+        "POP2008": 1472,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010481600,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

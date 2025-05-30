@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1535,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6219610003999,
+          -8.526392000290514
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1535,
+        "CU_NAME": "BEBEO",
+        "CU_NO": "003",
+        "GEOCODE": "03031009003",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "BEBEO",
+        "LATITUDE": -8.527831,
+        "LONGITUDE": 146.620927,
+        "REGHH": 43,
+        "TOTPOP2000": 282,
+        "MALE2000": 152,
+        "FEMALE2000": 130,
+        "POP2008": 338,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031009003,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1536,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.57907999964232,
+          -8.558043000284215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1536,
+        "CU_NAME": "ORIROPETANA",
+        "CU_NO": "013",
+        "GEOCODE": "03031009013",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "BEBEO",
+        "LATITUDE": -8.559482,
+        "LONGITUDE": 146.578046,
+        "REGHH": 96,
+        "TOTPOP2000": 673,
+        "MALE2000": 353,
+        "FEMALE2000": 320,
+        "POP2008": 807,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031009013,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

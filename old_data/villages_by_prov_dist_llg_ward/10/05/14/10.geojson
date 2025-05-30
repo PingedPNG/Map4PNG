@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14667,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.09570400033942,
+          -5.886655999574657
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14667,
+        "CU_NAME": "DANBAGL",
+        "CU_NO": "003",
+        "GEOCODE": "10051410003",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "10",
+        "WARD_NAME": "INAUGL/KUNAIKU",
+        "LATITUDE": -5.888064,
+        "LONGITUDE": 145.094656,
+        "REGHH": 48,
+        "TOTPOP2000": 226,
+        "MALE2000": 105,
+        "FEMALE2000": 121,
+        "POP2008": 260,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051410003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14668,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.09146900019425,
+          -5.894826000419528
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14668,
+        "CU_NAME": "SITNIGLE/KUNAIKU",
+        "CU_NO": "004",
+        "GEOCODE": "10051410004",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "10",
+        "WARD_NAME": "INAUGL/KUNAIKU",
+        "LATITUDE": -5.896235,
+        "LONGITUDE": 145.090421,
+        "REGHH": 34,
+        "TOTPOP2000": 136,
+        "MALE2000": 77,
+        "FEMALE2000": 59,
+        "POP2008": 158,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051410004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14669,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1010630001574,
+          -5.886869999550811
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14669,
+        "CU_NAME": "AMAGE",
+        "CU_NO": "005",
+        "GEOCODE": "10051410005",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "10",
+        "WARD_NAME": "INAUGL/KUNAIKU",
+        "LATITUDE": -5.888277,
+        "LONGITUDE": 145.100015,
+        "REGHH": 42,
+        "TOTPOP2000": 319,
+        "MALE2000": 177,
+        "FEMALE2000": 142,
+        "POP2008": 367,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051410005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14670,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.06807100037645,
+          -5.909350000202323
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14670,
+        "CU_NAME": "ENGEREL",
+        "CU_NO": "006",
+        "GEOCODE": "10051410006",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "10",
+        "WARD_NAME": "INAUGL/KUNAIKU",
+        "LATITUDE": -5.910759,
+        "LONGITUDE": 145.067023,
+        "REGHH": 21,
+        "TOTPOP2000": 89,
+        "MALE2000": 42,
+        "FEMALE2000": 47,
+        "POP2008": 105,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051410006,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

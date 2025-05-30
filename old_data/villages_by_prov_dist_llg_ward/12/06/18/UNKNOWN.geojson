@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 31482,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2423466157038,
+          -6.344832853253536
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31482,
+        "CU_NAME": "Markham Valley High School",
+        "CU_NO": "883",
+        "GEOCODE": "883",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": -6.344832853,
+        "LONGITUDE": 146.242346616,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 883,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31483,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.28111492771177,
+          -6.32013658223741
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31483,
+        "CU_NAME": "Marangints",
+        "CU_NO": "882",
+        "GEOCODE": "882",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": -6.320136582,
+        "LONGITUDE": 146.281114928,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 882,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

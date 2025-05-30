@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4462,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.8372259996802,
+          -4.483461999871338
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4462,
+        "CU_NAME": "ALAKASAM",
+        "CU_NO": "016",
+        "GEOCODE": "18010201016",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "01",
+        "WARD_NAME": "ALAKASAM",
+        "LATITUDE": -4.484864,
+        "LONGITUDE": 151.836275,
+        "REGHH": 91,
+        "TOTPOP2000": 598,
+        "MALE2000": 318,
+        "FEMALE2000": 280,
+        "POP2008": 728,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010201016,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8650,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8169419998735,
+          -5.4914429998945025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8650,
+        "CU_NAME": "BONGU",
+        "CU_NO": "010",
+        "GEOCODE": "13041004010",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "WARD 4",
+        "LATITUDE": -5.489942,
+        "LONGITUDE": 145.816453,
+        "REGHH": 150,
+        "TOTPOP2000": 854,
+        "MALE2000": 475,
+        "FEMALE2000": 379,
+        "POP2008": 1057,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041004010,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

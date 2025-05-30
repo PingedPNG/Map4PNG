@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9536,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.75201500009223,
+          -2.058569999805627
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9536,
+        "CU_NAME": "TONG",
+        "CU_NO": "016",
+        "GEOCODE": "16011203016",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "12",
+        "WARD_NO": "03",
+        "WARD_NAME": "TONG",
+        "LATITUDE": -2.059402,
+        "LONGITUDE": 147.74728,
+        "REGHH": 32,
+        "TOTPOP2000": 177,
+        "MALE2000": 86,
+        "FEMALE2000": 91,
+        "POP2008": 218,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16011203016,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

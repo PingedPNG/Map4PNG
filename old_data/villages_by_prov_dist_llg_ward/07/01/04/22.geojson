@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19448,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.18984399990075,
+          -6.471416999794656
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19448,
+        "CU_NAME": "MARAPINI",
+        "CU_NO": "016",
+        "GEOCODE": "07010422016",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "22",
+        "WARD_NAME": "MARAPINI",
+        "LATITUDE": -6.474436,
+        "LONGITUDE": 144.188534,
+        "REGHH": 80,
+        "TOTPOP2000": 458,
+        "MALE2000": 252,
+        "FEMALE2000": 206,
+        "POP2008": 638,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010422016,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19449,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1880879998614,
+          -6.472840999812263
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19449,
+        "CU_NAME": "YOMOPINI",
+        "CU_NO": "017",
+        "GEOCODE": "07010422017",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "22",
+        "WARD_NAME": "MARAPINI",
+        "LATITUDE": -6.474436,
+        "LONGITUDE": 144.188534,
+        "REGHH": 20,
+        "TOTPOP2000": 103,
+        "MALE2000": 62,
+        "FEMALE2000": 41,
+        "POP2008": 143,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010422017,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19450,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1868450000967,
+          -6.471434999725432
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19450,
+        "CU_NAME": "KARAPE",
+        "CU_NO": "018",
+        "GEOCODE": "07010422018",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "22",
+        "WARD_NAME": "MARAPINI",
+        "LATITUDE": -6.474436,
+        "LONGITUDE": 144.188534,
+        "REGHH": 28,
+        "TOTPOP2000": 191,
+        "MALE2000": 100,
+        "FEMALE2000": 91,
+        "POP2008": 265,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010422018,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19451,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.18772300011642,
+          -6.470900000234792
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19451,
+        "CU_NAME": "TURUMINI",
+        "CU_NO": "019",
+        "GEOCODE": "07010422019",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "22",
+        "WARD_NAME": "MARAPINI",
+        "LATITUDE": -6.474436,
+        "LONGITUDE": 144.188534,
+        "REGHH": 17,
+        "TOTPOP2000": 86,
+        "MALE2000": 51,
+        "FEMALE2000": 35,
+        "POP2008": 120,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010422019,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19452,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.18737200011776,
+          -6.47566899982445
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19452,
+        "CU_NAME": "WIRE",
+        "CU_NO": "020",
+        "GEOCODE": "07010422020",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "22",
+        "WARD_NAME": "MARAPINI",
+        "LATITUDE": -6.474436,
+        "LONGITUDE": 144.188534,
+        "REGHH": 65,
+        "TOTPOP2000": 322,
+        "MALE2000": 177,
+        "FEMALE2000": 145,
+        "POP2008": 448,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010422020,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

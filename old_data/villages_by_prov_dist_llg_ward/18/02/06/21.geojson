@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4676,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.36122400008765,
+          -4.378046000322627
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4676,
+        "CU_NAME": "MALAKUNA",
+        "CU_NO": "020",
+        "GEOCODE": "18020621020",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "21",
+        "WARD_NAME": "MALAKUNA",
+        "LATITUDE": -4.379448,
+        "LONGITUDE": 152.360281,
+        "REGHH": 80,
+        "TOTPOP2000": 493,
+        "MALE2000": 241,
+        "FEMALE2000": 252,
+        "POP2008": 601,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020621020,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.39307999964228,
+          -4.352292999822055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4677,
+        "CU_NAME": "KABAGAP (KABAGAP)",
+        "CU_NO": "021",
+        "GEOCODE": "18020621021",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "21",
+        "WARD_NAME": "MALAKUNA",
+        "LATITUDE": -4.353694,
+        "LONGITUDE": 152.392137,
+        "REGHH": 40,
+        "TOTPOP2000": 237,
+        "MALE2000": 139,
+        "FEMALE2000": 98,
+        "POP2008": 289,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020621021,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4678,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.3595680001631,
+          -4.359394999979202
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4678,
+        "CU_NAME": "TOBURUTUE PLNT",
+        "CU_NO": "519",
+        "GEOCODE": "18020621519",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "21",
+        "WARD_NAME": "MALAKUNA",
+        "LATITUDE": -4.360796,
+        "LONGITUDE": 152.358625,
+        "REGHH": 38,
+        "TOTPOP2000": 242,
+        "MALE2000": 130,
+        "FEMALE2000": 112,
+        "POP2008": 295,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020621519,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4679,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.35364300032427,
+          -4.37390700010792
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4679,
+        "CU_NAME": "BITARUGA",
+        "CU_NO": "533",
+        "GEOCODE": "18020621533",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "21",
+        "WARD_NAME": "MALAKUNA",
+        "LATITUDE": -4.375308,
+        "LONGITUDE": 152.3527,
+        "REGHH": 16,
+        "TOTPOP2000": 97,
+        "MALE2000": 53,
+        "FEMALE2000": 44,
+        "POP2008": 119,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020621533,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

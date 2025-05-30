@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.21392200000037,
+          -3.1705020001671187
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18285,
+        "CU_NAME": "PORO SETTLEMENT",
+        "CU_NO": "010",
+        "GEOCODE": "15010108010",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "PORO SETTLEMENT",
+        "LATITUDE": -3.166081,
+        "LONGITUDE": 142.205616,
+        "REGHH": 167,
+        "TOTPOP2000": 1184,
+        "MALE2000": 635,
+        "FEMALE2000": 549,
+        "POP2008": 1432,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010108010,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5880,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9800180004304,
+          -5.564950000142346
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5880,
+        "CU_NAME": "AIPAND",
+        "CU_NO": "001",
+        "GEOCODE": "08051303001",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "03",
+        "WARD_NAME": "AIPAND",
+        "LATITUDE": -5.566353,
+        "LONGITUDE": 143.978956,
+        "REGHH": 54,
+        "TOTPOP2000": 329,
+        "MALE2000": 168,
+        "FEMALE2000": 161,
+        "POP2008": 414,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051303001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5881,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.94678100014312,
+          -5.615666999832115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5881,
+        "CU_NAME": "KAIMANDA",
+        "CU_NO": "002",
+        "GEOCODE": "08051303002",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "03",
+        "WARD_NAME": "AIPAND",
+        "LATITUDE": -5.617072,
+        "LONGITUDE": 143.945719,
+        "REGHH": 39,
+        "TOTPOP2000": 166,
+        "MALE2000": 86,
+        "FEMALE2000": 80,
+        "POP2008": 209,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051303002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

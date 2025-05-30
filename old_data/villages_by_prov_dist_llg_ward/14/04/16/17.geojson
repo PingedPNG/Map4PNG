@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6894,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5584240000676,
+          -3.400252000229557
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6894,
+        "CU_NAME": "MUSHU 1",
+        "CU_NO": "010",
+        "GEOCODE": "14041617010",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "17",
+        "WARD_NAME": "MUSHU 1",
+        "LATITUDE": -3.401828,
+        "LONGITUDE": 143.557191,
+        "REGHH": 50,
+        "TOTPOP2000": 364,
+        "MALE2000": 173,
+        "FEMALE2000": 191,
+        "POP2008": 433,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041617010,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6895,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.54287499978147,
+          -3.38611600035307
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6895,
+        "CU_NAME": "SUBABRU",
+        "CU_NO": "015",
+        "GEOCODE": "14041617015",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "17",
+        "WARD_NAME": "MUSHU 1",
+        "LATITUDE": -3.384098,
+        "LONGITUDE": 143.541888,
+        "REGHH": 28,
+        "TOTPOP2000": 160,
+        "MALE2000": 75,
+        "FEMALE2000": 85,
+        "POP2008": 192,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041617015,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6896,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.55395499992335,
+          -3.4171040003492976
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6896,
+        "CU_NAME": "BAUSUM",
+        "CU_NO": "054",
+        "GEOCODE": "14041617054",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "17",
+        "WARD_NAME": "MUSHU 1",
+        "LATITUDE": -3.41868,
+        "LONGITUDE": 143.552722,
+        "REGHH": 23,
+        "TOTPOP2000": 92,
+        "MALE2000": 54,
+        "FEMALE2000": 38,
+        "POP2008": 108,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041617054,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6897,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.56061400033593,
+          -3.424119000091707
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6897,
+        "CU_NAME": "WORAK",
+        "CU_NO": "055",
+        "GEOCODE": "14041617055",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "17",
+        "WARD_NAME": "MUSHU 1",
+        "LATITUDE": -3.425695,
+        "LONGITUDE": 143.559381,
+        "REGHH": 17,
+        "TOTPOP2000": 83,
+        "MALE2000": 47,
+        "FEMALE2000": 36,
+        "POP2008": 99,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041617055,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6898,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.58244900002137,
+          -3.4095770003781922
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6898,
+        "CU_NAME": "MUSHU COM/SCH",
+        "CU_NO": "402",
+        "GEOCODE": "14041617402",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "17",
+        "WARD_NAME": "MUSHU 1",
+        "LATITUDE": -3.411153,
+        "LONGITUDE": 143.581216,
+        "REGHH": 1,
+        "TOTPOP2000": 6,
+        "MALE2000": 2,
+        "FEMALE2000": 4,
+        "POP2008": 6,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041617402,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

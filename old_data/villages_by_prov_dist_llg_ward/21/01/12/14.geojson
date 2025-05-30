@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20274,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8004750001212,
+          -5.973528000117085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20274,
+        "CU_NAME": "LAYAKO",
+        "CU_NO": "014",
+        "GEOCODE": "07041214014",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "14",
+        "WARD_NAME": "LAYAKO",
+        "LATITUDE": -5.974823,
+        "LONGITUDE": 142.799745,
+        "REGHH": 60,
+        "TOTPOP2000": 420,
+        "MALE2000": 252,
+        "FEMALE2000": 168,
+        "POP2008": 585,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041214014,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20275,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7971970000416,
+          -5.972226000329613
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20275,
+        "CU_NAME": "YAGU HANAMANDA",
+        "CU_NO": "028",
+        "GEOCODE": "07041214028",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "14",
+        "WARD_NAME": "LAYAKO",
+        "LATITUDE": -5.974823,
+        "LONGITUDE": 142.799745,
+        "REGHH": 40,
+        "TOTPOP2000": 406,
+        "MALE2000": 224,
+        "FEMALE2000": 182,
+        "POP2008": 565,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041214028,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20276,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.79685799969695,
+          -5.968617000274321
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20276,
+        "CU_NAME": "TIABINI IBIA",
+        "CU_NO": "029",
+        "GEOCODE": "07041214029",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "14",
+        "WARD_NAME": "LAYAKO",
+        "LATITUDE": -5.974823,
+        "LONGITUDE": 142.799745,
+        "REGHH": 50,
+        "TOTPOP2000": 390,
+        "MALE2000": 209,
+        "FEMALE2000": 181,
+        "POP2008": 542,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041214029,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.79424999993762,
+          -5.971579000170664
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20277,
+        "CU_NAME": "BELOPA",
+        "CU_NO": "030",
+        "GEOCODE": "07041214030",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "14",
+        "WARD_NAME": "LAYAKO",
+        "LATITUDE": -5.974823,
+        "LONGITUDE": 142.799745,
+        "REGHH": 37,
+        "TOTPOP2000": 385,
+        "MALE2000": 205,
+        "FEMALE2000": 180,
+        "POP2008": 536,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041214030,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

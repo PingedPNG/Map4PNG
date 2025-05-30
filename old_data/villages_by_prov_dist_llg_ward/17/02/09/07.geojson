@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.5939190001618,
+          -3.1932250003334275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12935,
+        "CU_NAME": "TALIS",
+        "CU_NO": "027",
+        "GEOCODE": "17020907027",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "07",
+        "WARD_NAME": "WURTOL",
+        "LATITUDE": -3.19461,
+        "LONGITUDE": 152.592981,
+        "REGHH": 33,
+        "TOTPOP2000": 178,
+        "MALE2000": 100,
+        "FEMALE2000": 78,
+        "POP2008": 223,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020907027,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.5865539995675,
+          -3.1817520000547006
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12936,
+        "CU_NAME": "WURTOL",
+        "CU_NO": "032",
+        "GEOCODE": "17020907032",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "07",
+        "WARD_NAME": "WURTOL",
+        "LATITUDE": -3.183137,
+        "LONGITUDE": 152.585616,
+        "REGHH": 65,
+        "TOTPOP2000": 319,
+        "MALE2000": 166,
+        "FEMALE2000": 153,
+        "POP2008": 401,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020907032,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

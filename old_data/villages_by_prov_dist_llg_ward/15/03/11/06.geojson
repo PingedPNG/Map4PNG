@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18810,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.32228699994516,
+          -4.762317999975664
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18810,
+        "CU_NAME": "KIMIASOMIN",
+        "CU_NO": "011",
+        "GEOCODE": "15031106011",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "KEMEIMIN",
+        "LATITUDE": -4.763708,
+        "LONGITUDE": 141.321194,
+        "REGHH": 9,
+        "TOTPOP2000": 49,
+        "MALE2000": 25,
+        "FEMALE2000": 24,
+        "POP2008": 57,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031106011,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

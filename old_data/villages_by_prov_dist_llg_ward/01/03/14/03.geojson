@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15696,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.06311099957304,
+          -8.87377700040821
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15696,
+        "CU_NAME": "KURU NO. 2",
+        "CU_NO": "016",
+        "GEOCODE": "01031403016",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "03",
+        "WARD_NAME": "WONIE",
+        "LATITUDE": -8.872609,
+        "LONGITUDE": 143.064185,
+        "REGHH": 8,
+        "TOTPOP2000": 41,
+        "MALE2000": 19,
+        "FEMALE2000": 22,
+        "POP2008": 52,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031403016,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15697,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9739200000081,
+          -8.834315999983346
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15697,
+        "CU_NAME": "WONIE",
+        "CU_NO": "034",
+        "GEOCODE": "01031403034",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "03",
+        "WARD_NAME": "WONIE",
+        "LATITUDE": -8.836602,
+        "LONGITUDE": 142.974578,
+        "REGHH": 29,
+        "TOTPOP2000": 108,
+        "MALE2000": 54,
+        "FEMALE2000": 54,
+        "POP2008": 140,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031403034,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15698,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0755159996637,
+          -8.900403999844684
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15698,
+        "CU_NAME": "KURU NO 1",
+        "CU_NO": "035",
+        "GEOCODE": "01031403035",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "03",
+        "WARD_NAME": "WONIE",
+        "LATITUDE": -8.901837,
+        "LONGITUDE": 143.074435,
+        "REGHH": 14,
+        "TOTPOP2000": 42,
+        "MALE2000": 15,
+        "FEMALE2000": 27,
+        "POP2008": 54,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031403035,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13469,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.91300999961186,
+          -8.941075000310946
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13469,
+        "CU_NAME": "AMBENE",
+        "CU_NO": "003",
+        "GEOCODE": "06020512003",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "12",
+        "WARD_NAME": "AMBENE",
+        "LATITUDE": -8.942522,
+        "LONGITUDE": 147.911993,
+        "REGHH": 81,
+        "TOTPOP2000": 444,
+        "MALE2000": 205,
+        "FEMALE2000": 239,
+        "POP2008": 549,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020512003,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

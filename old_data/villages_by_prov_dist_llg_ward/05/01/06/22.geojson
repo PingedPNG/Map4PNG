@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9806,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.85633700005258,
+          -10.487987999646407
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9806,
+        "CU_NAME": "BONABONA",
+        "CU_NO": "004",
+        "GEOCODE": "05010622004",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "06",
+        "WARD_NO": "22",
+        "WARD_NAME": "BONABONA ISLAND",
+        "LATITUDE": -10.491166,
+        "LONGITUDE": 149.86356,
+        "REGHH": 34,
+        "TOTPOP2000": 239,
+        "MALE2000": 125,
+        "FEMALE2000": 114,
+        "POP2008": 291,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010622004,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

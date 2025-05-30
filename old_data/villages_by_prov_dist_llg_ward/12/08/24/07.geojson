@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.930040000046,
+          -6.406519999997954
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12112,
+        "CU_NAME": "BANDEP",
+        "CU_NO": "006",
+        "GEOCODE": "12082407006",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "24",
+        "WARD_NO": "07",
+        "WARD_NAME": "KARANGANDOANG",
+        "LATITUDE": -6.407938,
+        "LONGITUDE": 146.929015,
+        "REGHH": 22,
+        "TOTPOP2000": 107,
+        "MALE2000": 51,
+        "FEMALE2000": 56,
+        "POP2008": 133,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082407006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.94119700014153,
+          -6.41650900019016
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12113,
+        "CU_NAME": "KARANGANDOANG",
+        "CU_NO": "012",
+        "GEOCODE": "12082407012",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "24",
+        "WARD_NO": "07",
+        "WARD_NAME": "KARANGANDOANG",
+        "LATITUDE": -6.417927,
+        "LONGITUDE": 146.940173,
+        "REGHH": 37,
+        "TOTPOP2000": 257,
+        "MALE2000": 134,
+        "FEMALE2000": 123,
+        "POP2008": 320,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082407012,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9584140000062,
+          -6.392976000442047
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12114,
+        "CU_NAME": "MISALAMBAMAN",
+        "CU_NO": "020",
+        "GEOCODE": "12082407020",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "24",
+        "WARD_NO": "07",
+        "WARD_NAME": "KARANGANDOANG",
+        "LATITUDE": -6.393569,
+        "LONGITUDE": 146.964404,
+        "REGHH": 25,
+        "TOTPOP2000": 125,
+        "MALE2000": 70,
+        "FEMALE2000": 55,
+        "POP2008": 157,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082407020,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15684,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.44947000034028,
+          -8.575036999757685
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15684,
+        "CU_NAME": "BOK",
+        "CU_NO": "003",
+        "GEOCODE": "01031321003",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "21",
+        "WARD_NAME": "KONDOBOL",
+        "LATITUDE": -8.576465,
+        "LONGITUDE": 142.448382,
+        "REGHH": 23,
+        "TOTPOP2000": 112,
+        "MALE2000": 59,
+        "FEMALE2000": 53,
+        "POP2008": 145,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031321003,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15685,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4906310000207,
+          -8.551546000147766
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15685,
+        "CU_NAME": "TAEME COMMUNITY SCHOOL",
+        "CU_NO": "004",
+        "GEOCODE": "01031321004",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "21",
+        "WARD_NAME": "KONDOBOL",
+        "LATITUDE": -8.552974,
+        "LONGITUDE": 142.489544,
+        "REGHH": 2,
+        "TOTPOP2000": 9,
+        "MALE2000": 5,
+        "FEMALE2000": 4,
+        "POP2008": 9,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031321004,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15686,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.51104699991913,
+          -8.52512500031844
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15686,
+        "CU_NAME": "KONDOBOL",
+        "CU_NO": "011",
+        "GEOCODE": "01031321011",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "21",
+        "WARD_NAME": "KONDOBOL",
+        "LATITUDE": -8.528259,
+        "LONGITUDE": 142.51517,
+        "REGHH": 53,
+        "TOTPOP2000": 355,
+        "MALE2000": 191,
+        "FEMALE2000": 164,
+        "POP2008": 461,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031321011,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

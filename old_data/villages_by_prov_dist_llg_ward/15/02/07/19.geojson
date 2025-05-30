@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18655,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.229567000217,
+          -3.5616430000243895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18655,
+        "CU_NAME": "YANGKOK",
+        "CU_NO": "020",
+        "GEOCODE": "15020719020",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "19",
+        "WARD_NAME": "YANGKOK",
+        "LATITUDE": -3.563022,
+        "LONGITUDE": 142.228487,
+        "REGHH": 82,
+        "TOTPOP2000": 477,
+        "MALE2000": 256,
+        "FEMALE2000": 221,
+        "POP2008": 577,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020719020,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18656,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.22719200041058,
+          -3.57672699955134
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18656,
+        "CU_NAME": "ANGUGANAK MISSION",
+        "CU_NO": "402",
+        "GEOCODE": "15020719402",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "19",
+        "WARD_NAME": "YANGKOK",
+        "LATITUDE": -3.580232,
+        "LONGITUDE": 142.22519,
+        "REGHH": 9,
+        "TOTPOP2000": 32,
+        "MALE2000": 15,
+        "FEMALE2000": 17,
+        "POP2008": 40,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020719402,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18657,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.21890599961228,
+          -3.5608529995662366
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18657,
+        "CU_NAME": "YANGKOK STATION",
+        "CU_NO": "501",
+        "GEOCODE": "15020719501",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "19",
+        "WARD_NAME": "YANGKOK",
+        "LATITUDE": -3.562232,
+        "LONGITUDE": 142.217826,
+        "REGHH": 24,
+        "TOTPOP2000": 164,
+        "MALE2000": 65,
+        "FEMALE2000": 99,
+        "POP2008": 198,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020719501,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

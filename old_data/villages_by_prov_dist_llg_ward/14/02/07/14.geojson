@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6423,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9413260003946,
+          -4.344578000174522
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6423,
+        "CU_NAME": "BOBATEN",
+        "CU_NO": "001",
+        "GEOCODE": "14020714001",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "BOBATEN",
+        "LATITUDE": -4.346165,
+        "LONGITUDE": 143.940097,
+        "REGHH": 103,
+        "TOTPOP2000": 654,
+        "MALE2000": 328,
+        "FEMALE2000": 326,
+        "POP2008": 778,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020714001,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

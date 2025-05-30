@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7793,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.05940400039435,
+          -6.945685000162598
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7793,
+        "CU_NAME": "HAIVARO",
+        "CU_NO": "001",
+        "GEOCODE": "02021001001",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAIVARO",
+        "LATITUDE": -6.939001,
+        "LONGITUDE": 143.062559,
+        "REGHH": 25,
+        "TOTPOP2000": 186,
+        "MALE2000": 101,
+        "FEMALE2000": 85,
+        "POP2008": 228,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021001001,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7794,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.27195424958904,
+          -7.136508632367452
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7794,
+        "CU_NAME": "KURI SETTLEMENT",
+        "CU_NO": "008",
+        "GEOCODE": "02021001008",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAIVARO",
+        "LATITUDE": -7.137008,
+        "LONGITUDE": 143.272915,
+        "REGHH": 25,
+        "TOTPOP2000": 198,
+        "MALE2000": 91,
+        "FEMALE2000": 107,
+        "POP2008": 243,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021001008,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7795,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.28482799971243,
+          -7.133889999923497
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7795,
+        "CU_NAME": "KURI LOGGING CAMP (OPER.)",
+        "CU_NO": "401",
+        "GEOCODE": "02021001401",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAIVARO",
+        "LATITUDE": -7.132373,
+        "LONGITUDE": 143.279424,
+        "REGHH": 13,
+        "TOTPOP2000": 292,
+        "MALE2000": 209,
+        "FEMALE2000": 83,
+        "POP2008": 359,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021001401,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

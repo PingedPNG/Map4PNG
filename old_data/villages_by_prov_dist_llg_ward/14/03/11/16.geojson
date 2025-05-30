@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6645,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.92723900027966,
+          -3.6142850003524245
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6645,
+        "CU_NAME": "NUMANGU",
+        "CU_NO": "024",
+        "GEOCODE": "14031116024",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "NUMANGU",
+        "LATITUDE": -3.615863,
+        "LONGITUDE": 142.925998,
+        "REGHH": 69,
+        "TOTPOP2000": 316,
+        "MALE2000": 162,
+        "FEMALE2000": 154,
+        "POP2008": 376,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031116024,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6646,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.93187900021576,
+          -3.607734999570539
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6646,
+        "CU_NAME": "ULAHIMABEL",
+        "CU_NO": "025",
+        "GEOCODE": "14031116025",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "NUMANGU",
+        "LATITUDE": -3.609313,
+        "LONGITUDE": 142.930637,
+        "REGHH": 64,
+        "TOTPOP2000": 294,
+        "MALE2000": 136,
+        "FEMALE2000": 158,
+        "POP2008": 350,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031116025,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14645,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1059180001157,
+          -5.847297000256333
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14645,
+        "CU_NAME": "MONDIA BRIS",
+        "CU_NO": "001",
+        "GEOCODE": "10051405001",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGLAUK",
+        "LATITUDE": -5.848705,
+        "LONGITUDE": 145.10487,
+        "REGHH": 58,
+        "TOTPOP2000": 320,
+        "MALE2000": 166,
+        "FEMALE2000": 154,
+        "POP2008": 369,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051405001,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14646,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0842750002911,
+          -5.833508000194001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14646,
+        "CU_NAME": "IRUGL",
+        "CU_NO": "002",
+        "GEOCODE": "10051405002",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGLAUK",
+        "LATITUDE": -5.831646,
+        "LONGITUDE": 145.0846,
+        "REGHH": 50,
+        "TOTPOP2000": 213,
+        "MALE2000": 108,
+        "FEMALE2000": 105,
+        "POP2008": 245,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051405002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14647,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.10016800025312,
+          -5.868269999760628
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14647,
+        "CU_NAME": "GANBUGL",
+        "CU_NO": "003",
+        "GEOCODE": "10051405003",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGLAUK",
+        "LATITUDE": -5.869678,
+        "LONGITUDE": 145.09912,
+        "REGHH": 63,
+        "TOTPOP2000": 262,
+        "MALE2000": 141,
+        "FEMALE2000": 121,
+        "POP2008": 302,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051405003,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

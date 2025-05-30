@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 28677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26867491991175,
+          -5.946210000291217
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28677,
+        "CU_NAME": "FOINDIWEI",
+        "CU_NO": "018",
+        "GEOCODE": "11010115018",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "15",
+        "WARD_NAME": "KANOSA",
+        "LATITUDE": -5.94621,
+        "LONGITUDE": 145.268675,
+        "REGHH": 62,
+        "TOTPOP2000": 291,
+        "MALE2000": 158,
+        "FEMALE2000": 133,
+        "POP2008": 346,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28678,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27745064023497,
+          -5.991409439793756
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28678,
+        "CU_NAME": "KOFOXUF",
+        "CU_NO": "075",
+        "GEOCODE": "11010115075",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "15",
+        "WARD_NAME": "KANOSA",
+        "LATITUDE": -5.991409,
+        "LONGITUDE": 145.277451,
+        "REGHH": 20,
+        "TOTPOP2000": 90,
+        "MALE2000": 50,
+        "FEMALE2000": 40,
+        "POP2008": 106,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28679,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27065852037447,
+          -5.991410789676138
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28679,
+        "CU_NAME": "ASAROYUFA",
+        "CU_NO": "105",
+        "GEOCODE": "11010115105",
+        "PROV_KEY": "11",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "15",
+        "WARD_NAME": "KANOSA",
+        "LATITUDE": -5.991411,
+        "LONGITUDE": 145.270659,
+        "REGHH": 23,
+        "TOTPOP2000": 120,
+        "MALE2000": 67,
+        "FEMALE2000": 53,
+        "POP2008": 144,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

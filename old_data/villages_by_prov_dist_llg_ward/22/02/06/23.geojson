@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16895,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5248439999507,
+          -5.5933690003790275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16895,
+        "CU_NAME": "TSENGA",
+        "CU_NO": "014",
+        "GEOCODE": "09040623014",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "TSENGA",
+        "LATITUDE": -5.594304,
+        "LONGITUDE": 144.525181,
+        "REGHH": 99,
+        "TOTPOP2000": 440,
+        "MALE2000": 226,
+        "FEMALE2000": 214,
+        "POP2008": 536,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040623014,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16896,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.53067800008967,
+          -5.617541999963294
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16896,
+        "CU_NAME": "KUMUK",
+        "CU_NO": "015",
+        "GEOCODE": "09040623015",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "TSENGA",
+        "LATITUDE": -5.618478,
+        "LONGITUDE": 144.531015,
+        "REGHH": 23,
+        "TOTPOP2000": 87,
+        "MALE2000": 43,
+        "FEMALE2000": 44,
+        "POP2008": 104,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040623015,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

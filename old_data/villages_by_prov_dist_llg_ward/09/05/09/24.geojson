@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17093,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.09508699996513,
+          -5.49211100012252
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17093,
+        "CU_NAME": "KENANKYAUSA",
+        "CU_NO": "001",
+        "GEOCODE": "09050924001",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "24",
+        "WARD_NAME": "DALAPENA.3",
+        "LATITUDE": -5.493044,
+        "LONGITUDE": 144.095418,
+        "REGHH": 49,
+        "TOTPOP2000": 230,
+        "MALE2000": 105,
+        "FEMALE2000": 125,
+        "POP2008": 281,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050924001,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

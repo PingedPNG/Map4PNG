@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14523,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.89184800008525,
+          -5.861224000387267
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14523,
+        "CU_NAME": "AGUMBANIGLE",
+        "CU_NO": "001",
+        "GEOCODE": "10041115001",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "15",
+        "WARD_NAME": "GRAIGU 2",
+        "LATITUDE": -5.862632,
+        "LONGITUDE": 144.890797,
+        "REGHH": 67,
+        "TOTPOP2000": 324,
+        "MALE2000": 172,
+        "FEMALE2000": 152,
+        "POP2008": 373,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041115001,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14524,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9135800004168,
+          -5.857051000403317
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14524,
+        "CU_NAME": "MEKE",
+        "CU_NO": "002",
+        "GEOCODE": "10041115002",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "15",
+        "WARD_NAME": "GRAIGU 2",
+        "LATITUDE": -5.858459,
+        "LONGITUDE": 144.91253,
+        "REGHH": 90,
+        "TOTPOP2000": 515,
+        "MALE2000": 269,
+        "FEMALE2000": 246,
+        "POP2008": 593,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041115002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14525,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.92190600036167,
+          -5.856660000358659
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14525,
+        "CU_NAME": "BIMAMBUNO",
+        "CU_NO": "003",
+        "GEOCODE": "10041115003",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "15",
+        "WARD_NAME": "GRAIGU 2",
+        "LATITUDE": -5.858068,
+        "LONGITUDE": 144.920856,
+        "REGHH": 30,
+        "TOTPOP2000": 171,
+        "MALE2000": 84,
+        "FEMALE2000": 87,
+        "POP2008": 195,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041115003,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

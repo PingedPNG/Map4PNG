@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4733,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.2691669996574,
+          -4.371852999816042
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4733,
+        "CU_NAME": "GUNANUR NO.1&2",
+        "CU_NO": "508",
+        "GEOCODE": "18020818508",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "18",
+        "WARD_NAME": "GUNANUR",
+        "LATITUDE": -4.373254,
+        "LONGITUDE": 152.268222,
+        "REGHH": 122,
+        "TOTPOP2000": 542,
+        "MALE2000": 341,
+        "FEMALE2000": 201,
+        "POP2008": 661,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020818508,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4734,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.25213700032236,
+          -4.408819000296603
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4734,
+        "CU_NAME": "TOBERA NO.1",
+        "CU_NO": "520",
+        "GEOCODE": "18020818520",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "18",
+        "WARD_NAME": "GUNANUR",
+        "LATITUDE": -4.410221,
+        "LONGITUDE": 152.251192,
+        "REGHH": 18,
+        "TOTPOP2000": 89,
+        "MALE2000": 53,
+        "FEMALE2000": 36,
+        "POP2008": 107,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020818520,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4735,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.23011600015332,
+          -4.4004490001212275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4735,
+        "CU_NAME": "GELAGELA PLNT",
+        "CU_NO": "521",
+        "GEOCODE": "18020818521",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "18",
+        "WARD_NAME": "GUNANUR",
+        "LATITUDE": -4.401851,
+        "LONGITUDE": 152.229171,
+        "REGHH": 64,
+        "TOTPOP2000": 336,
+        "MALE2000": 185,
+        "FEMALE2000": 151,
+        "POP2008": 409,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020818521,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

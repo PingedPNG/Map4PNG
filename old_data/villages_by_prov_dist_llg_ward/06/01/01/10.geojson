@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13019,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.41019800023764,
+          -8.85790599966208
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13019,
+        "CU_NAME": "WARISOTA",
+        "CU_NO": "001",
+        "GEOCODE": "06010110001",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "HANAKIRO",
+        "LATITUDE": -8.86566,
+        "LONGITUDE": 148.411754,
+        "REGHH": 47,
+        "TOTPOP2000": 364,
+        "MALE2000": 232,
+        "FEMALE2000": 132,
+        "POP2008": 451,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010110001,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13020,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.43129600011036,
+          -8.849866000315615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13020,
+        "CU_NAME": "EMBI",
+        "CU_NO": "016",
+        "GEOCODE": "06010110016",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "HANAKIRO",
+        "LATITUDE": -8.851313,
+        "LONGITUDE": 148.430286,
+        "REGHH": 27,
+        "TOTPOP2000": 170,
+        "MALE2000": 83,
+        "FEMALE2000": 87,
+        "POP2008": 211,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010110016,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13021,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.39422099999922,
+          -8.90477700005846
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13021,
+        "CU_NAME": "HONGARATA",
+        "CU_NO": "017",
+        "GEOCODE": "06010110017",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "HANAKIRO",
+        "LATITUDE": -8.87247,
+        "LONGITUDE": 148.401874,
+        "REGHH": 22,
+        "TOTPOP2000": 118,
+        "MALE2000": 57,
+        "FEMALE2000": 61,
+        "POP2008": 146,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010110017,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13022,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.4035529995714,
+          -8.860852999766053
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13022,
+        "CU_NAME": "KURUMBO",
+        "CU_NO": "018",
+        "GEOCODE": "06010110018",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "HANAKIRO",
+        "LATITUDE": -8.8623,
+        "LONGITUDE": 148.402543,
+        "REGHH": 19,
+        "TOTPOP2000": 130,
+        "MALE2000": 64,
+        "FEMALE2000": 66,
+        "POP2008": 162,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010110018,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13023,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.4242190002068,
+          -8.884460000228785
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13023,
+        "CU_NAME": "HANAKIRO",
+        "CU_NO": "023",
+        "GEOCODE": "06010110023",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "HANAKIRO",
+        "LATITUDE": -8.86256,
+        "LONGITUDE": 148.40491,
+        "REGHH": 19,
+        "TOTPOP2000": 111,
+        "MALE2000": 63,
+        "FEMALE2000": 48,
+        "POP2008": 136,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010110023,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13024,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.4041560003992,
+          -8.901412999610216
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13024,
+        "CU_NAME": "HANAKIRO 2",
+        "CU_NO": "024",
+        "GEOCODE": "06010110024",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "HANAKIRO",
+        "LATITUDE": -8.87008,
+        "LONGITUDE": 148.402079,
+        "REGHH": 16,
+        "TOTPOP2000": 86,
+        "MALE2000": 38,
+        "FEMALE2000": 48,
+        "POP2008": 106,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010110024,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13025,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.412867000112,
+          -8.851503000263222
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13025,
+        "CU_NAME": "HAUGATA",
+        "CU_NO": "025",
+        "GEOCODE": "06010110025",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "HANAKIRO",
+        "LATITUDE": -8.85295,
+        "LONGITUDE": 148.411857,
+        "REGHH": 20,
+        "TOTPOP2000": 103,
+        "MALE2000": 53,
+        "FEMALE2000": 50,
+        "POP2008": 127,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010110025,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

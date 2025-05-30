@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.5779709998618,
+          -5.500155999699587
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18145,
+        "CU_NAME": "GALILO",
+        "CU_NO": "003",
+        "GEOCODE": "19020808003",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "MALALA",
+        "LATITUDE": -5.50157,
+        "LONGITUDE": 150.577,
+        "REGHH": 138,
+        "TOTPOP2000": 973,
+        "MALE2000": 493,
+        "FEMALE2000": 480,
+        "POP2008": 1280,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020808003,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.57822199974555,
+          -5.489680999578411
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18146,
+        "CU_NAME": "MAKASILI",
+        "CU_NO": "018",
+        "GEOCODE": "19020808018",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "MALALA",
+        "LATITUDE": -5.49099,
+        "LONGITUDE": 150.578,
+        "REGHH": 50,
+        "TOTPOP2000": 351,
+        "MALE2000": 179,
+        "FEMALE2000": 172,
+        "POP2008": 463,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020808018,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.58316099998024,
+          -5.509670999616901
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18147,
+        "CU_NAME": "VAVUA",
+        "CU_NO": "029",
+        "GEOCODE": "19020808029",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "MALALA",
+        "LATITUDE": -5.50908,
+        "LONGITUDE": 150.583,
+        "REGHH": 84,
+        "TOTPOP2000": 551,
+        "MALE2000": 277,
+        "FEMALE2000": 274,
+        "POP2008": 726,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020808029,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.58497099981184,
+          -5.502746000427521
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18148,
+        "CU_NAME": "TAGARAGARA",
+        "CU_NO": "030",
+        "GEOCODE": "19020808030",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "MALALA",
+        "LATITUDE": -5.50416,
+        "LONGITUDE": 150.584,
+        "REGHH": 36,
+        "TOTPOP2000": 205,
+        "MALE2000": 104,
+        "FEMALE2000": 101,
+        "POP2008": 270,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020808030,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5863,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.49331799962602,
+          -5.191146000287631
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5863,
+        "CU_NAME": "WAILEP (KETAI)",
+        "CU_NO": "010",
+        "GEOCODE": "08041204010",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "04",
+        "WARD_NAME": "WAILEP",
+        "LATITUDE": -5.192544,
+        "LONGITUDE": 143.492251,
+        "REGHH": 105,
+        "TOTPOP2000": 575,
+        "MALE2000": 301,
+        "FEMALE2000": 274,
+        "POP2008": 723,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041204010,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

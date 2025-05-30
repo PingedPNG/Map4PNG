@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1657,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.56022999981474,
+          -9.828604999920742
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1657,
+        "CU_NAME": "GINIGOLO",
+        "CU_NO": "030",
+        "GEOCODE": "03041202030",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "GINIGOLO",
+        "LATITUDE": -9.83006,
+        "LONGITUDE": 147.559205,
+        "REGHH": 44,
+        "TOTPOP2000": 315,
+        "MALE2000": 167,
+        "FEMALE2000": 148,
+        "POP2008": 377,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041202030,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1658,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.56504799986533,
+          -9.830551999774912
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1658,
+        "CU_NAME": "MOUGELE VARIKWAI",
+        "CU_NO": "031",
+        "GEOCODE": "03041202031",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "GINIGOLO",
+        "LATITUDE": -9.832007,
+        "LONGITUDE": 147.564023,
+        "REGHH": 44,
+        "TOTPOP2000": 305,
+        "MALE2000": 161,
+        "FEMALE2000": 144,
+        "POP2008": 365,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041202031,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

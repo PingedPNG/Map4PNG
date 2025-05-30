@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18282,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.48773899975515,
+          -3.150047000268785
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18282,
+        "CU_NAME": "ANGEL ISLAND",
+        "CU_NO": "002",
+        "GEOCODE": "15010107002",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "SELEO ISLAND",
+        "LATITUDE": -3.150572,
+        "LONGITUDE": 142.482418,
+        "REGHH": 16,
+        "TOTPOP2000": 120,
+        "MALE2000": 59,
+        "FEMALE2000": 61,
+        "POP2008": 144,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010107002,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4860690000844,
+          -3.142458000136571
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18283,
+        "CU_NAME": "SELEO ISLAND",
+        "CU_NO": "003",
+        "GEOCODE": "15010107003",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "SELEO ISLAND",
+        "LATITUDE": -3.143836,
+        "LONGITUDE": 142.482826,
+        "REGHH": 20,
+        "TOTPOP2000": 134,
+        "MALE2000": 69,
+        "FEMALE2000": 65,
+        "POP2008": 162,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010107003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4959180001157,
+          -3.2126339996593174
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18284,
+        "CU_NAME": "SELEO/ NEGIER",
+        "CU_NO": "007",
+        "GEOCODE": "15010107007",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "SELEO ISLAND",
+        "LATITUDE": -3.213801,
+        "LONGITUDE": 142.494702,
+        "REGHH": 6,
+        "TOTPOP2000": 28,
+        "MALE2000": 15,
+        "FEMALE2000": 13,
+        "POP2008": 36,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010107007,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

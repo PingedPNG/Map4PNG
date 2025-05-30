@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1610,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.61411299981512,
+          -9.713860000038949
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1610,
+        "CU_NAME": "VASIRA",
+        "CU_NO": "086",
+        "GEOCODE": "03041112086",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "VASIRA",
+        "LATITUDE": -9.714496,
+        "LONGITUDE": 147.614161,
+        "REGHH": 23,
+        "TOTPOP2000": 153,
+        "MALE2000": 83,
+        "FEMALE2000": 70,
+        "POP2008": 185,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041112086,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13421,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.58078199968963,
+          -8.61474599992789
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13421,
+        "CU_NAME": "ASIMBA",
+        "CU_NO": "001",
+        "GEOCODE": "06020501001",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "ASIMBA",
+        "LATITUDE": -8.606703,
+        "LONGITUDE": 147.584825,
+        "REGHH": 23,
+        "TOTPOP2000": 91,
+        "MALE2000": 46,
+        "FEMALE2000": 45,
+        "POP2008": 114,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020501001,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13422,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.66263800004378,
+          -8.7767360003661
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13422,
+        "CU_NAME": "KANGA",
+        "CU_NO": "002",
+        "GEOCODE": "06020501002",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "ASIMBA",
+        "LATITUDE": -8.779206,
+        "LONGITUDE": 147.659052,
+        "REGHH": 23,
+        "TOTPOP2000": 161,
+        "MALE2000": 90,
+        "FEMALE2000": 71,
+        "POP2008": 199,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020501002,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13423,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6109519997351,
+          -8.640566999967007
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13423,
+        "CU_NAME": "KARUKARU",
+        "CU_NO": "003",
+        "GEOCODE": "06020501003",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "ASIMBA",
+        "LATITUDE": -8.638774,
+        "LONGITUDE": 147.61128,
+        "REGHH": 15,
+        "TOTPOP2000": 59,
+        "MALE2000": 35,
+        "FEMALE2000": 24,
+        "POP2008": 75,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020501003,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13424,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.59152100029394,
+          -8.601570000255265
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13424,
+        "CU_NAME": "KOROGO",
+        "CU_NO": "004",
+        "GEOCODE": "06020501004",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "ASIMBA",
+        "LATITUDE": -8.605545,
+        "LONGITUDE": 147.586695,
+        "REGHH": 12,
+        "TOTPOP2000": 54,
+        "MALE2000": 29,
+        "FEMALE2000": 25,
+        "POP2008": 68,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020501004,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13425,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.65454500005183,
+          -8.773481999594537
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13425,
+        "CU_NAME": "SUNGEINA",
+        "CU_NO": "005",
+        "GEOCODE": "06020501005",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "ASIMBA",
+        "LATITUDE": -8.776967,
+        "LONGITUDE": 147.655069,
+        "REGHH": 26,
+        "TOTPOP2000": 135,
+        "MALE2000": 73,
+        "FEMALE2000": 62,
+        "POP2008": 167,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020501005,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

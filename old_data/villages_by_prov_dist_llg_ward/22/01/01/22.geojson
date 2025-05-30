@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15857,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.42783999981623,
+          -5.760516000313089
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15857,
+        "CU_NAME": "MUGUMAMP F0REST",
+        "CU_NO": "401",
+        "GEOCODE": "09010122401",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "22",
+        "WARD_NAME": "MUGUMAMP",
+        "LATITUDE": -5.761453,
+        "LONGITUDE": 144.428177,
+        "REGHH": 47,
+        "TOTPOP2000": 262,
+        "MALE2000": 132,
+        "FEMALE2000": 130,
+        "POP2008": 320,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010122401,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15858,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3966739997054,
+          -5.754875000081142
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15858,
+        "CU_NAME": "MUMI PROJECT",
+        "CU_NO": "402",
+        "GEOCODE": "09010122402",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "22",
+        "WARD_NAME": "MUGUMAMP",
+        "LATITUDE": -5.755813,
+        "LONGITUDE": 144.397009,
+        "REGHH": 51,
+        "TOTPOP2000": 229,
+        "MALE2000": 127,
+        "FEMALE2000": 102,
+        "POP2008": 279,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010122402,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15859,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3969970002114,
+          -5.756356000029314
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15859,
+        "CU_NAME": "MAPI PROJECT",
+        "CU_NO": "403",
+        "GEOCODE": "09010122403",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "22",
+        "WARD_NAME": "MUGUMAMP",
+        "LATITUDE": -5.757294,
+        "LONGITUDE": 144.397332,
+        "REGHH": 91,
+        "TOTPOP2000": 442,
+        "MALE2000": 247,
+        "FEMALE2000": 195,
+        "POP2008": 539,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010122403,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15860,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.41806999983066,
+          -5.758506000251657
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15860,
+        "CU_NAME": "ROTEP PROJECT",
+        "CU_NO": "404",
+        "GEOCODE": "09010122404",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "22",
+        "WARD_NAME": "MUGUMAMP",
+        "LATITUDE": -5.759443,
+        "LONGITUDE": 144.418407,
+        "REGHH": 37,
+        "TOTPOP2000": 255,
+        "MALE2000": 156,
+        "FEMALE2000": 99,
+        "POP2008": 311,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010122404,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15861,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.40815200021473,
+          -5.767770000285225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15861,
+        "CU_NAME": "ROM",
+        "CU_NO": "405",
+        "GEOCODE": "09010122405",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "22",
+        "WARD_NAME": "MUGUMAMP",
+        "LATITUDE": -5.768707,
+        "LONGITUDE": 144.408487,
+        "REGHH": 16,
+        "TOTPOP2000": 90,
+        "MALE2000": 45,
+        "FEMALE2000": 45,
+        "POP2008": 108,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010122405,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

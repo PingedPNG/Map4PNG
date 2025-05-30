@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16439,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.364254000222,
+          -5.712413999806188
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16439,
+        "CU_NAME": "KENEMBO C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "09020342401",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "42",
+        "WARD_NAME": "KENEMBO",
+        "LATITUDE": -5.71335,
+        "LONGITUDE": 144.364589,
+        "REGHH": 7,
+        "TOTPOP2000": 30,
+        "MALE2000": 16,
+        "FEMALE2000": 14,
+        "POP2008": 38,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020342401,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12357,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1746290000284,
+          -6.087872000392451
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12357,
+        "CU_NAME": "DOMUT",
+        "CU_NO": "006",
+        "GEOCODE": "12092815006",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "15",
+        "WARD_NAME": "DOMUT",
+        "LATITUDE": -6.089287,
+        "LONGITUDE": 147.173608,
+        "REGHH": 103,
+        "TOTPOP2000": 610,
+        "MALE2000": 309,
+        "FEMALE2000": 301,
+        "POP2008": 762,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092815006,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

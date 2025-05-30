@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13077,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.20128799984138,
+          -8.323823000031382
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13077,
+        "CU_NAME": "OPE",
+        "CU_NO": "011",
+        "GEOCODE": "06010123011",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "23",
+        "WARD_NAME": "OURE",
+        "LATITUDE": -8.32146,
+        "LONGITUDE": 148.204705,
+        "REGHH": 11,
+        "TOTPOP2000": 59,
+        "MALE2000": 30,
+        "FEMALE2000": 29,
+        "POP2008": 75,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010123011,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13078,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.19806799973844,
+          -8.287016999734703
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13078,
+        "CU_NAME": "JINENA",
+        "CU_NO": "012",
+        "GEOCODE": "06010123012",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "23",
+        "WARD_NAME": "OURE",
+        "LATITUDE": -8.28817,
+        "LONGITUDE": 148.20027,
+        "REGHH": 14,
+        "TOTPOP2000": 72,
+        "MALE2000": 39,
+        "FEMALE2000": 33,
+        "POP2008": 88,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010123012,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13079,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.18948999986367,
+          -8.320392000090692
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13079,
+        "CU_NAME": "KOIRA (BEANGA)",
+        "CU_NO": "013",
+        "GEOCODE": "06010123013",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "23",
+        "WARD_NAME": "OURE",
+        "LATITUDE": -8.33088,
+        "LONGITUDE": 148.188925,
+        "REGHH": 29,
+        "TOTPOP2000": 152,
+        "MALE2000": 71,
+        "FEMALE2000": 81,
+        "POP2008": 188,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010123013,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13080,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.181085999919,
+          -8.306263999683779
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13080,
+        "CU_NAME": "TODINASI (MORA)",
+        "CU_NO": "014",
+        "GEOCODE": "06010123014",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "23",
+        "WARD_NAME": "OURE",
+        "LATITUDE": -8.307705,
+        "LONGITUDE": 148.180074,
+        "REGHH": 22,
+        "TOTPOP2000": 133,
+        "MALE2000": 67,
+        "FEMALE2000": 66,
+        "POP2008": 165,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010123014,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13081,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.20535500033304,
+          -8.30764400037026
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13081,
+        "CU_NAME": "OURE",
+        "CU_NO": "022",
+        "GEOCODE": "06010123022",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "23",
+        "WARD_NAME": "OURE",
+        "LATITUDE": -8.309917,
+        "LONGITUDE": 148.205325,
+        "REGHH": 18,
+        "TOTPOP2000": 81,
+        "MALE2000": 45,
+        "FEMALE2000": 36,
+        "POP2008": 99,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010123022,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

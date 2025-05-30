@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.90401799963104,
+          -7.955274999741391
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15118,
+        "CU_NAME": "KEWA",
+        "CU_NO": "002",
+        "GEOCODE": "01010313002",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "13",
+        "WARD_NAME": "KEWA",
+        "LATITUDE": -7.956699,
+        "LONGITUDE": 142.902938,
+        "REGHH": 79,
+        "TOTPOP2000": 598,
+        "MALE2000": 288,
+        "FEMALE2000": 310,
+        "POP2008": 775,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010313002,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.89752200044006,
+          -7.956712000358493
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15119,
+        "CU_NAME": "DEGETEGE COMM. SCHOOL",
+        "CU_NO": "003",
+        "GEOCODE": "01010313003",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "13",
+        "WARD_NAME": "KEWA",
+        "LATITUDE": -7.958136,
+        "LONGITUDE": 142.896442,
+        "REGHH": 5,
+        "TOTPOP2000": 26,
+        "MALE2000": 12,
+        "FEMALE2000": 14,
+        "POP2008": 34,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010313003,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

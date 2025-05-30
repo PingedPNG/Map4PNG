@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21306,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4502280000222,
+          -6.156789000312074
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21306,
+        "CU_NAME": "SESENDA",
+        "CU_NO": "032",
+        "GEOCODE": "07072507032",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "07",
+        "WARD_NAME": "SESENDA 1",
+        "LATITUDE": -6.161466,
+        "LONGITUDE": 143.450487,
+        "REGHH": 63,
+        "TOTPOP2000": 315,
+        "MALE2000": 158,
+        "FEMALE2000": 157,
+        "POP2008": 438,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072507032,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21307,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4305429996598,
+          -6.1507159999433725
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21307,
+        "CU_NAME": "MALA",
+        "CU_NO": "033",
+        "GEOCODE": "07072507033",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "07",
+        "WARD_NAME": "SESENDA 1",
+        "LATITUDE": -6.155306,
+        "LONGITUDE": 143.431301,
+        "REGHH": 34,
+        "TOTPOP2000": 181,
+        "MALE2000": 89,
+        "FEMALE2000": 92,
+        "POP2008": 252,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072507033,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21308,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.43020200012222,
+          -6.1517580003314265
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21308,
+        "CU_NAME": "PEP",
+        "CU_NO": "034",
+        "GEOCODE": "07072507034",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "07",
+        "WARD_NAME": "SESENDA 1",
+        "LATITUDE": -6.155306,
+        "LONGITUDE": 143.431301,
+        "REGHH": 33,
+        "TOTPOP2000": 181,
+        "MALE2000": 91,
+        "FEMALE2000": 90,
+        "POP2008": 252,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072507034,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.43123800023363,
+          -6.1512680002180105
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21309,
+        "CU_NAME": "TUBIM",
+        "CU_NO": "035",
+        "GEOCODE": "07072507035",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "07",
+        "WARD_NAME": "SESENDA 1",
+        "LATITUDE": -6.155306,
+        "LONGITUDE": 143.431301,
+        "REGHH": 36,
+        "TOTPOP2000": 211,
+        "MALE2000": 104,
+        "FEMALE2000": 107,
+        "POP2008": 293,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072507035,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21310,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.42992299984667,
+          -6.151135000379895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21310,
+        "CU_NAME": "SOMDA",
+        "CU_NO": "036",
+        "GEOCODE": "07072507036",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "07",
+        "WARD_NAME": "SESENDA 1",
+        "LATITUDE": -6.155306,
+        "LONGITUDE": 143.431301,
+        "REGHH": 39,
+        "TOTPOP2000": 214,
+        "MALE2000": 101,
+        "FEMALE2000": 113,
+        "POP2008": 298,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072507036,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

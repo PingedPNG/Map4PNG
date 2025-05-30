@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17609,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.12448699957542,
+          -5.94147499957154
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17609,
+        "CU_NAME": "PAKMONG",
+        "CU_NO": "018",
+        "GEOCODE": "09071312018",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "YUMBIGA 2",
+        "LATITUDE": -5.942414,
+        "LONGITUDE": 144.124818,
+        "REGHH": 52,
+        "TOTPOP2000": 175,
+        "MALE2000": 92,
+        "FEMALE2000": 83,
+        "POP2008": 213,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071312018,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17610,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1256870000551,
+          -5.936276999983534
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17610,
+        "CU_NAME": "AMBUL",
+        "CU_NO": "019",
+        "GEOCODE": "09071312019",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "YUMBIGA 2",
+        "LATITUDE": -5.937216,
+        "LONGITUDE": 144.12602,
+        "REGHH": 50,
+        "TOTPOP2000": 244,
+        "MALE2000": 127,
+        "FEMALE2000": 117,
+        "POP2008": 297,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071312019,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

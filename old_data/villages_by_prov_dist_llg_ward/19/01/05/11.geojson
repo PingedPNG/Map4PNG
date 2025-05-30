@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17957,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.22399099978486,
+          -5.685055999934377
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17957,
+        "CU_NAME": "KWAKO",
+        "CU_NO": "016",
+        "GEOCODE": "19010511016",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "ARIA NO. 2",
+        "LATITUDE": -5.68647,
+        "LONGITUDE": 149.223,
+        "REGHH": 27,
+        "TOTPOP2000": 137,
+        "MALE2000": 68,
+        "FEMALE2000": 69,
+        "POP2008": 180,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010511016,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17958,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.24799100038445,
+          -5.636617000074466
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17958,
+        "CU_NAME": "TALEWAGA",
+        "CU_NO": "024",
+        "GEOCODE": "19010511024",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "ARIA NO. 2",
+        "LATITUDE": -5.63803,
+        "LONGITUDE": 149.247,
+        "REGHH": 26,
+        "TOTPOP2000": 145,
+        "MALE2000": 79,
+        "FEMALE2000": 66,
+        "POP2008": 190,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010511024,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17959,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2409910004344,
+          -5.668706999628284
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17959,
+        "CU_NAME": "OPMADUNG",
+        "CU_NO": "027",
+        "GEOCODE": "19010511027",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "ARIA NO. 2",
+        "LATITUDE": -5.67012,
+        "LONGITUDE": 149.24,
+        "REGHH": 22,
+        "TOTPOP2000": 128,
+        "MALE2000": 66,
+        "FEMALE2000": 62,
+        "POP2008": 168,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010511027,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17960,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.34098900014226,
+          -5.605317000079424
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17960,
+        "CU_NAME": "GELEI / GAHO",
+        "CU_NO": "033",
+        "GEOCODE": "19010511033",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "ARIA NO. 2",
+        "LATITUDE": -5.60673,
+        "LONGITUDE": 149.34,
+        "REGHH": 15,
+        "TOTPOP2000": 70,
+        "MALE2000": 39,
+        "FEMALE2000": 31,
+        "POP2008": 93,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010511033,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17961,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.19299200018077,
+          -5.659366999687222
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17961,
+        "CU_NAME": "BALIMU",
+        "CU_NO": "034",
+        "GEOCODE": "19010511034",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "ARIA NO. 2",
+        "LATITUDE": -5.66078,
+        "LONGITUDE": 149.192,
+        "REGHH": 13,
+        "TOTPOP2000": 72,
+        "MALE2000": 38,
+        "FEMALE2000": 34,
+        "POP2008": 96,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010511034,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13623,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0290059996272,
+          -8.865645000416407
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13623,
+        "CU_NAME": "MUMUNI",
+        "CU_NO": "016",
+        "GEOCODE": "06020615016",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "MUMUNI",
+        "LATITUDE": -8.868365,
+        "LONGITUDE": 148.024183,
+        "REGHH": 90,
+        "TOTPOP2000": 538,
+        "MALE2000": 312,
+        "FEMALE2000": 226,
+        "POP2008": 667,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020615016,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13624,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0526190003667,
+          -8.881410999917648
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13624,
+        "CU_NAME": "MUMUNIPE",
+        "CU_NO": "033",
+        "GEOCODE": "06020615033",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "MUMUNI",
+        "LATITUDE": -8.882858,
+        "LONGITUDE": 148.051604,
+        "REGHH": 33,
+        "TOTPOP2000": 201,
+        "MALE2000": 99,
+        "FEMALE2000": 102,
+        "POP2008": 249,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020615033,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

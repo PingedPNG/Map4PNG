@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7638,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.886598999944,
+          -7.766943000419076
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7638,
+        "CU_NAME": "MARIKI",
+        "CU_NO": "001",
+        "GEOCODE": "02020705001",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "MARIKI",
+        "LATITUDE": -7.771298,
+        "LONGITUDE": 144.890623,
+        "REGHH": 30,
+        "TOTPOP2000": 198,
+        "MALE2000": 107,
+        "FEMALE2000": 91,
+        "POP2008": 243,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020705001,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7639,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8494000004098,
+          -7.743988000345894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7639,
+        "CU_NAME": "UPAIA",
+        "CU_NO": "004",
+        "GEOCODE": "02020705004",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "MARIKI",
+        "LATITUDE": -7.741124,
+        "LONGITUDE": 144.841851,
+        "REGHH": 26,
+        "TOTPOP2000": 183,
+        "MALE2000": 89,
+        "FEMALE2000": 94,
+        "POP2008": 225,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020705004,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7640,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.87401199955423,
+          -7.705124999618988
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7640,
+        "CU_NAME": "AIERE",
+        "CU_NO": "005",
+        "GEOCODE": "02020705005",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "MARIKI",
+        "LATITUDE": -7.706552,
+        "LONGITUDE": 144.872957,
+        "REGHH": 11,
+        "TOTPOP2000": 87,
+        "MALE2000": 44,
+        "FEMALE2000": 43,
+        "POP2008": 106,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020705005,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

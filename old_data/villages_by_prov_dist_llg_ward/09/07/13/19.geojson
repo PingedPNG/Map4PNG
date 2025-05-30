@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17622,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.21173400032387,
+          -6.071455999694592
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17622,
+        "CU_NAME": "PARAKA",
+        "CU_NO": "023",
+        "GEOCODE": "09071319023",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "19",
+        "WARD_NAME": "PARAKA",
+        "LATITUDE": -6.072398,
+        "LONGITUDE": 144.212067,
+        "REGHH": 92,
+        "TOTPOP2000": 532,
+        "MALE2000": 283,
+        "FEMALE2000": 249,
+        "POP2008": 648,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071319023,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17623,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.19823099996074,
+          -6.063399999610226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17623,
+        "CU_NAME": "KIKUA",
+        "CU_NO": "024",
+        "GEOCODE": "09071319024",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "19",
+        "WARD_NAME": "PARAKA",
+        "LATITUDE": -6.064342,
+        "LONGITUDE": 144.198564,
+        "REGHH": 112,
+        "TOTPOP2000": 773,
+        "MALE2000": 398,
+        "FEMALE2000": 375,
+        "POP2008": 941,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071319024,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

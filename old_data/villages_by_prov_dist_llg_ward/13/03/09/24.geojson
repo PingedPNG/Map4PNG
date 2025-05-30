@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8623,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.32381499966255,
+          -5.125781999639514
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8623,
+        "CU_NAME": "SANGAPI (012",
+        "CU_NO": "012",
+        "GEOCODE": "13030924012",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "24",
+        "WARD_NAME": "SANGAPI",
+        "LATITUDE": -5.127181,
+        "LONGITUDE": 144.322758,
+        "REGHH": 153,
+        "TOTPOP2000": 925,
+        "MALE2000": 472,
+        "FEMALE2000": 453,
+        "POP2008": 1145,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030924012,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

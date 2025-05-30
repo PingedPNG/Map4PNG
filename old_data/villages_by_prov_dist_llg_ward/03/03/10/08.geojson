@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.54496400018854,
+          -8.624011000007613
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1533,
+        "CU_NAME": "INAOAE",
+        "CU_NO": "008",
+        "GEOCODE": "03031008008",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "INAOAE",
+        "LATITUDE": -8.625451,
+        "LONGITUDE": 146.543929,
+        "REGHH": 41,
+        "TOTPOP2000": 273,
+        "MALE2000": 141,
+        "FEMALE2000": 132,
+        "POP2008": 327,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031008008,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1534,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.54448200044408,
+          -8.624932000211572
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1534,
+        "CU_NAME": "BEREINA DIOCESE SEMINARY",
+        "CU_NO": "404",
+        "GEOCODE": "03031008404",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "INAOAE",
+        "LATITUDE": -8.626372,
+        "LONGITUDE": 146.543447,
+        "REGHH": 1,
+        "TOTPOP2000": 4,
+        "MALE2000": 4,
+        "FEMALE2000": 0,
+        "POP2008": 4,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031008404,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

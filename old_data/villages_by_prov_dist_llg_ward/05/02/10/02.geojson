@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9985,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1171549996036,
+          -11.319074999911265
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9985,
+        "CU_NAME": "DADAHAI",
+        "CU_NO": "002",
+        "GEOCODE": "05021002002",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "GRASS ISLAND",
+        "LATITUDE": -11.319319,
+        "LONGITUDE": 153.116207,
+        "REGHH": 5,
+        "TOTPOP2000": 26,
+        "MALE2000": 11,
+        "FEMALE2000": 15,
+        "POP2008": 34,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021002002,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9986,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09683574787152,
+          -11.248131124151996
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9986,
+        "CU_NAME": "GRASS ISLAND",
+        "CU_NO": "003",
+        "GEOCODE": "05021002003",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "GRASS ISLAND",
+        "LATITUDE": -11.247368,
+        "LONGITUDE": 153.100912,
+        "REGHH": 47,
+        "TOTPOP2000": 308,
+        "MALE2000": 167,
+        "FEMALE2000": 141,
+        "POP2008": 375,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021002003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9987,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08670400008964,
+          -11.17741299981003
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9987,
+        "CU_NAME": "NIGHAU",
+        "CU_NO": "004",
+        "GEOCODE": "05021002004",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "GRASS ISLAND",
+        "LATITUDE": -11.17678,
+        "LONGITUDE": 153.086829,
+        "REGHH": 25,
+        "TOTPOP2000": 173,
+        "MALE2000": 92,
+        "FEMALE2000": 81,
+        "POP2008": 211,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021002004,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9988,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09439274043268,
+          -11.208979733327965
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9988,
+        "CU_NAME": "HESESAI",
+        "CU_NO": "005",
+        "GEOCODE": "05021002005",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "GRASS ISLAND",
+        "LATITUDE": -11.207883,
+        "LONGITUDE": 153.093001,
+        "REGHH": 23,
+        "TOTPOP2000": 165,
+        "MALE2000": 79,
+        "FEMALE2000": 86,
+        "POP2008": 201,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021002005,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9989,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0847320944107,
+          -11.190751493486573
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9989,
+        "CU_NAME": "HOBUK",
+        "CU_NO": "401",
+        "GEOCODE": "05021002401",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "GRASS ISLAND",
+        "LATITUDE": -11.188768,
+        "LONGITUDE": 153.08726,
+        "REGHH": 3,
+        "TOTPOP2000": 13,
+        "MALE2000": 5,
+        "FEMALE2000": 8,
+        "POP2008": 13,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021002401,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.00106599999594,
+          -5.203511000332355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4888,
+        "CU_NAME": "VILLAGE",
+        "CU_NO": "008",
+        "GEOCODE": "18031105008",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MILIM",
+        "LATITUDE": -5.204923,
+        "LONGITUDE": 152.000116,
+        "REGHH": 33,
+        "TOTPOP2000": 164,
+        "MALE2000": 87,
+        "FEMALE2000": 77,
+        "POP2008": 199,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031105008,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4889,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.98959599985562,
+          -5.191355000033184
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4889,
+        "CU_NAME": "MILIM VILLAGE",
+        "CU_NO": "026",
+        "GEOCODE": "18031105026",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MILIM",
+        "LATITUDE": -5.193702,
+        "LONGITUDE": 151.990504,
+        "REGHH": 39,
+        "TOTPOP2000": 247,
+        "MALE2000": 138,
+        "FEMALE2000": 109,
+        "POP2008": 300,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031105026,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4890,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.04448699957538,
+          -5.22449500034395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4890,
+        "CU_NAME": "MALPAS",
+        "CU_NO": "027",
+        "GEOCODE": "18031105027",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MILIM",
+        "LATITUDE": -5.221182,
+        "LONGITUDE": 152.04496,
+        "REGHH": 6,
+        "TOTPOP2000": 25,
+        "MALE2000": 12,
+        "FEMALE2000": 13,
+        "POP2008": 33,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031105027,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4891,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9897560000394,
+          -5.195892999762066
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4891,
+        "CU_NAME": "MILIM SUB DISTRICT OFFICE",
+        "CU_NO": "403",
+        "GEOCODE": "18031105403",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MILIM",
+        "LATITUDE": -5.194039,
+        "LONGITUDE": 151.991156,
+        "REGHH": 4,
+        "TOTPOP2000": 22,
+        "MALE2000": 12,
+        "FEMALE2000": 10,
+        "POP2008": 30,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031105403,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

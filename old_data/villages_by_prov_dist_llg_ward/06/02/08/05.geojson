@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13846,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.39735299984113,
+          -8.123414999602517
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13846,
+        "CU_NAME": "OIBO",
+        "CU_NO": "007",
+        "GEOCODE": "06020805007",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "OIBO",
+        "LATITUDE": -8.128565,
+        "LONGITUDE": 147.39933,
+        "REGHH": 14,
+        "TOTPOP2000": 76,
+        "MALE2000": 42,
+        "FEMALE2000": 34,
+        "POP2008": 92,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020805007,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13847,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3604889995678,
+          -8.145162999772595
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13847,
+        "CU_NAME": "SEDEMA",
+        "CU_NO": "009",
+        "GEOCODE": "06020805009",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "OIBO",
+        "LATITUDE": -8.1466,
+        "LONGITUDE": 147.359466,
+        "REGHH": 19,
+        "TOTPOP2000": 108,
+        "MALE2000": 51,
+        "FEMALE2000": 57,
+        "POP2008": 132,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020805009,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13848,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.40502900038814,
+          -8.130527000220809
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13848,
+        "CU_NAME": "SIGILEHARI",
+        "CU_NO": "010",
+        "GEOCODE": "06020805010",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "OIBO",
+        "LATITUDE": -8.131964,
+        "LONGITUDE": 147.404007,
+        "REGHH": 17,
+        "TOTPOP2000": 76,
+        "MALE2000": 50,
+        "FEMALE2000": 26,
+        "POP2008": 92,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020805010,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13849,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.35732500024858,
+          -8.134941999673515
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13849,
+        "CU_NAME": "BAHARU",
+        "CU_NO": "011",
+        "GEOCODE": "06020805011",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "OIBO",
+        "LATITUDE": -8.13697,
+        "LONGITUDE": 147.360877,
+        "REGHH": 12,
+        "TOTPOP2000": 52,
+        "MALE2000": 25,
+        "FEMALE2000": 27,
+        "POP2008": 64,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020805011,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13850,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.35374599977808,
+          -8.23892399964285
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13850,
+        "CU_NAME": "GAGAIPO",
+        "CU_NO": "012",
+        "GEOCODE": "06020805012",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "OIBO",
+        "LATITUDE": -8.233893,
+        "LONGITUDE": 147.352717,
+        "REGHH": 2,
+        "TOTPOP2000": 16,
+        "MALE2000": 6,
+        "FEMALE2000": 10,
+        "POP2008": 16,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020805012,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

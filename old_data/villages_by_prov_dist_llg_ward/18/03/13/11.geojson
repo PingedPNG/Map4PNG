@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4993,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.22754000007103,
+          -4.959156000349083
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4993,
+        "CU_NAME": "KARONG",
+        "CU_NO": "013",
+        "GEOCODE": "18031311013",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "11",
+        "WARD_NAME": "KARONG",
+        "LATITUDE": -4.960565,
+        "LONGITUDE": 152.226594,
+        "REGHH": 66,
+        "TOTPOP2000": 267,
+        "MALE2000": 146,
+        "FEMALE2000": 121,
+        "POP2008": 326,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031311013,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

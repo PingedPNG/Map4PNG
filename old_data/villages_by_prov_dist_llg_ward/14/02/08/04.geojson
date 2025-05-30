@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6478,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.07444400039037,
+          -3.878807999589469
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6478,
+        "CU_NAME": "ARIAPAN",
+        "CU_NO": "001",
+        "GEOCODE": "14020804001",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "ARIAPAN",
+        "LATITUDE": -3.88039,
+        "LONGITUDE": 144.073217,
+        "REGHH": 19,
+        "TOTPOP2000": 97,
+        "MALE2000": 52,
+        "FEMALE2000": 45,
+        "POP2008": 113,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020804001,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6479,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.06854800009023,
+          -3.9267619995665655
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6479,
+        "CU_NAME": "KARANAS",
+        "CU_NO": "003",
+        "GEOCODE": "14020804003",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "ARIAPAN",
+        "LATITUDE": -3.928346,
+        "LONGITUDE": 144.067321,
+        "REGHH": 22,
+        "TOTPOP2000": 110,
+        "MALE2000": 65,
+        "FEMALE2000": 45,
+        "POP2008": 132,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020804003,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6480,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.06655299982117,
+          -3.867496000440042
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6480,
+        "CU_NAME": "WASKURIN",
+        "CU_NO": "013",
+        "GEOCODE": "14020804013",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "ARIAPAN",
+        "LATITUDE": -3.870089,
+        "LONGITUDE": 144.068112,
+        "REGHH": 53,
+        "TOTPOP2000": 303,
+        "MALE2000": 174,
+        "FEMALE2000": 129,
+        "POP2008": 361,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020804013,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6481,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.04434700011404,
+          -3.93662200010516
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6481,
+        "CU_NAME": "ARIAPAN R/SETT",
+        "CU_NO": "014",
+        "GEOCODE": "14020804014",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "ARIAPAN",
+        "LATITUDE": -3.920634,
+        "LONGITUDE": 144.051041,
+        "REGHH": 30,
+        "TOTPOP2000": 162,
+        "MALE2000": 68,
+        "FEMALE2000": 94,
+        "POP2008": 194,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020804014,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

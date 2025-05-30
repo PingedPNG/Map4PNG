@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5365,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.38563599990152,
+          -5.877123999772721
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5365,
+        "CU_NAME": "KONDAK",
+        "CU_NO": "007",
+        "GEOCODE": "08010223007",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "23",
+        "WARD_NAME": "KONDAKA",
+        "LATITUDE": -5.891119,
+        "LONGITUDE": 143.385649,
+        "REGHH": 24,
+        "TOTPOP2000": 144,
+        "MALE2000": 66,
+        "FEMALE2000": 78,
+        "POP2008": 181,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010223007,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5366,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.39983700007758,
+          -5.881361000010088
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5366,
+        "CU_NAME": "IPSAM",
+        "CU_NO": "008",
+        "GEOCODE": "08010223008",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "23",
+        "WARD_NAME": "KONDAKA",
+        "LATITUDE": -5.895356,
+        "LONGITUDE": 143.399849,
+        "REGHH": 38,
+        "TOTPOP2000": 204,
+        "MALE2000": 99,
+        "FEMALE2000": 105,
+        "POP2008": 256,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010223008,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5367,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.41285000032735,
+          -5.8976029998784725
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5367,
+        "CU_NAME": "KUSIPA",
+        "CU_NO": "009",
+        "GEOCODE": "08010223009",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "23",
+        "WARD_NAME": "KONDAKA",
+        "LATITUDE": -5.911598,
+        "LONGITUDE": 143.412864,
+        "REGHH": 46,
+        "TOTPOP2000": 222,
+        "MALE2000": 114,
+        "FEMALE2000": 108,
+        "POP2008": 279,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010223009,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5368,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.40362100010918,
+          -5.889599000393503
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5368,
+        "CU_NAME": "LAITE",
+        "CU_NO": "010",
+        "GEOCODE": "08010223010",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "23",
+        "WARD_NAME": "KONDAKA",
+        "LATITUDE": -5.903594,
+        "LONGITUDE": 143.403635,
+        "REGHH": 49,
+        "TOTPOP2000": 283,
+        "MALE2000": 156,
+        "FEMALE2000": 127,
+        "POP2008": 355,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010223010,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5369,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.42727700013347,
+          -5.905721000124004
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5369,
+        "CU_NAME": "KAGALIPA",
+        "CU_NO": "011",
+        "GEOCODE": "08010223011",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "23",
+        "WARD_NAME": "KONDAKA",
+        "LATITUDE": -5.920612,
+        "LONGITUDE": 143.429096,
+        "REGHH": 22,
+        "TOTPOP2000": 129,
+        "MALE2000": 71,
+        "FEMALE2000": 58,
+        "POP2008": 162,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010223011,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

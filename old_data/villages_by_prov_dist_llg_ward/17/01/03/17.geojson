@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12571,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.77153700043232,
+          -2.9569210002039767
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12571,
+        "CU_NAME": "LEON",
+        "CU_NO": "006",
+        "GEOCODE": "17010317006",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "17",
+        "WARD_NAME": "LEON",
+        "LATITUDE": -2.958302,
+        "LONGITUDE": 150.770572,
+        "REGHH": 57,
+        "TOTPOP2000": 323,
+        "MALE2000": 186,
+        "FEMALE2000": 137,
+        "POP2008": 405,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010317006,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12572,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.88153599998645,
+          -2.9068859995891785
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12572,
+        "CU_NAME": "SUMUNA",
+        "CU_NO": "017",
+        "GEOCODE": "17010317017",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "17",
+        "WARD_NAME": "LEON",
+        "LATITUDE": -2.912305,
+        "LONGITUDE": 150.877211,
+        "REGHH": 76,
+        "TOTPOP2000": 387,
+        "MALE2000": 224,
+        "FEMALE2000": 163,
+        "POP2008": 487,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010317017,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

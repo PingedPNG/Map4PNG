@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4828,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.37674200004335,
+          -5.326023999607855
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4828,
+        "CU_NAME": "MILE",
+        "CU_NO": "002",
+        "GEOCODE": "18031018002",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "18",
+        "WARD_NAME": "MILE",
+        "LATITUDE": -5.331175,
+        "LONGITUDE": 151.379493,
+        "REGHH": 104,
+        "TOTPOP2000": 568,
+        "MALE2000": 282,
+        "FEMALE2000": 286,
+        "POP2008": 692,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031018002,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

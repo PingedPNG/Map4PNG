@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7758,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.55654206576378,
+          -7.939514071517124
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7758,
+        "CU_NAME": "OVAHUHU",
+        "CU_NO": "001",
+        "GEOCODE": "02020912001",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "OVAHUHU",
+        "LATITUDE": -7.939432,
+        "LONGITUDE": 145.556677,
+        "REGHH": 34,
+        "TOTPOP2000": 249,
+        "MALE2000": 117,
+        "FEMALE2000": 132,
+        "POP2008": 306,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020912001,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7759,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5360434739273,
+          -7.937920596058632
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7759,
+        "CU_NAME": "OVA'A",
+        "CU_NO": "002",
+        "GEOCODE": "02020912002",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "OVAHUHU",
+        "LATITUDE": -7.941505,
+        "LONGITUDE": 145.540765,
+        "REGHH": 54,
+        "TOTPOP2000": 332,
+        "MALE2000": 174,
+        "FEMALE2000": 158,
+        "POP2008": 408,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020912002,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7760,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.56498099987334,
+          -7.9378829999004665
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7760,
+        "CU_NAME": "LAKOVU",
+        "CU_NO": "003",
+        "GEOCODE": "02020912003",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "OVAHUHU",
+        "LATITUDE": -7.939314,
+        "LONGITUDE": 145.563935,
+        "REGHH": 10,
+        "TOTPOP2000": 59,
+        "MALE2000": 32,
+        "FEMALE2000": 27,
+        "POP2008": 75,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020912003,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

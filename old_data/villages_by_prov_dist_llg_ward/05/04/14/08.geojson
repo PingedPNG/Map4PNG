@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4382650000298,
+          -9.601591000124529
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10226,
+        "CU_NAME": "MAPAMOIWA",
+        "CU_NO": "016",
+        "GEOCODE": "05041408016",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "14",
+        "WARD_NO": "08",
+        "WARD_NAME": "MAPAMOIWA",
+        "LATITUDE": -9.603052,
+        "LONGITUDE": 150.437282,
+        "REGHH": 93,
+        "TOTPOP2000": 453,
+        "MALE2000": 245,
+        "FEMALE2000": 208,
+        "POP2008": 552,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041408016,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.43676300001255,
+          -9.615117999795814
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10227,
+        "CU_NAME": "MAPAMOIWA STATION",
+        "CU_NO": "501",
+        "GEOCODE": "05041408501",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "14",
+        "WARD_NO": "08",
+        "WARD_NAME": "MAPAMOIWA",
+        "LATITUDE": -9.611802,
+        "LONGITUDE": 150.43721,
+        "REGHH": 24,
+        "TOTPOP2000": 144,
+        "MALE2000": 75,
+        "FEMALE2000": 69,
+        "POP2008": 176,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041408501,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

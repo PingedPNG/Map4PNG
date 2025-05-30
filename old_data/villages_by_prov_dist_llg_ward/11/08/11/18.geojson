@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26793764040985,
+          -6.149299500271695
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30997,
+        "CU_NAME": "FANARUTO",
+        "CU_NO": "006",
+        "GEOCODE": "11081118006",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "ORUMBA-FOE",
+        "LATITUDE": -6.1493,
+        "LONGITUDE": 145.267938,
+        "REGHH": 25,
+        "TOTPOP2000": 75,
+        "MALE2000": 37,
+        "FEMALE2000": 38,
+        "POP2008": 91,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30998,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26210419964912,
+          -6.155885160072046
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30998,
+        "CU_NAME": "AFONOHA",
+        "CU_NO": "015",
+        "GEOCODE": "11081118015",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "ORUMBA-FOE",
+        "LATITUDE": -6.155885,
+        "LONGITUDE": 145.262104,
+        "REGHH": 15,
+        "TOTPOP2000": 64,
+        "MALE2000": 46,
+        "FEMALE2000": 18,
+        "POP2008": 75,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30999,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26846863971605,
+          -6.158858399695362
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30999,
+        "CU_NAME": "HONDO HAMU",
+        "CU_NO": "016",
+        "GEOCODE": "11081118016",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "ORUMBA-FOE",
+        "LATITUDE": -6.158858,
+        "LONGITUDE": 145.268469,
+        "REGHH": 27,
+        "TOTPOP2000": 69,
+        "MALE2000": 41,
+        "FEMALE2000": 28,
+        "POP2008": 85,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2624742796644,
+          -6.146737109629839
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31000,
+        "CU_NAME": "AURAPO RILO",
+        "CU_NO": "027",
+        "GEOCODE": "11081118027",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "ORUMBA-FOE",
+        "LATITUDE": -6.146737,
+        "LONGITUDE": 145.262474,
+        "REGHH": 13,
+        "TOTPOP2000": 38,
+        "MALE2000": 21,
+        "FEMALE2000": 17,
+        "POP2008": 46,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31001,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26863496033525,
+          -6.151168349939326
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31001,
+        "CU_NAME": "WAMONAFUTUARO",
+        "CU_NO": "032",
+        "GEOCODE": "11081118032",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "ORUMBA-FOE",
+        "LATITUDE": -6.151168,
+        "LONGITUDE": 145.268635,
+        "REGHH": 21,
+        "TOTPOP2000": 61,
+        "MALE2000": 33,
+        "FEMALE2000": 28,
+        "POP2008": 69,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.25523720043657,
+          -6.1622034298443396
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31002,
+        "CU_NAME": "SALIAM BATO",
+        "CU_NO": "033",
+        "GEOCODE": "11081118033",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "ORUMBA-FOE",
+        "LATITUDE": -6.162203,
+        "LONGITUDE": 145.255237,
+        "REGHH": 14,
+        "TOTPOP2000": 40,
+        "MALE2000": 21,
+        "FEMALE2000": 19,
+        "POP2008": 48,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2563315998235,
+          -6.152379209732715
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31003,
+        "CU_NAME": "KURAWA",
+        "CU_NO": "034",
+        "GEOCODE": "11081118034",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "ORUMBA-FOE",
+        "LATITUDE": -6.152379,
+        "LONGITUDE": 145.256332,
+        "REGHH": 18,
+        "TOTPOP2000": 50,
+        "MALE2000": 25,
+        "FEMALE2000": 25,
+        "POP2008": 58,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26221184040412,
+          -6.1482712496184035
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31004,
+        "CU_NAME": "HUTAMONAU",
+        "CU_NO": "035",
+        "GEOCODE": "11081118035",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "ORUMBA-FOE",
+        "LATITUDE": -6.148271,
+        "LONGITUDE": 145.262212,
+        "REGHH": 14,
+        "TOTPOP2000": 49,
+        "MALE2000": 26,
+        "FEMALE2000": 23,
+        "POP2008": 57,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31005,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2542036401859,
+          -6.15604365029418
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31005,
+        "CU_NAME": "ANGOTIRI",
+        "CU_NO": "036",
+        "GEOCODE": "11081118036",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "ORUMBA-FOE",
+        "LATITUDE": -6.156044,
+        "LONGITUDE": 145.254204,
+        "REGHH": 9,
+        "TOTPOP2000": 43,
+        "MALE2000": 28,
+        "FEMALE2000": 15,
+        "POP2008": 51,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31006,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26188207969426,
+          -6.160290570053746
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31006,
+        "CU_NAME": "LEULO",
+        "CU_NO": "037",
+        "GEOCODE": "11081118037",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "ORUMBA-FOE",
+        "LATITUDE": -6.160291,
+        "LONGITUDE": 145.261882,
+        "REGHH": 15,
+        "TOTPOP2000": 55,
+        "MALE2000": 25,
+        "FEMALE2000": 30,
+        "POP2008": 63,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.25942507970376,
+          -6.188503049975736
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31007,
+        "CU_NAME": "FIEME",
+        "CU_NO": "038",
+        "GEOCODE": "11081118038",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "ORUMBA-FOE",
+        "LATITUDE": -6.188503,
+        "LONGITUDE": 145.259425,
+        "REGHH": 8,
+        "TOTPOP2000": 25,
+        "MALE2000": 14,
+        "FEMALE2000": 11,
+        "POP2008": 33,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2749025596055,
+          -6.154924860393919
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31008,
+        "CU_NAME": "MARUPAMO",
+        "CU_NO": "039",
+        "GEOCODE": "11081118039",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "ORUMBA-FOE",
+        "LATITUDE": -6.154925,
+        "LONGITUDE": 145.274903,
+        "REGHH": 25,
+        "TOTPOP2000": 110,
+        "MALE2000": 60,
+        "FEMALE2000": 50,
+        "POP2008": 132,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31009,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.269347760291,
+          -6.190048169787133
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31009,
+        "CU_NAME": "MARIKU",
+        "CU_NO": "040",
+        "GEOCODE": "11081118040",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "ORUMBA-FOE",
+        "LATITUDE": -6.190048,
+        "LONGITUDE": 145.269348,
+        "REGHH": 23,
+        "TOTPOP2000": 105,
+        "MALE2000": 54,
+        "FEMALE2000": 51,
+        "POP2008": 124,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31010,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27327751974178,
+          -6.12223812019306
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31010,
+        "CU_NAME": "EREFONA",
+        "CU_NO": "041",
+        "GEOCODE": "11081118041",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "ORUMBA-FOE",
+        "LATITUDE": -6.122238,
+        "LONGITUDE": 145.273278,
+        "REGHH": 11,
+        "TOTPOP2000": 38,
+        "MALE2000": 21,
+        "FEMALE2000": 17,
+        "POP2008": 46,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31011,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2667687196008,
+          -6.143060879855682
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31011,
+        "CU_NAME": "HERE FARUTO",
+        "CU_NO": "042",
+        "GEOCODE": "11081118042",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "ORUMBA-FOE",
+        "LATITUDE": -6.143061,
+        "LONGITUDE": 145.266769,
+        "REGHH": 12,
+        "TOTPOP2000": 50,
+        "MALE2000": 26,
+        "FEMALE2000": 24,
+        "POP2008": 58,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

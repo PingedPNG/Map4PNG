@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2135519999249,
+          -6.228139000014778
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11224,
+        "CU_NAME": "KONGE",
+        "CU_NO": "008",
+        "GEOCODE": "12041310008",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "10",
+        "WARD_NAME": "KONGE",
+        "LATITUDE": -6.226534,
+        "LONGITUDE": 147.215548,
+        "REGHH": 5,
+        "TOTPOP2000": 14,
+        "MALE2000": 9,
+        "FEMALE2000": 5,
+        "POP2008": 14,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041310008,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

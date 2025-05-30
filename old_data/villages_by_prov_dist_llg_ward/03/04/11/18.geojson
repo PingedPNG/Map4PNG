@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1623,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.7872610003949,
+          -9.772907999904248
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1623,
+        "CU_NAME": "DAROAKOMANA",
+        "CU_NO": "014",
+        "GEOCODE": "03041118014",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "DAROAKOMANA",
+        "LATITUDE": -9.774363,
+        "LONGITUDE": 147.78624,
+        "REGHH": 28,
+        "TOTPOP2000": 161,
+        "MALE2000": 77,
+        "FEMALE2000": 84,
+        "POP2008": 193,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041118014,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

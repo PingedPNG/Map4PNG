@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10804,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.76835900016783,
+          -6.41945999957926
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10804,
+        "CU_NAME": "BADZULUO",
+        "CU_NO": "002",
+        "GEOCODE": "12020705002",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "WAREO",
+        "LATITUDE": -6.420879,
+        "LONGITUDE": 147.767346,
+        "REGHH": 27,
+        "TOTPOP2000": 103,
+        "MALE2000": 48,
+        "FEMALE2000": 55,
+        "POP2008": 127,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020705002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10805,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.80078499992783,
+          -6.4356430003241485
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10805,
+        "CU_NAME": "HAGONA",
+        "CU_NO": "007",
+        "GEOCODE": "12020705007",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "WAREO",
+        "LATITUDE": -6.437063,
+        "LONGITUDE": 147.799772,
+        "REGHH": 16,
+        "TOTPOP2000": 69,
+        "MALE2000": 34,
+        "FEMALE2000": 35,
+        "POP2008": 85,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020705007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10806,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.75304599997298,
+          -6.436305000275468
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10806,
+        "CU_NAME": "BILANGKO",
+        "CU_NO": "013",
+        "GEOCODE": "12020705013",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "WAREO",
+        "LATITUDE": -6.433802,
+        "LONGITUDE": 147.759012,
+        "REGHH": 28,
+        "TOTPOP2000": 113,
+        "MALE2000": 53,
+        "FEMALE2000": 60,
+        "POP2008": 141,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020705013,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10807,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.777530999556,
+          -6.437684000016532
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10807,
+        "CU_NAME": "KAUNGKO",
+        "CU_NO": "018",
+        "GEOCODE": "12020705018",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "WAREO",
+        "LATITUDE": -6.439104,
+        "LONGITUDE": 147.776518,
+        "REGHH": 29,
+        "TOTPOP2000": 160,
+        "MALE2000": 78,
+        "FEMALE2000": 82,
+        "POP2008": 199,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020705018,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10808,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.74346399966396,
+          -6.443797000431175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10808,
+        "CU_NAME": "URUOR",
+        "CU_NO": "040",
+        "GEOCODE": "12020705040",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "WAREO",
+        "LATITUDE": -6.445217,
+        "LONGITUDE": 147.742449,
+        "REGHH": 36,
+        "TOTPOP2000": 147,
+        "MALE2000": 74,
+        "FEMALE2000": 73,
+        "POP2008": 183,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020705040,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10809,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.77864200042802,
+          -6.434055999984366
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10809,
+        "CU_NAME": "WAREO",
+        "CU_NO": "041",
+        "GEOCODE": "12020705041",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "WAREO",
+        "LATITUDE": -6.435482,
+        "LONGITUDE": 147.77388,
+        "REGHH": 13,
+        "TOTPOP2000": 86,
+        "MALE2000": 38,
+        "FEMALE2000": 48,
+        "POP2008": 108,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020705041,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10810,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.77063699999758,
+          -6.437025000203562
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10810,
+        "CU_NAME": "SELENGKO",
+        "CU_NO": "042",
+        "GEOCODE": "12020705042",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "WAREO",
+        "LATITUDE": -6.438439,
+        "LONGITUDE": 147.773257,
+        "REGHH": 19,
+        "TOTPOP2000": 93,
+        "MALE2000": 44,
+        "FEMALE2000": 49,
+        "POP2008": 117,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020705042,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10811,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.77321400012602,
+          -6.432108000084099
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10811,
+        "CU_NAME": "WAREO C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "12020705401",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "WAREO",
+        "LATITUDE": -6.435482,
+        "LONGITUDE": 147.77388,
+        "REGHH": 5,
+        "TOTPOP2000": 24,
+        "MALE2000": 12,
+        "FEMALE2000": 12,
+        "POP2008": 32,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020705401,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.77768200022422,
+          -6.430424999813852
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10812,
+        "CU_NAME": "WAREO LLG SERVICE CENTRE",
+        "CU_NO": "402",
+        "GEOCODE": "12020705402",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "WAREO",
+        "LATITUDE": -6.435482,
+        "LONGITUDE": 147.77388,
+        "REGHH": 2,
+        "TOTPOP2000": 19,
+        "MALE2000": 10,
+        "FEMALE2000": 9,
+        "POP2008": 27,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020705402,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

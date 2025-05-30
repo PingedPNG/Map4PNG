@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15714,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.98586200033117,
+          -9.059975000246027
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15714,
+        "CU_NAME": "GIRINGAREDE",
+        "CU_NO": "007",
+        "GEOCODE": "01031410007",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "10",
+        "WARD_NAME": "GIRINGAREDE",
+        "LATITUDE": -9.061409,
+        "LONGITUDE": 142.984781,
+        "REGHH": 66,
+        "TOTPOP2000": 377,
+        "MALE2000": 185,
+        "FEMALE2000": 192,
+        "POP2008": 489,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031410007,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

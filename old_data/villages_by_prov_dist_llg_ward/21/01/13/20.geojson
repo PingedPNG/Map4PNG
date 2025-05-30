@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20382,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.37344199964866,
+          -5.958169999645747
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20382,
+        "CU_NAME": "PINGI",
+        "CU_NO": "010",
+        "GEOCODE": "07041320010",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "20",
+        "WARD_NAME": "IARU",
+        "LATITUDE": -5.962677,
+        "LONGITUDE": 143.372639,
+        "REGHH": 69,
+        "TOTPOP2000": 256,
+        "MALE2000": 134,
+        "FEMALE2000": 122,
+        "POP2008": 356,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041320010,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20383,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.37034599986805,
+          -5.959455999594638
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20383,
+        "CU_NAME": "YONGO",
+        "CU_NO": "022",
+        "GEOCODE": "07041320022",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "20",
+        "WARD_NAME": "IARU",
+        "LATITUDE": -5.962677,
+        "LONGITUDE": 143.372639,
+        "REGHH": 47,
+        "TOTPOP2000": 198,
+        "MALE2000": 102,
+        "FEMALE2000": 96,
+        "POP2008": 275,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041320022,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20384,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.37267999958237,
+          -5.960257999706869
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20384,
+        "CU_NAME": "HIRI",
+        "CU_NO": "023",
+        "GEOCODE": "07041320023",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "20",
+        "WARD_NAME": "IARU",
+        "LATITUDE": -5.962677,
+        "LONGITUDE": 143.372639,
+        "REGHH": 22,
+        "TOTPOP2000": 88,
+        "MALE2000": 42,
+        "FEMALE2000": 46,
+        "POP2008": 123,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041320023,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20385,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.37054099986733,
+          -5.957628999878409
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20385,
+        "CU_NAME": "LUIPA",
+        "CU_NO": "024",
+        "GEOCODE": "07041320024",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "20",
+        "WARD_NAME": "IARU",
+        "LATITUDE": -5.962677,
+        "LONGITUDE": 143.372639,
+        "REGHH": 36,
+        "TOTPOP2000": 149,
+        "MALE2000": 73,
+        "FEMALE2000": 76,
+        "POP2008": 207,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041320024,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20386,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.37246100027505,
+          -5.956607000412703
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20386,
+        "CU_NAME": "ULAPA",
+        "CU_NO": "025",
+        "GEOCODE": "07041320025",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "20",
+        "WARD_NAME": "IARU",
+        "LATITUDE": -5.962677,
+        "LONGITUDE": 143.372639,
+        "REGHH": 17,
+        "TOTPOP2000": 83,
+        "MALE2000": 48,
+        "FEMALE2000": 35,
+        "POP2008": 115,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041320025,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

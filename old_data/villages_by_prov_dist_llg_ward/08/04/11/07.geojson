@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5769,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.65293000011945,
+          -5.447868000407823
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5769,
+        "CU_NAME": "SAKARIP",
+        "CU_NO": "015",
+        "GEOCODE": "08041107015",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "SAKARIP",
+        "LATITUDE": -5.449021,
+        "LONGITUDE": 143.65111,
+        "REGHH": 50,
+        "TOTPOP2000": 223,
+        "MALE2000": 97,
+        "FEMALE2000": 126,
+        "POP2008": 280,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041107015,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5770,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6550629995578,
+          -5.4511479996804155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5770,
+        "CU_NAME": "WARUMANDA",
+        "CU_NO": "016",
+        "GEOCODE": "08041107016",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "SAKARIP",
+        "LATITUDE": -5.452549,
+        "LONGITUDE": 143.653997,
+        "REGHH": 58,
+        "TOTPOP2000": 431,
+        "MALE2000": 214,
+        "FEMALE2000": 217,
+        "POP2008": 541,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041107016,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5771,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.65766099975542,
+          -5.45227699958383
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5771,
+        "CU_NAME": "WAIMU",
+        "CU_NO": "017",
+        "GEOCODE": "08041107017",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "SAKARIP",
+        "LATITUDE": -5.453678,
+        "LONGITUDE": 143.656595,
+        "REGHH": 51,
+        "TOTPOP2000": 238,
+        "MALE2000": 126,
+        "FEMALE2000": 112,
+        "POP2008": 299,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041107017,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5772,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6519299998697,
+          -5.4488780002195085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5772,
+        "CU_NAME": "SAKARIP C/SCH, A/POST, E/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "08041107401",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "07",
+        "WARD_NAME": "SAKARIP",
+        "LATITUDE": -5.449021,
+        "LONGITUDE": 143.65111,
+        "REGHH": 7,
+        "TOTPOP2000": 24,
+        "MALE2000": 10,
+        "FEMALE2000": 14,
+        "POP2008": 32,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041107401,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

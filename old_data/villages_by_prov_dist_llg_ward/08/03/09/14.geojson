@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5723,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1409309999657,
+          -5.41156599997089
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5723,
+        "CU_NAME": "YAPAREP",
+        "CU_NO": "009",
+        "GEOCODE": "08030914009",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "YAPAREP",
+        "LATITUDE": -5.413967,
+        "LONGITUDE": 143.141369,
+        "REGHH": 81,
+        "TOTPOP2000": 455,
+        "MALE2000": 234,
+        "FEMALE2000": 221,
+        "POP2008": 572,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030914009,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.14176699984728,
+          -5.421583999701795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5724,
+        "CU_NAME": "YOPORAI",
+        "CU_NO": "010",
+        "GEOCODE": "08030914010",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "YAPAREP",
+        "LATITUDE": -5.422984,
+        "LONGITUDE": 143.140695,
+        "REGHH": 37,
+        "TOTPOP2000": 341,
+        "MALE2000": 173,
+        "FEMALE2000": 168,
+        "POP2008": 428,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030914010,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

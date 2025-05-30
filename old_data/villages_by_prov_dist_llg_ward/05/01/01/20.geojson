@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9580,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.31233199972212,
+          -9.638809999681712
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9580,
+        "CU_NAME": "BINIGUNI",
+        "CU_NO": "006",
+        "GEOCODE": "05010120006",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "20",
+        "WARD_NAME": "BINIGUNI",
+        "LATITUDE": -9.643039,
+        "LONGITUDE": 149.301897,
+        "REGHH": 70,
+        "TOTPOP2000": 463,
+        "MALE2000": 244,
+        "FEMALE2000": 219,
+        "POP2008": 564,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010120006,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

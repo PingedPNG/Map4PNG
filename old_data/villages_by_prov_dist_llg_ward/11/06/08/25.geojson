@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30303,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89822887955916,
+          -6.674715989651133
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30303,
+        "CU_NAME": "KARAGWAINARA",
+        "CU_NO": "004",
+        "GEOCODE": "11060825004",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "25",
+        "WARD_NAME": "KONKOMBIRA",
+        "LATITUDE": -6.674716,
+        "LONGITUDE": 145.898229,
+        "REGHH": 22,
+        "TOTPOP2000": 107,
+        "MALE2000": 48,
+        "FEMALE2000": 59,
+        "POP2008": 127,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30304,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.88846891960497,
+          -6.675683580133068
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30304,
+        "CU_NAME": "NUNGATARA",
+        "CU_NO": "005",
+        "GEOCODE": "11060825005",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "25",
+        "WARD_NAME": "KONKOMBIRA",
+        "LATITUDE": -6.675684,
+        "LONGITUDE": 145.888469,
+        "REGHH": 30,
+        "TOTPOP2000": 196,
+        "MALE2000": 95,
+        "FEMALE2000": 101,
+        "POP2008": 233,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30305,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.906042679626,
+          -6.678774270316296
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30305,
+        "CU_NAME": "ONINARATA",
+        "CU_NO": "006",
+        "GEOCODE": "11060825006",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "25",
+        "WARD_NAME": "KONKOMBIRA",
+        "LATITUDE": -6.678774,
+        "LONGITUDE": 145.906043,
+        "REGHH": 25,
+        "TOTPOP2000": 131,
+        "MALE2000": 67,
+        "FEMALE2000": 64,
+        "POP2008": 155,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

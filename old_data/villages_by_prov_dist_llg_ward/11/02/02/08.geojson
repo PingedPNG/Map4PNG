@@ -1,0 +1,901 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 28999,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.35483299994303,
+          -6.0057839695545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28999,
+        "CU_NAME": "GOLIPEIMOKA",
+        "CU_NO": "020",
+        "GEOCODE": "11020208020",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.005784,
+        "LONGITUDE": 145.354833,
+        "REGHH": 28,
+        "TOTPOP2000": 127,
+        "MALE2000": 56,
+        "FEMALE2000": 71,
+        "POP2008": 151,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3535971201111,
+          -6.0063290099757864
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29000,
+        "CU_NAME": "HIMEIMEKY HPIC",
+        "CU_NO": "023",
+        "GEOCODE": "11020208023",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.006329,
+        "LONGITUDE": 145.353597,
+        "REGHH": 50,
+        "TOTPOP2000": 223,
+        "MALE2000": 104,
+        "FEMALE2000": 119,
+        "POP2008": 265,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29001,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.35552276016733,
+          -6.003901979892419
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29001,
+        "CU_NAME": "KENI SSG",
+        "CU_NO": "027",
+        "GEOCODE": "11020208027",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.003902,
+        "LONGITUDE": 145.355523,
+        "REGHH": 40,
+        "TOTPOP2000": 176,
+        "MALE2000": 91,
+        "FEMALE2000": 85,
+        "POP2008": 208,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.36123560004296,
+          -6.007428450062889
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29002,
+        "CU_NAME": "BLACKS",
+        "CU_NO": "030",
+        "GEOCODE": "11020208030",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.007428,
+        "LONGITUDE": 145.361236,
+        "REGHH": 49,
+        "TOTPOP2000": 164,
+        "MALE2000": 83,
+        "FEMALE2000": 81,
+        "POP2008": 196,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.36288691989546,
+          -6.001487370345842
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29003,
+        "CU_NAME": "HAUSLAIN KTUS",
+        "CU_NO": "039",
+        "GEOCODE": "11020208039",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.001487,
+        "LONGITUDE": 145.362887,
+        "REGHH": 57,
+        "TOTPOP2000": 219,
+        "MALE2000": 111,
+        "FEMALE2000": 108,
+        "POP2008": 260,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.35291815984522,
+          -6.008685749947347
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29004,
+        "CU_NAME": "AMUKILO IMUTS",
+        "CU_NO": "056",
+        "GEOCODE": "11020208056",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.008686,
+        "LONGITUDE": 145.352918,
+        "REGHH": 36,
+        "TOTPOP2000": 120,
+        "MALE2000": 53,
+        "FEMALE2000": 67,
+        "POP2008": 144,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29005,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.358132039662,
+          -5.994710459819828
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29005,
+        "CU_NAME": "LOBSTAR",
+        "CU_NO": "057",
+        "GEOCODE": "11020208057",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -5.99471,
+        "LONGITUDE": 145.358132,
+        "REGHH": 21,
+        "TOTPOP2000": 84,
+        "MALE2000": 47,
+        "FEMALE2000": 37,
+        "POP2008": 100,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29006,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.35796644029904,
+          -6.009169769569155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29006,
+        "CU_NAME": "AMUKILO IGTO",
+        "CU_NO": "058",
+        "GEOCODE": "11020208058",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.00917,
+        "LONGITUDE": 145.357966,
+        "REGHH": 39,
+        "TOTPOP2000": 148,
+        "MALE2000": 79,
+        "FEMALE2000": 69,
+        "POP2008": 176,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3563439203357,
+          -6.005512980439676
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29007,
+        "CU_NAME": "MATHEHAU",
+        "CU_NO": "059",
+        "GEOCODE": "11020208059",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.005513,
+        "LONGITUDE": 145.356344,
+        "REGHH": 68,
+        "TOTPOP2000": 250,
+        "MALE2000": 115,
+        "FEMALE2000": 135,
+        "POP2008": 298,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3532209202093,
+          -6.006972959634311
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29008,
+        "CU_NAME": "BODA",
+        "CU_NO": "060",
+        "GEOCODE": "11020208060",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.006973,
+        "LONGITUDE": 145.353221,
+        "REGHH": 51,
+        "TOTPOP2000": 265,
+        "MALE2000": 149,
+        "FEMALE2000": 116,
+        "POP2008": 315,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29009,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.35785700000065,
+          -6.004280970390425
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29009,
+        "CU_NAME": "SELEHOKA",
+        "CU_NO": "061",
+        "GEOCODE": "11020208061",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.004281,
+        "LONGITUDE": 145.357857,
+        "REGHH": 49,
+        "TOTPOP2000": 237,
+        "MALE2000": 109,
+        "FEMALE2000": 128,
+        "POP2008": 282,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29010,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.35552095972457,
+          -6.0052359595718485
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29010,
+        "CU_NAME": "LUTUMEKA",
+        "CU_NO": "062",
+        "GEOCODE": "11020208062",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.005236,
+        "LONGITUDE": 145.355521,
+        "REGHH": 39,
+        "TOTPOP2000": 171,
+        "MALE2000": 80,
+        "FEMALE2000": 91,
+        "POP2008": 203,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29011,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3377754795548,
+          -6.005907989661921
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29011,
+        "CU_NAME": "SUKAPASS",
+        "CU_NO": "063",
+        "GEOCODE": "11020208063",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.005908,
+        "LONGITUDE": 145.337775,
+        "REGHH": 32,
+        "TOTPOP2000": 149,
+        "MALE2000": 82,
+        "FEMALE2000": 67,
+        "POP2008": 177,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29012,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.35295956013567,
+          -6.001465140004143
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29012,
+        "CU_NAME": "FRIGANO",
+        "CU_NO": "064",
+        "GEOCODE": "11020208064",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.001465,
+        "LONGITUDE": 145.35296,
+        "REGHH": 22,
+        "TOTPOP2000": 109,
+        "MALE2000": 51,
+        "FEMALE2000": 58,
+        "POP2008": 130,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29013,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.34214912008588,
+          -6.008106150378467
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29013,
+        "CU_NAME": "MUMTUITOKU",
+        "CU_NO": "065",
+        "GEOCODE": "11020208065",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.008106,
+        "LONGITUDE": 145.342149,
+        "REGHH": 16,
+        "TOTPOP2000": 92,
+        "MALE2000": 45,
+        "FEMALE2000": 47,
+        "POP2008": 108,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29014,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.34802036025144,
+          -5.999492520263573
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29014,
+        "CU_NAME": "SINIPEX",
+        "CU_NO": "066",
+        "GEOCODE": "11020208066",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -5.999493,
+        "LONGITUDE": 145.34802,
+        "REGHH": 27,
+        "TOTPOP2000": 131,
+        "MALE2000": 68,
+        "FEMALE2000": 63,
+        "POP2008": 155,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29015,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.35088560029033,
+          -6.012787949903895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29015,
+        "CU_NAME": "UHONEGOLALO",
+        "CU_NO": "067",
+        "GEOCODE": "11020208067",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.012788,
+        "LONGITUDE": 145.350886,
+        "REGHH": 39,
+        "TOTPOP2000": 183,
+        "MALE2000": 95,
+        "FEMALE2000": 88,
+        "POP2008": 217,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29016,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3504939203582,
+          -6.010602209724141
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29016,
+        "CU_NAME": "HAGERETO",
+        "CU_NO": "068",
+        "GEOCODE": "11020208068",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.010602,
+        "LONGITUDE": 145.350494,
+        "REGHH": 29,
+        "TOTPOP2000": 91,
+        "MALE2000": 47,
+        "FEMALE2000": 44,
+        "POP2008": 107,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29017,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.35043883958087,
+          -6.006732030358876
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29017,
+        "CU_NAME": "AVESA CHURCH",
+        "CU_NO": "069",
+        "GEOCODE": "11020208069",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.006732,
+        "LONGITUDE": 145.350439,
+        "REGHH": 21,
+        "TOTPOP2000": 93,
+        "MALE2000": 47,
+        "FEMALE2000": 46,
+        "POP2008": 109,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29018,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.33867511996084,
+          -6.015982050431262
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29018,
+        "CU_NAME": "GIHUINOKA",
+        "CU_NO": "070",
+        "GEOCODE": "11020208070",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.015982,
+        "LONGITUDE": 145.338675,
+        "REGHH": 25,
+        "TOTPOP2000": 76,
+        "MALE2000": 43,
+        "FEMALE2000": 33,
+        "POP2008": 92,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29019,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.34685180007057,
+          -6.00776964025664
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29019,
+        "CU_NAME": "MERIEKA",
+        "CU_NO": "071",
+        "GEOCODE": "11020208071",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.00777,
+        "LONGITUDE": 145.346852,
+        "REGHH": 12,
+        "TOTPOP2000": 43,
+        "MALE2000": 19,
+        "FEMALE2000": 24,
+        "POP2008": 51,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29020,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3375936798045,
+          -6.0125868003405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29020,
+        "CU_NAME": "MULITOKA",
+        "CU_NO": "072",
+        "GEOCODE": "11020208072",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.012587,
+        "LONGITUDE": 145.337594,
+        "REGHH": 56,
+        "TOTPOP2000": 297,
+        "MALE2000": 156,
+        "FEMALE2000": 141,
+        "POP2008": 354,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29021,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3370904003018,
+          -6.010276860188924
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29021,
+        "CU_NAME": "TASI WARA",
+        "CU_NO": "073",
+        "GEOCODE": "11020208073",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.010277,
+        "LONGITUDE": 145.33709,
+        "REGHH": 43,
+        "TOTPOP2000": 147,
+        "MALE2000": 77,
+        "FEMALE2000": 70,
+        "POP2008": 174,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29022,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.34235719982496,
+          -6.013213470425285
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29022,
+        "CU_NAME": "DAULOKA",
+        "CU_NO": "074",
+        "GEOCODE": "11020208074",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.013213,
+        "LONGITUDE": 145.342357,
+        "REGHH": 4,
+        "TOTPOP2000": 17,
+        "MALE2000": 10,
+        "FEMALE2000": 7,
+        "POP2008": 17,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29023,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.33044516041593,
+          -6.0126836402377535
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29023,
+        "CU_NAME": "NOSAGOPATO",
+        "CU_NO": "075",
+        "GEOCODE": "11020208075",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.012684,
+        "LONGITUDE": 145.330445,
+        "REGHH": 9,
+        "TOTPOP2000": 35,
+        "MALE2000": 20,
+        "FEMALE2000": 15,
+        "POP2008": 43,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29024,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.34580527969,
+          -6.010231049623201
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29024,
+        "CU_NAME": "LASAUKO",
+        "CU_NO": "076",
+        "GEOCODE": "11020208076",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.010231,
+        "LONGITUDE": 145.345805,
+        "REGHH": 5,
+        "TOTPOP2000": 20,
+        "MALE2000": 12,
+        "FEMALE2000": 8,
+        "POP2008": 20,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29025,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.33219259980865,
+          -6.010407539776111
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29025,
+        "CU_NAME": "HONEKEKA",
+        "CU_NO": "077",
+        "GEOCODE": "11020208077",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.010408,
+        "LONGITUDE": 145.332193,
+        "REGHH": 6,
+        "TOTPOP2000": 20,
+        "MALE2000": 11,
+        "FEMALE2000": 9,
+        "POP2008": 20,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29026,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.354278960006,
+          -6.0163047901339155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29026,
+        "CU_NAME": "IFUFI IUFA COM/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "11020208401",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "IFIUFA",
+        "LATITUDE": -6.016305,
+        "LONGITUDE": 145.354279,
+        "REGHH": 7,
+        "TOTPOP2000": 45,
+        "MALE2000": 22,
+        "FEMALE2000": 23,
+        "POP2008": 53,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

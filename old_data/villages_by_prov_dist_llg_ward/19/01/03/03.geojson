@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17771,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.54267500015123,
+          -6.241535999986354
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17771,
+        "CU_NAME": "APUGI",
+        "CU_NO": "007",
+        "GEOCODE": "19010303007",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "AEGLIP",
+        "LATITUDE": -6.2411,
+        "LONGITUDE": 149.542,
+        "REGHH": 56,
+        "TOTPOP2000": 427,
+        "MALE2000": 234,
+        "FEMALE2000": 193,
+        "POP2008": 562,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010303007,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17772,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.5603630001524,
+          -6.264440000405671
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17772,
+        "CU_NAME": "AVIKLO",
+        "CU_NO": "009",
+        "GEOCODE": "19010303009",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "AEGLIP",
+        "LATITUDE": -6.265861,
+        "LONGITUDE": 149.559374,
+        "REGHH": 80,
+        "TOTPOP2000": 468,
+        "MALE2000": 239,
+        "FEMALE2000": 229,
+        "POP2008": 616,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010303009,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17773,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.59598699990022,
+          -6.274998999903858
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17773,
+        "CU_NAME": "KALAMLO",
+        "CU_NO": "013",
+        "GEOCODE": "19010303013",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "AEGLIP",
+        "LATITUDE": -6.27642,
+        "LONGITUDE": 149.595,
+        "REGHH": 26,
+        "TOTPOP2000": 151,
+        "MALE2000": 85,
+        "FEMALE2000": 66,
+        "POP2008": 198,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010303013,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

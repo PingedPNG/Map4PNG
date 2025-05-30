@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8999229999465,
+          -4.65954600004784
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9008,
+        "CU_NAME": "KUDUK",
+        "CU_NO": "014",
+        "GEOCODE": "13051330014",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "30",
+        "WARD_NAME": "WARD 30",
+        "LATITUDE": -4.660942,
+        "LONGITUDE": 145.898888,
+        "REGHH": 160,
+        "TOTPOP2000": 832,
+        "MALE2000": 425,
+        "FEMALE2000": 407,
+        "POP2008": 1029,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051330014,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9009,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89659100007464,
+          -4.668976999688709
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9009,
+        "CU_NAME": "MOBAN",
+        "CU_NO": "022",
+        "GEOCODE": "13051330022",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "30",
+        "WARD_NAME": "WARD 30",
+        "LATITUDE": -4.670373,
+        "LONGITUDE": 145.895556,
+        "REGHH": 94,
+        "TOTPOP2000": 481,
+        "MALE2000": 264,
+        "FEMALE2000": 217,
+        "POP2008": 595,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051330022,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9010,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.88134400022545,
+          -4.660321999860344
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9010,
+        "CU_NAME": "TABEL C/MISS & P/SCH.",
+        "CU_NO": "413",
+        "GEOCODE": "13051330413",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "30",
+        "WARD_NAME": "WARD 30",
+        "LATITUDE": -4.659819,
+        "LONGITUDE": 145.879962,
+        "REGHH": 8,
+        "TOTPOP2000": 36,
+        "MALE2000": 16,
+        "FEMALE2000": 20,
+        "POP2008": 44,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051330413,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

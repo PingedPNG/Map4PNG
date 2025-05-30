@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8296,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6108210003889,
+          -5.185771999777899
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8296,
+        "CU_NAME": "BAIMAK",
+        "CU_NO": "004",
+        "GEOCODE": "13020601004",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "WARD ONE",
+        "LATITUDE": -5.187174,
+        "LONGITUDE": 145.609781,
+        "REGHH": 57,
+        "TOTPOP2000": 358,
+        "MALE2000": 173,
+        "FEMALE2000": 185,
+        "POP2008": 443,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020601004,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8297,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.61769900010881,
+          -5.162773000373647
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8297,
+        "CU_NAME": "BARIK",
+        "CU_NO": "005",
+        "GEOCODE": "13020601005",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "WARD ONE",
+        "LATITUDE": -5.164176,
+        "LONGITUDE": 145.616659,
+        "REGHH": 4,
+        "TOTPOP2000": 22,
+        "MALE2000": 15,
+        "FEMALE2000": 7,
+        "POP2008": 30,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020601005,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.62729600021032,
+          -5.171461999971257
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8298,
+        "CU_NAME": "MEGINAM",
+        "CU_NO": "016",
+        "GEOCODE": "13020601016",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "WARD ONE",
+        "LATITUDE": -5.172864,
+        "LONGITUDE": 145.626256,
+        "REGHH": 26,
+        "TOTPOP2000": 160,
+        "MALE2000": 81,
+        "FEMALE2000": 79,
+        "POP2008": 198,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020601016,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8299,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.61152899976355,
+          -5.191652000239571
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8299,
+        "CU_NAME": "WANIF",
+        "CU_NO": "021",
+        "GEOCODE": "13020601021",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "WARD ONE",
+        "LATITUDE": -5.193054,
+        "LONGITUDE": 145.610489,
+        "REGHH": 25,
+        "TOTPOP2000": 135,
+        "MALE2000": 66,
+        "FEMALE2000": 69,
+        "POP2008": 167,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020601021,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8300,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.59955699985574,
+          -5.19277399982019
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8300,
+        "CU_NAME": "LOWO",
+        "CU_NO": "022",
+        "GEOCODE": "13020601022",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "WARD ONE",
+        "LATITUDE": -5.194176,
+        "LONGITUDE": 145.598517,
+        "REGHH": 11,
+        "TOTPOP2000": 59,
+        "MALE2000": 30,
+        "FEMALE2000": 29,
+        "POP2008": 75,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020601022,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

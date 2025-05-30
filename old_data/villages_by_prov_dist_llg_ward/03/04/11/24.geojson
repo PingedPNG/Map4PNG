@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1637,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.7310089999654,
+          -9.732053999992047
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1637,
+        "CU_NAME": "KAREKODOBU",
+        "CU_NO": "048",
+        "GEOCODE": "03041124048",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "24",
+        "WARD_NAME": "KAREKODOBU",
+        "LATITUDE": -9.733508,
+        "LONGITUDE": 147.729987,
+        "REGHH": 85,
+        "TOTPOP2000": 423,
+        "MALE2000": 223,
+        "FEMALE2000": 200,
+        "POP2008": 507,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041124048,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

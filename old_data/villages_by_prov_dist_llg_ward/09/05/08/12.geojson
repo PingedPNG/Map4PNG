@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1790460001729,
+          -5.609633000362635
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17004,
+        "CU_NAME": "BITA",
+        "CU_NO": "026",
+        "GEOCODE": "09050812026",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "12",
+        "WARD_NAME": "BITA",
+        "LATITUDE": -5.610569,
+        "LONGITUDE": 144.179379,
+        "REGHH": 155,
+        "TOTPOP2000": 616,
+        "MALE2000": 293,
+        "FEMALE2000": 323,
+        "POP2008": 750,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050812026,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

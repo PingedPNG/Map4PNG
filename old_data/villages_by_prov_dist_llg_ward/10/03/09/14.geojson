@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14355,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.01285500005827,
+          -6.2750610000650795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14355,
+        "CU_NAME": "NIMEGULA",
+        "CU_NO": "003",
+        "GEOCODE": "10030914003",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "TAPAEKUL",
+        "LATITUDE": -6.276473,
+        "LONGITUDE": 145.011805,
+        "REGHH": 26,
+        "TOTPOP2000": 137,
+        "MALE2000": 76,
+        "FEMALE2000": 61,
+        "POP2008": 160,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030914003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14356,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.01144099960254,
+          -6.275860000038904
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14356,
+        "CU_NAME": "TABAIKUL",
+        "CU_NO": "004",
+        "GEOCODE": "10030914004",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "TAPAEKUL",
+        "LATITUDE": -6.277272,
+        "LONGITUDE": 145.010391,
+        "REGHH": 43,
+        "TOTPOP2000": 182,
+        "MALE2000": 94,
+        "FEMALE2000": 88,
+        "POP2008": 209,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030914004,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

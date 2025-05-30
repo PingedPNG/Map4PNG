@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5860,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.43512200038003,
+          -5.126621999705492
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5860,
+        "CU_NAME": "KOTKOT",
+        "CU_NO": "001",
+        "GEOCODE": "08041202001",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "NET NAI",
+        "LATITUDE": -5.128422,
+        "LONGITUDE": 143.432154,
+        "REGHH": 27,
+        "TOTPOP2000": 156,
+        "MALE2000": 77,
+        "FEMALE2000": 79,
+        "POP2008": 197,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041202001,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

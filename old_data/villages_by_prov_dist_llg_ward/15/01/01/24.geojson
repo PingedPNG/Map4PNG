@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18333,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.96455099962895,
+          -3.392189999868549
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18333,
+        "CU_NAME": "BALUP",
+        "CU_NO": "003",
+        "GEOCODE": "15010124003",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "24",
+        "WARD_NAME": "BALUP",
+        "LATITUDE": -3.393568,
+        "LONGITUDE": 142.96348,
+        "REGHH": 32,
+        "TOTPOP2000": 214,
+        "MALE2000": 114,
+        "FEMALE2000": 100,
+        "POP2008": 258,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010124003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18334,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.01060800025903,
+          -3.403004000334306
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18334,
+        "CU_NAME": "MALIN",
+        "CU_NO": "009",
+        "GEOCODE": "15010124009",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "24",
+        "WARD_NAME": "BALUP",
+        "LATITUDE": -3.404382,
+        "LONGITUDE": 143.009537,
+        "REGHH": 19,
+        "TOTPOP2000": 122,
+        "MALE2000": 56,
+        "FEMALE2000": 66,
+        "POP2008": 146,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010124009,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

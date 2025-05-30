@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.50608599956934,
+          -3.6781199997381577
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18496,
+        "CU_NAME": "YIMINUM",
+        "CU_NO": "011",
+        "GEOCODE": "15020504011",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "YIMINUM",
+        "LATITUDE": -3.679501,
+        "LONGITUDE": 142.505009,
+        "REGHH": 110,
+        "TOTPOP2000": 529,
+        "MALE2000": 260,
+        "FEMALE2000": 269,
+        "POP2008": 640,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020504011,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

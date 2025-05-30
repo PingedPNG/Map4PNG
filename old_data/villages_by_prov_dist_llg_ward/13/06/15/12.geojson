@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9165,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.18960100018603,
+          -5.717499999625261
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9165,
+        "CU_NAME": "EMEGARI",
+        "CU_NO": "009",
+        "GEOCODE": "13061512009",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD 12",
+        "LATITUDE": -5.718907,
+        "LONGITUDE": 145.188555,
+        "REGHH": 8,
+        "TOTPOP2000": 44,
+        "MALE2000": 25,
+        "FEMALE2000": 19,
+        "POP2008": 52,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061512009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9166,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1970819998345,
+          -5.710750000412133
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9166,
+        "CU_NAME": "BOGONOGOI",
+        "CU_NO": "010",
+        "GEOCODE": "13061512010",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD 12",
+        "LATITUDE": -5.712157,
+        "LONGITUDE": 145.196036,
+        "REGHH": 17,
+        "TOTPOP2000": 123,
+        "MALE2000": 67,
+        "FEMALE2000": 56,
+        "POP2008": 152,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061512010,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9167,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.20548299964082,
+          -5.717458000386387
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9167,
+        "CU_NAME": "MAGUKORO",
+        "CU_NO": "011",
+        "GEOCODE": "13061512011",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD 12",
+        "LATITUDE": -5.71382,
+        "LONGITUDE": 145.206254,
+        "REGHH": 19,
+        "TOTPOP2000": 96,
+        "MALE2000": 49,
+        "FEMALE2000": 47,
+        "POP2008": 120,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061512011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9168,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1896590001628,
+          -5.7166170002743115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9168,
+        "CU_NAME": "OROBOMARAI",
+        "CU_NO": "012",
+        "GEOCODE": "13061512012",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD 12",
+        "LATITUDE": -5.718024,
+        "LONGITUDE": 145.188613,
+        "REGHH": 17,
+        "TOTPOP2000": 95,
+        "MALE2000": 51,
+        "FEMALE2000": 44,
+        "POP2008": 119,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061512012,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.02601800003072,
+          -6.172101999607548
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14976,
+        "CU_NAME": "UBANIDIAWA",
+        "CU_NO": "007",
+        "GEOCODE": "10061823007",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "23",
+        "WARD_NAME": "KAEPAI",
+        "LATITUDE": -6.173513,
+        "LONGITUDE": 145.024969,
+        "REGHH": 28,
+        "TOTPOP2000": 95,
+        "MALE2000": 45,
+        "FEMALE2000": 50,
+        "POP2008": 111,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061823007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14977,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.020854000212,
+          -6.169292999572235
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14977,
+        "CU_NAME": "KAGE",
+        "CU_NO": "008",
+        "GEOCODE": "10061823008",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "23",
+        "WARD_NAME": "KAEPAI",
+        "LATITUDE": -6.170704,
+        "LONGITUDE": 145.019805,
+        "REGHH": 29,
+        "TOTPOP2000": 102,
+        "MALE2000": 51,
+        "FEMALE2000": 51,
+        "POP2008": 118,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061823008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14978,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.02442899959874,
+          -6.1788210000890444
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14978,
+        "CU_NAME": "LAS KAGE",
+        "CU_NO": "009",
+        "GEOCODE": "10061823009",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "23",
+        "WARD_NAME": "KAEPAI",
+        "LATITUDE": -6.180232,
+        "LONGITUDE": 145.02338,
+        "REGHH": 20,
+        "TOTPOP2000": 84,
+        "MALE2000": 40,
+        "FEMALE2000": 44,
+        "POP2008": 100,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061823009,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

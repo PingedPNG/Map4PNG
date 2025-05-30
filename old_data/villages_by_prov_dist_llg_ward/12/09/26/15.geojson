@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.59398199956968,
+          -6.267008000119063
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12260,
+        "CU_NAME": "ORARAKO",
+        "CU_NO": "010",
+        "GEOCODE": "12092615010",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "15",
+        "WARD_NAME": "REBAFU",
+        "LATITUDE": -6.268425,
+        "LONGITUDE": 147.592967,
+        "REGHH": 57,
+        "TOTPOP2000": 424,
+        "MALE2000": 211,
+        "FEMALE2000": 213,
+        "POP2008": 529,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092615010,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5868679997584,
+          -6.269310000156338
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12261,
+        "CU_NAME": "REBAFU",
+        "CU_NO": "011",
+        "GEOCODE": "12092615011",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "15",
+        "WARD_NAME": "REBAFU",
+        "LATITUDE": -6.270727,
+        "LONGITUDE": 147.585853,
+        "REGHH": 86,
+        "TOTPOP2000": 497,
+        "MALE2000": 248,
+        "FEMALE2000": 249,
+        "POP2008": 620,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092615011,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.58445299990603,
+          -6.281293999718287
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12262,
+        "CU_NAME": "SIWEA",
+        "CU_NO": "012",
+        "GEOCODE": "12092615012",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "15",
+        "WARD_NAME": "REBAFU",
+        "LATITUDE": -6.283963,
+        "LONGITUDE": 147.583127,
+        "REGHH": 105,
+        "TOTPOP2000": 558,
+        "MALE2000": 290,
+        "FEMALE2000": 268,
+        "POP2008": 696,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092615012,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

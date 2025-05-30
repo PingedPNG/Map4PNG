@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4832,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.41974500013168,
+          -5.239981000422802
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4832,
+        "CU_NAME": "MUELA",
+        "CU_NO": "006",
+        "GEOCODE": "18031021006",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "21",
+        "WARD_NAME": "MUELA",
+        "LATITUDE": -5.244191,
+        "LONGITUDE": 151.419709,
+        "REGHH": 21,
+        "TOTPOP2000": 101,
+        "MALE2000": 49,
+        "FEMALE2000": 52,
+        "POP2008": 125,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031021006,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4833,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.42722100044887,
+          -5.234633000212739
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4833,
+        "CU_NAME": "TALIVE",
+        "CU_NO": "007",
+        "GEOCODE": "18031021007",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "21",
+        "WARD_NAME": "MUELA",
+        "LATITUDE": -5.236045,
+        "LONGITUDE": 151.426263,
+        "REGHH": 11,
+        "TOTPOP2000": 48,
+        "MALE2000": 24,
+        "FEMALE2000": 24,
+        "POP2008": 56,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031021007,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4834,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3965329998981,
+          -5.219908000154021
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4834,
+        "CU_NAME": "LELE",
+        "CU_NO": "008",
+        "GEOCODE": "18031021008",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "21",
+        "WARD_NAME": "MUELA",
+        "LATITUDE": -5.221319,
+        "LONGITUDE": 151.395574,
+        "REGHH": 31,
+        "TOTPOP2000": 144,
+        "MALE2000": 68,
+        "FEMALE2000": 76,
+        "POP2008": 176,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031021008,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4835,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.4274399997563,
+          -5.191858999892872
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4835,
+        "CU_NAME": "MANSIPANA",
+        "CU_NO": "009",
+        "GEOCODE": "18031021009",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "21",
+        "WARD_NAME": "MUELA",
+        "LATITUDE": -5.19327,
+        "LONGITUDE": 151.426482,
+        "REGHH": 12,
+        "TOTPOP2000": 56,
+        "MALE2000": 29,
+        "FEMALE2000": 27,
+        "POP2008": 67,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031021009,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4836,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3992609997954,
+          -5.229220999749316
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4836,
+        "CU_NAME": "BORENGPUNA",
+        "CU_NO": "010",
+        "GEOCODE": "18031021010",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "21",
+        "WARD_NAME": "MUELA",
+        "LATITUDE": -5.230632,
+        "LONGITUDE": 151.398302,
+        "REGHH": 22,
+        "TOTPOP2000": 113,
+        "MALE2000": 61,
+        "FEMALE2000": 52,
+        "POP2008": 137,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031021010,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

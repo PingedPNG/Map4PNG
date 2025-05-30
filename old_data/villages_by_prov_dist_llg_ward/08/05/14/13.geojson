@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5973,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8646580000667,
+          -5.688292999921941
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5973,
+        "CU_NAME": "TSAPONDIS",
+        "CU_NO": "001",
+        "GEOCODE": "08051413001",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "13",
+        "WARD_NAME": "TSAPONDIS",
+        "LATITUDE": -5.689697,
+        "LONGITUDE": 143.863595,
+        "REGHH": 56,
+        "TOTPOP2000": 274,
+        "MALE2000": 136,
+        "FEMALE2000": 138,
+        "POP2008": 344,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051413001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5974,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8670580001267,
+          -5.705697000316263
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5974,
+        "CU_NAME": "MAEYOKOMANDA",
+        "CU_NO": "002",
+        "GEOCODE": "08051413002",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "13",
+        "WARD_NAME": "TSAPONDIS",
+        "LATITUDE": -5.707101,
+        "LONGITUDE": 143.865995,
+        "REGHH": 79,
+        "TOTPOP2000": 345,
+        "MALE2000": 175,
+        "FEMALE2000": 170,
+        "POP2008": 434,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051413002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5975,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8607650004045,
+          -5.712319999967974
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5975,
+        "CU_NAME": "YAMBITESA",
+        "CU_NO": "003",
+        "GEOCODE": "08051413003",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "13",
+        "WARD_NAME": "TSAPONDIS",
+        "LATITUDE": -5.715249,
+        "LONGITUDE": 143.862543,
+        "REGHH": 140,
+        "TOTPOP2000": 684,
+        "MALE2000": 363,
+        "FEMALE2000": 321,
+        "POP2008": 860,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051413003,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

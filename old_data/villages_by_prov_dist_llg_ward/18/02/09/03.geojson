@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4759,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.18568900004743,
+          -4.309947000353759
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4759,
+        "CU_NAME": "NGUVALIAN",
+        "CU_NO": "003",
+        "GEOCODE": "18020903003",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "NGUVALIAN",
+        "LATITUDE": -4.311347,
+        "LONGITUDE": 152.184743,
+        "REGHH": 95,
+        "TOTPOP2000": 499,
+        "MALE2000": 267,
+        "FEMALE2000": 232,
+        "POP2008": 607,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020903003,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

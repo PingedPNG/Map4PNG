@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13370,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.21121900005687,
+          -8.778381999829378
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13370,
+        "CU_NAME": "DOBUDURU",
+        "CU_NO": "002",
+        "GEOCODE": "06010409002",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "DOBUDURU",
+        "LATITUDE": -8.779828,
+        "LONGITUDE": 148.210205,
+        "REGHH": 41,
+        "TOTPOP2000": 264,
+        "MALE2000": 141,
+        "FEMALE2000": 123,
+        "POP2008": 327,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010409002,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13371,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2038409997624,
+          -8.781913999931078
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13371,
+        "CU_NAME": "HUVIVI",
+        "CU_NO": "005",
+        "GEOCODE": "06010409005",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "DOBUDURU",
+        "LATITUDE": -8.78336,
+        "LONGITUDE": 148.202828,
+        "REGHH": 31,
+        "TOTPOP2000": 211,
+        "MALE2000": 116,
+        "FEMALE2000": 95,
+        "POP2008": 262,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010409005,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13372,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.19855299962126,
+          -8.779163999918637
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13372,
+        "CU_NAME": "MONGE 1",
+        "CU_NO": "010",
+        "GEOCODE": "06010409010",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "DOBUDURU",
+        "LATITUDE": -8.78061,
+        "LONGITUDE": 148.19754,
+        "REGHH": 8,
+        "TOTPOP2000": 47,
+        "MALE2000": 25,
+        "FEMALE2000": 22,
+        "POP2008": 55,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010409010,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13373,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.18549900017877,
+          -8.771839000269608
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13373,
+        "CU_NAME": "KONGONA",
+        "CU_NO": "011",
+        "GEOCODE": "06010409011",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "DOBUDURU",
+        "LATITUDE": -8.772305,
+        "LONGITUDE": 148.18741,
+        "REGHH": 24,
+        "TOTPOP2000": 149,
+        "MALE2000": 74,
+        "FEMALE2000": 75,
+        "POP2008": 184,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010409011,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13374,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.21333200037157,
+          -8.772533999944073
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13374,
+        "CU_NAME": "MONOSOTA",
+        "CU_NO": "012",
+        "GEOCODE": "06010409012",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "DOBUDURU",
+        "LATITUDE": -8.77398,
+        "LONGITUDE": 148.21232,
+        "REGHH": 14,
+        "TOTPOP2000": 83,
+        "MALE2000": 45,
+        "FEMALE2000": 38,
+        "POP2008": 102,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010409012,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13375,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.1778079998394,
+          -8.779856000354073
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13375,
+        "CU_NAME": "SIGANA",
+        "CU_NO": "013",
+        "GEOCODE": "06010409013",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "DOBUDURU",
+        "LATITUDE": -8.78049,
+        "LONGITUDE": 148.177768,
+        "REGHH": 13,
+        "TOTPOP2000": 78,
+        "MALE2000": 40,
+        "FEMALE2000": 38,
+        "POP2008": 94,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010409013,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13376,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.19105800022658,
+          -8.779663999593879
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13376,
+        "CU_NAME": "HINGOROTURU",
+        "CU_NO": "015",
+        "GEOCODE": "06010409015",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "DOBUDURU",
+        "LATITUDE": -8.78111,
+        "LONGITUDE": 148.190045,
+        "REGHH": 37,
+        "TOTPOP2000": 198,
+        "MALE2000": 110,
+        "FEMALE2000": 88,
+        "POP2008": 244,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010409015,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13377,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.18038399992167,
+          -8.775251000233425
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13377,
+        "CU_NAME": "MONGE 2",
+        "CU_NO": "016",
+        "GEOCODE": "06010409016",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "DOBUDURU",
+        "LATITUDE": -8.775396,
+        "LONGITUDE": 148.181481,
+        "REGHH": 8,
+        "TOTPOP2000": 44,
+        "MALE2000": 19,
+        "FEMALE2000": 25,
+        "POP2008": 52,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010409016,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13378,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.18823300035274,
+          -8.768805999796996
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13378,
+        "CU_NAME": "MONGE 3",
+        "CU_NO": "017",
+        "GEOCODE": "06010409017",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "DOBUDURU",
+        "LATITUDE": -8.76898,
+        "LONGITUDE": 148.191311,
+        "REGHH": 13,
+        "TOTPOP2000": 81,
+        "MALE2000": 41,
+        "FEMALE2000": 40,
+        "POP2008": 99,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010409017,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13379,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.19375499959358,
+          -8.76603799985378
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13379,
+        "CU_NAME": "MONGE 485",
+        "CU_NO": "018",
+        "GEOCODE": "06010409018",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "DOBUDURU",
+        "LATITUDE": -8.76698,
+        "LONGITUDE": 148.194095,
+        "REGHH": 18,
+        "TOTPOP2000": 69,
+        "MALE2000": 35,
+        "FEMALE2000": 34,
+        "POP2008": 85,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010409018,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14961,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97591099969293,
+          -6.176655000028177
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14961,
+        "CU_NAME": "KOA",
+        "CU_NO": "004",
+        "GEOCODE": "10061819004",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "19",
+        "WARD_NAME": "KUIAM",
+        "LATITUDE": -6.178066,
+        "LONGITUDE": 144.974861,
+        "REGHH": 34,
+        "TOTPOP2000": 135,
+        "MALE2000": 69,
+        "FEMALE2000": 66,
+        "POP2008": 157,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061819004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14962,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95345300005602,
+          -6.160426999906065
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14962,
+        "CU_NAME": "BILGINE",
+        "CU_NO": "005",
+        "GEOCODE": "10061819005",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "19",
+        "WARD_NAME": "KUIAM",
+        "LATITUDE": -6.161838,
+        "LONGITUDE": 144.952403,
+        "REGHH": 57,
+        "TOTPOP2000": 233,
+        "MALE2000": 127,
+        "FEMALE2000": 106,
+        "POP2008": 268,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061819005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14963,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9724589996831,
+          -6.169456999940564
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14963,
+        "CU_NAME": "SEGIMA",
+        "CU_NO": "006",
+        "GEOCODE": "10061819006",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "19",
+        "WARD_NAME": "KUIAM",
+        "LATITUDE": -6.170868,
+        "LONGITUDE": 144.971409,
+        "REGHH": 42,
+        "TOTPOP2000": 165,
+        "MALE2000": 79,
+        "FEMALE2000": 86,
+        "POP2008": 189,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061819006,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

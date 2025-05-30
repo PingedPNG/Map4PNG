@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21817,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9372650003795,
+          -5.848131000045555
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21817,
+        "CU_NAME": "PAIPALI",
+        "CU_NO": "806",
+        "GEOCODE": "07082902806",
+        "PROV_KEY": "21",
+        "DIST_NO": "3",
+        "LLG_NO": "29",
+        "WARD_NO": "02",
+        "WARD_NAME": "PAIPALI",
+        "LATITUDE": -5.852375,
+        "LONGITUDE": 142.937529,
+        "REGHH": 179,
+        "TOTPOP2000": 868,
+        "MALE2000": 400,
+        "FEMALE2000": 468,
+        "POP2008": 1207,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7082902806,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

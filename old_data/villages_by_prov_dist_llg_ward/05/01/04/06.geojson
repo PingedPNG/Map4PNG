@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9686,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.48268499981293,
+          -10.216150000322216
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9686,
+        "CU_NAME": "GARUAHI",
+        "CU_NO": "001",
+        "GEOCODE": "05010406001",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "06",
+        "WARD_NAME": "GARUAHI",
+        "LATITUDE": -10.216499,
+        "LONGITUDE": 150.483973,
+        "REGHH": 69,
+        "TOTPOP2000": 393,
+        "MALE2000": 212,
+        "FEMALE2000": 181,
+        "POP2008": 479,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010406001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9687,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.48452800026712,
+          -10.22034500042139
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9687,
+        "CU_NAME": "GARUAHI GOVT. STATION",
+        "CU_NO": "401",
+        "GEOCODE": "05010406401",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "06",
+        "WARD_NAME": "GARUAHI",
+        "LATITUDE": -10.221812,
+        "LONGITUDE": 150.483544,
+        "REGHH": 8,
+        "TOTPOP2000": 58,
+        "MALE2000": 27,
+        "FEMALE2000": 31,
+        "POP2008": 71,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010406401,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0651780002646,
+          -6.514474999721415
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20101,
+        "CU_NAME": "KARANDA 1",
+        "CU_NO": "006",
+        "GEOCODE": "07031005006",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KARANDA 1",
+        "LATITUDE": -6.523301,
+        "LONGITUDE": 144.064417,
+        "REGHH": 34,
+        "TOTPOP2000": 172,
+        "MALE2000": 83,
+        "FEMALE2000": 89,
+        "POP2008": 240,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031005006,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.06547599961777,
+          -6.5193149998872855
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20102,
+        "CU_NAME": "TAKUNAPI",
+        "CU_NO": "007",
+        "GEOCODE": "07031005007",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KARANDA 1",
+        "LATITUDE": -6.523301,
+        "LONGITUDE": 144.064417,
+        "REGHH": 23,
+        "TOTPOP2000": 144,
+        "MALE2000": 81,
+        "FEMALE2000": 63,
+        "POP2008": 200,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031005007,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.06952800031706,
+          -6.523055999734538
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20103,
+        "CU_NAME": "WAWAI",
+        "CU_NO": "008",
+        "GEOCODE": "07031005008",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KARANDA 1",
+        "LATITUDE": -6.523301,
+        "LONGITUDE": 144.064417,
+        "REGHH": 7,
+        "TOTPOP2000": 44,
+        "MALE2000": 17,
+        "FEMALE2000": 27,
+        "POP2008": 60,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031005008,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

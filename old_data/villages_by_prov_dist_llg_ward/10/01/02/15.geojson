@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13957,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.18235599972968,
+          -6.2593100003562085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13957,
+        "CU_NAME": "KAKI BEROMA",
+        "CU_NO": "008",
+        "GEOCODE": "10010215008",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "15",
+        "WARD_NAME": "KARAWERI NO.1",
+        "LATITUDE": -6.25937,
+        "LONGITUDE": 145.184585,
+        "REGHH": 74,
+        "TOTPOP2000": 254,
+        "MALE2000": 132,
+        "FEMALE2000": 122,
+        "POP2008": 294,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010215008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13958,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1838789998161,
+          -6.289102000057198
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13958,
+        "CU_NAME": "WEKOMANGI",
+        "CU_NO": "009",
+        "GEOCODE": "10010215009",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "15",
+        "WARD_NAME": "KARAWERI NO.1",
+        "LATITUDE": -6.290515,
+        "LONGITUDE": 145.182831,
+        "REGHH": 61,
+        "TOTPOP2000": 218,
+        "MALE2000": 108,
+        "FEMALE2000": 110,
+        "POP2008": 250,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010215009,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13959,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2027250001587,
+          -6.262729999789599
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13959,
+        "CU_NAME": "MOKOMA",
+        "CU_NO": "010",
+        "GEOCODE": "10010215010",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "15",
+        "WARD_NAME": "KARAWERI NO.1",
+        "LATITUDE": -6.264143,
+        "LONGITUDE": 145.201678,
+        "REGHH": 84,
+        "TOTPOP2000": 294,
+        "MALE2000": 145,
+        "FEMALE2000": 149,
+        "POP2008": 339,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010215010,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13960,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.18913800041844,
+          -6.274312999745121
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13960,
+        "CU_NAME": "MORIMABUNOM",
+        "CU_NO": "011",
+        "GEOCODE": "10010215011",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "15",
+        "WARD_NAME": "KARAWERI NO.1",
+        "LATITUDE": -6.275726,
+        "LONGITUDE": 145.188091,
+        "REGHH": 59,
+        "TOTPOP2000": 216,
+        "MALE2000": 105,
+        "FEMALE2000": 111,
+        "POP2008": 248,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010215011,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13961,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.17847199958317,
+          -6.279675999747553
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13961,
+        "CU_NAME": "KARAWERI H/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "10010215401",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "15",
+        "WARD_NAME": "KARAWERI NO.1",
+        "LATITUDE": -6.281089,
+        "LONGITUDE": 145.177424,
+        "REGHH": 4,
+        "TOTPOP2000": 12,
+        "MALE2000": 6,
+        "FEMALE2000": 6,
+        "POP2008": 12,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010215401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

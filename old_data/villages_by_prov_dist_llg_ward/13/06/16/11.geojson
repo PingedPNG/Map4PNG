@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50515700019548,
+          -5.665372999664157
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9227,
+        "CU_NAME": "SAUSI",
+        "CU_NO": "017",
+        "GEOCODE": "13061611017",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "11",
+        "WARD_NAME": "SAUSI",
+        "LATITUDE": -5.666261,
+        "LONGITUDE": 145.500554,
+        "REGHH": 38,
+        "TOTPOP2000": 292,
+        "MALE2000": 120,
+        "FEMALE2000": 172,
+        "POP2008": 362,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061611017,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9228,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.49668899999745,
+          -5.659097999872756
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9228,
+        "CU_NAME": "SAUSI 2",
+        "CU_NO": "018",
+        "GEOCODE": "13061611018",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "11",
+        "WARD_NAME": "SAUSI",
+        "LATITUDE": -5.660505,
+        "LONGITUDE": 145.495647,
+        "REGHH": 104,
+        "TOTPOP2000": 678,
+        "MALE2000": 363,
+        "FEMALE2000": 315,
+        "POP2008": 838,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061611018,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6661,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.04881000018145,
+          -3.6185249998288214
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6661,
+        "CU_NAME": "SERIKUM",
+        "CU_NO": "004",
+        "GEOCODE": "14031208004",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "08",
+        "WARD_NAME": "NELIKUM",
+        "LATITUDE": -3.620103,
+        "LONGITUDE": 143.047571,
+        "REGHH": 47,
+        "TOTPOP2000": 249,
+        "MALE2000": 124,
+        "FEMALE2000": 125,
+        "POP2008": 296,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031208004,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6662,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.06248999971376,
+          -3.612018000130547
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6662,
+        "CU_NAME": "NELIKUM 2",
+        "CU_NO": "009",
+        "GEOCODE": "14031208009",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "08",
+        "WARD_NAME": "NELIKUM",
+        "LATITUDE": -3.613596,
+        "LONGITUDE": 143.061251,
+        "REGHH": 91,
+        "TOTPOP2000": 399,
+        "MALE2000": 203,
+        "FEMALE2000": 196,
+        "POP2008": 475,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031208009,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6663,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.06659099997478,
+          -3.6034639995638713
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6663,
+        "CU_NAME": "NELIKUM 1",
+        "CU_NO": "015",
+        "GEOCODE": "14031208015",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "08",
+        "WARD_NAME": "NELIKUM",
+        "LATITUDE": -3.605042,
+        "LONGITUDE": 143.065352,
+        "REGHH": 90,
+        "TOTPOP2000": 430,
+        "MALE2000": 207,
+        "FEMALE2000": 223,
+        "POP2008": 512,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031208015,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

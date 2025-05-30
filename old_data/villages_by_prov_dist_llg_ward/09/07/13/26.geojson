@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17634,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.23276599985104,
+          -5.978295999660588
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17634,
+        "CU_NAME": "KOIBUGA",
+        "CU_NO": "020",
+        "GEOCODE": "09071326020",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "26",
+        "WARD_NAME": "KOIBUGA",
+        "LATITUDE": -5.980043,
+        "LONGITUDE": 144.233096,
+        "REGHH": 67,
+        "TOTPOP2000": 320,
+        "MALE2000": 162,
+        "FEMALE2000": 158,
+        "POP2008": 389,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071326020,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17635,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.21844899972166,
+          -5.964158999738004
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17635,
+        "CU_NAME": "KOIMIL",
+        "CU_NO": "021",
+        "GEOCODE": "09071326021",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "26",
+        "WARD_NAME": "KOIBUGA",
+        "LATITUDE": -5.965099,
+        "LONGITUDE": 144.218783,
+        "REGHH": 79,
+        "TOTPOP2000": 362,
+        "MALE2000": 185,
+        "FEMALE2000": 177,
+        "POP2008": 440,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071326021,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17636,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.23079399974336,
+          -5.979536000186215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17636,
+        "CU_NAME": "GAMIL",
+        "CU_NO": "022",
+        "GEOCODE": "09071326022",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "26",
+        "WARD_NAME": "KOIBUGA",
+        "LATITUDE": -5.980043,
+        "LONGITUDE": 144.233096,
+        "REGHH": 112,
+        "TOTPOP2000": 477,
+        "MALE2000": 244,
+        "FEMALE2000": 233,
+        "POP2008": 582,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071326022,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

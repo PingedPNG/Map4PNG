@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20346,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.35606100031498,
+          -5.989527999617451
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20346,
+        "CU_NAME": "PINGI",
+        "CU_NO": "010",
+        "GEOCODE": "07041313010",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "13",
+        "WARD_NAME": "PINGI",
+        "LATITUDE": -5.993766,
+        "LONGITUDE": 143.3577,
+        "REGHH": 36,
+        "TOTPOP2000": 149,
+        "MALE2000": 83,
+        "FEMALE2000": 66,
+        "POP2008": 207,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041313010,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20347,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3568040004044,
+          -5.988370000175337
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20347,
+        "CU_NAME": "WAKAYA IPA",
+        "CU_NO": "011",
+        "GEOCODE": "07041313011",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "13",
+        "WARD_NAME": "PINGI",
+        "LATITUDE": -5.993766,
+        "LONGITUDE": 143.3577,
+        "REGHH": 15,
+        "TOTPOP2000": 68,
+        "MALE2000": 38,
+        "FEMALE2000": 30,
+        "POP2008": 94,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041313011,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20348,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.35728099991832,
+          -5.990436000121235
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20348,
+        "CU_NAME": "IMAME",
+        "CU_NO": "012",
+        "GEOCODE": "07041313012",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "13",
+        "WARD_NAME": "PINGI",
+        "LATITUDE": -5.993766,
+        "LONGITUDE": 143.3577,
+        "REGHH": 36,
+        "TOTPOP2000": 169,
+        "MALE2000": 76,
+        "FEMALE2000": 93,
+        "POP2008": 234,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041313012,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

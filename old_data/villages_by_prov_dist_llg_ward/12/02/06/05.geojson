@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10695,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.34513400013407,
+          -6.458031000330379
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10695,
+        "CU_NAME": "DUBBY",
+        "CU_NO": "002",
+        "GEOCODE": "12020605002",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "SAGIRO",
+        "LATITUDE": -6.45945,
+        "LONGITUDE": 147.344115,
+        "REGHH": 58,
+        "TOTPOP2000": 270,
+        "MALE2000": 132,
+        "FEMALE2000": 138,
+        "POP2008": 337,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020605002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10696,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3413370004023,
+          -6.439552999871012
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10696,
+        "CU_NAME": "SAGIRO",
+        "CU_NO": "004",
+        "GEOCODE": "12020605004",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "SAGIRO",
+        "LATITUDE": -6.443995,
+        "LONGITUDE": 147.335288,
+        "REGHH": 43,
+        "TOTPOP2000": 208,
+        "MALE2000": 110,
+        "FEMALE2000": 98,
+        "POP2008": 259,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020605004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10697,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.34540299994853,
+          -6.475235999641598
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10697,
+        "CU_NAME": "MARAN",
+        "CU_NO": "006",
+        "GEOCODE": "12020605006",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "SAGIRO",
+        "LATITUDE": -6.476655,
+        "LONGITUDE": 147.344384,
+        "REGHH": 33,
+        "TOTPOP2000": 161,
+        "MALE2000": 80,
+        "FEMALE2000": 81,
+        "POP2008": 201,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020605006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10698,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.34118000035676,
+          -6.44746200037099
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10698,
+        "CU_NAME": "SIMBEN",
+        "CU_NO": "012",
+        "GEOCODE": "12020605012",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "SAGIRO",
+        "LATITUDE": -6.448881,
+        "LONGITUDE": 147.340161,
+        "REGHH": 52,
+        "TOTPOP2000": 204,
+        "MALE2000": 100,
+        "FEMALE2000": 104,
+        "POP2008": 255,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020605012,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5957959995858,
+          -7.7665470001438734
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10935,
+        "CU_NAME": "MOROBE STATION",
+        "CU_NO": "501",
+        "GEOCODE": "12030920501",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "20",
+        "WARD_NAME": "MOROBE STATION",
+        "LATITUDE": -7.758592,
+        "LONGITUDE": 147.594211,
+        "REGHH": 45,
+        "TOTPOP2000": 261,
+        "MALE2000": 127,
+        "FEMALE2000": 134,
+        "POP2008": 326,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030920501,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

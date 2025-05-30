@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5088,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.99559199957116,
+          -5.737773000123809
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5088,
+        "CU_NAME": "PULIPUNA",
+        "CU_NO": "008",
+        "GEOCODE": "18031430008",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "30",
+        "WARD_NAME": "KINSENA",
+        "LATITUDE": -5.742905,
+        "LONGITUDE": 150.990892,
+        "REGHH": 22,
+        "TOTPOP2000": 111,
+        "MALE2000": 56,
+        "FEMALE2000": 55,
+        "POP2008": 135,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031430008,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5089,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.00946399986378,
+          -5.748775000265994
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5089,
+        "CU_NAME": "MORELONA",
+        "CU_NO": "009",
+        "GEOCODE": "18031430009",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "30",
+        "WARD_NAME": "KINSENA",
+        "LATITUDE": -5.750192,
+        "LONGITUDE": 151.008499,
+        "REGHH": 9,
+        "TOTPOP2000": 67,
+        "MALE2000": 30,
+        "FEMALE2000": 37,
+        "POP2008": 83,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031430009,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5090,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.01952799991727,
+          -5.747608999555666
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5090,
+        "CU_NAME": "KINSENA",
+        "CU_NO": "010",
+        "GEOCODE": "18031430010",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "30",
+        "WARD_NAME": "KINSENA",
+        "LATITUDE": -5.749026,
+        "LONGITUDE": 151.018563,
+        "REGHH": 51,
+        "TOTPOP2000": 241,
+        "MALE2000": 104,
+        "FEMALE2000": 137,
+        "POP2008": 293,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031430010,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5091,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.99598999993862,
+          -5.7467030000433965
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5091,
+        "CU_NAME": "LOPUNA",
+        "CU_NO": "011",
+        "GEOCODE": "18031430011",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "30",
+        "WARD_NAME": "KINSENA",
+        "LATITUDE": -5.74812,
+        "LONGITUDE": 150.995024,
+        "REGHH": 24,
+        "TOTPOP2000": 139,
+        "MALE2000": 69,
+        "FEMALE2000": 70,
+        "POP2008": 170,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031430011,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5092,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.00052699962146,
+          -5.726338999844927
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5092,
+        "CU_NAME": "MATALAPUNA",
+        "CU_NO": "012",
+        "GEOCODE": "18031430012",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "30",
+        "WARD_NAME": "KINSENA",
+        "LATITUDE": -5.727756,
+        "LONGITUDE": 150.999561,
+        "REGHH": 7,
+        "TOTPOP2000": 55,
+        "MALE2000": 26,
+        "FEMALE2000": 29,
+        "POP2008": 65,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031430012,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5093,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.01466300039726,
+          -5.708839999566294
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5093,
+        "CU_NAME": "PORA",
+        "CU_NO": "014",
+        "GEOCODE": "18031430014",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "30",
+        "WARD_NAME": "KINSENA",
+        "LATITUDE": -5.710257,
+        "LONGITUDE": 151.013698,
+        "REGHH": 11,
+        "TOTPOP2000": 86,
+        "MALE2000": 51,
+        "FEMALE2000": 35,
+        "POP2008": 102,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031430014,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

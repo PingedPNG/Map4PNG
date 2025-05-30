@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14520,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9175869999401,
+          -5.857535000240034
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14520,
+        "CU_NAME": "BOGO",
+        "CU_NO": "001",
+        "GEOCODE": "10041114001",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "14",
+        "WARD_NAME": "GRAIGU 1",
+        "LATITUDE": -5.858943,
+        "LONGITUDE": 144.916537,
+        "REGHH": 72,
+        "TOTPOP2000": 296,
+        "MALE2000": 153,
+        "FEMALE2000": 143,
+        "POP2008": 342,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041114001,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14521,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9187689995897,
+          -5.856036000361087
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14521,
+        "CU_NAME": "BOGO C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "10041114401",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "14",
+        "WARD_NAME": "GRAIGU 1",
+        "LATITUDE": -5.857444,
+        "LONGITUDE": 144.917719,
+        "REGHH": 1,
+        "TOTPOP2000": 6,
+        "MALE2000": 2,
+        "FEMALE2000": 4,
+        "POP2008": 6,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041114401,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14522,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9171040001496,
+          -5.854317000229344
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14522,
+        "CU_NAME": "BOGO H/C",
+        "CU_NO": "402",
+        "GEOCODE": "10041114402",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "14",
+        "WARD_NAME": "GRAIGU 1",
+        "LATITUDE": -5.857236,
+        "LONGITUDE": 144.915209,
+        "REGHH": 4,
+        "TOTPOP2000": 28,
+        "MALE2000": 10,
+        "FEMALE2000": 18,
+        "POP2008": 36,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041114402,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

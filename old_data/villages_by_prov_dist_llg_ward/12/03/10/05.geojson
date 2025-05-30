@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10962,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.00515899998788,
+          -7.093025000403372
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10962,
+        "CU_NAME": "POBDUBI",
+        "CU_NO": "003",
+        "GEOCODE": "12031005003",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KAMIATUM",
+        "LATITUDE": -7.09445,
+        "LONGITUDE": 147.004134,
+        "REGHH": 49,
+        "TOTPOP2000": 331,
+        "MALE2000": 176,
+        "FEMALE2000": 155,
+        "POP2008": 413,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031005003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10963,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.01687099959702,
+          -7.115978000384359
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10963,
+        "CU_NAME": "KAMIATAM",
+        "CU_NO": "010",
+        "GEOCODE": "12031005010",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KAMIATUM",
+        "LATITUDE": -7.117404,
+        "LONGITUDE": 147.015846,
+        "REGHH": 50,
+        "TOTPOP2000": 311,
+        "MALE2000": 170,
+        "FEMALE2000": 141,
+        "POP2008": 388,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031005010,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10964,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.01351699960992,
+          -7.162514999767382
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10964,
+        "CU_NAME": "NEW CAMP",
+        "CU_NO": "011",
+        "GEOCODE": "12031005011",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KAMIATUM",
+        "LATITUDE": -7.163941,
+        "LONGITUDE": 147.012492,
+        "REGHH": 4,
+        "TOTPOP2000": 33,
+        "MALE2000": 14,
+        "FEMALE2000": 19,
+        "POP2008": 41,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031005011,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

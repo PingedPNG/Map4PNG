@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9183,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26805500013825,
+          -5.775930999815728
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9183,
+        "CU_NAME": "OMKWISI",
+        "CU_NO": "022",
+        "GEOCODE": "13061517022",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "17",
+        "WARD_NAME": "WARD 17",
+        "LATITUDE": -5.776514,
+        "LONGITUDE": 145.268003,
+        "REGHH": 26,
+        "TOTPOP2000": 142,
+        "MALE2000": 78,
+        "FEMALE2000": 64,
+        "POP2008": 175,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061517022,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.31786999960082,
+          -5.770275999837452
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9184,
+        "CU_NAME": "PROMISI",
+        "CU_NO": "024",
+        "GEOCODE": "13061517024",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "17",
+        "WARD_NAME": "WARD 17",
+        "LATITUDE": -5.770192,
+        "LONGITUDE": 145.316499,
+        "REGHH": 7,
+        "TOTPOP2000": 34,
+        "MALE2000": 21,
+        "FEMALE2000": 13,
+        "POP2008": 42,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061517024,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

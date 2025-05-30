@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21030,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.48229899959927,
+          -6.040502000366985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21030,
+        "CU_NAME": "MAK",
+        "CU_NO": "001",
+        "GEOCODE": "07061914001",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "14",
+        "WARD_NAME": "TUPIP 2",
+        "LATITUDE": -6.045241,
+        "LONGITUDE": 143.480743,
+        "REGHH": 38,
+        "TOTPOP2000": 303,
+        "MALE2000": 155,
+        "FEMALE2000": 148,
+        "POP2008": 421,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061914001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21031,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.47966000020892,
+          -6.040191999561102
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21031,
+        "CU_NAME": "PONDIMI",
+        "CU_NO": "002",
+        "GEOCODE": "07061914002",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "14",
+        "WARD_NAME": "TUPIP 2",
+        "LATITUDE": -6.045242,
+        "LONGITUDE": 143.480744,
+        "REGHH": 41,
+        "TOTPOP2000": 324,
+        "MALE2000": 173,
+        "FEMALE2000": 151,
+        "POP2008": 450,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061914002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21032,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.48132699974133,
+          -6.039536999932579
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21032,
+        "CU_NAME": "HARDA",
+        "CU_NO": "003",
+        "GEOCODE": "07061914003",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "14",
+        "WARD_NAME": "TUPIP 2",
+        "LATITUDE": -6.045243,
+        "LONGITUDE": 143.480745,
+        "REGHH": 44,
+        "TOTPOP2000": 317,
+        "MALE2000": 168,
+        "FEMALE2000": 149,
+        "POP2008": 440,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061914003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21033,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5413220001103,
+          -6.052755999789497
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21033,
+        "CU_NAME": "HALOP",
+        "CU_NO": "004",
+        "GEOCODE": "07061914004",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "14",
+        "WARD_NAME": "TUPIP 2",
+        "LATITUDE": -6.05732,
+        "LONGITUDE": 143.543573,
+        "REGHH": 17,
+        "TOTPOP2000": 161,
+        "MALE2000": 77,
+        "FEMALE2000": 84,
+        "POP2008": 224,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061914004,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

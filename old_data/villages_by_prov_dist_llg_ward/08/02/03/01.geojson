@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5370,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7467079998744,
+          -5.478776000312109
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5370,
+        "CU_NAME": "PAR",
+        "CU_NO": "008",
+        "GEOCODE": "08020301008",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "01",
+        "WARD_NAME": "PAR",
+        "LATITUDE": -5.48048,
+        "LONGITUDE": 143.746009,
+        "REGHH": 84,
+        "TOTPOP2000": 537,
+        "MALE2000": 269,
+        "FEMALE2000": 268,
+        "POP2008": 676,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020301008,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5371,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.77043899976013,
+          -5.460132000291537
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5371,
+        "CU_NAME": "KAUMANDA",
+        "CU_NO": "009",
+        "GEOCODE": "08020301009",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "01",
+        "WARD_NAME": "PAR",
+        "LATITUDE": -5.468752,
+        "LONGITUDE": 143.757363,
+        "REGHH": 78,
+        "TOTPOP2000": 386,
+        "MALE2000": 192,
+        "FEMALE2000": 194,
+        "POP2008": 486,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020301009,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5372,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.74611200026868,
+          -5.480536999682727
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5372,
+        "CU_NAME": "PAR MISS/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "08020301401",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "01",
+        "WARD_NAME": "PAR",
+        "LATITUDE": -5.48048,
+        "LONGITUDE": 143.746009,
+        "REGHH": 21,
+        "TOTPOP2000": 62,
+        "MALE2000": 31,
+        "FEMALE2000": 31,
+        "POP2008": 78,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020301401,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

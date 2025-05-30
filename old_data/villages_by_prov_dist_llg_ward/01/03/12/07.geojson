@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15580,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.41404761670424,
+          -8.237299604593034
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15580,
+        "CU_NAME": "DAMERA",
+        "CU_NO": "004",
+        "GEOCODE": "01031207004",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "07",
+        "WARD_NAME": "WARIOBODORO",
+        "LATITUDE": -8.237322,
+        "LONGITUDE": 143.414012,
+        "REGHH": 42,
+        "TOTPOP2000": 270,
+        "MALE2000": 143,
+        "FEMALE2000": 127,
+        "POP2008": 350,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031207004,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15581,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.26841410252882,
+          -8.267424850776194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15581,
+        "CU_NAME": "WARIOBODORO",
+        "CU_NO": "025",
+        "GEOCODE": "01031207025",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "07",
+        "WARD_NAME": "WARIOBODORO",
+        "LATITUDE": -8.267449,
+        "LONGITUDE": 143.268436,
+        "REGHH": 42,
+        "TOTPOP2000": 327,
+        "MALE2000": 157,
+        "FEMALE2000": 170,
+        "POP2008": 425,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031207025,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

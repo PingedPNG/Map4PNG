@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16452,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.40039899971418,
+          -5.553261999841368
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16452,
+        "CU_NAME": "KURUNGA",
+        "CU_NO": "051",
+        "GEOCODE": "09020345051",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "45",
+        "WARD_NAME": "KURUNGA",
+        "LATITUDE": -5.554197,
+        "LONGITUDE": 144.400735,
+        "REGHH": 44,
+        "TOTPOP2000": 191,
+        "MALE2000": 86,
+        "FEMALE2000": 105,
+        "POP2008": 233,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020345051,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16453,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4052848841901,
+          -5.5493623371021386
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16453,
+        "CU_NAME": "ONGA",
+        "CU_NO": "052",
+        "GEOCODE": "09020345052",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "45",
+        "WARD_NAME": "KURUNGA",
+        "LATITUDE": -5.549567,
+        "LONGITUDE": 144.408896,
+        "REGHH": 25,
+        "TOTPOP2000": 112,
+        "MALE2000": 60,
+        "FEMALE2000": 52,
+        "POP2008": 136,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020345052,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16454,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.36939399983328,
+          -5.657344999971713
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16454,
+        "CU_NAME": "KOTNA",
+        "CU_NO": "053",
+        "GEOCODE": "09020345053",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "45",
+        "WARD_NAME": "KURUNGA",
+        "LATITUDE": -5.659369,
+        "LONGITUDE": 144.369258,
+        "REGHH": 9,
+        "TOTPOP2000": 45,
+        "MALE2000": 24,
+        "FEMALE2000": 21,
+        "POP2008": 53,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020345053,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16455,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.37158400010162,
+          -5.5341960001452435
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16455,
+        "CU_NAME": "PUNGAM",
+        "CU_NO": "054",
+        "GEOCODE": "09020345054",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "45",
+        "WARD_NAME": "KURUNGA",
+        "LATITUDE": -5.53513,
+        "LONGITUDE": 144.371918,
+        "REGHH": 25,
+        "TOTPOP2000": 99,
+        "MALE2000": 52,
+        "FEMALE2000": 47,
+        "POP2008": 122,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020345054,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

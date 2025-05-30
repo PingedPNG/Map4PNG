@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14370,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.040241000322,
+          -6.294554999713398
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14370,
+        "CU_NAME": "NILNERE",
+        "CU_NO": "005",
+        "GEOCODE": "10030920005",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "20",
+        "WARD_NAME": "MULUGRA",
+        "LATITUDE": -6.295968,
+        "LONGITUDE": 145.039192,
+        "REGHH": 33,
+        "TOTPOP2000": 171,
+        "MALE2000": 88,
+        "FEMALE2000": 83,
+        "POP2008": 195,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030920005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14371,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0491809998034,
+          -6.3034499998175875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14371,
+        "CU_NAME": "MURUGRA",
+        "CU_NO": "006",
+        "GEOCODE": "10030920006",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "20",
+        "WARD_NAME": "MULUGRA",
+        "LATITUDE": -6.304863,
+        "LONGITUDE": 145.048132,
+        "REGHH": 17,
+        "TOTPOP2000": 64,
+        "MALE2000": 33,
+        "FEMALE2000": 31,
+        "POP2008": 72,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030920006,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

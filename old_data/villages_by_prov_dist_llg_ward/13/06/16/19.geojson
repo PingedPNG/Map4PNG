@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.44874499958212,
+          -5.464098999768964
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9252,
+        "CU_NAME": "IWAIWA",
+        "CU_NO": "002",
+        "GEOCODE": "13061619002",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "19",
+        "WARD_NAME": "SOMAU",
+        "LATITUDE": -5.465504,
+        "LONGITUDE": 145.447702,
+        "REGHH": 37,
+        "TOTPOP2000": 178,
+        "MALE2000": 95,
+        "FEMALE2000": 83,
+        "POP2008": 220,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061619002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9253,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.45734799971046,
+          -5.4662970004062
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9253,
+        "CU_NAME": "SUMAU",
+        "CU_NO": "009",
+        "GEOCODE": "13061619009",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "19",
+        "WARD_NAME": "SOMAU",
+        "LATITUDE": -5.467702,
+        "LONGITUDE": 145.456306,
+        "REGHH": 36,
+        "TOTPOP2000": 217,
+        "MALE2000": 118,
+        "FEMALE2000": 99,
+        "POP2008": 269,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061619009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9254,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4731790004106,
+          -5.47829299962217
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9254,
+        "CU_NAME": "URIA",
+        "CU_NO": "012",
+        "GEOCODE": "13061619012",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "19",
+        "WARD_NAME": "SOMAU",
+        "LATITUDE": -5.478237,
+        "LONGITUDE": 145.465299,
+        "REGHH": 45,
+        "TOTPOP2000": 237,
+        "MALE2000": 116,
+        "FEMALE2000": 121,
+        "POP2008": 294,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061619012,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9255,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4696840002165,
+          -5.466734999920277
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9255,
+        "CU_NAME": "IWAM",
+        "CU_NO": "013",
+        "GEOCODE": "13061619013",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "19",
+        "WARD_NAME": "SOMAU",
+        "LATITUDE": -5.471378,
+        "LONGITUDE": 145.464673,
+        "REGHH": 11,
+        "TOTPOP2000": 68,
+        "MALE2000": 34,
+        "FEMALE2000": 34,
+        "POP2008": 84,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061619013,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

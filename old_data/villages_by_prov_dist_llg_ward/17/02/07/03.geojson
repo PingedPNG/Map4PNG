@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12837,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.113591999871,
+          -4.359999999999957
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12837,
+        "CU_NAME": "KAMIANG",
+        "CU_NO": "005",
+        "GEOCODE": "17020703005",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "03",
+        "WARD_NAME": "KAMIANG",
+        "LATITUDE": -4.360956,
+        "LONGITUDE": 153.113992,
+        "REGHH": 20,
+        "TOTPOP2000": 108,
+        "MALE2000": 59,
+        "FEMALE2000": 49,
+        "POP2008": 135,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020703005,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12838,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08186099978536,
+          -4.398370999621875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12838,
+        "CU_NAME": "LENAI",
+        "CU_NO": "008",
+        "GEOCODE": "17020703008",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "03",
+        "WARD_NAME": "KAMIANG",
+        "LATITUDE": -4.399774,
+        "LONGITUDE": 153.080929,
+        "REGHH": 25,
+        "TOTPOP2000": 126,
+        "MALE2000": 65,
+        "FEMALE2000": 61,
+        "POP2008": 158,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020703008,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12839,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.10733199987192,
+          -4.3821489997764616
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12839,
+        "CU_NAME": "MIMIAS",
+        "CU_NO": "011",
+        "GEOCODE": "17020703011",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "03",
+        "WARD_NAME": "KAMIANG",
+        "LATITUDE": -4.383552,
+        "LONGITUDE": 153.1064,
+        "REGHH": 18,
+        "TOTPOP2000": 96,
+        "MALE2000": 44,
+        "FEMALE2000": 52,
+        "POP2008": 120,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020703011,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1475,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.53569299963226,
+          -9.481667999778324
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1475,
+        "CU_NAME": "BOREDABU",
+        "CU_NO": "002",
+        "GEOCODE": "03030911002",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "11",
+        "WARD_NAME": "KAHITANA",
+        "LATITUDE": -9.480971,
+        "LONGITUDE": 147.534047,
+        "REGHH": 21,
+        "TOTPOP2000": 101,
+        "MALE2000": 49,
+        "FEMALE2000": 52,
+        "POP2008": 121,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030911002,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1476,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.49515299981113,
+          -9.478316999929575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1476,
+        "CU_NAME": "NAINUMU NO. 2",
+        "CU_NO": "024",
+        "GEOCODE": "03030911024",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "11",
+        "WARD_NAME": "KAHITANA",
+        "LATITUDE": -9.481149,
+        "LONGITUDE": 147.494593,
+        "REGHH": 9,
+        "TOTPOP2000": 58,
+        "MALE2000": 26,
+        "FEMALE2000": 32,
+        "POP2008": 66,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030911024,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1477,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.50378899966267,
+          -9.496037999653936
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1477,
+        "CU_NAME": "KAHITANA",
+        "CU_NO": "030",
+        "GEOCODE": "03030911030",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "11",
+        "WARD_NAME": "KAHITANA",
+        "LATITUDE": -9.497489,
+        "LONGITUDE": 147.502765,
+        "REGHH": 9,
+        "TOTPOP2000": 43,
+        "MALE2000": 21,
+        "FEMALE2000": 22,
+        "POP2008": 51,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030911030,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1478,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.49912100023403,
+          -9.483328999933349
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1478,
+        "CU_NAME": "FORAKOROTA SETTLEMENT",
+        "CU_NO": "426",
+        "GEOCODE": "03030911426",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "11",
+        "WARD_NAME": "KAHITANA",
+        "LATITUDE": -9.481707,
+        "LONGITUDE": 147.500102,
+        "REGHH": 8,
+        "TOTPOP2000": 51,
+        "MALE2000": 27,
+        "FEMALE2000": 24,
+        "POP2008": 59,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030911426,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

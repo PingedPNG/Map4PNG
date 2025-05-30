@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11558,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2001760002223,
+          -6.459269999910532
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11558,
+        "CU_NAME": "ANTIR",
+        "CU_NO": "001",
+        "GEOCODE": "12061709001",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "09",
+        "WARD_NAME": "ANTIR",
+        "LATITUDE": -6.460687,
+        "LONGITUDE": 146.199141,
+        "REGHH": 40,
+        "TOTPOP2000": 254,
+        "MALE2000": 141,
+        "FEMALE2000": 113,
+        "POP2008": 317,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061709001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11559,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.20304400028044,
+          -6.468804999850818
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11559,
+        "CU_NAME": "BAMPA",
+        "CU_NO": "004",
+        "GEOCODE": "12061709004",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "09",
+        "WARD_NAME": "ANTIR",
+        "LATITUDE": -6.470222,
+        "LONGITUDE": 146.202008,
+        "REGHH": 11,
+        "TOTPOP2000": 59,
+        "MALE2000": 24,
+        "FEMALE2000": 35,
+        "POP2008": 75,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061709004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11560,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.20013400008406,
+          -6.422058999822923
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11560,
+        "CU_NAME": "ZIATS",
+        "CU_NO": "013",
+        "GEOCODE": "12061709013",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "09",
+        "WARD_NAME": "ANTIR",
+        "LATITUDE": -6.423475,
+        "LONGITUDE": 146.1991,
+        "REGHH": 28,
+        "TOTPOP2000": 129,
+        "MALE2000": 69,
+        "FEMALE2000": 60,
+        "POP2008": 161,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061709013,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

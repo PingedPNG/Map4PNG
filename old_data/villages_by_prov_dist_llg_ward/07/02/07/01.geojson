@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19612,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6188139997663,
+          -6.1865129995752
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19612,
+        "CU_NAME": "ENDOWA",
+        "CU_NO": "001",
+        "GEOCODE": "07020701001",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "01",
+        "WARD_NAME": "ENDOWA",
+        "LATITUDE": -6.188309,
+        "LONGITUDE": 143.616789,
+        "REGHH": 20,
+        "TOTPOP2000": 107,
+        "MALE2000": 56,
+        "FEMALE2000": 51,
+        "POP2008": 149,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020701001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19613,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.61603100003072,
+          -6.18628499985283
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19613,
+        "CU_NAME": "KASU",
+        "CU_NO": "002",
+        "GEOCODE": "07020701002",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "01",
+        "WARD_NAME": "ENDOWA",
+        "LATITUDE": -6.188309,
+        "LONGITUDE": 143.616789,
+        "REGHH": 17,
+        "TOTPOP2000": 94,
+        "MALE2000": 50,
+        "FEMALE2000": 44,
+        "POP2008": 130,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020701002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19614,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.61592599968515,
+          -6.184314999837341
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19614,
+        "CU_NAME": "KUNDIL",
+        "CU_NO": "003",
+        "GEOCODE": "07020701003",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "01",
+        "WARD_NAME": "ENDOWA",
+        "LATITUDE": -6.188309,
+        "LONGITUDE": 143.616789,
+        "REGHH": 16,
+        "TOTPOP2000": 90,
+        "MALE2000": 39,
+        "FEMALE2000": 51,
+        "POP2008": 125,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020701003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19615,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.61823700013747,
+          -6.184547999790311
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19615,
+        "CU_NAME": "PAKIP",
+        "CU_NO": "004",
+        "GEOCODE": "07020701004",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "01",
+        "WARD_NAME": "ENDOWA",
+        "LATITUDE": -6.188309,
+        "LONGITUDE": 143.616789,
+        "REGHH": 22,
+        "TOTPOP2000": 129,
+        "MALE2000": 70,
+        "FEMALE2000": 59,
+        "POP2008": 179,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020701004,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

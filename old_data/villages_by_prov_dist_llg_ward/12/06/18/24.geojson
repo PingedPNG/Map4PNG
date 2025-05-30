@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11679,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.31715399965742,
+          -6.354986000403528
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11679,
+        "CU_NAME": "MANGIANG",
+        "CU_NO": "010",
+        "GEOCODE": "12061824010",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "24",
+        "WARD_NAME": "MANGIANG",
+        "LATITUDE": -6.356402,
+        "LONGITUDE": 146.316121,
+        "REGHH": 94,
+        "TOTPOP2000": 456,
+        "MALE2000": 244,
+        "FEMALE2000": 212,
+        "POP2008": 568,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061824010,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11680,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.31940800017912,
+          -6.355790999754788
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11680,
+        "CU_NAME": "MANGIANG MAINLAND HLDS (NGTB)",
+        "CU_NO": "506",
+        "GEOCODE": "12061824506",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "24",
+        "WARD_NAME": "MANGIANG",
+        "LATITUDE": -6.357207,
+        "LONGITUDE": 146.318375,
+        "REGHH": 40,
+        "TOTPOP2000": 222,
+        "MALE2000": 118,
+        "FEMALE2000": 104,
+        "POP2008": 277,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061824506,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

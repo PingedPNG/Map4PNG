@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.53164512562216,
+          -11.47375512280064
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10003,
+        "CU_NAME": "LAJAMARE",
+        "CU_NO": "001",
+        "GEOCODE": "05021006001",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "RAMBUSO",
+        "LATITUDE": -11.474044,
+        "LONGITUDE": 153.531655,
+        "REGHH": 18,
+        "TOTPOP2000": 89,
+        "MALE2000": 42,
+        "FEMALE2000": 47,
+        "POP2008": 107,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021006001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.7715270002709,
+          -11.60094799975036
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10004,
+        "CU_NAME": "EAST POINT (SUDEST)",
+        "CU_NO": "002",
+        "GEOCODE": "05021006002",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "RAMBUSO",
+        "LATITUDE": -11.60244,
+        "LONGITUDE": 153.770589,
+        "REGHH": 29,
+        "TOTPOP2000": 170,
+        "MALE2000": 92,
+        "FEMALE2000": 78,
+        "POP2008": 207,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021006002,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10005,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.5566333750303,
+          -11.482244596111173
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10005,
+        "CU_NAME": "VARAVARAE",
+        "CU_NO": "003",
+        "GEOCODE": "05021006003",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "RAMBUSO",
+        "LATITUDE": -11.481142,
+        "LONGITUDE": 153.556084,
+        "REGHH": 16,
+        "TOTPOP2000": 88,
+        "MALE2000": 44,
+        "FEMALE2000": 44,
+        "POP2008": 105,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021006003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10006,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.54071319036154,
+          -11.479319499894984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10006,
+        "CU_NAME": "RAMBUSO VILLAGE",
+        "CU_NO": "004",
+        "GEOCODE": "05021006004",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "RAMBUSO",
+        "LATITUDE": -11.484599,
+        "LONGITUDE": 153.550232,
+        "REGHH": 24,
+        "TOTPOP2000": 187,
+        "MALE2000": 95,
+        "FEMALE2000": 92,
+        "POP2008": 228,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021006004,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.54934867759948,
+          -11.484301235913279
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10007,
+        "CU_NAME": "RAMBUSO COMM. SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "05021006401",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "RAMBUSO",
+        "LATITUDE": -11.483267,
+        "LONGITUDE": 153.545877,
+        "REGHH": 3,
+        "TOTPOP2000": 27,
+        "MALE2000": 15,
+        "FEMALE2000": 12,
+        "POP2008": 35,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021006401,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

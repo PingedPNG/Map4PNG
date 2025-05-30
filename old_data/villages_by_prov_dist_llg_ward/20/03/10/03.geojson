@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 650,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.4610969997268,
+          -6.66079299959722
+        ]
+      },
+      "properties": {
+        "OBJECTID": 650,
+        "CU_NAME": "PIWAKEI",
+        "CU_NO": "001",
+        "GEOCODE": "20031003001",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONGA",
+        "LATITUDE": -6.66223,
+        "LONGITUDE": 155.460199,
+        "REGHH": 60,
+        "TOTPOP2000": 304,
+        "MALE2000": 151,
+        "FEMALE2000": 153,
+        "POP2008": 344,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031003001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 651,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.46941100001766,
+          -6.6623900003981475
+        ]
+      },
+      "properties": {
+        "OBJECTID": 651,
+        "CU_NAME": "KAPANA",
+        "CU_NO": "002",
+        "GEOCODE": "20031003002",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONGA",
+        "LATITUDE": -6.663827,
+        "LONGITUDE": 155.468513,
+        "REGHH": 47,
+        "TOTPOP2000": 227,
+        "MALE2000": 124,
+        "FEMALE2000": 103,
+        "POP2008": 256,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031003002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 652,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.4760529996463,
+          -6.65412999989951
+        ]
+      },
+      "properties": {
+        "OBJECTID": 652,
+        "CU_NAME": "KINIRUI",
+        "CU_NO": "003",
+        "GEOCODE": "20031003003",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONGA",
+        "LATITUDE": -6.655567,
+        "LONGITUDE": 155.475155,
+        "REGHH": 49,
+        "TOTPOP2000": 232,
+        "MALE2000": 115,
+        "FEMALE2000": 117,
+        "POP2008": 263,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031003003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 653,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.47689799994282,
+          -6.636893000011867
+        ]
+      },
+      "properties": {
+        "OBJECTID": 653,
+        "CU_NAME": "MUNNU",
+        "CU_NO": "004",
+        "GEOCODE": "20031003004",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONGA",
+        "LATITUDE": -6.63833,
+        "LONGITUDE": 155.476,
+        "REGHH": 42,
+        "TOTPOP2000": 251,
+        "MALE2000": 133,
+        "FEMALE2000": 118,
+        "POP2008": 283,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031003004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 654,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.47689799994282,
+          -6.634392999837019
+        ]
+      },
+      "properties": {
+        "OBJECTID": 654,
+        "CU_NAME": "SIKURAI",
+        "CU_NO": "005",
+        "GEOCODE": "20031003005",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONGA",
+        "LATITUDE": -6.63583,
+        "LONGITUDE": 155.476,
+        "REGHH": 21,
+        "TOTPOP2000": 120,
+        "MALE2000": 61,
+        "FEMALE2000": 59,
+        "POP2008": 136,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031003005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 655,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.48168600040867,
+          -6.664258000206473
+        ]
+      },
+      "properties": {
+        "OBJECTID": 655,
+        "CU_NAME": "RUSIRU",
+        "CU_NO": "006",
+        "GEOCODE": "20031003006",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONGA",
+        "LATITUDE": -6.66528,
+        "LONGITUDE": 155.48,
+        "REGHH": 33,
+        "TOTPOP2000": 158,
+        "MALE2000": 76,
+        "FEMALE2000": 82,
+        "POP2008": 177,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031003006,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 656,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.48700500018072,
+          -6.667245000356445
+        ]
+      },
+      "properties": {
+        "OBJECTID": 656,
+        "CU_NAME": "JEEKU",
+        "CU_NO": "007",
+        "GEOCODE": "20031003007",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONGA",
+        "LATITUDE": -6.66667,
+        "LONGITUDE": 155.485,
+        "REGHH": 15,
+        "TOTPOP2000": 85,
+        "MALE2000": 44,
+        "FEMALE2000": 41,
+        "POP2008": 93,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031003007,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 657,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.53149100030953,
+          -6.5891489998264205
+        ]
+      },
+      "properties": {
+        "OBJECTID": 657,
+        "CU_NAME": "SIIKUMONE",
+        "CU_NO": "008",
+        "GEOCODE": "20031003008",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONGA",
+        "LATITUDE": -6.59444,
+        "LONGITUDE": 155.537,
+        "REGHH": 15,
+        "TOTPOP2000": 76,
+        "MALE2000": 40,
+        "FEMALE2000": 36,
+        "POP2008": 84,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031003008,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 658,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.4810079997195,
+          -6.661792999847023
+        ]
+      },
+      "properties": {
+        "OBJECTID": 658,
+        "CU_NAME": "KONGA CHNS",
+        "CU_NO": "403",
+        "GEOCODE": "20031003403",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONGA",
+        "LATITUDE": -6.66528,
+        "LONGITUDE": 155.48,
+        "REGHH": 3,
+        "TOTPOP2000": 18,
+        "MALE2000": 12,
+        "FEMALE2000": 6,
+        "POP2008": 18,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031003403,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

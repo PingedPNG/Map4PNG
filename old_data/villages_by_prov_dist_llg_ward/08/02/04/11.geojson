@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5467,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9507499997128,
+          -5.4041079995844825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5467,
+        "CU_NAME": "WAIBUKAM",
+        "CU_NO": "011",
+        "GEOCODE": "08020411011",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "WAIBUKAM",
+        "LATITUDE": -5.405509,
+        "LONGITUDE": 143.949688,
+        "REGHH": 62,
+        "TOTPOP2000": 310,
+        "MALE2000": 146,
+        "FEMALE2000": 164,
+        "POP2008": 390,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020411011,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5468,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.93989600010036,
+          -5.382340000290753
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5468,
+        "CU_NAME": "LAIALAM",
+        "CU_NO": "012",
+        "GEOCODE": "08020411012",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "WAIBUKAM",
+        "LATITUDE": -5.383741,
+        "LONGITUDE": 143.938834,
+        "REGHH": 65,
+        "TOTPOP2000": 387,
+        "MALE2000": 195,
+        "FEMALE2000": 192,
+        "POP2008": 487,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020411012,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

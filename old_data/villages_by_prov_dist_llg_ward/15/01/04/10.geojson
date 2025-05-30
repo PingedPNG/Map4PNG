@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18474,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.07583600023133,
+          -3.4431849997878885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18474,
+        "CU_NAME": "ORWEBI/ERITEI 1",
+        "CU_NO": "002",
+        "GEOCODE": "15010410002",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "SIBOTE",
+        "LATITUDE": -3.444563,
+        "LONGITUDE": 142.074754,
+        "REGHH": 18,
+        "TOTPOP2000": 83,
+        "MALE2000": 42,
+        "FEMALE2000": 41,
+        "POP2008": 99,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010410002,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18475,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.09152899996343,
+          -3.4207680002429584
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18475,
+        "CU_NAME": "RAWETEI",
+        "CU_NO": "016",
+        "GEOCODE": "15010410016",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "SIBOTE",
+        "LATITUDE": -3.422146,
+        "LONGITUDE": 142.090447,
+        "REGHH": 41,
+        "TOTPOP2000": 212,
+        "MALE2000": 99,
+        "FEMALE2000": 113,
+        "POP2008": 256,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010410016,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18476,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.10942699975635,
+          -3.427903000123308
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18476,
+        "CU_NAME": "SIBOTE",
+        "CU_NO": "018",
+        "GEOCODE": "15010410018",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "SIBOTE",
+        "LATITUDE": -3.430477,
+        "LONGITUDE": 142.108346,
+        "REGHH": 27,
+        "TOTPOP2000": 137,
+        "MALE2000": 60,
+        "FEMALE2000": 77,
+        "POP2008": 166,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010410018,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18477,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0831340004338,
+          -3.427530000009426
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18477,
+        "CU_NAME": "SIGAITE",
+        "CU_NO": "019",
+        "GEOCODE": "15010410019",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "SIBOTE",
+        "LATITUDE": -3.428908,
+        "LONGITUDE": 142.082052,
+        "REGHH": 36,
+        "TOTPOP2000": 193,
+        "MALE2000": 108,
+        "FEMALE2000": 85,
+        "POP2008": 233,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010410019,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18478,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.08451999959834,
+          -3.4343370000524374
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18478,
+        "CU_NAME": "WAGOITE",
+        "CU_NO": "025",
+        "GEOCODE": "15010410025",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "SIBOTE",
+        "LATITUDE": -3.435715,
+        "LONGITUDE": 142.083438,
+        "REGHH": 12,
+        "TOTPOP2000": 67,
+        "MALE2000": 32,
+        "FEMALE2000": 35,
+        "POP2008": 83,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010410025,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

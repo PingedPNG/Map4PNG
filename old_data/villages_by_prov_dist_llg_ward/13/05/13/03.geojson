@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8922,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.96813399968437,
+          -4.554074999761383
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8922,
+        "CU_NAME": "APARE",
+        "CU_NO": "001",
+        "GEOCODE": "13051303001",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD 3",
+        "LATITUDE": -4.55547,
+        "LONGITUDE": 145.9671,
+        "REGHH": 48,
+        "TOTPOP2000": 259,
+        "MALE2000": 128,
+        "FEMALE2000": 131,
+        "POP2008": 320,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051303001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8923,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.97539900016375,
+          -4.555218000310447
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8923,
+        "CU_NAME": "SIKENTIKA",
+        "CU_NO": "028",
+        "GEOCODE": "13051303028",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD 3",
+        "LATITUDE": -4.556613,
+        "LONGITUDE": 145.974365,
+        "REGHH": 60,
+        "TOTPOP2000": 290,
+        "MALE2000": 151,
+        "FEMALE2000": 139,
+        "POP2008": 358,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051303028,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8924,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9568839997968,
+          -4.545943999815677
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8924,
+        "CU_NAME": "TARAK",
+        "CU_NO": "029",
+        "GEOCODE": "13051303029",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD 3",
+        "LATITUDE": -4.547339,
+        "LONGITUDE": 145.95585,
+        "REGHH": 45,
+        "TOTPOP2000": 248,
+        "MALE2000": 133,
+        "FEMALE2000": 115,
+        "POP2008": 307,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051303029,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

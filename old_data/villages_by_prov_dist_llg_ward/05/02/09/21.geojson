@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9950,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.98231100005273,
+          -10.8455840003013
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9950,
+        "CU_NAME": "AWA",
+        "CU_NO": "001",
+        "GEOCODE": "05020921001",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "21",
+        "WARD_NAME": "KIMUTA",
+        "LATITUDE": -10.843117,
+        "LONGITUDE": 152.981683,
+        "REGHH": 49,
+        "TOTPOP2000": 264,
+        "MALE2000": 141,
+        "FEMALE2000": 123,
+        "POP2008": 322,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020921001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9951,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.96533000027932,
+          -10.838585000397416
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9951,
+        "CU_NAME": "ATUATUA",
+        "CU_NO": "002",
+        "GEOCODE": "05020921002",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "21",
+        "WARD_NAME": "KIMUTA",
+        "LATITUDE": -10.837066,
+        "LONGITUDE": 152.967898,
+        "REGHH": 48,
+        "TOTPOP2000": 208,
+        "MALE2000": 112,
+        "FEMALE2000": 96,
+        "POP2008": 253,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020921002,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

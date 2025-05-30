@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 850,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.34117799956505,
+          -6.459122000280047
+        ]
+      },
+      "properties": {
+        "OBJECTID": 850,
+        "CU_NAME": "MENJAI",
+        "CU_NO": "001",
+        "GEOCODE": "20031203001",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "03",
+        "WARD_NAME": "TOBERAKI",
+        "LATITUDE": -6.460556,
+        "LONGITUDE": 155.340278,
+        "REGHH": 42,
+        "TOTPOP2000": 221,
+        "MALE2000": 116,
+        "FEMALE2000": 105,
+        "POP2008": 248,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031203001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 851,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.31867799978988,
+          -6.45245500039789
+        ]
+      },
+      "properties": {
+        "OBJECTID": 851,
+        "CU_NAME": "MOSINO",
+        "CU_NO": "002",
+        "GEOCODE": "20031203002",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "03",
+        "WARD_NAME": "TOBERAKI",
+        "LATITUDE": -6.453889,
+        "LONGITUDE": 155.317778,
+        "REGHH": 48,
+        "TOTPOP2000": 261,
+        "MALE2000": 131,
+        "FEMALE2000": 130,
+        "POP2008": 293,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031203002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 852,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.3357710002315,
+          -6.427674999801354
+        ]
+      },
+      "properties": {
+        "OBJECTID": 852,
+        "CU_NAME": "AGABAI",
+        "CU_NO": "004",
+        "GEOCODE": "20031203004",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "03",
+        "WARD_NAME": "TOBERAKI",
+        "LATITUDE": -6.429109,
+        "LONGITUDE": 155.334871,
+        "REGHH": 35,
+        "TOTPOP2000": 175,
+        "MALE2000": 90,
+        "FEMALE2000": 85,
+        "POP2008": 199,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031203004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 853,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.3139559996697,
+          -6.4230109996578335
+        ]
+      },
+      "properties": {
+        "OBJECTID": 853,
+        "CU_NAME": "NIGITANG",
+        "CU_NO": "005",
+        "GEOCODE": "20031203005",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "03",
+        "WARD_NAME": "TOBERAKI",
+        "LATITUDE": -6.424444,
+        "LONGITUDE": 155.313056,
+        "REGHH": 27,
+        "TOTPOP2000": 157,
+        "MALE2000": 86,
+        "FEMALE2000": 71,
+        "POP2008": 176,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031203005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 854,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.32451099988282,
+          -6.415789000262123
+        ]
+      },
+      "properties": {
+        "OBJECTID": 854,
+        "CU_NAME": "KUPON",
+        "CU_NO": "006",
+        "GEOCODE": "20031203006",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "03",
+        "WARD_NAME": "TOBERAKI",
+        "LATITUDE": -6.417222,
+        "LONGITUDE": 155.323611,
+        "REGHH": 18,
+        "TOTPOP2000": 93,
+        "MALE2000": 51,
+        "FEMALE2000": 42,
+        "POP2008": 101,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031203006,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 855,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.33945400010214,
+          -6.367900999731319
+        ]
+      },
+      "properties": {
+        "OBJECTID": 855,
+        "CU_NAME": "TOROBA",
+        "CU_NO": "007",
+        "GEOCODE": "20031203007",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "03",
+        "WARD_NAME": "TOBERAKI",
+        "LATITUDE": -6.377962,
+        "LONGITUDE": 155.33443,
+        "REGHH": 55,
+        "TOTPOP2000": 312,
+        "MALE2000": 164,
+        "FEMALE2000": 148,
+        "POP2008": 352,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031203007,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 856,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.28425299957632,
+          -6.4078690001541645
+        ]
+      },
+      "properties": {
+        "OBJECTID": 856,
+        "CU_NAME": "JABA",
+        "CU_NO": "008",
+        "GEOCODE": "20031203008",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "03",
+        "WARD_NAME": "TOBERAKI",
+        "LATITUDE": -6.390148,
+        "LONGITUDE": 155.281324,
+        "REGHH": 34,
+        "TOTPOP2000": 160,
+        "MALE2000": 80,
+        "FEMALE2000": 80,
+        "POP2008": 180,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031203008,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 857,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.23479000015845,
+          -6.417734000024041
+        ]
+      },
+      "properties": {
+        "OBJECTID": 857,
+        "CU_NAME": "MARAU",
+        "CU_NO": "009",
+        "GEOCODE": "20031203009",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "03",
+        "WARD_NAME": "TOBERAKI",
+        "LATITUDE": -6.419167,
+        "LONGITUDE": 155.233889,
+        "REGHH": 23,
+        "TOTPOP2000": 113,
+        "MALE2000": 54,
+        "FEMALE2000": 59,
+        "POP2008": 129,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031203009,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 858,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.31312199988042,
+          -6.416900000234762
+        ]
+      },
+      "properties": {
+        "OBJECTID": 858,
+        "CU_NAME": "MOROTONA H/CENTRE",
+        "CU_NO": "401",
+        "GEOCODE": "20031203401",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "03",
+        "WARD_NAME": "TOBERAKI",
+        "LATITUDE": -6.418333,
+        "LONGITUDE": 155.312222,
+        "REGHH": 5,
+        "TOTPOP2000": 18,
+        "MALE2000": 11,
+        "FEMALE2000": 7,
+        "POP2008": 18,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031203401,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3258659996162,
+          -5.495782000338977
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9298,
+        "CU_NAME": "BIL",
+        "CU_NO": "005",
+        "GEOCODE": "13061632005",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "32",
+        "WARD_NAME": "GARALIGUT",
+        "LATITUDE": -5.497187,
+        "LONGITUDE": 145.324822,
+        "REGHH": 27,
+        "TOTPOP2000": 211,
+        "MALE2000": 111,
+        "FEMALE2000": 100,
+        "POP2008": 262,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061632005,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9299,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2621199998382,
+          -5.480645000166589
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9299,
+        "CU_NAME": "GARALIGUT",
+        "CU_NO": "008",
+        "GEOCODE": "13061632008",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "32",
+        "WARD_NAME": "GARALIGUT",
+        "LATITUDE": -5.473568,
+        "LONGITUDE": 145.265295,
+        "REGHH": 54,
+        "TOTPOP2000": 306,
+        "MALE2000": 145,
+        "FEMALE2000": 161,
+        "POP2008": 378,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061632008,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

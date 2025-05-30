@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.10136400044837,
+          -4.09678900011221
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19000,
+        "CU_NAME": "KASEIRU",
+        "CU_NO": "010",
+        "GEOCODE": "15041417010",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "17",
+        "WARD_NAME": "KASEIRU",
+        "LATITUDE": -4.087335,
+        "LONGITUDE": 141.08619,
+        "REGHH": 26,
+        "TOTPOP2000": 248,
+        "MALE2000": 139,
+        "FEMALE2000": 109,
+        "POP2008": 300,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041417010,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

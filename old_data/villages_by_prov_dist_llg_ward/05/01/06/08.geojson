@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9790,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.2540462991974,
+          -10.671518214593902
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9790,
+        "CU_NAME": "IPULAI",
+        "CU_NO": "011",
+        "GEOCODE": "05010608011",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "IPULAI",
+        "LATITUDE": -10.686238,
+        "LONGITUDE": 150.238142,
+        "REGHH": 33,
+        "TOTPOP2000": 188,
+        "MALE2000": 100,
+        "FEMALE2000": 88,
+        "POP2008": 229,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010608011,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9791,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.21580218852023,
+          -10.694389404147614
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9791,
+        "CU_NAME": "BOEOU",
+        "CU_NO": "012",
+        "GEOCODE": "05010608012",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "IPULAI",
+        "LATITUDE": -10.694176,
+        "LONGITUDE": 150.214951,
+        "REGHH": 38,
+        "TOTPOP2000": 227,
+        "MALE2000": 106,
+        "FEMALE2000": 121,
+        "POP2008": 277,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010608012,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

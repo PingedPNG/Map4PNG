@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19829,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.00571500014723,
+          -6.689484999832814
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19829,
+        "CU_NAME": "WARO",
+        "CU_NO": "007",
+        "GEOCODE": "07030820007",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "20",
+        "WARD_NAME": "WARO",
+        "LATITUDE": -6.689964,
+        "LONGITUDE": 144.006781,
+        "REGHH": 28,
+        "TOTPOP2000": 141,
+        "MALE2000": 58,
+        "FEMALE2000": 83,
+        "POP2008": 196,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030820007,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19830,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.00113899956523,
+          -6.688168000252972
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19830,
+        "CU_NAME": "YAPOROLO",
+        "CU_NO": "008",
+        "GEOCODE": "07030820008",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "20",
+        "WARD_NAME": "WARO",
+        "LATITUDE": -6.689964,
+        "LONGITUDE": 144.006781,
+        "REGHH": 23,
+        "TOTPOP2000": 83,
+        "MALE2000": 43,
+        "FEMALE2000": 40,
+        "POP2008": 115,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030820008,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19831,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.00245199986,
+          -6.683050999903685
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19831,
+        "CU_NAME": "KEGELIPI",
+        "CU_NO": "009",
+        "GEOCODE": "07030820009",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "20",
+        "WARD_NAME": "WARO",
+        "LATITUDE": -6.689964,
+        "LONGITUDE": 144.006781,
+        "REGHH": 59,
+        "TOTPOP2000": 271,
+        "MALE2000": 141,
+        "FEMALE2000": 130,
+        "POP2008": 376,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030820009,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

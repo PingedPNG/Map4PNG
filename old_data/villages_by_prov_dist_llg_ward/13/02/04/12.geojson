@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6804400003058,
+          -5.020922999696609
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8127,
+        "CU_NAME": "ABAR",
+        "CU_NO": "001",
+        "GEOCODE": "13020412001",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD 12",
+        "LATITUDE": -5.022323,
+        "LONGITUDE": 145.679401,
+        "REGHH": 9,
+        "TOTPOP2000": 40,
+        "MALE2000": 22,
+        "FEMALE2000": 18,
+        "POP2008": 48,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020412001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.72606399985375,
+          -5.058477000313246
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8128,
+        "CU_NAME": "ALUAK",
+        "CU_NO": "002",
+        "GEOCODE": "13020412002",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD 12",
+        "LATITUDE": -5.063412,
+        "LONGITUDE": 145.723256,
+        "REGHH": 19,
+        "TOTPOP2000": 114,
+        "MALE2000": 57,
+        "FEMALE2000": 57,
+        "POP2008": 140,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020412002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.69967199956318,
+          -5.045936000246172
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8129,
+        "CU_NAME": "GARIGUT",
+        "CU_NO": "009",
+        "GEOCODE": "13020412009",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD 12",
+        "LATITUDE": -5.047336,
+        "LONGITUDE": 145.698633,
+        "REGHH": 27,
+        "TOTPOP2000": 133,
+        "MALE2000": 85,
+        "FEMALE2000": 48,
+        "POP2008": 165,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020412009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.65621300003,
+          -5.011940000030904
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8130,
+        "CU_NAME": "LAPTING",
+        "CU_NO": "020",
+        "GEOCODE": "13020412020",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD 12",
+        "LATITUDE": -5.016521,
+        "LONGITUDE": 145.65411,
+        "REGHH": 12,
+        "TOTPOP2000": 66,
+        "MALE2000": 39,
+        "FEMALE2000": 27,
+        "POP2008": 82,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020412020,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

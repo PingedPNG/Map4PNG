@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.12299799965797,
+          -5.960345000121606
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4938,
+        "CU_NAME": "MAIHUNA",
+        "CU_NO": "017",
+        "GEOCODE": "18031212017",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "12",
+        "WARD_NAME": "MAINGE",
+        "LATITUDE": -5.961765,
+        "LONGITUDE": 151.122034,
+        "REGHH": 4,
+        "TOTPOP2000": 16,
+        "MALE2000": 8,
+        "FEMALE2000": 8,
+        "POP2008": 16,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031212017,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4939,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.14166599988607,
+          -5.94708600021869
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4939,
+        "CU_NAME": "MAINGE",
+        "CU_NO": "018",
+        "GEOCODE": "18031212018",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "12",
+        "WARD_NAME": "MAINGE",
+        "LATITUDE": -5.948506,
+        "LONGITUDE": 151.140702,
+        "REGHH": 39,
+        "TOTPOP2000": 210,
+        "MALE2000": 98,
+        "FEMALE2000": 112,
+        "POP2008": 255,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031212018,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4940,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.16253499999027,
+          -5.948441999798433
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4940,
+        "CU_NAME": "PAPUN",
+        "CU_NO": "019",
+        "GEOCODE": "18031212019",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "12",
+        "WARD_NAME": "MAINGE",
+        "LATITUDE": -5.949862,
+        "LONGITUDE": 151.16157,
+        "REGHH": 10,
+        "TOTPOP2000": 54,
+        "MALE2000": 26,
+        "FEMALE2000": 28,
+        "POP2008": 63,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031212019,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4941,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.16007399981527,
+          -5.94761500033195
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4941,
+        "CU_NAME": "KAORO C/S AP",
+        "CU_NO": "401",
+        "GEOCODE": "18031212401",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "12",
+        "WARD_NAME": "MAINGE",
+        "LATITUDE": -5.949035,
+        "LONGITUDE": 151.15911,
+        "REGHH": 2,
+        "TOTPOP2000": 11,
+        "MALE2000": 6,
+        "FEMALE2000": 5,
+        "POP2008": 11,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031212401,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

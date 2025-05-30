@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13764,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.858534000144,
+          -8.413911999639026
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13764,
+        "CU_NAME": "KUREREDA",
+        "CU_NO": "013",
+        "GEOCODE": "06020706013",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "KUREREDA",
+        "LATITUDE": -8.419788,
+        "LONGITUDE": 147.851816,
+        "REGHH": 44,
+        "TOTPOP2000": 284,
+        "MALE2000": 152,
+        "FEMALE2000": 132,
+        "POP2008": 352,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020706013,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13765,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.77264900015132,
+          -8.192031000030568
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13765,
+        "CU_NAME": "WAGADARI & CP-13",
+        "CU_NO": "025",
+        "GEOCODE": "06020706025",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "KUREREDA",
+        "LATITUDE": -8.19347,
+        "LONGITUDE": 147.771632,
+        "REGHH": 6,
+        "TOTPOP2000": 42,
+        "MALE2000": 15,
+        "FEMALE2000": 27,
+        "POP2008": 50,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020706025,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13766,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.8467340000741,
+          -8.42768900004728
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13766,
+        "CU_NAME": "DABO",
+        "CU_NO": "026",
+        "GEOCODE": "06020706026",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "KUREREDA",
+        "LATITUDE": -8.42913,
+        "LONGITUDE": 147.845717,
+        "REGHH": 27,
+        "TOTPOP2000": 153,
+        "MALE2000": 75,
+        "FEMALE2000": 78,
+        "POP2008": 189,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020706026,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12338,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.14507699970386,
+          -6.062837999773819
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12338,
+        "CU_NAME": "IPANG",
+        "CU_NO": "019",
+        "GEOCODE": "12092808019",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "08",
+        "WARD_NAME": "TOWAT",
+        "LATITUDE": -6.064252,
+        "LONGITUDE": 147.144056,
+        "REGHH": 41,
+        "TOTPOP2000": 189,
+        "MALE2000": 100,
+        "FEMALE2000": 89,
+        "POP2008": 235,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092808019,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12339,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1835359997866,
+          -5.973394000232872
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12339,
+        "CU_NAME": "ULUT",
+        "CU_NO": "020",
+        "GEOCODE": "12092808020",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "08",
+        "WARD_NAME": "TOWAT",
+        "LATITUDE": -5.974807,
+        "LONGITUDE": 147.182516,
+        "REGHH": 31,
+        "TOTPOP2000": 140,
+        "MALE2000": 74,
+        "FEMALE2000": 66,
+        "POP2008": 174,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092808020,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12340,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1665269996214,
+          -6.00390199967751
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12340,
+        "CU_NAME": "KIKIONG & NGARIKILENG",
+        "CU_NO": "021",
+        "GEOCODE": "12092808021",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "08",
+        "WARD_NAME": "TOWAT",
+        "LATITUDE": -6.005316,
+        "LONGITUDE": 147.165506,
+        "REGHH": 42,
+        "TOTPOP2000": 208,
+        "MALE2000": 105,
+        "FEMALE2000": 103,
+        "POP2008": 259,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092808021,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12341,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1598900002234,
+          -6.017860000338715
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12341,
+        "CU_NAME": "TOWAT",
+        "CU_NO": "022",
+        "GEOCODE": "12092808022",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "08",
+        "WARD_NAME": "TOWAT",
+        "LATITUDE": -6.019274,
+        "LONGITUDE": 147.158869,
+        "REGHH": 50,
+        "TOTPOP2000": 234,
+        "MALE2000": 124,
+        "FEMALE2000": 110,
+        "POP2008": 293,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092808022,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1622209997994,
+          -6.051992999677168
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12342,
+        "CU_NAME": "BUMBU",
+        "CU_NO": "031",
+        "GEOCODE": "12092808031",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "08",
+        "WARD_NAME": "TOWAT",
+        "LATITUDE": -6.053407,
+        "LONGITUDE": 147.1612,
+        "REGHH": 33,
+        "TOTPOP2000": 191,
+        "MALE2000": 97,
+        "FEMALE2000": 94,
+        "POP2008": 237,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092808031,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17097,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.09867199981295,
+          -5.485370000425121
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17097,
+        "CU_NAME": "MANDAWASA.1",
+        "CU_NO": "001",
+        "GEOCODE": "09050927001",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "27",
+        "WARD_NAME": "MANDAWASA.1",
+        "LATITUDE": -5.48637,
+        "LONGITUDE": 144.098136,
+        "REGHH": 98,
+        "TOTPOP2000": 351,
+        "MALE2000": 175,
+        "FEMALE2000": 176,
+        "POP2008": 427,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050927001,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17098,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.09541799994076,
+          -5.484778000104598
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17098,
+        "CU_NAME": "LAKA",
+        "CU_NO": "009",
+        "GEOCODE": "09050927009",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "27",
+        "WARD_NAME": "MANDAWASA.1",
+        "LATITUDE": -5.48637,
+        "LONGITUDE": 144.098136,
+        "REGHH": 108,
+        "TOTPOP2000": 314,
+        "MALE2000": 165,
+        "FEMALE2000": 149,
+        "POP2008": 382,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050927009,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17099,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0978129997702,
+          -5.483709000270096
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17099,
+        "CU_NAME": "MANDAWASA C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "09050927401",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "27",
+        "WARD_NAME": "MANDAWASA.1",
+        "LATITUDE": -5.48637,
+        "LONGITUDE": 144.098136,
+        "REGHH": 2,
+        "TOTPOP2000": 9,
+        "MALE2000": 5,
+        "FEMALE2000": 4,
+        "POP2008": 9,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050927401,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3767070000281,
+          -3.7143280003368773
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7265,
+        "CU_NAME": "HARUA",
+        "CU_NO": "003",
+        "GEOCODE": "14062402003",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "24",
+        "WARD_NO": "02",
+        "WARD_NAME": "HARUA",
+        "LATITUDE": -3.715907,
+        "LONGITUDE": 143.375472,
+        "REGHH": 95,
+        "TOTPOP2000": 495,
+        "MALE2000": 241,
+        "FEMALE2000": 254,
+        "POP2008": 589,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062402003,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

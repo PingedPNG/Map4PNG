@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3057969997318,
+          -5.766951000288373
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16217,
+        "CU_NAME": "MUN",
+        "CU_NO": "001",
+        "GEOCODE": "09020303001",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "MUN",
+        "LATITUDE": -5.767077,
+        "LONGITUDE": 144.305061,
+        "REGHH": 66,
+        "TOTPOP2000": 347,
+        "MALE2000": 184,
+        "FEMALE2000": 163,
+        "POP2008": 423,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020303001,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.29307400026494,
+          -5.774985000257516
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16218,
+        "CU_NAME": "AMBRA",
+        "CU_NO": "002",
+        "GEOCODE": "09020303002",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "MUN",
+        "LATITUDE": -5.775923,
+        "LONGITUDE": 144.293408,
+        "REGHH": 64,
+        "TOTPOP2000": 289,
+        "MALE2000": 148,
+        "FEMALE2000": 141,
+        "POP2008": 352,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020303002,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16219,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.304551999875,
+          -5.764596999651758
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16219,
+        "CU_NAME": "MUN C/MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "09020303401",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "MUN",
+        "LATITUDE": -5.765535,
+        "LONGITUDE": 144.304886,
+        "REGHH": 11,
+        "TOTPOP2000": 35,
+        "MALE2000": 18,
+        "FEMALE2000": 17,
+        "POP2008": 43,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020303401,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16220,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.29417599982264,
+          -5.778559999644244
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16220,
+        "CU_NAME": "AMBRA PLANTATION",
+        "CU_NO": "402",
+        "GEOCODE": "09020303402",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "MUN",
+        "LATITUDE": -5.779498,
+        "LONGITUDE": 144.29451,
+        "REGHH": 41,
+        "TOTPOP2000": 197,
+        "MALE2000": 101,
+        "FEMALE2000": 96,
+        "POP2008": 240,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020303402,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

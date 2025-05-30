@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9495,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.07054099966751,
+          -2.1262100001912927
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9495,
+        "CU_NAME": "PAU",
+        "CU_NO": "008",
+        "GEOCODE": "16010906008",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "09",
+        "WARD_NO": "06",
+        "WARD_NAME": "TAWI",
+        "LATITUDE": -2.126482,
+        "LONGITUDE": 147.070504,
+        "REGHH": 11,
+        "TOTPOP2000": 71,
+        "MALE2000": 36,
+        "FEMALE2000": 35,
+        "POP2008": 87,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010906008,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.06324400041035,
+          -2.133590999724788
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9496,
+        "CU_NAME": "TAWI",
+        "CU_NO": "010",
+        "GEOCODE": "16010906010",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "09",
+        "WARD_NO": "06",
+        "WARD_NAME": "TAWI",
+        "LATITUDE": -2.135745,
+        "LONGITUDE": 147.060565,
+        "REGHH": 21,
+        "TOTPOP2000": 114,
+        "MALE2000": 57,
+        "FEMALE2000": 57,
+        "POP2008": 139,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010906010,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9497,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.06481299992004,
+          -2.145253999772251
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9497,
+        "CU_NAME": "UNDRAU'U",
+        "CU_NO": "013",
+        "GEOCODE": "16010906013",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "09",
+        "WARD_NO": "06",
+        "WARD_NAME": "TAWI",
+        "LATITUDE": -2.146621,
+        "LONGITUDE": 147.063796,
+        "REGHH": 22,
+        "TOTPOP2000": 138,
+        "MALE2000": 66,
+        "FEMALE2000": 72,
+        "POP2008": 170,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010906013,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

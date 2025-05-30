@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18427,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.67876700039676,
+          -3.098106999938068
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18427,
+        "CU_NAME": "MUMURU",
+        "CU_NO": "018",
+        "GEOCODE": "15010319018",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "19",
+        "WARD_NAME": "MUMURU",
+        "LATITUDE": -3.093678,
+        "LONGITUDE": 141.672624,
+        "REGHH": 22,
+        "TOTPOP2000": 105,
+        "MALE2000": 62,
+        "FEMALE2000": 43,
+        "POP2008": 129,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010319018,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

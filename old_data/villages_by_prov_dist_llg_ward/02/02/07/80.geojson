@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7669,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.82738599966422,
+          -7.494404000244344
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7669,
+        "CU_NAME": "BAIMURU",
+        "CU_NO": "001",
+        "GEOCODE": "02020780001",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "80",
+        "WARD_NAME": "BAIMURU STATION",
+        "LATITUDE": -7.495832,
+        "LONGITUDE": 144.826322,
+        "REGHH": 49,
+        "TOTPOP2000": 404,
+        "MALE2000": 191,
+        "FEMALE2000": 213,
+        "POP2008": 497,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020780001,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7670,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8234420003481,
+          -7.496283999706748
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7670,
+        "CU_NAME": "KOKI SETTLEMENT",
+        "CU_NO": "003",
+        "GEOCODE": "02020780003",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "80",
+        "WARD_NAME": "BAIMURU STATION",
+        "LATITUDE": -7.497037,
+        "LONGITUDE": 144.821944,
+        "REGHH": 40,
+        "TOTPOP2000": 252,
+        "MALE2000": 125,
+        "FEMALE2000": 127,
+        "POP2008": 310,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020780003,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7671,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8238290002082,
+          -7.495363000402108
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7671,
+        "CU_NAME": "MIDDLETOWN SETTLEMENT",
+        "CU_NO": "004",
+        "GEOCODE": "02020780004",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "80",
+        "WARD_NAME": "BAIMURU STATION",
+        "LATITUDE": -7.496383,
+        "LONGITUDE": 144.823707,
+        "REGHH": 18,
+        "TOTPOP2000": 146,
+        "MALE2000": 69,
+        "FEMALE2000": 77,
+        "POP2008": 179,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020780004,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7672,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.82667700024342,
+          -7.493624000247394
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7672,
+        "CU_NAME": "MIX SETTLEMENT",
+        "CU_NO": "005",
+        "GEOCODE": "02020780005",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "80",
+        "WARD_NAME": "BAIMURU STATION",
+        "LATITUDE": -7.495048,
+        "LONGITUDE": 144.825622,
+        "REGHH": 65,
+        "TOTPOP2000": 444,
+        "MALE2000": 235,
+        "FEMALE2000": 209,
+        "POP2008": 545,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020780005,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8240420001382,
+          -7.497468000347908
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7673,
+        "CU_NAME": "NENEGAU IS. SETTLEMENT",
+        "CU_NO": "006",
+        "GEOCODE": "02020780006",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "80",
+        "WARD_NAME": "BAIMURU STATION",
+        "LATITUDE": -7.49942,
+        "LONGITUDE": 144.824958,
+        "REGHH": 25,
+        "TOTPOP2000": 147,
+        "MALE2000": 77,
+        "FEMALE2000": 70,
+        "POP2008": 180,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020780006,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

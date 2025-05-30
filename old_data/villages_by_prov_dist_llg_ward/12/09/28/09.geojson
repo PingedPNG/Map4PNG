@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12343,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.10800299963876,
+          -5.959657999916715
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12343,
+        "CU_NAME": "ENGENG",
+        "CU_NO": "012",
+        "GEOCODE": "12092809012",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "09",
+        "WARD_NAME": "WELOWELO",
+        "LATITUDE": -5.961071,
+        "LONGITUDE": 147.106982,
+        "REGHH": 9,
+        "TOTPOP2000": 60,
+        "MALE2000": 33,
+        "FEMALE2000": 27,
+        "POP2008": 76,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092809012,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12344,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0467580000817,
+          -5.910524000382281
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12344,
+        "CU_NAME": "MALASANGA",
+        "CU_NO": "013",
+        "GEOCODE": "12092809013",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "09",
+        "WARD_NAME": "WELOWELO",
+        "LATITUDE": -5.911936,
+        "LONGITUDE": 147.045736,
+        "REGHH": 53,
+        "TOTPOP2000": 287,
+        "MALE2000": 148,
+        "FEMALE2000": 139,
+        "POP2008": 357,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092809013,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.07095499987338,
+          -5.955272000002765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12345,
+        "CU_NAME": "WELOWELO",
+        "CU_NO": "029",
+        "GEOCODE": "12092809029",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "09",
+        "WARD_NAME": "WELOWELO",
+        "LATITUDE": -5.957403,
+        "LONGITUDE": 147.077062,
+        "REGHH": 30,
+        "TOTPOP2000": 174,
+        "MALE2000": 86,
+        "FEMALE2000": 88,
+        "POP2008": 217,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092809029,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

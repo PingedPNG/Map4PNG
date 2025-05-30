@@ -1,0 +1,453 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 539,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.70228300016038,
+          -6.706618000320418
+        ]
+      },
+      "properties": {
+        "OBJECTID": 539,
+        "CU_NAME": "IBIRAI",
+        "CU_NO": "001",
+        "GEOCODE": "20030902001",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "LUGAKEI",
+        "LATITUDE": -6.708056,
+        "LONGITUDE": 155.701389,
+        "REGHH": 63,
+        "TOTPOP2000": 352,
+        "MALE2000": 170,
+        "FEMALE2000": 182,
+        "POP2008": 397,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030902001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 540,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.68200600037665,
+          -6.715228999918338
+        ]
+      },
+      "properties": {
+        "OBJECTID": 540,
+        "CU_NAME": "KUGUMARU",
+        "CU_NO": "002",
+        "GEOCODE": "20030902002",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "LUGAKEI",
+        "LATITUDE": -6.716667,
+        "LONGITUDE": 155.681111,
+        "REGHH": 75,
+        "TOTPOP2000": 377,
+        "MALE2000": 202,
+        "FEMALE2000": 175,
+        "POP2008": 425,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030902002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 541,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.6875620002861,
+          -6.711894999954211
+        ]
+      },
+      "properties": {
+        "OBJECTID": 541,
+        "CU_NAME": "LAITARO",
+        "CU_NO": "003",
+        "GEOCODE": "20030902003",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "LUGAKEI",
+        "LATITUDE": -6.713333,
+        "LONGITUDE": 155.686667,
+        "REGHH": 86,
+        "TOTPOP2000": 506,
+        "MALE2000": 251,
+        "FEMALE2000": 255,
+        "POP2008": 570,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030902003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.69617299988408,
+          -6.709951000238448
+        ]
+      },
+      "properties": {
+        "OBJECTID": 542,
+        "CU_NAME": "SIURU",
+        "CU_NO": "004",
+        "GEOCODE": "20030902004",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "LUGAKEI",
+        "LATITUDE": -6.711389,
+        "LONGITUDE": 155.695278,
+        "REGHH": 36,
+        "TOTPOP2000": 210,
+        "MALE2000": 91,
+        "FEMALE2000": 119,
+        "POP2008": 234,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030902004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 543,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.67700600002695,
+          -6.686895000004199
+        ]
+      },
+      "properties": {
+        "OBJECTID": 543,
+        "CU_NAME": "IULA 1",
+        "CU_NO": "005",
+        "GEOCODE": "20030902005",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "LUGAKEI",
+        "LATITUDE": -6.688333,
+        "LONGITUDE": 155.676111,
+        "REGHH": 45,
+        "TOTPOP2000": 283,
+        "MALE2000": 144,
+        "FEMALE2000": 139,
+        "POP2008": 318,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030902005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 544,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.68562299990163,
+          -6.6941350002300055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 544,
+        "CU_NAME": "IULA 2",
+        "CU_NO": "006",
+        "GEOCODE": "20030902006",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "LUGAKEI",
+        "LATITUDE": -6.694722,
+        "LONGITUDE": 155.688056,
+        "REGHH": 27,
+        "TOTPOP2000": 163,
+        "MALE2000": 79,
+        "FEMALE2000": 84,
+        "POP2008": 185,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030902006,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 545,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.67895099978887,
+          -6.699117999795817
+        ]
+      },
+      "properties": {
+        "OBJECTID": 545,
+        "CU_NAME": "IULA 3",
+        "CU_NO": "007",
+        "GEOCODE": "20030902007",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "LUGAKEI",
+        "LATITUDE": -6.700556,
+        "LONGITUDE": 155.678056,
+        "REGHH": 25,
+        "TOTPOP2000": 160,
+        "MALE2000": 89,
+        "FEMALE2000": 71,
+        "POP2008": 180,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030902007,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 546,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.6920060001769,
+          -6.694951000088508
+        ]
+      },
+      "properties": {
+        "OBJECTID": 546,
+        "CU_NAME": "MOREU",
+        "CU_NO": "008",
+        "GEOCODE": "20030902008",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "LUGAKEI",
+        "LATITUDE": -6.696389,
+        "LONGITUDE": 155.691111,
+        "REGHH": 32,
+        "TOTPOP2000": 148,
+        "MALE2000": 78,
+        "FEMALE2000": 70,
+        "POP2008": 164,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030902008,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 547,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.6822839997069,
+          -6.678284000406222
+        ]
+      },
+      "properties": {
+        "OBJECTID": 547,
+        "CU_NAME": "KASIKANA",
+        "CU_NO": "009",
+        "GEOCODE": "20030902009",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "LUGAKEI",
+        "LATITUDE": -6.679722,
+        "LONGITUDE": 155.681389,
+        "REGHH": 16,
+        "TOTPOP2000": 94,
+        "MALE2000": 47,
+        "FEMALE2000": 47,
+        "POP2008": 103,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030902009,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 548,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.65977300032375,
+          -6.638864000073511
+        ]
+      },
+      "properties": {
+        "OBJECTID": 548,
+        "CU_NAME": "MASIKURU",
+        "CU_NO": "010",
+        "GEOCODE": "20030902010",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "LUGAKEI",
+        "LATITUDE": -6.642778,
+        "LONGITUDE": 155.662778,
+        "REGHH": 20,
+        "TOTPOP2000": 116,
+        "MALE2000": 62,
+        "FEMALE2000": 54,
+        "POP2008": 132,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030902010,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 549,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.6533530001409,
+          -6.605515000017192
+        ]
+      },
+      "properties": {
+        "OBJECTID": 549,
+        "CU_NAME": "KONIGURU",
+        "CU_NO": "011",
+        "GEOCODE": "20030902011",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "LUGAKEI",
+        "LATITUDE": -6.614722,
+        "LONGITUDE": 155.653333,
+        "REGHH": 59,
+        "TOTPOP2000": 260,
+        "MALE2000": 110,
+        "FEMALE2000": 150,
+        "POP2008": 292,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030902011,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 550,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.66311699984976,
+          -6.6521739996303495
+        ]
+      },
+      "properties": {
+        "OBJECTID": 550,
+        "CU_NAME": "KUGULASI",
+        "CU_NO": "012",
+        "GEOCODE": "20030902012",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "LUGAKEI",
+        "LATITUDE": -6.653611,
+        "LONGITUDE": 155.662222,
+        "REGHH": 25,
+        "TOTPOP2000": 137,
+        "MALE2000": 73,
+        "FEMALE2000": 64,
+        "POP2008": 153,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030902012,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.6667279999973,
+          -6.668284999752871
+        ]
+      },
+      "properties": {
+        "OBJECTID": 551,
+        "CU_NAME": "PARIRO",
+        "CU_NO": "013",
+        "GEOCODE": "20030902013",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "LUGAKEI",
+        "LATITUDE": -6.669722,
+        "LONGITUDE": 155.665833,
+        "REGHH": 101,
+        "TOTPOP2000": 624,
+        "MALE2000": 335,
+        "FEMALE2000": 289,
+        "POP2008": 702,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030902013,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.66575300000102,
+          -6.626709999866534
+        ]
+      },
+      "properties": {
+        "OBJECTID": 552,
+        "CU_NAME": "KUGUGAI",
+        "CU_NO": "014",
+        "GEOCODE": "20030902014",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "LUGAKEI",
+        "LATITUDE": -6.628147,
+        "LONGITUDE": 155.664858,
+        "REGHH": 23,
+        "TOTPOP2000": 151,
+        "MALE2000": 80,
+        "FEMALE2000": 71,
+        "POP2008": 167,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030902014,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

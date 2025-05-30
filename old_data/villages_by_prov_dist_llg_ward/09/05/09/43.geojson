@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2183820002292,
+          -5.497122000080196
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17120,
+        "CU_NAME": "PILA",
+        "CU_NO": "001",
+        "GEOCODE": "09050943001",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "43",
+        "WARD_NAME": "PILA",
+        "LATITUDE": -5.498057,
+        "LONGITUDE": 144.218715,
+        "REGHH": 139,
+        "TOTPOP2000": 593,
+        "MALE2000": 301,
+        "FEMALE2000": 292,
+        "POP2008": 723,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050943001,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

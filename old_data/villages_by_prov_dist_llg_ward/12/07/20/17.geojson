@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11900,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0888109997279,
+          -7.387210999687852
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11900,
+        "CU_NAME": "AITU",
+        "CU_NO": "002",
+        "GEOCODE": "12072017002",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "17",
+        "WARD_NAME": "WANGINI",
+        "LATITUDE": -7.388637,
+        "LONGITUDE": 146.087773,
+        "REGHH": 65,
+        "TOTPOP2000": 321,
+        "MALE2000": 160,
+        "FEMALE2000": 161,
+        "POP2008": 400,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072017002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1082309995611,
+          -7.438431000090532
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11901,
+        "CU_NAME": "TIVATA",
+        "CU_NO": "004",
+        "GEOCODE": "12072017004",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "17",
+        "WARD_NAME": "WANGINI",
+        "LATITUDE": -7.439858,
+        "LONGITUDE": 146.107193,
+        "REGHH": 38,
+        "TOTPOP2000": 160,
+        "MALE2000": 80,
+        "FEMALE2000": 80,
+        "POP2008": 199,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072017004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.09209900026872,
+          -7.436637000097448
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11902,
+        "CU_NAME": "WEIVINI",
+        "CU_NO": "005",
+        "GEOCODE": "12072017005",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "17",
+        "WARD_NAME": "WANGINI",
+        "LATITUDE": -7.438064,
+        "LONGITUDE": 146.091061,
+        "REGHH": 52,
+        "TOTPOP2000": 264,
+        "MALE2000": 123,
+        "FEMALE2000": 141,
+        "POP2008": 329,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072017005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11903,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.08483299974318,
+          -7.423344999572009
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11903,
+        "CU_NAME": "WANGINI",
+        "CU_NO": "021",
+        "GEOCODE": "12072017021",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "17",
+        "WARD_NAME": "WANGINI",
+        "LATITUDE": -7.424772,
+        "LONGITUDE": 146.083795,
+        "REGHH": 58,
+        "TOTPOP2000": 368,
+        "MALE2000": 185,
+        "FEMALE2000": 183,
+        "POP2008": 460,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072017021,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11904,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0981050002456,
+          -7.3795049995560476
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11904,
+        "CU_NAME": "YANGAYU",
+        "CU_NO": "023",
+        "GEOCODE": "12072017023",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "17",
+        "WARD_NAME": "WANGINI",
+        "LATITUDE": -7.378842,
+        "LONGITUDE": 146.098468,
+        "REGHH": 80,
+        "TOTPOP2000": 426,
+        "MALE2000": 218,
+        "FEMALE2000": 208,
+        "POP2008": 531,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072017023,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

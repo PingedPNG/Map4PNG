@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4612,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.08831900012183,
+          -4.41853499959052
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4612,
+        "CU_NAME": "TAULIL NO.2",
+        "CU_NO": "013",
+        "GEOCODE": "18010513013",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "13",
+        "WARD_NAME": "TAULIL NO.2",
+        "LATITUDE": -4.419937,
+        "LONGITUDE": 152.087372,
+        "REGHH": 113,
+        "TOTPOP2000": 719,
+        "MALE2000": 377,
+        "FEMALE2000": 342,
+        "POP2008": 875,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010513013,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

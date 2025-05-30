@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14058,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.93287199974304,
+          -6.12278599977401
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14058,
+        "CU_NAME": "DUABOL",
+        "CU_NO": "001",
+        "GEOCODE": "10020401001",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "ERA 1",
+        "LATITUDE": -6.124197,
+        "LONGITUDE": 144.93182,
+        "REGHH": 108,
+        "TOTPOP2000": 560,
+        "MALE2000": 293,
+        "FEMALE2000": 267,
+        "POP2008": 645,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020401001,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14059,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9285219996906,
+          -6.118718000135573
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14059,
+        "CU_NAME": "MOROMAULE",
+        "CU_NO": "002",
+        "GEOCODE": "10020401002",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "ERA 1",
+        "LATITUDE": -6.120129,
+        "LONGITUDE": 144.927471,
+        "REGHH": 55,
+        "TOTPOP2000": 250,
+        "MALE2000": 133,
+        "FEMALE2000": 117,
+        "POP2008": 290,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020401002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14060,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.92697100011162,
+          -6.117439999656199
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14060,
+        "CU_NAME": "MOROMAULE C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "10020401401",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "ERA 1",
+        "LATITUDE": -6.118851,
+        "LONGITUDE": 144.92592,
+        "REGHH": 1,
+        "TOTPOP2000": 6,
+        "MALE2000": 3,
+        "FEMALE2000": 3,
+        "POP2008": 6,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020401401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

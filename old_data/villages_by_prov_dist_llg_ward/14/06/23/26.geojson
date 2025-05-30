@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.25102200016522,
+          -3.710471999682966
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7259,
+        "CU_NAME": "KAMANJAN",
+        "CU_NO": "001",
+        "GEOCODE": "14062326001",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "23",
+        "WARD_NO": "26",
+        "WARD_NAME": "KAMANJAN",
+        "LATITUDE": -3.712051,
+        "LONGITUDE": 143.249785,
+        "REGHH": 49,
+        "TOTPOP2000": 254,
+        "MALE2000": 125,
+        "FEMALE2000": 129,
+        "POP2008": 303,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062326001,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

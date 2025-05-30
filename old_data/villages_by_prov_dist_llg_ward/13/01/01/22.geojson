@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7889,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.32835300009094,
+          -4.401389000302061
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7889,
+        "CU_NAME": "RARIN",
+        "CU_NO": "021",
+        "GEOCODE": "13010122021",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "22",
+        "WARD_NAME": "SIMBINE",
+        "LATITUDE": -4.4054,
+        "LONGITUDE": 145.322202,
+        "REGHH": 39,
+        "TOTPOP2000": 261,
+        "MALE2000": 141,
+        "FEMALE2000": 120,
+        "POP2008": 322,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010122021,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7890,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.34380200026214,
+          -4.414360000413637
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7890,
+        "CU_NAME": "SIMBINE",
+        "CU_NO": "025",
+        "GEOCODE": "13010122025",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "22",
+        "WARD_NAME": "SIMBINE",
+        "LATITUDE": -4.414444,
+        "LONGITUDE": 145.342763,
+        "REGHH": 41,
+        "TOTPOP2000": 261,
+        "MALE2000": 126,
+        "FEMALE2000": 135,
+        "POP2008": 322,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010122025,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7891,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.34790999994664,
+          -4.417347999710387
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7891,
+        "CU_NAME": "TAMAKOT",
+        "CU_NO": "027",
+        "GEOCODE": "13010122027",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "22",
+        "WARD_NAME": "SIMBINE",
+        "LATITUDE": -4.41822,
+        "LONGITUDE": 145.347826,
+        "REGHH": 29,
+        "TOTPOP2000": 152,
+        "MALE2000": 81,
+        "FEMALE2000": 71,
+        "POP2008": 188,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010122027,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7892,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.33539300008692,
+          -4.413854999608475
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7892,
+        "CU_NAME": "SURATEN",
+        "CU_NO": "028",
+        "GEOCODE": "13010122028",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "22",
+        "WARD_NAME": "SIMBINE",
+        "LATITUDE": -4.415248,
+        "LONGITUDE": 145.334351,
+        "REGHH": 20,
+        "TOTPOP2000": 98,
+        "MALE2000": 50,
+        "FEMALE2000": 48,
+        "POP2008": 122,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010122028,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

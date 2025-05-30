@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30315,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.69008335955948,
+          -6.688853369986987
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30315,
+        "CU_NAME": "MOBUTASA",
+        "CU_NO": "005",
+        "GEOCODE": "11060829005",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "29",
+        "WARD_NAME": "MOBUTASA",
+        "LATITUDE": -6.688853,
+        "LONGITUDE": 145.690083,
+        "REGHH": 32,
+        "TOTPOP2000": 144,
+        "MALE2000": 80,
+        "FEMALE2000": 64,
+        "POP2008": 170,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30316,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7027474399424,
+          -6.692581169585253
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30316,
+        "CU_NAME": "TIMBOIPE",
+        "CU_NO": "006",
+        "GEOCODE": "11060829006",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "29",
+        "WARD_NAME": "MOBUTASA",
+        "LATITUDE": -6.692581,
+        "LONGITUDE": 145.702747,
+        "REGHH": 24,
+        "TOTPOP2000": 115,
+        "MALE2000": 67,
+        "FEMALE2000": 48,
+        "POP2008": 139,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30317,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6978791596955,
+          -6.689491469555605
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30317,
+        "CU_NAME": "AVOSAPE",
+        "CU_NO": "007",
+        "GEOCODE": "11060829007",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "29",
+        "WARD_NAME": "MOBUTASA",
+        "LATITUDE": -6.689491,
+        "LONGITUDE": 145.697879,
+        "REGHH": 24,
+        "TOTPOP2000": 101,
+        "MALE2000": 49,
+        "FEMALE2000": 52,
+        "POP2008": 118,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6815859200542,
+          -6.7379032802121515
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30318,
+        "CU_NAME": "AGAMUSI",
+        "CU_NO": "008",
+        "GEOCODE": "11060829008",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "29",
+        "WARD_NAME": "MOBUTASA",
+        "LATITUDE": -6.737903,
+        "LONGITUDE": 145.681586,
+        "REGHH": 16,
+        "TOTPOP2000": 51,
+        "MALE2000": 28,
+        "FEMALE2000": 23,
+        "POP2008": 59,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30319,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.71938628005284,
+          -6.749060399917482
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30319,
+        "CU_NAME": "OWAPEI",
+        "CU_NO": "009",
+        "GEOCODE": "11060829009",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "29",
+        "WARD_NAME": "MOBUTASA",
+        "LATITUDE": -6.74906,
+        "LONGITUDE": 145.719386,
+        "REGHH": 29,
+        "TOTPOP2000": 124,
+        "MALE2000": 67,
+        "FEMALE2000": 57,
+        "POP2008": 148,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

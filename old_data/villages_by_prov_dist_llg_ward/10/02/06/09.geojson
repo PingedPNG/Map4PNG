@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14181,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.94901799968102,
+          -6.074098000122547
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14181,
+        "CU_NAME": "MUNUMA",
+        "CU_NO": "002",
+        "GEOCODE": "10020609002",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "MUNUMA",
+        "LATITUDE": -6.075508,
+        "LONGITUDE": 144.947968,
+        "REGHH": 115,
+        "TOTPOP2000": 659,
+        "MALE2000": 340,
+        "FEMALE2000": 319,
+        "POP2008": 760,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020609002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.93478199968956,
+          -6.075392000440445
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14182,
+        "CU_NAME": "BEMAL",
+        "CU_NO": "003",
+        "GEOCODE": "10020609003",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "MUNUMA",
+        "LATITUDE": -6.076802,
+        "LONGITUDE": 144.933732,
+        "REGHH": 48,
+        "TOTPOP2000": 250,
+        "MALE2000": 136,
+        "FEMALE2000": 114,
+        "POP2008": 290,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020609003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14183,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.93906800038792,
+          -6.072597000151404
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14183,
+        "CU_NAME": "MILMA",
+        "CU_NO": "004",
+        "GEOCODE": "10020609004",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "MUNUMA",
+        "LATITUDE": -6.074007,
+        "LONGITUDE": 144.938018,
+        "REGHH": 118,
+        "TOTPOP2000": 683,
+        "MALE2000": 353,
+        "FEMALE2000": 330,
+        "POP2008": 788,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020609004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9499640001386,
+          -6.077195999995354
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14184,
+        "CU_NAME": "NAWA",
+        "CU_NO": "005",
+        "GEOCODE": "10020609005",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "MUNUMA",
+        "LATITUDE": -6.078606,
+        "LONGITUDE": 144.948914,
+        "REGHH": 61,
+        "TOTPOP2000": 334,
+        "MALE2000": 178,
+        "FEMALE2000": 156,
+        "POP2008": 385,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020609005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.92560500007073,
+          -6.081882000254041
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14185,
+        "CU_NAME": "KOLMA",
+        "CU_NO": "006",
+        "GEOCODE": "10020609006",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "MUNUMA",
+        "LATITUDE": -6.083292,
+        "LONGITUDE": 144.924554,
+        "REGHH": 84,
+        "TOTPOP2000": 451,
+        "MALE2000": 249,
+        "FEMALE2000": 202,
+        "POP2008": 520,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020609006,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

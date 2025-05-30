@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10464,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.43606800023804,
+          -7.259101999557572
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10464,
+        "CU_NAME": "AKIKANDA",
+        "CU_NO": "001",
+        "GEOCODE": "12010303001",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "PARAROA",
+        "LATITUDE": -7.260528,
+        "LONGITUDE": 146.435035,
+        "REGHH": 30,
+        "TOTPOP2000": 158,
+        "MALE2000": 82,
+        "FEMALE2000": 76,
+        "POP2008": 197,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010303001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10465,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.412648000305,
+          -7.184950000142351
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10465,
+        "CU_NAME": "GUMI",
+        "CU_NO": "005",
+        "GEOCODE": "12010303005",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "PARAROA",
+        "LATITUDE": -7.186375,
+        "LONGITUDE": 146.411615,
+        "REGHH": 63,
+        "TOTPOP2000": 308,
+        "MALE2000": 182,
+        "FEMALE2000": 126,
+        "POP2008": 384,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010303005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10466,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4213260002947,
+          -7.246283000160304
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10466,
+        "CU_NAME": "PARAROA",
+        "CU_NO": "016",
+        "GEOCODE": "12010303016",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "PARAROA",
+        "LATITUDE": -7.247709,
+        "LONGITUDE": 146.420293,
+        "REGHH": 85,
+        "TOTPOP2000": 599,
+        "MALE2000": 332,
+        "FEMALE2000": 267,
+        "POP2008": 747,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010303016,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10467,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.42006399965396,
+          -7.24360099968635
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10467,
+        "CU_NAME": "PARAROA C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "12010303401",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "PARAROA",
+        "LATITUDE": -7.245027,
+        "LONGITUDE": 146.419031,
+        "REGHH": 8,
+        "TOTPOP2000": 41,
+        "MALE2000": 19,
+        "FEMALE2000": 22,
+        "POP2008": 49,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010303401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

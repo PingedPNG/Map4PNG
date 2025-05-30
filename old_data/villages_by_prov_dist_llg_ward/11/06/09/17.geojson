@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30374,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6518776400411,
+          -6.940722599568289
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30374,
+        "CU_NAME": "KEKWAMBI",
+        "CU_NO": "008",
+        "GEOCODE": "11060917008",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "17",
+        "WARD_NAME": "TJEJAI",
+        "LATITUDE": -6.940723,
+        "LONGITUDE": 145.651878,
+        "REGHH": 11,
+        "TOTPOP2000": 42,
+        "MALE2000": 22,
+        "FEMALE2000": 20,
+        "POP2008": 50,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30375,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.65564288021483,
+          -6.930009000315067
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30375,
+        "CU_NAME": "TJEJAI",
+        "CU_NO": "011",
+        "GEOCODE": "11060917011",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "17",
+        "WARD_NAME": "TJEJAI",
+        "LATITUDE": -6.930009,
+        "LONGITUDE": 145.655643,
+        "REGHH": 17,
+        "TOTPOP2000": 92,
+        "MALE2000": 52,
+        "FEMALE2000": 40,
+        "POP2008": 108,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30376,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.66299336035536,
+          -6.93097442972612
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30376,
+        "CU_NAME": "ALIOLE",
+        "CU_NO": "012",
+        "GEOCODE": "11060917012",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "17",
+        "WARD_NAME": "TJEJAI",
+        "LATITUDE": -6.930974,
+        "LONGITUDE": 145.662993,
+        "REGHH": 39,
+        "TOTPOP2000": 173,
+        "MALE2000": 84,
+        "FEMALE2000": 89,
+        "POP2008": 205,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30377,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.65744684019955,
+          -6.926203080207927
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30377,
+        "CU_NAME": "DALMATE",
+        "CU_NO": "013",
+        "GEOCODE": "11060917013",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "17",
+        "WARD_NAME": "TJEJAI",
+        "LATITUDE": -6.926203,
+        "LONGITUDE": 145.657447,
+        "REGHH": 3,
+        "TOTPOP2000": 12,
+        "MALE2000": 7,
+        "FEMALE2000": 5,
+        "POP2008": 12,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

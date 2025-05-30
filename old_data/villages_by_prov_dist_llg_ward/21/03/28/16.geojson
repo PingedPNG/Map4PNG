@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21807,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.95863100002066,
+          -5.714644000120472
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21807,
+        "CU_NAME": "HARIBA",
+        "CU_NO": "001",
+        "GEOCODE": "07082816001",
+        "PROV_KEY": "21",
+        "DIST_NO": "3",
+        "LLG_NO": "28",
+        "WARD_NO": "16",
+        "WARD_NAME": "HARIBA",
+        "LATITUDE": -5.728034,
+        "LONGITUDE": 142.954373,
+        "REGHH": 58,
+        "TOTPOP2000": 341,
+        "MALE2000": 169,
+        "FEMALE2000": 172,
+        "POP2008": 474,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7082816001,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7312,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.54153800017866,
+          -3.8093519999947603
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7312,
+        "CU_NAME": "YUMUNGU",
+        "CU_NO": "048",
+        "GEOCODE": "14062504048",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "25",
+        "WARD_NO": "04",
+        "WARD_NAME": "YUMUNGU",
+        "LATITUDE": -3.810934,
+        "LONGITUDE": 143.540305,
+        "REGHH": 74,
+        "TOTPOP2000": 375,
+        "MALE2000": 176,
+        "FEMALE2000": 199,
+        "POP2008": 446,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062504048,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

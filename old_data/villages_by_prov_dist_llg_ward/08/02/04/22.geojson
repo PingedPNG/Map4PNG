@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9281689997996,
+          -5.283310000256279
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5491,
+        "CU_NAME": "LIAP",
+        "CU_NO": "003",
+        "GEOCODE": "08020422003",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "22",
+        "WARD_NAME": "LIAP",
+        "LATITUDE": -5.290987,
+        "LONGITUDE": 143.924907,
+        "REGHH": 57,
+        "TOTPOP2000": 290,
+        "MALE2000": 145,
+        "FEMALE2000": 145,
+        "POP2008": 364,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020422003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5492,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.90847199978305,
+          -5.217886999585289
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5492,
+        "CU_NAME": "LYOKOLAM",
+        "CU_NO": "005",
+        "GEOCODE": "08020422005",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "22",
+        "WARD_NAME": "LIAP",
+        "LATITUDE": -5.219286,
+        "LONGITUDE": 143.90741,
+        "REGHH": 60,
+        "TOTPOP2000": 311,
+        "MALE2000": 151,
+        "FEMALE2000": 160,
+        "POP2008": 391,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020422005,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

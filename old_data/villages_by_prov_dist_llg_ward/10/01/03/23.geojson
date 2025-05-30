@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14048,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.19496800037302,
+          -6.1539859996541395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14048,
+        "CU_NAME": "KARUNE",
+        "CU_NO": "003",
+        "GEOCODE": "10010323003",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "NORIFO",
+        "LATITUDE": -6.155397,
+        "LONGITUDE": 145.193921,
+        "REGHH": 50,
+        "TOTPOP2000": 163,
+        "MALE2000": 93,
+        "FEMALE2000": 70,
+        "POP2008": 187,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010323003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14049,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.18942400011758,
+          -6.153478999656045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14049,
+        "CU_NAME": "KURUMBUKOTARU",
+        "CU_NO": "004",
+        "GEOCODE": "10010323004",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "NORIFO",
+        "LATITUDE": -6.15489,
+        "LONGITUDE": 145.188377,
+        "REGHH": 38,
+        "TOTPOP2000": 121,
+        "MALE2000": 68,
+        "FEMALE2000": 53,
+        "POP2008": 137,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010323004,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

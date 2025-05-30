@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9048,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.66212099998427,
+          -4.753482999940445
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9048,
+        "CU_NAME": "MIRAP",
+        "CU_NO": "009",
+        "GEOCODE": "13051406009",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "06",
+        "WARD_NAME": "WARD 6",
+        "LATITUDE": -4.750784,
+        "LONGITUDE": 145.662724,
+        "REGHH": 126,
+        "TOTPOP2000": 758,
+        "MALE2000": 385,
+        "FEMALE2000": 373,
+        "POP2008": 938,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051406009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9049,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6584549999983,
+          -4.752303000383108
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9049,
+        "CU_NAME": "MIRAP P/SCH. & A/POST",
+        "CU_NO": "401",
+        "GEOCODE": "13051406401",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "06",
+        "WARD_NAME": "WARD 6",
+        "LATITUDE": -4.75084,
+        "LONGITUDE": 145.662325,
+        "REGHH": 6,
+        "TOTPOP2000": 21,
+        "MALE2000": 12,
+        "FEMALE2000": 9,
+        "POP2008": 29,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051406401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29524,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58200307977836,
+          -6.203967030154274
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29524,
+        "CU_NAME": "HERABE",
+        "CU_NO": "009",
+        "GEOCODE": "11030419009",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "19",
+        "WARD_NAME": "KEMENAVE",
+        "LATITUDE": -6.203967,
+        "LONGITUDE": 145.582003,
+        "REGHH": 50,
+        "TOTPOP2000": 188,
+        "MALE2000": 93,
+        "FEMALE2000": 95,
+        "POP2008": 223,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29525,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.59827219960243,
+          -6.211078560427154
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29525,
+        "CU_NAME": "KANTUGU",
+        "CU_NO": "016",
+        "GEOCODE": "11030419016",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "19",
+        "WARD_NAME": "KEMENAVE",
+        "LATITUDE": -6.211079,
+        "LONGITUDE": 145.598272,
+        "REGHH": 48,
+        "TOTPOP2000": 173,
+        "MALE2000": 89,
+        "FEMALE2000": 84,
+        "POP2008": 205,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29526,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57294871980764,
+          -6.22696680027758
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29526,
+        "CU_NAME": "KENEMOTE",
+        "CU_NO": "020",
+        "GEOCODE": "11030419020",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "19",
+        "WARD_NAME": "KEMENAVE",
+        "LATITUDE": -6.226967,
+        "LONGITUDE": 145.572949,
+        "REGHH": 157,
+        "TOTPOP2000": 664,
+        "MALE2000": 343,
+        "FEMALE2000": 321,
+        "POP2008": 791,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29527,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.56562055994095,
+          -6.222374369981139
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29527,
+        "CU_NAME": "FIMIGE",
+        "CU_NO": "028",
+        "GEOCODE": "11030419028",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "19",
+        "WARD_NAME": "KEMENAVE",
+        "LATITUDE": -6.222374,
+        "LONGITUDE": 145.565621,
+        "REGHH": 18,
+        "TOTPOP2000": 82,
+        "MALE2000": 46,
+        "FEMALE2000": 36,
+        "POP2008": 98,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29528,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6029226802376,
+          -6.200260289980349
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29528,
+        "CU_NAME": "RABANA",
+        "CU_NO": "035",
+        "GEOCODE": "11030419035",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "19",
+        "WARD_NAME": "KEMENAVE",
+        "LATITUDE": -6.20026,
+        "LONGITUDE": 145.602923,
+        "REGHH": 98,
+        "TOTPOP2000": 324,
+        "MALE2000": 170,
+        "FEMALE2000": 154,
+        "POP2008": 385,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29529,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5890047200918,
+          -6.1950356102051956
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29529,
+        "CU_NAME": "TIRANOFI",
+        "CU_NO": "042",
+        "GEOCODE": "11030419042",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "19",
+        "WARD_NAME": "KEMENAVE",
+        "LATITUDE": -6.195036,
+        "LONGITUDE": 145.589005,
+        "REGHH": 158,
+        "TOTPOP2000": 604,
+        "MALE2000": 303,
+        "FEMALE2000": 301,
+        "POP2008": 718,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29530,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58285628009332,
+          -6.20188362023282
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29530,
+        "CU_NAME": "GOGI ROCK",
+        "CU_NO": "043",
+        "GEOCODE": "11030419043",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "19",
+        "WARD_NAME": "KEMENAVE",
+        "LATITUDE": -6.201884,
+        "LONGITUDE": 145.582856,
+        "REGHH": 15,
+        "TOTPOP2000": 64,
+        "MALE2000": 32,
+        "FEMALE2000": 32,
+        "POP2008": 75,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29531,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57238712016954,
+          -6.219287009987454
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29531,
+        "CU_NAME": "HOBIKELO",
+        "CU_NO": "044",
+        "GEOCODE": "11030419044",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "19",
+        "WARD_NAME": "KEMENAVE",
+        "LATITUDE": -6.219287,
+        "LONGITUDE": 145.572387,
+        "REGHH": 18,
+        "TOTPOP2000": 78,
+        "MALE2000": 44,
+        "FEMALE2000": 34,
+        "POP2008": 94,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29532,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57154723971337,
+          -6.19808993989875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29532,
+        "CU_NAME": "RIVERSIDE",
+        "CU_NO": "045",
+        "GEOCODE": "11030419045",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "19",
+        "WARD_NAME": "KEMENAVE",
+        "LATITUDE": -6.19809,
+        "LONGITUDE": 145.571547,
+        "REGHH": 7,
+        "TOTPOP2000": 21,
+        "MALE2000": 12,
+        "FEMALE2000": 9,
+        "POP2008": 21,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57024512031614,
+          -6.2191890000722765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29533,
+        "CU_NAME": "KOMITO",
+        "CU_NO": "046",
+        "GEOCODE": "11030419046",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "19",
+        "WARD_NAME": "KEMENAVE",
+        "LATITUDE": -6.219189,
+        "LONGITUDE": 145.570245,
+        "REGHH": 37,
+        "TOTPOP2000": 161,
+        "MALE2000": 90,
+        "FEMALE2000": 71,
+        "POP2008": 193,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29534,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58033844006707,
+          -6.215984190417998
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29534,
+        "CU_NAME": "YANKUTE",
+        "CU_NO": "047",
+        "GEOCODE": "11030419047",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "19",
+        "WARD_NAME": "KEMENAVE",
+        "LATITUDE": -6.215984,
+        "LONGITUDE": 145.580338,
+        "REGHH": 17,
+        "TOTPOP2000": 65,
+        "MALE2000": 36,
+        "FEMALE2000": 29,
+        "POP2008": 77,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29535,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5758276403334,
+          -6.223232430232429
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29535,
+        "CU_NAME": "SAKOTI",
+        "CU_NO": "048",
+        "GEOCODE": "11030419048",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "19",
+        "WARD_NAME": "KEMENAVE",
+        "LATITUDE": -6.223232,
+        "LONGITUDE": 145.575828,
+        "REGHH": 18,
+        "TOTPOP2000": 78,
+        "MALE2000": 32,
+        "FEMALE2000": 46,
+        "POP2008": 94,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29536,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58044139985077,
+          -6.21965538039143
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29536,
+        "CU_NAME": "NOTU",
+        "CU_NO": "049",
+        "GEOCODE": "11030419049",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "19",
+        "WARD_NAME": "KEMENAVE",
+        "LATITUDE": -6.219655,
+        "LONGITUDE": 145.580441,
+        "REGHH": 26,
+        "TOTPOP2000": 89,
+        "MALE2000": 51,
+        "FEMALE2000": 38,
+        "POP2008": 105,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

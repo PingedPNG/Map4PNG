@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9947,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.82110599984208,
+          -10.690499999974975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9947,
+        "CU_NAME": "GAIBOBO",
+        "CU_NO": "001",
+        "GEOCODE": "05020920001",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "20",
+        "WARD_NAME": "GAIBOBO",
+        "LATITUDE": -10.691979,
+        "LONGITUDE": 152.820156,
+        "REGHH": 66,
+        "TOTPOP2000": 385,
+        "MALE2000": 190,
+        "FEMALE2000": 195,
+        "POP2008": 469,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020920001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9948,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8281229996768,
+          -10.685673000408599
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9948,
+        "CU_NAME": "ALALATA",
+        "CU_NO": "002",
+        "GEOCODE": "05020920002",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "20",
+        "WARD_NAME": "GAIBOBO",
+        "LATITUDE": -10.687152,
+        "LONGITUDE": 152.827173,
+        "REGHH": 33,
+        "TOTPOP2000": 196,
+        "MALE2000": 103,
+        "FEMALE2000": 93,
+        "POP2008": 239,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020920002,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9949,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.828904999766,
+          -10.69335200019458
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9949,
+        "CU_NAME": "LOAGA MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "05020920401",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "20",
+        "WARD_NAME": "GAIBOBO",
+        "LATITUDE": -10.694831,
+        "LONGITUDE": 152.827955,
+        "REGHH": 14,
+        "TOTPOP2000": 89,
+        "MALE2000": 51,
+        "FEMALE2000": 38,
+        "POP2008": 107,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020920401,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

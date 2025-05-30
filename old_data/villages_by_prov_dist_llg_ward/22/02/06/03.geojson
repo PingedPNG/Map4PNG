@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16866,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.72043899966013,
+          -5.5448569998505945
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16866,
+        "CU_NAME": "KWIOP",
+        "CU_NO": "006",
+        "GEOCODE": "09040603006",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "KWIOP",
+        "LATITUDE": -5.54577,
+        "LONGITUDE": 144.715282,
+        "REGHH": 76,
+        "TOTPOP2000": 417,
+        "MALE2000": 226,
+        "FEMALE2000": 191,
+        "POP2008": 507,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040603006,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

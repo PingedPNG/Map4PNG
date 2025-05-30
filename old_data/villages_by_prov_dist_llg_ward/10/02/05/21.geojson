@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.78037399996015,
+          -6.247759000077735
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14148,
+        "CU_NAME": "SINEBOMAI",
+        "CU_NO": "009",
+        "GEOCODE": "10020521009",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "21",
+        "WARD_NAME": "KUMAINE",
+        "LATITUDE": -6.249171,
+        "LONGITUDE": 144.779321,
+        "REGHH": 27,
+        "TOTPOP2000": 113,
+        "MALE2000": 57,
+        "FEMALE2000": 56,
+        "POP2008": 129,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020521009,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14149,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.79383500018514,
+          -6.260126000214711
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14149,
+        "CU_NAME": "ELMALE",
+        "CU_NO": "010",
+        "GEOCODE": "10020521010",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "21",
+        "WARD_NAME": "KUMAINE",
+        "LATITUDE": -6.261538,
+        "LONGITUDE": 144.792782,
+        "REGHH": 51,
+        "TOTPOP2000": 227,
+        "MALE2000": 128,
+        "FEMALE2000": 99,
+        "POP2008": 261,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020521010,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

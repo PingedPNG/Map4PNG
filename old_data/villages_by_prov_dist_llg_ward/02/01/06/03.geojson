@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7596,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.23027999992212,
+          -7.596963000242226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7596,
+        "CU_NAME": "KAKIVA",
+        "CU_NO": "016",
+        "GEOCODE": "02010603016",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "KAKIVA",
+        "LATITUDE": -7.588779,
+        "LONGITUDE": 146.23523,
+        "REGHH": 31,
+        "TOTPOP2000": 168,
+        "MALE2000": 90,
+        "FEMALE2000": 78,
+        "POP2008": 206,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010603016,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7597,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.24057900002094,
+          -7.6166000001898055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7597,
+        "CU_NAME": "SAMMANS GIVEPA",
+        "CU_NO": "018",
+        "GEOCODE": "02010603018",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "KAKIVA",
+        "LATITUDE": -7.618029,
+        "LONGITUDE": 146.239542,
+        "REGHH": 34,
+        "TOTPOP2000": 196,
+        "MALE2000": 96,
+        "FEMALE2000": 100,
+        "POP2008": 240,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010603018,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7598,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.29624599955332,
+          -7.696838999720001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7598,
+        "CU_NAME": "NONOMBO",
+        "CU_NO": "019",
+        "GEOCODE": "02010603019",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "KAKIVA",
+        "LATITUDE": -7.69518,
+        "LONGITUDE": 146.318848,
+        "REGHH": 32,
+        "TOTPOP2000": 176,
+        "MALE2000": 84,
+        "FEMALE2000": 92,
+        "POP2008": 216,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010603019,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7599,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.24236000031385,
+          -7.588426999606327
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7599,
+        "CU_NAME": "TAGOA",
+        "CU_NO": "020",
+        "GEOCODE": "02010603020",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "KAKIVA",
+        "LATITUDE": -7.577936,
+        "LONGITUDE": 146.238131,
+        "REGHH": 7,
+        "TOTPOP2000": 29,
+        "MALE2000": 13,
+        "FEMALE2000": 16,
+        "POP2008": 37,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010603020,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7600,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.30694400006564,
+          -7.6329909997348295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7600,
+        "CU_NAME": "UYEMGA",
+        "CU_NO": "021",
+        "GEOCODE": "02010603021",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "KAKIVA",
+        "LATITUDE": -7.588569,
+        "LONGITUDE": 146.289908,
+        "REGHH": 16,
+        "TOTPOP2000": 94,
+        "MALE2000": 50,
+        "FEMALE2000": 44,
+        "POP2008": 116,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010603021,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

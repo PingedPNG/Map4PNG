@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13539,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.18349699958696,
+          -8.685023999657801
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13539,
+        "CU_NAME": "NEW WARISOTA VILLAGE",
+        "CU_NO": "001",
+        "GEOCODE": "06020601001",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "NEW WARISOTA",
+        "LATITUDE": -8.686469,
+        "LONGITUDE": 148.182484,
+        "REGHH": 14,
+        "TOTPOP2000": 68,
+        "MALE2000": 33,
+        "FEMALE2000": 35,
+        "POP2008": 84,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020601001,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13540,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.18373599981658,
+          -8.693775000315952
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13540,
+        "CU_NAME": "NEW WARISOTA V.O.P BLOCK",
+        "CU_NO": "401",
+        "GEOCODE": "06020601401",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "NEW WARISOTA",
+        "LATITUDE": -8.69522,
+        "LONGITUDE": 148.182723,
+        "REGHH": 31,
+        "TOTPOP2000": 203,
+        "MALE2000": 101,
+        "FEMALE2000": 102,
+        "POP2008": 251,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020601401,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

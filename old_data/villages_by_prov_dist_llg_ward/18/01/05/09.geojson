@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4607,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.13763199981702,
+          -4.343470000340176
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4607,
+        "CU_NAME": "RATAVUL 1",
+        "CU_NO": "009",
+        "GEOCODE": "18010509009",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "09",
+        "WARD_NAME": "RATAVUL",
+        "LATITUDE": -4.344871,
+        "LONGITUDE": 152.136685,
+        "REGHH": 100,
+        "TOTPOP2000": 611,
+        "MALE2000": 325,
+        "FEMALE2000": 286,
+        "POP2008": 744,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010509009,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4608,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.13292200025023,
+          -4.346339000444459
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4608,
+        "CU_NAME": "RATAVUL 2",
+        "CU_NO": "010",
+        "GEOCODE": "18010509010",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "09",
+        "WARD_NAME": "RATAVUL",
+        "LATITUDE": -4.34774,
+        "LONGITUDE": 152.131975,
+        "REGHH": 55,
+        "TOTPOP2000": 368,
+        "MALE2000": 197,
+        "FEMALE2000": 171,
+        "POP2008": 448,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010509010,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5543,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.87392400019257,
+          -5.034818000150551
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5543,
+        "CU_NAME": "OLIMOLI",
+        "CU_NO": "010",
+        "GEOCODE": "08020513010",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "13",
+        "WARD_NAME": "OLIMOLI",
+        "LATITUDE": -5.035038,
+        "LONGITUDE": 143.870376,
+        "REGHH": 75,
+        "TOTPOP2000": 451,
+        "MALE2000": 255,
+        "FEMALE2000": 196,
+        "POP2008": 567,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020513010,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5544,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.83869099958997,
+          -5.043441000301868
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5544,
+        "CU_NAME": "WAKIM",
+        "CU_NO": "011",
+        "GEOCODE": "08020513011",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "13",
+        "WARD_NAME": "OLIMOLI",
+        "LATITUDE": -5.044838,
+        "LONGITUDE": 143.837627,
+        "REGHH": 51,
+        "TOTPOP2000": 304,
+        "MALE2000": 176,
+        "FEMALE2000": 128,
+        "POP2008": 382,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020513011,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

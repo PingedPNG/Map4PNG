@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.99816700010706,
+          -6.431222999741578
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20119,
+        "CU_NAME": "KUWI",
+        "CU_NO": "009",
+        "GEOCODE": "07031010009",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "10",
+        "WARD_NAME": "KUWI",
+        "LATITUDE": -6.433551,
+        "LONGITUDE": 144.001391,
+        "REGHH": 44,
+        "TOTPOP2000": 193,
+        "MALE2000": 97,
+        "FEMALE2000": 96,
+        "POP2008": 268,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031010009,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.99668199997438,
+          -6.4295419995635825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20120,
+        "CU_NAME": "WAPI",
+        "CU_NO": "010",
+        "GEOCODE": "07031010010",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "10",
+        "WARD_NAME": "KUWI",
+        "LATITUDE": -6.433551,
+        "LONGITUDE": 144.001391,
+        "REGHH": 10,
+        "TOTPOP2000": 49,
+        "MALE2000": 27,
+        "FEMALE2000": 22,
+        "POP2008": 67,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031010010,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

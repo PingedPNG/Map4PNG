@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8506,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95879199985097,
+          -4.693869000054235
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8506,
+        "CU_NAME": "AVUNMAKAI",
+        "CU_NO": "003",
+        "GEOCODE": "13030804003",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "WARD 4",
+        "LATITUDE": -4.695264,
+        "LONGITUDE": 144.957744,
+        "REGHH": 21,
+        "TOTPOP2000": 106,
+        "MALE2000": 52,
+        "FEMALE2000": 54,
+        "POP2008": 130,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030804003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8507,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9497799997473,
+          -4.678770999881692
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8507,
+        "CU_NAME": "MAKAPAI",
+        "CU_NO": "012",
+        "GEOCODE": "13030804012",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "WARD 4",
+        "LATITUDE": -4.680166,
+        "LONGITUDE": 144.948732,
+        "REGHH": 17,
+        "TOTPOP2000": 116,
+        "MALE2000": 59,
+        "FEMALE2000": 57,
+        "POP2008": 143,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030804012,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8508,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.890337999699,
+          -4.725657000070441
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8508,
+        "CU_NAME": "PURPUR",
+        "CU_NO": "020",
+        "GEOCODE": "13030804020",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "WARD 4",
+        "LATITUDE": -4.727812,
+        "LONGITUDE": 144.889337,
+        "REGHH": 12,
+        "TOTPOP2000": 84,
+        "MALE2000": 43,
+        "FEMALE2000": 41,
+        "POP2008": 103,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030804020,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8509,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.92160600001694,
+          -4.704690999989623
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8509,
+        "CU_NAME": "UVORAI",
+        "CU_NO": "026",
+        "GEOCODE": "13030804026",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "WARD 4",
+        "LATITUDE": -4.706086,
+        "LONGITUDE": 144.920558,
+        "REGHH": 52,
+        "TOTPOP2000": 344,
+        "MALE2000": 148,
+        "FEMALE2000": 196,
+        "POP2008": 426,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030804026,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

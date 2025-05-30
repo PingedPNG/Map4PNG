@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30610,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3939401603102,
+          -6.655612050255854
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30610,
+        "CU_NAME": "AMUSA NO 1",
+        "CU_NO": "009",
+        "GEOCODE": "11071026009",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "26",
+        "WARD_NAME": "AMURAISA - TAROTU",
+        "LATITUDE": -6.655612,
+        "LONGITUDE": 145.39394,
+        "REGHH": 87,
+        "TOTPOP2000": 394,
+        "MALE2000": 182,
+        "FEMALE2000": 212,
+        "POP2008": 469,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.40300280033898,
+          -6.612080309958287
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30611,
+        "CU_NAME": "KIA (IYA)",
+        "CU_NO": "024",
+        "GEOCODE": "11071026024",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "26",
+        "WARD_NAME": "AMURAISA - TAROTU",
+        "LATITUDE": -6.61208,
+        "LONGITUDE": 145.403003,
+        "REGHH": 44,
+        "TOTPOP2000": 190,
+        "MALE2000": 99,
+        "FEMALE2000": 91,
+        "POP2008": 226,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30612,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.40750640010037,
+          -6.606989370163262
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30612,
+        "CU_NAME": "LAVANSARU",
+        "CU_NO": "034",
+        "GEOCODE": "11071026034",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "26",
+        "WARD_NAME": "AMURAISA - TAROTU",
+        "LATITUDE": -6.606989,
+        "LONGITUDE": 145.407506,
+        "REGHH": 57,
+        "TOTPOP2000": 220,
+        "MALE2000": 107,
+        "FEMALE2000": 113,
+        "POP2008": 262,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30613,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38901464001367,
+          -6.651772560255381
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30613,
+        "CU_NAME": "AMUSA NO 2",
+        "CU_NO": "035",
+        "GEOCODE": "11071026035",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "26",
+        "WARD_NAME": "AMURAISA - TAROTU",
+        "LATITUDE": -6.651773,
+        "LONGITUDE": 145.389015,
+        "REGHH": 86,
+        "TOTPOP2000": 374,
+        "MALE2000": 172,
+        "FEMALE2000": 202,
+        "POP2008": 445,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30614,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4020786803868,
+          -6.6460868996906015
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30614,
+        "CU_NAME": "TAROTU",
+        "CU_NO": "036",
+        "GEOCODE": "11071026036",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "26",
+        "WARD_NAME": "AMURAISA - TAROTU",
+        "LATITUDE": -6.646087,
+        "LONGITUDE": 145.402079,
+        "REGHH": 114,
+        "TOTPOP2000": 500,
+        "MALE2000": 254,
+        "FEMALE2000": 246,
+        "POP2008": 595,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

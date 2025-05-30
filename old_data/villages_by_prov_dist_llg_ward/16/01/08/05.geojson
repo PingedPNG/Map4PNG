@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9472,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.18440700038286,
+          -2.1070489997115374
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9472,
+        "CU_NAME": "KARUN",
+        "CU_NO": "003",
+        "GEOCODE": "16010805003",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "KARUN",
+        "LATITUDE": -2.108416,
+        "LONGITUDE": 147.183392,
+        "REGHH": 48,
+        "TOTPOP2000": 226,
+        "MALE2000": 113,
+        "FEMALE2000": 113,
+        "POP2008": 278,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010805003,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

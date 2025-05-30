@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12963,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.63764200017818,
+          -3.0621039997997173
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12963,
+        "CU_NAME": "LONDO GOVT HOUSING",
+        "CU_NO": "001",
+        "GEOCODE": "17020984001",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "84",
+        "WARD_NAME": "LONDOLOVIT TOWNSHIP",
+        "LATITUDE": -3.063488,
+        "LONGITUDE": 152.636704,
+        "REGHH": 28,
+        "TOTPOP2000": 169,
+        "MALE2000": 104,
+        "FEMALE2000": 65,
+        "POP2008": 212,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020984001,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12964,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.63832200006027,
+          -3.066959999804112
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12964,
+        "CU_NAME": "LONDO COMPANY HOUSING",
+        "CU_NO": "002",
+        "GEOCODE": "17020984002",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "84",
+        "WARD_NAME": "LONDOLOVIT TOWNSHIP",
+        "LATITUDE": -3.068344,
+        "LONGITUDE": 152.637384,
+        "REGHH": 45,
+        "TOTPOP2000": 892,
+        "MALE2000": 756,
+        "FEMALE2000": 136,
+        "POP2008": 1122,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020984002,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12965,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.63074000025085,
+          -3.065133000087826
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12965,
+        "CU_NAME": "LONDO INDUSTRIAL",
+        "CU_NO": "003",
+        "GEOCODE": "17020984003",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "84",
+        "WARD_NAME": "LONDOLOVIT TOWNSHIP",
+        "LATITUDE": -3.066517,
+        "LONGITUDE": 152.629802,
+        "REGHH": 9,
+        "TOTPOP2000": 90,
+        "MALE2000": 41,
+        "FEMALE2000": 49,
+        "POP2008": 114,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020984003,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

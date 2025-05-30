@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10359,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.63231700042934,
+          -6.9128110004272685
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10359,
+        "CU_NAME": "PATEP MUNAU",
+        "CU_NO": "019",
+        "GEOCODE": "12010113019",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "13",
+        "WARD_NAME": "PATEP",
+        "LATITUDE": -6.913833,
+        "LONGITUDE": 146.630802,
+        "REGHH": 95,
+        "TOTPOP2000": 450,
+        "MALE2000": 240,
+        "FEMALE2000": 210,
+        "POP2008": 561,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010113019,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10360,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.63431399989122,
+          -6.9712160003181225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10360,
+        "CU_NAME": "MUNAU",
+        "CU_NO": "020",
+        "GEOCODE": "12010113020",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "13",
+        "WARD_NAME": "PATEP",
+        "LATITUDE": -6.972639,
+        "LONGITUDE": 146.633284,
+        "REGHH": 95,
+        "TOTPOP2000": 402,
+        "MALE2000": 211,
+        "FEMALE2000": 191,
+        "POP2008": 502,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010113020,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10361,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.635080000142,
+          -6.909633999609355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10361,
+        "CU_NAME": "HAMBU",
+        "CU_NO": "021",
+        "GEOCODE": "12010113021",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "13",
+        "WARD_NAME": "PATEP",
+        "LATITUDE": -6.913833,
+        "LONGITUDE": 146.630802,
+        "REGHH": 88,
+        "TOTPOP2000": 462,
+        "MALE2000": 249,
+        "FEMALE2000": 213,
+        "POP2008": 576,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010113021,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

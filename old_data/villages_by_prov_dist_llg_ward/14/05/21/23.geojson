@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.90339899986407,
+          -3.7774730002786896
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7145,
+        "CU_NAME": "JIPAKIM",
+        "CU_NO": "011",
+        "GEOCODE": "14052123011",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "21",
+        "WARD_NO": "23",
+        "WARD_NAME": "JIPAKIM",
+        "LATITUDE": -3.779052,
+        "LONGITUDE": 142.902158,
+        "REGHH": 22,
+        "TOTPOP2000": 82,
+        "MALE2000": 42,
+        "FEMALE2000": 40,
+        "POP2008": 98,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052123011,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5525,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.91783599993153,
+          -5.102385999913906
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5525,
+        "CU_NAME": "YENGIS STN",
+        "CU_NO": "001",
+        "GEOCODE": "08020501001",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "YENGIS",
+        "LATITUDE": -5.103784,
+        "LONGITUDE": 143.916774,
+        "REGHH": 28,
+        "TOTPOP2000": 121,
+        "MALE2000": 59,
+        "FEMALE2000": 62,
+        "POP2008": 153,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020501001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5526,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.91830099979143,
+          -5.098419999583257
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5526,
+        "CU_NAME": "KUIMAS",
+        "CU_NO": "013",
+        "GEOCODE": "08020501013",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "YENGIS",
+        "LATITUDE": -5.099818,
+        "LONGITUDE": 143.917239,
+        "REGHH": 28,
+        "TOTPOP2000": 117,
+        "MALE2000": 58,
+        "FEMALE2000": 59,
+        "POP2008": 147,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020501013,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

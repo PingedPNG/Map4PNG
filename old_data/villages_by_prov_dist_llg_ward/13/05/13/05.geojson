@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8929,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91956099994024,
+          -4.571959999854073
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8929,
+        "CU_NAME": "KARKAR HIGH SCHOOL",
+        "CU_NO": "503",
+        "GEOCODE": "13051305503",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARD 5",
+        "LATITUDE": -4.573355,
+        "LONGITUDE": 145.918526,
+        "REGHH": 0,
+        "TOTPOP2000": 35,
+        "MALE2000": 13,
+        "FEMALE2000": 22,
+        "POP2008": 43,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051305503,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8930,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.94202799999232,
+          -4.54974199959355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8930,
+        "CU_NAME": "KINIM STATION",
+        "CU_NO": "505",
+        "GEOCODE": "13051305505",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARD 5",
+        "LATITUDE": -4.551137,
+        "LONGITUDE": 145.940993,
+        "REGHH": 35,
+        "TOTPOP2000": 216,
+        "MALE2000": 125,
+        "FEMALE2000": 91,
+        "POP2008": 267,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051305505,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8931,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91926799991836,
+          -4.568950999588935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8931,
+        "CU_NAME": "MIAK STATION & KKHS",
+        "CU_NO": "509",
+        "GEOCODE": "13051305509",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARD 5",
+        "LATITUDE": -4.570346,
+        "LONGITUDE": 145.918233,
+        "REGHH": 57,
+        "TOTPOP2000": 334,
+        "MALE2000": 178,
+        "FEMALE2000": 156,
+        "POP2008": 414,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051305509,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

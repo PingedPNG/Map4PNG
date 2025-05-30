@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7363,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.19350799999427,
+          -3.627840999562409
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7363,
+        "CU_NAME": "KABOIBUS",
+        "CU_NO": "008",
+        "GEOCODE": "14062607008",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "26",
+        "WARD_NO": "07",
+        "WARD_NAME": "KABOIBUS",
+        "LATITUDE": -3.626378,
+        "LONGITUDE": 143.19327,
+        "REGHH": 106,
+        "TOTPOP2000": 531,
+        "MALE2000": 275,
+        "FEMALE2000": 256,
+        "POP2008": 632,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062607008,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15707,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8570930003417,
+          -8.568886000288614
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15707,
+        "CU_NAME": "RUAL NO. 1",
+        "CU_NO": "021",
+        "GEOCODE": "01031407021",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "07",
+        "WARD_NAME": "TEWARA",
+        "LATITUDE": -8.570315,
+        "LONGITUDE": 142.85601,
+        "REGHH": 22,
+        "TOTPOP2000": 128,
+        "MALE2000": 62,
+        "FEMALE2000": 66,
+        "POP2008": 165,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031407021,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15708,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.80818100025306,
+          -8.569183999641837
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15708,
+        "CU_NAME": "RUAL NO. 2",
+        "CU_NO": "022",
+        "GEOCODE": "01031407022",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "07",
+        "WARD_NAME": "TEWARA",
+        "LATITUDE": -8.570613,
+        "LONGITUDE": 142.807098,
+        "REGHH": 8,
+        "TOTPOP2000": 33,
+        "MALE2000": 15,
+        "FEMALE2000": 18,
+        "POP2008": 41,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031407022,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15709,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.75451799960604,
+          -8.512630999720841
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15709,
+        "CU_NAME": "TEWARA",
+        "CU_NO": "026",
+        "GEOCODE": "01031407026",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "07",
+        "WARD_NAME": "TEWARA",
+        "LATITUDE": -8.51406,
+        "LONGITUDE": 142.753434,
+        "REGHH": 32,
+        "TOTPOP2000": 187,
+        "MALE2000": 84,
+        "FEMALE2000": 103,
+        "POP2008": 242,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031407026,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

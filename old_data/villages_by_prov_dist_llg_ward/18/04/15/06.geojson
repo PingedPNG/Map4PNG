@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.14737999968725,
+          -4.166969999865557
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5110,
+        "CU_NAME": "NONGA",
+        "CU_NO": "006",
+        "GEOCODE": "18041506006",
+        "PROV_KEY": "18",
+        "DIST_NO": "04",
+        "LLG_NO": "15",
+        "WARD_NO": "06",
+        "WARD_NAME": "NONGA",
+        "LATITUDE": -4.168368,
+        "LONGITUDE": 152.146434,
+        "REGHH": 176,
+        "TOTPOP2000": 967,
+        "MALE2000": 506,
+        "FEMALE2000": 461,
+        "POP2008": 1178,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18041506006,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

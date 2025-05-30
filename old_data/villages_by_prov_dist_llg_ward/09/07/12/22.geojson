@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17507,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.93696599988107,
+          -5.895353000440593
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17507,
+        "CU_NAME": "TOPE",
+        "CU_NO": "028",
+        "GEOCODE": "09071222028",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "22",
+        "WARD_NAME": "PAGAPENA.2",
+        "LATITUDE": -5.896291,
+        "LONGITUDE": 143.937295,
+        "REGHH": 95,
+        "TOTPOP2000": 462,
+        "MALE2000": 246,
+        "FEMALE2000": 216,
+        "POP2008": 563,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071222028,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17508,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.91747999970232,
+          -5.889480000301717
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17508,
+        "CU_NAME": "KOMAMBI",
+        "CU_NO": "029",
+        "GEOCODE": "09071222029",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "22",
+        "WARD_NAME": "PAGAPENA.2",
+        "LATITUDE": -5.890419,
+        "LONGITUDE": 143.917809,
+        "REGHH": 50,
+        "TOTPOP2000": 244,
+        "MALE2000": 111,
+        "FEMALE2000": 133,
+        "POP2008": 297,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071222029,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

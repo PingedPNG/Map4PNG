@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1015,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.45908199993437,
+          -10.110550000382148
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1015,
+        "CU_NAME": "MERANI/MARI",
+        "CU_NO": "033",
+        "GEOCODE": "03010313033",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "13",
+        "WARD_NAME": "MERANI",
+        "LATITUDE": -10.11201,
+        "LONGITUDE": 148.458069,
+        "REGHH": 42,
+        "TOTPOP2000": 312,
+        "MALE2000": 166,
+        "FEMALE2000": 146,
+        "POP2008": 373,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010313033,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1016,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.4529300004192,
+          -10.115099999765107
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1016,
+        "CU_NAME": "BOMGUINA STATION",
+        "CU_NO": "513",
+        "GEOCODE": "03010313513",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "13",
+        "WARD_NAME": "MERANI",
+        "LATITUDE": -10.11656,
+        "LONGITUDE": 148.451917,
+        "REGHH": 30,
+        "TOTPOP2000": 202,
+        "MALE2000": 105,
+        "FEMALE2000": 97,
+        "POP2008": 242,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010313513,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1017,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.43536099961045,
+          -10.128927999827283
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1017,
+        "CU_NAME": "COCOALAND STATION",
+        "CU_NO": "527",
+        "GEOCODE": "03010313527",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "13",
+        "WARD_NAME": "MERANI",
+        "LATITUDE": -10.130388,
+        "LONGITUDE": 148.434348,
+        "REGHH": 95,
+        "TOTPOP2000": 518,
+        "MALE2000": 266,
+        "FEMALE2000": 252,
+        "POP2008": 621,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010313527,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

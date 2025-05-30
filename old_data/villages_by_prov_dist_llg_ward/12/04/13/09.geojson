@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11219,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.22774799987042,
+          -6.205712000008759
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11219,
+        "CU_NAME": "SIKAM",
+        "CU_NO": "022",
+        "GEOCODE": "12041309022",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "09",
+        "WARD_NAME": "SIKAM",
+        "LATITUDE": -6.207128,
+        "LONGITUDE": 147.226728,
+        "REGHH": 86,
+        "TOTPOP2000": 426,
+        "MALE2000": 207,
+        "FEMALE2000": 219,
+        "POP2008": 531,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041309022,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11220,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.21077400041986,
+          -6.214462999767591
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11220,
+        "CU_NAME": "UMUN",
+        "CU_NO": "024",
+        "GEOCODE": "12041309024",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "09",
+        "WARD_NAME": "SIKAM",
+        "LATITUDE": -6.216006,
+        "LONGITUDE": 147.210899,
+        "REGHH": 27,
+        "TOTPOP2000": 149,
+        "MALE2000": 73,
+        "FEMALE2000": 76,
+        "POP2008": 186,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041309024,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11221,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.22130699961838,
+          -6.227995999715574
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11221,
+        "CU_NAME": "KONGE (MUIN)",
+        "CU_NO": "027",
+        "GEOCODE": "12041309027",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "09",
+        "WARD_NAME": "SIKAM",
+        "LATITUDE": -6.226897,
+        "LONGITUDE": 147.215256,
+        "REGHH": 87,
+        "TOTPOP2000": 579,
+        "MALE2000": 275,
+        "FEMALE2000": 304,
+        "POP2008": 723,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041309027,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11222,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.235745999978,
+          -6.208613999836189
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11222,
+        "CU_NAME": "BOTOTOP",
+        "CU_NO": "028",
+        "GEOCODE": "12041309028",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "09",
+        "WARD_NAME": "SIKAM",
+        "LATITUDE": -6.21003,
+        "LONGITUDE": 147.234726,
+        "REGHH": 15,
+        "TOTPOP2000": 93,
+        "MALE2000": 42,
+        "FEMALE2000": 51,
+        "POP2008": 117,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041309028,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2111560000494,
+          -6.215990000038403
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11223,
+        "CU_NAME": "KAMBUK",
+        "CU_NO": "029",
+        "GEOCODE": "12041309029",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "09",
+        "WARD_NAME": "SIKAM",
+        "LATITUDE": -6.216006,
+        "LONGITUDE": 147.210899,
+        "REGHH": 42,
+        "TOTPOP2000": 247,
+        "MALE2000": 106,
+        "FEMALE2000": 141,
+        "POP2008": 308,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041309029,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

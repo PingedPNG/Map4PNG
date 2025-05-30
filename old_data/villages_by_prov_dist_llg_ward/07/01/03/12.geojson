@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19297,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8447839999817,
+          -6.305760000223756
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19297,
+        "CU_NAME": "PAPOLOMA",
+        "CU_NO": "001",
+        "GEOCODE": "07010312001",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "MUNKU 2",
+        "LATITUDE": -6.308058,
+        "LONGITUDE": 143.845582,
+        "REGHH": 26,
+        "TOTPOP2000": 126,
+        "MALE2000": 66,
+        "FEMALE2000": 60,
+        "POP2008": 176,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010312001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8472470002489,
+          -6.304510000136361
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19298,
+        "CU_NAME": "PIALERE",
+        "CU_NO": "002",
+        "GEOCODE": "07010312002",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "MUNKU 2",
+        "LATITUDE": -6.308058,
+        "LONGITUDE": 143.845582,
+        "REGHH": 17,
+        "TOTPOP2000": 78,
+        "MALE2000": 40,
+        "FEMALE2000": 38,
+        "POP2008": 108,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010312002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19299,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8430089999655,
+          -6.303826000069819
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19299,
+        "CU_NAME": "AITA",
+        "CU_NO": "003",
+        "GEOCODE": "07010312003",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "MUNKU 2",
+        "LATITUDE": -6.308058,
+        "LONGITUDE": 143.845582,
+        "REGHH": 6,
+        "TOTPOP2000": 26,
+        "MALE2000": 12,
+        "FEMALE2000": 14,
+        "POP2008": 34,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010312003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19300,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.84495000044228,
+          -6.303814999562519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19300,
+        "CU_NAME": "PEGARE",
+        "CU_NO": "004",
+        "GEOCODE": "07010312004",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "MUNKU 2",
+        "LATITUDE": -6.308058,
+        "LONGITUDE": 143.845582,
+        "REGHH": 11,
+        "TOTPOP2000": 57,
+        "MALE2000": 37,
+        "FEMALE2000": 20,
+        "POP2008": 79,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010312004,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10256,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.70890699995812,
+          -9.666881000058083
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10256,
+        "CU_NAME": "NADE",
+        "CU_NO": "012",
+        "GEOCODE": "05041511012",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "11",
+        "WARD_NAME": "NADE",
+        "LATITUDE": -9.666421,
+        "LONGITUDE": 150.701502,
+        "REGHH": 135,
+        "TOTPOP2000": 650,
+        "MALE2000": 334,
+        "FEMALE2000": 316,
+        "POP2008": 791,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041511012,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

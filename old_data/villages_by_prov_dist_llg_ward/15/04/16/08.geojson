@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19084,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.075461000225,
+          -3.2574329998330427
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19084,
+        "CU_NAME": "HOLOSA",
+        "CU_NO": "007",
+        "GEOCODE": "15041608007",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "08",
+        "WARD_NAME": "HOLOSA",
+        "LATITUDE": -3.258808,
+        "LONGITUDE": 141.074367,
+        "REGHH": 25,
+        "TOTPOP2000": 142,
+        "MALE2000": 71,
+        "FEMALE2000": 71,
+        "POP2008": 172,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041608007,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19085,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.05063300011295,
+          -3.2416110004472785
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19085,
+        "CU_NAME": "KWEK",
+        "CU_NO": "008",
+        "GEOCODE": "15041608008",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "08",
+        "WARD_NAME": "HOLOSA",
+        "LATITUDE": -3.248762,
+        "LONGITUDE": 141.043514,
+        "REGHH": 12,
+        "TOTPOP2000": 94,
+        "MALE2000": 47,
+        "FEMALE2000": 47,
+        "POP2008": 112,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041608008,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19086,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.08984099966244,
+          -3.26661399963632
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19086,
+        "CU_NAME": "SAINIDI",
+        "CU_NO": "018",
+        "GEOCODE": "15041608018",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "08",
+        "WARD_NAME": "HOLOSA",
+        "LATITUDE": -3.267989,
+        "LONGITUDE": 141.088748,
+        "REGHH": 12,
+        "TOTPOP2000": 84,
+        "MALE2000": 40,
+        "FEMALE2000": 44,
+        "POP2008": 100,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041608018,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19087,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.06967100031648,
+          -3.256099000368522
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19087,
+        "CU_NAME": "SWACHKETJIL",
+        "CU_NO": "021",
+        "GEOCODE": "15041608021",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "08",
+        "WARD_NAME": "HOLOSA",
+        "LATITUDE": -3.257474,
+        "LONGITUDE": 141.068577,
+        "REGHH": 16,
+        "TOTPOP2000": 93,
+        "MALE2000": 55,
+        "FEMALE2000": 38,
+        "POP2008": 111,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041608021,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

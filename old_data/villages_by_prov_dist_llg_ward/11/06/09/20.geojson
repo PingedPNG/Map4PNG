@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30385,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.74401208019344,
+          -6.831725850367661
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30385,
+        "CU_NAME": "SIGAMI",
+        "CU_NO": "004",
+        "GEOCODE": "11060920004",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "20",
+        "WARD_NAME": "TJELEKWOL",
+        "LATITUDE": -6.831726,
+        "LONGITUDE": 145.744012,
+        "REGHH": 30,
+        "TOTPOP2000": 155,
+        "MALE2000": 78,
+        "FEMALE2000": 77,
+        "POP2008": 185,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30386,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.74244607992273,
+          -6.84589913973349
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30386,
+        "CU_NAME": "TJELEKWOL",
+        "CU_NO": "009",
+        "GEOCODE": "11060920009",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "20",
+        "WARD_NAME": "TJELEKWOL",
+        "LATITUDE": -6.845899,
+        "LONGITUDE": 145.742446,
+        "REGHH": 13,
+        "TOTPOP2000": 57,
+        "MALE2000": 30,
+        "FEMALE2000": 27,
+        "POP2008": 65,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30387,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.75742927983742,
+          -6.833258279845666
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30387,
+        "CU_NAME": "WARUGA",
+        "CU_NO": "010",
+        "GEOCODE": "11060920010",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "20",
+        "WARD_NAME": "TJELEKWOL",
+        "LATITUDE": -6.833258,
+        "LONGITUDE": 145.757429,
+        "REGHH": 8,
+        "TOTPOP2000": 30,
+        "MALE2000": 19,
+        "FEMALE2000": 11,
+        "POP2008": 38,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

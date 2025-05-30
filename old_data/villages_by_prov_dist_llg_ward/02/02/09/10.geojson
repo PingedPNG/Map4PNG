@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7752,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.407018999927,
+          -7.8826509997438166
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7752,
+        "CU_NAME": "ARO VILLAGE",
+        "CU_NO": "030",
+        "GEOCODE": "02020910030",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "10",
+        "WARD_NAME": "IHU STATION",
+        "LATITUDE": -7.884081,
+        "LONGITUDE": 145.405971,
+        "REGHH": 14,
+        "TOTPOP2000": 89,
+        "MALE2000": 39,
+        "FEMALE2000": 50,
+        "POP2008": 109,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020910030,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7753,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.40053899967518,
+          -7.897134000333779
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7753,
+        "CU_NAME": "MAIVIRI PLTN",
+        "CU_NO": "401",
+        "GEOCODE": "02020910401",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "10",
+        "WARD_NAME": "IHU STATION",
+        "LATITUDE": -7.894278,
+        "LONGITUDE": 145.402309,
+        "REGHH": 10,
+        "TOTPOP2000": 99,
+        "MALE2000": 49,
+        "FEMALE2000": 50,
+        "POP2008": 123,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020910401,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

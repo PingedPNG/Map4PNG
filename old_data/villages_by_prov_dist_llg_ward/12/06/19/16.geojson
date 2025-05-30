@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11783,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.57171800008575,
+          -6.25914299984953
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11783,
+        "CU_NAME": "DAKGAMAN",
+        "CU_NO": "002",
+        "GEOCODE": "12061916002",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "16",
+        "WARD_NAME": "GUMIA",
+        "LATITUDE": -6.254412,
+        "LONGITUDE": 146.574046,
+        "REGHH": 8,
+        "TOTPOP2000": 34,
+        "MALE2000": 17,
+        "FEMALE2000": 17,
+        "POP2008": 42,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061916002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11784,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.58268100022804,
+          -6.27598999973867
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11784,
+        "CU_NAME": "GARAMBON",
+        "CU_NO": "006",
+        "GEOCODE": "12061916006",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "16",
+        "WARD_NAME": "GUMIA",
+        "LATITUDE": -6.277406,
+        "LONGITUDE": 146.581652,
+        "REGHH": 33,
+        "TOTPOP2000": 149,
+        "MALE2000": 70,
+        "FEMALE2000": 79,
+        "POP2008": 186,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061916006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11785,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.57588499979295,
+          -6.276408000129038
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11785,
+        "CU_NAME": "GUMIA",
+        "CU_NO": "007",
+        "GEOCODE": "12061916007",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "16",
+        "WARD_NAME": "GUMIA",
+        "LATITUDE": -6.277825,
+        "LONGITUDE": 146.574856,
+        "REGHH": 33,
+        "TOTPOP2000": 174,
+        "MALE2000": 82,
+        "FEMALE2000": 92,
+        "POP2008": 217,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061916007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11786,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.58198000027687,
+          -6.254369000029271
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11786,
+        "CU_NAME": "KAWAN",
+        "CU_NO": "008",
+        "GEOCODE": "12061916008",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "16",
+        "WARD_NAME": "GUMIA",
+        "LATITUDE": -6.255784,
+        "LONGITUDE": 146.580951,
+        "REGHH": 21,
+        "TOTPOP2000": 69,
+        "MALE2000": 30,
+        "FEMALE2000": 39,
+        "POP2008": 85,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061916008,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

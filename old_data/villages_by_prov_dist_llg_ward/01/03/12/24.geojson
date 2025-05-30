@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15616,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.33845200035955,
+          -9.016849999927501
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15616,
+        "CU_NAME": "KATATAI",
+        "CU_NO": "005",
+        "GEOCODE": "01031224005",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "24",
+        "WARD_NAME": "KATATAI",
+        "LATITUDE": -9.018285,
+        "LONGITUDE": 143.337374,
+        "REGHH": 63,
+        "TOTPOP2000": 371,
+        "MALE2000": 201,
+        "FEMALE2000": 170,
+        "POP2008": 480,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031224005,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

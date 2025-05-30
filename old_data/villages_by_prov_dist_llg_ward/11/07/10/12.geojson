@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6636885201092,
+          -6.467090310169624
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30533,
+        "CU_NAME": "FAMIA",
+        "CU_NO": "006",
+        "GEOCODE": "11071012006",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "OFAFINA",
+        "LATITUDE": -6.46709,
+        "LONGITUDE": 145.663689,
+        "REGHH": 191,
+        "TOTPOP2000": 866,
+        "MALE2000": 441,
+        "FEMALE2000": 425,
+        "POP2008": 1030,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30534,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6730211599986,
+          -6.474469949928221
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30534,
+        "CU_NAME": "KALU",
+        "CU_NO": "011",
+        "GEOCODE": "11071012011",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "OFAFINA",
+        "LATITUDE": -6.47447,
+        "LONGITUDE": 145.673021,
+        "REGHH": 183,
+        "TOTPOP2000": 829,
+        "MALE2000": 420,
+        "FEMALE2000": 409,
+        "POP2008": 986,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30535,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6587795599288,
+          -6.461836559809342
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30535,
+        "CU_NAME": "TIARANA",
+        "CU_NO": "022",
+        "GEOCODE": "11071012022",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "OFAFINA",
+        "LATITUDE": -6.461837,
+        "LONGITUDE": 145.65878,
+        "REGHH": 179,
+        "TOTPOP2000": 888,
+        "MALE2000": 459,
+        "FEMALE2000": 429,
+        "POP2008": 1057,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

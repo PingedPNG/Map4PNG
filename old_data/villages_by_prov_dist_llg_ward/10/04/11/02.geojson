@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14465,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8195889998325,
+          -5.870442000098194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14465,
+        "CU_NAME": "DENGE",
+        "CU_NO": "010",
+        "GEOCODE": "10041102010",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "DAGE MITNA 1",
+        "LATITUDE": -5.87185,
+        "LONGITUDE": 144.818538,
+        "REGHH": 48,
+        "TOTPOP2000": 201,
+        "MALE2000": 107,
+        "FEMALE2000": 94,
+        "POP2008": 233,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041102010,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14466,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.82632800033696,
+          -5.870293999568389
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14466,
+        "CU_NAME": "DU",
+        "CU_NO": "011",
+        "GEOCODE": "10041102011",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "DAGE MITNA 1",
+        "LATITUDE": -5.871702,
+        "LONGITUDE": 144.825277,
+        "REGHH": 55,
+        "TOTPOP2000": 271,
+        "MALE2000": 139,
+        "FEMALE2000": 132,
+        "POP2008": 312,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041102011,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14467,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.823118999842,
+          -5.865901000230906
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14467,
+        "CU_NAME": "BOI",
+        "CU_NO": "012",
+        "GEOCODE": "10041102012",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "DAGE MITNA 1",
+        "LATITUDE": -5.867309,
+        "LONGITUDE": 144.822068,
+        "REGHH": 101,
+        "TOTPOP2000": 456,
+        "MALE2000": 241,
+        "FEMALE2000": 215,
+        "POP2008": 525,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041102012,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14468,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8175510002785,
+          -5.869974000100001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14468,
+        "CU_NAME": "DENGE C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "10041102401",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "DAGE MITNA 1",
+        "LATITUDE": -5.871382,
+        "LONGITUDE": 144.816499,
+        "REGHH": 10,
+        "TOTPOP2000": 34,
+        "MALE2000": 18,
+        "FEMALE2000": 16,
+        "POP2008": 42,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041102401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

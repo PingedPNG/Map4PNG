@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6492,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.26412499986895,
+          -3.780176999968546
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6492,
+        "CU_NAME": "DARAPAP",
+        "CU_NO": "002",
+        "GEOCODE": "14020809002",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "09",
+        "WARD_NAME": "DARAPAP",
+        "LATITUDE": -3.782765,
+        "LONGITUDE": 144.266191,
+        "REGHH": 82,
+        "TOTPOP2000": 433,
+        "MALE2000": 217,
+        "FEMALE2000": 216,
+        "POP2008": 516,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020809002,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

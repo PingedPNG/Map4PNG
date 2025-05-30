@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19995,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.72062999967477,
+          -6.4012940000180265
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19995,
+        "CU_NAME": "SARE",
+        "CU_NO": "009",
+        "GEOCODE": "07030932009",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "32",
+        "WARD_NAME": "TOALOMANDA",
+        "LATITUDE": -6.405159,
+        "LONGITUDE": 143.719148,
+        "REGHH": 34,
+        "TOTPOP2000": 133,
+        "MALE2000": 63,
+        "FEMALE2000": 70,
+        "POP2008": 185,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030932009,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19996,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71748799957163,
+          -6.397794999639473
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19996,
+        "CU_NAME": "SUGIRI/SUKI",
+        "CU_NO": "010",
+        "GEOCODE": "07030932010",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "32",
+        "WARD_NAME": "TOALOMANDA",
+        "LATITUDE": -6.405159,
+        "LONGITUDE": 143.719148,
+        "REGHH": 19,
+        "TOTPOP2000": 120,
+        "MALE2000": 61,
+        "FEMALE2000": 59,
+        "POP2008": 166,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030932010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71574199999338,
+          -6.399952000184612
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19997,
+        "CU_NAME": "TOALOMANDA",
+        "CU_NO": "014",
+        "GEOCODE": "07030932014",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "32",
+        "WARD_NAME": "TOALOMANDA",
+        "LATITUDE": -6.405159,
+        "LONGITUDE": 143.719148,
+        "REGHH": 44,
+        "TOTPOP2000": 208,
+        "MALE2000": 99,
+        "FEMALE2000": 109,
+        "POP2008": 289,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030932014,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19998,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7146259997901,
+          -6.402375999552703
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19998,
+        "CU_NAME": "YALE",
+        "CU_NO": "015",
+        "GEOCODE": "07030932015",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "32",
+        "WARD_NAME": "TOALOMANDA",
+        "LATITUDE": -6.405159,
+        "LONGITUDE": 143.719148,
+        "REGHH": 26,
+        "TOTPOP2000": 155,
+        "MALE2000": 81,
+        "FEMALE2000": 74,
+        "POP2008": 216,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030932015,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19999,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71770599973217,
+          -6.402089999853558
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19999,
+        "CU_NAME": "WAPOE",
+        "CU_NO": "016",
+        "GEOCODE": "07030932016",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "32",
+        "WARD_NAME": "TOALOMANDA",
+        "LATITUDE": -6.405159,
+        "LONGITUDE": 143.719148,
+        "REGHH": 25,
+        "TOTPOP2000": 131,
+        "MALE2000": 65,
+        "FEMALE2000": 66,
+        "POP2008": 183,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030932016,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71788800003128,
+          -6.399745999678089
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20000,
+        "CU_NAME": "SUA",
+        "CU_NO": "017",
+        "GEOCODE": "07030932017",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "32",
+        "WARD_NAME": "TOALOMANDA",
+        "LATITUDE": -6.405159,
+        "LONGITUDE": 143.719148,
+        "REGHH": 17,
+        "TOTPOP2000": 67,
+        "MALE2000": 35,
+        "FEMALE2000": 32,
+        "POP2008": 93,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030932017,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20001,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7204409999523,
+          -6.40246600010579
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20001,
+        "CU_NAME": "RAKU",
+        "CU_NO": "018",
+        "GEOCODE": "07030932018",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "32",
+        "WARD_NAME": "TOALOMANDA",
+        "LATITUDE": -6.405159,
+        "LONGITUDE": 143.719148,
+        "REGHH": 18,
+        "TOTPOP2000": 98,
+        "MALE2000": 49,
+        "FEMALE2000": 49,
+        "POP2008": 135,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030932018,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7202340002989,
+          -6.4003190000217955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20002,
+        "CU_NAME": "MOKAYOANDA",
+        "CU_NO": "019",
+        "GEOCODE": "07030932019",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "32",
+        "WARD_NAME": "TOALOMANDA",
+        "LATITUDE": -6.405159,
+        "LONGITUDE": 143.719148,
+        "REGHH": 29,
+        "TOTPOP2000": 135,
+        "MALE2000": 69,
+        "FEMALE2000": 66,
+        "POP2008": 188,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030932019,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71885699975076,
+          -6.398374000259878
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20003,
+        "CU_NAME": "KOIA",
+        "CU_NO": "020",
+        "GEOCODE": "07030932020",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "32",
+        "WARD_NAME": "TOALOMANDA",
+        "LATITUDE": -6.405159,
+        "LONGITUDE": 143.719148,
+        "REGHH": 19,
+        "TOTPOP2000": 106,
+        "MALE2000": 59,
+        "FEMALE2000": 47,
+        "POP2008": 147,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030932020,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.717115000357,
+          -6.401116999949522
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20004,
+        "CU_NAME": "SUGI",
+        "CU_NO": "021",
+        "GEOCODE": "07030932021",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "32",
+        "WARD_NAME": "TOALOMANDA",
+        "LATITUDE": -6.405159,
+        "LONGITUDE": 143.719148,
+        "REGHH": 20,
+        "TOTPOP2000": 101,
+        "MALE2000": 57,
+        "FEMALE2000": 44,
+        "POP2008": 140,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030932021,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20005,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71868700000516,
+          -6.403061999711497
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20005,
+        "CU_NAME": "AMASA",
+        "CU_NO": "022",
+        "GEOCODE": "07030932022",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "32",
+        "WARD_NAME": "TOALOMANDA",
+        "LATITUDE": -6.405159,
+        "LONGITUDE": 143.719148,
+        "REGHH": 13,
+        "TOTPOP2000": 73,
+        "MALE2000": 42,
+        "FEMALE2000": 31,
+        "POP2008": 101,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030932022,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20006,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71595499992338,
+          -6.4032710003563125
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20006,
+        "CU_NAME": "RAKERE",
+        "CU_NO": "023",
+        "GEOCODE": "07030932023",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "32",
+        "WARD_NAME": "TOALOMANDA",
+        "LATITUDE": -6.405159,
+        "LONGITUDE": 143.719148,
+        "REGHH": 16,
+        "TOTPOP2000": 80,
+        "MALE2000": 37,
+        "FEMALE2000": 43,
+        "POP2008": 110,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030932023,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7187189996822,
+          -6.400987000249813
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20007,
+        "CU_NAME": "ALA",
+        "CU_NO": "024",
+        "GEOCODE": "07030932024",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "32",
+        "WARD_NAME": "TOALOMANDA",
+        "LATITUDE": -6.405159,
+        "LONGITUDE": 143.719148,
+        "REGHH": 12,
+        "TOTPOP2000": 59,
+        "MALE2000": 36,
+        "FEMALE2000": 23,
+        "POP2008": 82,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030932024,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71651699975985,
+          -6.398775999912402
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20008,
+        "CU_NAME": "YAPAPIA",
+        "CU_NO": "025",
+        "GEOCODE": "07030932025",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "32",
+        "WARD_NAME": "TOALOMANDA",
+        "LATITUDE": -6.405159,
+        "LONGITUDE": 143.719148,
+        "REGHH": 7,
+        "TOTPOP2000": 47,
+        "MALE2000": 22,
+        "FEMALE2000": 25,
+        "POP2008": 64,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030932025,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20009,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71496600018088,
+          -6.400932999558222
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20009,
+        "CU_NAME": "APETARE",
+        "CU_NO": "026",
+        "GEOCODE": "07030932026",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "32",
+        "WARD_NAME": "TOALOMANDA",
+        "LATITUDE": -6.405159,
+        "LONGITUDE": 143.719148,
+        "REGHH": 11,
+        "TOTPOP2000": 66,
+        "MALE2000": 39,
+        "FEMALE2000": 27,
+        "POP2008": 92,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030932026,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30247,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.97583336012156,
+          -6.560498610322554
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30247,
+        "CU_NAME": "OBURA GOV'T STATION",
+        "CU_NO": "401",
+        "GEOCODE": "11060815401",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "15",
+        "WARD_NAME": "OBURA GOV'T STN",
+        "LATITUDE": -6.560499,
+        "LONGITUDE": 145.975833,
+        "REGHH": 15,
+        "TOTPOP2000": 79,
+        "MALE2000": 27,
+        "FEMALE2000": 52,
+        "POP2008": 95,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

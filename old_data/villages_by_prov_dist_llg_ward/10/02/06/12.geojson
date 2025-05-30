@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14191,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.90095400002713,
+          -6.107797000131427
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14191,
+        "CU_NAME": "YURIBOL",
+        "CU_NO": "006",
+        "GEOCODE": "10020612006",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "OLDALE 2",
+        "LATITUDE": -6.109207,
+        "LONGITUDE": 144.899903,
+        "REGHH": 37,
+        "TOTPOP2000": 161,
+        "MALE2000": 80,
+        "FEMALE2000": 81,
+        "POP2008": 185,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020612006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14192,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.86816199957673,
+          -6.118193000206759
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14192,
+        "CU_NAME": "MALGIME",
+        "CU_NO": "007",
+        "GEOCODE": "10020612007",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "OLDALE 2",
+        "LATITUDE": -6.119602,
+        "LONGITUDE": 144.867111,
+        "REGHH": 34,
+        "TOTPOP2000": 138,
+        "MALE2000": 77,
+        "FEMALE2000": 61,
+        "POP2008": 161,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020612007,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

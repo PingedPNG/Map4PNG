@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7492,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.00235799962206,
+          -7.391143000249201
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7492,
+        "CU_NAME": "HAWABANGO",
+        "CU_NO": "006",
+        "GEOCODE": "02010308006",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "HAUABANGO",
+        "LATITUDE": -7.392569,
+        "LONGITUDE": 146.001319,
+        "REGHH": 23,
+        "TOTPOP2000": 101,
+        "MALE2000": 49,
+        "FEMALE2000": 52,
+        "POP2008": 125,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010308006,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7493,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9936770003933,
+          -7.397136999672739
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7493,
+        "CU_NAME": "YEPLEPAI",
+        "CU_NO": "007",
+        "GEOCODE": "02010308007",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "HAUABANGO",
+        "LATITUDE": -7.398563,
+        "LONGITUDE": 145.992638,
+        "REGHH": 40,
+        "TOTPOP2000": 222,
+        "MALE2000": 113,
+        "FEMALE2000": 109,
+        "POP2008": 273,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010308007,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7494,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.997018999827,
+          -7.396132000091711
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7494,
+        "CU_NAME": "MAPUHUYUA",
+        "CU_NO": "008",
+        "GEOCODE": "02010308008",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "HAUABANGO",
+        "LATITUDE": -7.397558,
+        "LONGITUDE": 145.99598,
+        "REGHH": 41,
+        "TOTPOP2000": 205,
+        "MALE2000": 101,
+        "FEMALE2000": 104,
+        "POP2008": 251,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010308008,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7495,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.99733199987202,
+          -7.399855000008188
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7495,
+        "CU_NAME": "SUWATA",
+        "CU_NO": "009",
+        "GEOCODE": "02010308009",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "HAUABANGO",
+        "LATITUDE": -7.401281,
+        "LONGITUDE": 145.996293,
+        "REGHH": 23,
+        "TOTPOP2000": 129,
+        "MALE2000": 62,
+        "FEMALE2000": 67,
+        "POP2008": 159,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010308009,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.00210599969216,
+          -7.395152999910977
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7496,
+        "CU_NAME": "HAUABANGO CATH. MISS.",
+        "CU_NO": "401",
+        "GEOCODE": "02010308401",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "HAUABANGO",
+        "LATITUDE": -7.396579,
+        "LONGITUDE": 146.001067,
+        "REGHH": 14,
+        "TOTPOP2000": 61,
+        "MALE2000": 28,
+        "FEMALE2000": 33,
+        "POP2008": 77,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010308401,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

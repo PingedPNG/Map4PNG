@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14239,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.66532200031008,
+          -6.572822999681648
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14239,
+        "CU_NAME": "TILIGE",
+        "CU_NO": "002",
+        "GEOCODE": "10030715002",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "15",
+        "WARD_NAME": "TUA 2 (TILIGE)",
+        "LATITUDE": -6.574238,
+        "LONGITUDE": 144.664267,
+        "REGHH": 48,
+        "TOTPOP2000": 366,
+        "MALE2000": 195,
+        "FEMALE2000": 171,
+        "POP2008": 422,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030715002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14240,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.666517999706,
+          -6.563057999926684
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14240,
+        "CU_NAME": "BOBE",
+        "CU_NO": "003",
+        "GEOCODE": "10030715003",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "15",
+        "WARD_NAME": "TUA 2 (TILIGE)",
+        "LATITUDE": -6.564473,
+        "LONGITUDE": 144.665463,
+        "REGHH": 55,
+        "TOTPOP2000": 297,
+        "MALE2000": 151,
+        "FEMALE2000": 146,
+        "POP2008": 343,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030715003,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

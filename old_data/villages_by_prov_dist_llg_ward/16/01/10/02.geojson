@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9500,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.69913099959604,
+          -2.193246999749192
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9500,
+        "CU_NAME": "BUNDRAHEI",
+        "CU_NO": "002",
+        "GEOCODE": "16011002002",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "BUNDRAHEI/SAPONDRAL",
+        "LATITUDE": -2.195198,
+        "LONGITUDE": 146.700427,
+        "REGHH": 121,
+        "TOTPOP2000": 603,
+        "MALE2000": 308,
+        "FEMALE2000": 295,
+        "POP2008": 741,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16011002002,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9501,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.64359199967112,
+          -2.201100000364704
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9501,
+        "CU_NAME": "SAPONDRALIS",
+        "CU_NO": "009",
+        "GEOCODE": "16011002009",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "BUNDRAHEI/SAPONDRAL",
+        "LATITUDE": -2.200724,
+        "LONGITUDE": 146.641161,
+        "REGHH": 33,
+        "TOTPOP2000": 159,
+        "MALE2000": 84,
+        "FEMALE2000": 75,
+        "POP2008": 195,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16011002009,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9502,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.63802900033818,
+          -2.1934619997714435
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9502,
+        "CU_NAME": "N'DRAUKEI BASE CAMP",
+        "CU_NO": "504",
+        "GEOCODE": "16011002504",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "BUNDRAHEI/SAPONDRAL",
+        "LATITUDE": -2.194178,
+        "LONGITUDE": 146.636683,
+        "REGHH": 1,
+        "TOTPOP2000": 13,
+        "MALE2000": 8,
+        "FEMALE2000": 5,
+        "POP2008": 13,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16011002504,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9503,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5602789995762,
+          -2.2470369999575155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9503,
+        "CU_NAME": "NDRUMUNDRUM",
+        "CU_NO": "505",
+        "GEOCODE": "16011002505",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "BUNDRAHEI/SAPONDRAL",
+        "LATITUDE": -2.248405,
+        "LONGITUDE": 146.559255,
+        "REGHH": 21,
+        "TOTPOP2000": 88,
+        "MALE2000": 53,
+        "FEMALE2000": 35,
+        "POP2008": 107,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16011002505,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6903409998373,
+          -2.1785540002668426
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9504,
+        "CU_NAME": "BUNDRAHEI HIGH SCHOOL",
+        "CU_NO": "506",
+        "GEOCODE": "16011002506",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "BUNDRAHEI/SAPONDRAL",
+        "LATITUDE": -2.179921,
+        "LONGITUDE": 146.689319,
+        "REGHH": 4,
+        "TOTPOP2000": 20,
+        "MALE2000": 7,
+        "FEMALE2000": 13,
+        "POP2008": 28,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16011002506,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

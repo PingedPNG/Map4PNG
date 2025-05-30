@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.99019599964572,
+          -3.7712490001412107
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7129,
+        "CU_NAME": "KITIKUM",
+        "CU_NO": "021",
+        "GEOCODE": "14052110021",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "21",
+        "WARD_NO": "10",
+        "WARD_NAME": "KITIKUM",
+        "LATITUDE": -3.772828,
+        "LONGITUDE": 142.988956,
+        "REGHH": 155,
+        "TOTPOP2000": 690,
+        "MALE2000": 334,
+        "FEMALE2000": 356,
+        "POP2008": 822,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052110021,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

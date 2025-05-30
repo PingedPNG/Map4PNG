@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9370,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.55721200023368,
+          -2.1181760002222063
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9370,
+        "CU_NAME": "KALI",
+        "CU_NO": "001",
+        "GEOCODE": "16010303001",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "KALI",
+        "LATITUDE": -2.117733,
+        "LONGITUDE": 146.554412,
+        "REGHH": 42,
+        "TOTPOP2000": 249,
+        "MALE2000": 135,
+        "FEMALE2000": 114,
+        "POP2008": 306,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010303001,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

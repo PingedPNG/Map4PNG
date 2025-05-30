@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7964,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84715600034917,
+          -4.1421180004452935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7964,
+        "CU_NAME": "AWAR",
+        "CU_NO": "002",
+        "GEOCODE": "13010307002",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "AWAR",
+        "LATITUDE": -4.142634,
+        "LONGITUDE": 144.842242,
+        "REGHH": 76,
+        "TOTPOP2000": 444,
+        "MALE2000": 235,
+        "FEMALE2000": 209,
+        "POP2008": 549,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010307002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7965,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84563300026286,
+          -4.138661000204934
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7965,
+        "CU_NAME": "AWAR COMM. SCHOOL",
+        "CU_NO": "402",
+        "GEOCODE": "13010307402",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "AWAR",
+        "LATITUDE": -4.142634,
+        "LONGITUDE": 144.842429,
+        "REGHH": 2,
+        "TOTPOP2000": 22,
+        "MALE2000": 14,
+        "FEMALE2000": 8,
+        "POP2008": 30,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010307402,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7966,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.86175399994715,
+          -4.135669999870572
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7966,
+        "CU_NAME": "AWAR PLANTATION",
+        "CU_NO": "501",
+        "GEOCODE": "13010307501",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "AWAR",
+        "LATITUDE": -4.137059,
+        "LONGITUDE": 144.860706,
+        "REGHH": 21,
+        "TOTPOP2000": 138,
+        "MALE2000": 85,
+        "FEMALE2000": 53,
+        "POP2008": 170,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010307501,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

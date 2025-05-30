@@ -1,0 +1,357 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 632,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.56607899994594,
+          -6.624532000151646
+        ]
+      },
+      "properties": {
+        "OBJECTID": 632,
+        "CU_NAME": "SIURU",
+        "CU_NO": "001",
+        "GEOCODE": "20031001001",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "MUKAKURU",
+        "LATITUDE": -6.625969,
+        "LONGITUDE": 155.565183,
+        "REGHH": 18,
+        "TOTPOP2000": 95,
+        "MALE2000": 56,
+        "FEMALE2000": 39,
+        "POP2008": 105,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031001001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 633,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.56089700019652,
+          -6.639952999930983
+        ]
+      },
+      "properties": {
+        "OBJECTID": 633,
+        "CU_NAME": "TOPOPISAU 1",
+        "CU_NO": "002",
+        "GEOCODE": "20031001002",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "MUKAKURU",
+        "LATITUDE": -6.64139,
+        "LONGITUDE": 155.56,
+        "REGHH": 26,
+        "TOTPOP2000": 136,
+        "MALE2000": 71,
+        "FEMALE2000": 65,
+        "POP2008": 152,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031001002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 634,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.56589699964684,
+          -6.63828300026023
+        ]
+      },
+      "properties": {
+        "OBJECTID": 634,
+        "CU_NAME": "TOPOPISAU 2",
+        "CU_NO": "003",
+        "GEOCODE": "20031001003",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "MUKAKURU",
+        "LATITUDE": -6.63972,
+        "LONGITUDE": 155.565,
+        "REGHH": 15,
+        "TOTPOP2000": 65,
+        "MALE2000": 31,
+        "FEMALE2000": 34,
+        "POP2008": 73,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031001003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 635,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.57491500002732,
+          -6.608284000006563
+        ]
+      },
+      "properties": {
+        "OBJECTID": 635,
+        "CU_NAME": "PIRORUINO",
+        "CU_NO": "004",
+        "GEOCODE": "20031001004",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "MUKAKURU",
+        "LATITUDE": -6.60611,
+        "LONGITUDE": 155.574,
+        "REGHH": 15,
+        "TOTPOP2000": 66,
+        "MALE2000": 34,
+        "FEMALE2000": 32,
+        "POP2008": 74,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031001004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 636,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.52289699969685,
+          -6.699951999585039
+        ]
+      },
+      "properties": {
+        "OBJECTID": 636,
+        "CU_NAME": "TARAPA",
+        "CU_NO": "005",
+        "GEOCODE": "20031001005",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "MUKAKURU",
+        "LATITUDE": -6.70139,
+        "LONGITUDE": 155.522,
+        "REGHH": 35,
+        "TOTPOP2000": 189,
+        "MALE2000": 96,
+        "FEMALE2000": 93,
+        "POP2008": 213,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031001005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 637,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.51589699974681,
+          -6.680782999635653
+        ]
+      },
+      "properties": {
+        "OBJECTID": 637,
+        "CU_NAME": "HINNO",
+        "CU_NO": "006",
+        "GEOCODE": "20031001006",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "MUKAKURU",
+        "LATITUDE": -6.68222,
+        "LONGITUDE": 155.515,
+        "REGHH": 30,
+        "TOTPOP2000": 145,
+        "MALE2000": 68,
+        "FEMALE2000": 77,
+        "POP2008": 161,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031001006,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 638,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.50766899982455,
+          -6.650795999935383
+        ]
+      },
+      "properties": {
+        "OBJECTID": 638,
+        "CU_NAME": "MORONEI",
+        "CU_NO": "007",
+        "GEOCODE": "20031001007",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "MUKAKURU",
+        "LATITUDE": -6.65361,
+        "LONGITUDE": 155.509,
+        "REGHH": 66,
+        "TOTPOP2000": 331,
+        "MALE2000": 179,
+        "FEMALE2000": 152,
+        "POP2008": 371,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031001007,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 639,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.53363400020896,
+          -6.67527300004889
+        ]
+      },
+      "properties": {
+        "OBJECTID": 639,
+        "CU_NAME": "KUHINNU",
+        "CU_NO": "008",
+        "GEOCODE": "20031001008",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "MUKAKURU",
+        "LATITUDE": -6.67671,
+        "LONGITUDE": 155.532737,
+        "REGHH": 25,
+        "TOTPOP2000": 122,
+        "MALE2000": 57,
+        "FEMALE2000": 65,
+        "POP2008": 138,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031001008,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 640,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.5459539999772,
+          -6.652498000182504
+        ]
+      },
+      "properties": {
+        "OBJECTID": 640,
+        "CU_NAME": "TSIPERU",
+        "CU_NO": "009",
+        "GEOCODE": "20031001009",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "MUKAKURU",
+        "LATITUDE": -6.653935,
+        "LONGITUDE": 155.545057,
+        "REGHH": 27,
+        "TOTPOP2000": 130,
+        "MALE2000": 61,
+        "FEMALE2000": 69,
+        "POP2008": 146,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031001009,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 641,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.50289800014264,
+          -6.674123000076349
+        ]
+      },
+      "properties": {
+        "OBJECTID": 641,
+        "CU_NAME": "MATARASI",
+        "CU_NO": "010",
+        "GEOCODE": "20031001010",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "MUKAKURU",
+        "LATITUDE": -6.67556,
+        "LONGITUDE": 155.502,
+        "REGHH": 26,
+        "TOTPOP2000": 121,
+        "MALE2000": 57,
+        "FEMALE2000": 64,
+        "POP2008": 137,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031001010,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 642,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.52589700044632,
+          -6.66800300023823
+        ]
+      },
+      "properties": {
+        "OBJECTID": 642,
+        "CU_NAME": "LAKU",
+        "CU_NO": "011",
+        "GEOCODE": "20031001011",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "MUKAKURU",
+        "LATITUDE": -6.66944,
+        "LONGITUDE": 155.525,
+        "REGHH": 18,
+        "TOTPOP2000": 72,
+        "MALE2000": 39,
+        "FEMALE2000": 33,
+        "POP2008": 80,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031001011,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

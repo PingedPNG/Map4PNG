@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19009,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2857300003393,
+          -3.9690869998651124
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19009,
+        "CU_NAME": "SIMAIYE",
+        "CU_NO": "013",
+        "GEOCODE": "15041423013",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "23",
+        "WARD_NAME": "MUKUASI",
+        "LATITUDE": -3.970469,
+        "LONGITUDE": 141.284638,
+        "REGHH": 30,
+        "TOTPOP2000": 195,
+        "MALE2000": 95,
+        "FEMALE2000": 100,
+        "POP2008": 236,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041423013,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19010,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.30190499981597,
+          -3.951894000207915
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19010,
+        "CU_NAME": "ISLAND MUSU",
+        "CU_NO": "014",
+        "GEOCODE": "15041423014",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "23",
+        "WARD_NAME": "MUKUASI",
+        "LATITUDE": -3.953276,
+        "LONGITUDE": 141.300813,
+        "REGHH": 17,
+        "TOTPOP2000": 143,
+        "MALE2000": 67,
+        "FEMALE2000": 76,
+        "POP2008": 174,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041423014,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

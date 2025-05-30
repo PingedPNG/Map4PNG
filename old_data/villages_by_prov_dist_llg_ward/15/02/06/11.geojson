@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18585,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.39487499988138,
+          -3.4337590003775063
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18585,
+        "CU_NAME": "WARA/SUMIL",
+        "CU_NO": "012",
+        "GEOCODE": "15020611012",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARA",
+        "LATITUDE": -3.435137,
+        "LONGITUDE": 142.393797,
+        "REGHH": 30,
+        "TOTPOP2000": 177,
+        "MALE2000": 93,
+        "FEMALE2000": 84,
+        "POP2008": 214,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020611012,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18586,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4243359996068,
+          -3.441608999955349
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18586,
+        "CU_NAME": "WEIKI",
+        "CU_NO": "013",
+        "GEOCODE": "15020611013",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARA",
+        "LATITUDE": -3.442987,
+        "LONGITUDE": 142.423258,
+        "REGHH": 25,
+        "TOTPOP2000": 151,
+        "MALE2000": 81,
+        "FEMALE2000": 70,
+        "POP2008": 183,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020611013,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18587,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.40737900004092,
+          -3.4723460000677733
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18587,
+        "CU_NAME": "WURO",
+        "CU_NO": "016",
+        "GEOCODE": "15020611016",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARA",
+        "LATITUDE": -3.473725,
+        "LONGITUDE": 142.406301,
+        "REGHH": 48,
+        "TOTPOP2000": 236,
+        "MALE2000": 122,
+        "FEMALE2000": 114,
+        "POP2008": 286,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020611016,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18588,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.46119399960344,
+          -3.451520000147866
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18588,
+        "CU_NAME": "YAPUNDA",
+        "CU_NO": "017",
+        "GEOCODE": "15020611017",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARA",
+        "LATITUDE": -3.456323,
+        "LONGITUDE": 142.457286,
+        "REGHH": 24,
+        "TOTPOP2000": 113,
+        "MALE2000": 52,
+        "FEMALE2000": 61,
+        "POP2008": 137,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020611017,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

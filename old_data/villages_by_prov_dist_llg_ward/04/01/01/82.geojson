@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 24117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.18417400042983,
+          -9.475208999595623
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24117,
+        "CU_NAME": "H/MURRAY HWY/GUITANA ROAD",
+        "CU_NO": "051",
+        "GEOCODE": "04010182051",
+        "PROV_KEY": "04",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "82",
+        "WARD_NAME": "TOKARARA/HOHOLA URBA",
+        "LATITUDE": -9.475209,
+        "LONGITUDE": 147.184174,
+        "REGHH": 35,
+        "TOTPOP2000": 202,
+        "MALE2000": 117,
+        "FEMALE2000": 85,
+        "POP2008": null,
+        "G_RATE": 0,
+        "Geocode_Num": 4010182051,
+        "PROVINCE": 4
+      }
+    }
+  ]
+}

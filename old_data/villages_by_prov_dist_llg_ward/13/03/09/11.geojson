@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8600,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.57364999964784,
+          -5.315589000431999
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8600,
+        "CU_NAME": "KOKI (006)",
+        "CU_NO": "006",
+        "GEOCODE": "13030911006",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "11",
+        "WARD_NAME": "KOKI",
+        "LATITUDE": -5.31699,
+        "LONGITUDE": 144.572596,
+        "REGHH": 141,
+        "TOTPOP2000": 844,
+        "MALE2000": 396,
+        "FEMALE2000": 448,
+        "POP2008": 1044,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030911006,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

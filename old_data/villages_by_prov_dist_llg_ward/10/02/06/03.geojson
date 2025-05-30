@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.94750600010184,
+          -6.039173000233745
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14156,
+        "CU_NAME": "KELA",
+        "CU_NO": "010",
+        "GEOCODE": "10020603010",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "KOROKEA",
+        "LATITUDE": -6.040583,
+        "LONGITUDE": 144.946456,
+        "REGHH": 72,
+        "TOTPOP2000": 352,
+        "MALE2000": 180,
+        "FEMALE2000": 172,
+        "POP2008": 406,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020603010,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14157,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95519400030298,
+          -6.040644999766869
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14157,
+        "CU_NAME": "ONULE",
+        "CU_NO": "011",
+        "GEOCODE": "10020603011",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "KOROKEA",
+        "LATITUDE": -6.042055,
+        "LONGITUDE": 144.954144,
+        "REGHH": 80,
+        "TOTPOP2000": 383,
+        "MALE2000": 196,
+        "FEMALE2000": 187,
+        "POP2008": 442,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020603011,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14158,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.94370400013952,
+          -6.0436410003318315
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14158,
+        "CU_NAME": "KOROKOA",
+        "CU_NO": "012",
+        "GEOCODE": "10020603012",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "KOROKEA",
+        "LATITUDE": -6.045051,
+        "LONGITUDE": 144.942654,
+        "REGHH": 55,
+        "TOTPOP2000": 277,
+        "MALE2000": 135,
+        "FEMALE2000": 142,
+        "POP2008": 319,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020603012,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

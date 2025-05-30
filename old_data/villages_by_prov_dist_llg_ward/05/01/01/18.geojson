@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9578,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.75282800031198,
+          -9.786375999552718
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9578,
+        "CU_NAME": "KOIYABAGIRA",
+        "CU_NO": "013",
+        "GEOCODE": "05010118013",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "KOIYABAGIRA",
+        "LATITUDE": -9.790023,
+        "LONGITUDE": 149.755072,
+        "REGHH": 90,
+        "TOTPOP2000": 495,
+        "MALE2000": 252,
+        "FEMALE2000": 243,
+        "POP2008": 603,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010118013,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15317,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.52932700044073,
+          -5.821287999641413
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15317,
+        "CU_NAME": "TIMINSIRIAP",
+        "CU_NO": "011",
+        "GEOCODE": "01020614011",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "14",
+        "WARD_NAME": "TIMINSIRIAP",
+        "LATITUDE": -5.821197,
+        "LONGITUDE": 141.542995,
+        "REGHH": 13,
+        "TOTPOP2000": 77,
+        "MALE2000": 34,
+        "FEMALE2000": 43,
+        "POP2008": 101,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020614011,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.48996600013083,
+          -5.805243999910601
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15318,
+        "CU_NAME": "TWANSAWANAI",
+        "CU_NO": "012",
+        "GEOCODE": "01020614012",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "14",
+        "WARD_NAME": "TIMINSIRIAP",
+        "LATITUDE": -5.803548,
+        "LONGITUDE": 141.491955,
+        "REGHH": 12,
+        "TOTPOP2000": 69,
+        "MALE2000": 35,
+        "FEMALE2000": 34,
+        "POP2008": 89,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020614012,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

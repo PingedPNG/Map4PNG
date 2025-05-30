@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9484,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.15292099990427,
+          -2.188582999605728
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9484,
+        "CU_NAME": "PATUSI",
+        "CU_NO": "005",
+        "GEOCODE": "16010818005",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "08",
+        "WARD_NO": "18",
+        "WARD_NAME": "PATUSI",
+        "LATITUDE": -2.183669,
+        "LONGITUDE": 147.137473,
+        "REGHH": 55,
+        "TOTPOP2000": 275,
+        "MALE2000": 135,
+        "FEMALE2000": 140,
+        "POP2008": 338,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010818005,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4568,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.07901099985781,
+          -4.209861000184958
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4568,
+        "CU_NAME": "NABATA VILLAGE",
+        "CU_NO": "016",
+        "GEOCODE": "18010404016",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "NABATA",
+        "LATITUDE": -4.21126,
+        "LONGITUDE": 152.078064,
+        "REGHH": 128,
+        "TOTPOP2000": 578,
+        "MALE2000": 306,
+        "FEMALE2000": 272,
+        "POP2008": 704,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010404016,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

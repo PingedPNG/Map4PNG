@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4781,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.43801499999233,
+          -5.570412000213594
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4781,
+        "CU_NAME": "MALAKUR",
+        "CU_NO": "006",
+        "GEOCODE": "18031002006",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "MALAKUR",
+        "LATITUDE": -5.566665,
+        "LONGITUDE": 151.444181,
+        "REGHH": 32,
+        "TOTPOP2000": 215,
+        "MALE2000": 97,
+        "FEMALE2000": 118,
+        "POP2008": 261,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031002006,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

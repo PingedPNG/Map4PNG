@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8711,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.98078899961274,
+          -5.872493000251723
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8711,
+        "CU_NAME": "SARANGA",
+        "CU_NO": "020",
+        "GEOCODE": "13041111020",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -5.878372,
+        "LONGITUDE": 145.976953,
+        "REGHH": 56,
+        "TOTPOP2000": 478,
+        "MALE2000": 235,
+        "FEMALE2000": 243,
+        "POP2008": 592,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041111020,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8712,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.99472300006641,
+          -5.8800269996462475
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8712,
+        "CU_NAME": "YONOMBE",
+        "CU_NO": "021",
+        "GEOCODE": "13041111021",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -5.890383,
+        "LONGITUDE": 145.993392,
+        "REGHH": 18,
+        "TOTPOP2000": 134,
+        "MALE2000": 64,
+        "FEMALE2000": 70,
+        "POP2008": 166,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041111021,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

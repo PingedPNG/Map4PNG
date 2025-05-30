@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4589,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.10323099981088,
+          -4.254812000173615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4589,
+        "CU_NAME": "TOUALEKA",
+        "CU_NO": "005",
+        "GEOCODE": "18010423005",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "TOUALEKA",
+        "LATITUDE": -4.256212,
+        "LONGITUDE": 152.102284,
+        "REGHH": 179,
+        "TOTPOP2000": 902,
+        "MALE2000": 452,
+        "FEMALE2000": 450,
+        "POP2008": 1100,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010423005,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

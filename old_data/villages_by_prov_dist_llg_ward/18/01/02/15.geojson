@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4490,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.91391500007728,
+          -4.339978000284418
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4490,
+        "CU_NAME": "MANDRESS STATION",
+        "CU_NO": "401",
+        "GEOCODE": "18010215401",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "15",
+        "WARD_NAME": "MANDRESS SETT",
+        "LATITUDE": -4.33921,
+        "LONGITUDE": 151.91578,
+        "REGHH": 7,
+        "TOTPOP2000": 30,
+        "MALE2000": 15,
+        "FEMALE2000": 15,
+        "POP2008": 38,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010215401,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9159949997695,
+          -4.3342529997760835
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4491,
+        "CU_NAME": "MANDRESS SETT",
+        "CU_NO": "534",
+        "GEOCODE": "18010215534",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "15",
+        "WARD_NAME": "MANDRESS SETT",
+        "LATITUDE": -4.33921,
+        "LONGITUDE": 151.91578,
+        "REGHH": 119,
+        "TOTPOP2000": 702,
+        "MALE2000": 387,
+        "FEMALE2000": 315,
+        "POP2008": 855,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010215534,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

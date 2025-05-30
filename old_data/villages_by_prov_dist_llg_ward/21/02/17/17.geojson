@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20891,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7866559995748,
+          -5.7852020001721485
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20891,
+        "CU_NAME": "KUNDUGU",
+        "CU_NO": "009",
+        "GEOCODE": "07051717009",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "17",
+        "WARD_NAME": "KUNDUGU",
+        "LATITUDE": -5.789445,
+        "LONGITUDE": 142.786917,
+        "REGHH": 169,
+        "TOTPOP2000": 1127,
+        "MALE2000": 570,
+        "FEMALE2000": 557,
+        "POP2008": 1566,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051717009,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

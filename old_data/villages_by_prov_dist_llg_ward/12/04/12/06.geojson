@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11152,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0476220003551,
+          -6.162741999643515
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11152,
+        "CU_NAME": "GOMANDAT",
+        "CU_NO": "010",
+        "GEOCODE": "12041206010",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "GOMANDAT",
+        "LATITUDE": -6.167177,
+        "LONGITUDE": 147.049115,
+        "REGHH": 16,
+        "TOTPOP2000": 76,
+        "MALE2000": 32,
+        "FEMALE2000": 44,
+        "POP2008": 93,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041206010,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11153,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0622850002526,
+          -6.160723000066355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11153,
+        "CU_NAME": "SEII (POBUNG)",
+        "CU_NO": "027",
+        "GEOCODE": "12041206027",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "GOMANDAT",
+        "LATITUDE": -6.162138,
+        "LONGITUDE": 147.061263,
+        "REGHH": 24,
+        "TOTPOP2000": 114,
+        "MALE2000": 43,
+        "FEMALE2000": 71,
+        "POP2008": 142,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041206027,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11154,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.02991699957,
+          -6.1520949996844365
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11154,
+        "CU_NAME": "MAMOK",
+        "CU_NO": "028",
+        "GEOCODE": "12041206028",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "GOMANDAT",
+        "LATITUDE": -6.15351,
+        "LONGITUDE": 147.028894,
+        "REGHH": 33,
+        "TOTPOP2000": 173,
+        "MALE2000": 81,
+        "FEMALE2000": 92,
+        "POP2008": 216,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041206028,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.04338600016388,
+          -6.152311999798883
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11155,
+        "CU_NAME": "PITION",
+        "CU_NO": "029",
+        "GEOCODE": "12041206029",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "GOMAMDAT",
+        "LATITUDE": -6.157919,
+        "LONGITUDE": 147.048228,
+        "REGHH": 6,
+        "TOTPOP2000": 26,
+        "MALE2000": 12,
+        "FEMALE2000": 14,
+        "POP2008": 34,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041206029,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0389770000885,
+          -6.167799999969986
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11156,
+        "CU_NAME": "UMBUON",
+        "CU_NO": "030",
+        "GEOCODE": "12041206030",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "GOMAMDAT",
+        "LATITUDE": -6.169215,
+        "LONGITUDE": 147.037954,
+        "REGHH": 16,
+        "TOTPOP2000": 65,
+        "MALE2000": 30,
+        "FEMALE2000": 35,
+        "POP2008": 81,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041206030,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

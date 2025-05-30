@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8246899998437,
+          -5.73744800042482
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20873,
+        "CU_NAME": "KUTI IBU",
+        "CU_NO": "001",
+        "GEOCODE": "07051707001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "07",
+        "WARD_NAME": "HUMBURU 2",
+        "LATITUDE": -5.743699,
+        "LONGITUDE": 142.826074,
+        "REGHH": 10,
+        "TOTPOP2000": 56,
+        "MALE2000": 27,
+        "FEMALE2000": 29,
+        "POP2008": 78,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051707001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20874,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82770500038555,
+          -5.738331999821867
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20874,
+        "CU_NAME": "KUTI MERIA",
+        "CU_NO": "002",
+        "GEOCODE": "07051707002",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "07",
+        "WARD_NAME": "HUMBURU 2",
+        "LATITUDE": -5.743699,
+        "LONGITUDE": 142.826074,
+        "REGHH": 10,
+        "TOTPOP2000": 38,
+        "MALE2000": 20,
+        "FEMALE2000": 18,
+        "POP2008": 54,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051707002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20875,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82402699984618,
+          -5.7393489999563485
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20875,
+        "CU_NAME": "KUTI MANGOBE",
+        "CU_NO": "003",
+        "GEOCODE": "07051707003",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "07",
+        "WARD_NAME": "HUMBURU 2",
+        "LATITUDE": -5.743699,
+        "LONGITUDE": 142.826074,
+        "REGHH": 10,
+        "TOTPOP2000": 47,
+        "MALE2000": 24,
+        "FEMALE2000": 23,
+        "POP2008": 64,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051707003,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20876,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82593100041538,
+          -5.741688999947371
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20876,
+        "CU_NAME": "KUTI NDE",
+        "CU_NO": "004",
+        "GEOCODE": "07051707004",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "07",
+        "WARD_NAME": "HUMBURU 2",
+        "LATITUDE": -5.743699,
+        "LONGITUDE": 142.826074,
+        "REGHH": 10,
+        "TOTPOP2000": 45,
+        "MALE2000": 26,
+        "FEMALE2000": 19,
+        "POP2008": 61,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051707004,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20877,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8263609995605,
+          -5.7367719998279085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20877,
+        "CU_NAME": "KUTI LERO",
+        "CU_NO": "005",
+        "GEOCODE": "07051707005",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "07",
+        "WARD_NAME": "HUMBURU 2",
+        "LATITUDE": -5.743699,
+        "LONGITUDE": 142.826074,
+        "REGHH": 13,
+        "TOTPOP2000": 70,
+        "MALE2000": 43,
+        "FEMALE2000": 27,
+        "POP2008": 97,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051707005,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

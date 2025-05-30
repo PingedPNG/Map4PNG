@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64426099964544,
+          -6.058486999675267
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20976,
+        "CU_NAME": "NOPRA KAMBREP",
+        "CU_NO": "007",
+        "GEOCODE": "07061822007",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "22",
+        "WARD_NAME": "KAMBEREP",
+        "LATITUDE": -6.062609,
+        "LONGITUDE": 143.645014,
+        "REGHH": 45,
+        "TOTPOP2000": 283,
+        "MALE2000": 146,
+        "FEMALE2000": 137,
+        "POP2008": 393,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061822007,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20977,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64431600038313,
+          -6.0604250000137085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20977,
+        "CU_NAME": "ESENDA-HUMBRA",
+        "CU_NO": "008",
+        "GEOCODE": "07061822008",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "22",
+        "WARD_NAME": "KAMBEREP",
+        "LATITUDE": -6.062609,
+        "LONGITUDE": 143.645014,
+        "REGHH": 50,
+        "TOTPOP2000": 342,
+        "MALE2000": 171,
+        "FEMALE2000": 171,
+        "POP2008": 475,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061822008,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20978,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64464999959785,
+          -6.056734999820321
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20978,
+        "CU_NAME": "MOLMU-SOSIP",
+        "CU_NO": "009",
+        "GEOCODE": "07061822009",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "22",
+        "WARD_NAME": "KAMBEREP",
+        "LATITUDE": -6.062609,
+        "LONGITUDE": 143.645014,
+        "REGHH": 42,
+        "TOTPOP2000": 259,
+        "MALE2000": 123,
+        "FEMALE2000": 136,
+        "POP2008": 359,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061822009,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

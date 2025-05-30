@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5615,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.43646700035185,
+          -5.437878000169519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5615,
+        "CU_NAME": "YAKENDA",
+        "CU_NO": "042",
+        "GEOCODE": "08030635042",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "35",
+        "WARD_NAME": "YAKENDA",
+        "LATITUDE": -5.430356,
+        "LONGITUDE": 143.435991,
+        "REGHH": 171,
+        "TOTPOP2000": 1119,
+        "MALE2000": 546,
+        "FEMALE2000": 573,
+        "POP2008": 1404,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030635042,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

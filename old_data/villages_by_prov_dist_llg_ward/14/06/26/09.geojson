@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7365,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.21726099999523,
+          -3.651714999747412
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7365,
+        "CU_NAME": "KRAGUMUN",
+        "CU_NO": "010",
+        "GEOCODE": "14062609010",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "26",
+        "WARD_NO": "09",
+        "WARD_NAME": "KRAGUMUN",
+        "LATITUDE": -3.653293,
+        "LONGITUDE": 143.216024,
+        "REGHH": 80,
+        "TOTPOP2000": 353,
+        "MALE2000": 176,
+        "FEMALE2000": 177,
+        "POP2008": 420,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062609010,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

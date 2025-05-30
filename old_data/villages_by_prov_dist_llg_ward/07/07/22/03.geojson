@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21151,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.50322599968024,
+          -6.495382999725621
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21151,
+        "CU_NAME": "DAMAYU",
+        "CU_NO": "004",
+        "GEOCODE": "07072203004",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "03",
+        "WARD_NAME": "DAMAYU",
+        "LATITUDE": -6.5002,
+        "LONGITUDE": 143.500735,
+        "REGHH": 81,
+        "TOTPOP2000": 646,
+        "MALE2000": 314,
+        "FEMALE2000": 332,
+        "POP2008": 897,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072203004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21152,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5023849995681,
+          -6.493168000103083
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21152,
+        "CU_NAME": "PIMAGA STATION",
+        "CU_NO": "801",
+        "GEOCODE": "07072203801",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "03",
+        "WARD_NAME": "DAMAYU",
+        "LATITUDE": -6.5002,
+        "LONGITUDE": 143.500736,
+        "REGHH": 27,
+        "TOTPOP2000": 210,
+        "MALE2000": 109,
+        "FEMALE2000": 101,
+        "POP2008": 292,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072203801,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

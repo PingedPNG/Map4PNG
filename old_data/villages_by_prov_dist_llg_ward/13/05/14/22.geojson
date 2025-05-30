@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.79944999991767,
+          -5.033702999993409
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9119,
+        "CU_NAME": "BOMASSE",
+        "CU_NO": "007",
+        "GEOCODE": "13051422007",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "22",
+        "WARD_NAME": "WARD 22",
+        "LATITUDE": -5.035103,
+        "LONGITUDE": 145.798413,
+        "REGHH": 69,
+        "TOTPOP2000": 419,
+        "MALE2000": 217,
+        "FEMALE2000": 202,
+        "POP2008": 519,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051422007,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.79557200004785,
+          -5.016294000267862
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9120,
+        "CU_NAME": "KAUWE",
+        "CU_NO": "009",
+        "GEOCODE": "13051422009",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "22",
+        "WARD_NAME": "WARD 22",
+        "LATITUDE": -5.017694,
+        "LONGITUDE": 145.794535,
+        "REGHH": 77,
+        "TOTPOP2000": 508,
+        "MALE2000": 244,
+        "FEMALE2000": 264,
+        "POP2008": 629,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051422009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7957759995628,
+          -5.022246999599304
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9121,
+        "CU_NAME": "MAIK",
+        "CU_NO": "010",
+        "GEOCODE": "13051422010",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "22",
+        "WARD_NAME": "WARD 22",
+        "LATITUDE": -5.023647,
+        "LONGITUDE": 145.794739,
+        "REGHH": 24,
+        "TOTPOP2000": 163,
+        "MALE2000": 82,
+        "FEMALE2000": 81,
+        "POP2008": 202,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051422010,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9122,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.80242100022906,
+          -5.060925999934909
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9122,
+        "CU_NAME": "VIDAR PLANTATION",
+        "CU_NO": "402",
+        "GEOCODE": "13051422402",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "22",
+        "WARD_NAME": "WARD 22",
+        "LATITUDE": -5.062327,
+        "LONGITUDE": 145.801384,
+        "REGHH": 41,
+        "TOTPOP2000": 240,
+        "MALE2000": 136,
+        "FEMALE2000": 104,
+        "POP2008": 297,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051422402,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

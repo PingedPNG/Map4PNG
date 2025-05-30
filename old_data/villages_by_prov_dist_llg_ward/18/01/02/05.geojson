@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4467,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.89115099981882,
+          -4.462856000204226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4467,
+        "CU_NAME": "MALASAET",
+        "CU_NO": "015",
+        "GEOCODE": "18010205015",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "MALASAET",
+        "LATITUDE": -4.464258,
+        "LONGITUDE": 151.890201,
+        "REGHH": 82,
+        "TOTPOP2000": 502,
+        "MALE2000": 272,
+        "FEMALE2000": 230,
+        "POP2008": 613,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010205015,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4468,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.94873599966672,
+          -4.42186500026952
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4468,
+        "CU_NAME": "KASASKA",
+        "CU_NO": "016",
+        "GEOCODE": "18010205016",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "MALASAET",
+        "LATITUDE": -4.423267,
+        "LONGITUDE": 151.947787,
+        "REGHH": 34,
+        "TOTPOP2000": 185,
+        "MALE2000": 97,
+        "FEMALE2000": 88,
+        "POP2008": 225,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010205016,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

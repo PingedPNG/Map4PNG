@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18973,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3131149996576,
+          -3.838973999950099
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18973,
+        "CU_NAME": "ANAUK (HOGRU NO 2)",
+        "CU_NO": "002",
+        "GEOCODE": "15041403002",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "03",
+        "WARD_NAME": "HOGRU",
+        "LATITUDE": -3.840355,
+        "LONGITUDE": 141.312024,
+        "REGHH": 18,
+        "TOTPOP2000": 123,
+        "MALE2000": 65,
+        "FEMALE2000": 58,
+        "POP2008": 147,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041403002,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18974,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.31020999969178,
+          -3.842220000352711
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18974,
+        "CU_NAME": "HOGRU (YASISIE)",
+        "CU_NO": "006",
+        "GEOCODE": "15041403006",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "03",
+        "WARD_NAME": "HOGRU",
+        "LATITUDE": -3.843601,
+        "LONGITUDE": 141.309119,
+        "REGHH": 33,
+        "TOTPOP2000": 206,
+        "MALE2000": 108,
+        "FEMALE2000": 98,
+        "POP2008": 249,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041403006,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

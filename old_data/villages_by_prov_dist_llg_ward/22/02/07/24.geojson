@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16984,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.83837099992172,
+          -5.712302000037198
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16984,
+        "CU_NAME": "GAKIP",
+        "CU_NO": "024",
+        "GEOCODE": "09040724024",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "24",
+        "WARD_NAME": "GAKIP",
+        "LATITUDE": -5.713245,
+        "LONGITUDE": 144.840577,
+        "REGHH": 30,
+        "TOTPOP2000": 146,
+        "MALE2000": 77,
+        "FEMALE2000": 69,
+        "POP2008": 178,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040724024,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16985,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8387009998513,
+          -5.706230999760805
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16985,
+        "CU_NAME": "KUI",
+        "CU_NO": "025",
+        "GEOCODE": "09040724025",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "24",
+        "WARD_NAME": "GAKIP",
+        "LATITUDE": -5.707167,
+        "LONGITUDE": 144.839042,
+        "REGHH": 31,
+        "TOTPOP2000": 130,
+        "MALE2000": 67,
+        "FEMALE2000": 63,
+        "POP2008": 158,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040724025,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16986,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84209900006886,
+          -5.712626999736187
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16986,
+        "CU_NAME": "WOLUKANE",
+        "CU_NO": "026",
+        "GEOCODE": "09040724026",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "24",
+        "WARD_NAME": "GAKIP",
+        "LATITUDE": -5.713245,
+        "LONGITUDE": 144.840577,
+        "REGHH": 44,
+        "TOTPOP2000": 192,
+        "MALE2000": 100,
+        "FEMALE2000": 92,
+        "POP2008": 234,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040724026,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

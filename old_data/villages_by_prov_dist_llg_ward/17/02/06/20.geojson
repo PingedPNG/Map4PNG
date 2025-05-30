@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12818,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.65077800000472,
+          -3.219692999632173
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12818,
+        "CU_NAME": "KONTU",
+        "CU_NO": "012",
+        "GEOCODE": "17020620012",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "20",
+        "WARD_NAME": "LAMAU",
+        "LATITUDE": -3.213345,
+        "LONGITUDE": 151.65022,
+        "REGHH": 53,
+        "TOTPOP2000": 316,
+        "MALE2000": 164,
+        "FEMALE2000": 152,
+        "POP2008": 397,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020620012,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12819,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6185060001518,
+          -3.1766789999358593
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12819,
+        "CU_NAME": "LAMAU",
+        "CU_NO": "014",
+        "GEOCODE": "17020620014",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "20",
+        "WARD_NAME": "LAMAU",
+        "LATITUDE": -3.179419,
+        "LONGITUDE": 151.62292,
+        "REGHH": 43,
+        "TOTPOP2000": 247,
+        "MALE2000": 116,
+        "FEMALE2000": 131,
+        "POP2008": 310,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020620014,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12820,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.63912300032632,
+          -3.1959609997003326
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12820,
+        "CU_NAME": "TEMBIN",
+        "CU_NO": "021",
+        "GEOCODE": "17020620021",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "20",
+        "WARD_NAME": "LAMAU",
+        "LATITUDE": -3.201604,
+        "LONGITUDE": 151.642011,
+        "REGHH": 41,
+        "TOTPOP2000": 226,
+        "MALE2000": 116,
+        "FEMALE2000": 110,
+        "POP2008": 285,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020620021,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

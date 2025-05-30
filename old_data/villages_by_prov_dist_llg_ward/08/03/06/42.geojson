@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5622,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.52826399958394,
+          -5.407496000240144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5622,
+        "CU_NAME": "YOMONDI",
+        "CU_NO": "009",
+        "GEOCODE": "08030642009",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "42",
+        "WARD_NAME": "YOMONDI",
+        "LATITUDE": -5.408897,
+        "LONGITUDE": 143.527197,
+        "REGHH": 115,
+        "TOTPOP2000": 703,
+        "MALE2000": 381,
+        "FEMALE2000": 322,
+        "POP2008": 884,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030642009,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

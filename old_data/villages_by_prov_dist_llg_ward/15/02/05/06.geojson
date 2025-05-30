@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5101669998072,
+          -3.6984490001212293
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18498,
+        "CU_NAME": "WILWIL",
+        "CU_NO": "010",
+        "GEOCODE": "15020506010",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "06",
+        "WARD_NAME": "WILWIL",
+        "LATITUDE": -3.694717,
+        "LONGITUDE": 142.505848,
+        "REGHH": 213,
+        "TOTPOP2000": 1014,
+        "MALE2000": 502,
+        "FEMALE2000": 512,
+        "POP2008": 1226,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020506010,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

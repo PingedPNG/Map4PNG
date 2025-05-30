@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8465,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.82795699991573,
+          -4.892476000167221
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8465,
+        "CU_NAME": "AKURUKAI",
+        "CU_NO": "003",
+        "GEOCODE": "13030721003",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "21",
+        "WARD_NAME": "WARD 21",
+        "LATITUDE": -4.885733,
+        "LONGITUDE": 144.830998,
+        "REGHH": 22,
+        "TOTPOP2000": 116,
+        "MALE2000": 55,
+        "FEMALE2000": 61,
+        "POP2008": 143,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030721003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8466,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.77472700035082,
+          -4.854490000313206
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8466,
+        "CU_NAME": "ANDAMANG",
+        "CU_NO": "049",
+        "GEOCODE": "13030721049",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "21",
+        "WARD_NAME": "WARD 21",
+        "LATITUDE": -4.855887,
+        "LONGITUDE": 144.773677,
+        "REGHH": 21,
+        "TOTPOP2000": 130,
+        "MALE2000": 70,
+        "FEMALE2000": 60,
+        "POP2008": 162,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030721049,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

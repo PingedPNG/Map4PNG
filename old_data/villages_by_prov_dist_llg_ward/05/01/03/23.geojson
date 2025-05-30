@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9670,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.88526799961858,
+          -10.128731999781905
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9670,
+        "CU_NAME": "DANOBU",
+        "CU_NO": "006",
+        "GEOCODE": "05010323006",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "DANOBU",
+        "LATITUDE": -10.130197,
+        "LONGITUDE": 149.884276,
+        "REGHH": 57,
+        "TOTPOP2000": 277,
+        "MALE2000": 144,
+        "FEMALE2000": 133,
+        "POP2008": 337,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010323006,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

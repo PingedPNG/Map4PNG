@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21006,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.53804500007675,
+          -6.0736849999627225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21006,
+        "CU_NAME": "PRENZ",
+        "CU_NO": "001",
+        "GEOCODE": "07061908001",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "08",
+        "WARD_NAME": "MAIP 1",
+        "LATITUDE": -6.078593,
+        "LONGITUDE": 143.537335,
+        "REGHH": 60,
+        "TOTPOP2000": 446,
+        "MALE2000": 218,
+        "FEMALE2000": 228,
+        "POP2008": 620,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061908001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.53887799981987,
+          -6.075169000049243
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21007,
+        "CU_NAME": "TOMDA",
+        "CU_NO": "002",
+        "GEOCODE": "07061908002",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "08",
+        "WARD_NAME": "MAIP 1",
+        "LATITUDE": -6.078596,
+        "LONGITUDE": 143.537338,
+        "REGHH": 62,
+        "TOTPOP2000": 544,
+        "MALE2000": 280,
+        "FEMALE2000": 264,
+        "POP2008": 756,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061908002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.53740000001005,
+          -6.07600099974627
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21008,
+        "CU_NAME": "MILA",
+        "CU_NO": "003",
+        "GEOCODE": "07061908003",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "08",
+        "WARD_NAME": "MAIP 1",
+        "LATITUDE": -6.078596,
+        "LONGITUDE": 143.537338,
+        "REGHH": 62,
+        "TOTPOP2000": 451,
+        "MALE2000": 217,
+        "FEMALE2000": 234,
+        "POP2008": 626,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061908003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21009,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.53541900038658,
+          -6.074690000443127
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21009,
+        "CU_NAME": "MAIP",
+        "CU_NO": "004",
+        "GEOCODE": "07061908004",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "08",
+        "WARD_NAME": "MAIP 1",
+        "LATITUDE": -6.078596,
+        "LONGITUDE": 143.537338,
+        "REGHH": 61,
+        "TOTPOP2000": 465,
+        "MALE2000": 252,
+        "FEMALE2000": 213,
+        "POP2008": 646,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061908004,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

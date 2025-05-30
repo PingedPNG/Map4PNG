@@ -1,0 +1,549 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17251,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6226359995518,
+          -5.803469999940489
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17251,
+        "CU_NAME": "KAKINJEP",
+        "CU_NO": "024",
+        "GEOCODE": "09061106024",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAKINJEP",
+        "LATITUDE": -5.804408,
+        "LONGITUDE": 144.622974,
+        "REGHH": 77,
+        "TOTPOP2000": 302,
+        "MALE2000": 147,
+        "FEMALE2000": 155,
+        "POP2008": 369,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061106024,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.62505300039572,
+          -5.801463000017407
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17252,
+        "CU_NAME": "KISIKWANA",
+        "CU_NO": "025",
+        "GEOCODE": "09061106025",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAKINJEP",
+        "LATITUDE": -5.802401,
+        "LONGITUDE": 144.625391,
+        "REGHH": 37,
+        "TOTPOP2000": 173,
+        "MALE2000": 82,
+        "FEMALE2000": 91,
+        "POP2008": 211,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061106025,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17253,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.56075100015858,
+          -5.744132000191598
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17253,
+        "CU_NAME": "ANGNIMP",
+        "CU_NO": "026",
+        "GEOCODE": "09061106026",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAKINJEP",
+        "LATITUDE": -5.745069,
+        "LONGITUDE": 144.561088,
+        "REGHH": 66,
+        "TOTPOP2000": 292,
+        "MALE2000": 146,
+        "FEMALE2000": 146,
+        "POP2008": 355,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061106026,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17254,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.61648700017497,
+          -5.7945240001824345
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17254,
+        "CU_NAME": "JUBOKO",
+        "CU_NO": "027",
+        "GEOCODE": "09061106027",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAKINJEP",
+        "LATITUDE": -5.795462,
+        "LONGITUDE": 144.616825,
+        "REGHH": 22,
+        "TOTPOP2000": 127,
+        "MALE2000": 62,
+        "FEMALE2000": 65,
+        "POP2008": 154,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061106027,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17255,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.61819199966112,
+          -5.798489999613764
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17255,
+        "CU_NAME": "BLOCK WAN",
+        "CU_NO": "028",
+        "GEOCODE": "09061106028",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAKINJEP",
+        "LATITUDE": -5.799428,
+        "LONGITUDE": 144.61853,
+        "REGHH": 63,
+        "TOTPOP2000": 269,
+        "MALE2000": 141,
+        "FEMALE2000": 128,
+        "POP2008": 328,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061106028,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17256,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6081220002302,
+          -5.792495000144072
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17256,
+        "CU_NAME": "DALTAPIA",
+        "CU_NO": "029",
+        "GEOCODE": "09061106029",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAKINJEP",
+        "LATITUDE": -5.793433,
+        "LONGITUDE": 144.60846,
+        "REGHH": 25,
+        "TOTPOP2000": 134,
+        "MALE2000": 70,
+        "FEMALE2000": 64,
+        "POP2008": 164,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061106029,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17257,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.62039599967568,
+          -5.782930999765767
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17257,
+        "CU_NAME": "DALWA",
+        "CU_NO": "030",
+        "GEOCODE": "09061106030",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAKINJEP",
+        "LATITUDE": -5.783867,
+        "LONGITUDE": 144.620734,
+        "REGHH": 36,
+        "TOTPOP2000": 192,
+        "MALE2000": 94,
+        "FEMALE2000": 98,
+        "POP2008": 234,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061106030,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.61693600019635,
+          -5.7853210002638775
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17258,
+        "CU_NAME": "BAMING POLONG",
+        "CU_NO": "031",
+        "GEOCODE": "09061106031",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAKINJEP",
+        "LATITUDE": -5.786259,
+        "LONGITUDE": 144.617274,
+        "REGHH": 20,
+        "TOTPOP2000": 104,
+        "MALE2000": 51,
+        "FEMALE2000": 53,
+        "POP2008": 128,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061106031,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.61881300041966,
+          -5.7882969999065494
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17259,
+        "CU_NAME": "BAND",
+        "CU_NO": "032",
+        "GEOCODE": "09061106032",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAKINJEP",
+        "LATITUDE": -5.789235,
+        "LONGITUDE": 144.619151,
+        "REGHH": 41,
+        "TOTPOP2000": 195,
+        "MALE2000": 102,
+        "FEMALE2000": 93,
+        "POP2008": 237,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061106032,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6054399997563,
+          -5.789230999810741
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17260,
+        "CU_NAME": "WANA",
+        "CU_NO": "033",
+        "GEOCODE": "09061106033",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAKINJEP",
+        "LATITUDE": -5.790169,
+        "LONGITUDE": 144.605778,
+        "REGHH": 42,
+        "TOTPOP2000": 196,
+        "MALE2000": 102,
+        "FEMALE2000": 94,
+        "POP2008": 239,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061106033,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.61465300013595,
+          -5.809466000355599
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17261,
+        "CU_NAME": "WAGHI VALLEY KUMUKA",
+        "CU_NO": "034",
+        "GEOCODE": "09061106034",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAKINJEP",
+        "LATITUDE": -5.810404,
+        "LONGITUDE": 144.614991,
+        "REGHH": 42,
+        "TOTPOP2000": 245,
+        "MALE2000": 121,
+        "FEMALE2000": 124,
+        "POP2008": 298,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061106034,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.62233199992193,
+          -5.809466000355599
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17262,
+        "CU_NAME": "BLOCK TWO",
+        "CU_NO": "035",
+        "GEOCODE": "09061106035",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAKINJEP",
+        "LATITUDE": -5.810404,
+        "LONGITUDE": 144.62267,
+        "REGHH": 59,
+        "TOTPOP2000": 342,
+        "MALE2000": 174,
+        "FEMALE2000": 168,
+        "POP2008": 417,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061106035,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6283729997142,
+          -5.7835709996019204
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17263,
+        "CU_NAME": "OLMANTS",
+        "CU_NO": "036",
+        "GEOCODE": "09061106036",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAKINJEP",
+        "LATITUDE": -5.784509,
+        "LONGITUDE": 144.628711,
+        "REGHH": 18,
+        "TOTPOP2000": 78,
+        "MALE2000": 40,
+        "FEMALE2000": 38,
+        "POP2008": 94,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061106036,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17264,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.617358999918,
+          -5.792326000444518
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17264,
+        "CU_NAME": "KILIP KAIPELA",
+        "CU_NO": "037",
+        "GEOCODE": "09061106037",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAKINJEP",
+        "LATITUDE": -5.793264,
+        "LONGITUDE": 144.617697,
+        "REGHH": 32,
+        "TOTPOP2000": 185,
+        "MALE2000": 94,
+        "FEMALE2000": 91,
+        "POP2008": 225,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061106037,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5836799999321,
+          -5.785615000331973
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17265,
+        "CU_NAME": "WAGHI MEK PLNT",
+        "CU_NO": "401",
+        "GEOCODE": "09061106401",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAKINJEP",
+        "LATITUDE": -5.786551,
+        "LONGITUDE": 144.584019,
+        "REGHH": 17,
+        "TOTPOP2000": 103,
+        "MALE2000": 64,
+        "FEMALE2000": 39,
+        "POP2008": 127,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061106401,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.62165600022433,
+          -5.798082999730582
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17266,
+        "CU_NAME": "KOPOR PLNT",
+        "CU_NO": "402",
+        "GEOCODE": "09061106402",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAKINJEP",
+        "LATITUDE": -5.799021,
+        "LONGITUDE": 144.621994,
+        "REGHH": 10,
+        "TOTPOP2000": 60,
+        "MALE2000": 34,
+        "FEMALE2000": 26,
+        "POP2008": 75,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061106402,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6070490002113,
+          -5.809114000310842
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17267,
+        "CU_NAME": "ABA PLNT",
+        "CU_NO": "403",
+        "GEOCODE": "09061106403",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAKINJEP",
+        "LATITUDE": -5.810052,
+        "LONGITUDE": 144.607388,
+        "REGHH": 23,
+        "TOTPOP2000": 99,
+        "MALE2000": 54,
+        "FEMALE2000": 45,
+        "POP2008": 122,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061106403,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

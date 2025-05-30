@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13325,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.74759500020912,
+          -9.616115999953365
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13325,
+        "CU_NAME": "OBEA",
+        "CU_NO": "013",
+        "GEOCODE": "06010324013",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "24",
+        "WARD_NAME": "OBEA",
+        "LATITUDE": -9.614317,
+        "LONGITUDE": 148.752421,
+        "REGHH": 29,
+        "TOTPOP2000": 203,
+        "MALE2000": 113,
+        "FEMALE2000": 90,
+        "POP2008": 251,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010324013,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13326,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.77111100007266,
+          -9.670820000042909
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13326,
+        "CU_NAME": "SILIDIDI",
+        "CU_NO": "016",
+        "GEOCODE": "06010324016",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "24",
+        "WARD_NAME": "OBEA",
+        "LATITUDE": -9.67885,
+        "LONGITUDE": 148.776283,
+        "REGHH": 9,
+        "TOTPOP2000": 66,
+        "MALE2000": 30,
+        "FEMALE2000": 36,
+        "POP2008": 82,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010324016,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13327,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.77830399992968,
+          -9.61566499983985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13327,
+        "CU_NAME": "UBO",
+        "CU_NO": "045",
+        "GEOCODE": "06010324045",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "24",
+        "WARD_NAME": "OBEA",
+        "LATITUDE": -9.617121,
+        "LONGITUDE": 148.777297,
+        "REGHH": 8,
+        "TOTPOP2000": 70,
+        "MALE2000": 39,
+        "FEMALE2000": 31,
+        "POP2008": 86,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010324045,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13328,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.74480200001233,
+          -9.595104000449226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13328,
+        "CU_NAME": "ABAUBI",
+        "CU_NO": "047",
+        "GEOCODE": "06010324047",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "24",
+        "WARD_NAME": "OBEA",
+        "LATITUDE": -9.59656,
+        "LONGITUDE": 148.743795,
+        "REGHH": 7,
+        "TOTPOP2000": 36,
+        "MALE2000": 24,
+        "FEMALE2000": 12,
+        "POP2008": 44,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010324047,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5509,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.79057600028227,
+          -5.28867899963609
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5509,
+        "CU_NAME": "PULIPAIS",
+        "CU_NO": "001",
+        "GEOCODE": "08020430001",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "30",
+        "WARD_NAME": "PULIPAIS",
+        "LATITUDE": -5.288149,
+        "LONGITUDE": 143.786813,
+        "REGHH": 67,
+        "TOTPOP2000": 355,
+        "MALE2000": 184,
+        "FEMALE2000": 171,
+        "POP2008": 447,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020430001,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

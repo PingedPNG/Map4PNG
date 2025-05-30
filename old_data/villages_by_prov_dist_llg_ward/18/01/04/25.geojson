@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4591,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.09361199959415,
+          -4.265003999834676
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4591,
+        "CU_NAME": "KIKITABU",
+        "CU_NO": "008",
+        "GEOCODE": "18010425008",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "25",
+        "WARD_NAME": "KIKITABU",
+        "LATITUDE": -4.266404,
+        "LONGITUDE": 152.092665,
+        "REGHH": 131,
+        "TOTPOP2000": 668,
+        "MALE2000": 350,
+        "FEMALE2000": 318,
+        "POP2008": 814,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010425008,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

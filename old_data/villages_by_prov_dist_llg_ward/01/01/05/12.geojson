@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.40100708031252,
+          -6.361668000078112
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15236,
+        "CU_NAME": "Foloboli",
+        "CU_NO": "012",
+        "GEOCODE": "01010512012",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "12",
+        "WARD_NAME": "HAFEMI",
+        "LATITUDE": -6.333696,
+        "LONGITUDE": 142.362242,
+        "REGHH": 19,
+        "TOTPOP2000": 104,
+        "MALE2000": 51,
+        "FEMALE2000": 53,
+        "POP2008": 135,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010512012,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15237,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.38158899963264,
+          -6.348476999713739
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15237,
+        "CU_NAME": "SOYA",
+        "CU_NO": "027",
+        "GEOCODE": "01010512027",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "12",
+        "WARD_NAME": "HAFEMI",
+        "LATITUDE": -6.349885,
+        "LONGITUDE": 142.380506,
+        "REGHH": 17,
+        "TOTPOP2000": 85,
+        "MALE2000": 49,
+        "FEMALE2000": 36,
+        "POP2008": 109,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010512027,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

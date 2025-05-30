@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9581,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.39734600001793,
+          -9.693879999562284
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9581,
+        "CU_NAME": "WAPON",
+        "CU_NO": "025",
+        "GEOCODE": "05010121025",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "WAPON",
+        "LATITUDE": -9.697462,
+        "LONGITUDE": 149.39343,
+        "REGHH": 33,
+        "TOTPOP2000": 197,
+        "MALE2000": 93,
+        "FEMALE2000": 104,
+        "POP2008": 240,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010121025,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

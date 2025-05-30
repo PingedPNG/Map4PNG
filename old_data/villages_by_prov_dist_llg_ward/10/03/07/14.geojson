@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14238,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.69480200001237,
+          -6.5752710001564765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14238,
+        "CU_NAME": "TUA",
+        "CU_NO": "002",
+        "GEOCODE": "10030714002",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "TUA 1",
+        "LATITUDE": -6.576686,
+        "LONGITUDE": 144.693747,
+        "REGHH": 45,
+        "TOTPOP2000": 273,
+        "MALE2000": 147,
+        "FEMALE2000": 126,
+        "POP2008": 314,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030714002,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

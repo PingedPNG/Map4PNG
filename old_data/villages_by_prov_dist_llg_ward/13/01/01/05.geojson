@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7847,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.09745800028657,
+          -4.381606999963026
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7847,
+        "CU_NAME": "SUARU",
+        "CU_NO": "023",
+        "GEOCODE": "13010105023",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "SUARU",
+        "LATITUDE": -4.382353,
+        "LONGITUDE": 145.097275,
+        "REGHH": 57,
+        "TOTPOP2000": 322,
+        "MALE2000": 171,
+        "FEMALE2000": 151,
+        "POP2008": 398,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010105023,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7848,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1712229998417,
+          -4.402266000275631
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7848,
+        "CU_NAME": "SURUGARAM",
+        "CU_NO": "024",
+        "GEOCODE": "13010105024",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "SUARU",
+        "LATITUDE": -4.403658,
+        "LONGITUDE": 145.170178,
+        "REGHH": 41,
+        "TOTPOP2000": 298,
+        "MALE2000": 163,
+        "FEMALE2000": 135,
+        "POP2008": 368,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010105024,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

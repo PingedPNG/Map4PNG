@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5427,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60722500043346,
+          -5.378067000191834
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5427,
+        "CU_NAME": "LEP",
+        "CU_NO": "002",
+        "GEOCODE": "08020320002",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "KANOMARES",
+        "LATITUDE": -5.380458,
+        "LONGITUDE": 143.609677,
+        "REGHH": 31,
+        "TOTPOP2000": 165,
+        "MALE2000": 76,
+        "FEMALE2000": 89,
+        "POP2008": 208,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020320002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5428,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.61136399974885,
+          -5.384723999612845
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5428,
+        "CU_NAME": "KOMBAMATES",
+        "CU_NO": "003",
+        "GEOCODE": "08020320003",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "KANOMARES",
+        "LATITUDE": -5.384113,
+        "LONGITUDE": 143.610289,
+        "REGHH": 20,
+        "TOTPOP2000": 83,
+        "MALE2000": 46,
+        "FEMALE2000": 37,
+        "POP2008": 105,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020320003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5429,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.61484600024278,
+          -5.382442999644695
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5429,
+        "CU_NAME": "KUPALA",
+        "CU_NO": "004",
+        "GEOCODE": "08020320004",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "KANOMARES",
+        "LATITUDE": -5.383845,
+        "LONGITUDE": 143.61378,
+        "REGHH": 22,
+        "TOTPOP2000": 127,
+        "MALE2000": 68,
+        "FEMALE2000": 59,
+        "POP2008": 159,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020320004,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

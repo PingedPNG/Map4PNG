@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.48545600029422,
+          -8.966833000142799
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13002,
+        "CU_NAME": "BOROU",
+        "CU_NO": "010",
+        "GEOCODE": "06010106010",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "WAIWA",
+        "LATITUDE": -8.968282,
+        "LONGITUDE": 148.484447,
+        "REGHH": 26,
+        "TOTPOP2000": 152,
+        "MALE2000": 76,
+        "FEMALE2000": 76,
+        "POP2008": 188,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010106010,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.51248000005205,
+          -8.950164000368261
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13003,
+        "CU_NAME": "WAIWA",
+        "CU_NO": "044",
+        "GEOCODE": "06010106044",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "WAIWA",
+        "LATITUDE": -8.951584,
+        "LONGITUDE": 148.518459,
+        "REGHH": 34,
+        "TOTPOP2000": 222,
+        "MALE2000": 114,
+        "FEMALE2000": 108,
+        "POP2008": 274,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010106044,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5047899997587,
+          -8.981182999995383
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13004,
+        "CU_NAME": "NGEMENO",
+        "CU_NO": "050",
+        "GEOCODE": "06010106050",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "WAIWA",
+        "LATITUDE": -8.982632,
+        "LONGITUDE": 148.503781,
+        "REGHH": 5,
+        "TOTPOP2000": 34,
+        "MALE2000": 19,
+        "FEMALE2000": 15,
+        "POP2008": 42,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010106050,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13005,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.45733200017173,
+          -8.95124199971849
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13005,
+        "CU_NAME": "PARAMA",
+        "CU_NO": "051",
+        "GEOCODE": "06010106051",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "WAIWA",
+        "LATITUDE": -8.95269,
+        "LONGITUDE": 148.456321,
+        "REGHH": 32,
+        "TOTPOP2000": 153,
+        "MALE2000": 84,
+        "FEMALE2000": 69,
+        "POP2008": 189,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010106051,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13006,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.45002599960026,
+          -8.9404609998752
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13006,
+        "CU_NAME": "BERAMBORO",
+        "CU_NO": "052",
+        "GEOCODE": "06010106052",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "WAIWA",
+        "LATITUDE": -8.93962,
+        "LONGITUDE": 148.475069,
+        "REGHH": 13,
+        "TOTPOP2000": 51,
+        "MALE2000": 30,
+        "FEMALE2000": 21,
+        "POP2008": 62,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010106052,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

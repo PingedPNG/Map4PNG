@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14558,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7997660003008,
+          -5.967377999794792
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14558,
+        "CU_NAME": "KUP",
+        "CU_NO": "002",
+        "GEOCODE": "10041201002",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "KUMGA",
+        "LATITUDE": -5.968787,
+        "LONGITUDE": 144.798714,
+        "REGHH": 47,
+        "TOTPOP2000": 264,
+        "MALE2000": 133,
+        "FEMALE2000": 131,
+        "POP2008": 304,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041201002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14559,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.80780000026982,
+          -5.960161999776403
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14559,
+        "CU_NAME": "TEMBUKA",
+        "CU_NO": "003",
+        "GEOCODE": "10041201003",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "KUMGA",
+        "LATITUDE": -5.961571,
+        "LONGITUDE": 144.806748,
+        "REGHH": 36,
+        "TOTPOP2000": 195,
+        "MALE2000": 102,
+        "FEMALE2000": 93,
+        "POP2008": 227,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041201003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14560,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.81479399994316,
+          -5.947187000379699
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14560,
+        "CU_NAME": "WHAGI BRIDGE",
+        "CU_NO": "004",
+        "GEOCODE": "10041201004",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "KUMGA",
+        "LATITUDE": -5.948596,
+        "LONGITUDE": 144.813742,
+        "REGHH": 120,
+        "TOTPOP2000": 733,
+        "MALE2000": 373,
+        "FEMALE2000": 360,
+        "POP2008": 845,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041201004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14561,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.79924299956485,
+          -5.972038999799963
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14561,
+        "CU_NAME": "DONDUA",
+        "CU_NO": "005",
+        "GEOCODE": "10041201005",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "KUMGA",
+        "LATITUDE": -5.973448,
+        "LONGITUDE": 144.798191,
+        "REGHH": 37,
+        "TOTPOP2000": 165,
+        "MALE2000": 86,
+        "FEMALE2000": 79,
+        "POP2008": 189,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041201005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14562,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.80499699961194,
+          -5.965383000425106
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14562,
+        "CU_NAME": "KUP STN.",
+        "CU_NO": "401",
+        "GEOCODE": "10041201401",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "KUMGA",
+        "LATITUDE": -5.966792,
+        "LONGITUDE": 144.803945,
+        "REGHH": 2,
+        "TOTPOP2000": 14,
+        "MALE2000": 8,
+        "FEMALE2000": 6,
+        "POP2008": 14,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041201401,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14563,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.80836500024463,
+          -5.964805999896953
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14563,
+        "CU_NAME": "KUP C/SCH",
+        "CU_NO": "402",
+        "GEOCODE": "10041201402",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "KUMGA",
+        "LATITUDE": -5.966215,
+        "LONGITUDE": 144.807313,
+        "REGHH": 2,
+        "TOTPOP2000": 10,
+        "MALE2000": 3,
+        "FEMALE2000": 7,
+        "POP2008": 10,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041201402,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

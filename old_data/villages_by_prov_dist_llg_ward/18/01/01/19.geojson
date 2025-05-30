@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4459,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.12445400005208,
+          -4.305929000323033
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4459,
+        "CU_NAME": "TINGANAGALIP",
+        "CU_NO": "008",
+        "GEOCODE": "18010119008",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "19",
+        "WARD_NAME": "TINGANAGALIP",
+        "LATITUDE": -4.307329,
+        "LONGITUDE": 152.123507,
+        "REGHH": 226,
+        "TOTPOP2000": 1105,
+        "MALE2000": 580,
+        "FEMALE2000": 525,
+        "POP2008": 1347,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010119008,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

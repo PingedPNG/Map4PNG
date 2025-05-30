@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6478839997469,
+          -7.277549000385989
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10498,
+        "CU_NAME": "EKOPA",
+        "CU_NO": "001",
+        "GEOCODE": "12010309001",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "EKOPA",
+        "LATITUDE": -7.278975,
+        "LONGITUDE": 146.646854,
+        "REGHH": 32,
+        "TOTPOP2000": 222,
+        "MALE2000": 116,
+        "FEMALE2000": 106,
+        "POP2008": 277,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010309001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10499,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.66231199959918,
+          -7.28285400041176
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10499,
+        "CU_NAME": "NENEWI",
+        "CU_NO": "002",
+        "GEOCODE": "12010309002",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "EKOPA",
+        "LATITUDE": -7.28428,
+        "LONGITUDE": 146.661282,
+        "REGHH": 64,
+        "TOTPOP2000": 465,
+        "MALE2000": 249,
+        "FEMALE2000": 216,
+        "POP2008": 580,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010309002,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18492,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.48140900012527,
+          -3.6833289998334067
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18492,
+        "CU_NAME": "NUKU",
+        "CU_NO": "008",
+        "GEOCODE": "15020502008",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "02",
+        "WARD_NAME": "NUKU",
+        "LATITUDE": -3.68471,
+        "LONGITUDE": 142.480332,
+        "REGHH": 152,
+        "TOTPOP2000": 717,
+        "MALE2000": 366,
+        "FEMALE2000": 351,
+        "POP2008": 866,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020502008,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18493,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.47981600040816,
+          -3.6671579996419155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18493,
+        "CU_NAME": "NUKU STATION",
+        "CU_NO": "501",
+        "GEOCODE": "15020502501",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "02",
+        "WARD_NAME": "NUKU",
+        "LATITUDE": -3.674233,
+        "LONGITUDE": 142.482153,
+        "REGHH": 39,
+        "TOTPOP2000": 238,
+        "MALE2000": 124,
+        "FEMALE2000": 114,
+        "POP2008": 288,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020502501,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

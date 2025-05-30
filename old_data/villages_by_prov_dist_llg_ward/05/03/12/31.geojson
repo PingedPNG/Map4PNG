@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10172,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.97463299981314,
+          -8.525918000015622
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10172,
+        "CU_NAME": "GIVA",
+        "CU_NO": "002",
+        "GEOCODE": "05031231002",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "31",
+        "WARD_NAME": "KOMA",
+        "LATITUDE": -8.527368,
+        "LONGITUDE": 150.973661,
+        "REGHH": 49,
+        "TOTPOP2000": 220,
+        "MALE2000": 119,
+        "FEMALE2000": 101,
+        "POP2008": 268,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031231002,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10173,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9714579999868,
+          -8.502018999577103
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10173,
+        "CU_NAME": "KOMA",
+        "CU_NO": "005",
+        "GEOCODE": "05031231005",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "31",
+        "WARD_NAME": "KOMA",
+        "LATITUDE": -8.503469,
+        "LONGITUDE": 150.970486,
+        "REGHH": 57,
+        "TOTPOP2000": 282,
+        "MALE2000": 146,
+        "FEMALE2000": 136,
+        "POP2008": 343,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031231005,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.94888000021194,
+          -8.56496999956579
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10174,
+        "CU_NAME": "KAISIGA",
+        "CU_NO": "009",
+        "GEOCODE": "05031231009",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "31",
+        "WARD_NAME": "KOMA",
+        "LATITUDE": -8.566421,
+        "LONGITUDE": 150.947908,
+        "REGHH": 80,
+        "TOTPOP2000": 409,
+        "MALE2000": 212,
+        "FEMALE2000": 197,
+        "POP2008": 498,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031231009,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

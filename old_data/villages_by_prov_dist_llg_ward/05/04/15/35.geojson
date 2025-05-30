@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10282,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.02285710577087,
+          -9.661959309974122
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10282,
+        "CU_NAME": "SANAROA",
+        "CU_NO": "001",
+        "GEOCODE": "05041535001",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "35",
+        "WARD_NAME": "SANAROA",
+        "LATITUDE": -9.661455,
+        "LONGITUDE": 151.022068,
+        "REGHH": 74,
+        "TOTPOP2000": 418,
+        "MALE2000": 218,
+        "FEMALE2000": 200,
+        "POP2008": 509,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041535001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0265683020856,
+          -9.614941725480207
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10283,
+        "CU_NAME": "SIAWAWA",
+        "CU_NO": "002",
+        "GEOCODE": "05041535002",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "35",
+        "WARD_NAME": "SANAROA",
+        "LATITUDE": -9.615651,
+        "LONGITUDE": 151.025204,
+        "REGHH": 50,
+        "TOTPOP2000": 274,
+        "MALE2000": 143,
+        "FEMALE2000": 131,
+        "POP2008": 334,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041535002,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9529679998734,
+          -9.45413299983801
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10284,
+        "CU_NAME": "TEWALA",
+        "CU_NO": "004",
+        "GEOCODE": "05041535004",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "35",
+        "WARD_NAME": "SANAROA",
+        "LATITUDE": -9.453354,
+        "LONGITUDE": 150.952448,
+        "REGHH": 12,
+        "TOTPOP2000": 57,
+        "MALE2000": 29,
+        "FEMALE2000": 28,
+        "POP2008": 69,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041535004,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

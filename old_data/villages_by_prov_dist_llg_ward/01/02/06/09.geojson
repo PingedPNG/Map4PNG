@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15306,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.47876199966663,
+          -5.924724999658963
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15306,
+        "CU_NAME": "DRIMGAS",
+        "CU_NO": "002",
+        "GEOCODE": "01020609002",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "DRIMGAS",
+        "LATITUDE": -5.932048,
+        "LONGITUDE": 141.468815,
+        "REGHH": 27,
+        "TOTPOP2000": 132,
+        "MALE2000": 66,
+        "FEMALE2000": 66,
+        "POP2008": 170,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020609002,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15307,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.50703600041118,
+          -5.922123000176271
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15307,
+        "CU_NAME": "TUPENSOMNA",
+        "CU_NO": "014",
+        "GEOCODE": "01020609014",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "DRIMGAS",
+        "LATITUDE": -5.923525,
+        "LONGITUDE": 141.505943,
+        "REGHH": 9,
+        "TOTPOP2000": 56,
+        "MALE2000": 24,
+        "FEMALE2000": 32,
+        "POP2008": 72,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020609014,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15308,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.42218200029913,
+          -5.847892999861983
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15308,
+        "CU_NAME": "HUNERINAI",
+        "CU_NO": "015",
+        "GEOCODE": "01020609015",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "DRIMGAS",
+        "LATITUDE": -5.846641,
+        "LONGITUDE": 141.422409,
+        "REGHH": 12,
+        "TOTPOP2000": 67,
+        "MALE2000": 33,
+        "FEMALE2000": 34,
+        "POP2008": 86,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020609015,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.50805599978457,
+          -5.9284549998982925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15309,
+        "CU_NAME": "DUPE",
+        "CU_NO": "016",
+        "GEOCODE": "01020609016",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "DRIMGAS",
+        "LATITUDE": -5.936047,
+        "LONGITUDE": 141.506528,
+        "REGHH": 9,
+        "TOTPOP2000": 39,
+        "MALE2000": 16,
+        "FEMALE2000": 23,
+        "POP2008": 48,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020609016,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

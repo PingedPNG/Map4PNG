@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9547,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.7189569999656,
+          -2.339419000086764
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9547,
+        "CU_NAME": "LENGKAU",
+        "CU_NO": "003",
+        "GEOCODE": "16011208003",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "12",
+        "WARD_NO": "08",
+        "WARD_NAME": "LENKAU",
+        "LATITUDE": -2.341166,
+        "LONGITUDE": 147.716064,
+        "REGHH": 57,
+        "TOTPOP2000": 300,
+        "MALE2000": 168,
+        "FEMALE2000": 132,
+        "POP2008": 368,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16011208003,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21062,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.54588099990826,
+          -6.160241000321832
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21062,
+        "CU_NAME": "MUL",
+        "CU_NO": "001",
+        "GEOCODE": "07061922001",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "22",
+        "WARD_NAME": "MONTA",
+        "LATITUDE": -6.167927,
+        "LONGITUDE": 143.53148,
+        "REGHH": 57,
+        "TOTPOP2000": 258,
+        "MALE2000": 145,
+        "FEMALE2000": 113,
+        "POP2008": 358,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061922001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21063,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.55022899986852,
+          -6.170559000397532
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21063,
+        "CU_NAME": "YUPIPA",
+        "CU_NO": "002",
+        "GEOCODE": "07061922002",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "22",
+        "WARD_NAME": "MONTA",
+        "LATITUDE": -6.167178,
+        "LONGITUDE": 143.532987,
+        "REGHH": 31,
+        "TOTPOP2000": 146,
+        "MALE2000": 81,
+        "FEMALE2000": 65,
+        "POP2008": 203,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061922002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21064,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.52600199959272,
+          -6.148516000113261
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21064,
+        "CU_NAME": "WIP",
+        "CU_NO": "003",
+        "GEOCODE": "07061922003",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "22",
+        "WARD_NAME": "MONTA",
+        "LATITUDE": -6.164931,
+        "LONGITUDE": 143.531229,
+        "REGHH": 70,
+        "TOTPOP2000": 351,
+        "MALE2000": 181,
+        "FEMALE2000": 170,
+        "POP2008": 488,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061922003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21065,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5345429995599,
+          -6.157859000192673
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21065,
+        "CU_NAME": "TOSON",
+        "CU_NO": "004",
+        "GEOCODE": "07061922004",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "22",
+        "WARD_NAME": "MONTA",
+        "LATITUDE": -6.167178,
+        "LONGITUDE": 143.528969,
+        "REGHH": 48,
+        "TOTPOP2000": 285,
+        "MALE2000": 143,
+        "FEMALE2000": 142,
+        "POP2008": 396,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061922004,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20520,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.61564400037037,
+          -5.488160999630395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20520,
+        "CU_NAME": "HEMBE",
+        "CU_NO": "001",
+        "GEOCODE": "07051417001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "17",
+        "WARD_NAME": "HEMBE",
+        "LATITUDE": -5.492475,
+        "LONGITUDE": 142.615669,
+        "REGHH": 54,
+        "TOTPOP2000": 276,
+        "MALE2000": 156,
+        "FEMALE2000": 120,
+        "POP2008": 384,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051417001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20521,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.61691799976597,
+          -5.4895499998326045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20521,
+        "CU_NAME": "PATARA",
+        "CU_NO": "002",
+        "GEOCODE": "07051417002",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "17",
+        "WARD_NAME": "HEMBE",
+        "LATITUDE": -5.492475,
+        "LONGITUDE": 142.615669,
+        "REGHH": 38,
+        "TOTPOP2000": 167,
+        "MALE2000": 84,
+        "FEMALE2000": 83,
+        "POP2008": 232,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051417002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20522,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.61710200015727,
+          -5.488040000345677
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20522,
+        "CU_NAME": "TERUNI/HANA",
+        "CU_NO": "003",
+        "GEOCODE": "07051417003",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "17",
+        "WARD_NAME": "HEMBE",
+        "LATITUDE": -5.492475,
+        "LONGITUDE": 142.615669,
+        "REGHH": 31,
+        "TOTPOP2000": 171,
+        "MALE2000": 84,
+        "FEMALE2000": 87,
+        "POP2008": 237,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051417003,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20523,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6169090002502,
+          -5.486343000329157
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20523,
+        "CU_NAME": "AUNI STATION",
+        "CU_NO": "401",
+        "GEOCODE": "07051417401",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "17",
+        "WARD_NAME": "HEMBE",
+        "LATITUDE": -5.492475,
+        "LONGITUDE": 142.615669,
+        "REGHH": 43,
+        "TOTPOP2000": 270,
+        "MALE2000": 134,
+        "FEMALE2000": 136,
+        "POP2008": 374,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051417401,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

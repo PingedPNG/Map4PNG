@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17624,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1958259996702,
+          -6.031905999662115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17624,
+        "CU_NAME": "ALIMP 1",
+        "CU_NO": "002",
+        "GEOCODE": "09071320002",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "20",
+        "WARD_NAME": "ALIMP 1",
+        "LATITUDE": -6.032846,
+        "LONGITUDE": 144.196159,
+        "REGHH": 206,
+        "TOTPOP2000": 957,
+        "MALE2000": 476,
+        "FEMALE2000": 481,
+        "POP2008": 1166,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071320002,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17625,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1956479995556,
+          -6.0307250000586805
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17625,
+        "CU_NAME": "ALIMP PLANTATION",
+        "CU_NO": "401",
+        "GEOCODE": "09071320401",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "20",
+        "WARD_NAME": "ALIMP 1",
+        "LATITUDE": -6.031665,
+        "LONGITUDE": 144.195981,
+        "REGHH": 83,
+        "TOTPOP2000": 781,
+        "MALE2000": 459,
+        "FEMALE2000": 322,
+        "POP2008": 953,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071320401,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14199,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84525299982613,
+          -6.528586000243649
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14199,
+        "CU_NAME": "WAIYO",
+        "CU_NO": "006",
+        "GEOCODE": "10030703006",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "03",
+        "WARD_NAME": "HUWAIYO",
+        "LATITUDE": -6.530001,
+        "LONGITUDE": 144.844201,
+        "REGHH": 51,
+        "TOTPOP2000": 335,
+        "MALE2000": 167,
+        "FEMALE2000": 168,
+        "POP2008": 386,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030703006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14200,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8529650002347,
+          -6.52418200039898
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14200,
+        "CU_NAME": "WENAIYO",
+        "CU_NO": "007",
+        "GEOCODE": "10030703007",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "03",
+        "WARD_NAME": "HUWAIYO",
+        "LATITUDE": -6.525597,
+        "LONGITUDE": 144.851913,
+        "REGHH": 55,
+        "TOTPOP2000": 375,
+        "MALE2000": 187,
+        "FEMALE2000": 188,
+        "POP2008": 433,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030703007,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

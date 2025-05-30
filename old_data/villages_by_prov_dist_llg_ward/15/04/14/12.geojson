@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18992,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2331229998266,
+          -4.05893299995796
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18992,
+        "CU_NAME": "BISIABRU",
+        "CU_NO": "001",
+        "GEOCODE": "15041412001",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "12",
+        "WARD_NAME": "BISIABRU",
+        "LATITUDE": -4.060316,
+        "LONGITUDE": 141.23203,
+        "REGHH": 27,
+        "TOTPOP2000": 200,
+        "MALE2000": 117,
+        "FEMALE2000": 83,
+        "POP2008": 242,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041412001,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

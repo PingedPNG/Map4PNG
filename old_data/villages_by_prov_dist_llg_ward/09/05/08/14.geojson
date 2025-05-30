@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17006,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.18834900020624,
+          -5.644608999905358
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17006,
+        "CU_NAME": "MABULGA.1",
+        "CU_NO": "027",
+        "GEOCODE": "09050814027",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "14",
+        "WARD_NAME": "MABULGA.1",
+        "LATITUDE": -5.645545,
+        "LONGITUDE": 144.188682,
+        "REGHH": 28,
+        "TOTPOP2000": 116,
+        "MALE2000": 58,
+        "FEMALE2000": 58,
+        "POP2008": 140,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050814027,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.18878599967422,
+          -5.640621000358806
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17007,
+        "CU_NAME": "NENGIL",
+        "CU_NO": "028",
+        "GEOCODE": "09050814028",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "14",
+        "WARD_NAME": "MABULGA.1",
+        "LATITUDE": -5.642633,
+        "LONGITUDE": 144.189114,
+        "REGHH": 172,
+        "TOTPOP2000": 670,
+        "MALE2000": 350,
+        "FEMALE2000": 320,
+        "POP2008": 816,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050814028,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15290,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.2289280004269,
+          -6.283385999963855
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15290,
+        "CU_NAME": "NOMAD STATION",
+        "CU_NO": "501",
+        "GEOCODE": "01010537501",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "37",
+        "WARD_NAME": "NOMAD STATION",
+        "LATITUDE": -6.290684,
+        "LONGITUDE": 142.23672,
+        "REGHH": 28,
+        "TOTPOP2000": 138,
+        "MALE2000": 79,
+        "FEMALE2000": 59,
+        "POP2008": 180,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010537501,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15291,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.2417010004009,
+          -6.276685000312455
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15291,
+        "CU_NAME": "BIAMI CORNER",
+        "CU_NO": "502",
+        "GEOCODE": "01010537502",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "37",
+        "WARD_NAME": "NOMAD STATION",
+        "LATITUDE": -6.291402,
+        "LONGITUDE": 142.237693,
+        "REGHH": 32,
+        "TOTPOP2000": 152,
+        "MALE2000": 74,
+        "FEMALE2000": 78,
+        "POP2008": 197,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010537502,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15292,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.25059499955967,
+          -6.27954500000169
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15292,
+        "CU_NAME": "KUBO CORNER",
+        "CU_NO": "503",
+        "GEOCODE": "01010537503",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "37",
+        "WARD_NAME": "NOMAD STATION",
+        "LATITUDE": -6.289845,
+        "LONGITUDE": 142.239191,
+        "REGHH": 21,
+        "TOTPOP2000": 81,
+        "MALE2000": 38,
+        "FEMALE2000": 43,
+        "POP2008": 105,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010537503,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

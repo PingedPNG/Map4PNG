@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.63164900040113,
+          -5.24815200041445
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8174,
+        "CU_NAME": "BAU",
+        "CU_NO": "010",
+        "GEOCODE": "13020420010",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "20",
+        "WARD_NAME": "WARD 20",
+        "LATITUDE": -5.251187,
+        "LONGITUDE": 145.627744,
+        "REGHH": 37,
+        "TOTPOP2000": 214,
+        "MALE2000": 109,
+        "FEMALE2000": 105,
+        "POP2008": 265,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020420010,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6536840003164,
+          -5.268375000405911
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8175,
+        "CU_NAME": "DALAM",
+        "CU_NO": "015",
+        "GEOCODE": "13020420015",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "20",
+        "WARD_NAME": "WARD 20",
+        "LATITUDE": -5.269778,
+        "LONGITUDE": 145.652644,
+        "REGHH": 50,
+        "TOTPOP2000": 352,
+        "MALE2000": 173,
+        "FEMALE2000": 179,
+        "POP2008": 436,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020420015,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8176,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.60323699958792,
+          -5.225695999970355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8176,
+        "CU_NAME": "GUMAN",
+        "CU_NO": "021",
+        "GEOCODE": "13020420021",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "20",
+        "WARD_NAME": "WARD 20",
+        "LATITUDE": -5.227098,
+        "LONGITUDE": 145.602197,
+        "REGHH": 58,
+        "TOTPOP2000": 348,
+        "MALE2000": 183,
+        "FEMALE2000": 165,
+        "POP2008": 430,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020420021,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8177,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.64217200003782,
+          -5.247520000047928
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8177,
+        "CU_NAME": "DAE",
+        "CU_NO": "031",
+        "GEOCODE": "13020420031",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "20",
+        "WARD_NAME": "WARD 20",
+        "LATITUDE": -5.248922,
+        "LONGITUDE": 145.641132,
+        "REGHH": 29,
+        "TOTPOP2000": 177,
+        "MALE2000": 96,
+        "FEMALE2000": 81,
+        "POP2008": 219,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020420031,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8178,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6441179998459,
+          -5.250906999758172
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8178,
+        "CU_NAME": "BAGU",
+        "CU_NO": "032",
+        "GEOCODE": "13020420032",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "20",
+        "WARD_NAME": "WARD 20",
+        "LATITUDE": -5.25231,
+        "LONGITUDE": 145.643078,
+        "REGHH": 39,
+        "TOTPOP2000": 244,
+        "MALE2000": 136,
+        "FEMALE2000": 108,
+        "POP2008": 303,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020420032,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8179,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.63207000003058,
+          -5.255680000431653
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8179,
+        "CU_NAME": "UMUN",
+        "CU_NO": "045",
+        "GEOCODE": "13020420045",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "20",
+        "WARD_NAME": "WARD 20",
+        "LATITUDE": -5.257083,
+        "LONGITUDE": 145.63103,
+        "REGHH": 102,
+        "TOTPOP2000": 622,
+        "MALE2000": 319,
+        "FEMALE2000": 303,
+        "POP2008": 770,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020420045,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8180,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.62603999984617,
+          -5.246557999751815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8180,
+        "CU_NAME": "BAU COMM. SCH & VOC. CENTRE",
+        "CU_NO": "502",
+        "GEOCODE": "13020420502",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "20",
+        "WARD_NAME": "WARD 20",
+        "LATITUDE": -5.24796,
+        "LONGITUDE": 145.625,
+        "REGHH": 14,
+        "TOTPOP2000": 92,
+        "MALE2000": 40,
+        "FEMALE2000": 52,
+        "POP2008": 115,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020420502,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

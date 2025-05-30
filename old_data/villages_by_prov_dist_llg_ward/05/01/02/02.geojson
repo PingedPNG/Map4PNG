@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9588,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.426377999745,
+          -9.936042000038242
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9588,
+        "CU_NAME": "BIRAT",
+        "CU_NO": "003",
+        "GEOCODE": "05010202003",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "BIRAT",
+        "LATITUDE": -9.937503,
+        "LONGITUDE": 149.425378,
+        "REGHH": 39,
+        "TOTPOP2000": 380,
+        "MALE2000": 183,
+        "FEMALE2000": 197,
+        "POP2008": 462,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010202003,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

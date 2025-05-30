@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19934,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.84488300005046,
+          -6.474377999644901
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19934,
+        "CU_NAME": "KARANDA",
+        "CU_NO": "006",
+        "GEOCODE": "07030923006",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "23",
+        "WARD_NAME": "YANGO",
+        "LATITUDE": -6.478073,
+        "LONGITUDE": 143.846787,
+        "REGHH": 38,
+        "TOTPOP2000": 219,
+        "MALE2000": 117,
+        "FEMALE2000": 102,
+        "POP2008": 304,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030923006,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.84405999986916,
+          -6.472755000342943
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19935,
+        "CU_NAME": "MUNGIRI",
+        "CU_NO": "007",
+        "GEOCODE": "07030923007",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "23",
+        "WARD_NAME": "YANGO",
+        "LATITUDE": -6.478073,
+        "LONGITUDE": 143.846787,
+        "REGHH": 48,
+        "TOTPOP2000": 253,
+        "MALE2000": 138,
+        "FEMALE2000": 115,
+        "POP2008": 353,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030923007,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.84881000038126,
+          -6.473677999739834
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19936,
+        "CU_NAME": "YANGO",
+        "CU_NO": "015",
+        "GEOCODE": "07030923015",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "23",
+        "WARD_NAME": "YANGO",
+        "LATITUDE": -6.478073,
+        "LONGITUDE": 143.846787,
+        "REGHH": 68,
+        "TOTPOP2000": 375,
+        "MALE2000": 182,
+        "FEMALE2000": 193,
+        "POP2008": 521,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030923015,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.84812400022247,
+          -6.472190000368187
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19937,
+        "CU_NAME": "YARI",
+        "CU_NO": "016",
+        "GEOCODE": "07030923016",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "23",
+        "WARD_NAME": "YANGO",
+        "LATITUDE": -6.478073,
+        "LONGITUDE": 143.846787,
+        "REGHH": 21,
+        "TOTPOP2000": 80,
+        "MALE2000": 35,
+        "FEMALE2000": 45,
+        "POP2008": 110,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030923016,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.84622499988393,
+          -6.4719290000232945
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19938,
+        "CU_NAME": "MAMBORE",
+        "CU_NO": "017",
+        "GEOCODE": "07030923017",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "23",
+        "WARD_NAME": "YANGO",
+        "LATITUDE": -6.478073,
+        "LONGITUDE": 143.846787,
+        "REGHH": 57,
+        "TOTPOP2000": 319,
+        "MALE2000": 158,
+        "FEMALE2000": 161,
+        "POP2008": 443,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030923017,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

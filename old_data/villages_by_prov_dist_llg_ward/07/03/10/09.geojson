@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0236180001706,
+          -6.531028999588614
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20116,
+        "CU_NAME": "KOYA",
+        "CU_NO": "007",
+        "GEOCODE": "07031009007",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "KOYA",
+        "LATITUDE": -6.537916,
+        "LONGITUDE": 144.032244,
+        "REGHH": 11,
+        "TOTPOP2000": 73,
+        "MALE2000": 45,
+        "FEMALE2000": 28,
+        "POP2008": 101,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031009007,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0386599995594,
+          -6.53120799974937
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20117,
+        "CU_NAME": "MAMAYARI",
+        "CU_NO": "008",
+        "GEOCODE": "07031009008",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "KOYA",
+        "LATITUDE": -6.537916,
+        "LONGITUDE": 144.032244,
+        "REGHH": 28,
+        "TOTPOP2000": 168,
+        "MALE2000": 95,
+        "FEMALE2000": 73,
+        "POP2008": 233,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031009008,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.03191999990815,
+          -6.526945000111596
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20118,
+        "CU_NAME": "KUMBALOMA",
+        "CU_NO": "009",
+        "GEOCODE": "07031009009",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "KOYA",
+        "LATITUDE": -6.537916,
+        "LONGITUDE": 144.032244,
+        "REGHH": 15,
+        "TOTPOP2000": 79,
+        "MALE2000": 40,
+        "FEMALE2000": 39,
+        "POP2008": 109,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031009009,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13517,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.03541300010988,
+          -9.098684000166429
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13517,
+        "CU_NAME": "EMO NO 1",
+        "CU_NO": "003",
+        "GEOCODE": "06020522003",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "EMO",
+        "LATITUDE": -9.100133,
+        "LONGITUDE": 148.034397,
+        "REGHH": 21,
+        "TOTPOP2000": 125,
+        "MALE2000": 63,
+        "FEMALE2000": 62,
+        "POP2008": 155,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020522003,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13518,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.04150100027096,
+          -9.125554000017019
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13518,
+        "CU_NAME": "EMO NO 2",
+        "CU_NO": "010",
+        "GEOCODE": "06020522010",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "EMO",
+        "LATITUDE": -9.127003,
+        "LONGITUDE": 148.040485,
+        "REGHH": 11,
+        "TOTPOP2000": 63,
+        "MALE2000": 30,
+        "FEMALE2000": 33,
+        "POP2008": 79,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020522010,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13519,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.04717600027232,
+          -9.125878999716008
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13519,
+        "CU_NAME": "URAMBOSI",
+        "CU_NO": "011",
+        "GEOCODE": "06020522011",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "EMO",
+        "LATITUDE": -9.127328,
+        "LONGITUDE": 148.04616,
+        "REGHH": 14,
+        "TOTPOP2000": 68,
+        "MALE2000": 34,
+        "FEMALE2000": 34,
+        "POP2008": 84,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020522011,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13520,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0510790003956,
+          -9.134981000372818
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13520,
+        "CU_NAME": "IJARO 1",
+        "CU_NO": "012",
+        "GEOCODE": "06020522012",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "EMO",
+        "LATITUDE": -9.13643,
+        "LONGITUDE": 148.050063,
+        "REGHH": 16,
+        "TOTPOP2000": 104,
+        "MALE2000": 49,
+        "FEMALE2000": 55,
+        "POP2008": 128,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020522012,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13521,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0510790003956,
+          -9.143461000224931
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13521,
+        "CU_NAME": "IJARO 2",
+        "CU_NO": "013",
+        "GEOCODE": "06020522013",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "EMO",
+        "LATITUDE": -9.14491,
+        "LONGITUDE": 148.050063,
+        "REGHH": 19,
+        "TOTPOP2000": 104,
+        "MALE2000": 54,
+        "FEMALE2000": 50,
+        "POP2008": 128,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020522013,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13522,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.06284599984303,
+          -9.139276999733681
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13522,
+        "CU_NAME": "RUMARA",
+        "CU_NO": "014",
+        "GEOCODE": "06020522014",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "EMO",
+        "LATITUDE": -9.13312,
+        "LONGITUDE": 148.090702,
+        "REGHH": 16,
+        "TOTPOP2000": 77,
+        "MALE2000": 38,
+        "FEMALE2000": 39,
+        "POP2008": 93,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020522014,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13523,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.04021999965335,
+          -9.12097800033439
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13523,
+        "CU_NAME": "EMO GOVT STN",
+        "CU_NO": "401",
+        "GEOCODE": "06020522401",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "EMO",
+        "LATITUDE": -9.122415,
+        "LONGITUDE": 148.043316,
+        "REGHH": 9,
+        "TOTPOP2000": 50,
+        "MALE2000": 26,
+        "FEMALE2000": 24,
+        "POP2008": 60,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020522401,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

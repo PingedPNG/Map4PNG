@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.38672099967448,
+          -6.367855000307998
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10725,
+        "CU_NAME": "AWENGU",
+        "CU_NO": "001",
+        "GEOCODE": "12020615001",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "LENGBATI",
+        "LATITUDE": -6.369273,
+        "LONGITUDE": 147.385703,
+        "REGHH": 56,
+        "TOTPOP2000": 291,
+        "MALE2000": 142,
+        "FEMALE2000": 149,
+        "POP2008": 363,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020615001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10726,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6029110003425,
+          -6.359974000199884
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10726,
+        "CU_NAME": "MASANO",
+        "CU_NO": "002",
+        "GEOCODE": "12020615002",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "LENGBATI",
+        "LATITUDE": -6.361392,
+        "LONGITUDE": 147.601896,
+        "REGHH": 32,
+        "TOTPOP2000": 125,
+        "MALE2000": 55,
+        "FEMALE2000": 70,
+        "POP2008": 157,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020615002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10727,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3732200003028,
+          -6.380264999729889
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10727,
+        "CU_NAME": "DENGENU",
+        "CU_NO": "004",
+        "GEOCODE": "12020615004",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "LENGBATI",
+        "LATITUDE": -6.381683,
+        "LONGITUDE": 147.372202,
+        "REGHH": 42,
+        "TOTPOP2000": 222,
+        "MALE2000": 101,
+        "FEMALE2000": 121,
+        "POP2008": 277,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020615004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10728,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.36025599961476,
+          -6.367364000148427
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10728,
+        "CU_NAME": "SUINGATY",
+        "CU_NO": "005",
+        "GEOCODE": "12020615005",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "LENGBATI",
+        "LATITUDE": -6.368782,
+        "LONGITUDE": 147.359237,
+        "REGHH": 10,
+        "TOTPOP2000": 38,
+        "MALE2000": 14,
+        "FEMALE2000": 24,
+        "POP2008": 46,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020615005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10729,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3763610003599,
+          -6.362470000190285
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10729,
+        "CU_NAME": "TETMARU",
+        "CU_NO": "006",
+        "GEOCODE": "12020615006",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "LENGBATI",
+        "LATITUDE": -6.363888,
+        "LONGITUDE": 147.375343,
+        "REGHH": 45,
+        "TOTPOP2000": 220,
+        "MALE2000": 103,
+        "FEMALE2000": 117,
+        "POP2008": 273,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020615006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10730,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.36813799976892,
+          -6.385994000422727
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10730,
+        "CU_NAME": "LENGBATI",
+        "CU_NO": "008",
+        "GEOCODE": "12020615008",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "LENGBATI",
+        "LATITUDE": -6.387909,
+        "LONGITUDE": 147.375674,
+        "REGHH": 19,
+        "TOTPOP2000": 92,
+        "MALE2000": 38,
+        "FEMALE2000": 54,
+        "POP2008": 116,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020615008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10731,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.37427400034494,
+          -6.391786999570343
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10731,
+        "CU_NAME": "DAPILIU",
+        "CU_NO": "009",
+        "GEOCODE": "12020615009",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "LENGBATI",
+        "LATITUDE": -6.393205,
+        "LONGITUDE": 147.373256,
+        "REGHH": 39,
+        "TOTPOP2000": 161,
+        "MALE2000": 78,
+        "FEMALE2000": 83,
+        "POP2008": 201,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020615009,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

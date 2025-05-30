@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.41693499985047,
+          -5.408460999775286
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5604,
+        "CU_NAME": "KASAP",
+        "CU_NO": "035",
+        "GEOCODE": "08030625035",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "25",
+        "WARD_NAME": "KASAP",
+        "LATITUDE": -5.407846,
+        "LONGITUDE": 143.416433,
+        "REGHH": 432,
+        "TOTPOP2000": 2705,
+        "MALE2000": 1390,
+        "FEMALE2000": 1315,
+        "POP2008": 3399,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030625035,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

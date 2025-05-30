@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.19589600040013,
+          -8.92240900017515
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15746,
+        "CU_NAME": "ABAM",
+        "CU_NO": "001",
+        "GEOCODE": "01031422001",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "22",
+        "WARD_NAME": "ABAM",
+        "LATITUDE": -8.926818,
+        "LONGITUDE": 143.19112,
+        "REGHH": 37,
+        "TOTPOP2000": 238,
+        "MALE2000": 126,
+        "FEMALE2000": 112,
+        "POP2008": 309,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031422001,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.199258999903,
+          -8.895756000439007
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15747,
+        "CU_NAME": "WOIGI",
+        "CU_NO": "040",
+        "GEOCODE": "01031422040",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "22",
+        "WARD_NAME": "ABAM",
+        "LATITUDE": -8.897189,
+        "LONGITUDE": 143.19818,
+        "REGHH": 6,
+        "TOTPOP2000": 24,
+        "MALE2000": 15,
+        "FEMALE2000": 9,
+        "POP2008": 32,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031422040,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

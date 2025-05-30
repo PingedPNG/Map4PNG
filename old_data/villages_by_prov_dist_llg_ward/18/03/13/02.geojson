@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4974,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.115063999604,
+          -4.595262999787565
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4974,
+        "CU_NAME": "ARABAM",
+        "CU_NO": "002",
+        "GEOCODE": "18031302002",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "02",
+        "WARD_NAME": "ARABAM",
+        "LATITUDE": -4.596667,
+        "LONGITUDE": 152.114117,
+        "REGHH": 85,
+        "TOTPOP2000": 497,
+        "MALE2000": 262,
+        "FEMALE2000": 235,
+        "POP2008": 605,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031302002,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

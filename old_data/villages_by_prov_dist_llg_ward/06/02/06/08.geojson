@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13579,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.10006500029954,
+          -8.884589999928494
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13579,
+        "CU_NAME": "PERETEMBARI",
+        "CU_NO": "002",
+        "GEOCODE": "06020608002",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "DUVE",
+        "LATITUDE": -8.886037,
+        "LONGITUDE": 148.099051,
+        "REGHH": 9,
+        "TOTPOP2000": 48,
+        "MALE2000": 25,
+        "FEMALE2000": 23,
+        "POP2008": 56,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020608002,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13580,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0963909999448,
+          -8.89277299957422
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13580,
+        "CU_NAME": "DUVE",
+        "CU_NO": "005",
+        "GEOCODE": "06020608005",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "DUVE",
+        "LATITUDE": -8.89422,
+        "LONGITUDE": 148.095377,
+        "REGHH": 57,
+        "TOTPOP2000": 318,
+        "MALE2000": 176,
+        "FEMALE2000": 142,
+        "POP2008": 394,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020608005,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13581,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0890379999039,
+          -8.894563000282176
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13581,
+        "CU_NAME": "NOMOTA",
+        "CU_NO": "006",
+        "GEOCODE": "06020608006",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "DUVE",
+        "LATITUDE": -8.89601,
+        "LONGITUDE": 148.088022,
+        "REGHH": 16,
+        "TOTPOP2000": 94,
+        "MALE2000": 47,
+        "FEMALE2000": 47,
+        "POP2008": 118,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020608006,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13582,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0915990001938,
+          -8.908802999558759
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13582,
+        "CU_NAME": "JANGUTA",
+        "CU_NO": "007",
+        "GEOCODE": "06020608007",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "DUVE",
+        "LATITUDE": -8.91025,
+        "LONGITUDE": 148.090584,
+        "REGHH": 7,
+        "TOTPOP2000": 38,
+        "MALE2000": 20,
+        "FEMALE2000": 18,
+        "POP2008": 46,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020608007,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13583,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0864740003749,
+          -8.902002999838544
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13583,
+        "CU_NAME": "SINGITE",
+        "CU_NO": "009",
+        "GEOCODE": "06020608009",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "DUVE",
+        "LATITUDE": -8.90345,
+        "LONGITUDE": 148.085459,
+        "REGHH": 10,
+        "TOTPOP2000": 74,
+        "MALE2000": 43,
+        "FEMALE2000": 31,
+        "POP2008": 90,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020608009,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13584,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0840720002227,
+          -8.897413000409585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13584,
+        "CU_NAME": "HIRUSUSU",
+        "CU_NO": "010",
+        "GEOCODE": "06020608010",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "DUVE",
+        "LATITUDE": -8.89886,
+        "LONGITUDE": 148.083057,
+        "REGHH": 15,
+        "TOTPOP2000": 81,
+        "MALE2000": 46,
+        "FEMALE2000": 35,
+        "POP2008": 99,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020608010,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13585,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0823340001141,
+          -8.910895999850482
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13585,
+        "CU_NAME": "SINGI",
+        "CU_NO": "019",
+        "GEOCODE": "06020608019",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "DUVE",
+        "LATITUDE": -8.90856,
+        "LONGITUDE": 148.078767,
+        "REGHH": 48,
+        "TOTPOP2000": 242,
+        "MALE2000": 125,
+        "FEMALE2000": 117,
+        "POP2008": 300,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020608019,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13586,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.10439799956805,
+          -8.887328000286914
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13586,
+        "CU_NAME": "URARITURU",
+        "CU_NO": "026",
+        "GEOCODE": "06020608026",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "DUVE",
+        "LATITUDE": -8.888775,
+        "LONGITUDE": 148.103384,
+        "REGHH": 29,
+        "TOTPOP2000": 141,
+        "MALE2000": 71,
+        "FEMALE2000": 70,
+        "POP2008": 174,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020608026,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13587,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.11914499974205,
+          -8.87984299955474
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13587,
+        "CU_NAME": "HEVAPA",
+        "CU_NO": "029",
+        "GEOCODE": "06020608029",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "DUVE",
+        "LATITUDE": -8.88129,
+        "LONGITUDE": 148.118131,
+        "REGHH": 20,
+        "TOTPOP2000": 113,
+        "MALE2000": 56,
+        "FEMALE2000": 57,
+        "POP2008": 139,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020608029,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13588,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0790040003344,
+          -8.900096000030317
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13588,
+        "CU_NAME": "SAVARITURU",
+        "CU_NO": "030",
+        "GEOCODE": "06020608030",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "DUVE",
+        "LATITUDE": -8.901543,
+        "LONGITUDE": 148.077989,
+        "REGHH": 8,
+        "TOTPOP2000": 48,
+        "MALE2000": 25,
+        "FEMALE2000": 23,
+        "POP2008": 56,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020608030,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

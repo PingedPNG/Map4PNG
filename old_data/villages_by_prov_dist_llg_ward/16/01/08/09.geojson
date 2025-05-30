@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9476,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.24205599958475,
+          -2.123927000130891
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9476,
+        "CU_NAME": "YIRIU",
+        "CU_NO": "009",
+        "GEOCODE": "16010809009",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "08",
+        "WARD_NO": "09",
+        "WARD_NAME": "KATIN",
+        "LATITUDE": -2.126819,
+        "LONGITUDE": 147.241908,
+        "REGHH": 11,
+        "TOTPOP2000": 65,
+        "MALE2000": 34,
+        "FEMALE2000": 31,
+        "POP2008": 81,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010809009,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9477,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2402509999837,
+          -2.129620000062914
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9477,
+        "CU_NAME": "WARA TALAI",
+        "CU_NO": "010",
+        "GEOCODE": "16010809010",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "08",
+        "WARD_NO": "09",
+        "WARD_NAME": "KATIN",
+        "LATITUDE": -2.126207,
+        "LONGITUDE": 147.241821,
+        "REGHH": 28,
+        "TOTPOP2000": 144,
+        "MALE2000": 68,
+        "FEMALE2000": 76,
+        "POP2008": 176,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010809010,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4668,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.34682099958957,
+          -4.404930999965643
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4668,
+        "CU_NAME": "BIRAR",
+        "CU_NO": "015",
+        "GEOCODE": "18020618015",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "18",
+        "WARD_NAME": "BIRAR",
+        "LATITUDE": -4.406333,
+        "LONGITUDE": 152.345878,
+        "REGHH": 62,
+        "TOTPOP2000": 370,
+        "MALE2000": 185,
+        "FEMALE2000": 185,
+        "POP2008": 450,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020618015,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

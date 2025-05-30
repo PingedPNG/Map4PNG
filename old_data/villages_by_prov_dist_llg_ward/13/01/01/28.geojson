@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7909,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.22348000040176,
+          -4.540620999859186
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7909,
+        "CU_NAME": "GUGUBAR",
+        "CU_NO": "009",
+        "GEOCODE": "13010128009",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "28",
+        "WARD_NAME": "GUGUBAR",
+        "LATITUDE": -4.539092,
+        "LONGITUDE": 145.222079,
+        "REGHH": 33,
+        "TOTPOP2000": 194,
+        "MALE2000": 93,
+        "FEMALE2000": 101,
+        "POP2008": 240,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010128009,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

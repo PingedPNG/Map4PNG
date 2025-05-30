@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6658,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.04391800031556,
+          -3.5877600002237955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6658,
+        "CU_NAME": "KUMINIMBIS 1",
+        "CU_NO": "010",
+        "GEOCODE": "14031205010",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "KUMINIMBIS  1",
+        "LATITUDE": -3.589339,
+        "LONGITUDE": 143.042679,
+        "REGHH": 121,
+        "TOTPOP2000": 600,
+        "MALE2000": 309,
+        "FEMALE2000": 291,
+        "POP2008": 713,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031205010,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

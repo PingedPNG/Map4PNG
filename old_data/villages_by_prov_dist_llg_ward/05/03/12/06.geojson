@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10097,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.10537700004863,
+          -8.454103999599852
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10097,
+        "CU_NAME": "KABULULA",
+        "CU_NO": "008",
+        "GEOCODE": "05031206008",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "KWAIBWAGA",
+        "LATITUDE": -8.455554,
+        "LONGITUDE": 151.104407,
+        "REGHH": 31,
+        "TOTPOP2000": 214,
+        "MALE2000": 125,
+        "FEMALE2000": 89,
+        "POP2008": 260,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031206008,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10098,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.11131400044087,
+          -8.455071000126509
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10098,
+        "CU_NAME": "KWAIBWAGA",
+        "CU_NO": "009",
+        "GEOCODE": "05031206009",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "KWAIBWAGA",
+        "LATITUDE": -8.456521,
+        "LONGITUDE": 151.110344,
+        "REGHH": 98,
+        "TOTPOP2000": 542,
+        "MALE2000": 297,
+        "FEMALE2000": 245,
+        "POP2008": 661,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031206009,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

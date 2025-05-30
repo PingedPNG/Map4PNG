@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18302,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4840539997923,
+          -3.2847369999125817
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18302,
+        "CU_NAME": "CHINAPELI",
+        "CU_NO": "005",
+        "GEOCODE": "15010114005",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "14",
+        "WARD_NAME": "CHINAPELI",
+        "LATITUDE": -3.286114,
+        "LONGITUDE": 142.482977,
+        "REGHH": 21,
+        "TOTPOP2000": 143,
+        "MALE2000": 70,
+        "FEMALE2000": 73,
+        "POP2008": 174,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010114005,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18303,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.51933700000257,
+          -3.2468290000582556
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18303,
+        "CU_NAME": "MORAI",
+        "CU_NO": "025",
+        "GEOCODE": "15010114025",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "14",
+        "WARD_NAME": "CHINAPELI",
+        "LATITUDE": -3.243685,
+        "LONGITUDE": 142.520751,
+        "REGHH": 11,
+        "TOTPOP2000": 69,
+        "MALE2000": 33,
+        "FEMALE2000": 36,
+        "POP2008": 85,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010114025,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18304,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.47557399994025,
+          -3.2246220003050325
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18304,
+        "CU_NAME": "RABAGO",
+        "CU_NO": "026",
+        "GEOCODE": "15010114026",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "14",
+        "WARD_NAME": "CHINAPELI",
+        "LATITUDE": -3.225998,
+        "LONGITUDE": 142.474497,
+        "REGHH": 12,
+        "TOTPOP2000": 76,
+        "MALE2000": 40,
+        "FEMALE2000": 36,
+        "POP2008": 92,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010114026,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18305,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.48594299966976,
+          -3.2510009999961085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18305,
+        "CU_NAME": "TEPE",
+        "CU_NO": "027",
+        "GEOCODE": "15010114027",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "14",
+        "WARD_NAME": "CHINAPELI",
+        "LATITUDE": -3.252377,
+        "LONGITUDE": 142.484866,
+        "REGHH": 12,
+        "TOTPOP2000": 77,
+        "MALE2000": 44,
+        "FEMALE2000": 33,
+        "POP2008": 93,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010114027,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

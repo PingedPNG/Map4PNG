@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.51022599963028,
+          -5.850220000152831
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5252,
+        "CU_NAME": "SAWI",
+        "CU_NO": "006",
+        "GEOCODE": "08010130006",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "30",
+        "WARD_NAME": "SAWI",
+        "LATITUDE": -5.851625,
+        "LONGITUDE": 143.509158,
+        "REGHH": 108,
+        "TOTPOP2000": 664,
+        "MALE2000": 349,
+        "FEMALE2000": 315,
+        "POP2008": 835,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010130006,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5253,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.51820199962265,
+          -5.8354099997716276
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5253,
+        "CU_NAME": "PARULI",
+        "CU_NO": "008",
+        "GEOCODE": "08010130008",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "30",
+        "WARD_NAME": "SAWI",
+        "LATITUDE": -5.837538,
+        "LONGITUDE": 143.512916,
+        "REGHH": 61,
+        "TOTPOP2000": 279,
+        "MALE2000": 137,
+        "FEMALE2000": 142,
+        "POP2008": 351,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010130008,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

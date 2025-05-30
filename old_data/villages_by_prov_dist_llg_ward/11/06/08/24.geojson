@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.93729067992103,
+          -6.661529729613278
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30298,
+        "CU_NAME": "TU'UNDURAURA",
+        "CU_NO": "008",
+        "GEOCODE": "11060824008",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "24",
+        "WARD_NAME": "ORAURA NO 1",
+        "LATITUDE": -6.66153,
+        "LONGITUDE": 145.937291,
+        "REGHH": 56,
+        "TOTPOP2000": 224,
+        "MALE2000": 110,
+        "FEMALE2000": 114,
+        "POP2008": 266,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30299,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.941067079782,
+          -6.664327200339983
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30299,
+        "CU_NAME": "SAUNAGORA",
+        "CU_NO": "009",
+        "GEOCODE": "11060824009",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "24",
+        "WARD_NAME": "ORAURA NO 1",
+        "LATITUDE": -6.664327,
+        "LONGITUDE": 145.941067,
+        "REGHH": 47,
+        "TOTPOP2000": 252,
+        "MALE2000": 131,
+        "FEMALE2000": 121,
+        "POP2008": 300,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30300,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.95610356003135,
+          -6.654036509976891
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30300,
+        "CU_NAME": "ONDARARA",
+        "CU_NO": "010",
+        "GEOCODE": "11060824010",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "24",
+        "WARD_NAME": "ORAURA NO 1",
+        "LATITUDE": -6.654037,
+        "LONGITUDE": 145.956104,
+        "REGHH": 49,
+        "TOTPOP2000": 196,
+        "MALE2000": 95,
+        "FEMALE2000": 101,
+        "POP2008": 233,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30301,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91701763985225,
+          -6.6722184895915575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30301,
+        "CU_NAME": "MONDUNA",
+        "CU_NO": "011",
+        "GEOCODE": "11060824011",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "24",
+        "WARD_NAME": "ORAURA NO 1",
+        "LATITUDE": -6.672218,
+        "LONGITUDE": 145.917018,
+        "REGHH": 7,
+        "TOTPOP2000": 31,
+        "MALE2000": 17,
+        "FEMALE2000": 14,
+        "POP2008": 39,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30302,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.92336984014605,
+          -6.667193429633016
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30302,
+        "CU_NAME": "SAVENA",
+        "CU_NO": "012",
+        "GEOCODE": "11060824012",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "24",
+        "WARD_NAME": "ORAURA NO 1",
+        "LATITUDE": -6.667193,
+        "LONGITUDE": 145.92337,
+        "REGHH": 29,
+        "TOTPOP2000": 152,
+        "MALE2000": 69,
+        "FEMALE2000": 83,
+        "POP2008": 181,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

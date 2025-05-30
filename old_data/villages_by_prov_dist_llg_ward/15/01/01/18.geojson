@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18313,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6665699998057,
+          -3.273086000418516
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18313,
+        "CU_NAME": "YAKAMUL 2",
+        "CU_NO": "022",
+        "GEOCODE": "15010118022",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "YAKAMUL 2",
+        "LATITUDE": -3.269936,
+        "LONGITUDE": 142.672477,
+        "REGHH": 79,
+        "TOTPOP2000": 517,
+        "MALE2000": 264,
+        "FEMALE2000": 253,
+        "POP2008": 625,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010118022,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18314,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.70940900042513,
+          -3.2855529997710846
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18314,
+        "CU_NAME": "YAKAMUL 3",
+        "CU_NO": "023",
+        "GEOCODE": "15010118023",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "YAKAMUL 2",
+        "LATITUDE": -3.281411,
+        "LONGITUDE": 142.708325,
+        "REGHH": 50,
+        "TOTPOP2000": 331,
+        "MALE2000": 166,
+        "FEMALE2000": 165,
+        "POP2008": 400,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010118023,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18315,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7201619998765,
+          -3.32861800002064
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18315,
+        "CU_NAME": "CHAROK",
+        "CU_NO": "024",
+        "GEOCODE": "15010118024",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "YAKAMUL 2",
+        "LATITUDE": -3.329995,
+        "LONGITUDE": 142.719088,
+        "REGHH": 22,
+        "TOTPOP2000": 112,
+        "MALE2000": 58,
+        "FEMALE2000": 54,
+        "POP2008": 136,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010118024,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

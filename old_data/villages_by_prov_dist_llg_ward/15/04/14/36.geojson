@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19034,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.283145999888,
+          -3.739288000240947
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19034,
+        "CU_NAME": "BIAKA",
+        "CU_NO": "004",
+        "GEOCODE": "15041436004",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "36",
+        "WARD_NAME": "BIAKA",
+        "LATITUDE": -3.740668,
+        "LONGITUDE": 141.282054,
+        "REGHH": 37,
+        "TOTPOP2000": 202,
+        "MALE2000": 102,
+        "FEMALE2000": 100,
+        "POP2008": 244,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041436004,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19035,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.29365499977848,
+          -3.733649000101252
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19035,
+        "CU_NAME": "KONABASI",
+        "CU_NO": "007",
+        "GEOCODE": "15041436007",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "36",
+        "WARD_NAME": "BIAKA",
+        "LATITUDE": -3.735029,
+        "LONGITUDE": 141.292563,
+        "REGHH": 33,
+        "TOTPOP2000": 194,
+        "MALE2000": 110,
+        "FEMALE2000": 84,
+        "POP2008": 234,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041436007,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19036,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2687820002891,
+          -3.7534119995640935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19036,
+        "CU_NAME": "DAULI",
+        "CU_NO": "008",
+        "GEOCODE": "15041436008",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "36",
+        "WARD_NAME": "BIAKA",
+        "LATITUDE": -3.754792,
+        "LONGITUDE": 141.26769,
+        "REGHH": 13,
+        "TOTPOP2000": 57,
+        "MALE2000": 26,
+        "FEMALE2000": 31,
+        "POP2008": 67,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041436008,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19037,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.27993600024627,
+          -3.7556270000859513
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19037,
+        "CU_NAME": "IKASI",
+        "CU_NO": "010",
+        "GEOCODE": "15041436010",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "36",
+        "WARD_NAME": "BIAKA",
+        "LATITUDE": -3.76219,
+        "LONGITUDE": 141.280722,
+        "REGHH": 8,
+        "TOTPOP2000": 47,
+        "MALE2000": 19,
+        "FEMALE2000": 28,
+        "POP2008": 55,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041436010,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

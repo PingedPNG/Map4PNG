@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9695,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9306799999821,
+          -10.280715000097132
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9695,
+        "CU_NAME": "BIWA",
+        "CU_NO": "002",
+        "GEOCODE": "05010414002",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "BIWA",
+        "LATITUDE": -10.280324,
+        "LONGITUDE": 150.930343,
+        "REGHH": 34,
+        "TOTPOP2000": 180,
+        "MALE2000": 97,
+        "FEMALE2000": 83,
+        "POP2008": 219,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010414002,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

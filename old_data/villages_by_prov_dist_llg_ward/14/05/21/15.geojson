@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.947360000064,
+          -3.753892000115684
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7134,
+        "CU_NAME": "SARKIM",
+        "CU_NO": "036",
+        "GEOCODE": "14052115036",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "21",
+        "WARD_NO": "15",
+        "WARD_NAME": "SARKIM",
+        "LATITUDE": -3.758536,
+        "LONGITUDE": 142.945108,
+        "REGHH": 158,
+        "TOTPOP2000": 750,
+        "MALE2000": 362,
+        "FEMALE2000": 388,
+        "POP2008": 893,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052115036,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

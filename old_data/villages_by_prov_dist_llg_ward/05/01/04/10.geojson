@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9691,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.58751200007885,
+          -10.268710999612892
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9691,
+        "CU_NAME": "POLOTONA",
+        "CU_NO": "013",
+        "GEOCODE": "05010410013",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "POLOTONA",
+        "LATITUDE": -10.270179,
+        "LONGITUDE": 150.586529,
+        "REGHH": 67,
+        "TOTPOP2000": 347,
+        "MALE2000": 180,
+        "FEMALE2000": 167,
+        "POP2008": 423,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010410013,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

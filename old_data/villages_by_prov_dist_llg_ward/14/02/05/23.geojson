@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6311,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.52689999963536,
+          -4.18590699990807
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6311,
+        "CU_NAME": "TIMBUNKE",
+        "CU_NO": "019",
+        "GEOCODE": "14020523019",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "23",
+        "WARD_NAME": "TIMBUNKE",
+        "LATITUDE": -4.189843,
+        "LONGITUDE": 143.516723,
+        "REGHH": 150,
+        "TOTPOP2000": 1165,
+        "MALE2000": 553,
+        "FEMALE2000": 612,
+        "POP2008": 1387,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020523019,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

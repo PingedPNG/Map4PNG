@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21178,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.18414900007633,
+          -6.526599000343538
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21178,
+        "CU_NAME": "IOROGOBAYU",
+        "CU_NO": "005",
+        "GEOCODE": "07072209005",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "09",
+        "WARD_NAME": "IOROGOBAYU",
+        "LATITUDE": -6.530848,
+        "LONGITUDE": 143.184418,
+        "REGHH": 48,
+        "TOTPOP2000": 287,
+        "MALE2000": 146,
+        "FEMALE2000": 141,
+        "POP2008": 399,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072209005,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21179,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.17470199969762,
+          -6.535164999664971
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21179,
+        "CU_NAME": "KAIPU 1",
+        "CU_NO": "006",
+        "GEOCODE": "07072209006",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "09",
+        "WARD_NAME": "IOROGOBAYU",
+        "LATITUDE": -6.530848,
+        "LONGITUDE": 143.184418,
+        "REGHH": 43,
+        "TOTPOP2000": 254,
+        "MALE2000": 116,
+        "FEMALE2000": 138,
+        "POP2008": 354,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072209006,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21180,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1904910002595,
+          -6.5311990002336415
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21180,
+        "CU_NAME": "UBOGO",
+        "CU_NO": "011",
+        "GEOCODE": "07072209011",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "09",
+        "WARD_NAME": "IOROGOBAYU",
+        "LATITUDE": -6.530848,
+        "LONGITUDE": 143.184418,
+        "REGHH": 20,
+        "TOTPOP2000": 95,
+        "MALE2000": 52,
+        "FEMALE2000": 43,
+        "POP2008": 131,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072209011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21181,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1524650003596,
+          -6.353679000385512
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21181,
+        "CU_NAME": "KAIPU 2",
+        "CU_NO": "012",
+        "GEOCODE": "07072209012",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "09",
+        "WARD_NAME": "IOROGOBAYU",
+        "LATITUDE": -6.3587,
+        "LONGITUDE": 143.152059,
+        "REGHH": 12,
+        "TOTPOP2000": 63,
+        "MALE2000": 28,
+        "FEMALE2000": 35,
+        "POP2008": 88,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072209012,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.14682099998925,
+          -6.3578019998623745
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21182,
+        "CU_NAME": "WARO MISSION",
+        "CU_NO": "801",
+        "GEOCODE": "07072209801",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "09",
+        "WARD_NAME": "IOROGOBAYU",
+        "LATITUDE": -6.3587,
+        "LONGITUDE": 143.152059,
+        "REGHH": 19,
+        "TOTPOP2000": 92,
+        "MALE2000": 50,
+        "FEMALE2000": 42,
+        "POP2008": 128,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072209801,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9397,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.99377700030834,
+          -2.029767999893238
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9397,
+        "CU_NAME": "MUNDRAU",
+        "CU_NO": "006",
+        "GEOCODE": "16010413006",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "MUNDRAU",
+        "LATITUDE": -2.029564,
+        "LONGITUDE": 146.993452,
+        "REGHH": 46,
+        "TOTPOP2000": 264,
+        "MALE2000": 130,
+        "FEMALE2000": 134,
+        "POP2008": 324,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010413006,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

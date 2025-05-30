@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18703,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.12118999991867,
+          -5.228924000442191
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18703,
+        "CU_NAME": "TOMIANAP",
+        "CU_NO": "009",
+        "GEOCODE": "15030909009",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "TOMIANAP",
+        "LATITUDE": -5.23032,
+        "LONGITUDE": 142.120106,
+        "REGHH": 108,
+        "TOTPOP2000": 660,
+        "MALE2000": 320,
+        "FEMALE2000": 340,
+        "POP2008": 798,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030909009,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

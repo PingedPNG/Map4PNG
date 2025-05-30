@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21802,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9135890003322,
+          -5.735108999580632
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21802,
+        "CU_NAME": "EGANDA",
+        "CU_NO": "001",
+        "GEOCODE": "07082811001",
+        "PROV_KEY": "21",
+        "DIST_NO": "3",
+        "LLG_NO": "28",
+        "WARD_NO": "11",
+        "WARD_NAME": "EGANDA",
+        "LATITUDE": -5.739352,
+        "LONGITUDE": 142.913852,
+        "REGHH": 83,
+        "TOTPOP2000": 571,
+        "MALE2000": 289,
+        "FEMALE2000": 282,
+        "POP2008": 793,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7082811001,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

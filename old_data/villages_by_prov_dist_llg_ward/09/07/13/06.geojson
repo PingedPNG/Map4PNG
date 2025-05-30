@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17598,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.147920000108,
+          -6.001909000400019
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17598,
+        "CU_NAME": "TABAGA",
+        "CU_NO": "011",
+        "GEOCODE": "09071306011",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "06",
+        "WARD_NAME": "MALDA",
+        "LATITUDE": -6.003807,
+        "LONGITUDE": 144.148487,
+        "REGHH": 160,
+        "TOTPOP2000": 618,
+        "MALE2000": 305,
+        "FEMALE2000": 313,
+        "POP2008": 752,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071306011,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17599,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1457679997934,
+          -6.002614999682464
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17599,
+        "CU_NAME": "TABAGA CATH. MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "09071306401",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "06",
+        "WARD_NAME": "MALDA",
+        "LATITUDE": -6.003807,
+        "LONGITUDE": 144.148487,
+        "REGHH": 4,
+        "TOTPOP2000": 18,
+        "MALE2000": 8,
+        "FEMALE2000": 10,
+        "POP2008": 18,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071306401,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

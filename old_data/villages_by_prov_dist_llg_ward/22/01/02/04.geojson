@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15926,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.51580899968565,
+          -5.838538000128551
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15926,
+        "CU_NAME": "AVAIMP 1",
+        "CU_NO": "003",
+        "GEOCODE": "09010204003",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "AVIAMP 1",
+        "LATITUDE": -5.838397,
+        "LONGITUDE": 144.515614,
+        "REGHH": 42,
+        "TOTPOP2000": 208,
+        "MALE2000": 110,
+        "FEMALE2000": 98,
+        "POP2008": 253,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010204003,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15927,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5109119995892,
+          -5.856845999942891
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15927,
+        "CU_NAME": "KUMDIKU",
+        "CU_NO": "004",
+        "GEOCODE": "09010204004",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "AVIAMP 1",
+        "LATITUDE": -5.857784,
+        "LONGITUDE": 144.51125,
+        "REGHH": 63,
+        "TOTPOP2000": 275,
+        "MALE2000": 136,
+        "FEMALE2000": 139,
+        "POP2008": 335,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010204004,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15928,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.51283700022748,
+          -5.846044000030531
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15928,
+        "CU_NAME": "KUGMI",
+        "CU_NO": "005",
+        "GEOCODE": "09010204005",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "AVIAMP 1",
+        "LATITUDE": -5.846982,
+        "LONGITUDE": 144.513175,
+        "REGHH": 43,
+        "TOTPOP2000": 193,
+        "MALE2000": 101,
+        "FEMALE2000": 92,
+        "POP2008": 235,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010204005,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15929,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5012819997645,
+          -5.8241510003683175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15929,
+        "CU_NAME": "RUTBAN",
+        "CU_NO": "006",
+        "GEOCODE": "09010204006",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "AVIAMP 1",
+        "LATITUDE": -5.825089,
+        "LONGITUDE": 144.501619,
+        "REGHH": 44,
+        "TOTPOP2000": 237,
+        "MALE2000": 112,
+        "FEMALE2000": 125,
+        "POP2008": 289,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010204006,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15930,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.51293800038843,
+          -5.836693999628324
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15930,
+        "CU_NAME": "AVIAMP C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "09010204401",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "AVIAMP 1",
+        "LATITUDE": -5.837368,
+        "LONGITUDE": 144.514352,
+        "REGHH": 29,
+        "TOTPOP2000": 174,
+        "MALE2000": 95,
+        "FEMALE2000": 79,
+        "POP2008": 212,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010204401,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

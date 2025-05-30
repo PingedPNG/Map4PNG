@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19645,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7469759996427,
+          -6.217709000170203
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19645,
+        "CU_NAME": "YEBI 2",
+        "CU_NO": "016",
+        "GEOCODE": "07020709016",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "YEBI 2",
+        "LATITUDE": -6.22,
+        "LONGITUDE": 143.743553,
+        "REGHH": 29,
+        "TOTPOP2000": 114,
+        "MALE2000": 59,
+        "FEMALE2000": 55,
+        "POP2008": 158,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020709016,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19646,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.74622500008377,
+          -6.215246999949045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19646,
+        "CU_NAME": "AKUTI",
+        "CU_NO": "017",
+        "GEOCODE": "07020709017",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "YEBI 2",
+        "LATITUDE": -6.22,
+        "LONGITUDE": 143.743553,
+        "REGHH": 39,
+        "TOTPOP2000": 172,
+        "MALE2000": 96,
+        "FEMALE2000": 76,
+        "POP2008": 240,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020709017,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19647,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.74426599967626,
+          -6.21698299996541
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19647,
+        "CU_NAME": "YAMBARA",
+        "CU_NO": "018",
+        "GEOCODE": "07020709018",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "YEBI 2",
+        "LATITUDE": -6.22,
+        "LONGITUDE": 143.743553,
+        "REGHH": 27,
+        "TOTPOP2000": 161,
+        "MALE2000": 93,
+        "FEMALE2000": 68,
+        "POP2008": 224,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020709018,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19648,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.74254700044378,
+          -6.217732000331523
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19648,
+        "CU_NAME": "AIPUANDA",
+        "CU_NO": "019",
+        "GEOCODE": "07020709019",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "YEBI 2",
+        "LATITUDE": -6.22,
+        "LONGITUDE": 143.743553,
+        "REGHH": 47,
+        "TOTPOP2000": 266,
+        "MALE2000": 146,
+        "FEMALE2000": 120,
+        "POP2008": 370,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020709019,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

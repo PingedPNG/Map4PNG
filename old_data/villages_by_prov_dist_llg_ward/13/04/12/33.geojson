@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8882,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1316100003013,
+          -5.712230000314207
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8882,
+        "CU_NAME": "BATOTO",
+        "CU_NO": "005",
+        "GEOCODE": "13041233005",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "33",
+        "WARD_NAME": "WARD 33",
+        "LATITUDE": -5.71111,
+        "LONGITUDE": 146.129679,
+        "REGHH": 13,
+        "TOTPOP2000": 90,
+        "MALE2000": 46,
+        "FEMALE2000": 44,
+        "POP2008": 112,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041233005,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8883,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.11103900044952,
+          -5.697696000070323
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8883,
+        "CU_NAME": "GUHU",
+        "CU_NO": "015",
+        "GEOCODE": "13041233015",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "33",
+        "WARD_NAME": "WARD 33",
+        "LATITUDE": -5.699104,
+        "LONGITUDE": 146.110005,
+        "REGHH": 20,
+        "TOTPOP2000": 97,
+        "MALE2000": 50,
+        "FEMALE2000": 47,
+        "POP2008": 121,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041233015,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8884,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1247179999358,
+          -5.699604999970745
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8884,
+        "CU_NAME": "KARAKARA",
+        "CU_NO": "017",
+        "GEOCODE": "13041233017",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "33",
+        "WARD_NAME": "WARD 33",
+        "LATITUDE": -5.701013,
+        "LONGITUDE": 146.123684,
+        "REGHH": 6,
+        "TOTPOP2000": 27,
+        "MALE2000": 15,
+        "FEMALE2000": 12,
+        "POP2008": 35,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041233017,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8885,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.13729699995667,
+          -5.72146599995591
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8885,
+        "CU_NAME": "ONGO",
+        "CU_NO": "026",
+        "GEOCODE": "13041233026",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "33",
+        "WARD_NAME": "WARD 33",
+        "LATITUDE": -5.717642,
+        "LONGITUDE": 146.136811,
+        "REGHH": 7,
+        "TOTPOP2000": 23,
+        "MALE2000": 10,
+        "FEMALE2000": 13,
+        "POP2008": 31,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041233026,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8886,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0731650003645,
+          -5.525221999995267
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8886,
+        "CU_NAME": "MINGMING",
+        "CU_NO": "027",
+        "GEOCODE": "13041233027",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "33",
+        "WARD_NAME": "WARD 33",
+        "LATITUDE": -5.526628,
+        "LONGITUDE": 146.072131,
+        "REGHH": 14,
+        "TOTPOP2000": 112,
+        "MALE2000": 58,
+        "FEMALE2000": 54,
+        "POP2008": 138,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041233027,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

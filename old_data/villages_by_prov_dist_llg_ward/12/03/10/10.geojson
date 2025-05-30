@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10977,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0561460004376,
+          -7.125597999747868
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10977,
+        "CU_NAME": "LAUKANU",
+        "CU_NO": "015",
+        "GEOCODE": "12031010015",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "10",
+        "WARD_NAME": "LAUKANU",
+        "LATITUDE": -7.126517,
+        "LONGITUDE": 147.05715,
+        "REGHH": 82,
+        "TOTPOP2000": 448,
+        "MALE2000": 222,
+        "FEMALE2000": 226,
+        "POP2008": 559,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031010015,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

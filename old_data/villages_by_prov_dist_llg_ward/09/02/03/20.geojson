@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16307,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.41150500015567,
+          -5.661585000347429
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16307,
+        "CU_NAME": "TIMBI",
+        "CU_NO": "055",
+        "GEOCODE": "09020320055",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "TIMBI",
+        "LATITUDE": -5.662521,
+        "LONGITUDE": 144.411841,
+        "REGHH": 74,
+        "TOTPOP2000": 322,
+        "MALE2000": 160,
+        "FEMALE2000": 162,
+        "POP2008": 392,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020320055,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16308,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4175429998097,
+          -5.657523000086314
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16308,
+        "CU_NAME": "MALA RAPENG",
+        "CU_NO": "056",
+        "GEOCODE": "09020320056",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "TIMBI",
+        "LATITUDE": -5.655495,
+        "LONGITUDE": 144.426888,
+        "REGHH": 76,
+        "TOTPOP2000": 280,
+        "MALE2000": 129,
+        "FEMALE2000": 151,
+        "POP2008": 341,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020320056,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4213619996566,
+          -5.624804000304323
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16309,
+        "CU_NAME": "WARAORANG",
+        "CU_NO": "057",
+        "GEOCODE": "09020320057",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "TIMBI",
+        "LATITUDE": -5.625739,
+        "LONGITUDE": 144.421698,
+        "REGHH": 48,
+        "TOTPOP2000": 210,
+        "MALE2000": 101,
+        "FEMALE2000": 109,
+        "POP2008": 255,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020320057,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

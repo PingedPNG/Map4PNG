@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18674,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.73659799989787,
+          -3.893527000270808
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18674,
+        "CU_NAME": "APAKWAWAMU",
+        "CU_NO": "003",
+        "GEOCODE": "15030807003",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "07",
+        "WARD_NAME": "IWANI",
+        "LATITUDE": -3.90393,
+        "LONGITUDE": 141.751009,
+        "REGHH": 14,
+        "TOTPOP2000": 104,
+        "MALE2000": 49,
+        "FEMALE2000": 55,
+        "POP2008": 127,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030807003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18675,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.75652499972898,
+          -3.9052609999951073
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18675,
+        "CU_NAME": "IWANI",
+        "CU_NO": "008",
+        "GEOCODE": "15030807008",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "07",
+        "WARD_NAME": "IWANI",
+        "LATITUDE": -3.906643,
+        "LONGITUDE": 141.755439,
+        "REGHH": 21,
+        "TOTPOP2000": 161,
+        "MALE2000": 77,
+        "FEMALE2000": 84,
+        "POP2008": 194,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030807008,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

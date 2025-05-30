@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19623,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64056299998254,
+          -6.203443999740728
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19623,
+        "CU_NAME": "YOMONDA",
+        "CU_NO": "001",
+        "GEOCODE": "07020704001",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "04",
+        "WARD_NAME": "SUMIA 2",
+        "LATITUDE": -6.208011,
+        "LONGITUDE": 143.640272,
+        "REGHH": 22,
+        "TOTPOP2000": 127,
+        "MALE2000": 66,
+        "FEMALE2000": 61,
+        "POP2008": 177,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020704001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19624,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64267400020503,
+          -6.201957000415177
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19624,
+        "CU_NAME": "KAWERI",
+        "CU_NO": "002",
+        "GEOCODE": "07020704002",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "04",
+        "WARD_NAME": "SUMIA 2",
+        "LATITUDE": -6.208011,
+        "LONGITUDE": 143.640272,
+        "REGHH": 25,
+        "TOTPOP2000": 152,
+        "MALE2000": 69,
+        "FEMALE2000": 83,
+        "POP2008": 212,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020704002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19625,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64049200030558,
+          -6.205313999641305
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19625,
+        "CU_NAME": "KONGIRIP",
+        "CU_NO": "003",
+        "GEOCODE": "07020704003",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "04",
+        "WARD_NAME": "SUMIA 2",
+        "LATITUDE": -6.208011,
+        "LONGITUDE": 143.640272,
+        "REGHH": 17,
+        "TOTPOP2000": 101,
+        "MALE2000": 55,
+        "FEMALE2000": 46,
+        "POP2008": 140,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020704003,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

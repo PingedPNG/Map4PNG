@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8687,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67620099997623,
+          -5.39050900019015
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8687,
+        "CU_NAME": "ATO",
+        "CU_NO": "004",
+        "GEOCODE": "13041014004",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "WARD 14",
+        "LATITUDE": -5.391913,
+        "LONGITUDE": 145.675162,
+        "REGHH": 121,
+        "TOTPOP2000": 806,
+        "MALE2000": 419,
+        "FEMALE2000": 387,
+        "POP2008": 998,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041014004,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8688,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.64957399964044,
+          -5.3972109998877045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8688,
+        "CU_NAME": "DUDUELA",
+        "CU_NO": "014",
+        "GEOCODE": "13041014014",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "WARD 14",
+        "LATITUDE": -5.398615,
+        "LONGITUDE": 145.648534,
+        "REGHH": 21,
+        "TOTPOP2000": 143,
+        "MALE2000": 85,
+        "FEMALE2000": 58,
+        "POP2008": 177,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041014014,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8689,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6390459997731,
+          -5.396610000051396
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8689,
+        "CU_NAME": "BAURI",
+        "CU_NO": "016",
+        "GEOCODE": "13041014016",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "WARD 14",
+        "LATITUDE": -5.398014,
+        "LONGITUDE": 145.638006,
+        "REGHH": 20,
+        "TOTPOP2000": 126,
+        "MALE2000": 64,
+        "FEMALE2000": 62,
+        "POP2008": 156,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041014016,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

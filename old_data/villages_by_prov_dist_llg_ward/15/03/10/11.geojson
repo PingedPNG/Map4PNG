@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.42631000000654,
+          -5.108341000236919
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18747,
+        "CU_NAME": "BOFULMIN",
+        "CU_NO": "007",
+        "GEOCODE": "15031011007",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "11",
+        "WARD_NAME": "BOFULMIN/TIFALMIN",
+        "LATITUDE": -5.109735,
+        "LONGITUDE": 141.425218,
+        "REGHH": 16,
+        "TOTPOP2000": 101,
+        "MALE2000": 55,
+        "FEMALE2000": 46,
+        "POP2008": 123,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031011007,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18748,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.4126860003587,
+          -5.0996129997400885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18748,
+        "CU_NAME": "BOLTIKIN",
+        "CU_NO": "008",
+        "GEOCODE": "15031011008",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "11",
+        "WARD_NAME": "BOFULMIN/TIFALMIN",
+        "LATITUDE": -5.101007,
+        "LONGITUDE": 141.411594,
+        "REGHH": 16,
+        "TOTPOP2000": 86,
+        "MALE2000": 46,
+        "FEMALE2000": 40,
+        "POP2008": 102,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031011008,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18749,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.41246800019815,
+          -5.115303000233212
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18749,
+        "CU_NAME": "NIMS",
+        "CU_NO": "009",
+        "GEOCODE": "15031011009",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "11",
+        "WARD_NAME": "BOFULMIN/TIFALMIN",
+        "LATITUDE": -5.116697,
+        "LONGITUDE": 141.411376,
+        "REGHH": 9,
+        "TOTPOP2000": 63,
+        "MALE2000": 32,
+        "FEMALE2000": 31,
+        "POP2008": 79,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031011009,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18750,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.40742100037892,
+          -5.11563100007055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18750,
+        "CU_NAME": "AMA",
+        "CU_NO": "010",
+        "GEOCODE": "15031011010",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "11",
+        "WARD_NAME": "BOFULMIN/TIFALMIN",
+        "LATITUDE": -5.117025,
+        "LONGITUDE": 141.406329,
+        "REGHH": 14,
+        "TOTPOP2000": 76,
+        "MALE2000": 42,
+        "FEMALE2000": 34,
+        "POP2008": 92,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031011010,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.42001200005382,
+          -5.118951000288405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18751,
+        "CU_NAME": "BLEM",
+        "CU_NO": "011",
+        "GEOCODE": "15031011011",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "11",
+        "WARD_NAME": "BOFULMIN/TIFALMIN",
+        "LATITUDE": -5.120345,
+        "LONGITUDE": 141.41892,
+        "REGHH": 16,
+        "TOTPOP2000": 107,
+        "MALE2000": 59,
+        "FEMALE2000": 48,
+        "POP2008": 131,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031011011,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18752,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.4055050001557,
+          -5.106579999966982
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18752,
+        "CU_NAME": "DONGBIL",
+        "CU_NO": "012",
+        "GEOCODE": "15031011012",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "11",
+        "WARD_NAME": "BOFULMIN/TIFALMIN",
+        "LATITUDE": -5.107974,
+        "LONGITUDE": 141.404413,
+        "REGHH": 24,
+        "TOTPOP2000": 124,
+        "MALE2000": 70,
+        "FEMALE2000": 54,
+        "POP2008": 148,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031011012,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

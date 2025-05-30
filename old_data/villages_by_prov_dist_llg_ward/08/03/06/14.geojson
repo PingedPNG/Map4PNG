@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5582,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.51594299976966,
+          -5.510813000119811
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5582,
+        "CU_NAME": "KIPOS",
+        "CU_NO": "024",
+        "GEOCODE": "08030614024",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "14",
+        "WARD_NAME": "KIPOS",
+        "LATITUDE": -5.512215,
+        "LONGITUDE": 143.514876,
+        "REGHH": 77,
+        "TOTPOP2000": 416,
+        "MALE2000": 209,
+        "FEMALE2000": 207,
+        "POP2008": 523,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030614024,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5583,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.54213399978437,
+          -5.502763000312143
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5583,
+        "CU_NAME": "YAKOPIAMANDA",
+        "CU_NO": "025",
+        "GEOCODE": "08030614025",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "14",
+        "WARD_NAME": "KIPOS",
+        "LATITUDE": -5.504165,
+        "LONGITUDE": 143.541067,
+        "REGHH": 35,
+        "TOTPOP2000": 188,
+        "MALE2000": 96,
+        "FEMALE2000": 92,
+        "POP2008": 236,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030614025,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

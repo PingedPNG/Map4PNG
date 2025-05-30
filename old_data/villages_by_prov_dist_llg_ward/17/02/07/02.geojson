@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12834,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1085569997058,
+          -4.303473000378631
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12834,
+        "CU_NAME": "KAPSIPAU",
+        "CU_NO": "011",
+        "GEOCODE": "17020702011",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "REI",
+        "LATITUDE": -4.304577,
+        "LONGITUDE": 153.108956,
+        "REGHH": 15,
+        "TOTPOP2000": 91,
+        "MALE2000": 47,
+        "FEMALE2000": 44,
+        "POP2008": 115,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020702011,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12835,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.10813399998415,
+          -4.266479000405525
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12835,
+        "CU_NAME": "IASU",
+        "CU_NO": "014",
+        "GEOCODE": "17020702014",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "REI",
+        "LATITUDE": -4.266246,
+        "LONGITUDE": 153.109716,
+        "REGHH": 20,
+        "TOTPOP2000": 129,
+        "MALE2000": 66,
+        "FEMALE2000": 63,
+        "POP2008": 162,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020702014,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12836,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1015969998018,
+          -4.326992000380471
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12836,
+        "CU_NAME": "REI",
+        "CU_NO": "022",
+        "GEOCODE": "17020702022",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "REI",
+        "LATITUDE": -4.328691,
+        "LONGITUDE": 153.101553,
+        "REGHH": 41,
+        "TOTPOP2000": 211,
+        "MALE2000": 93,
+        "FEMALE2000": 118,
+        "POP2008": 264,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020702022,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

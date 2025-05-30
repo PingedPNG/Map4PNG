@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.66629800035253,
+          -6.229922000399938
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16184,
+        "CU_NAME": "MT AU",
+        "CU_NO": "002",
+        "GEOCODE": "09010235002",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "35",
+        "WARD_NAME": "MT. AU",
+        "LATITUDE": -6.232699,
+        "LONGITUDE": 144.665711,
+        "REGHH": 23,
+        "TOTPOP2000": 97,
+        "MALE2000": 43,
+        "FEMALE2000": 54,
+        "POP2008": 119,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010235002,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.64100600042661,
+          -6.232732999628183
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16185,
+        "CU_NAME": "ELWIL",
+        "CU_NO": "003",
+        "GEOCODE": "09010235003",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "35",
+        "WARD_NAME": "MT. AU",
+        "LATITUDE": -6.238226,
+        "LONGITUDE": 144.651332,
+        "REGHH": 17,
+        "TOTPOP2000": 101,
+        "MALE2000": 55,
+        "FEMALE2000": 46,
+        "POP2008": 125,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010235003,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16186,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6612389999799,
+          -6.23081900039648
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16186,
+        "CU_NAME": "MT AU STATION",
+        "CU_NO": "401",
+        "GEOCODE": "09010235401",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "35",
+        "WARD_NAME": "MT. AU",
+        "LATITUDE": -6.232699,
+        "LONGITUDE": 144.665711,
+        "REGHH": 9,
+        "TOTPOP2000": 36,
+        "MALE2000": 24,
+        "FEMALE2000": 12,
+        "POP2008": 44,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010235401,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

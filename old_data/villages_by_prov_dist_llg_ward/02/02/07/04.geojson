@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7636,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8565520001747,
+          -7.488797999827796
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7636,
+        "CU_NAME": "BEKORO",
+        "CU_NO": "002",
+        "GEOCODE": "02020704002",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "04",
+        "WARD_NAME": "BEKORO",
+        "LATITUDE": -7.485155,
+        "LONGITUDE": 144.858431,
+        "REGHH": 37,
+        "TOTPOP2000": 257,
+        "MALE2000": 129,
+        "FEMALE2000": 128,
+        "POP2008": 316,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020704002,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7637,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8499460004076,
+          -7.4941520003145
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7637,
+        "CU_NAME": "PIVARA/KUPORO",
+        "CU_NO": "006",
+        "GEOCODE": "02020704006",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "04",
+        "WARD_NAME": "BEKORO",
+        "LATITUDE": -7.495854,
+        "LONGITUDE": 144.847753,
+        "REGHH": 3,
+        "TOTPOP2000": 25,
+        "MALE2000": 13,
+        "FEMALE2000": 12,
+        "POP2008": 33,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020704006,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

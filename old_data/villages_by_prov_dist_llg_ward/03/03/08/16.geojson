@@ -1,0 +1,421 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1380,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.99692099960453,
+          -9.00205700033024
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1380,
+        "CU_NAME": "KARUAMA",
+        "CU_NO": "011",
+        "GEOCODE": "03030816011",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "MALATI",
+        "LATITUDE": -9.003502,
+        "LONGITUDE": 146.995891,
+        "REGHH": 14,
+        "TOTPOP2000": 84,
+        "MALE2000": 50,
+        "FEMALE2000": 34,
+        "POP2008": 100,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030816011,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1381,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.96926300028724,
+          -8.987941999623558
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1381,
+        "CU_NAME": "HEGORE",
+        "CU_NO": "012",
+        "GEOCODE": "03030816012",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "MALATI",
+        "LATITUDE": -8.989387,
+        "LONGITUDE": 146.968233,
+        "REGHH": 4,
+        "TOTPOP2000": 46,
+        "MALE2000": 27,
+        "FEMALE2000": 19,
+        "POP2008": 54,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030816012,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1382,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.98699499961958,
+          -8.992875999627643
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1382,
+        "CU_NAME": "DEBOISMENU CATH.MSSN",
+        "CU_NO": "403",
+        "GEOCODE": "03030816403",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "MALATI",
+        "LATITUDE": -8.995676,
+        "LONGITUDE": 146.985722,
+        "REGHH": 7,
+        "TOTPOP2000": 43,
+        "MALE2000": 27,
+        "FEMALE2000": 16,
+        "POP2008": 51,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030816403,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1383,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9946930002818,
+          -9.01376499975487
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1383,
+        "CU_NAME": "SOLIEN SETTLEMENT",
+        "CU_NO": "404",
+        "GEOCODE": "03030816404",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "MALATI",
+        "LATITUDE": -9.01521,
+        "LONGITUDE": 146.993663,
+        "REGHH": 3,
+        "TOTPOP2000": 16,
+        "MALE2000": 6,
+        "FEMALE2000": 10,
+        "POP2008": 16,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030816404,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1384,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.99832699969136,
+          -9.012614999782386
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1384,
+        "CU_NAME": "MALATI SETTLEMENT",
+        "CU_NO": "406",
+        "GEOCODE": "03030816406",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "MALATI",
+        "LATITUDE": -9.01406,
+        "LONGITUDE": 146.997297,
+        "REGHH": 15,
+        "TOTPOP2000": 103,
+        "MALE2000": 52,
+        "FEMALE2000": 51,
+        "POP2008": 124,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030816406,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1385,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.99661099969796,
+          -8.993177000018477
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1385,
+        "CU_NAME": "WAMA S'MNT",
+        "CU_NO": "408",
+        "GEOCODE": "03030816408",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "MALATI",
+        "LATITUDE": -8.994622,
+        "LONGITUDE": 146.995581,
+        "REGHH": 28,
+        "TOTPOP2000": 195,
+        "MALE2000": 109,
+        "FEMALE2000": 86,
+        "POP2008": 234,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030816408,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1386,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.99272600040467,
+          -9.015007000372748
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1386,
+        "CU_NAME": "KASIA BADINA S'MNT",
+        "CU_NO": "409",
+        "GEOCODE": "03030816409",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "MALATI",
+        "LATITUDE": -9.016452,
+        "LONGITUDE": 146.991696,
+        "REGHH": 14,
+        "TOTPOP2000": 89,
+        "MALE2000": 49,
+        "FEMALE2000": 40,
+        "POP2008": 105,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030816409,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1387,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.01796899986948,
+          -9.023531999602028
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1387,
+        "CU_NAME": "TUVUNA S'MNT",
+        "CU_NO": "410",
+        "GEOCODE": "03030816410",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "MALATI",
+        "LATITUDE": -9.024977,
+        "LONGITUDE": 147.016939,
+        "REGHH": 3,
+        "TOTPOP2000": 19,
+        "MALE2000": 9,
+        "FEMALE2000": 10,
+        "POP2008": 19,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030816410,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1388,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9827720000278,
+          -8.995346000217694
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1388,
+        "CU_NAME": "RAKATANI S'MNT",
+        "CU_NO": "411",
+        "GEOCODE": "03030816411",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "MALATI",
+        "LATITUDE": -8.996791,
+        "LONGITUDE": 146.981742,
+        "REGHH": 8,
+        "TOTPOP2000": 58,
+        "MALE2000": 26,
+        "FEMALE2000": 32,
+        "POP2008": 66,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030816411,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1389,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9399280000772,
+          -8.96545200030954
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1389,
+        "CU_NAME": "DIDIBUNA S'MNT",
+        "CU_NO": "420",
+        "GEOCODE": "03030816420",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "MALATI",
+        "LATITUDE": -8.966896,
+        "LONGITUDE": 146.938897,
+        "REGHH": 26,
+        "TOTPOP2000": 174,
+        "MALE2000": 94,
+        "FEMALE2000": 80,
+        "POP2008": 208,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030816420,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1390,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.95312399977286,
+          -8.976791999850889
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1390,
+        "CU_NAME": "DOA PLANATATION",
+        "CU_NO": "507",
+        "GEOCODE": "03030816507",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "MALATI",
+        "LATITUDE": -8.978236,
+        "LONGITUDE": 146.952093,
+        "REGHH": 65,
+        "TOTPOP2000": 284,
+        "MALE2000": 174,
+        "FEMALE2000": 110,
+        "POP2008": 341,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030816507,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1391,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.949994000223,
+          -8.958876000127248
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1391,
+        "CU_NAME": "LOLORUA SAWMILL",
+        "CU_NO": "508",
+        "GEOCODE": "03030816508",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "MALATI",
+        "LATITUDE": -8.96032,
+        "LONGITUDE": 146.948964,
+        "REGHH": 89,
+        "TOTPOP2000": 352,
+        "MALE2000": 222,
+        "FEMALE2000": 130,
+        "POP2008": 421,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030816508,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1392,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.98579700013147,
+          -8.993877999969698
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1392,
+        "CU_NAME": "KANOSIA",
+        "CU_NO": "509",
+        "GEOCODE": "03030816509",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "MALATI",
+        "LATITUDE": -8.995662,
+        "LONGITUDE": 146.986033,
+        "REGHH": 3,
+        "TOTPOP2000": 26,
+        "MALE2000": 18,
+        "FEMALE2000": 8,
+        "POP2008": 34,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030816509,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30001,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.00541708043397,
+          -6.230155860104787
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30001,
+        "CU_NAME": "YONKI SOUTH TOWNSHIP",
+        "CU_NO": "001",
+        "GEOCODE": "11040684001",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "06",
+        "WARD_NO": "84",
+        "WARD_NAME": "YONKI TOWNSHIP",
+        "LATITUDE": -6.230156,
+        "LONGITUDE": 146.005417,
+        "REGHH": 86,
+        "TOTPOP2000": 552,
+        "MALE2000": 289,
+        "FEMALE2000": 263,
+        "POP2008": 657,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.000765519713,
+          -6.237542879700072
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30002,
+        "CU_NAME": "YONKI NORTH TOWNSHIP",
+        "CU_NO": "002",
+        "GEOCODE": "11040684002",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "06",
+        "WARD_NO": "84",
+        "WARD_NAME": "YONKI TOWNSHIP",
+        "LATITUDE": -6.237543,
+        "LONGITUDE": 146.000766,
+        "REGHH": 58,
+        "TOTPOP2000": 415,
+        "MALE2000": 220,
+        "FEMALE2000": 195,
+        "POP2008": 494,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.00192436002123,
+          -6.234407459936278
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30003,
+        "CU_NAME": "HYUNDAI W/QTRS",
+        "CU_NO": "003",
+        "GEOCODE": "11040684003",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "06",
+        "WARD_NO": "84",
+        "WARD_NAME": "YONKI TOWNSHIP",
+        "LATITUDE": -6.234407,
+        "LONGITUDE": 146.001924,
+        "REGHH": 10,
+        "TOTPOP2000": 42,
+        "MALE2000": 22,
+        "FEMALE2000": 20,
+        "POP2008": 50,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9959087597815,
+          -6.227717399638209
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30004,
+        "CU_NAME": "DRILLERS CAMP",
+        "CU_NO": "004",
+        "GEOCODE": "11040684004",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "06",
+        "WARD_NO": "84",
+        "WARD_NAME": "YONKI TOWNSHIP",
+        "LATITUDE": -6.227717,
+        "LONGITUDE": 145.995909,
+        "REGHH": 8,
+        "TOTPOP2000": 55,
+        "MALE2000": 26,
+        "FEMALE2000": 29,
+        "POP2008": 63,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

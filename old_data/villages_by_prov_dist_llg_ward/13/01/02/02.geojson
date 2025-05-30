@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7927,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.05096700032686,
+          -4.0362760001372635
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7927,
+        "CU_NAME": "DANGALE",
+        "CU_NO": "007",
+        "GEOCODE": "13010202007",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "DANGALE",
+        "LATITUDE": -4.034921,
+        "LONGITUDE": 145.051096,
+        "REGHH": 78,
+        "TOTPOP2000": 425,
+        "MALE2000": 231,
+        "FEMALE2000": 194,
+        "POP2008": 525,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010202007,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

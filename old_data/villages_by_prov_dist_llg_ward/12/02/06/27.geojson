@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10784,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5235809995636,
+          -6.446409000375013
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10784,
+        "CU_NAME": "PINDIU STATION",
+        "CU_NO": "501",
+        "GEOCODE": "12020627501",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "27",
+        "WARD_NAME": "PINDIU STATION",
+        "LATITUDE": -6.444309,
+        "LONGITUDE": 147.518031,
+        "REGHH": 50,
+        "TOTPOP2000": 297,
+        "MALE2000": 164,
+        "FEMALE2000": 133,
+        "POP2008": 371,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020627501,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

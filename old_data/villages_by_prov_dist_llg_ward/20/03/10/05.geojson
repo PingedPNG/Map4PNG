@@ -1,0 +1,517 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 666,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.43189900043853,
+          -6.664952999880995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 666,
+        "CU_NAME": "SIROI",
+        "CU_NO": "001",
+        "GEOCODE": "20031005001",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KORIKUNU",
+        "LATITUDE": -6.66639,
+        "LONGITUDE": 155.431,
+        "REGHH": 67,
+        "TOTPOP2000": 308,
+        "MALE2000": 154,
+        "FEMALE2000": 154,
+        "POP2008": 348,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031005001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 667,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.42489899958923,
+          -6.7021730003835955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 667,
+        "CU_NAME": "RAASU",
+        "CU_NO": "002",
+        "GEOCODE": "20031005002",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KORIKUNU",
+        "LATITUDE": -6.70361,
+        "LONGITUDE": 155.424,
+        "REGHH": 13,
+        "TOTPOP2000": 81,
+        "MALE2000": 35,
+        "FEMALE2000": 46,
+        "POP2008": 89,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031005002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 668,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.45789799969305,
+          -6.653843000154268
+        ]
+      },
+      "properties": {
+        "OBJECTID": 668,
+        "CU_NAME": "SIRARUHO",
+        "CU_NO": "003",
+        "GEOCODE": "20031005003",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KORIKUNU",
+        "LATITUDE": -6.65528,
+        "LONGITUDE": 155.457,
+        "REGHH": 13,
+        "TOTPOP2000": 91,
+        "MALE2000": 47,
+        "FEMALE2000": 44,
+        "POP2008": 99,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031005003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 669,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.39764500001684,
+          -6.679712999755111
+        ]
+      },
+      "properties": {
+        "OBJECTID": 669,
+        "CU_NAME": "KOTU",
+        "CU_NO": "004",
+        "GEOCODE": "20031005004",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KORIKUNU",
+        "LATITUDE": -6.68778,
+        "LONGITUDE": 155.404,
+        "REGHH": 13,
+        "TOTPOP2000": 60,
+        "MALE2000": 28,
+        "FEMALE2000": 32,
+        "POP2008": 68,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031005004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 670,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.43389900003888,
+          -6.7021730003835955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 670,
+        "CU_NAME": "KAHUWANKA",
+        "CU_NO": "005",
+        "GEOCODE": "20031005005",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KORIKUNU",
+        "LATITUDE": -6.70361,
+        "LONGITUDE": 155.433,
+        "REGHH": 16,
+        "TOTPOP2000": 71,
+        "MALE2000": 40,
+        "FEMALE2000": 31,
+        "POP2008": 79,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031005005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 671,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.42389900023875,
+          -6.690503000013393
+        ]
+      },
+      "properties": {
+        "OBJECTID": 671,
+        "CU_NAME": "TOITOI",
+        "CU_NO": "006",
+        "GEOCODE": "20031005006",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KORIKUNU",
+        "LATITUDE": -6.69194,
+        "LONGITUDE": 155.423,
+        "REGHH": 35,
+        "TOTPOP2000": 183,
+        "MALE2000": 87,
+        "FEMALE2000": 96,
+        "POP2008": 207,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031005006,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 672,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.43827500039106,
+          -6.685863000077347
+        ]
+      },
+      "properties": {
+        "OBJECTID": 672,
+        "CU_NAME": "LUE / HIRE",
+        "CU_NO": "007",
+        "GEOCODE": "20031005007",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KORIKUNU",
+        "LATITUDE": -6.6873,
+        "LONGITUDE": 155.437376,
+        "REGHH": 44,
+        "TOTPOP2000": 252,
+        "MALE2000": 154,
+        "FEMALE2000": 98,
+        "POP2008": 284,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031005007,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.43989899973906,
+          -6.684953000380631
+        ]
+      },
+      "properties": {
+        "OBJECTID": 673,
+        "CU_NAME": "KOROPO",
+        "CU_NO": "008",
+        "GEOCODE": "20031005008",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KORIKUNU",
+        "LATITUDE": -6.68639,
+        "LONGITUDE": 155.439,
+        "REGHH": 28,
+        "TOTPOP2000": 122,
+        "MALE2000": 63,
+        "FEMALE2000": 59,
+        "POP2008": 138,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031005008,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 674,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.4313349996106,
+          -6.6910659998959545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 674,
+        "CU_NAME": "UNUNAI",
+        "CU_NO": "009",
+        "GEOCODE": "20031005009",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KORIKUNU",
+        "LATITUDE": -6.692503,
+        "LONGITUDE": 155.430436,
+        "REGHH": 21,
+        "TOTPOP2000": 99,
+        "MALE2000": 52,
+        "FEMALE2000": 47,
+        "POP2008": 113,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031005009,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 675,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.44386700016196,
+          -6.67026600027566
+        ]
+      },
+      "properties": {
+        "OBJECTID": 675,
+        "CU_NAME": "KAPARO",
+        "CU_NO": "010",
+        "GEOCODE": "20031005010",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KORIKUNU",
+        "LATITUDE": -6.671703,
+        "LONGITUDE": 155.442968,
+        "REGHH": 76,
+        "TOTPOP2000": 371,
+        "MALE2000": 180,
+        "FEMALE2000": 191,
+        "POP2008": 419,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031005010,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 676,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.43389900003888,
+          -6.656063000007407
+        ]
+      },
+      "properties": {
+        "OBJECTID": 676,
+        "CU_NAME": "ARAI",
+        "CU_NO": "011",
+        "GEOCODE": "20031005011",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KORIKUNU",
+        "LATITUDE": -6.6575,
+        "LONGITUDE": 155.433,
+        "REGHH": 8,
+        "TOTPOP2000": 26,
+        "MALE2000": 12,
+        "FEMALE2000": 14,
+        "POP2008": 26,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031005011,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.4367313078037,
+          -6.672317874570183
+        ]
+      },
+      "properties": {
+        "OBJECTID": 677,
+        "CU_NAME": "AMIOI",
+        "CU_NO": "012",
+        "GEOCODE": "20031005012",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KORIKUNU",
+        "LATITUDE": -6.676622,
+        "LONGITUDE": 155.434099,
+        "REGHH": 48,
+        "TOTPOP2000": 222,
+        "MALE2000": 101,
+        "FEMALE2000": 121,
+        "POP2008": 250,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031005012,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 678,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.43789900013883,
+          -6.694122999676665
+        ]
+      },
+      "properties": {
+        "OBJECTID": 678,
+        "CU_NAME": "HARIKAKU",
+        "CU_NO": "013",
+        "GEOCODE": "20031005013",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KORIKUNU",
+        "LATITUDE": -6.69556,
+        "LONGITUDE": 155.437,
+        "REGHH": 8,
+        "TOTPOP2000": 42,
+        "MALE2000": 26,
+        "FEMALE2000": 16,
+        "POP2008": 50,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031005013,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 679,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.4068989995892,
+          -6.695782999785592
+        ]
+      },
+      "properties": {
+        "OBJECTID": 679,
+        "CU_NAME": "MANAHE",
+        "CU_NO": "014",
+        "GEOCODE": "20031005014",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KORIKUNU",
+        "LATITUDE": -6.69722,
+        "LONGITUDE": 155.406,
+        "REGHH": 22,
+        "TOTPOP2000": 129,
+        "MALE2000": 66,
+        "FEMALE2000": 63,
+        "POP2008": 145,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031005014,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 680,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.43766500013976,
+          -6.683493999648306
+        ]
+      },
+      "properties": {
+        "OBJECTID": 680,
+        "CU_NAME": "MONOITU CATH. MISSION",
+        "CU_NO": "402",
+        "GEOCODE": "20031005402",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KORIKUNU",
+        "LATITUDE": -6.684931,
+        "LONGITUDE": 155.436766,
+        "REGHH": 6,
+        "TOTPOP2000": 25,
+        "MALE2000": 12,
+        "FEMALE2000": 13,
+        "POP2008": 25,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031005402,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27280,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.43690371233652,
+          -6.6774544801401134
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27280,
+        "CU_NAME": "Hire",
+        "CU_NO": "774",
+        "GEOCODE": "774",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": null,
+        "LATITUDE": -6.677468,
+        "LONGITUDE": 155.436917,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 774,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

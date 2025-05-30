@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5537,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.94183599963173,
+          -5.066636999797652
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5537,
+        "CU_NAME": "MOSOP",
+        "CU_NO": "001",
+        "GEOCODE": "08020510001",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "MOSOP",
+        "LATITUDE": -5.054918,
+        "LONGITUDE": 143.951634,
+        "REGHH": 19,
+        "TOTPOP2000": 116,
+        "MALE2000": 59,
+        "FEMALE2000": 57,
+        "POP2008": 146,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020510001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.93835199994487,
+          -5.076658999713004
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5538,
+        "CU_NAME": "ENGAPALU",
+        "CU_NO": "002",
+        "GEOCODE": "08020510002",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "MOSOP",
+        "LATITUDE": -5.068111,
+        "LONGITUDE": 143.949925,
+        "REGHH": 16,
+        "TOTPOP2000": 91,
+        "MALE2000": 46,
+        "FEMALE2000": 45,
+        "POP2008": 115,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020510002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5539,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.94897399965043,
+          -5.050280000021928
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5539,
+        "CU_NAME": "KOMBAULAM",
+        "CU_NO": "003",
+        "GEOCODE": "08020510003",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "MOSOP",
+        "LATITUDE": -5.050662,
+        "LONGITUDE": 143.950139,
+        "REGHH": 34,
+        "TOTPOP2000": 203,
+        "MALE2000": 124,
+        "FEMALE2000": 79,
+        "POP2008": 255,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020510003,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

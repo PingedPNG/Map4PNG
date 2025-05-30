@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9583,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.48901399959652,
+          -9.76172300031618
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9583,
+        "CU_NAME": "PUMANI",
+        "CU_NO": "021",
+        "GEOCODE": "05010123021",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "23",
+        "WARD_NAME": "PUMANI",
+        "LATITUDE": -9.762424,
+        "LONGITUDE": 149.484044,
+        "REGHH": 99,
+        "TOTPOP2000": 550,
+        "MALE2000": 266,
+        "FEMALE2000": 284,
+        "POP2008": 670,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010123021,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

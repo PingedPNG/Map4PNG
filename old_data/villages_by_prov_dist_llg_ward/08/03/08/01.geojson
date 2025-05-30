@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5670,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.00024099972245,
+          -5.384336999752691
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5670,
+        "CU_NAME": "ASPIRINGA",
+        "CU_NO": "002",
+        "GEOCODE": "08030801002",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "ASPIRINGA",
+        "LATITUDE": -5.384219,
+        "LONGITUDE": 143.001171,
+        "REGHH": 60,
+        "TOTPOP2000": 360,
+        "MALE2000": 187,
+        "FEMALE2000": 173,
+        "POP2008": 452,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030801002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

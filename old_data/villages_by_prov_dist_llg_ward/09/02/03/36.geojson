@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16406,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3639570000156,
+          -5.707143999595871
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16406,
+        "CU_NAME": "KELEM.1",
+        "CU_NO": "001",
+        "GEOCODE": "09020336001",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "36",
+        "WARD_NAME": "KELEM.1",
+        "LATITUDE": -5.70808,
+        "LONGITUDE": 144.364292,
+        "REGHH": 79,
+        "TOTPOP2000": 311,
+        "MALE2000": 146,
+        "FEMALE2000": 165,
+        "POP2008": 379,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020336001,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16407,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.36895999960439,
+          -5.705868000108069
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16407,
+        "CU_NAME": "KRAM",
+        "CU_NO": "002",
+        "GEOCODE": "09020336002",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "36",
+        "WARD_NAME": "KELEM.1",
+        "LATITUDE": -5.706804,
+        "LONGITUDE": 144.369295,
+        "REGHH": 21,
+        "TOTPOP2000": 83,
+        "MALE2000": 38,
+        "FEMALE2000": 45,
+        "POP2008": 99,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020336002,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16408,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.37350599970216,
+          -5.7083159996835775
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16408,
+        "CU_NAME": "KELEM.2",
+        "CU_NO": "003",
+        "GEOCODE": "09020336003",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "36",
+        "WARD_NAME": "KELEM.1",
+        "LATITUDE": -5.709252,
+        "LONGITUDE": 144.373841,
+        "REGHH": 35,
+        "TOTPOP2000": 130,
+        "MALE2000": 61,
+        "FEMALE2000": 69,
+        "POP2008": 158,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020336003,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

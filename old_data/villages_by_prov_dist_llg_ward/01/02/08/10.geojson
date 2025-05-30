@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15411,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.24347299957935,
+          -5.5757940001929
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15411,
+        "CU_NAME": "BUMBIN NO.1",
+        "CU_NO": "008",
+        "GEOCODE": "01020810008",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "10",
+        "WARD_NAME": "KOLEBON",
+        "LATITUDE": -5.577192,
+        "LONGITUDE": 141.242378,
+        "REGHH": 15,
+        "TOTPOP2000": 88,
+        "MALE2000": 46,
+        "FEMALE2000": 42,
+        "POP2008": 113,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020810008,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15412,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.16347500037102,
+          -5.546740000350667
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15412,
+        "CU_NAME": "KOLEBON",
+        "CU_NO": "014",
+        "GEOCODE": "01020810014",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "10",
+        "WARD_NAME": "KOLEBON",
+        "LATITUDE": -5.548138,
+        "LONGITUDE": 141.162379,
+        "REGHH": 20,
+        "TOTPOP2000": 78,
+        "MALE2000": 43,
+        "FEMALE2000": 35,
+        "POP2008": 102,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020810014,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15413,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.15724800009514,
+          -5.538318999622106
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15413,
+        "CU_NAME": "TWINKWI",
+        "CU_NO": "026",
+        "GEOCODE": "01020810026",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "10",
+        "WARD_NAME": "KOLEBON",
+        "LATITUDE": -5.539717,
+        "LONGITUDE": 141.156152,
+        "REGHH": 19,
+        "TOTPOP2000": 98,
+        "MALE2000": 52,
+        "FEMALE2000": 46,
+        "POP2008": 127,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020810026,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

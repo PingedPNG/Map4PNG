@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.95385400006217,
+          -3.7838399998161094
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7133,
+        "CU_NAME": "KUATMUKUM",
+        "CU_NO": "023",
+        "GEOCODE": "14052114023",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "21",
+        "WARD_NO": "14",
+        "WARD_NAME": "KUATMUKUM",
+        "LATITUDE": -3.785421,
+        "LONGITUDE": 142.952612,
+        "REGHH": 134,
+        "TOTPOP2000": 570,
+        "MALE2000": 279,
+        "FEMALE2000": 291,
+        "POP2008": 679,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052114023,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

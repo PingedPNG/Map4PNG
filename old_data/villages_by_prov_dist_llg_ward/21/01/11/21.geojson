@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.00118700017993,
+          -5.930269999960501
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20229,
+        "CU_NAME": "JALUMA",
+        "CU_NO": "001",
+        "GEOCODE": "07041121001",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "11",
+        "WARD_NO": "21",
+        "WARD_NAME": "HOGAMBE",
+        "LATITUDE": -5.933185,
+        "LONGITUDE": 143.00441,
+        "REGHH": 60,
+        "TOTPOP2000": 242,
+        "MALE2000": 110,
+        "FEMALE2000": 132,
+        "POP2008": 338,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041121001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20230,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0057870000701,
+          -5.9273140003408
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20230,
+        "CU_NAME": "HOGONI",
+        "CU_NO": "002",
+        "GEOCODE": "07041121002",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "11",
+        "WARD_NO": "21",
+        "WARD_NAME": "HOGAMBE",
+        "LATITUDE": -5.933186,
+        "LONGITUDE": 143.00442,
+        "REGHH": 61,
+        "TOTPOP2000": 248,
+        "MALE2000": 129,
+        "FEMALE2000": 119,
+        "POP2008": 344,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041121002,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

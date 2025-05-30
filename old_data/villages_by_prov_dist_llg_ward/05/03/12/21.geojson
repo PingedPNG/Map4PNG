@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.12266100030502,
+          -8.537742000293008
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10140,
+        "CU_NAME": "OKAIBOMA",
+        "CU_NO": "016",
+        "GEOCODE": "05031221016",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "21",
+        "WARD_NAME": "OKAIBOMA",
+        "LATITUDE": -8.538087,
+        "LONGITUDE": 151.126228,
+        "REGHH": 77,
+        "TOTPOP2000": 433,
+        "MALE2000": 228,
+        "FEMALE2000": 205,
+        "POP2008": 528,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031221016,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10141,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.11743899961016,
+          -8.543269999810605
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10141,
+        "CU_NAME": "OKUPUKOPU",
+        "CU_NO": "017",
+        "GEOCODE": "05031221017",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "21",
+        "WARD_NAME": "OKAIBOMA",
+        "LATITUDE": -8.544721,
+        "LONGITUDE": 151.116469,
+        "REGHH": 104,
+        "TOTPOP2000": 473,
+        "MALE2000": 242,
+        "FEMALE2000": 231,
+        "POP2008": 576,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031221017,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1249770000885,
+          -8.533081000287893
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10142,
+        "CU_NAME": "OLIVILEVI",
+        "CU_NO": "018",
+        "GEOCODE": "05031221018",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "21",
+        "WARD_NAME": "OKAIBOMA",
+        "LATITUDE": -8.537543,
+        "LONGITUDE": 151.124748,
+        "REGHH": 73,
+        "TOTPOP2000": 318,
+        "MALE2000": 163,
+        "FEMALE2000": 155,
+        "POP2008": 387,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031221018,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.12985700030038,
+          -8.533641000032105
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10143,
+        "CU_NAME": "OKAIBOMA COMM SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "05031221401",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "21",
+        "WARD_NAME": "OKAIBOMA",
+        "LATITUDE": -8.538087,
+        "LONGITUDE": 151.126228,
+        "REGHH": 4,
+        "TOTPOP2000": 22,
+        "MALE2000": 12,
+        "FEMALE2000": 10,
+        "POP2008": 30,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031221401,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

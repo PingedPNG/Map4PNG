@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4359550002232,
+          -6.369823000231236
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10737,
+        "CU_NAME": "LALANG",
+        "CU_NO": "007",
+        "GEOCODE": "12020617007",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "17",
+        "WARD_NAME": "YAPANG",
+        "LATITUDE": -6.370202,
+        "LONGITUDE": 147.438044,
+        "REGHH": 90,
+        "TOTPOP2000": 478,
+        "MALE2000": 242,
+        "FEMALE2000": 236,
+        "POP2008": 596,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020617007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.44189299976222,
+          -6.388566000320623
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10738,
+        "CU_NAME": "NENGIT",
+        "CU_NO": "010",
+        "GEOCODE": "12020617010",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "17",
+        "WARD_NAME": "YAPANG",
+        "LATITUDE": -6.389984,
+        "LONGITUDE": 147.440875,
+        "REGHH": 73,
+        "TOTPOP2000": 396,
+        "MALE2000": 184,
+        "FEMALE2000": 212,
+        "POP2008": 493,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020617010,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10739,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4471189997421,
+          -6.399295999610672
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10739,
+        "CU_NAME": "YAPANG",
+        "CU_NO": "017",
+        "GEOCODE": "12020617017",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "17",
+        "WARD_NAME": "YAPANG",
+        "LATITUDE": -6.400715,
+        "LONGITUDE": 147.4461,
+        "REGHH": 60,
+        "TOTPOP2000": 255,
+        "MALE2000": 95,
+        "FEMALE2000": 160,
+        "POP2008": 318,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020617017,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

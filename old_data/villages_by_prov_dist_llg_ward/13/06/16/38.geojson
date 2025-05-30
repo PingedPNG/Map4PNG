@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9314,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.628633000013,
+          -5.363593000016863
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9314,
+        "CU_NAME": "KINIBONG",
+        "CU_NO": "002",
+        "GEOCODE": "13061638002",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "38",
+        "WARD_NAME": "KINIBONG",
+        "LATITUDE": -5.360907,
+        "LONGITUDE": 144.624545,
+        "REGHH": 152,
+        "TOTPOP2000": 800,
+        "MALE2000": 423,
+        "FEMALE2000": 377,
+        "POP2008": 990,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061638002,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.73574900031622,
+          -4.220619999913026
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6233,
+        "CU_NAME": "WANIAP",
+        "CU_NO": "006",
+        "GEOCODE": "14010412006",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "12",
+        "WARD_NAME": "WANIAP",
+        "LATITUDE": -4.215844,
+        "LONGITUDE": 141.728851,
+        "REGHH": 31,
+        "TOTPOP2000": 213,
+        "MALE2000": 116,
+        "FEMALE2000": 97,
+        "POP2008": 253,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010412006,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.73028400010662,
+          -4.257197000441181
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6234,
+        "CU_NAME": "IMTAPE",
+        "CU_NO": "007",
+        "GEOCODE": "14010412007",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "12",
+        "WARD_NAME": "WANIAP",
+        "LATITUDE": -4.25878,
+        "LONGITUDE": 141.729027,
+        "REGHH": 14,
+        "TOTPOP2000": 74,
+        "MALE2000": 32,
+        "FEMALE2000": 42,
+        "POP2008": 90,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010412007,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.724514000221,
+          -4.219930999615883
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6235,
+        "CU_NAME": "TUAM",
+        "CU_NO": "008",
+        "GEOCODE": "14010412008",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "12",
+        "WARD_NAME": "WANIAP",
+        "LATITUDE": -4.221514,
+        "LONGITUDE": 141.723257,
+        "REGHH": 7,
+        "TOTPOP2000": 32,
+        "MALE2000": 14,
+        "FEMALE2000": 18,
+        "POP2008": 40,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010412008,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

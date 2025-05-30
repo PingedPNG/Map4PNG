@@ -1,0 +1,869 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 553,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.68979799997783,
+          -6.581359000317548
+        ]
+      },
+      "properties": {
+        "OBJECTID": 553,
+        "CU_NAME": "BOGISAGO",
+        "CU_NO": "001",
+        "GEOCODE": "20030903001",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.580278,
+        "LONGITUDE": 155.692222,
+        "REGHH": 37,
+        "TOTPOP2000": 217,
+        "MALE2000": 110,
+        "FEMALE2000": 107,
+        "POP2008": 243,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 554,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.7111899999186,
+          -6.593008999765459
+        ]
+      },
+      "properties": {
+        "OBJECTID": 554,
+        "CU_NAME": "METEKILU",
+        "CU_NO": "002",
+        "GEOCODE": "20030903002",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.591111,
+        "LONGITUDE": 155.710833,
+        "REGHH": 17,
+        "TOTPOP2000": 92,
+        "MALE2000": 49,
+        "FEMALE2000": 43,
+        "POP2008": 100,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 555,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.6756169998248,
+          -6.5855369996327795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 555,
+        "CU_NAME": "PAULOUKU",
+        "CU_NO": "003",
+        "GEOCODE": "20030903003",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.5875,
+        "LONGITUDE": 155.68,
+        "REGHH": 38,
+        "TOTPOP2000": 180,
+        "MALE2000": 91,
+        "FEMALE2000": 89,
+        "POP2008": 204,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 556,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.702837999674,
+          -6.611896000200204
+        ]
+      },
+      "properties": {
+        "OBJECTID": 556,
+        "CU_NAME": "LUKAUKO",
+        "CU_NO": "004",
+        "GEOCODE": "20030903004",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.613333,
+        "LONGITUDE": 155.701944,
+        "REGHH": 58,
+        "TOTPOP2000": 312,
+        "MALE2000": 153,
+        "FEMALE2000": 159,
+        "POP2008": 352,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 557,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.7220050004305,
+          -6.645506999748193
+        ]
+      },
+      "properties": {
+        "OBJECTID": 557,
+        "CU_NAME": "KAITU",
+        "CU_NO": "005",
+        "GEOCODE": "20030903005",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.646944,
+        "LONGITUDE": 155.721111,
+        "REGHH": 32,
+        "TOTPOP2000": 155,
+        "MALE2000": 85,
+        "FEMALE2000": 70,
+        "POP2008": 173,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 558,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.75443600042115,
+          -6.643353000240722
+        ]
+      },
+      "properties": {
+        "OBJECTID": 558,
+        "CU_NAME": "TURUTAI",
+        "CU_NO": "006",
+        "GEOCODE": "20030903006",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.639238,
+        "LONGITUDE": 155.753511,
+        "REGHH": 30,
+        "TOTPOP2000": 151,
+        "MALE2000": 85,
+        "FEMALE2000": 66,
+        "POP2008": 167,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903006,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 559,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.73228299956088,
+          -6.65773000043913
+        ]
+      },
+      "properties": {
+        "OBJECTID": 559,
+        "CU_NAME": "LUIRAU",
+        "CU_NO": "007",
+        "GEOCODE": "20030903007",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.659167,
+        "LONGITUDE": 155.731389,
+        "REGHH": 26,
+        "TOTPOP2000": 149,
+        "MALE2000": 81,
+        "FEMALE2000": 68,
+        "POP2008": 165,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903007,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 560,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.71311599970375,
+          -6.656341000236921
+        ]
+      },
+      "properties": {
+        "OBJECTID": 560,
+        "CU_NAME": "PIRIRARO",
+        "CU_NO": "008",
+        "GEOCODE": "20030903008",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.657778,
+        "LONGITUDE": 155.712222,
+        "REGHH": 40,
+        "TOTPOP2000": 243,
+        "MALE2000": 122,
+        "FEMALE2000": 121,
+        "POP2008": 275,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903008,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 561,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.7186719996132,
+          -6.664396000275133
+        ]
+      },
+      "properties": {
+        "OBJECTID": 561,
+        "CU_NAME": "TABAGO",
+        "CU_NO": "009",
+        "GEOCODE": "20030903009",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.665833,
+        "LONGITUDE": 155.717778,
+        "REGHH": 39,
+        "TOTPOP2000": 245,
+        "MALE2000": 128,
+        "FEMALE2000": 117,
+        "POP2008": 277,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903009,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 562,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.7883129996453,
+          -6.770965999980888
+        ]
+      },
+      "properties": {
+        "OBJECTID": 562,
+        "CU_NAME": "KOOGU",
+        "CU_NO": "010",
+        "GEOCODE": "20030903010",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.772405,
+        "LONGITUDE": 155.78742,
+        "REGHH": 53,
+        "TOTPOP2000": 315,
+        "MALE2000": 168,
+        "FEMALE2000": 147,
+        "POP2008": 355,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903010,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 563,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.75040699988324,
+          -6.71238099988318
+        ]
+      },
+      "properties": {
+        "OBJECTID": 563,
+        "CU_NAME": "IAMARU",
+        "CU_NO": "011",
+        "GEOCODE": "20030903011",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.711581,
+        "LONGITUDE": 155.750551,
+        "REGHH": 35,
+        "TOTPOP2000": 205,
+        "MALE2000": 105,
+        "FEMALE2000": 100,
+        "POP2008": 229,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903011,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 564,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.74320699970338,
+          -6.730545000251539
+        ]
+      },
+      "properties": {
+        "OBJECTID": 564,
+        "CU_NAME": "TANTAREKI",
+        "CU_NO": "012",
+        "GEOCODE": "20030903012",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.731983,
+        "LONGITUDE": 155.742313,
+        "REGHH": 60,
+        "TOTPOP2000": 398,
+        "MALE2000": 200,
+        "FEMALE2000": 198,
+        "POP2008": 448,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903012,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 565,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.74394999979268,
+          -6.697173000033899
+        ]
+      },
+      "properties": {
+        "OBJECTID": 565,
+        "CU_NAME": "LAKOWE",
+        "CU_NO": "013",
+        "GEOCODE": "20030903013",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.698611,
+        "LONGITUDE": 155.743056,
+        "REGHH": 56,
+        "TOTPOP2000": 308,
+        "MALE2000": 168,
+        "FEMALE2000": 140,
+        "POP2008": 348,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903013,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 566,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.76006099991525,
+          -6.730229000068277
+        ]
+      },
+      "properties": {
+        "OBJECTID": 566,
+        "CU_NAME": "MAIKA",
+        "CU_NO": "014",
+        "GEOCODE": "20030903014",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.731667,
+        "LONGITUDE": 155.759167,
+        "REGHH": 42,
+        "TOTPOP2000": 237,
+        "MALE2000": 127,
+        "FEMALE2000": 110,
+        "POP2008": 269,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903014,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 567,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.75339400003315,
+          -6.712451000413296
+        ]
+      },
+      "properties": {
+        "OBJECTID": 567,
+        "CU_NAME": "MUGUAI",
+        "CU_NO": "015",
+        "GEOCODE": "20030903015",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.713889,
+        "LONGITUDE": 155.7525,
+        "REGHH": 27,
+        "TOTPOP2000": 155,
+        "MALE2000": 79,
+        "FEMALE2000": 76,
+        "POP2008": 173,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903015,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 568,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.75228300006052,
+          -6.709951000238448
+        ]
+      },
+      "properties": {
+        "OBJECTID": 568,
+        "CU_NAME": "UGANNO",
+        "CU_NO": "016",
+        "GEOCODE": "20030903016",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.711389,
+        "LONGITUDE": 155.751389,
+        "REGHH": 18,
+        "TOTPOP2000": 127,
+        "MALE2000": 64,
+        "FEMALE2000": 63,
+        "POP2008": 143,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903016,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 569,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.75394999959292,
+          -6.707729000293057
+        ]
+      },
+      "properties": {
+        "OBJECTID": 569,
+        "CU_NAME": "TAGURUAI",
+        "CU_NO": "017",
+        "GEOCODE": "20030903017",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.709167,
+        "LONGITUDE": 155.753056,
+        "REGHH": 24,
+        "TOTPOP2000": 138,
+        "MALE2000": 64,
+        "FEMALE2000": 74,
+        "POP2008": 154,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903017,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 570,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.80179800007772,
+          -6.7749500002422565
+        ]
+      },
+      "properties": {
+        "OBJECTID": 570,
+        "CU_NAME": "MUISURU",
+        "CU_NO": "018",
+        "GEOCODE": "20030903018",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.776389,
+        "LONGITUDE": 155.800905,
+        "REGHH": 34,
+        "TOTPOP2000": 201,
+        "MALE2000": 96,
+        "FEMALE2000": 105,
+        "POP2008": 225,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903018,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 571,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.94938500001786,
+          -6.736859000042784
+        ]
+      },
+      "properties": {
+        "OBJECTID": 571,
+        "CU_NAME": "ORABA",
+        "CU_NO": "019",
+        "GEOCODE": "20030903019",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.738285,
+        "LONGITUDE": 155.950717,
+        "REGHH": 33,
+        "TOTPOP2000": 141,
+        "MALE2000": 71,
+        "FEMALE2000": 70,
+        "POP2008": 157,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903019,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 572,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.91485200021975,
+          -6.786356000129274
+        ]
+      },
+      "properties": {
+        "OBJECTID": 572,
+        "CU_NAME": "SARI",
+        "CU_NO": "020",
+        "GEOCODE": "20030903020",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.787778,
+        "LONGITUDE": 155.916738,
+        "REGHH": 22,
+        "TOTPOP2000": 101,
+        "MALE2000": 51,
+        "FEMALE2000": 50,
+        "POP2008": 117,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903020,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 573,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.74117200028763,
+          -6.691339999941022
+        ]
+      },
+      "properties": {
+        "OBJECTID": 573,
+        "CU_NAME": "KIGIBASIOGU",
+        "CU_NO": "022",
+        "GEOCODE": "20030903022",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.692778,
+        "LONGITUDE": 155.740278,
+        "REGHH": 13,
+        "TOTPOP2000": 74,
+        "MALE2000": 37,
+        "FEMALE2000": 37,
+        "POP2008": 82,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903022,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 574,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.72589399990818,
+          -6.687728999793478
+        ]
+      },
+      "properties": {
+        "OBJECTID": 574,
+        "CU_NAME": "KAMOURO",
+        "CU_NO": "023",
+        "GEOCODE": "20030903023",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.689167,
+        "LONGITUDE": 155.725,
+        "REGHH": 118,
+        "TOTPOP2000": 714,
+        "MALE2000": 387,
+        "FEMALE2000": 327,
+        "POP2008": 805,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903023,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 575,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.6795030000635,
+          -6.6115880003858365
+        ]
+      },
+      "properties": {
+        "OBJECTID": 575,
+        "CU_NAME": "OROROI",
+        "CU_NO": "024",
+        "GEOCODE": "20030903024",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.613333,
+        "LONGITUDE": 155.673056,
+        "REGHH": 33,
+        "TOTPOP2000": 198,
+        "MALE2000": 104,
+        "FEMALE2000": 94,
+        "POP2008": 222,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903024,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 576,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.70309900001894,
+          -6.641352999741116
+        ]
+      },
+      "properties": {
+        "OBJECTID": 576,
+        "CU_NAME": "MOGOROI",
+        "CU_NO": "025",
+        "GEOCODE": "20030903025",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.646111,
+        "LONGITUDE": 155.704167,
+        "REGHH": 54,
+        "TOTPOP2000": 344,
+        "MALE2000": 185,
+        "FEMALE2000": 159,
+        "POP2008": 387,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903025,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 577,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.68172800014713,
+          -6.657173999980046
+        ]
+      },
+      "properties": {
+        "OBJECTID": 577,
+        "CU_NAME": "KOGUIKILU",
+        "CU_NO": "026",
+        "GEOCODE": "20030903026",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.658611,
+        "LONGITUDE": 155.680833,
+        "REGHH": 26,
+        "TOTPOP2000": 130,
+        "MALE2000": 72,
+        "FEMALE2000": 58,
+        "POP2008": 146,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903026,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 578,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.68533900029468,
+          -6.656618999567115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 578,
+        "CU_NAME": "ORUMOI",
+        "CU_NO": "027",
+        "GEOCODE": "20030903027",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.658056,
+        "LONGITUDE": 155.684444,
+        "REGHH": 25,
+        "TOTPOP2000": 121,
+        "MALE2000": 55,
+        "FEMALE2000": 66,
+        "POP2008": 137,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903027,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 579,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.70481600005837,
+          -6.666612999989923
+        ]
+      },
+      "properties": {
+        "OBJECTID": 579,
+        "CU_NAME": "PARERO",
+        "CU_NO": "028",
+        "GEOCODE": "20030903028",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KONNOU",
+        "LATITUDE": -6.661944,
+        "LONGITUDE": 155.703611,
+        "REGHH": 34,
+        "TOTPOP2000": 170,
+        "MALE2000": 84,
+        "FEMALE2000": 86,
+        "POP2008": 194,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20030903028,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

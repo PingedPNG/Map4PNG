@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10981,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.03695999970432,
+          -7.053170999841711
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10981,
+        "CU_NAME": "KEILA",
+        "CU_NO": "011",
+        "GEOCODE": "12031012011",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "KEILA",
+        "LATITUDE": -7.054005,
+        "LONGITUDE": 147.037474,
+        "REGHH": 86,
+        "TOTPOP2000": 470,
+        "MALE2000": 245,
+        "FEMALE2000": 225,
+        "POP2008": 587,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031012011,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10982,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0353199996183,
+          -7.063591000124518
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10982,
+        "CU_NAME": "SALAMAUA HEALTH CENTRE",
+        "CU_NO": "401",
+        "GEOCODE": "12031012401",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "KEILA",
+        "LATITUDE": -7.065016,
+        "LONGITUDE": 147.034295,
+        "REGHH": 3,
+        "TOTPOP2000": 17,
+        "MALE2000": 8,
+        "FEMALE2000": 9,
+        "POP2008": 17,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031012401,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10983,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.03491299973518,
+          -7.046666000235689
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10983,
+        "CU_NAME": "SALAMAUA HIGH SCHOOL",
+        "CU_NO": "402",
+        "GEOCODE": "12031012402",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "KEILA",
+        "LATITUDE": -7.048091,
+        "LONGITUDE": 147.033888,
+        "REGHH": 11,
+        "TOTPOP2000": 47,
+        "MALE2000": 25,
+        "FEMALE2000": 22,
+        "POP2008": 56,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031012402,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

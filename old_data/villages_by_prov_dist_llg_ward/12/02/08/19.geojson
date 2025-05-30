@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10895,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.76216200037607,
+          -6.565385000217532
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10895,
+        "CU_NAME": "LANIZARA",
+        "CU_NO": "023",
+        "GEOCODE": "12020819023",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "19",
+        "WARD_NAME": "BUANG",
+        "LATITUDE": -6.566806,
+        "LONGITUDE": 147.76115,
+        "REGHH": 65,
+        "TOTPOP2000": 340,
+        "MALE2000": 179,
+        "FEMALE2000": 161,
+        "POP2008": 425,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020819023,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10896,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.79542400001765,
+          -6.587038999650076
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10896,
+        "CU_NAME": "BUANG-KOWONENG",
+        "CU_NO": "047",
+        "GEOCODE": "12020819047",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "19",
+        "WARD_NAME": "BUANG",
+        "LATITUDE": -6.58846,
+        "LONGITUDE": 147.794411,
+        "REGHH": 63,
+        "TOTPOP2000": 408,
+        "MALE2000": 211,
+        "FEMALE2000": 197,
+        "POP2008": 508,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020819047,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10897,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.80963000042425,
+          -6.584632000166607
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10897,
+        "CU_NAME": "SIUCKO",
+        "CU_NO": "049",
+        "GEOCODE": "12020819049",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "19",
+        "WARD_NAME": "BUANG",
+        "LATITUDE": -6.586053,
+        "LONGITUDE": 147.808617,
+        "REGHH": 45,
+        "TOTPOP2000": 271,
+        "MALE2000": 133,
+        "FEMALE2000": 138,
+        "POP2008": 338,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020819049,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

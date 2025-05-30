@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5713,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.17171999977825,
+          -5.443020999919156
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5713,
+        "CU_NAME": "KAIRIK",
+        "CU_NO": "004",
+        "GEOCODE": "08030908004",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "08",
+        "WARD_NAME": "KAIRIK",
+        "LATITUDE": -5.444421,
+        "LONGITUDE": 143.170648,
+        "REGHH": 131,
+        "TOTPOP2000": 895,
+        "MALE2000": 492,
+        "FEMALE2000": 403,
+        "POP2008": 1125,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030908004,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

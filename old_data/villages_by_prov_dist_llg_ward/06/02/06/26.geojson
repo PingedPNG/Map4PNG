@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13715,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.16582200018524,
+          -8.73306600009579
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13715,
+        "CU_NAME": "LEJO",
+        "CU_NO": "001",
+        "GEOCODE": "06020626001",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "26",
+        "WARD_NAME": "SANGARA 2",
+        "LATITUDE": -8.73136,
+        "LONGITUDE": 148.162259,
+        "REGHH": 17,
+        "TOTPOP2000": 111,
+        "MALE2000": 58,
+        "FEMALE2000": 53,
+        "POP2008": 136,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020626001,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13716,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.1643260004446,
+          -8.75017699956885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13716,
+        "CU_NAME": "SUMBIRIPA",
+        "CU_NO": "002",
+        "GEOCODE": "06020626002",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "26",
+        "WARD_NAME": "SANGARA 2",
+        "LATITUDE": -8.751621,
+        "LONGITUDE": 148.163313,
+        "REGHH": 114,
+        "TOTPOP2000": 579,
+        "MALE2000": 328,
+        "FEMALE2000": 251,
+        "POP2008": 716,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020626002,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13717,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.16395500042302,
+          -8.725993000376604
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13717,
+        "CU_NAME": "NORTH SANGARA BLOCK",
+        "CU_NO": "401",
+        "GEOCODE": "06020626401",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "26",
+        "WARD_NAME": "SANGARA 2",
+        "LATITUDE": -8.72744,
+        "LONGITUDE": 148.162307,
+        "REGHH": 19,
+        "TOTPOP2000": 125,
+        "MALE2000": 67,
+        "FEMALE2000": 58,
+        "POP2008": 155,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020626401,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

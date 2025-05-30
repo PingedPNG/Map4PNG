@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16897,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.58031600038316,
+          -5.623974999846325
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16897,
+        "CU_NAME": "MAIKMOL",
+        "CU_NO": "007",
+        "GEOCODE": "09040624007",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "24",
+        "WARD_NAME": "MAIKMOL",
+        "LATITUDE": -5.624911,
+        "LONGITUDE": 144.580654,
+        "REGHH": 74,
+        "TOTPOP2000": 313,
+        "MALE2000": 159,
+        "FEMALE2000": 154,
+        "POP2008": 381,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040624007,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

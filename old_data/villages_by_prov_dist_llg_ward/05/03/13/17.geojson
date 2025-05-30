@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10205,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.33464799980538,
+          -9.468541999713466
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10205,
+        "CU_NAME": "BANADA",
+        "CU_NO": "001",
+        "GEOCODE": "05031317001",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "17",
+        "WARD_NAME": "BWADOGA WEST",
+        "LATITUDE": -9.469553,
+        "LONGITUDE": 150.336013,
+        "REGHH": 107,
+        "TOTPOP2000": 494,
+        "MALE2000": 243,
+        "FEMALE2000": 251,
+        "POP2008": 602,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031317001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10206,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.34050800024409,
+          -9.473308000064094
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10206,
+        "CU_NAME": "WAILAGI MISSION",
+        "CU_NO": "503",
+        "GEOCODE": "05031317503",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "17",
+        "WARD_NAME": "BWADOGA WEST",
+        "LATITUDE": -9.47141,
+        "LONGITUDE": 150.341857,
+        "REGHH": 10,
+        "TOTPOP2000": 62,
+        "MALE2000": 28,
+        "FEMALE2000": 34,
+        "POP2008": 78,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031317503,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

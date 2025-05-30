@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7885,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.28096700022695,
+          -4.431373999910136
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7885,
+        "CU_NAME": "BOBOM",
+        "CU_NO": "007",
+        "GEOCODE": "13010121007",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "BUSIP KALELAP",
+        "LATITUDE": -4.432767,
+        "LONGITUDE": 145.279924,
+        "REGHH": 29,
+        "TOTPOP2000": 187,
+        "MALE2000": 89,
+        "FEMALE2000": 98,
+        "POP2008": 231,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010121007,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7886,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26948400038634,
+          -4.382473000328673
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7886,
+        "CU_NAME": "KAUKOMBAR",
+        "CU_NO": "012",
+        "GEOCODE": "13010121012",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "BUSIP KALELAP",
+        "LATITUDE": -4.383649,
+        "LONGITUDE": 145.269119,
+        "REGHH": 42,
+        "TOTPOP2000": 259,
+        "MALE2000": 126,
+        "FEMALE2000": 133,
+        "POP2008": 320,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010121012,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7887,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27807600000745,
+          -4.38221500012213
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7887,
+        "CU_NAME": "TALIAK COMM. SCHOOL",
+        "CU_NO": "402",
+        "GEOCODE": "13010121402",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "BUSIP KALELAP",
+        "LATITUDE": -4.383607,
+        "LONGITUDE": 145.277033,
+        "REGHH": 2,
+        "TOTPOP2000": 13,
+        "MALE2000": 8,
+        "FEMALE2000": 5,
+        "POP2008": 13,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010121402,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.32405099955406,
+          -4.388748000120074
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7888,
+        "CU_NAME": "ASURAMBA PLNT",
+        "CU_NO": "501",
+        "GEOCODE": "13010121501",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "BUSIP KALELAP",
+        "LATITUDE": -4.39014,
+        "LONGITUDE": 145.323007,
+        "REGHH": 44,
+        "TOTPOP2000": 294,
+        "MALE2000": 169,
+        "FEMALE2000": 125,
+        "POP2008": 364,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010121501,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18025,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.892967000127,
+          -5.567004999581002
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18025,
+        "CU_NAME": "ELOBE",
+        "CU_NO": "004",
+        "GEOCODE": "19020613004",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "13",
+        "WARD_NAME": "SALE / SEGE",
+        "LATITUDE": -5.56842,
+        "LONGITUDE": 150.892,
+        "REGHH": 36,
+        "TOTPOP2000": 178,
+        "MALE2000": 96,
+        "FEMALE2000": 82,
+        "POP2008": 234,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020613004,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18026,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9639659998311,
+          -5.527134000034039
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18026,
+        "CU_NAME": "SALE",
+        "CU_NO": "024",
+        "GEOCODE": "19020613024",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "13",
+        "WARD_NAME": "SALE / SEGE",
+        "LATITUDE": -5.52855,
+        "LONGITUDE": 150.963,
+        "REGHH": 86,
+        "TOTPOP2000": 435,
+        "MALE2000": 236,
+        "FEMALE2000": 199,
+        "POP2008": 572,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020613024,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18027,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9239659997312,
+          -5.52835599972957
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18027,
+        "CU_NAME": "SEGE",
+        "CU_NO": "025",
+        "GEOCODE": "19020613025",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "13",
+        "WARD_NAME": "SALE / SEGE",
+        "LATITUDE": -5.52977,
+        "LONGITUDE": 150.923,
+        "REGHH": 63,
+        "TOTPOP2000": 325,
+        "MALE2000": 176,
+        "FEMALE2000": 149,
+        "POP2008": 428,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020613025,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18028,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.94574699962436,
+          -5.520930999965628
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18028,
+        "CU_NAME": "SALE SEGE",
+        "CU_NO": "401",
+        "GEOCODE": "19020613401",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "13",
+        "WARD_NAME": "SALE / SEGE",
+        "LATITUDE": -5.51874,
+        "LONGITUDE": 150.948,
+        "REGHH": 2,
+        "TOTPOP2000": 13,
+        "MALE2000": 9,
+        "FEMALE2000": 4,
+        "POP2008": 13,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020613401,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

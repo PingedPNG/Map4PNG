@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9657,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.69335000040223,
+          -9.999405000140598
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9657,
+        "CU_NAME": "BIDIESI",
+        "CU_NO": "002",
+        "GEOCODE": "05010318002",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "18",
+        "WARD_NAME": "BIDIESI",
+        "LATITUDE": -10.000868,
+        "LONGITUDE": 149.692355,
+        "REGHH": 51,
+        "TOTPOP2000": 321,
+        "MALE2000": 148,
+        "FEMALE2000": 173,
+        "POP2008": 391,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010318002,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

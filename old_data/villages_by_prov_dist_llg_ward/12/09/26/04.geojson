@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12221,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.50719300015692,
+          -6.0668209999890905
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12221,
+        "CU_NAME": "LOBAKA",
+        "CU_NO": "002",
+        "GEOCODE": "12092604002",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "04",
+        "WARD_NAME": "GITUKIA",
+        "LATITUDE": -6.068236,
+        "LONGITUDE": 147.506177,
+        "REGHH": 19,
+        "TOTPOP2000": 89,
+        "MALE2000": 44,
+        "FEMALE2000": 45,
+        "POP2008": 112,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092604002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12222,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4975679996635,
+          -6.088737999858779
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12222,
+        "CU_NAME": "BWAMBI",
+        "CU_NO": "003",
+        "GEOCODE": "12092604003",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "04",
+        "WARD_NAME": "GITUKIA",
+        "LATITUDE": -6.090153,
+        "LONGITUDE": 147.496552,
+        "REGHH": 38,
+        "TOTPOP2000": 181,
+        "MALE2000": 90,
+        "FEMALE2000": 91,
+        "POP2008": 225,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092604003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.49673499992036,
+          -6.1002419997684
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12223,
+        "CU_NAME": "GITUKIA",
+        "CU_NO": "008",
+        "GEOCODE": "12092604008",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "04",
+        "WARD_NAME": "GITUKIA",
+        "LATITUDE": -6.100093,
+        "LONGITUDE": 147.496655,
+        "REGHH": 43,
+        "TOTPOP2000": 274,
+        "MALE2000": 141,
+        "FEMALE2000": 133,
+        "POP2008": 342,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092604008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.51110099961147,
+          -6.09935000000246
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12224,
+        "CU_NAME": "PAUKENGA",
+        "CU_NO": "023",
+        "GEOCODE": "12092604023",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "04",
+        "WARD_NAME": "GITUKIA",
+        "LATITUDE": -6.100765,
+        "LONGITUDE": 147.510085,
+        "REGHH": 23,
+        "TOTPOP2000": 160,
+        "MALE2000": 86,
+        "FEMALE2000": 74,
+        "POP2008": 199,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092604023,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.53238399992176,
+          -6.115133000287699
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12225,
+        "CU_NAME": "SIKEKEA",
+        "CU_NO": "029",
+        "GEOCODE": "12092604029",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "04",
+        "WARD_NAME": "GITUKIA",
+        "LATITUDE": -6.116549,
+        "LONGITUDE": 147.531368,
+        "REGHH": 55,
+        "TOTPOP2000": 335,
+        "MALE2000": 168,
+        "FEMALE2000": 167,
+        "POP2008": 417,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092604029,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16511,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.30686000018898,
+          -5.787761000369812
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16511,
+        "CU_NAME": "KELUA",
+        "CU_NO": "006",
+        "GEOCODE": "09030403006",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "KELUA 2",
+        "LATITUDE": -5.788699,
+        "LONGITUDE": 144.307194,
+        "REGHH": 73,
+        "TOTPOP2000": 285,
+        "MALE2000": 141,
+        "FEMALE2000": 144,
+        "POP2008": 346,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030403006,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16512,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3072340003489,
+          -5.781316999979538
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16512,
+        "CU_NAME": "EPP",
+        "CU_NO": "007",
+        "GEOCODE": "09030403007",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "KELUA 2",
+        "LATITUDE": -5.782255,
+        "LONGITUDE": 144.307568,
+        "REGHH": 9,
+        "TOTPOP2000": 49,
+        "MALE2000": 27,
+        "FEMALE2000": 22,
+        "POP2008": 57,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030403007,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16513,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.28821900030664,
+          -5.779429000148184
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16513,
+        "CU_NAME": "AMBRA",
+        "CU_NO": "008",
+        "GEOCODE": "09030403008",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "KELUA 2",
+        "LATITUDE": -5.780367,
+        "LONGITUDE": 144.288553,
+        "REGHH": 35,
+        "TOTPOP2000": 154,
+        "MALE2000": 82,
+        "FEMALE2000": 72,
+        "POP2008": 187,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030403008,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16514,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.29247399957546,
+          -5.782887000434698
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16514,
+        "CU_NAME": "BANIWAN",
+        "CU_NO": "009",
+        "GEOCODE": "09030403009",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "KELUA 2",
+        "LATITUDE": -5.783825,
+        "LONGITUDE": 144.292808,
+        "REGHH": 28,
+        "TOTPOP2000": 94,
+        "MALE2000": 51,
+        "FEMALE2000": 43,
+        "POP2008": 114,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030403009,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16515,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.28364499981694,
+          -5.780887999981189
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16515,
+        "CU_NAME": "GENA",
+        "CU_NO": "010",
+        "GEOCODE": "09030403010",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "KELUA 2",
+        "LATITUDE": -5.781826,
+        "LONGITUDE": 144.283979,
+        "REGHH": 61,
+        "TOTPOP2000": 220,
+        "MALE2000": 116,
+        "FEMALE2000": 104,
+        "POP2008": 268,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030403010,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16516,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2702010003759,
+          -5.763646999909099
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16516,
+        "CU_NAME": "BAGALAGA",
+        "CU_NO": "011",
+        "GEOCODE": "09030403011",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "KELUA 2",
+        "LATITUDE": -5.764585,
+        "LONGITUDE": 144.270536,
+        "REGHH": 9,
+        "TOTPOP2000": 31,
+        "MALE2000": 17,
+        "FEMALE2000": 14,
+        "POP2008": 39,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030403011,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16517,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.25550699994812,
+          -5.7950419997883955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16517,
+        "CU_NAME": "KUMKA",
+        "CU_NO": "012",
+        "GEOCODE": "09030403012",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "KELUA 2",
+        "LATITUDE": -5.79598,
+        "LONGITUDE": 144.25584,
+        "REGHH": 42,
+        "TOTPOP2000": 198,
+        "MALE2000": 97,
+        "FEMALE2000": 101,
+        "POP2008": 241,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030403012,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16518,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2695970004013,
+          -5.783101999557573
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16518,
+        "CU_NAME": "PORE",
+        "CU_NO": "013",
+        "GEOCODE": "09030403013",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "KELUA 2",
+        "LATITUDE": -5.78404,
+        "LONGITUDE": 144.269932,
+        "REGHH": 48,
+        "TOTPOP2000": 189,
+        "MALE2000": 99,
+        "FEMALE2000": 90,
+        "POP2008": 230,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030403013,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16519,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2802899997837,
+          -5.783288000041125
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16519,
+        "CU_NAME": "KUTA",
+        "CU_NO": "014",
+        "GEOCODE": "09030403014",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "KELUA 2",
+        "LATITUDE": -5.784226,
+        "LONGITUDE": 144.280624,
+        "REGHH": 26,
+        "TOTPOP2000": 142,
+        "MALE2000": 76,
+        "FEMALE2000": 66,
+        "POP2008": 174,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030403014,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16520,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.26420299986864,
+          -5.790765000404406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16520,
+        "CU_NAME": "KUMUL",
+        "CU_NO": "015",
+        "GEOCODE": "09030403015",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "KELUA 2",
+        "LATITUDE": -5.791703,
+        "LONGITUDE": 144.264538,
+        "REGHH": 39,
+        "TOTPOP2000": 153,
+        "MALE2000": 77,
+        "FEMALE2000": 76,
+        "POP2008": 186,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030403015,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16521,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2533149995876,
+          -5.801355000432864
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16521,
+        "CU_NAME": "KUNTILAPENG",
+        "CU_NO": "016",
+        "GEOCODE": "09030403016",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "KELUA 2",
+        "LATITUDE": -5.802293,
+        "LONGITUDE": 144.253648,
+        "REGHH": 40,
+        "TOTPOP2000": 159,
+        "MALE2000": 78,
+        "FEMALE2000": 81,
+        "POP2008": 193,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030403016,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16522,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.24899700011156,
+          -5.803236999987519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16522,
+        "CU_NAME": "KUTIPLGA",
+        "CU_NO": "017",
+        "GEOCODE": "09030403017",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "KELUA 2",
+        "LATITUDE": -5.804175,
+        "LONGITUDE": 144.24933,
+        "REGHH": 59,
+        "TOTPOP2000": 239,
+        "MALE2000": 126,
+        "FEMALE2000": 113,
+        "POP2008": 291,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030403017,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16523,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.23084899958178,
+          -5.815015999988361
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16523,
+        "CU_NAME": "PUNTIBUGL",
+        "CU_NO": "018",
+        "GEOCODE": "09030403018",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "KELUA 2",
+        "LATITUDE": -5.815954,
+        "LONGITUDE": 144.231182,
+        "REGHH": 78,
+        "TOTPOP2000": 280,
+        "MALE2000": 151,
+        "FEMALE2000": 129,
+        "POP2008": 341,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030403018,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16524,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3042569997608,
+          -5.777596000155256
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16524,
+        "CU_NAME": "BANI",
+        "CU_NO": "019",
+        "GEOCODE": "09030403019",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "KELUA 2",
+        "LATITUDE": -5.778534,
+        "LONGITUDE": 144.304591,
+        "REGHH": 38,
+        "TOTPOP2000": 161,
+        "MALE2000": 78,
+        "FEMALE2000": 83,
+        "POP2008": 196,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030403019,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

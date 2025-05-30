@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1123,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0037459995783,
+          -8.2436730001088
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1123,
+        "CU_NAME": "KARIARITSI",
+        "CU_NO": "007",
+        "GEOCODE": "03020505007",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "KATAIPA",
+        "LATITUDE": -8.24511,
+        "LONGITUDE": 147.002718,
+        "REGHH": 15,
+        "TOTPOP2000": 133,
+        "MALE2000": 73,
+        "FEMALE2000": 60,
+        "POP2008": 158,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020505007,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1124,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.03267099976688,
+          -8.281260999595418
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1124,
+        "CU_NAME": "KATAIPA",
+        "CU_NO": "008",
+        "GEOCODE": "03020505008",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "KATAIPA",
+        "LATITUDE": -8.282699,
+        "LONGITUDE": 147.031642,
+        "REGHH": 28,
+        "TOTPOP2000": 154,
+        "MALE2000": 77,
+        "FEMALE2000": 77,
+        "POP2008": 186,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020505008,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1125,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.98050899999043,
+          -8.301818999747013
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1125,
+        "CU_NAME": "MATSIALAVAVA",
+        "CU_NO": "009",
+        "GEOCODE": "03020505009",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "KATAIPA",
+        "LATITUDE": -8.306388,
+        "LONGITUDE": 146.972743,
+        "REGHH": 25,
+        "TOTPOP2000": 108,
+        "MALE2000": 56,
+        "FEMALE2000": 52,
+        "POP2008": 131,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020505009,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.98048499978302,
+          -8.356088999607607
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1126,
+        "CU_NAME": "TATUPITI",
+        "CU_NO": "014",
+        "GEOCODE": "03020505014",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "KATAIPA",
+        "LATITUDE": -8.357527,
+        "LONGITUDE": 146.979457,
+        "REGHH": 53,
+        "TOTPOP2000": 284,
+        "MALE2000": 157,
+        "FEMALE2000": 127,
+        "POP2008": 341,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020505014,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0200020000923,
+          -8.31882499977388
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1127,
+        "CU_NAME": "LAVAVAI",
+        "CU_NO": "015",
+        "GEOCODE": "03020505015",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "KATAIPA",
+        "LATITUDE": -8.320263,
+        "LONGITUDE": 147.018974,
+        "REGHH": 22,
+        "TOTPOP2000": 103,
+        "MALE2000": 45,
+        "FEMALE2000": 58,
+        "POP2008": 124,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020505015,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.99679600013542,
+          -8.34750700044765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1128,
+        "CU_NAME": "KOVETAPA",
+        "CU_NO": "016",
+        "GEOCODE": "03020505016",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "KATAIVA",
+        "LATITUDE": -8.348945,
+        "LONGITUDE": 146.995768,
+        "REGHH": 29,
+        "TOTPOP2000": 142,
+        "MALE2000": 80,
+        "FEMALE2000": 62,
+        "POP2008": 170,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020505016,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.04553100015562,
+          -8.307035000165058
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1129,
+        "CU_NAME": "TAWUNI",
+        "CU_NO": "024",
+        "GEOCODE": "03020505024",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "KATAIPA",
+        "LATITUDE": -8.308473,
+        "LONGITUDE": 147.044504,
+        "REGHH": 39,
+        "TOTPOP2000": 188,
+        "MALE2000": 95,
+        "FEMALE2000": 93,
+        "POP2008": 226,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020505024,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

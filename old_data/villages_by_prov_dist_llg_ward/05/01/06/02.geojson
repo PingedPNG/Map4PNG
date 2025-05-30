@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9783,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4242919995762,
+          -10.690432999583209
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9783,
+        "CU_NAME": "ILOILO",
+        "CU_NO": "009",
+        "GEOCODE": "05010602009",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "06",
+        "WARD_NO": "02",
+        "WARD_NAME": "ILOILO",
+        "LATITUDE": -10.688931,
+        "LONGITUDE": 150.42713,
+        "REGHH": 64,
+        "TOTPOP2000": 348,
+        "MALE2000": 175,
+        "FEMALE2000": 173,
+        "POP2008": 424,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010602009,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

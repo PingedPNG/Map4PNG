@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.29196600043065,
+          -5.609734999670479
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16236,
+        "CU_NAME": "MOPI",
+        "CU_NO": "001",
+        "GEOCODE": "09020307001",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "MOPI",
+        "LATITUDE": -5.61067,
+        "LONGITUDE": 144.2923,
+        "REGHH": 55,
+        "TOTPOP2000": 220,
+        "MALE2000": 122,
+        "FEMALE2000": 98,
+        "POP2008": 268,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020307001,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16237,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.29336900037913,
+          -5.610198000337391
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16237,
+        "CU_NAME": "TIKI",
+        "CU_NO": "002",
+        "GEOCODE": "09020307002",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "MOPI",
+        "LATITUDE": -5.611133,
+        "LONGITUDE": 144.293702,
+        "REGHH": 24,
+        "TOTPOP2000": 123,
+        "MALE2000": 57,
+        "FEMALE2000": 66,
+        "POP2008": 149,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020307002,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16238,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.29774199969359,
+          -5.636736000166252
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16238,
+        "CU_NAME": "GOLKE",
+        "CU_NO": "003",
+        "GEOCODE": "09020307003",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "MOPI",
+        "LATITUDE": -5.637671,
+        "LONGITUDE": 144.298076,
+        "REGHH": 38,
+        "TOTPOP2000": 161,
+        "MALE2000": 74,
+        "FEMALE2000": 87,
+        "POP2008": 196,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020307003,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

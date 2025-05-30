@@ -1,0 +1,645 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20628,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.48579500003927,
+          -5.398285999998848
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20628,
+        "CU_NAME": "KALISDA",
+        "CU_NO": "001",
+        "GEOCODE": "07051507001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 12,
+        "TOTPOP2000": 102,
+        "MALE2000": 55,
+        "FEMALE2000": 47,
+        "POP2008": 141,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20629,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.48466299999757,
+          -5.396403000398095
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20629,
+        "CU_NAME": "BATIAKU",
+        "CU_NO": "002",
+        "GEOCODE": "07051507002",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 2,
+        "TOTPOP2000": 17,
+        "MALE2000": 9,
+        "FEMALE2000": 8,
+        "POP2008": 25,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20630,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.48578300038525,
+          -5.3933810004327825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20630,
+        "CU_NAME": "KULUWA KANA",
+        "CU_NO": "003",
+        "GEOCODE": "07051507003",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 18,
+        "TOTPOP2000": 139,
+        "MALE2000": 71,
+        "FEMALE2000": 68,
+        "POP2008": 193,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507003,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20631,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4778869995854,
+          -5.393023000111327
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20631,
+        "CU_NAME": "PAUA TEKE",
+        "CU_NO": "004",
+        "GEOCODE": "07051507004",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 5,
+        "TOTPOP2000": 27,
+        "MALE2000": 17,
+        "FEMALE2000": 10,
+        "POP2008": 35,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507004,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20632,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.48126599982606,
+          -5.390750999658849
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20632,
+        "CU_NAME": "SURUMAGUA",
+        "CU_NO": "005",
+        "GEOCODE": "07051507005",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 15,
+        "TOTPOP2000": 82,
+        "MALE2000": 46,
+        "FEMALE2000": 36,
+        "POP2008": 114,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507005,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20633,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.48765400033187,
+          -5.389603999824658
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20633,
+        "CU_NAME": "TALE KAKO",
+        "CU_NO": "006",
+        "GEOCODE": "07051507006",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 4,
+        "TOTPOP2000": 30,
+        "MALE2000": 15,
+        "FEMALE2000": 15,
+        "POP2008": 40,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507006,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20634,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.48917000009544,
+          -5.394505000105596
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20634,
+        "CU_NAME": "SAIA PURUNDA",
+        "CU_NO": "007",
+        "GEOCODE": "07051507007",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 12,
+        "TOTPOP2000": 84,
+        "MALE2000": 36,
+        "FEMALE2000": 48,
+        "POP2008": 118,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507007,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20635,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4876740003549,
+          -5.397904000369294
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20635,
+        "CU_NAME": "PARINA",
+        "CU_NO": "008",
+        "GEOCODE": "07051507008",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 2,
+        "TOTPOP2000": 16,
+        "MALE2000": 7,
+        "FEMALE2000": 9,
+        "POP2008": 24,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507008,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20636,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.48052499982896,
+          -5.395658000216486
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20636,
+        "CU_NAME": "TIKI TEKE",
+        "CU_NO": "009",
+        "GEOCODE": "07051507009",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 10,
+        "TOTPOP2000": 82,
+        "MALE2000": 40,
+        "FEMALE2000": 42,
+        "POP2008": 114,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507009,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20637,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.485771999878,
+          -5.3884759999673975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20637,
+        "CU_NAME": "POLIA TEKE",
+        "CU_NO": "010",
+        "GEOCODE": "07051507010",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 4,
+        "TOTPOP2000": 25,
+        "MALE2000": 13,
+        "FEMALE2000": 12,
+        "POP2008": 33,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507010,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20638,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.48916199972655,
+          -5.391108999980304
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20638,
+        "CU_NAME": "AWISOLA",
+        "CU_NO": "011",
+        "GEOCODE": "07051507011",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 18,
+        "TOTPOP2000": 91,
+        "MALE2000": 50,
+        "FEMALE2000": 41,
+        "POP2008": 126,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507011,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20639,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.48314200000334,
+          -5.389236999987531
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20639,
+        "CU_NAME": "ANU IRIPI",
+        "CU_NO": "012",
+        "GEOCODE": "07051507012",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 9,
+        "TOTPOP2000": 81,
+        "MALE2000": 42,
+        "FEMALE2000": 39,
+        "POP2008": 113,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507012,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20640,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.48455699960596,
+          -5.391722000369953
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20640,
+        "CU_NAME": "LEPI",
+        "CU_NO": "013",
+        "GEOCODE": "07051507013",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 5,
+        "TOTPOP2000": 55,
+        "MALE2000": 25,
+        "FEMALE2000": 30,
+        "POP2008": 76,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507013,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20641,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.487665999986,
+          -5.3945090002901
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20641,
+        "CU_NAME": "WALEPI",
+        "CU_NO": "014",
+        "GEOCODE": "07051507014",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 5,
+        "TOTPOP2000": 29,
+        "MALE2000": 13,
+        "FEMALE2000": 16,
+        "POP2008": 38,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507014,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20642,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.48315599974967,
+          -5.395273999595361
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20642,
+        "CU_NAME": "OKOPURA",
+        "CU_NO": "015",
+        "GEOCODE": "07051507015",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 6,
+        "TOTPOP2000": 40,
+        "MALE2000": 22,
+        "FEMALE2000": 18,
+        "POP2008": 56,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507015,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20643,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.48089399975834,
+          -5.392639000389522
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20643,
+        "CU_NAME": "PAPA",
+        "CU_NO": "016",
+        "GEOCODE": "07051507016",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 4,
+        "TOTPOP2000": 26,
+        "MALE2000": 18,
+        "FEMALE2000": 8,
+        "POP2008": 34,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507016,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20644,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.49725999994905,
+          -5.401514999617518
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20644,
+        "CU_NAME": "BELE",
+        "CU_NO": "017",
+        "GEOCODE": "07051507017",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 2,
+        "TOTPOP2000": 17,
+        "MALE2000": 8,
+        "FEMALE2000": 9,
+        "POP2008": 25,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507017,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20645,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.48178200023915,
+          -5.399724999808825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20645,
+        "CU_NAME": "KAKAPI",
+        "CU_NO": "018",
+        "GEOCODE": "07051507018",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 2,
+        "TOTPOP2000": 17,
+        "MALE2000": 8,
+        "FEMALE2000": 9,
+        "POP2008": 25,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507018,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20646,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4945109999827,
+          -5.394214000175907
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20646,
+        "CU_NAME": "TEKAPI",
+        "CU_NO": "019",
+        "GEOCODE": "07051507019",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 15,
+        "TOTPOP2000": 93,
+        "MALE2000": 41,
+        "FEMALE2000": 52,
+        "POP2008": 129,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507019,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20647,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.47631499993736,
+          -5.396999000003802
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20647,
+        "CU_NAME": "APOSTOLIC MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "07051507401",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "07",
+        "WARD_NAME": "HIRANE/BARAE",
+        "LATITUDE": -5.395737,
+        "LONGITUDE": 142.485658,
+        "REGHH": 6,
+        "TOTPOP2000": 32,
+        "MALE2000": 23,
+        "FEMALE2000": 9,
+        "POP2008": 44,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051507401,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

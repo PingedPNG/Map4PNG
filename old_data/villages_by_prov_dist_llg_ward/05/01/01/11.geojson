@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9568,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.04771999977822,
+          -9.695953999877133
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9568,
+        "CU_NAME": "WABUBU",
+        "CU_NO": "023",
+        "GEOCODE": "05010111023",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "11",
+        "WARD_NAME": "WABUBU",
+        "LATITUDE": -9.697852,
+        "LONGITUDE": 150.048013,
+        "REGHH": 36,
+        "TOTPOP2000": 210,
+        "MALE2000": 110,
+        "FEMALE2000": 100,
+        "POP2008": 255,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010111023,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

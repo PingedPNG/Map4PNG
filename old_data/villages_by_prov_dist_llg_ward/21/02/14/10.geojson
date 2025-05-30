@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20492,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7224369995679,
+          -5.5670089997655055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20492,
+        "CU_NAME": "KUPE",
+        "CU_NO": "001",
+        "GEOCODE": "07051410001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "10",
+        "WARD_NAME": "AYUGALI 2",
+        "LATITUDE": -5.575348,
+        "LONGITUDE": 142.727468,
+        "REGHH": 33,
+        "TOTPOP2000": 219,
+        "MALE2000": 121,
+        "FEMALE2000": 98,
+        "POP2008": 304,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051410001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20493,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.73325700031035,
+          -5.566223000391119
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20493,
+        "CU_NAME": "HEWA",
+        "CU_NO": "002",
+        "GEOCODE": "07051410002",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "10",
+        "WARD_NAME": "AYUGALI 2",
+        "LATITUDE": -5.575348,
+        "LONGITUDE": 142.727468,
+        "REGHH": 28,
+        "TOTPOP2000": 286,
+        "MALE2000": 160,
+        "FEMALE2000": 126,
+        "POP2008": 398,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051410002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20494,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.72217700016847,
+          -5.5721409999071625
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20494,
+        "CU_NAME": "WAGA",
+        "CU_NO": "003",
+        "GEOCODE": "07051410003",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "10",
+        "WARD_NAME": "AYUGALI 2",
+        "LATITUDE": -5.575348,
+        "LONGITUDE": 142.727468,
+        "REGHH": 15,
+        "TOTPOP2000": 121,
+        "MALE2000": 57,
+        "FEMALE2000": 64,
+        "POP2008": 169,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051410003,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20495,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7266569999207,
+          -5.563365999940913
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20495,
+        "CU_NAME": "TIAGOBO",
+        "CU_NO": "004",
+        "GEOCODE": "07051410004",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "10",
+        "WARD_NAME": "AYUGALI 2",
+        "LATITUDE": -5.575348,
+        "LONGITUDE": 142.727468,
+        "REGHH": 15,
+        "TOTPOP2000": 142,
+        "MALE2000": 85,
+        "FEMALE2000": 57,
+        "POP2008": 197,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051410004,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13293,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.1478289996087,
+          -9.275594999809357
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13293,
+        "CU_NAME": "YAURE",
+        "CU_NO": "019",
+        "GEOCODE": "06010317019",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "17",
+        "WARD_NAME": "YAURE",
+        "LATITUDE": -9.277046,
+        "LONGITUDE": 148.146814,
+        "REGHH": 21,
+        "TOTPOP2000": 95,
+        "MALE2000": 53,
+        "FEMALE2000": 42,
+        "POP2008": 119,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010317019,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13294,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.1613200003178,
+          -9.367615000331966
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13294,
+        "CU_NAME": "SUWARI",
+        "CU_NO": "045",
+        "GEOCODE": "06010317045",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "17",
+        "WARD_NAME": "YAURE",
+        "LATITUDE": -9.369067,
+        "LONGITUDE": 148.160305,
+        "REGHH": 12,
+        "TOTPOP2000": 51,
+        "MALE2000": 26,
+        "FEMALE2000": 25,
+        "POP2008": 62,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010317045,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13295,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.12091599957375,
+          -9.258458000036626
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13295,
+        "CU_NAME": "BARATANA",
+        "CU_NO": "046",
+        "GEOCODE": "06010317046",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "17",
+        "WARD_NAME": "YAURE",
+        "LATITUDE": -9.258764,
+        "LONGITUDE": 148.121732,
+        "REGHH": 7,
+        "TOTPOP2000": 31,
+        "MALE2000": 17,
+        "FEMALE2000": 14,
+        "POP2008": 39,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010317046,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13296,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.11024700039877,
+          -9.237837999723865
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13296,
+        "CU_NAME": "ANEI",
+        "CU_NO": "047",
+        "GEOCODE": "06010317047",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "17",
+        "WARD_NAME": "YAURE",
+        "LATITUDE": -9.23741,
+        "LONGITUDE": 148.127118,
+        "REGHH": 5,
+        "TOTPOP2000": 24,
+        "MALE2000": 14,
+        "FEMALE2000": 10,
+        "POP2008": 32,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010317047,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

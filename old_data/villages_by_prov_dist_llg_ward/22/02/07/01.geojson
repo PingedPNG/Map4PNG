@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16932,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.85033400031398,
+          -5.73571399960133
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16932,
+        "CU_NAME": "MAIPKA BONGO",
+        "CU_NO": "006",
+        "GEOCODE": "09040701006",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "01",
+        "WARD_NAME": "MAIPKA/AMBKA",
+        "LATITUDE": -5.735607,
+        "LONGITUDE": 144.849293,
+        "REGHH": 103,
+        "TOTPOP2000": 610,
+        "MALE2000": 304,
+        "FEMALE2000": 306,
+        "POP2008": 743,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040701006,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16933,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8440330002228,
+          -5.737354999733384
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16933,
+        "CU_NAME": "AIMEKA KULAMEL",
+        "CU_NO": "007",
+        "GEOCODE": "09040701007",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "01",
+        "WARD_NAME": "MAIPKA/AMBKA",
+        "LATITUDE": -5.735607,
+        "LONGITUDE": 144.849293,
+        "REGHH": 92,
+        "TOTPOP2000": 488,
+        "MALE2000": 265,
+        "FEMALE2000": 223,
+        "POP2008": 595,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040701007,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16934,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8490539997424,
+          -5.731611000147495
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16934,
+        "CU_NAME": "KOL  STATION",
+        "CU_NO": "401",
+        "GEOCODE": "09040701401",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "01",
+        "WARD_NAME": "MAIPKA/AMBKA",
+        "LATITUDE": -5.731197,
+        "LONGITUDE": 144.848057,
+        "REGHH": 19,
+        "TOTPOP2000": 89,
+        "MALE2000": 52,
+        "FEMALE2000": 37,
+        "POP2008": 107,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040701401,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

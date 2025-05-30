@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14099,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.93844999976773,
+          -6.154398999813964
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14099,
+        "CU_NAME": "TAGLA",
+        "CU_NO": "002",
+        "GEOCODE": "10020501002",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "TAGALA",
+        "LATITUDE": -6.15581,
+        "LONGITUDE": 144.937398,
+        "REGHH": 87,
+        "TOTPOP2000": 332,
+        "MALE2000": 165,
+        "FEMALE2000": 167,
+        "POP2008": 383,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020501002,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10079,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.09858799993629,
+          -8.411434999625499
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10079,
+        "CU_NAME": "IDALEKA",
+        "CU_NO": "005",
+        "GEOCODE": "05031201005",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "KAIBOLA",
+        "LATITUDE": -8.412884,
+        "LONGITUDE": 151.097618,
+        "REGHH": 10,
+        "TOTPOP2000": 44,
+        "MALE2000": 20,
+        "FEMALE2000": 24,
+        "POP2008": 52,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031201005,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10080,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.08240900027522,
+          -8.40889800044232
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10080,
+        "CU_NAME": "KAIBOLA",
+        "CU_NO": "010",
+        "GEOCODE": "05031201010",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "KAIBOLA",
+        "LATITUDE": -8.41262,
+        "LONGITUDE": 151.084826,
+        "REGHH": 45,
+        "TOTPOP2000": 234,
+        "MALE2000": 111,
+        "FEMALE2000": 123,
+        "POP2008": 285,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031201010,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10081,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.08964600036268,
+          -8.408931000165467
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10081,
+        "CU_NAME": "LUEBILA",
+        "CU_NO": "021",
+        "GEOCODE": "05031201021",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "KAIBOLA",
+        "LATITUDE": -8.411876,
+        "LONGITUDE": 151.087159,
+        "REGHH": 32,
+        "TOTPOP2000": 159,
+        "MALE2000": 87,
+        "FEMALE2000": 72,
+        "POP2008": 193,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031201021,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10082,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1127880000662,
+          -8.403548000140063
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10082,
+        "CU_NAME": "KAPWANI",
+        "CU_NO": "022",
+        "GEOCODE": "05031201022",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "KAIBOLA",
+        "LATITUDE": -8.404997,
+        "LONGITUDE": 151.111819,
+        "REGHH": 30,
+        "TOTPOP2000": 158,
+        "MALE2000": 82,
+        "FEMALE2000": 76,
+        "POP2008": 192,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031201022,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10083,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1066019998824,
+          -8.40742900014817
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10083,
+        "CU_NAME": "KAIBOLA COMM SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "05031201401",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "KAIBOLA",
+        "LATITUDE": -8.411558,
+        "LONGITUDE": 151.096499,
+        "REGHH": 6,
+        "TOTPOP2000": 44,
+        "MALE2000": 21,
+        "FEMALE2000": 23,
+        "POP2008": 52,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031201401,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

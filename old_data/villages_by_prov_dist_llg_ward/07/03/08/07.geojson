@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19788,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.00770900037014,
+          -6.696031000430253
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19788,
+        "CU_NAME": "KOIARI",
+        "CU_NO": "002",
+        "GEOCODE": "07030807002",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "07",
+        "WARD_NAME": "KOIARI",
+        "LATITUDE": -6.700042,
+        "LONGITUDE": 144.007561,
+        "REGHH": 37,
+        "TOTPOP2000": 153,
+        "MALE2000": 79,
+        "FEMALE2000": 74,
+        "POP2008": 213,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030807002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19789,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.00821899960727,
+          -6.697494999594483
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19789,
+        "CU_NAME": "KASIO",
+        "CU_NO": "003",
+        "GEOCODE": "07030807003",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "07",
+        "WARD_NAME": "KOIARI",
+        "LATITUDE": -6.700042,
+        "LONGITUDE": 144.007561,
+        "REGHH": 13,
+        "TOTPOP2000": 72,
+        "MALE2000": 36,
+        "FEMALE2000": 36,
+        "POP2008": 100,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030807003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19790,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0062030001684,
+          -6.69750700014788
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19790,
+        "CU_NAME": "KOIARI CATH. MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "07030807401",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "07",
+        "WARD_NAME": "KOIARI",
+        "LATITUDE": -6.700042,
+        "LONGITUDE": 144.007561,
+        "REGHH": 7,
+        "TOTPOP2000": 28,
+        "MALE2000": 11,
+        "FEMALE2000": 17,
+        "POP2008": 36,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030807401,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19791,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.00526400003366,
+          -6.696115999853475
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19791,
+        "CU_NAME": "ERAVE HIGH SCH",
+        "CU_NO": "402",
+        "GEOCODE": "07030807402",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "07",
+        "WARD_NAME": "KOIARI",
+        "LATITUDE": -6.700042,
+        "LONGITUDE": 144.007561,
+        "REGHH": 2,
+        "TOTPOP2000": 2,
+        "MALE2000": 1,
+        "FEMALE2000": 1,
+        "POP2008": 2,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030807402,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

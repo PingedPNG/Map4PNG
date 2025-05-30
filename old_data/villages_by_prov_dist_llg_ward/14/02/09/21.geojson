@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6567,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.87201600033825,
+          -5.022176999968508
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6567,
+        "CU_NAME": "ITIPINO",
+        "CU_NO": "039",
+        "GEOCODE": "14020921039",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "21",
+        "WARD_NAME": "ITIPINO",
+        "LATITUDE": -5.023771,
+        "LONGITUDE": 143.870785,
+        "REGHH": 72,
+        "TOTPOP2000": 389,
+        "MALE2000": 202,
+        "FEMALE2000": 187,
+        "POP2008": 464,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020921039,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

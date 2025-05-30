@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.83863232022543,
+          -6.623666819967696
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30227,
+        "CU_NAME": "MEI'AUNA",
+        "CU_NO": "010",
+        "GEOCODE": "11060808010",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "MEI'AUNA",
+        "LATITUDE": -6.623667,
+        "LONGITUDE": 145.838632,
+        "REGHH": 32,
+        "TOTPOP2000": 170,
+        "MALE2000": 94,
+        "FEMALE2000": 76,
+        "POP2008": 202,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30228,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8390344403872,
+          -6.632139330265829
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30228,
+        "CU_NAME": "ELANDARA",
+        "CU_NO": "011",
+        "GEOCODE": "11060808011",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "MEI'AUNA",
+        "LATITUDE": -6.632139,
+        "LONGITUDE": 145.839034,
+        "REGHH": 4,
+        "TOTPOP2000": 21,
+        "MALE2000": 13,
+        "FEMALE2000": 8,
+        "POP2008": 21,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.83385800024655,
+          -6.6267656103445916
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30229,
+        "CU_NAME": "SAU'URONA",
+        "CU_NO": "012",
+        "GEOCODE": "11060808012",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "MEI'AUNA",
+        "LATITUDE": -6.626766,
+        "LONGITUDE": 145.833858,
+        "REGHH": 9,
+        "TOTPOP2000": 49,
+        "MALE2000": 23,
+        "FEMALE2000": 26,
+        "POP2008": 57,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30230,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.83095135991744,
+          -6.624659520420494
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30230,
+        "CU_NAME": "PEONA",
+        "CU_NO": "013",
+        "GEOCODE": "11060808013",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "MEI'AUNA",
+        "LATITUDE": -6.62466,
+        "LONGITUDE": 145.830951,
+        "REGHH": 16,
+        "TOTPOP2000": 87,
+        "MALE2000": 47,
+        "FEMALE2000": 40,
+        "POP2008": 103,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18290,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.20494100042686,
+          -3.2009759998424556
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18290,
+        "CU_NAME": "SIAUTE",
+        "CU_NO": "012",
+        "GEOCODE": "15010110012",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "WAUNINGI",
+        "LATITUDE": -3.202351,
+        "LONGITUDE": 142.203861,
+        "REGHH": 49,
+        "TOTPOP2000": 372,
+        "MALE2000": 193,
+        "FEMALE2000": 179,
+        "POP2008": 450,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010110012,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18291,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.19237700019846,
+          -3.20925100013352
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18291,
+        "CU_NAME": "WAUNINGI",
+        "CU_NO": "015",
+        "GEOCODE": "15010110015",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "WAUNINGI",
+        "LATITUDE": -3.210626,
+        "LONGITUDE": 142.191297,
+        "REGHH": 30,
+        "TOTPOP2000": 171,
+        "MALE2000": 77,
+        "FEMALE2000": 94,
+        "POP2008": 206,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010110015,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18292,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.23540799977945,
+          -3.194643000074336
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18292,
+        "CU_NAME": "WOM",
+        "CU_NO": "017",
+        "GEOCODE": "15010110017",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "WAUNINGI",
+        "LATITUDE": -3.196018,
+        "LONGITUDE": 142.234328,
+        "REGHH": 53,
+        "TOTPOP2000": 305,
+        "MALE2000": 138,
+        "FEMALE2000": 167,
+        "POP2008": 368,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010110017,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

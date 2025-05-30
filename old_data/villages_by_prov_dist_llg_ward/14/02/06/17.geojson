@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6369,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3026919997361,
+          -4.722815000311982
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6369,
+        "CU_NAME": "DANIG",
+        "CU_NO": "004",
+        "GEOCODE": "14020617004",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "17",
+        "WARD_NAME": "LATOMA",
+        "LATITUDE": -4.724405,
+        "LONGITUDE": 143.301453,
+        "REGHH": 6,
+        "TOTPOP2000": 37,
+        "MALE2000": 18,
+        "FEMALE2000": 19,
+        "POP2008": 45,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020617004,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6370,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.2544869998752,
+          -4.724119000191649
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6370,
+        "CU_NAME": "LATOMA",
+        "CU_NO": "006",
+        "GEOCODE": "14020617006",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "17",
+        "WARD_NAME": "LATOMA",
+        "LATITUDE": -4.725709,
+        "LONGITUDE": 143.253249,
+        "REGHH": 22,
+        "TOTPOP2000": 127,
+        "MALE2000": 71,
+        "FEMALE2000": 56,
+        "POP2008": 151,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020617006,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6186,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.66803299982314,
+          -3.7430930003416734
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6186,
+        "CU_NAME": "WAHAUKIA",
+        "CU_NO": "021",
+        "GEOCODE": "14010311021",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "WAHAUKIA",
+        "LATITUDE": -3.744672,
+        "LONGITUDE": 142.666789,
+        "REGHH": 148,
+        "TOTPOP2000": 639,
+        "MALE2000": 317,
+        "FEMALE2000": 322,
+        "POP2008": 760,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010311021,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

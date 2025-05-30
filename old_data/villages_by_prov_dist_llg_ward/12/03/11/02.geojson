@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.66605300034576,
+          -6.73836400019843
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10997,
+        "CU_NAME": "WAMPIT",
+        "CU_NO": "023",
+        "GEOCODE": "12031102023",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "WAMPIT",
+        "LATITUDE": -6.741034,
+        "LONGITUDE": 146.670007,
+        "REGHH": 190,
+        "TOTPOP2000": 1022,
+        "MALE2000": 525,
+        "FEMALE2000": 497,
+        "POP2008": 1275,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031102023,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

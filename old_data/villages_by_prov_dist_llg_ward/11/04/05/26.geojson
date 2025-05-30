@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29904,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.94383620028043,
+          -6.374178630039694
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29904,
+        "CU_NAME": "IKANA",
+        "CU_NO": "015",
+        "GEOCODE": "11040526015",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "26",
+        "WARD_NAME": "BINAKENU",
+        "LATITUDE": -6.374179,
+        "LONGITUDE": 145.943836,
+        "REGHH": 194,
+        "TOTPOP2000": 944,
+        "MALE2000": 499,
+        "FEMALE2000": 445,
+        "POP2008": 1124,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29905,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.98231659973135,
+          -6.400937519550837
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29905,
+        "CU_NAME": "OMAURA 1",
+        "CU_NO": "019",
+        "GEOCODE": "11040526019",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "26",
+        "WARD_NAME": "BINAKENU",
+        "LATITUDE": -6.400938,
+        "LONGITUDE": 145.982317,
+        "REGHH": 155,
+        "TOTPOP2000": 883,
+        "MALE2000": 459,
+        "FEMALE2000": 424,
+        "POP2008": 1051,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29906,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.01966156013293,
+          -6.3760966195632705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29906,
+        "CU_NAME": "ONANINGKA",
+        "CU_NO": "021",
+        "GEOCODE": "11040526021",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "26",
+        "WARD_NAME": "BINAKENU",
+        "LATITUDE": -6.376097,
+        "LONGITUDE": 146.019662,
+        "REGHH": 219,
+        "TOTPOP2000": 931,
+        "MALE2000": 472,
+        "FEMALE2000": 459,
+        "POP2008": 1107,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29907,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.99632779978822,
+          -6.355872900114207
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29907,
+        "CU_NAME": "SASAURA",
+        "CU_NO": "024",
+        "GEOCODE": "11040526024",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "26",
+        "WARD_NAME": "BINAKENU",
+        "LATITUDE": -6.355873,
+        "LONGITUDE": 145.996328,
+        "REGHH": 171,
+        "TOTPOP2000": 810,
+        "MALE2000": 426,
+        "FEMALE2000": 384,
+        "POP2008": 964,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29908,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9594738800156,
+          -6.369646230389151
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29908,
+        "CU_NAME": "OMAURA 2",
+        "CU_NO": "025",
+        "GEOCODE": "11040526025",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "26",
+        "WARD_NAME": "BINAKENU",
+        "LATITUDE": -6.369646,
+        "LONGITUDE": 145.959474,
+        "REGHH": 141,
+        "TOTPOP2000": 774,
+        "MALE2000": 393,
+        "FEMALE2000": 381,
+        "POP2008": 921,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29909,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.99323467963677,
+          -6.377422679812753
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29909,
+        "CU_NAME": "OMAURA SDA MISSION",
+        "CU_NO": "402",
+        "GEOCODE": "11040526402",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "26",
+        "WARD_NAME": "BINAKENU",
+        "LATITUDE": -6.377423,
+        "LONGITUDE": 145.993235,
+        "REGHH": 46,
+        "TOTPOP2000": 211,
+        "MALE2000": 105,
+        "FEMALE2000": 106,
+        "POP2008": 251,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

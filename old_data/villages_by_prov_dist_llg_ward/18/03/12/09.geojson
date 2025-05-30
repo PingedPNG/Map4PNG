@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4926,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0500059997771,
+          -6.000576000082276
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4926,
+        "CU_NAME": "MININGA",
+        "CU_NO": "014",
+        "GEOCODE": "18031209014",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "09",
+        "WARD_NAME": "MININGA",
+        "LATITUDE": -6.001187,
+        "LONGITUDE": 151.053126,
+        "REGHH": 61,
+        "TOTPOP2000": 331,
+        "MALE2000": 146,
+        "FEMALE2000": 185,
+        "POP2008": 403,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031209014,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4927,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.03660699971329,
+          -5.997973999700264
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4927,
+        "CU_NAME": "HEPORA",
+        "CU_NO": "015",
+        "GEOCODE": "18031209015",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "09",
+        "WARD_NAME": "MININGA",
+        "LATITUDE": -5.999396,
+        "LONGITUDE": 151.035642,
+        "REGHH": 31,
+        "TOTPOP2000": 167,
+        "MALE2000": 89,
+        "FEMALE2000": 78,
+        "POP2008": 203,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031209015,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

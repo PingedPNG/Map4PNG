@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16456,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3478219996856,
+          -5.570122000330002
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16456,
+        "CU_NAME": "RANK",
+        "CU_NO": "037",
+        "GEOCODE": "09020346037",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "46",
+        "WARD_NAME": "RANK",
+        "LATITUDE": -5.571058,
+        "LONGITUDE": 144.348157,
+        "REGHH": 57,
+        "TOTPOP2000": 211,
+        "MALE2000": 107,
+        "FEMALE2000": 104,
+        "POP2008": 257,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020346037,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16457,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3434460002328,
+          -5.564799000373512
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16457,
+        "CU_NAME": "AMBRA",
+        "CU_NO": "038",
+        "GEOCODE": "09020346038",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "46",
+        "WARD_NAME": "RANK",
+        "LATITUDE": -5.565735,
+        "LONGITUDE": 144.343781,
+        "REGHH": 42,
+        "TOTPOP2000": 318,
+        "MALE2000": 162,
+        "FEMALE2000": 156,
+        "POP2008": 387,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020346038,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16458,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.33411399976137,
+          -5.55365800011657
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16458,
+        "CU_NAME": "RIMNTI",
+        "CU_NO": "039",
+        "GEOCODE": "09020346039",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "46",
+        "WARD_NAME": "RANK",
+        "LATITUDE": -5.556778,
+        "LONGITUDE": 144.341599,
+        "REGHH": 55,
+        "TOTPOP2000": 259,
+        "MALE2000": 134,
+        "FEMALE2000": 125,
+        "POP2008": 316,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020346039,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16459,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.33585299991603,
+          -5.642716999889558
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16459,
+        "CU_NAME": "EANN",
+        "CU_NO": "040",
+        "GEOCODE": "09020346040",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "46",
+        "WARD_NAME": "RANK",
+        "LATITUDE": -5.643652,
+        "LONGITUDE": 144.336188,
+        "REGHH": 22,
+        "TOTPOP2000": 93,
+        "MALE2000": 44,
+        "FEMALE2000": 49,
+        "POP2008": 113,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020346040,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16460,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.35648699997512,
+          -5.598507999944218
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16460,
+        "CU_NAME": "BAKIL",
+        "CU_NO": "041",
+        "GEOCODE": "09020346041",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "46",
+        "WARD_NAME": "RANK",
+        "LATITUDE": -5.599443,
+        "LONGITUDE": 144.356822,
+        "REGHH": 19,
+        "TOTPOP2000": 96,
+        "MALE2000": 48,
+        "FEMALE2000": 48,
+        "POP2008": 117,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020346041,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16461,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3305999995904,
+          -5.528436999867608
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16461,
+        "CU_NAME": "RULNA",
+        "CU_NO": "042",
+        "GEOCODE": "09020346042",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "46",
+        "WARD_NAME": "RANK",
+        "LATITUDE": -5.529371,
+        "LONGITUDE": 144.330935,
+        "REGHH": 21,
+        "TOTPOP2000": 80,
+        "MALE2000": 44,
+        "FEMALE2000": 36,
+        "POP2008": 96,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020346042,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.68615499985344,
+          -4.270171999837885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12869,
+        "CU_NAME": "SEMALU",
+        "CU_NO": "007",
+        "GEOCODE": "17020715007",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "15",
+        "WARD_NAME": "WATPI",
+        "LATITUDE": -4.271572,
+        "LONGITUDE": 152.685217,
+        "REGHH": 25,
+        "TOTPOP2000": 146,
+        "MALE2000": 76,
+        "FEMALE2000": 70,
+        "POP2008": 183,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020715007,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12870,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.68036800008315,
+          -4.3380460002226755
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12870,
+        "CU_NAME": "WATPI",
+        "CU_NO": "010",
+        "GEOCODE": "17020715010",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "15",
+        "WARD_NAME": "WATPI",
+        "LATITUDE": -4.339447,
+        "LONGITUDE": 152.67943,
+        "REGHH": 31,
+        "TOTPOP2000": 260,
+        "MALE2000": 152,
+        "FEMALE2000": 108,
+        "POP2008": 327,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020715010,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12871,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.68338099963353,
+          -4.309703999939586
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12871,
+        "CU_NAME": "PALANGOT",
+        "CU_NO": "011",
+        "GEOCODE": "17020715011",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "15",
+        "WARD_NAME": "WATPI",
+        "LATITUDE": -4.311105,
+        "LONGITUDE": 152.682443,
+        "REGHH": 39,
+        "TOTPOP2000": 228,
+        "MALE2000": 118,
+        "FEMALE2000": 110,
+        "POP2008": 287,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020715011,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

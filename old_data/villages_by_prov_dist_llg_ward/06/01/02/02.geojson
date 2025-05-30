@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13097,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.28764599986312,
+          -9.505689999593756
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13097,
+        "CU_NAME": "AIRARA",
+        "CU_NO": "001",
+        "GEOCODE": "06010202001",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "MARUA",
+        "LATITUDE": -9.507123,
+        "LONGITUDE": 149.290127,
+        "REGHH": 27,
+        "TOTPOP2000": 206,
+        "MALE2000": 102,
+        "FEMALE2000": 104,
+        "POP2008": 256,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010202001,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13098,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.314660000059,
+          -9.516785999574154
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13098,
+        "CU_NAME": "MARUA NO. 2",
+        "CU_NO": "011",
+        "GEOCODE": "06010202011",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "MARUA",
+        "LATITUDE": -9.516822,
+        "LONGITUDE": 149.313651,
+        "REGHH": 16,
+        "TOTPOP2000": 110,
+        "MALE2000": 55,
+        "FEMALE2000": 55,
+        "POP2008": 135,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010202011,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13099,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.25761499993234,
+          -9.498659000012822
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13099,
+        "CU_NAME": "SINAPA",
+        "CU_NO": "015",
+        "GEOCODE": "06010202015",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "MARUA",
+        "LATITUDE": -9.500782,
+        "LONGITUDE": 149.257557,
+        "REGHH": 16,
+        "TOTPOP2000": 123,
+        "MALE2000": 62,
+        "FEMALE2000": 61,
+        "POP2008": 152,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010202015,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.26036299985265,
+          -9.505302999733601
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13100,
+        "CU_NAME": "SINAPARA",
+        "CU_NO": "016",
+        "GEOCODE": "06010202016",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "MARUA",
+        "LATITUDE": -9.50549,
+        "LONGITUDE": 149.260309,
+        "REGHH": 30,
+        "TOTPOP2000": 212,
+        "MALE2000": 107,
+        "FEMALE2000": 105,
+        "POP2008": 263,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010202016,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.26298600030373,
+          -9.506406000236666
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13101,
+        "CU_NAME": "KONIASI",
+        "CU_NO": "024",
+        "GEOCODE": "06010202024",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "MARUA",
+        "LATITUDE": -9.508796,
+        "LONGITUDE": 149.261457,
+        "REGHH": 17,
+        "TOTPOP2000": 117,
+        "MALE2000": 58,
+        "FEMALE2000": 59,
+        "POP2008": 144,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010202024,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.29461900036665,
+          -9.503576000132227
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13102,
+        "CU_NAME": "MARUA",
+        "CU_NO": "025",
+        "GEOCODE": "06010202025",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "MARUA",
+        "LATITUDE": -9.504086,
+        "LONGITUDE": 149.296023,
+        "REGHH": 9,
+        "TOTPOP2000": 61,
+        "MALE2000": 33,
+        "FEMALE2000": 28,
+        "POP2008": 77,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010202025,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

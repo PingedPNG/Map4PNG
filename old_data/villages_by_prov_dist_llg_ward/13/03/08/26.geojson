@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8584,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2716559998246,
+          -4.829490000363194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8584,
+        "CU_NAME": "KOKOMASAK",
+        "CU_NO": "007",
+        "GEOCODE": "13030826007",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "26",
+        "WARD_NAME": "WARD 26",
+        "LATITUDE": -4.826978,
+        "LONGITUDE": 145.262867,
+        "REGHH": 30,
+        "TOTPOP2000": 156,
+        "MALE2000": 83,
+        "FEMALE2000": 73,
+        "POP2008": 193,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030826007,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8585,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.30467299985912,
+          -4.9103679996833876
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8585,
+        "CU_NAME": "KUMBUBUA",
+        "CU_NO": "008",
+        "GEOCODE": "13030826008",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "26",
+        "WARD_NAME": "WARD 26",
+        "LATITUDE": -4.90806,
+        "LONGITUDE": 145.305597,
+        "REGHH": 23,
+        "TOTPOP2000": 127,
+        "MALE2000": 75,
+        "FEMALE2000": 52,
+        "POP2008": 158,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030826008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8586,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.30084599964323,
+          -4.921300000194833
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8586,
+        "CU_NAME": "KAUKAVAL",
+        "CU_NO": "009",
+        "GEOCODE": "13030826009",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "26",
+        "WARD_NAME": "WARD 26",
+        "LATITUDE": -4.918551,
+        "LONGITUDE": 145.30003,
+        "REGHH": 12,
+        "TOTPOP2000": 61,
+        "MALE2000": 33,
+        "FEMALE2000": 28,
+        "POP2008": 77,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030826009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8587,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.31349900037867,
+          -4.9710829999804105
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8587,
+        "CU_NAME": "POROSAE",
+        "CU_NO": "010",
+        "GEOCODE": "13030826010",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "26",
+        "WARD_NAME": "WARD 26",
+        "LATITUDE": -4.967897,
+        "LONGITUDE": 145.316697,
+        "REGHH": 35,
+        "TOTPOP2000": 166,
+        "MALE2000": 82,
+        "FEMALE2000": 84,
+        "POP2008": 205,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030826010,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8588,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.29439699992167,
+          -4.922452000259568
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8588,
+        "CU_NAME": "MUTUVAV",
+        "CU_NO": "011",
+        "GEOCODE": "13030826011",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "26",
+        "WARD_NAME": "WARD 26",
+        "LATITUDE": -4.918517,
+        "LONGITUDE": 145.299134,
+        "REGHH": 26,
+        "TOTPOP2000": 120,
+        "MALE2000": 69,
+        "FEMALE2000": 51,
+        "POP2008": 148,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030826011,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

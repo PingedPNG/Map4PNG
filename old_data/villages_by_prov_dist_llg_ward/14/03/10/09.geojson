@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6591,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.95354700029384,
+          -3.5384450004363543
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6591,
+        "CU_NAME": "NILU 1",
+        "CU_NO": "009",
+        "GEOCODE": "14031009009",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "SUPARI",
+        "LATITUDE": -3.540022,
+        "LONGITUDE": 142.952307,
+        "REGHH": 52,
+        "TOTPOP2000": 259,
+        "MALE2000": 135,
+        "FEMALE2000": 124,
+        "POP2008": 308,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031009009,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6592,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9647590002278,
+          -3.5732460000028254
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6592,
+        "CU_NAME": "BAIAGA",
+        "CU_NO": "010",
+        "GEOCODE": "14031009010",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "SUPARI",
+        "LATITUDE": -3.574823,
+        "LONGITUDE": 142.963519,
+        "REGHH": 32,
+        "TOTPOP2000": 143,
+        "MALE2000": 69,
+        "FEMALE2000": 74,
+        "POP2008": 169,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031009010,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6593,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.94648099999824,
+          -3.572857000050476
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6593,
+        "CU_NAME": "SUPARI",
+        "CU_NO": "014",
+        "GEOCODE": "14031009014",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "SUPARI",
+        "LATITUDE": -3.576466,
+        "LONGITUDE": 142.947271,
+        "REGHH": 33,
+        "TOTPOP2000": 183,
+        "MALE2000": 88,
+        "FEMALE2000": 95,
+        "POP2008": 217,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031009014,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6594,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.95591000044624,
+          -3.5703319996220557
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6594,
+        "CU_NAME": "NILU 2",
+        "CU_NO": "015",
+        "GEOCODE": "14031009015",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "SUPARI",
+        "LATITUDE": -3.569741,
+        "LONGITUDE": 142.949137,
+        "REGHH": 20,
+        "TOTPOP2000": 115,
+        "MALE2000": 55,
+        "FEMALE2000": 60,
+        "POP2008": 139,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031009015,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6595,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.94885299966631,
+          -3.576245999852972
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6595,
+        "CU_NAME": "SUPARI COMMUNITY SCHOOL",
+        "CU_NO": "402",
+        "GEOCODE": "14031009402",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "SUPARI",
+        "LATITUDE": -3.576466,
+        "LONGITUDE": 142.947271,
+        "REGHH": 7,
+        "TOTPOP2000": 47,
+        "MALE2000": 18,
+        "FEMALE2000": 29,
+        "POP2008": 55,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031009402,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10060,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8984109998678,
+          -9.243508000393831
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10060,
+        "CU_NAME": "WABUNUNA",
+        "CU_NO": "022",
+        "GEOCODE": "05021103022",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "11",
+        "WARD_NO": "03",
+        "WARD_NAME": "WABUNUNA",
+        "LATITUDE": -9.247811,
+        "LONGITUDE": 152.895923,
+        "REGHH": 83,
+        "TOTPOP2000": 469,
+        "MALE2000": 245,
+        "FEMALE2000": 224,
+        "POP2008": 572,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021103022,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10061,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.88886799955856,
+          -9.247882999800538
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10061,
+        "CU_NAME": "OVIAI",
+        "CU_NO": "023",
+        "GEOCODE": "05021103023",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "11",
+        "WARD_NO": "03",
+        "WARD_NAME": "WABUNUNA",
+        "LATITUDE": -9.24766,
+        "LONGITUDE": 152.891507,
+        "REGHH": 14,
+        "TOTPOP2000": 70,
+        "MALE2000": 37,
+        "FEMALE2000": 33,
+        "POP2008": 86,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021103023,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

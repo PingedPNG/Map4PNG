@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10257,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.76393399965445,
+          -9.655757999731861
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10257,
+        "CU_NAME": "SI'ILUGU",
+        "CU_NO": "016",
+        "GEOCODE": "05041512016",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "12",
+        "WARD_NAME": "SI'ILUGU",
+        "LATITUDE": -9.662763,
+        "LONGITUDE": 150.761053,
+        "REGHH": 125,
+        "TOTPOP2000": 615,
+        "MALE2000": 312,
+        "FEMALE2000": 303,
+        "POP2008": 749,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041512016,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

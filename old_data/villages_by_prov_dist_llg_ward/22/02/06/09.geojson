@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16878,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.59671200015873,
+          -5.443501999617524
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16878,
+        "CU_NAME": "BOKOPAI",
+        "CU_NO": "001",
+        "GEOCODE": "09040609001",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "BOKOPAI",
+        "LATITUDE": -5.435451,
+        "LONGITUDE": 144.595415,
+        "REGHH": 154,
+        "TOTPOP2000": 729,
+        "MALE2000": 386,
+        "FEMALE2000": 343,
+        "POP2008": 889,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040609001,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

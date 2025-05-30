@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21238,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.71851200022866,
+          -6.433547999940174
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21238,
+        "CU_NAME": "WANAGESA",
+        "CU_NO": "026",
+        "GEOCODE": "07072308026",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "08",
+        "WARD_NAME": "WANAGESA",
+        "LATITUDE": -6.434585,
+        "LONGITUDE": 142.718096,
+        "REGHH": 26,
+        "TOTPOP2000": 130,
+        "MALE2000": 66,
+        "FEMALE2000": 64,
+        "POP2008": 180,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072308026,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21239,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.72004199973856,
+          -6.4275539996173165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21239,
+        "CU_NAME": "KABANO",
+        "CU_NO": "027",
+        "GEOCODE": "07072308027",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "08",
+        "WARD_NAME": "WANAGESA",
+        "LATITUDE": -6.434585,
+        "LONGITUDE": 142.718096,
+        "REGHH": 28,
+        "TOTPOP2000": 178,
+        "MALE2000": 87,
+        "FEMALE2000": 91,
+        "POP2008": 247,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072308027,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21240,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.72339000034833,
+          -6.43475699993553
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21240,
+        "CU_NAME": "KUKONESI",
+        "CU_NO": "028",
+        "GEOCODE": "07072308028",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "08",
+        "WARD_NAME": "WANAGESA",
+        "LATITUDE": -6.434585,
+        "LONGITUDE": 142.718096,
+        "REGHH": 18,
+        "TOTPOP2000": 91,
+        "MALE2000": 45,
+        "FEMALE2000": 46,
+        "POP2008": 126,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072308028,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21241,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.71619300030682,
+          -6.436445999583157
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21241,
+        "CU_NAME": "SIBALAMA",
+        "CU_NO": "032",
+        "GEOCODE": "07072308032",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "08",
+        "WARD_NAME": "WANAGESA",
+        "LATITUDE": -6.434585,
+        "LONGITUDE": 142.718096,
+        "REGHH": 32,
+        "TOTPOP2000": 145,
+        "MALE2000": 76,
+        "FEMALE2000": 69,
+        "POP2008": 201,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072308032,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

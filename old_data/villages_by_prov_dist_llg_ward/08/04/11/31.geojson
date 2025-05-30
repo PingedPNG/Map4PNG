@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5848,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.82184699983918,
+          -5.545710999662845
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5848,
+        "CU_NAME": "WAIMERIMANDA",
+        "CU_NO": "007",
+        "GEOCODE": "08041131007",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "31",
+        "WARD_NAME": "WAIMERIMANDA",
+        "LATITUDE": -5.547114,
+        "LONGITUDE": 143.820783,
+        "REGHH": 59,
+        "TOTPOP2000": 239,
+        "MALE2000": 139,
+        "FEMALE2000": 100,
+        "POP2008": 300,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041131007,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5849,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7527299996898,
+          -5.546221999845386
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5849,
+        "CU_NAME": "PEAULAM",
+        "CU_NO": "008",
+        "GEOCODE": "08041131008",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "31",
+        "WARD_NAME": "WAIMERIMANDA",
+        "LATITUDE": -5.547624,
+        "LONGITUDE": 143.751667,
+        "REGHH": 149,
+        "TOTPOP2000": 1166,
+        "MALE2000": 652,
+        "FEMALE2000": 514,
+        "POP2008": 1466,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041131008,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5850,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.74507800024958,
+          -5.529943000069352
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5850,
+        "CU_NAME": "MUNIMANDA",
+        "CU_NO": "009",
+        "GEOCODE": "08041131009",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "31",
+        "WARD_NAME": "WAIMERIMANDA",
+        "LATITUDE": -5.531345,
+        "LONGITUDE": 143.744013,
+        "REGHH": 25,
+        "TOTPOP2000": 100,
+        "MALE2000": 50,
+        "FEMALE2000": 50,
+        "POP2008": 125,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041131009,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5851,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.75415599979965,
+          -5.538119000291601
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5851,
+        "CU_NAME": "SANGANE",
+        "CU_NO": "010",
+        "GEOCODE": "08041131010",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "31",
+        "WARD_NAME": "WAIMERIMANDA",
+        "LATITUDE": -5.539521,
+        "LONGITUDE": 143.753092,
+        "REGHH": 55,
+        "TOTPOP2000": 220,
+        "MALE2000": 121,
+        "FEMALE2000": 99,
+        "POP2008": 277,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041131010,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

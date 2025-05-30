@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5703,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.09376300026236,
+          -5.442756000289137
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5703,
+        "CU_NAME": "APALAKA",
+        "CU_NO": "001",
+        "GEOCODE": "08030903001",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "APALAKA",
+        "LATITUDE": -5.444156,
+        "LONGITUDE": 143.092691,
+        "REGHH": 88,
+        "TOTPOP2000": 654,
+        "MALE2000": 359,
+        "FEMALE2000": 295,
+        "POP2008": 823,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030903001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5704,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.10127999977226,
+          -5.435969000269097
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5704,
+        "CU_NAME": "LEPELAMA",
+        "CU_NO": "002",
+        "GEOCODE": "08030903002",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "APALAKA",
+        "LATITUDE": -5.437369,
+        "LONGITUDE": 143.100208,
+        "REGHH": 69,
+        "TOTPOP2000": 423,
+        "MALE2000": 231,
+        "FEMALE2000": 192,
+        "POP2008": 532,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030903002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

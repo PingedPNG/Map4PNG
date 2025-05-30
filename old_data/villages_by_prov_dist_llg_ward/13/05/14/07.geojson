@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9050,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67638899965266,
+          -4.7587039996897715
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9050,
+        "CU_NAME": "KARKUM",
+        "CU_NO": "006",
+        "GEOCODE": "13051407006",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "07",
+        "WARD_NAME": "WARD 7",
+        "LATITUDE": -4.760101,
+        "LONGITUDE": 145.675351,
+        "REGHH": 97,
+        "TOTPOP2000": 670,
+        "MALE2000": 346,
+        "FEMALE2000": 324,
+        "POP2008": 830,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051407006,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

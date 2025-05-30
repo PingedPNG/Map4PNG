@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10681,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.36303199992687,
+          -6.510092999991912
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10681,
+        "CU_NAME": "ZENGARING",
+        "CU_NO": "001",
+        "GEOCODE": "12020601001",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "ZENGARING",
+        "LATITUDE": -6.508495,
+        "LONGITUDE": 147.358991,
+        "REGHH": 37,
+        "TOTPOP2000": 203,
+        "MALE2000": 93,
+        "FEMALE2000": 110,
+        "POP2008": 254,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020601001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10682,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.34770600003196,
+          -6.502084000276341
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10682,
+        "CU_NAME": "SUAK",
+        "CU_NO": "003",
+        "GEOCODE": "12020601003",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "ZENGARING",
+        "LATITUDE": -6.503504,
+        "LONGITUDE": 147.346687,
+        "REGHH": 41,
+        "TOTPOP2000": 195,
+        "MALE2000": 94,
+        "FEMALE2000": 101,
+        "POP2008": 243,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020601003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10683,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.33635600002947,
+          -6.484879000065746
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10683,
+        "CU_NAME": "NUMBUT",
+        "CU_NO": "008",
+        "GEOCODE": "12020601008",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "ZENGARING",
+        "LATITUDE": -6.486298,
+        "LONGITUDE": 147.335337,
+        "REGHH": 39,
+        "TOTPOP2000": 162,
+        "MALE2000": 77,
+        "FEMALE2000": 85,
+        "POP2008": 203,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020601008,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

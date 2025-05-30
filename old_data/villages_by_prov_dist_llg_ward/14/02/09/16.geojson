@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6558,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.72303800010366,
+          -4.348694000227908
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6558,
+        "CU_NAME": "KAMBAMBIT",
+        "CU_NO": "017",
+        "GEOCODE": "14020916017",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "16",
+        "WARD_NAME": "KAMBAMBIT",
+        "LATITUDE": -4.372059,
+        "LONGITUDE": 143.733634,
+        "REGHH": 68,
+        "TOTPOP2000": 376,
+        "MALE2000": 190,
+        "FEMALE2000": 186,
+        "POP2008": 447,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020916017,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

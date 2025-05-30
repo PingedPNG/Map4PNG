@@ -1,0 +1,421 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29547,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50812316035558,
+          -6.4248785102350325
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29547,
+        "CU_NAME": "BAFENA",
+        "CU_NO": "005",
+        "GEOCODE": "11030421005",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "21",
+        "WARD_NAME": "KURU",
+        "LATITUDE": -6.424879,
+        "LONGITUDE": 145.508123,
+        "REGHH": 25,
+        "TOTPOP2000": 110,
+        "MALE2000": 64,
+        "FEMALE2000": 46,
+        "POP2008": 132,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29548,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.49822099959954,
+          -6.427574729889841
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29548,
+        "CU_NAME": "KUGETO",
+        "CU_NO": "029",
+        "GEOCODE": "11030421029",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "21",
+        "WARD_NAME": "KURU",
+        "LATITUDE": -6.427575,
+        "LONGITUDE": 145.498221,
+        "REGHH": 65,
+        "TOTPOP2000": 288,
+        "MALE2000": 148,
+        "FEMALE2000": 140,
+        "POP2008": 342,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29549,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5050663997946,
+          -6.413531669550878
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29549,
+        "CU_NAME": "HAPEFA",
+        "CU_NO": "030",
+        "GEOCODE": "11030421030",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "21",
+        "WARD_NAME": "KURU",
+        "LATITUDE": -6.413532,
+        "LONGITUDE": 145.505066,
+        "REGHH": 24,
+        "TOTPOP2000": 122,
+        "MALE2000": 49,
+        "FEMALE2000": 73,
+        "POP2008": 146,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29550,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50871859968368,
+          -6.409611629972687
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29550,
+        "CU_NAME": "MAGUKUEPA",
+        "CU_NO": "031",
+        "GEOCODE": "11030421031",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "21",
+        "WARD_NAME": "KURU",
+        "LATITUDE": -6.409612,
+        "LONGITUDE": 145.508719,
+        "REGHH": 50,
+        "TOTPOP2000": 243,
+        "MALE2000": 121,
+        "FEMALE2000": 122,
+        "POP2008": 289,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50748812028064,
+          -6.39298080012378
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29551,
+        "CU_NAME": "HOYEPA",
+        "CU_NO": "032",
+        "GEOCODE": "11030421032",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "21",
+        "WARD_NAME": "KURU",
+        "LATITUDE": -6.392981,
+        "LONGITUDE": 145.507488,
+        "REGHH": 18,
+        "TOTPOP2000": 86,
+        "MALE2000": 48,
+        "FEMALE2000": 38,
+        "POP2008": 102,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.51317468016737,
+          -6.403693410122742
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29552,
+        "CU_NAME": "NAMAMA",
+        "CU_NO": "033",
+        "GEOCODE": "11030421033",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "21",
+        "WARD_NAME": "KURU",
+        "LATITUDE": -6.403693,
+        "LONGITUDE": 145.513175,
+        "REGHH": 41,
+        "TOTPOP2000": 119,
+        "MALE2000": 63,
+        "FEMALE2000": 56,
+        "POP2008": 143,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29553,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50668856002903,
+          -6.404749740308205
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29553,
+        "CU_NAME": "LUTUNAKA",
+        "CU_NO": "034",
+        "GEOCODE": "11030421034",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "21",
+        "WARD_NAME": "KURU",
+        "LATITUDE": -6.40475,
+        "LONGITUDE": 145.506689,
+        "REGHH": 25,
+        "TOTPOP2000": 108,
+        "MALE2000": 57,
+        "FEMALE2000": 51,
+        "POP2008": 129,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29554,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52154576042858,
+          -6.401151179583223
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29554,
+        "CU_NAME": "YASIKEWA",
+        "CU_NO": "035",
+        "GEOCODE": "11030421035",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "21",
+        "WARD_NAME": "KURU",
+        "LATITUDE": -6.401151,
+        "LONGITUDE": 145.521546,
+        "REGHH": 21,
+        "TOTPOP2000": 66,
+        "MALE2000": 32,
+        "FEMALE2000": 34,
+        "POP2008": 79,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29555,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5000026402097,
+          -6.408884070343504
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29555,
+        "CU_NAME": "MENIQUEGA",
+        "CU_NO": "036",
+        "GEOCODE": "11030421036",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "21",
+        "WARD_NAME": "KURU",
+        "LATITUDE": -6.408884,
+        "LONGITUDE": 145.500003,
+        "REGHH": 9,
+        "TOTPOP2000": 36,
+        "MALE2000": 17,
+        "FEMALE2000": 19,
+        "POP2008": 44,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29556,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.49803164014816,
+          -6.422018940421708
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29556,
+        "CU_NAME": "AFUKOYO",
+        "CU_NO": "037",
+        "GEOCODE": "11030421037",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "21",
+        "WARD_NAME": "KURU",
+        "LATITUDE": -6.422019,
+        "LONGITUDE": 145.498032,
+        "REGHH": 16,
+        "TOTPOP2000": 67,
+        "MALE2000": 36,
+        "FEMALE2000": 31,
+        "POP2008": 81,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29557,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50394716023334,
+          -6.415631010063009
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29557,
+        "CU_NAME": "YUNA",
+        "CU_NO": "038",
+        "GEOCODE": "11030421038",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "21",
+        "WARD_NAME": "KURU",
+        "LATITUDE": -6.415631,
+        "LONGITUDE": 145.503947,
+        "REGHH": 24,
+        "TOTPOP2000": 93,
+        "MALE2000": 39,
+        "FEMALE2000": 54,
+        "POP2008": 109,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29558,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50139800041745,
+          -6.3987578102247085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29558,
+        "CU_NAME": "YAVAYAEPA",
+        "CU_NO": "039",
+        "GEOCODE": "11030421039",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "21",
+        "WARD_NAME": "KURU",
+        "LATITUDE": -6.398758,
+        "LONGITUDE": 145.501398,
+        "REGHH": 18,
+        "TOTPOP2000": 74,
+        "MALE2000": 39,
+        "FEMALE2000": 35,
+        "POP2008": 90,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29559,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.510593480205,
+          -6.420565529875262
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29559,
+        "CU_NAME": "KURU C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "11030421401",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "21",
+        "WARD_NAME": "KURU",
+        "LATITUDE": -6.420566,
+        "LONGITUDE": 145.510593,
+        "REGHH": 1,
+        "TOTPOP2000": 6,
+        "MALE2000": 4,
+        "FEMALE2000": 2,
+        "POP2008": 6,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

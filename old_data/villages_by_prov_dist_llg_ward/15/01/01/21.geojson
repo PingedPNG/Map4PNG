@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18323,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.91702300041118,
+          -3.344555000213063
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18323,
+        "CU_NAME": "SUAIN 1",
+        "CU_NO": "014",
+        "GEOCODE": "15010121014",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "SUAIN",
+        "LATITUDE": -3.336895,
+        "LONGITUDE": 142.919927,
+        "REGHH": 93,
+        "TOTPOP2000": 716,
+        "MALE2000": 385,
+        "FEMALE2000": 331,
+        "POP2008": 865,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010121014,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.93631399969138,
+          -3.346649999697661
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18324,
+        "CU_NAME": "SUAIN 2",
+        "CU_NO": "015",
+        "GEOCODE": "15010121015",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "SUAIN",
+        "LATITUDE": -3.34251,
+        "LONGITUDE": 142.935232,
+        "REGHH": 55,
+        "TOTPOP2000": 402,
+        "MALE2000": 213,
+        "FEMALE2000": 189,
+        "POP2008": 486,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010121015,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18325,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.92256899985955,
+          -3.3515320000017255
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18325,
+        "CU_NAME": "SUAIN CM",
+        "CU_NO": "401",
+        "GEOCODE": "15010121401",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "SUAIN",
+        "LATITUDE": -3.340873,
+        "LONGITUDE": 142.920475,
+        "REGHH": 6,
+        "TOTPOP2000": 39,
+        "MALE2000": 22,
+        "FEMALE2000": 17,
+        "POP2008": 47,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010121401,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

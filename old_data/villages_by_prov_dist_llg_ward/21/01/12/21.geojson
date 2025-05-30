@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20292,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.84950999958687,
+          -6.070963000342147
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20292,
+        "CU_NAME": "YANDARE",
+        "CU_NO": "027",
+        "GEOCODE": "07041221027",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "21",
+        "WARD_NAME": "YANDARE",
+        "LATITUDE": -6.073252,
+        "LONGITUDE": 142.846164,
+        "REGHH": 106,
+        "TOTPOP2000": 639,
+        "MALE2000": 326,
+        "FEMALE2000": 313,
+        "POP2008": 888,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041221027,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20293,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.845588000386,
+          -6.072618000220473
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20293,
+        "CU_NAME": "GANGULU",
+        "CU_NO": "028",
+        "GEOCODE": "07041221028",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "21",
+        "WARD_NAME": "YANDARE",
+        "LATITUDE": -6.073253,
+        "LONGITUDE": 142.846165,
+        "REGHH": 66,
+        "TOTPOP2000": 419,
+        "MALE2000": 215,
+        "FEMALE2000": 204,
+        "POP2008": 584,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041221028,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

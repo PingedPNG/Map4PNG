@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12856,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.87531100030253,
+          -4.808335999706571
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12856,
+        "CU_NAME": "KABOBUI",
+        "CU_NO": "001",
+        "GEOCODE": "17020711001",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "11",
+        "WARD_NAME": "LAMBOM",
+        "LATITUDE": -4.809744,
+        "LONGITUDE": 152.874375,
+        "REGHH": 49,
+        "TOTPOP2000": 270,
+        "MALE2000": 136,
+        "FEMALE2000": 134,
+        "POP2008": 340,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020711001,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12857,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8582589999529,
+          -4.805537000132404
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12857,
+        "CU_NAME": "LAMBOM",
+        "CU_NO": "006",
+        "GEOCODE": "17020711006",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "11",
+        "WARD_NAME": "LAMBOM",
+        "LATITUDE": -4.805609,
+        "LONGITUDE": 152.858212,
+        "REGHH": 53,
+        "TOTPOP2000": 264,
+        "MALE2000": 135,
+        "FEMALE2000": 129,
+        "POP2008": 332,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020711006,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20231,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.013790999555,
+          -5.935192000310508
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20231,
+        "CU_NAME": "HADANI",
+        "CU_NO": "001",
+        "GEOCODE": "07041122001",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "11",
+        "WARD_NO": "22",
+        "WARD_NAME": "TIGIBI 3",
+        "LATITUDE": -5.938261,
+        "LONGITUDE": 143.01661,
+        "REGHH": 84,
+        "TOTPOP2000": 398,
+        "MALE2000": 185,
+        "FEMALE2000": 213,
+        "POP2008": 553,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041122001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0163380000987,
+          -5.9323850003674465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20232,
+        "CU_NAME": "PARUPALI",
+        "CU_NO": "002",
+        "GEOCODE": "07041122002",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "11",
+        "WARD_NO": "22",
+        "WARD_NAME": "TIGIBI 3",
+        "LATITUDE": -5.938261,
+        "LONGITUDE": 143.01661,
+        "REGHH": 35,
+        "TOTPOP2000": 127,
+        "MALE2000": 62,
+        "FEMALE2000": 65,
+        "POP2008": 177,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041122002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.01820599990708,
+          -5.9344759996675975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20233,
+        "CU_NAME": "TIJA",
+        "CU_NO": "003",
+        "GEOCODE": "07041122003",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "11",
+        "WARD_NO": "22",
+        "WARD_NAME": "TIGIBI 3",
+        "LATITUDE": -5.938261,
+        "LONGITUDE": 143.01661,
+        "REGHH": 2,
+        "TOTPOP2000": 9,
+        "MALE2000": 5,
+        "FEMALE2000": 4,
+        "POP2008": 9,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041122003,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.01565299998606,
+          -5.93565099989371
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20234,
+        "CU_NAME": "NAUA",
+        "CU_NO": "004",
+        "GEOCODE": "07041122004",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "11",
+        "WARD_NO": "22",
+        "WARD_NAME": "TIGIBI 3",
+        "LATITUDE": -5.938261,
+        "LONGITUDE": 143.01661,
+        "REGHH": 45,
+        "TOTPOP2000": 207,
+        "MALE2000": 81,
+        "FEMALE2000": 126,
+        "POP2008": 288,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041122004,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0135510001786,
+          -5.933093999788241
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20235,
+        "CU_NAME": "KEO",
+        "CU_NO": "005",
+        "GEOCODE": "07041122005",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "11",
+        "WARD_NO": "22",
+        "WARD_NAME": "TIGIBI 3",
+        "LATITUDE": -5.938261,
+        "LONGITUDE": 143.01661,
+        "REGHH": 6,
+        "TOTPOP2000": 24,
+        "MALE2000": 15,
+        "FEMALE2000": 9,
+        "POP2008": 32,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041122005,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.01843000034432,
+          -5.9321440000455254
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20236,
+        "CU_NAME": "TIYA",
+        "CU_NO": "006",
+        "GEOCODE": "07041122006",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "11",
+        "WARD_NO": "22",
+        "WARD_NAME": "TIGIBI 3",
+        "LATITUDE": -5.938261,
+        "LONGITUDE": 143.01661,
+        "REGHH": 56,
+        "TOTPOP2000": 204,
+        "MALE2000": 106,
+        "FEMALE2000": 98,
+        "POP2008": 284,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041122006,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

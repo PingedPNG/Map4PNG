@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.5412899999336,
+          -7.1398749998313065
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15185,
+        "CU_NAME": "MIWA NO. 1",
+        "CU_NO": "007",
+        "GEOCODE": "01010413007",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "MIWA NO 1.",
+        "LATITUDE": -7.137299,
+        "LONGITUDE": 141.530574,
+        "REGHH": 33,
+        "TOTPOP2000": 375,
+        "MALE2000": 180,
+        "FEMALE2000": 195,
+        "POP2008": 487,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010413007,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15186,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.54492600033473,
+          -7.149634000208891
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15186,
+        "CU_NAME": "MIWA COMMUNITY SCHOOL",
+        "CU_NO": "008",
+        "GEOCODE": "01010413008",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "MIWA NO 1.",
+        "LATITUDE": -7.14156,
+        "LONGITUDE": 141.53258,
+        "REGHH": 1,
+        "TOTPOP2000": 7,
+        "MALE2000": 3,
+        "FEMALE2000": 4,
+        "POP2008": 7,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010413008,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

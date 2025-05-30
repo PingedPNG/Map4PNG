@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4922,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.00251499956767,
+          -6.020253000075854
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4922,
+        "CU_NAME": "RUACHANA",
+        "CU_NO": "012",
+        "GEOCODE": "18031208012",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "08",
+        "WARD_NAME": "RUACHANA",
+        "LATITUDE": -6.021215,
+        "LONGITUDE": 151.00178,
+        "REGHH": 41,
+        "TOTPOP2000": 225,
+        "MALE2000": 107,
+        "FEMALE2000": 118,
+        "POP2008": 275,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031208012,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4923,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.02080600039665,
+          -6.018081999784442
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4923,
+        "CU_NAME": "POLPOLO",
+        "CU_NO": "013",
+        "GEOCODE": "18031208013",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "08",
+        "WARD_NAME": "RUACHANA",
+        "LATITUDE": -6.020904,
+        "LONGITUDE": 151.020766,
+        "REGHH": 24,
+        "TOTPOP2000": 126,
+        "MALE2000": 63,
+        "FEMALE2000": 63,
+        "POP2008": 153,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031208013,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4924,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.98922800017215,
+          -6.007902999823557
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4924,
+        "CU_NAME": "UVOL VOC. CENTRE",
+        "CU_NO": "401",
+        "GEOCODE": "18031208401",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "08",
+        "WARD_NAME": "RUACHANA",
+        "LATITUDE": -6.009324,
+        "LONGITUDE": 150.988262,
+        "REGHH": 13,
+        "TOTPOP2000": 53,
+        "MALE2000": 22,
+        "FEMALE2000": 31,
+        "POP2008": 61,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031208401,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4925,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.00879699968186,
+          -6.014062999707619
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4925,
+        "CU_NAME": "UVOL CATH. MISSION",
+        "CU_NO": "402",
+        "GEOCODE": "18031208402",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "08",
+        "WARD_NAME": "RUACHANA",
+        "LATITUDE": -6.015464,
+        "LONGITUDE": 151.002246,
+        "REGHH": 1,
+        "TOTPOP2000": 21,
+        "MALE2000": 10,
+        "FEMALE2000": 11,
+        "POP2008": 29,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031208402,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

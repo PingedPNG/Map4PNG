@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20979,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64292199995043,
+          -6.063997000161407
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20979,
+        "CU_NAME": "WASPA",
+        "CU_NO": "024",
+        "GEOCODE": "07061823024",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "23",
+        "WARD_NAME": "WAS",
+        "LATITUDE": -6.070305,
+        "LONGITUDE": 143.644694,
+        "REGHH": 27,
+        "TOTPOP2000": 201,
+        "MALE2000": 111,
+        "FEMALE2000": 90,
+        "POP2008": 279,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061823024,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20980,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64796499958516,
+          -6.065877999669908
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20980,
+        "CU_NAME": "TUKERE",
+        "CU_NO": "025",
+        "GEOCODE": "07061823025",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "23",
+        "WARD_NAME": "WAS",
+        "LATITUDE": -6.070305,
+        "LONGITUDE": 143.644694,
+        "REGHH": 51,
+        "TOTPOP2000": 360,
+        "MALE2000": 172,
+        "FEMALE2000": 188,
+        "POP2008": 500,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061823025,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20981,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64044599998294,
+          -6.065776000362064
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20981,
+        "CU_NAME": "KUPIP TENZA",
+        "CU_NO": "026",
+        "GEOCODE": "07061823026",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "23",
+        "WARD_NAME": "WAS",
+        "LATITUDE": -6.070305,
+        "LONGITUDE": 143.644694,
+        "REGHH": 35,
+        "TOTPOP2000": 246,
+        "MALE2000": 115,
+        "FEMALE2000": 131,
+        "POP2008": 342,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061823026,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20982,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64271000006647,
+          -6.068825999819978
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20982,
+        "CU_NAME": "PULUM",
+        "CU_NO": "027",
+        "GEOCODE": "07061823027",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "23",
+        "WARD_NAME": "WAS",
+        "LATITUDE": -6.070305,
+        "LONGITUDE": 143.644694,
+        "REGHH": 44,
+        "TOTPOP2000": 391,
+        "MALE2000": 192,
+        "FEMALE2000": 199,
+        "POP2008": 543,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061823027,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

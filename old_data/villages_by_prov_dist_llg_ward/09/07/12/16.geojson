@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.95512900020321,
+          -5.865932999907955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17496,
+        "CU_NAME": "KIKUWA",
+        "CU_NO": "001",
+        "GEOCODE": "09071216001",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "16",
+        "WARD_NAME": "KIKUWA",
+        "LATITUDE": -5.866872,
+        "LONGITUDE": 143.955458,
+        "REGHH": 62,
+        "TOTPOP2000": 260,
+        "MALE2000": 119,
+        "FEMALE2000": 141,
+        "POP2008": 318,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071216001,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17497,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.95662199980552,
+          -5.860796999581794
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17497,
+        "CU_NAME": "SAKALEM",
+        "CU_NO": "002",
+        "GEOCODE": "09071216002",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "16",
+        "WARD_NAME": "KIKUWA",
+        "LATITUDE": -5.861736,
+        "LONGITUDE": 143.956953,
+        "REGHH": 67,
+        "TOTPOP2000": 289,
+        "MALE2000": 139,
+        "FEMALE2000": 150,
+        "POP2008": 352,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071216002,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

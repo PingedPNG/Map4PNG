@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11606,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.03803199987692,
+          -6.063775999862457
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11606,
+        "CU_NAME": "GUSAP",
+        "CU_NO": "001",
+        "GEOCODE": "12061808001",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "08",
+        "WARD_NAME": "RUMPA",
+        "LATITUDE": -6.065188,
+        "LONGITUDE": 146.036996,
+        "REGHH": 18,
+        "TOTPOP2000": 118,
+        "MALE2000": 56,
+        "FEMALE2000": 62,
+        "POP2008": 147,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061808001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11607,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.05863999963628,
+          -6.001973999800214
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11607,
+        "CU_NAME": "HINGIA (WAWIA)",
+        "CU_NO": "002",
+        "GEOCODE": "12061808002",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "08",
+        "WARD_NAME": "RUMPA",
+        "LATITUDE": -6.001168,
+        "LONGITUDE": 146.067658,
+        "REGHH": 31,
+        "TOTPOP2000": 197,
+        "MALE2000": 97,
+        "FEMALE2000": 100,
+        "POP2008": 247,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061808002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11608,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.06948699982524,
+          -6.048639999736167
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11608,
+        "CU_NAME": "RUMPA (BIBUAI GONAYA)",
+        "CU_NO": "007",
+        "GEOCODE": "12061808007",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "08",
+        "WARD_NAME": "RUMPA",
+        "LATITUDE": -6.050052,
+        "LONGITUDE": 146.068452,
+        "REGHH": 42,
+        "TOTPOP2000": 236,
+        "MALE2000": 130,
+        "FEMALE2000": 106,
+        "POP2008": 295,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061808007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11609,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.08471699978975,
+          -6.014870000050394
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11609,
+        "CU_NAME": "YANKOWAN",
+        "CU_NO": "009",
+        "GEOCODE": "12061808009",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "08",
+        "WARD_NAME": "RUMPA",
+        "LATITUDE": -6.013212,
+        "LONGITUDE": 146.086479,
+        "REGHH": 30,
+        "TOTPOP2000": 165,
+        "MALE2000": 81,
+        "FEMALE2000": 84,
+        "POP2008": 206,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061808009,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

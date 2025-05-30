@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18454,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.91304100044192,
+          -3.3901809998532144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18454,
+        "CU_NAME": "ALKULA",
+        "CU_NO": "001",
+        "GEOCODE": "15010406001",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "06",
+        "WARD_NAME": "INEBU",
+        "LATITUDE": -3.391558,
+        "LONGITUDE": 141.911957,
+        "REGHH": 48,
+        "TOTPOP2000": 242,
+        "MALE2000": 131,
+        "FEMALE2000": 111,
+        "POP2008": 293,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010406001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18455,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.93451156605602,
+          -3.378339062597604
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18455,
+        "CU_NAME": "INEBU",
+        "CU_NO": "003",
+        "GEOCODE": "15010406003",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "06",
+        "WARD_NAME": "INEBU",
+        "LATITUDE": -3.381711,
+        "LONGITUDE": 141.936,
+        "REGHH": 82,
+        "TOTPOP2000": 522,
+        "MALE2000": 259,
+        "FEMALE2000": 263,
+        "POP2008": 631,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010406003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18456,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.9267769998587,
+          -3.3457339997242457
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18456,
+        "CU_NAME": "PIAKO",
+        "CU_NO": "013",
+        "GEOCODE": "15010406013",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "06",
+        "WARD_NAME": "INEBU",
+        "LATITUDE": -3.352642,
+        "LONGITUDE": 141.914711,
+        "REGHH": 35,
+        "TOTPOP2000": 186,
+        "MALE2000": 94,
+        "FEMALE2000": 92,
+        "POP2008": 225,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010406013,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18457,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.91988500039247,
+          -3.3619290001232116
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18457,
+        "CU_NAME": "KALEMA",
+        "CU_NO": "019",
+        "GEOCODE": "15010406019",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "06",
+        "WARD_NAME": "INEBU",
+        "LATITUDE": -3.363306,
+        "LONGITUDE": 141.918801,
+        "REGHH": 20,
+        "TOTPOP2000": 114,
+        "MALE2000": 68,
+        "FEMALE2000": 46,
+        "POP2008": 138,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010406019,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

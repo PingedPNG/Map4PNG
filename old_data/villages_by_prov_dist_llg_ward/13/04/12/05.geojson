@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8750,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5563330001679,
+          -5.688379000290581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8750,
+        "CU_NAME": "BARU",
+        "CU_NO": "003",
+        "GEOCODE": "13041205003",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARD 5",
+        "LATITUDE": -5.688165,
+        "LONGITUDE": 146.557288,
+        "REGHH": 25,
+        "TOTPOP2000": 186,
+        "MALE2000": 90,
+        "FEMALE2000": 96,
+        "POP2008": 230,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041205003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.56244200039805,
+          -5.6973510003483625
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8751,
+        "CU_NAME": "SEL",
+        "CU_NO": "030",
+        "GEOCODE": "13041205030",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARD 5",
+        "LATITUDE": -5.69169,
+        "LONGITUDE": 146.559865,
+        "REGHH": 86,
+        "TOTPOP2000": 497,
+        "MALE2000": 274,
+        "FEMALE2000": 223,
+        "POP2008": 615,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041205030,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8752,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5824569997908,
+          -5.727288000440808
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8752,
+        "CU_NAME": "SEURE",
+        "CU_NO": "031",
+        "GEOCODE": "13041205031",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARD 5",
+        "LATITUDE": -5.722383,
+        "LONGITUDE": 146.581238,
+        "REGHH": 59,
+        "TOTPOP2000": 371,
+        "MALE2000": 188,
+        "FEMALE2000": 183,
+        "POP2008": 459,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041205031,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8753,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.56597000031536,
+          -5.705928000177039
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8753,
+        "CU_NAME": "PARUWI COMM. SCH.",
+        "CU_NO": "401",
+        "GEOCODE": "13041205401",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARD 5",
+        "LATITUDE": -5.707337,
+        "LONGITUDE": 146.564942,
+        "REGHH": 4,
+        "TOTPOP2000": 23,
+        "MALE2000": 13,
+        "FEMALE2000": 10,
+        "POP2008": 31,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041205401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83794044179797,
+          -8.286241882157071
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15146,
+        "CU_NAME": "DUABA",
+        "CU_NO": "007",
+        "GEOCODE": "01010328007",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "28",
+        "WARD_NAME": "DUABA",
+        "LATITUDE": -8.286512,
+        "LONGITUDE": 142.838797,
+        "REGHH": 33,
+        "TOTPOP2000": 227,
+        "MALE2000": 109,
+        "FEMALE2000": 118,
+        "POP2008": 294,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010328007,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

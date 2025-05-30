@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16270,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3618990004386,
+          -5.693309000110219
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16270,
+        "CU_NAME": "KAMUND",
+        "CU_NO": "001",
+        "GEOCODE": "09020314001",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "KAMUND",
+        "LATITUDE": -5.694245,
+        "LONGITUDE": 144.362234,
+        "REGHH": 67,
+        "TOTPOP2000": 291,
+        "MALE2000": 155,
+        "FEMALE2000": 136,
+        "POP2008": 354,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020314001,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16271,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3610760002573,
+          -5.696713999751239
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16271,
+        "CU_NAME": "KATAPA",
+        "CU_NO": "002",
+        "GEOCODE": "09020314002",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "KAMUND",
+        "LATITUDE": -5.69765,
+        "LONGITUDE": 144.361411,
+        "REGHH": 41,
+        "TOTPOP2000": 160,
+        "MALE2000": 90,
+        "FEMALE2000": 70,
+        "POP2008": 194,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020314002,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16272,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.35730700001807,
+          -5.717337000202349
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16272,
+        "CU_NAME": "KURUP TIPP",
+        "CU_NO": "003",
+        "GEOCODE": "09020314003",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "KAMUND",
+        "LATITUDE": -5.718273,
+        "LONGITUDE": 144.357642,
+        "REGHH": 74,
+        "TOTPOP2000": 303,
+        "MALE2000": 139,
+        "FEMALE2000": 164,
+        "POP2008": 370,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020314003,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

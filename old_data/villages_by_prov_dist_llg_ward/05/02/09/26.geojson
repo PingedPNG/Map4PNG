@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9968,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.58116600021083,
+          -11.078372000167633
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9968,
+        "CU_NAME": "PANAEWAU",
+        "CU_NO": "004",
+        "GEOCODE": "05020926004",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "26",
+        "WARD_NAME": "MOTORINA NORTH",
+        "LATITUDE": -11.07872,
+        "LONGITUDE": 152.575643,
+        "REGHH": 46,
+        "TOTPOP2000": 259,
+        "MALE2000": 132,
+        "FEMALE2000": 127,
+        "POP2008": 316,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020926004,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

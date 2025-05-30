@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10824,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.83956999975578,
+          -6.472970000365194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10824,
+        "CU_NAME": "KATIKA",
+        "CU_NO": "017",
+        "GEOCODE": "12020709017",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "SIKI",
+        "LATITUDE": -6.47439,
+        "LONGITUDE": 147.838558,
+        "REGHH": 62,
+        "TOTPOP2000": 334,
+        "MALE2000": 180,
+        "FEMALE2000": 154,
+        "POP2008": 416,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020709017,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10825,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.82592500003875,
+          -6.4622339998991265
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10825,
+        "CU_NAME": "LECKO",
+        "CU_NO": "024",
+        "GEOCODE": "12020709024",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "SIKI",
+        "LATITUDE": -6.463654,
+        "LONGITUDE": 147.824913,
+        "REGHH": 28,
+        "TOTPOP2000": 180,
+        "MALE2000": 91,
+        "FEMALE2000": 89,
+        "POP2008": 224,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020709024,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10826,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.84760199963262,
+          -6.4542670003217495
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10826,
+        "CU_NAME": "KURUE",
+        "CU_NO": "053",
+        "GEOCODE": "12020709053",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "SIKI",
+        "LATITUDE": -6.455687,
+        "LONGITUDE": 147.84659,
+        "REGHH": 31,
+        "TOTPOP2000": 188,
+        "MALE2000": 96,
+        "FEMALE2000": 92,
+        "POP2008": 234,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020709053,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.83618900032218,
+          -6.48327299974909
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10827,
+        "CU_NAME": "GOENG",
+        "CU_NO": "054",
+        "GEOCODE": "12020709054",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "SIKI",
+        "LATITUDE": -6.484693,
+        "LONGITUDE": 147.835177,
+        "REGHH": 10,
+        "TOTPOP2000": 59,
+        "MALE2000": 28,
+        "FEMALE2000": 31,
+        "POP2008": 75,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020709054,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10828,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.83860999955186,
+          -6.477558999747998
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10828,
+        "CU_NAME": "SIKI C/SCH",
+        "CU_NO": "402",
+        "GEOCODE": "12020709402",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "SIKI",
+        "LATITUDE": -6.478979,
+        "LONGITUDE": 147.837598,
+        "REGHH": 8,
+        "TOTPOP2000": 36,
+        "MALE2000": 22,
+        "FEMALE2000": 14,
+        "POP2008": 44,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020709402,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

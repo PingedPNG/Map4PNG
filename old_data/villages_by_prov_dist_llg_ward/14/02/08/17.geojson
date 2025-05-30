@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.52707300021882,
+          -3.8618439997007954
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6504,
+        "CU_NAME": "KOPAR",
+        "CU_NO": "003",
+        "GEOCODE": "14020817003",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "17",
+        "WARD_NAME": "KOPAR",
+        "LATITUDE": -3.863426,
+        "LONGITUDE": 144.525852,
+        "REGHH": 57,
+        "TOTPOP2000": 228,
+        "MALE2000": 113,
+        "FEMALE2000": 115,
+        "POP2008": 271,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020817003,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

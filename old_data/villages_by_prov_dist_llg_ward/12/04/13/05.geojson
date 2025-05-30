@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11209,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.25254999968286,
+          -6.236734999820328
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11209,
+        "CU_NAME": "MUSED",
+        "CU_NO": "015",
+        "GEOCODE": "12041305015",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARAN",
+        "LATITUDE": -6.238151,
+        "LONGITUDE": 147.25153,
+        "REGHH": 60,
+        "TOTPOP2000": 331,
+        "MALE2000": 177,
+        "FEMALE2000": 154,
+        "POP2008": 413,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041305015,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11210,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.25216299982264,
+          -6.218989999888549
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11210,
+        "CU_NAME": "WARAN",
+        "CU_NO": "027",
+        "GEOCODE": "12041305027",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARAN",
+        "LATITUDE": -6.220406,
+        "LONGITUDE": 147.251143,
+        "REGHH": 112,
+        "TOTPOP2000": 575,
+        "MALE2000": 273,
+        "FEMALE2000": 302,
+        "POP2008": 719,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041305027,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

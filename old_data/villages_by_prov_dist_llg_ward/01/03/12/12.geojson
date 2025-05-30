@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15590,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.2660000003998,
+          -9.167590999624906
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15590,
+        "CU_NAME": "BER",
+        "CU_NO": "001",
+        "GEOCODE": "01031212001",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "12",
+        "WARD_NAME": "BUJI",
+        "LATITUDE": -9.169024,
+        "LONGITUDE": 142.264908,
+        "REGHH": 21,
+        "TOTPOP2000": 126,
+        "MALE2000": 70,
+        "FEMALE2000": 56,
+        "POP2008": 163,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031212001,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15591,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.23828100006813,
+          -9.151403999594834
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15591,
+        "CU_NAME": "BUJI",
+        "CU_NO": "002",
+        "GEOCODE": "01031212002",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "12",
+        "WARD_NAME": "BUJI",
+        "LATITUDE": -9.152836,
+        "LONGITUDE": 142.237189,
+        "REGHH": 29,
+        "TOTPOP2000": 208,
+        "MALE2000": 103,
+        "FEMALE2000": 105,
+        "POP2008": 270,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031212002,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15592,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.2603079996146,
+          -9.158971999658036
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15592,
+        "CU_NAME": "BUJI COMMUNITY SCHOOL",
+        "CU_NO": "003",
+        "GEOCODE": "01031212003",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "12",
+        "WARD_NAME": "BUJI",
+        "LATITUDE": -9.157402,
+        "LONGITUDE": 142.253993,
+        "REGHH": 11,
+        "TOTPOP2000": 78,
+        "MALE2000": 37,
+        "FEMALE2000": 41,
+        "POP2008": 102,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031212003,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

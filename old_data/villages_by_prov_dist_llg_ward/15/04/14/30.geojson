@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19023,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.05898185452907,
+          -3.7532533447659944
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19023,
+        "CU_NAME": "FONGINUM",
+        "CU_NO": "003",
+        "GEOCODE": "15041430003",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "30",
+        "WARD_NAME": "FONGINUM",
+        "LATITUDE": -3.750271,
+        "LONGITUDE": 141.060188,
+        "REGHH": 20,
+        "TOTPOP2000": 129,
+        "MALE2000": 69,
+        "FEMALE2000": 60,
+        "POP2008": 155,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041430003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19024,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.02117399958047,
+          -3.7929370002423184
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19024,
+        "CU_NAME": "PANAGAN",
+        "CU_NO": "008",
+        "GEOCODE": "15041430008",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "30",
+        "WARD_NAME": "FONGINUM",
+        "LATITUDE": -3.794317,
+        "LONGITUDE": 141.020079,
+        "REGHH": 26,
+        "TOTPOP2000": 177,
+        "MALE2000": 100,
+        "FEMALE2000": 77,
+        "POP2008": 214,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041430008,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

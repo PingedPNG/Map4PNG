@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9861,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0596130003397,
+          -10.594893999558394
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9861,
+        "CU_NAME": "YOKOWA",
+        "CU_NO": "001",
+        "GEOCODE": "05020814001",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "14",
+        "WARD_NAME": "YOKOWA",
+        "LATITUDE": -10.596367,
+        "LONGITUDE": 151.058638,
+        "REGHH": 46,
+        "TOTPOP2000": 258,
+        "MALE2000": 144,
+        "FEMALE2000": 114,
+        "POP2008": 314,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020814001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

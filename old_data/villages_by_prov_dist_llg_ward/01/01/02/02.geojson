@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15046,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.753714000301,
+          -6.868760999720337
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15046,
+        "CU_NAME": "KAWALASI",
+        "CU_NO": "008",
+        "GEOCODE": "01010202008",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "KAWALASI",
+        "LATITUDE": -6.87017,
+        "LONGITUDE": 142.753959,
+        "REGHH": 6,
+        "TOTPOP2000": 33,
+        "MALE2000": 16,
+        "FEMALE2000": 17,
+        "POP2008": 41,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010202008,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

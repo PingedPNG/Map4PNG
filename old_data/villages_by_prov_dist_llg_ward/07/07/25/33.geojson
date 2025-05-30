@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21479,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.45944599973313,
+          -6.168540999967149
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21479,
+        "CU_NAME": "WAKUNG",
+        "CU_NO": "001",
+        "GEOCODE": "07072533001",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "33",
+        "WARD_NAME": "PULIM 1",
+        "LATITUDE": -6.172345,
+        "LONGITUDE": 143.459595,
+        "REGHH": 39,
+        "TOTPOP2000": 247,
+        "MALE2000": 132,
+        "FEMALE2000": 115,
+        "POP2008": 343,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072533001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21480,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.45878299973572,
+          -6.168406000036839
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21480,
+        "CU_NAME": "TAL",
+        "CU_NO": "002",
+        "GEOCODE": "07072533002",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "33",
+        "WARD_NAME": "PULIM 1",
+        "LATITUDE": -6.172345,
+        "LONGITUDE": 143.459595,
+        "REGHH": 42,
+        "TOTPOP2000": 266,
+        "MALE2000": 133,
+        "FEMALE2000": 133,
+        "POP2008": 370,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072533002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21481,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4587750002661,
+          -6.167655999624628
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21481,
+        "CU_NAME": "TEKENA",
+        "CU_NO": "003",
+        "GEOCODE": "07072533003",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "33",
+        "WARD_NAME": "PULIM 1",
+        "LATITUDE": -6.172345,
+        "LONGITUDE": 143.459595,
+        "REGHH": 48,
+        "TOTPOP2000": 298,
+        "MALE2000": 156,
+        "FEMALE2000": 142,
+        "POP2008": 415,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072533003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21482,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.45965200023966,
+          -6.167799999969986
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21482,
+        "CU_NAME": "MARISTE",
+        "CU_NO": "004",
+        "GEOCODE": "07072533004",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "33",
+        "WARD_NAME": "PULIM 1",
+        "LATITUDE": -6.172345,
+        "LONGITUDE": 143.459595,
+        "REGHH": 31,
+        "TOTPOP2000": 201,
+        "MALE2000": 104,
+        "FEMALE2000": 97,
+        "POP2008": 279,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072533004,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

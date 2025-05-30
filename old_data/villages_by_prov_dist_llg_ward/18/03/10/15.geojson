@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4817,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7890490002112,
+          -5.5668169999045745
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4817,
+        "CU_NAME": "BUKA",
+        "CU_NO": "025",
+        "GEOCODE": "18031015025",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "15",
+        "WARD_NAME": "BUKA",
+        "LATITUDE": -5.568233,
+        "LONGITUDE": 151.788094,
+        "REGHH": 27,
+        "TOTPOP2000": 136,
+        "MALE2000": 70,
+        "FEMALE2000": 66,
+        "POP2008": 166,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031015025,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4818,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.80793100041535,
+          -5.538738000058629
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4818,
+        "CU_NAME": "GELOKPUN",
+        "CU_NO": "026",
+        "GEOCODE": "18031015026",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "15",
+        "WARD_NAME": "BUKA",
+        "LATITUDE": -5.536951,
+        "LONGITUDE": 151.806527,
+        "REGHH": 7,
+        "TOTPOP2000": 45,
+        "MALE2000": 25,
+        "FEMALE2000": 20,
+        "POP2008": 53,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031015026,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4819,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.82685299976617,
+          -5.576282000214064
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4819,
+        "CU_NAME": "MALUAN",
+        "CU_NO": "027",
+        "GEOCODE": "18031015027",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "15",
+        "WARD_NAME": "BUKA",
+        "LATITUDE": -5.580206,
+        "LONGITUDE": 151.821117,
+        "REGHH": 6,
+        "TOTPOP2000": 34,
+        "MALE2000": 16,
+        "FEMALE2000": 18,
+        "POP2008": 42,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031015027,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

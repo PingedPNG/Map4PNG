@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1485,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5061020002072,
+          -9.539621000408772
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1485,
+        "CU_NAME": "VARUTANUMU",
+        "CU_NO": "023",
+        "GEOCODE": "03030913023",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "13",
+        "WARD_NAME": "WARUTANUMU",
+        "LATITUDE": -9.541073,
+        "LONGITUDE": 147.505077,
+        "REGHH": 9,
+        "TOTPOP2000": 38,
+        "MALE2000": 23,
+        "FEMALE2000": 15,
+        "POP2008": 46,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030913023,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1486,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.466321000314,
+          -9.556691999835891
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1486,
+        "CU_NAME": "GORUDOBU",
+        "CU_NO": "429",
+        "GEOCODE": "03030913429",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "13",
+        "WARD_NAME": "WARUTANUMU",
+        "LATITUDE": -9.556647,
+        "LONGITUDE": 147.474681,
+        "REGHH": 6,
+        "TOTPOP2000": 43,
+        "MALE2000": 27,
+        "FEMALE2000": 16,
+        "POP2008": 51,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030913429,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

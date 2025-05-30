@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12049,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.05216100033,
+          -7.232090000353196
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12049,
+        "CU_NAME": "KAPINI",
+        "CU_NO": "009",
+        "GEOCODE": "12072213009",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "13",
+        "WARD_NAME": "KAPINI",
+        "LATITUDE": -7.233515,
+        "LONGITUDE": 146.051123,
+        "REGHH": 122,
+        "TOTPOP2000": 660,
+        "MALE2000": 334,
+        "FEMALE2000": 326,
+        "POP2008": 823,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072213009,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12050,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0979900003383,
+          -7.141031000080545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12050,
+        "CU_NAME": "KANAGOGI",
+        "CU_NO": "011",
+        "GEOCODE": "12072213011",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "13",
+        "WARD_NAME": "KAPINI",
+        "LATITUDE": -7.142455,
+        "LONGITUDE": 146.096953,
+        "REGHH": 73,
+        "TOTPOP2000": 283,
+        "MALE2000": 150,
+        "FEMALE2000": 133,
+        "POP2008": 353,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072213011,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12051,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.04802000002303,
+          -7.199014000295847
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12051,
+        "CU_NAME": "KUMAI",
+        "CU_NO": "013",
+        "GEOCODE": "12072213013",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "13",
+        "WARD_NAME": "KAPINI",
+        "LATITUDE": -7.200438,
+        "LONGITUDE": 146.046982,
+        "REGHH": 89,
+        "TOTPOP2000": 437,
+        "MALE2000": 231,
+        "FEMALE2000": 206,
+        "POP2008": 545,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072213013,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

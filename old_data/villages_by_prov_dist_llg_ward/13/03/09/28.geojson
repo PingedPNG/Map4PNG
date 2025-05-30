@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8629,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.19697599964275,
+          -5.190579000220623
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8629,
+        "CU_NAME": "MANGAMANAU",
+        "CU_NO": "001",
+        "GEOCODE": "13030928001",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "28",
+        "WARD_NAME": "YILU",
+        "LATITUDE": -5.191977,
+        "LONGITUDE": 144.195918,
+        "REGHH": 13,
+        "TOTPOP2000": 56,
+        "MALE2000": 32,
+        "FEMALE2000": 24,
+        "POP2008": 72,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030928001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8630,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1442119999839,
+          -5.088023000361147
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8630,
+        "CU_NAME": "YILU (HAGAHAI)",
+        "CU_NO": "002",
+        "GEOCODE": "13030928002",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "28",
+        "WARD_NAME": "YILU",
+        "LATITUDE": -5.094519,
+        "LONGITUDE": 144.144146,
+        "REGHH": 60,
+        "TOTPOP2000": 295,
+        "MALE2000": 176,
+        "FEMALE2000": 119,
+        "POP2008": 365,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030928002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8631,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1206250004435,
+          -5.072531000005597
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8631,
+        "CU_NAME": "MAMUSI",
+        "CU_NO": "003",
+        "GEOCODE": "13030928003",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "28",
+        "WARD_NAME": "YILU",
+        "LATITUDE": -5.073929,
+        "LONGITUDE": 144.119566,
+        "REGHH": 57,
+        "TOTPOP2000": 315,
+        "MALE2000": 178,
+        "FEMALE2000": 137,
+        "POP2008": 390,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030928003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8632,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1280969996768,
+          -5.084866999612302
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8632,
+        "CU_NAME": "PENALE",
+        "CU_NO": "004",
+        "GEOCODE": "13030928004",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "28",
+        "WARD_NAME": "YILU",
+        "LATITUDE": -5.086265,
+        "LONGITUDE": 144.127038,
+        "REGHH": 12,
+        "TOTPOP2000": 48,
+        "MALE2000": 29,
+        "FEMALE2000": 19,
+        "POP2008": 56,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030928004,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

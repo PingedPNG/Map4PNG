@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15293,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.27407399971537,
+          -5.8976559996246465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15293,
+        "CU_NAME": "BRIOMPINAI",
+        "CU_NO": "001",
+        "GEOCODE": "01020601001",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "BRIOMPINAI",
+        "LATITUDE": -5.899057,
+        "LONGITUDE": 141.272979,
+        "REGHH": 34,
+        "TOTPOP2000": 225,
+        "MALE2000": 121,
+        "FEMALE2000": 104,
+        "POP2008": 291,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020601001,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15294,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.27450799994426,
+          -5.891535999786527
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15294,
+        "CU_NAME": "RUMGINAE",
+        "CU_NO": "401",
+        "GEOCODE": "01020601401",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "BRIOMPINAI",
+        "LATITUDE": -5.894667,
+        "LONGITUDE": 141.269102,
+        "REGHH": 35,
+        "TOTPOP2000": 305,
+        "MALE2000": 139,
+        "FEMALE2000": 166,
+        "POP2008": 395,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020601401,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15295,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.27619300030676,
+          -5.905202999618666
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15295,
+        "CU_NAME": "RUDMESUK",
+        "CU_NO": "402",
+        "GEOCODE": "01020601402",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "BRIOMPINAI",
+        "LATITUDE": -5.906604,
+        "LONGITUDE": 141.275098,
+        "REGHH": 7,
+        "TOTPOP2000": 34,
+        "MALE2000": 18,
+        "FEMALE2000": 16,
+        "POP2008": 42,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020601402,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

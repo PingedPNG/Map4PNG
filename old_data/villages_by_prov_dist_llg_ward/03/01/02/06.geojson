@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.09007800019958,
+          -10.131241000371801
+        ]
+      },
+      "properties": {
+        "OBJECTID": 942,
+        "CU_NAME": "KELEKAPANA/KWAPUEPA",
+        "CU_NO": "024",
+        "GEOCODE": "03010206024",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "KELEKAPANA",
+        "LATITUDE": -10.1327,
+        "LONGITUDE": 148.08906,
+        "REGHH": 128,
+        "TOTPOP2000": 1152,
+        "MALE2000": 604,
+        "FEMALE2000": 548,
+        "POP2008": 1381,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010206024,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 943,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.08802299986166,
+          -10.104119999738145
+        ]
+      },
+      "properties": {
+        "OBJECTID": 943,
+        "CU_NAME": "MADANA STATION",
+        "CU_NO": "523",
+        "GEOCODE": "03010206523",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "KELEKAPANA",
+        "LATITUDE": -10.106766,
+        "LONGITUDE": 148.084483,
+        "REGHH": 7,
+        "TOTPOP2000": 31,
+        "MALE2000": 18,
+        "FEMALE2000": 13,
+        "POP2008": 39,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010206523,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17924,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.40936999962582,
+          -5.5434339998791415
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17924,
+        "CU_NAME": "MULIAGANI",
+        "CU_NO": "005",
+        "GEOCODE": "19010505005",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "SISILI SAPULO",
+        "LATITUDE": -5.544422,
+        "LONGITUDE": 149.409025,
+        "REGHH": 23,
+        "TOTPOP2000": 126,
+        "MALE2000": 55,
+        "FEMALE2000": 71,
+        "POP2008": 166,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010505005,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17925,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4528290000584,
+          -5.512639999836097
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17925,
+        "CU_NAME": "NUKAKAU / MILIMATE",
+        "CU_NO": "006",
+        "GEOCODE": "19010505006",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "SISILI SAPULO",
+        "LATITUDE": -5.513409,
+        "LONGITUDE": 149.451207,
+        "REGHH": 54,
+        "TOTPOP2000": 352,
+        "MALE2000": 172,
+        "FEMALE2000": 180,
+        "POP2008": 464,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010505006,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17926,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.433346000018,
+          -5.5563280000371265
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17926,
+        "CU_NAME": "MAIKO",
+        "CU_NO": "017",
+        "GEOCODE": "19010505017",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "SISILI SAPULO",
+        "LATITUDE": -5.55753,
+        "LONGITUDE": 149.433,
+        "REGHH": 23,
+        "TOTPOP2000": 164,
+        "MALE2000": 79,
+        "FEMALE2000": 85,
+        "POP2008": 216,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010505017,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17927,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4487580002816,
+          -5.538436999667738
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17927,
+        "CU_NAME": "VONA",
+        "CU_NO": "018",
+        "GEOCODE": "19010505018",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "SISILI SAPULO",
+        "LATITUDE": -5.53962,
+        "LONGITUDE": 149.448,
+        "REGHH": 27,
+        "TOTPOP2000": 149,
+        "MALE2000": 73,
+        "FEMALE2000": 76,
+        "POP2008": 196,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010505018,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17928,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.42598799974644,
+          -5.56153800017853
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17928,
+        "CU_NAME": "PUA / MAKIA",
+        "CU_NO": "019",
+        "GEOCODE": "19010505019",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "SISILI SAPULO",
+        "LATITUDE": -5.56295,
+        "LONGITUDE": 149.425,
+        "REGHH": 30,
+        "TOTPOP2000": 183,
+        "MALE2000": 88,
+        "FEMALE2000": 95,
+        "POP2008": 241,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010505019,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

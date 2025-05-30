@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.78466199955176,
+          -4.3122470002987825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6229,
+        "CU_NAME": "ABAGAISU",
+        "CU_NO": "001",
+        "GEOCODE": "14010410001",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "PEKWEI",
+        "LATITUDE": -4.313831,
+        "LONGITUDE": 141.783405,
+        "REGHH": 24,
+        "TOTPOP2000": 146,
+        "MALE2000": 79,
+        "FEMALE2000": 67,
+        "POP2008": 173,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010410001,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6230,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.79655799955208,
+          -4.3085160000133556
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6230,
+        "CU_NAME": "PEKWEI",
+        "CU_NO": "009",
+        "GEOCODE": "14010410009",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "PEKWEI",
+        "LATITUDE": -4.31521,
+        "LONGITUDE": 141.792256,
+        "REGHH": 32,
+        "TOTPOP2000": 172,
+        "MALE2000": 83,
+        "FEMALE2000": 89,
+        "POP2008": 204,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010410009,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6231,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.79963800039343,
+          -4.316723999912597
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6231,
+        "CU_NAME": "MAY RIVER STATION",
+        "CU_NO": "501",
+        "GEOCODE": "14010410501",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "PEKWEI",
+        "LATITUDE": -4.318314,
+        "LONGITUDE": 141.793296,
+        "REGHH": 5,
+        "TOTPOP2000": 23,
+        "MALE2000": 11,
+        "FEMALE2000": 12,
+        "POP2008": 31,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010410501,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

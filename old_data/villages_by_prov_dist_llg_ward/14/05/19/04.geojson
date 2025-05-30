@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7036,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.01062800028205,
+          -3.962550999728819
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7036,
+        "CU_NAME": "KANJANGLI",
+        "CU_NO": "001",
+        "GEOCODE": "14051904001",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "19",
+        "WARD_NO": "04",
+        "WARD_NAME": "JAMA NO 2",
+        "LATITUDE": -3.969164,
+        "LONGITUDE": 143.003906,
+        "REGHH": 68,
+        "TOTPOP2000": 381,
+        "MALE2000": 183,
+        "FEMALE2000": 198,
+        "POP2008": 454,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14051904001,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

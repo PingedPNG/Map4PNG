@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17081,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.11229100012963,
+          -5.509712999755095
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17081,
+        "CU_NAME": "ENDEMANE",
+        "CU_NO": "001",
+        "GEOCODE": "09050912001",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "ENDEMANE",
+        "LATITUDE": -5.510648,
+        "LONGITUDE": 144.112622,
+        "REGHH": 84,
+        "TOTPOP2000": 414,
+        "MALE2000": 192,
+        "FEMALE2000": 222,
+        "POP2008": 504,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050912001,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

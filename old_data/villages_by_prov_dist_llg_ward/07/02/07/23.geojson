@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19732,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7402679996685,
+          -6.212068999984297
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19732,
+        "CU_NAME": "PRISON CAMP",
+        "CU_NO": "401",
+        "GEOCODE": "07020723401",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "23",
+        "WARD_NAME": "CIS",
+        "LATITUDE": -6.216314,
+        "LONGITUDE": 143.740546,
+        "REGHH": 54,
+        "TOTPOP2000": 447,
+        "MALE2000": 285,
+        "FEMALE2000": 162,
+        "POP2008": 621,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020723401,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

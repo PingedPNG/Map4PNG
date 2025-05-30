@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.13591699986966,
+          -4.198228999768503
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5105,
+        "CU_NAME": "RATUNG",
+        "CU_NO": "001",
+        "GEOCODE": "18041501001",
+        "PROV_KEY": "18",
+        "DIST_NO": "04",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "RATUNG",
+        "LATITUDE": -4.199628,
+        "LONGITUDE": 152.134971,
+        "REGHH": 129,
+        "TOTPOP2000": 635,
+        "MALE2000": 319,
+        "FEMALE2000": 316,
+        "POP2008": 774,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18041501001,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

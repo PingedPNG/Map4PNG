@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4438,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.13002799989238,
+          -4.320830999550935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4438,
+        "CU_NAME": "TAKEKEL VILLAGE",
+        "CU_NO": "006",
+        "GEOCODE": "18010107006",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "TAKEKEL",
+        "LATITUDE": -4.322231,
+        "LONGITUDE": 152.129081,
+        "REGHH": 255,
+        "TOTPOP2000": 1405,
+        "MALE2000": 770,
+        "FEMALE2000": 635,
+        "POP2008": 1713,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010107006,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4439,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1300930001919,
+          -4.312250000437132
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4439,
+        "CU_NAME": "TOMARINGA POLICE DEPT.",
+        "CU_NO": "510",
+        "GEOCODE": "18010107510",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "TAKEKEL",
+        "LATITUDE": -4.31365,
+        "LONGITUDE": 152.129146,
+        "REGHH": 56,
+        "TOTPOP2000": 314,
+        "MALE2000": 167,
+        "FEMALE2000": 147,
+        "POP2008": 382,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010107510,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4440,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.07648300019036,
+          -4.32135000010237
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4440,
+        "CU_NAME": "VUNAKANAU PLANTATION",
+        "CU_NO": "514",
+        "GEOCODE": "18010107514",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "TAKEKEL",
+        "LATITUDE": -4.32275,
+        "LONGITUDE": 152.075536,
+        "REGHH": 15,
+        "TOTPOP2000": 73,
+        "MALE2000": 48,
+        "FEMALE2000": 25,
+        "POP2008": 89,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010107514,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

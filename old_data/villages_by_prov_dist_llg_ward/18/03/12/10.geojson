@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4928,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0513410001871,
+          -5.9911360000263585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4928,
+        "CU_NAME": "MASO",
+        "CU_NO": "015",
+        "GEOCODE": "18031210015",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "10",
+        "WARD_NAME": "MASO",
+        "LATITUDE": -5.990952,
+        "LONGITUDE": 151.057321,
+        "REGHH": 91,
+        "TOTPOP2000": 430,
+        "MALE2000": 201,
+        "FEMALE2000": 229,
+        "POP2008": 524,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031210015,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4929,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0514089997256,
+          -5.957090000203323
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4929,
+        "CU_NAME": "MARUSONA",
+        "CU_NO": "016",
+        "GEOCODE": "18031210016",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "10",
+        "WARD_NAME": "MASO",
+        "LATITUDE": -5.95851,
+        "LONGITUDE": 151.050444,
+        "REGHH": 14,
+        "TOTPOP2000": 81,
+        "MALE2000": 41,
+        "FEMALE2000": 40,
+        "POP2008": 97,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031210016,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4930,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.05287199974305,
+          -5.987451000063572
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4930,
+        "CU_NAME": "MASO COMM. SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "18031210401",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "10",
+        "WARD_NAME": "MASO",
+        "LATITUDE": -5.990952,
+        "LONGITUDE": 151.057321,
+        "REGHH": 11,
+        "TOTPOP2000": 59,
+        "MALE2000": 31,
+        "FEMALE2000": 28,
+        "POP2008": 73,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031210401,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

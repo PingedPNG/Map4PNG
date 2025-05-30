@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15065,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.49084599984303,
+          -8.000162000375951
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15065,
+        "CU_NAME": "SOGERE",
+        "CU_NO": "019",
+        "GEOCODE": "01010210019",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "10",
+        "WARD_NAME": "WAKAU/SOGERE",
+        "LATITUDE": -7.999276,
+        "LONGITUDE": 143.491041,
+        "REGHH": 35,
+        "TOTPOP2000": 227,
+        "MALE2000": 109,
+        "FEMALE2000": 118,
+        "POP2008": 294,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010210019,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15066,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5375099996868,
+          -8.005356999825608
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15066,
+        "CU_NAME": "WAKAU",
+        "CU_NO": "023",
+        "GEOCODE": "01010210023",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "10",
+        "WARD_NAME": "WAKAU/SOGERE",
+        "LATITUDE": -8.006783,
+        "LONGITUDE": 143.536437,
+        "REGHH": 9,
+        "TOTPOP2000": 49,
+        "MALE2000": 25,
+        "FEMALE2000": 24,
+        "POP2008": 65,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010210023,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9358,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.02905600003442,
+          -1.642330999975627
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9358,
+        "CU_NAME": "AWIN",
+        "CU_NO": "002",
+        "GEOCODE": "16010201002",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "01",
+        "WARD_NAME": "PATEKU",
+        "LATITUDE": -1.64369,
+        "LONGITUDE": 144.028,
+        "REGHH": 8,
+        "TOTPOP2000": 51,
+        "MALE2000": 25,
+        "FEMALE2000": 26,
+        "POP2008": 60,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010201002,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9359,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.08564900000147,
+          -1.397788000315927
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9359,
+        "CU_NAME": "PATEKU",
+        "CU_NO": "006",
+        "GEOCODE": "16010201006",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "01",
+        "WARD_NAME": "PATEKU",
+        "LATITUDE": -1.39721,
+        "LONGITUDE": 144.083,
+        "REGHH": 41,
+        "TOTPOP2000": 202,
+        "MALE2000": 103,
+        "FEMALE2000": 99,
+        "POP2008": 248,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010201006,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9360,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.57706099976542,
+          -1.311964000438195
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9360,
+        "CU_NAME": "ALLISON PLANTATION",
+        "CU_NO": "501",
+        "GEOCODE": "16010201501",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "01",
+        "WARD_NAME": "PATEKU",
+        "LATITUDE": -1.31233,
+        "LONGITUDE": 143.576,
+        "REGHH": 4,
+        "TOTPOP2000": 18,
+        "MALE2000": 13,
+        "FEMALE2000": 5,
+        "POP2008": 18,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010201501,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

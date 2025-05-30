@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5793,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.69915600044908,
+          -5.462163000422095
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5793,
+        "CU_NAME": "SARI",
+        "CU_NO": "008",
+        "GEOCODE": "08041113008",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "SARI",
+        "LATITUDE": -5.46355,
+        "LONGITUDE": 143.701104,
+        "REGHH": 159,
+        "TOTPOP2000": 795,
+        "MALE2000": 385,
+        "FEMALE2000": 410,
+        "POP2008": 999,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041113008,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5794,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71586100008517,
+          -5.486539000374535
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5794,
+        "CU_NAME": "AMALA",
+        "CU_NO": "009",
+        "GEOCODE": "08041113009",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "SARI",
+        "LATITUDE": -5.488912,
+        "LONGITUDE": 143.714437,
+        "REGHH": 91,
+        "TOTPOP2000": 610,
+        "MALE2000": 286,
+        "FEMALE2000": 324,
+        "POP2008": 767,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041113009,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

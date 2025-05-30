@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10065,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.67871100031243,
+          -8.703586000393557
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10065,
+        "CU_NAME": "IWA",
+        "CU_NO": "008",
+        "GEOCODE": "05021106008",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "IWA",
+        "LATITUDE": -8.700523,
+        "LONGITUDE": 151.676631,
+        "REGHH": 173,
+        "TOTPOP2000": 766,
+        "MALE2000": 420,
+        "FEMALE2000": 346,
+        "POP2008": 934,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021106008,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

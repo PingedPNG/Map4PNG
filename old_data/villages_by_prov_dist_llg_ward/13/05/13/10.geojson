@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9911649996651,
+          -4.531005999826959
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8942,
+        "CU_NAME": "DELDIGU",
+        "CU_NO": "004",
+        "GEOCODE": "13051310004",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "10",
+        "WARD_NAME": "WARD 10",
+        "LATITUDE": -4.532401,
+        "LONGITUDE": 145.990131,
+        "REGHH": 54,
+        "TOTPOP2000": 255,
+        "MALE2000": 133,
+        "FEMALE2000": 122,
+        "POP2008": 315,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051310004,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8943,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9943669998372,
+          -4.530985999803988
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8943,
+        "CU_NAME": "TUGUTUGU",
+        "CU_NO": "030",
+        "GEOCODE": "13051310030",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "10",
+        "WARD_NAME": "WARD 10",
+        "LATITUDE": -4.532381,
+        "LONGITUDE": 145.993333,
+        "REGHH": 74,
+        "TOTPOP2000": 368,
+        "MALE2000": 199,
+        "FEMALE2000": 169,
+        "POP2008": 455,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051310030,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8944,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0091160001034,
+          -4.533820000092874
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8944,
+        "CU_NAME": "KULILI PLANTATION",
+        "CU_NO": "506",
+        "GEOCODE": "13051310506",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "10",
+        "WARD_NAME": "WARD 10",
+        "LATITUDE": -4.53382,
+        "LONGITUDE": 146.010601,
+        "REGHH": 75,
+        "TOTPOP2000": 408,
+        "MALE2000": 243,
+        "FEMALE2000": 165,
+        "POP2008": 505,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051310506,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

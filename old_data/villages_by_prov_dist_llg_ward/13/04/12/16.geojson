@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8816,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.31558400010158,
+          -5.752770000135342
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8816,
+        "CU_NAME": "BAGALAWA",
+        "CU_NO": "004",
+        "GEOCODE": "13041216004",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -5.754179,
+        "LONGITUDE": 146.314552,
+        "REGHH": 30,
+        "TOTPOP2000": 176,
+        "MALE2000": 82,
+        "FEMALE2000": 94,
+        "POP2008": 218,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041216004,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8817,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.3087240003124,
+          -5.739158000141572
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8817,
+        "CU_NAME": "BIRONG",
+        "CU_NO": "006",
+        "GEOCODE": "13041216006",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -5.740567,
+        "LONGITUDE": 146.307692,
+        "REGHH": 50,
+        "TOTPOP2000": 216,
+        "MALE2000": 101,
+        "FEMALE2000": 115,
+        "POP2008": 267,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041216006,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8818,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.31413299973826,
+          -5.773209000195152
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8818,
+        "CU_NAME": "RONGUP",
+        "CU_NO": "007",
+        "GEOCODE": "13041216007",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -5.774618,
+        "LONGITUDE": 146.313101,
+        "REGHH": 14,
+        "TOTPOP2000": 54,
+        "MALE2000": 30,
+        "FEMALE2000": 24,
+        "POP2008": 68,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041216007,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

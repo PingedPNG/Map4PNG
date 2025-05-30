@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6811,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8165740003899,
+          -3.7339579999616603
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6811,
+        "CU_NAME": "KAMASAU",
+        "CU_NO": "008",
+        "GEOCODE": "14041508008",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "15",
+        "WARD_NO": "08",
+        "WARD_NAME": "YAUGIBA",
+        "LATITUDE": -3.735538,
+        "LONGITUDE": 143.815344,
+        "REGHH": 30,
+        "TOTPOP2000": 170,
+        "MALE2000": 90,
+        "FEMALE2000": 80,
+        "POP2008": 202,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041508008,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8038950002541,
+          -3.7306399998360575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6812,
+        "CU_NAME": "YAUGIBA",
+        "CU_NO": "034",
+        "GEOCODE": "14041508034",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "15",
+        "WARD_NO": "08",
+        "WARD_NAME": "YAUGIBA",
+        "LATITUDE": -3.73222,
+        "LONGITUDE": 143.802665,
+        "REGHH": 26,
+        "TOTPOP2000": 174,
+        "MALE2000": 91,
+        "FEMALE2000": 83,
+        "POP2008": 206,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041508034,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.83413299983818,
+          -3.7334730000788454
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6813,
+        "CU_NAME": "MORAI",
+        "CU_NO": "035",
+        "GEOCODE": "14041508035",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "15",
+        "WARD_NO": "08",
+        "WARD_NAME": "YAUGIBA",
+        "LATITUDE": -3.729045,
+        "LONGITUDE": 143.830389,
+        "REGHH": 9,
+        "TOTPOP2000": 48,
+        "MALE2000": 24,
+        "FEMALE2000": 24,
+        "POP2008": 56,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041508035,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.80012399992268,
+          -3.7194079998792517
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6814,
+        "CU_NAME": "BAJIMAN C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "14041508401",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "15",
+        "WARD_NO": "08",
+        "WARD_NAME": "YAUGIBA",
+        "LATITUDE": -3.725499,
+        "LONGITUDE": 143.799407,
+        "REGHH": 3,
+        "TOTPOP2000": 23,
+        "MALE2000": 14,
+        "FEMALE2000": 9,
+        "POP2008": 31,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041508401,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

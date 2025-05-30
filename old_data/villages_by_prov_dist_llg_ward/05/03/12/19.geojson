@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.09011999973825,
+          -8.54660199968248
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10137,
+        "CU_NAME": "TEYAVA",
+        "CU_NO": "020",
+        "GEOCODE": "05031219020",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "19",
+        "WARD_NAME": "OIVEYOVA",
+        "LATITUDE": -8.548053,
+        "LONGITUDE": 151.08915,
+        "REGHH": 58,
+        "TOTPOP2000": 288,
+        "MALE2000": 148,
+        "FEMALE2000": 140,
+        "POP2008": 351,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031219020,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.07928400005665,
+          -8.540614999682418
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10138,
+        "CU_NAME": "OIVEYOVA",
+        "CU_NO": "021",
+        "GEOCODE": "05031219021",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "19",
+        "WARD_NAME": "OIVEYOVA",
+        "LATITUDE": -8.542066,
+        "LONGITUDE": 151.078314,
+        "REGHH": 105,
+        "TOTPOP2000": 579,
+        "MALE2000": 296,
+        "FEMALE2000": 283,
+        "POP2008": 705,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031219021,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

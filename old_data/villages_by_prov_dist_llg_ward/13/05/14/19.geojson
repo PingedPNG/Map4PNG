@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9097,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7192300003643,
+          -4.9146150003819
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9097,
+        "CU_NAME": "BURBURA",
+        "CU_NO": "008",
+        "GEOCODE": "13051419008",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "19",
+        "WARD_NAME": "WARD 19",
+        "LATITUDE": -4.913962,
+        "LONGITUDE": 145.716561,
+        "REGHH": 23,
+        "TOTPOP2000": 143,
+        "MALE2000": 73,
+        "FEMALE2000": 70,
+        "POP2008": 177,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051419008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9098,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.69518600043364,
+          -4.916725999705079
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9098,
+        "CU_NAME": "BEMDIK",
+        "CU_NO": "009",
+        "GEOCODE": "13051419009",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "19",
+        "WARD_NAME": "WARD 19",
+        "LATITUDE": -4.918125,
+        "LONGITUDE": 145.694148,
+        "REGHH": 4,
+        "TOTPOP2000": 28,
+        "MALE2000": 13,
+        "FEMALE2000": 15,
+        "POP2008": 36,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051419009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9099,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70960599991702,
+          -4.924227000275778
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9099,
+        "CU_NAME": "BUROG",
+        "CU_NO": "010",
+        "GEOCODE": "13051419010",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "19",
+        "WARD_NAME": "WARD 19",
+        "LATITUDE": -4.920674,
+        "LONGITUDE": 145.708577,
+        "REGHH": 6,
+        "TOTPOP2000": 45,
+        "MALE2000": 25,
+        "FEMALE2000": 20,
+        "POP2008": 53,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051419010,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

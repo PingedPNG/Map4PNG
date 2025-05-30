@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8879,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1121169997998,
+          -5.683757000285311
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8879,
+        "CU_NAME": "MEBU",
+        "CU_NO": "024",
+        "GEOCODE": "13041232024",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "32",
+        "WARD_NAME": "WARD 32",
+        "LATITUDE": -5.684341,
+        "LONGITUDE": 146.10822,
+        "REGHH": 36,
+        "TOTPOP2000": 235,
+        "MALE2000": 118,
+        "FEMALE2000": 117,
+        "POP2008": 291,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041232024,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8880,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.102454000252,
+          -5.683951000238437
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8880,
+        "CU_NAME": "SITABA",
+        "CU_NO": "033",
+        "GEOCODE": "13041232033",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "32",
+        "WARD_NAME": "WARD 32",
+        "LATITUDE": -5.681395,
+        "LONGITUDE": 146.10539,
+        "REGHH": 15,
+        "TOTPOP2000": 104,
+        "MALE2000": 44,
+        "FEMALE2000": 60,
+        "POP2008": 128,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041232033,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8881,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1136630000475,
+          -5.536254999768403
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8881,
+        "CU_NAME": "TUGYAG",
+        "CU_NO": "034",
+        "GEOCODE": "13041232034",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "32",
+        "WARD_NAME": "WARD 32",
+        "LATITUDE": -5.53766,
+        "LONGITUDE": 146.112629,
+        "REGHH": 59,
+        "TOTPOP2000": 438,
+        "MALE2000": 225,
+        "FEMALE2000": 213,
+        "POP2008": 542,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041232034,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

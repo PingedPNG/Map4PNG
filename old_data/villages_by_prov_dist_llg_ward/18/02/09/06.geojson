@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4762,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.21466399984376,
+          -4.299464999909787
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4762,
+        "CU_NAME": "IALAKUA",
+        "CU_NO": "006",
+        "GEOCODE": "18020906006",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "06",
+        "WARD_NAME": "IALAKUA",
+        "LATITUDE": -4.298774,
+        "LONGITUDE": 152.215024,
+        "REGHH": 76,
+        "TOTPOP2000": 423,
+        "MALE2000": 229,
+        "FEMALE2000": 194,
+        "POP2008": 516,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020906006,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

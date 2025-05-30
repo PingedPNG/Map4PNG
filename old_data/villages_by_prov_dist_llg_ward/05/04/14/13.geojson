@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.5594999997253,
+          -9.471969000369029
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10232,
+        "CU_NAME": "SAIBUTU",
+        "CU_NO": "019",
+        "GEOCODE": "05041413019",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "14",
+        "WARD_NO": "13",
+        "WARD_NAME": "SAIBUTU",
+        "LATITUDE": -9.473446,
+        "LONGITUDE": 150.561005,
+        "REGHH": 73,
+        "TOTPOP2000": 401,
+        "MALE2000": 226,
+        "FEMALE2000": 175,
+        "POP2008": 489,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041413019,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

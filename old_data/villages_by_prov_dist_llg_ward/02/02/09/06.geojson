@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7740,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.33051900015175,
+          -7.852849999627722
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7740,
+        "CU_NAME": "HARILAREWA",
+        "CU_NO": "003",
+        "GEOCODE": "02020906003",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "06",
+        "WARD_NAME": "HARILAREWA",
+        "LATITUDE": -7.857168,
+        "LONGITUDE": 145.325818,
+        "REGHH": 60,
+        "TOTPOP2000": 324,
+        "MALE2000": 169,
+        "FEMALE2000": 155,
+        "POP2008": 398,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020906003,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7741,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3322099998917,
+          -7.846873000088863
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7741,
+        "CU_NAME": "HOPAIKU",
+        "CU_NO": "007",
+        "GEOCODE": "02020906007",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "06",
+        "WARD_NAME": "HARILAREWA",
+        "LATITUDE": -7.856276,
+        "LONGITUDE": 145.328217,
+        "REGHH": 40,
+        "TOTPOP2000": 248,
+        "MALE2000": 109,
+        "FEMALE2000": 139,
+        "POP2008": 305,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020906007,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

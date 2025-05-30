@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14477,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.81523100031052,
+          -5.9144580001365625
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14477,
+        "CU_NAME": "MOROMA 2",
+        "CU_NO": "009",
+        "GEOCODE": "10041105009",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "DAGE YOGOMBO 2",
+        "LATITUDE": -5.915866,
+        "LONGITUDE": 144.814179,
+        "REGHH": 58,
+        "TOTPOP2000": 265,
+        "MALE2000": 134,
+        "FEMALE2000": 131,
+        "POP2008": 305,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041105009,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14478,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.81611499970757,
+          -5.922125000268522
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14478,
+        "CU_NAME": "MIUNDE",
+        "CU_NO": "010",
+        "GEOCODE": "10041105010",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "DAGE YOGOMBO 2",
+        "LATITUDE": -5.925887,
+        "LONGITUDE": 144.81455,
+        "REGHH": 95,
+        "TOTPOP2000": 518,
+        "MALE2000": 276,
+        "FEMALE2000": 242,
+        "POP2008": 597,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041105010,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14479,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.81577300012395,
+          -5.926933999904122
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14479,
+        "CU_NAME": "MIUNDE C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "10041105401",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "DAGE YOGOMBO 2",
+        "LATITUDE": -5.928342,
+        "LONGITUDE": 144.814721,
+        "REGHH": 57,
+        "TOTPOP2000": 302,
+        "MALE2000": 138,
+        "FEMALE2000": 164,
+        "POP2008": 349,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041105401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

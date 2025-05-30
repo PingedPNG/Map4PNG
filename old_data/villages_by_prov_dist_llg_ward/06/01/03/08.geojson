@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13254,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3222989999989,
+          -9.091758000031632
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13254,
+        "CU_NAME": "SIRIBU",
+        "CU_NO": "025",
+        "GEOCODE": "06010308025",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "SIRIBU",
+        "LATITUDE": -9.093207,
+        "LONGITUDE": 148.321287,
+        "REGHH": 78,
+        "TOTPOP2000": 437,
+        "MALE2000": 229,
+        "FEMALE2000": 208,
+        "POP2008": 540,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010308025,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

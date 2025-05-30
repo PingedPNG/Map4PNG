@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3693459996183,
+          -4.060356999975511
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6318,
+        "CU_NAME": "NINDIKUM",
+        "CU_NO": "016",
+        "GEOCODE": "14020529016",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "29",
+        "WARD_NAME": "NINDIKUM",
+        "LATITUDE": -4.06194,
+        "LONGITUDE": 143.36811,
+        "REGHH": 48,
+        "TOTPOP2000": 260,
+        "MALE2000": 124,
+        "FEMALE2000": 136,
+        "POP2008": 310,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020529016,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

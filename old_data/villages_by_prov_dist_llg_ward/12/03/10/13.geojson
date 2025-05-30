@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10984,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0053000001949,
+          -7.027616000378089
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10984,
+        "CU_NAME": "ASINI",
+        "CU_NO": "001",
+        "GEOCODE": "12031013001",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "ASINI",
+        "LATITUDE": -7.027269,
+        "LONGITUDE": 147.004275,
+        "REGHH": 119,
+        "TOTPOP2000": 609,
+        "MALE2000": 327,
+        "FEMALE2000": 282,
+        "POP2008": 761,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031013001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10985,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9894270002559,
+          -7.033468999594618
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10985,
+        "CU_NAME": "TABOLA",
+        "CU_NO": "002",
+        "GEOCODE": "12031013002",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "ASINI",
+        "LATITUDE": -7.034894,
+        "LONGITUDE": 146.988402,
+        "REGHH": 20,
+        "TOTPOP2000": 121,
+        "MALE2000": 70,
+        "FEMALE2000": 51,
+        "POP2008": 151,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031013002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10986,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.99918699978025,
+          -7.028358999568127
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10986,
+        "CU_NAME": "MALALO MISSION STAT",
+        "CU_NO": "401",
+        "GEOCODE": "12031013401",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "ASINI",
+        "LATITUDE": -7.029785,
+        "LONGITUDE": 146.998162,
+        "REGHH": 4,
+        "TOTPOP2000": 14,
+        "MALE2000": 9,
+        "FEMALE2000": 5,
+        "POP2008": 14,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031013401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

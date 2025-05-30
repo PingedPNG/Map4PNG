@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6687,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0557300000395,
+          -3.6253269996412882
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6687,
+        "CU_NAME": "MAPRIK",
+        "CU_NO": "001",
+        "GEOCODE": "14031282001",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "82",
+        "WARD_NAME": "MAPRIK URBAN",
+        "LATITUDE": -3.628182,
+        "LONGITUDE": 143.054493,
+        "REGHH": 211,
+        "TOTPOP2000": 1372,
+        "MALE2000": 722,
+        "FEMALE2000": 650,
+        "POP2008": 1633,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031282001,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6851,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5935659998711,
+          -3.5082179995609977
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6851,
+        "CU_NAME": "GAINAI",
+        "CU_NO": "004",
+        "GEOCODE": "14041604004",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "04",
+        "WARD_NAME": "RUPRUP 1",
+        "LATITUDE": -3.509796,
+        "LONGITUDE": 144.592346,
+        "REGHH": 40,
+        "TOTPOP2000": 212,
+        "MALE2000": 109,
+        "FEMALE2000": 103,
+        "POP2008": 252,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041604004,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6852,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.61787400028493,
+          -3.5068919995661076
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6852,
+        "CU_NAME": "TABEL",
+        "CU_NO": "028",
+        "GEOCODE": "14041604028",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "04",
+        "WARD_NAME": "RUPRUP 1",
+        "LATITUDE": -3.507436,
+        "LONGITUDE": 144.618015,
+        "REGHH": 17,
+        "TOTPOP2000": 93,
+        "MALE2000": 49,
+        "FEMALE2000": 44,
+        "POP2008": 109,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041604028,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

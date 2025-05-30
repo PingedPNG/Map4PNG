@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15329,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.29167500020117,
+          -5.968062999907488
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15329,
+        "CU_NAME": "MIASOMNAI",
+        "CU_NO": "007",
+        "GEOCODE": "01020621007",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "21",
+        "WARD_NAME": "MIASOMNAI",
+        "LATITUDE": -5.969465,
+        "LONGITUDE": 141.29058,
+        "REGHH": 33,
+        "TOTPOP2000": 196,
+        "MALE2000": 105,
+        "FEMALE2000": 91,
+        "POP2008": 254,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020621007,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

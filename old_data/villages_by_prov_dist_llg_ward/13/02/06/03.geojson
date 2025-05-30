@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8308,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.41024200016818,
+          -5.1168850003424495
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8308,
+        "CU_NAME": "AMAIMON",
+        "CU_NO": "001",
+        "GEOCODE": "13020603001",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD THREE",
+        "LATITUDE": -5.118286,
+        "LONGITUDE": 145.409198,
+        "REGHH": 40,
+        "TOTPOP2000": 245,
+        "MALE2000": 137,
+        "FEMALE2000": 108,
+        "POP2008": 304,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020603001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38256499997487,
+          -5.2004749997213935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8309,
+        "CU_NAME": "TEBINSARIK",
+        "CU_NO": "024",
+        "GEOCODE": "13020603024",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD THREE",
+        "LATITUDE": -5.201877,
+        "LONGITUDE": 145.381522,
+        "REGHH": 76,
+        "TOTPOP2000": 433,
+        "MALE2000": 235,
+        "FEMALE2000": 198,
+        "POP2008": 536,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020603024,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8310,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3183579996221,
+          -5.245174999826361
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8310,
+        "CU_NAME": "WABUSARIK",
+        "CU_NO": "026",
+        "GEOCODE": "13020603026",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD THREE",
+        "LATITUDE": -5.246577,
+        "LONGITUDE": 145.317314,
+        "REGHH": 75,
+        "TOTPOP2000": 428,
+        "MALE2000": 221,
+        "FEMALE2000": 207,
+        "POP2008": 531,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020603026,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8311,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.29333899969515,
+          -5.246724000212396
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8311,
+        "CU_NAME": "KRAIMASARIK (KOROMASARIK)",
+        "CU_NO": "027",
+        "GEOCODE": "13020603027",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD THREE",
+        "LATITUDE": -5.248126,
+        "LONGITUDE": 145.292295,
+        "REGHH": 25,
+        "TOTPOP2000": 138,
+        "MALE2000": 69,
+        "FEMALE2000": 69,
+        "POP2008": 170,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020603027,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8312,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.36761999966336,
+          -5.234843000004389
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8312,
+        "CU_NAME": "SOGERAM BASE CAMP",
+        "CU_NO": "401",
+        "GEOCODE": "13020603401",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "WARD THREE",
+        "LATITUDE": -5.232246,
+        "LONGITUDE": 145.365862,
+        "REGHH": 9,
+        "TOTPOP2000": 55,
+        "MALE2000": 29,
+        "FEMALE2000": 26,
+        "POP2008": 70,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020603401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

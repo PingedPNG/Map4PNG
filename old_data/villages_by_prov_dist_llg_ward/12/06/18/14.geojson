@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11637,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.21628600029874,
+          -6.191496000040331
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11637,
+        "CU_NAME": "GAINARUN",
+        "CU_NO": "003",
+        "GEOCODE": "12061814003",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "14",
+        "WARD_NAME": "MAYAMZARIANG",
+        "LATITUDE": -6.19291,
+        "LONGITUDE": 146.215252,
+        "REGHH": 63,
+        "TOTPOP2000": 317,
+        "MALE2000": 140,
+        "FEMALE2000": 177,
+        "POP2008": 395,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061814003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11638,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2149560001194,
+          -6.184107000137885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11638,
+        "CU_NAME": "MAYAMZARIANG",
+        "CU_NO": "006",
+        "GEOCODE": "12061814006",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "14",
+        "WARD_NAME": "MAYAMZARIANG",
+        "LATITUDE": -6.185521,
+        "LONGITUDE": 146.213922,
+        "REGHH": 68,
+        "TOTPOP2000": 398,
+        "MALE2000": 213,
+        "FEMALE2000": 185,
+        "POP2008": 495,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061814006,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

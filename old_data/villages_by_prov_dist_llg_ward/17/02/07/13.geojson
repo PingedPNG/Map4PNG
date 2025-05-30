@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12862,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.71024099992223,
+          -4.596309000360009
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12862,
+        "CU_NAME": "KABAMAN",
+        "CU_NO": "002",
+        "GEOCODE": "17020713002",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "KABAMAN",
+        "LATITUDE": -4.597714,
+        "LONGITUDE": 152.709303,
+        "REGHH": 42,
+        "TOTPOP2000": 224,
+        "MALE2000": 118,
+        "FEMALE2000": 106,
+        "POP2008": 281,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020713002,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12863,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.67533299991806,
+          -4.5202039999145995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12863,
+        "CU_NAME": "NASKO",
+        "CU_NO": "006",
+        "GEOCODE": "17020713006",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "KABAMAN",
+        "LATITUDE": -4.526285,
+        "LONGITUDE": 152.674392,
+        "REGHH": 15,
+        "TOTPOP2000": 95,
+        "MALE2000": 50,
+        "FEMALE2000": 45,
+        "POP2008": 119,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020713006,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12864,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.6679320003616,
+          -4.480088999907366
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12864,
+        "CU_NAME": "DANOP",
+        "CU_NO": "007",
+        "GEOCODE": "17020713007",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "KABAMAN",
+        "LATITUDE": -4.481492,
+        "LONGITUDE": 152.666993,
+        "REGHH": 31,
+        "TOTPOP2000": 173,
+        "MALE2000": 101,
+        "FEMALE2000": 72,
+        "POP2008": 217,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020713007,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12865,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.6611050002956,
+          -4.46908499967293
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12865,
+        "CU_NAME": "GILGIL PLANTATION",
+        "CU_NO": "501",
+        "GEOCODE": "17020713501",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "KABAMAN",
+        "LATITUDE": -4.470488,
+        "LONGITUDE": 152.660166,
+        "REGHH": 10,
+        "TOTPOP2000": 40,
+        "MALE2000": 22,
+        "FEMALE2000": 18,
+        "POP2008": 48,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020713501,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

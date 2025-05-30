@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9468,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.14681599985852,
+          -2.107587000239846
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9468,
+        "CU_NAME": "SOHENERIU",
+        "CU_NO": "008",
+        "GEOCODE": "16010802008",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "SOHENERIU",
+        "LATITUDE": -2.108856,
+        "LONGITUDE": 147.14668,
+        "REGHH": 19,
+        "TOTPOP2000": 128,
+        "MALE2000": 67,
+        "FEMALE2000": 61,
+        "POP2008": 157,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010802008,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9469,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1112760003872,
+          -2.113329999779637
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9469,
+        "CU_NAME": "POLOMOU QUARRY",
+        "CU_NO": "501",
+        "GEOCODE": "16010802501",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "SOHENERIU",
+        "LATITUDE": -2.114697,
+        "LONGITUDE": 147.11026,
+        "REGHH": 3,
+        "TOTPOP2000": 9,
+        "MALE2000": 5,
+        "FEMALE2000": 4,
+        "POP2008": 9,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010802501,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.9277580001317,
+          -4.407760000023927
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6250,
+        "CU_NAME": "OUM 3",
+        "CU_NO": "001",
+        "GEOCODE": "14010421001",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "21",
+        "WARD_NAME": "OUM 3",
+        "LATITUDE": -4.409345,
+        "LONGITUDE": 141.926503,
+        "REGHH": 25,
+        "TOTPOP2000": 126,
+        "MALE2000": 60,
+        "FEMALE2000": 66,
+        "POP2008": 150,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010421001,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

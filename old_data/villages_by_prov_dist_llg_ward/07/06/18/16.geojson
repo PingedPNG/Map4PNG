@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20962,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6356269998862,
+          -5.996638000143548
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20962,
+        "CU_NAME": "SEMB",
+        "CU_NO": "018",
+        "GEOCODE": "07061816018",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "16",
+        "WARD_NAME": "SEMB MAREP 1",
+        "LATITUDE": -5.99931,
+        "LONGITUDE": 143.637495,
+        "REGHH": 59,
+        "TOTPOP2000": 290,
+        "MALE2000": 156,
+        "FEMALE2000": 134,
+        "POP2008": 403,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061816018,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20963,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6394190002867,
+          -5.995910999892658
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20963,
+        "CU_NAME": "HOWAI",
+        "CU_NO": "019",
+        "GEOCODE": "07061816019",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "16",
+        "WARD_NAME": "SEMB MAREP 1",
+        "LATITUDE": -5.99931,
+        "LONGITUDE": 143.637495,
+        "REGHH": 60,
+        "TOTPOP2000": 356,
+        "MALE2000": 181,
+        "FEMALE2000": 175,
+        "POP2008": 495,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061816019,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

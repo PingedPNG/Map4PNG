@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12908,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.64203300012298,
+          -4.042099999815093
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12908,
+        "CU_NAME": "BALANKOLEN",
+        "CU_NO": "002",
+        "GEOCODE": "17020812002",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "12",
+        "WARD_NAME": "BALANKOLEN",
+        "LATITUDE": -4.044223,
+        "LONGITUDE": 153.64329,
+        "REGHH": 33,
+        "TOTPOP2000": 156,
+        "MALE2000": 79,
+        "FEMALE2000": 77,
+        "POP2008": 197,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020812002,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12909,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.6420530001459,
+          -4.012354000436744
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12909,
+        "CU_NAME": "WARANTABAN",
+        "CU_NO": "013",
+        "GEOCODE": "17020812013",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "12",
+        "WARD_NAME": "BALANKOLEN",
+        "LATITUDE": -4.015087,
+        "LONGITUDE": 153.641722,
+        "REGHH": 32,
+        "TOTPOP2000": 175,
+        "MALE2000": 86,
+        "FEMALE2000": 89,
+        "POP2008": 220,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020812013,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

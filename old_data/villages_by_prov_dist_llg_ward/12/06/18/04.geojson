@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11588,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.10097100021153,
+          -6.1273459996181145
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11588,
+        "CU_NAME": "ATZUNAS",
+        "CU_NO": "002",
+        "GEOCODE": "12061804002",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "04",
+        "WARD_NAME": "ATZUNAS",
+        "LATITUDE": -6.131648,
+        "LONGITUDE": 146.106156,
+        "REGHH": 133,
+        "TOTPOP2000": 723,
+        "MALE2000": 360,
+        "FEMALE2000": 363,
+        "POP2008": 902,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061804002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11589,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.10923700008755,
+          -6.128873999935081
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11589,
+        "CU_NAME": "MITSIMATZ",
+        "CU_NO": "003",
+        "GEOCODE": "12061804003",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "04",
+        "WARD_NAME": "ATZUNAS",
+        "LATITUDE": -6.131648,
+        "LONGITUDE": 146.106156,
+        "REGHH": 14,
+        "TOTPOP2000": 71,
+        "MALE2000": 33,
+        "FEMALE2000": 38,
+        "POP2008": 87,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061804003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11590,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.15429699970684,
+          -6.160337000252298
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11590,
+        "CU_NAME": "TUMOA",
+        "CU_NO": "005",
+        "GEOCODE": "12061804005",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "04",
+        "WARD_NAME": "ATZUNAS",
+        "LATITUDE": -6.160128,
+        "LONGITUDE": 146.153264,
+        "REGHH": 136,
+        "TOTPOP2000": 722,
+        "MALE2000": 379,
+        "FEMALE2000": 343,
+        "POP2008": 901,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061804005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11591,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1558009998164,
+          -6.157901000330867
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11591,
+        "CU_NAME": "NGARU FARM",
+        "CU_NO": "502",
+        "GEOCODE": "12061804502",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "04",
+        "WARD_NAME": "ATZUNAS",
+        "LATITUDE": -6.160128,
+        "LONGITUDE": 146.153264,
+        "REGHH": 10,
+        "TOTPOP2000": 54,
+        "MALE2000": 29,
+        "FEMALE2000": 25,
+        "POP2008": 70,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061804502,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

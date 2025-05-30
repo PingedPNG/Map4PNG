@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14381,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95414400044535,
+          -5.952560999990112
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14381,
+        "CU_NAME": "NOGAR",
+        "CU_NO": "004",
+        "GEOCODE": "10041001004",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "NOGAR",
+        "LATITUDE": -5.95397,
+        "LONGITUDE": 144.953094,
+        "REGHH": 18,
+        "TOTPOP2000": 86,
+        "MALE2000": 47,
+        "FEMALE2000": 39,
+        "POP2008": 102,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041001004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14382,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96078900021223,
+          -5.947058999872922
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14382,
+        "CU_NAME": "KAMANIGLE",
+        "CU_NO": "005",
+        "GEOCODE": "10041001005",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "NOGAR",
+        "LATITUDE": -5.948468,
+        "LONGITUDE": 144.959739,
+        "REGHH": 46,
+        "TOTPOP2000": 181,
+        "MALE2000": 108,
+        "FEMALE2000": 73,
+        "POP2008": 208,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041001005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14383,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95455000028232,
+          -5.948029999684707
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14383,
+        "CU_NAME": "TALANGE",
+        "CU_NO": "006",
+        "GEOCODE": "10041001006",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "NOGAR",
+        "LATITUDE": -5.949439,
+        "LONGITUDE": 144.9535,
+        "REGHH": 46,
+        "TOTPOP2000": 206,
+        "MALE2000": 111,
+        "FEMALE2000": 95,
+        "POP2008": 238,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041001006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14384,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96647499982146,
+          -5.946627999782322
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14384,
+        "CU_NAME": "IRA",
+        "CU_NO": "007",
+        "GEOCODE": "10041001007",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "NOGAR",
+        "LATITUDE": -5.948037,
+        "LONGITUDE": 144.965425,
+        "REGHH": 34,
+        "TOTPOP2000": 166,
+        "MALE2000": 96,
+        "FEMALE2000": 70,
+        "POP2008": 190,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041001007,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

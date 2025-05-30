@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8563,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3060739997154,
+          -4.9022710004063015
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8563,
+        "CU_NAME": "SANGUR SANGUR",
+        "CU_NO": "011",
+        "GEOCODE": "13030821011",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "21",
+        "WARD_NAME": "WARD 21",
+        "LATITUDE": -4.90302,
+        "LONGITUDE": 145.307099,
+        "REGHH": 22,
+        "TOTPOP2000": 122,
+        "MALE2000": 59,
+        "FEMALE2000": 63,
+        "POP2008": 151,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030821011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8564,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.31181400001617,
+          -4.904941000326858
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8564,
+        "CU_NAME": "UBRIYAUTAU",
+        "CU_NO": "013",
+        "GEOCODE": "13030821013",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "21",
+        "WARD_NAME": "WARD 21",
+        "LATITUDE": -4.905026,
+        "LONGITUDE": 145.30936,
+        "REGHH": 27,
+        "TOTPOP2000": 140,
+        "MALE2000": 69,
+        "FEMALE2000": 71,
+        "POP2008": 173,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030821013,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8565,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.32473200038157,
+          -4.894638000043642
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8565,
+        "CU_NAME": "WANUMA",
+        "CU_NO": "014",
+        "GEOCODE": "13030821014",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "21",
+        "WARD_NAME": "WARD 21",
+        "LATITUDE": -4.896036,
+        "LONGITUDE": 145.323689,
+        "REGHH": 26,
+        "TOTPOP2000": 148,
+        "MALE2000": 82,
+        "FEMALE2000": 66,
+        "POP2008": 183,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030821014,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8566,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.32095899995795,
+          -4.897643000124333
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8566,
+        "CU_NAME": "WANUMA STATION",
+        "CU_NO": "501",
+        "GEOCODE": "13030821501",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "21",
+        "WARD_NAME": "WARD 21",
+        "LATITUDE": -4.899041,
+        "LONGITUDE": 145.319916,
+        "REGHH": 19,
+        "TOTPOP2000": 104,
+        "MALE2000": 55,
+        "FEMALE2000": 49,
+        "POP2008": 128,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030821501,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

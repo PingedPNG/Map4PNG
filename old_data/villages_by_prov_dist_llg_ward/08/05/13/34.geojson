@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5944,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.91295000034233,
+          -5.5852890000872435
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5944,
+        "CU_NAME": "IPIA",
+        "CU_NO": "001",
+        "GEOCODE": "08051334001",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "34",
+        "WARD_NAME": "IPIA",
+        "LATITUDE": -5.586692,
+        "LONGITUDE": 143.911887,
+        "REGHH": 125,
+        "TOTPOP2000": 974,
+        "MALE2000": 487,
+        "FEMALE2000": 487,
+        "POP2008": 1226,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051334001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.90964900010135,
+          -5.592414999552545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5945,
+        "CU_NAME": "YAMBALIPOS",
+        "CU_NO": "002",
+        "GEOCODE": "08051334002",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "34",
+        "WARD_NAME": "IPIA",
+        "LATITUDE": -5.593818,
+        "LONGITUDE": 143.908586,
+        "REGHH": 71,
+        "TOTPOP2000": 578,
+        "MALE2000": 282,
+        "FEMALE2000": 296,
+        "POP2008": 726,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051334002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

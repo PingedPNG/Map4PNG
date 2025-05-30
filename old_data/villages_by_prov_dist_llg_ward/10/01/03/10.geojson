@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13995,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.23762599984013,
+          -6.206847000188873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13995,
+        "CU_NAME": "IPAKU",
+        "CU_NO": "007",
+        "GEOCODE": "10010310007",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "KOMUNI NO. 1",
+        "LATITUDE": -6.208259,
+        "LONGITUDE": 145.236579,
+        "REGHH": 32,
+        "TOTPOP2000": 138,
+        "MALE2000": 67,
+        "FEMALE2000": 71,
+        "POP2008": 161,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010310007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13996,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.24848799982135,
+          -6.193338999595085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13996,
+        "CU_NAME": "KARAND/NAMI",
+        "CU_NO": "008",
+        "GEOCODE": "10010310008",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "KOMUNI NO. 1",
+        "LATITUDE": -6.194751,
+        "LONGITUDE": 145.247441,
+        "REGHH": 17,
+        "TOTPOP2000": 61,
+        "MALE2000": 38,
+        "FEMALE2000": 23,
+        "POP2008": 69,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010310008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.25193399955447,
+          -6.203600999786261
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13997,
+        "CU_NAME": "LILIKAPU",
+        "CU_NO": "009",
+        "GEOCODE": "10010310009",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "KOMUNI NO. 1",
+        "LATITUDE": -6.205013,
+        "LONGITUDE": 145.250887,
+        "REGHH": 52,
+        "TOTPOP2000": 182,
+        "MALE2000": 83,
+        "FEMALE2000": 99,
+        "POP2008": 209,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010310009,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13998,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.25187300033872,
+          -6.208033000022908
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13998,
+        "CU_NAME": "AFENAME",
+        "CU_NO": "010",
+        "GEOCODE": "10010310010",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "KOMUNI NO. 1",
+        "LATITUDE": -6.209445,
+        "LONGITUDE": 145.250826,
+        "REGHH": 19,
+        "TOTPOP2000": 63,
+        "MALE2000": 38,
+        "FEMALE2000": 25,
+        "POP2008": 71,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010310010,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5085,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.99672499965902,
+          -5.649461999771404
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5085,
+        "CU_NAME": "KAIKOU",
+        "CU_NO": "025",
+        "GEOCODE": "18031429025",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "29",
+        "WARD_NAME": "KAIKOU",
+        "LATITUDE": -5.652238,
+        "LONGITUDE": 150.992254,
+        "REGHH": 18,
+        "TOTPOP2000": 81,
+        "MALE2000": 40,
+        "FEMALE2000": 41,
+        "POP2008": 97,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031429025,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5086,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.94713899996498,
+          -5.6239600000538985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5086,
+        "CU_NAME": "YAKA TAVUSI",
+        "CU_NO": "026",
+        "GEOCODE": "18031429026",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "29",
+        "WARD_NAME": "KAIKOU",
+        "LATITUDE": -5.620331,
+        "LONGITUDE": 150.942386,
+        "REGHH": 32,
+        "TOTPOP2000": 127,
+        "MALE2000": 68,
+        "FEMALE2000": 59,
+        "POP2008": 154,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031429026,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5087,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.99925799955713,
+          -5.644161999976291
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5087,
+        "CU_NAME": "KUKULU",
+        "CU_NO": "027",
+        "GEOCODE": "18031429027",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "29",
+        "WARD_NAME": "KAIKOU",
+        "LATITUDE": -5.644822,
+        "LONGITUDE": 151.000275,
+        "REGHH": 19,
+        "TOTPOP2000": 95,
+        "MALE2000": 46,
+        "FEMALE2000": 49,
+        "POP2008": 116,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031429027,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

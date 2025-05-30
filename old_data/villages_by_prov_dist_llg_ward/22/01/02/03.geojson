@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15919,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.51662300035127,
+          -5.836915999973371
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15919,
+        "CU_NAME": "AVIAMP 2",
+        "CU_NO": "004",
+        "GEOCODE": "09010203004",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "AVIAMP 2",
+        "LATITUDE": -5.838386,
+        "LONGITUDE": 144.515615,
+        "REGHH": 99,
+        "TOTPOP2000": 447,
+        "MALE2000": 227,
+        "FEMALE2000": 220,
+        "POP2008": 544,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010203004,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15920,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.49584399990079,
+          -5.820923999942579
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15920,
+        "CU_NAME": "POPUN",
+        "CU_NO": "005",
+        "GEOCODE": "09010203005",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "AVIAMP 2",
+        "LATITUDE": -5.821862,
+        "LONGITUDE": 144.49618,
+        "REGHH": 84,
+        "TOTPOP2000": 329,
+        "MALE2000": 163,
+        "FEMALE2000": 166,
+        "POP2008": 401,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010203005,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15921,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5040749999613,
+          -5.828191999660987
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15921,
+        "CU_NAME": "PANJIN",
+        "CU_NO": "006",
+        "GEOCODE": "09010203006",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "AVIAMP 2",
+        "LATITUDE": -5.82913,
+        "LONGITUDE": 144.504413,
+        "REGHH": 103,
+        "TOTPOP2000": 435,
+        "MALE2000": 215,
+        "FEMALE2000": 220,
+        "POP2008": 530,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010203006,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15922,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.52592999966987,
+          -5.844890999919642
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15922,
+        "CU_NAME": "KAIM",
+        "CU_NO": "007",
+        "GEOCODE": "09010203007",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "AVIAMP 2",
+        "LATITUDE": -5.845829,
+        "LONGITUDE": 144.526268,
+        "REGHH": 54,
+        "TOTPOP2000": 197,
+        "MALE2000": 96,
+        "FEMALE2000": 101,
+        "POP2008": 240,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010203007,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15923,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.49016499971503,
+          -5.825556000409051
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15923,
+        "CU_NAME": "KOPE  1",
+        "CU_NO": "008",
+        "GEOCODE": "09010203008",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "AVIAMP 2",
+        "LATITUDE": -5.826495,
+        "LONGITUDE": 144.490501,
+        "REGHH": 87,
+        "TOTPOP2000": 321,
+        "MALE2000": 157,
+        "FEMALE2000": 164,
+        "POP2008": 391,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010203008,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15924,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.49016499971503,
+          -5.829651000393312
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15924,
+        "CU_NAME": "KOPE 2",
+        "CU_NO": "009",
+        "GEOCODE": "09010203009",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "AVIAMP 2",
+        "LATITUDE": -5.830589,
+        "LONGITUDE": 144.490501,
+        "REGHH": 74,
+        "TOTPOP2000": 307,
+        "MALE2000": 148,
+        "FEMALE2000": 159,
+        "POP2008": 374,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010203009,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15925,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.50049700043633,
+          -5.81674499968193
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15925,
+        "CU_NAME": "NAZARENE CIR.",
+        "CU_NO": "401",
+        "GEOCODE": "09010203401",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "AVIAMP 2",
+        "LATITUDE": -5.817683,
+        "LONGITUDE": 144.500835,
+        "REGHH": 33,
+        "TOTPOP2000": 97,
+        "MALE2000": 50,
+        "FEMALE2000": 47,
+        "POP2008": 119,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010203401,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

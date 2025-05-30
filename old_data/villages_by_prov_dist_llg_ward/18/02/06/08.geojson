@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4648,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.2844310002905,
+          -4.40542999959473
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4648,
+        "CU_NAME": "KATAKATAI",
+        "CU_NO": "024",
+        "GEOCODE": "18020608024",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "KATAKATAI",
+        "LATITUDE": -4.406832,
+        "LONGITUDE": 152.283487,
+        "REGHH": 64,
+        "TOTPOP2000": 412,
+        "MALE2000": 215,
+        "FEMALE2000": 197,
+        "POP2008": 502,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020608024,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4649,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.3050569999806,
+          -4.435554000216882
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4649,
+        "CU_NAME": "RALUBANG PLANTATION",
+        "CU_NO": "513",
+        "GEOCODE": "18020608513",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "KATAKATAI",
+        "LATITUDE": -4.436956,
+        "LONGITUDE": 152.304113,
+        "REGHH": 50,
+        "TOTPOP2000": 199,
+        "MALE2000": 130,
+        "FEMALE2000": 69,
+        "POP2008": 242,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020608513,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

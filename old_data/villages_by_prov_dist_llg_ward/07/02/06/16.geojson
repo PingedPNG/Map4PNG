@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19606,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.11946099982538,
+          -6.139818000100604
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19606,
+        "CU_NAME": "KOMOLI",
+        "CU_NO": "001",
+        "GEOCODE": "07020616001",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "16",
+        "WARD_NAME": "OREI 2",
+        "LATITUDE": -6.144061,
+        "LONGITUDE": 144.119745,
+        "REGHH": 128,
+        "TOTPOP2000": 743,
+        "MALE2000": 379,
+        "FEMALE2000": 364,
+        "POP2008": 1033,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020616001,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

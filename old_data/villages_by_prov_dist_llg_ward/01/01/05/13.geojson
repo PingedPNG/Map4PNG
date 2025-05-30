@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15238,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.35001400044587,
+          -6.325914999777353
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15238,
+        "CU_NAME": "ALOWOBI",
+        "CU_NO": "003",
+        "GEOCODE": "01010513003",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "13",
+        "WARD_NAME": "YULABI",
+        "LATITUDE": -6.3273,
+        "LONGITUDE": 142.357794,
+        "REGHH": 15,
+        "TOTPOP2000": 66,
+        "MALE2000": 33,
+        "FEMALE2000": 33,
+        "POP2008": 85,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010513003,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15239,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.31738600036374,
+          -6.3478709996468865
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15239,
+        "CU_NAME": "YULABI",
+        "CU_NO": "010",
+        "GEOCODE": "01010513010",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "13",
+        "WARD_NAME": "YULABI",
+        "LATITUDE": -6.342261,
+        "LONGITUDE": 142.295109,
+        "REGHH": 27,
+        "TOTPOP2000": 125,
+        "MALE2000": 65,
+        "FEMALE2000": 60,
+        "POP2008": 162,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010513010,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15240,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.35483899991993,
+          -6.297023000211254
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15240,
+        "CU_NAME": "GWAGUBI",
+        "CU_NO": "046",
+        "GEOCODE": "01010513046",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "13",
+        "WARD_NAME": "YULABI",
+        "LATITUDE": -6.29843,
+        "LONGITUDE": 142.353756,
+        "REGHH": 6,
+        "TOTPOP2000": 23,
+        "MALE2000": 15,
+        "FEMALE2000": 8,
+        "POP2008": 31,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010513046,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15241,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.23567400035495,
+          -6.309041000441766
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15241,
+        "CU_NAME": "MAGATEM",
+        "CU_NO": "047",
+        "GEOCODE": "01010513047",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "13",
+        "WARD_NAME": "YULABI",
+        "LATITUDE": -6.31969,
+        "LONGITUDE": 142.250933,
+        "REGHH": 9,
+        "TOTPOP2000": 35,
+        "MALE2000": 17,
+        "FEMALE2000": 18,
+        "POP2008": 43,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010513047,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

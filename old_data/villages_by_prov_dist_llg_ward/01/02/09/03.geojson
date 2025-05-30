@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15472,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.52727100005666,
+          -5.372956000119245
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15472,
+        "CU_NAME": "LAUBIP",
+        "CU_NO": "007",
+        "GEOCODE": "01020903007",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "LAUBIP",
+        "LATITUDE": -5.38323,
+        "LONGITUDE": 141.518812,
+        "REGHH": 21,
+        "TOTPOP2000": 154,
+        "MALE2000": 76,
+        "FEMALE2000": 78,
+        "POP2008": 199,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020903007,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15473,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.53318899957276,
+          -5.387082000433907
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15473,
+        "CU_NAME": "OLSOBIP STATION",
+        "CU_NO": "402",
+        "GEOCODE": "01020903402",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "LAUBIP",
+        "LATITUDE": -5.388493,
+        "LONGITUDE": 141.515872,
+        "REGHH": 12,
+        "TOTPOP2000": 68,
+        "MALE2000": 37,
+        "FEMALE2000": 31,
+        "POP2008": 88,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020903402,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

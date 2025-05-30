@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4622,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1865720002976,
+          -4.4118450004463625
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4622,
+        "CU_NAME": "WAIRIKI NO.1",
+        "CU_NO": "004",
+        "GEOCODE": "18010519004",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "19",
+        "WARD_NAME": "WAIRIKI NO.1",
+        "LATITUDE": -4.413247,
+        "LONGITUDE": 152.185626,
+        "REGHH": 131,
+        "TOTPOP2000": 804,
+        "MALE2000": 413,
+        "FEMALE2000": 391,
+        "POP2008": 980,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010519004,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

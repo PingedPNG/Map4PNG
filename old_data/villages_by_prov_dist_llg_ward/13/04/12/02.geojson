@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8736,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.67232199986051,
+          -5.842633000112812
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8736,
+        "CU_NAME": "BWANA",
+        "CU_NO": "006",
+        "GEOCODE": "13041202006",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -5.844044,
+        "LONGITUDE": 146.671295,
+        "REGHH": 99,
+        "TOTPOP2000": 524,
+        "MALE2000": 282,
+        "FEMALE2000": 242,
+        "POP2008": 649,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041202006,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.70257099995172,
+          -5.816704999635988
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8737,
+        "CU_NAME": "TAPEN",
+        "CU_NO": "035",
+        "GEOCODE": "13041202035",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -5.818116,
+        "LONGITUDE": 146.701544,
+        "REGHH": 23,
+        "TOTPOP2000": 133,
+        "MALE2000": 64,
+        "FEMALE2000": 69,
+        "POP2008": 165,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041202035,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.64849700013656,
+          -5.843812999670149
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8738,
+        "CU_NAME": "AUNON",
+        "CU_NO": "036",
+        "GEOCODE": "13041202036",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -5.845224,
+        "LONGITUDE": 146.64747,
+        "REGHH": 28,
+        "TOTPOP2000": 191,
+        "MALE2000": 100,
+        "FEMALE2000": 91,
+        "POP2008": 236,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041202036,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8739,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.63927600028728,
+          -5.853135999726533
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8739,
+        "CU_NAME": "BOBONGAT",
+        "CU_NO": "037",
+        "GEOCODE": "13041202037",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -5.854547,
+        "LONGITUDE": 146.638249,
+        "REGHH": 63,
+        "TOTPOP2000": 431,
+        "MALE2000": 215,
+        "FEMALE2000": 216,
+        "POP2008": 534,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041202037,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8740,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.65101700033438,
+          -5.857887000284791
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8740,
+        "CU_NAME": "TAPEN STATION",
+        "CU_NO": "401",
+        "GEOCODE": "13041202401",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -5.859298,
+        "LONGITUDE": 146.64999,
+        "REGHH": 6,
+        "TOTPOP2000": 30,
+        "MALE2000": 15,
+        "FEMALE2000": 15,
+        "POP2008": 38,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041202401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

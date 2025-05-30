@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12580,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.77909199989597,
+          -2.610694999574548
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12580,
+        "CU_NAME": "SIVASAT",
+        "CU_NO": "027",
+        "GEOCODE": "17010404027",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "BAGAIL",
+        "LATITUDE": -2.612071,
+        "LONGITUDE": 150.778127,
+        "REGHH": 27,
+        "TOTPOP2000": 156,
+        "MALE2000": 84,
+        "FEMALE2000": 72,
+        "POP2008": 197,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010404027,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12581,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.79845199966007,
+          -2.5904440000904856
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12581,
+        "CU_NAME": "PAWA HAUS",
+        "CU_NO": "028",
+        "GEOCODE": "17010404028",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "BAGAIL",
+        "LATITUDE": -2.59182,
+        "LONGITUDE": 150.797487,
+        "REGHH": 63,
+        "TOTPOP2000": 358,
+        "MALE2000": 209,
+        "FEMALE2000": 149,
+        "POP2008": 450,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010404028,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12582,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7804939997983,
+          -2.582043000284216
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12582,
+        "CU_NAME": "NUSA / NANGO",
+        "CU_NO": "030",
+        "GEOCODE": "17010404030",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "BAGAIL",
+        "LATITUDE": -2.583863,
+        "LONGITUDE": 150.779529,
+        "REGHH": 46,
+        "TOTPOP2000": 223,
+        "MALE2000": 124,
+        "FEMALE2000": 99,
+        "POP2008": 280,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010404030,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

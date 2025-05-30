@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18293,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.26072600000498,
+          -3.199160999780247
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18293,
+        "CU_NAME": "AISARAP",
+        "CU_NO": "001",
+        "GEOCODE": "15010111001",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "11",
+        "WARD_NAME": "PES",
+        "LATITUDE": -3.200536,
+        "LONGITUDE": 142.259647,
+        "REGHH": 30,
+        "TOTPOP2000": 209,
+        "MALE2000": 115,
+        "FEMALE2000": 94,
+        "POP2008": 252,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010111001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18294,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.25313599982655,
+          -3.1806420001281595
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18294,
+        "CU_NAME": "MAROK",
+        "CU_NO": "007",
+        "GEOCODE": "15010111007",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "11",
+        "WARD_NAME": "PES",
+        "LATITUDE": -3.189272,
+        "LONGITUDE": 142.253509,
+        "REGHH": 43,
+        "TOTPOP2000": 286,
+        "MALE2000": 147,
+        "FEMALE2000": 139,
+        "POP2008": 346,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010111007,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18295,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.27096700012703,
+          -3.196946000157709
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18295,
+        "CU_NAME": "PES",
+        "CU_NO": "009",
+        "GEOCODE": "15010111009",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "11",
+        "WARD_NAME": "PES",
+        "LATITUDE": -3.198321,
+        "LONGITUDE": 142.269888,
+        "REGHH": 22,
+        "TOTPOP2000": 139,
+        "MALE2000": 78,
+        "FEMALE2000": 61,
+        "POP2008": 168,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010111009,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18296,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.2794550003481,
+          -3.1775860003935463
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18296,
+        "CU_NAME": "AISEROKUL",
+        "CU_NO": "018",
+        "GEOCODE": "15010111018",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "11",
+        "WARD_NAME": "PES",
+        "LATITUDE": -3.178961,
+        "LONGITUDE": 142.278376,
+        "REGHH": 38,
+        "TOTPOP2000": 261,
+        "MALE2000": 134,
+        "FEMALE2000": 127,
+        "POP2008": 315,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010111018,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18297,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.24764800035496,
+          -3.1885299996596927
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18297,
+        "CU_NAME": "PES CATHOLIC MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "15010111401",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "11",
+        "WARD_NAME": "PES",
+        "LATITUDE": -3.189901,
+        "LONGITUDE": 142.250177,
+        "REGHH": 32,
+        "TOTPOP2000": 188,
+        "MALE2000": 88,
+        "FEMALE2000": 100,
+        "POP2008": 228,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010111401,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

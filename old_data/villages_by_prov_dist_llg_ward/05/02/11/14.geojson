@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10075,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9149730003038,
+          -8.911778000054596
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10075,
+        "CU_NAME": "KWAIWATTA",
+        "CU_NO": "013",
+        "GEOCODE": "05021114013",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "11",
+        "WARD_NO": "14",
+        "WARD_NAME": "KWAIWATTA",
+        "LATITUDE": -8.913235,
+        "LONGITUDE": 151.914014,
+        "REGHH": 88,
+        "TOTPOP2000": 388,
+        "MALE2000": 192,
+        "FEMALE2000": 196,
+        "POP2008": 473,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021114013,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

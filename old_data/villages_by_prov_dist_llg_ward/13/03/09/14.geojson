@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.61673700001256,
+          -5.240651999889849
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8604,
+        "CU_NAME": "KURUMDEK (008)",
+        "CU_NO": "008",
+        "GEOCODE": "13030914008",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "KURUMDEK",
+        "LATITUDE": -5.242053,
+        "LONGITUDE": 144.615684,
+        "REGHH": 97,
+        "TOTPOP2000": 596,
+        "MALE2000": 297,
+        "FEMALE2000": 299,
+        "POP2008": 737,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030914008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8605,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6062890002372,
+          -5.229021999565589
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8605,
+        "CU_NAME": "YOMINEKI",
+        "CU_NO": "012",
+        "GEOCODE": "13030914012",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "KURUMDEK",
+        "LATITUDE": -5.230423,
+        "LONGITUDE": 144.605236,
+        "REGHH": 30,
+        "TOTPOP2000": 208,
+        "MALE2000": 115,
+        "FEMALE2000": 93,
+        "POP2008": 258,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030914012,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5664,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4324999999751,
+          -5.385809000185191
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5664,
+        "CU_NAME": "TORENAM",
+        "CU_NO": "007",
+        "GEOCODE": "08030709007",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "TORENAM",
+        "LATITUDE": -5.384204,
+        "LONGITUDE": 143.427905,
+        "REGHH": 94,
+        "TOTPOP2000": 543,
+        "MALE2000": 269,
+        "FEMALE2000": 274,
+        "POP2008": 683,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030709007,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5665,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4302539998223,
+          -5.389356000079317
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5665,
+        "CU_NAME": "KOPETES",
+        "CU_NO": "008",
+        "GEOCODE": "08030709008",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "TORENAM",
+        "LATITUDE": -5.390756,
+        "LONGITUDE": 143.429186,
+        "REGHH": 95,
+        "TOTPOP2000": 472,
+        "MALE2000": 241,
+        "FEMALE2000": 231,
+        "POP2008": 594,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030709008,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5666,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.43325000038726,
+          -5.356144000045504
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5666,
+        "CU_NAME": "LAMBUSILAMA",
+        "CU_NO": "009",
+        "GEOCODE": "08030709009",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "TORENAM",
+        "LATITUDE": -5.357544,
+        "LONGITUDE": 143.432182,
+        "REGHH": 108,
+        "TOTPOP2000": 747,
+        "MALE2000": 371,
+        "FEMALE2000": 376,
+        "POP2008": 939,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030709009,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

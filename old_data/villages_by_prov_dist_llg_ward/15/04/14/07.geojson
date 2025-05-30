@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18982,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.52012699976126,
+          -3.6749120001886126
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18982,
+        "CU_NAME": "KARBONI",
+        "CU_NO": "005",
+        "GEOCODE": "15041407005",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "07",
+        "WARD_NAME": "MORKEINI",
+        "LATITUDE": -3.676292,
+        "LONGITUDE": 141.519038,
+        "REGHH": 7,
+        "TOTPOP2000": 40,
+        "MALE2000": 17,
+        "FEMALE2000": 23,
+        "POP2008": 48,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041407005,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18983,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.5376229999016,
+          -3.705130999795756
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18983,
+        "CU_NAME": "MORKEINI",
+        "CU_NO": "006",
+        "GEOCODE": "15041407006",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "07",
+        "WARD_NAME": "MORKEINI",
+        "LATITUDE": -3.703508,
+        "LONGITUDE": 141.522543,
+        "REGHH": 10,
+        "TOTPOP2000": 58,
+        "MALE2000": 31,
+        "FEMALE2000": 27,
+        "POP2008": 69,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041407006,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18984,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.50593500000036,
+          -3.7090450004263857
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18984,
+        "CU_NAME": "TERE",
+        "CU_NO": "009",
+        "GEOCODE": "15041407009",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "07",
+        "WARD_NAME": "MORKEINI",
+        "LATITUDE": -3.711935,
+        "LONGITUDE": 141.498851,
+        "REGHH": 10,
+        "TOTPOP2000": 54,
+        "MALE2000": 28,
+        "FEMALE2000": 26,
+        "POP2008": 62,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041407009,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

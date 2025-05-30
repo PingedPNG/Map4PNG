@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7974,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8805519998749,
+          -4.21403600026116
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7974,
+        "CU_NAME": "IKU",
+        "CU_NO": "009",
+        "GEOCODE": "13010310009",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "RUGUSAK",
+        "LATITUDE": -4.21147,
+        "LONGITUDE": 144.881665,
+        "REGHH": 53,
+        "TOTPOP2000": 300,
+        "MALE2000": 148,
+        "FEMALE2000": 152,
+        "POP2008": 372,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010310009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7975,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.89889300031177,
+          -4.2448710003963015
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7975,
+        "CU_NAME": "SANGEN",
+        "CU_NO": "014",
+        "GEOCODE": "13010310014",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "RUGUSAK",
+        "LATITUDE": -4.234533,
+        "LONGITUDE": 144.886455,
+        "REGHH": 31,
+        "TOTPOP2000": 180,
+        "MALE2000": 84,
+        "FEMALE2000": 96,
+        "POP2008": 223,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010310014,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.88749499989444,
+          -4.259088999557662
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7976,
+        "CU_NAME": "RUGASAK 1",
+        "CU_NO": "017",
+        "GEOCODE": "13010310017",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "RUGUSAK",
+        "LATITUDE": -4.260479,
+        "LONGITUDE": 144.886447,
+        "REGHH": 57,
+        "TOTPOP2000": 335,
+        "MALE2000": 185,
+        "FEMALE2000": 150,
+        "POP2008": 415,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010310017,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7977,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.91552099999421,
+          -4.232279999822083
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7977,
+        "CU_NAME": "BARI",
+        "CU_NO": "018",
+        "GEOCODE": "13010310018",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "RUGUSAK",
+        "LATITUDE": -4.23367,
+        "LONGITUDE": 144.914473,
+        "REGHH": 54,
+        "TOTPOP2000": 317,
+        "MALE2000": 167,
+        "FEMALE2000": 150,
+        "POP2008": 393,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010310018,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7978,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.91884999972774,
+          -4.2077330000778375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7978,
+        "CU_NAME": "BUDUA",
+        "CU_NO": "019",
+        "GEOCODE": "13010310019",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "RUGUSAK",
+        "LATITUDE": -4.209123,
+        "LONGITUDE": 144.917801,
+        "REGHH": 32,
+        "TOTPOP2000": 178,
+        "MALE2000": 92,
+        "FEMALE2000": 86,
+        "POP2008": 220,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010310019,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

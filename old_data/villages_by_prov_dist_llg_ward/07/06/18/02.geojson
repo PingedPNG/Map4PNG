@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20913,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62688899982754,
+          -6.103584000101478
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20913,
+        "CU_NAME": "KASU",
+        "CU_NO": "001",
+        "GEOCODE": "07061802001",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "02",
+        "WARD_NAME": "PUINZ 2",
+        "LATITUDE": -6.107731,
+        "LONGITUDE": 143.628051,
+        "REGHH": 6,
+        "TOTPOP2000": 29,
+        "MALE2000": 14,
+        "FEMALE2000": 15,
+        "POP2008": 38,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061802001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20914,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6302170004143,
+          -6.103370000125381
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20914,
+        "CU_NAME": "MOPA",
+        "CU_NO": "002",
+        "GEOCODE": "07061802002",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "02",
+        "WARD_NAME": "PUINZ 2",
+        "LATITUDE": -6.107731,
+        "LONGITUDE": 143.628051,
+        "REGHH": 45,
+        "TOTPOP2000": 242,
+        "MALE2000": 124,
+        "FEMALE2000": 118,
+        "POP2008": 338,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061802002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20915,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6289990000039,
+          -6.102055999784511
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20915,
+        "CU_NAME": "MAKOMAP",
+        "CU_NO": "003",
+        "GEOCODE": "07061802003",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "02",
+        "WARD_NAME": "PUINZ 2",
+        "LATITUDE": -6.107731,
+        "LONGITUDE": 143.628051,
+        "REGHH": 22,
+        "TOTPOP2000": 108,
+        "MALE2000": 42,
+        "FEMALE2000": 66,
+        "POP2008": 151,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061802003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20916,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6263100001065,
+          -6.1022109997377925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20916,
+        "CU_NAME": "TERMEMBIR",
+        "CU_NO": "004",
+        "GEOCODE": "07061802004",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "02",
+        "WARD_NAME": "PUINZ 2",
+        "LATITUDE": -6.107731,
+        "LONGITUDE": 143.628051,
+        "REGHH": 56,
+        "TOTPOP2000": 337,
+        "MALE2000": 159,
+        "FEMALE2000": 178,
+        "POP2008": 468,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061802004,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

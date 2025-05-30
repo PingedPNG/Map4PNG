@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.79701800018063,
+          -5.533023000011383
+        ]
+      },
+      "properties": {
+        "OBJECTID": 136,
+        "CU_NAME": "RATSUA",
+        "CU_NO": "001",
+        "GEOCODE": "20010304001",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "RAPOMA",
+        "LATITUDE": -5.534444,
+        "LONGITUDE": 154.796111,
+        "REGHH": 34,
+        "TOTPOP2000": 185,
+        "MALE2000": 95,
+        "FEMALE2000": 90,
+        "POP2008": 209,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010304001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.79451800000572,
+          -5.533856999800662
+        ]
+      },
+      "properties": {
+        "OBJECTID": 137,
+        "CU_NAME": "PORPOR",
+        "CU_NO": "002",
+        "GEOCODE": "20010304002",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "RAPOMA",
+        "LATITUDE": -5.535278,
+        "LONGITUDE": 154.793611,
+        "REGHH": 24,
+        "TOTPOP2000": 109,
+        "MALE2000": 59,
+        "FEMALE2000": 50,
+        "POP2008": 125,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010304002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.76074800032006,
+          -5.606700000004935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 138,
+        "CU_NAME": "MATESIORA",
+        "CU_NO": "003",
+        "GEOCODE": "20010304003",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "RAPOMA",
+        "LATITUDE": -5.603333,
+        "LONGITUDE": 154.769722,
+        "REGHH": 15,
+        "TOTPOP2000": 104,
+        "MALE2000": 60,
+        "FEMALE2000": 44,
+        "POP2008": 120,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010304003,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

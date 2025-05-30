@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4437,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.12211300001502,
+          -4.313036999857616
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4437,
+        "CU_NAME": "VUNAGOGO VILLAGE",
+        "CU_NO": "007",
+        "GEOCODE": "18010106007",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "VUNAGOGO",
+        "LATITUDE": -4.314437,
+        "LONGITUDE": 152.121166,
+        "REGHH": 175,
+        "TOTPOP2000": 904,
+        "MALE2000": 472,
+        "FEMALE2000": 432,
+        "POP2008": 1102,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010106007,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4576,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.0024819996446,
+          -4.230109000429991
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4576,
+        "CU_NAME": "MAILIVUAN",
+        "CU_NO": "009",
+        "GEOCODE": "18010412009",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "12",
+        "WARD_NAME": "MAILIVUAN",
+        "LATITUDE": -4.231508,
+        "LONGITUDE": 152.001534,
+        "REGHH": 68,
+        "TOTPOP2000": 340,
+        "MALE2000": 182,
+        "FEMALE2000": 158,
+        "POP2008": 414,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010412009,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

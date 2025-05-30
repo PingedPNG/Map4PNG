@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10921,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.80592000020795,
+          -7.941455000048165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10921,
+        "CU_NAME": "EIYA-2",
+        "CU_NO": "001",
+        "GEOCODE": "12030912001",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "EIYA",
+        "LATITUDE": -7.942884,
+        "LONGITUDE": 147.807393,
+        "REGHH": 29,
+        "TOTPOP2000": 200,
+        "MALE2000": 102,
+        "FEMALE2000": 98,
+        "POP2008": 250,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030912001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10922,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.8073010000412,
+          -7.942082000184087
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10922,
+        "CU_NAME": "EIYA",
+        "CU_NO": "005",
+        "GEOCODE": "12030912005",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "EIYA",
+        "LATITUDE": -7.942884,
+        "LONGITUDE": 147.807393,
+        "REGHH": 28,
+        "TOTPOP2000": 179,
+        "MALE2000": 89,
+        "FEMALE2000": 90,
+        "POP2008": 223,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030912005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10923,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.8962490000913,
+          -7.964048999661543
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10923,
+        "CU_NAME": "GUGUMI",
+        "CU_NO": "008",
+        "GEOCODE": "12030912008",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "EIYA",
+        "LATITUDE": -7.965486,
+        "LONGITUDE": 147.895234,
+        "REGHH": 19,
+        "TOTPOP2000": 121,
+        "MALE2000": 61,
+        "FEMALE2000": 60,
+        "POP2008": 151,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030912008,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

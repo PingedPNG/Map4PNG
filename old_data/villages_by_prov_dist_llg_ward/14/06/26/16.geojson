@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7377,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.2801519999149,
+          -3.670017000184373
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7377,
+        "CU_NAME": "HOLIK 1 & 2",
+        "CU_NO": "005",
+        "GEOCODE": "14062616005",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "26",
+        "WARD_NO": "16",
+        "WARD_NAME": "HOLIK",
+        "LATITUDE": -3.670083,
+        "LONGITUDE": 143.276389,
+        "REGHH": 80,
+        "TOTPOP2000": 354,
+        "MALE2000": 157,
+        "FEMALE2000": 197,
+        "POP2008": 421,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062616005,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7378,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.26968500016267,
+          -3.698097000076473
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7378,
+        "CU_NAME": "YARABOIM",
+        "CU_NO": "010",
+        "GEOCODE": "14062616010",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "26",
+        "WARD_NO": "16",
+        "WARD_NAME": "HOLIK",
+        "LATITUDE": -3.699676,
+        "LONGITUDE": 143.268448,
+        "REGHH": 57,
+        "TOTPOP2000": 271,
+        "MALE2000": 131,
+        "FEMALE2000": 140,
+        "POP2008": 322,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062616010,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

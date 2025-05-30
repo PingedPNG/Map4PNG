@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1418,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.28376000002402,
+          -9.420957999711845
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1418,
+        "CU_NAME": "MARADAHANA",
+        "CU_NO": "002",
+        "GEOCODE": "03030903002",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "VAIAGAI",
+        "LATITUDE": -9.422408,
+        "LONGITUDE": 147.282733,
+        "REGHH": 11,
+        "TOTPOP2000": 70,
+        "MALE2000": 36,
+        "FEMALE2000": 34,
+        "POP2008": 86,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030903002,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1419,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2851629999725,
+          -9.410189000422008
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1419,
+        "CU_NAME": "TABEANI",
+        "CU_NO": "401",
+        "GEOCODE": "03030903401",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "VAIAGAI",
+        "LATITUDE": -9.411639,
+        "LONGITUDE": 147.284136,
+        "REGHH": 5,
+        "TOTPOP2000": 25,
+        "MALE2000": 14,
+        "FEMALE2000": 11,
+        "POP2008": 33,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030903401,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1420,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2958780003695,
+          -9.459579000070732
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1420,
+        "CU_NAME": "MADEVATE SETTLEMENT",
+        "CU_NO": "405",
+        "GEOCODE": "03030903405",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "VAIAGAI",
+        "LATITUDE": -9.461029,
+        "LONGITUDE": 147.294851,
+        "REGHH": 10,
+        "TOTPOP2000": 56,
+        "MALE2000": 34,
+        "FEMALE2000": 22,
+        "POP2008": 64,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030903405,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1421,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.28336399974887,
+          -9.422352000144656
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1421,
+        "CU_NAME": "GERETO",
+        "CU_NO": "406",
+        "GEOCODE": "03030903406",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "VAIAGAI",
+        "LATITUDE": -9.423802,
+        "LONGITUDE": 147.282337,
+        "REGHH": 3,
+        "TOTPOP2000": 18,
+        "MALE2000": 9,
+        "FEMALE2000": 9,
+        "POP2008": 18,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030903406,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

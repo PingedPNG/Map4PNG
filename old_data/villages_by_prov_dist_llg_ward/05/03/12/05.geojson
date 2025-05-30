@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10092,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.11467699994364,
+          -8.438034999615468
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10092,
+        "CU_NAME": "LILUTA",
+        "CU_NO": "001",
+        "GEOCODE": "05031205001",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "LILUTA",
+        "LATITUDE": -8.439485,
+        "LONGITUDE": 151.113707,
+        "REGHH": 114,
+        "TOTPOP2000": 495,
+        "MALE2000": 261,
+        "FEMALE2000": 234,
+        "POP2008": 603,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031205001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10093,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.12241699984475,
+          -8.41396200014617
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10093,
+        "CU_NAME": "IUWADA",
+        "CU_NO": "007",
+        "GEOCODE": "05031205007",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "LILUTA",
+        "LATITUDE": -8.415411,
+        "LONGITUDE": 151.121448,
+        "REGHH": 41,
+        "TOTPOP2000": 188,
+        "MALE2000": 98,
+        "FEMALE2000": 90,
+        "POP2008": 229,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031205007,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10094,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.11737600030222,
+          -8.443373000263705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10094,
+        "CU_NAME": "OSAPOLA",
+        "CU_NO": "018",
+        "GEOCODE": "05031205018",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "LILUTA",
+        "LATITUDE": -8.444823,
+        "LONGITUDE": 151.116405,
+        "REGHH": 31,
+        "TOTPOP2000": 158,
+        "MALE2000": 92,
+        "FEMALE2000": 66,
+        "POP2008": 192,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031205018,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10095,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.11248799972145,
+          -8.437046999919062
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10095,
+        "CU_NAME": "KAEMWAWALA",
+        "CU_NO": "019",
+        "GEOCODE": "05031205019",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "LILUTA",
+        "LATITUDE": -8.438497,
+        "LONGITUDE": 151.111518,
+        "REGHH": 28,
+        "TOTPOP2000": 107,
+        "MALE2000": 62,
+        "FEMALE2000": 45,
+        "POP2008": 131,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031205019,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10096,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.12089099961997,
+          -8.43560700006293
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10096,
+        "CU_NAME": "MUTAWA",
+        "CU_NO": "020",
+        "GEOCODE": "05031205020",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "LILUTA",
+        "LATITUDE": -8.432168,
+        "LONGITUDE": 151.119568,
+        "REGHH": 114,
+        "TOTPOP2000": 520,
+        "MALE2000": 267,
+        "FEMALE2000": 253,
+        "POP2008": 633,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031205020,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

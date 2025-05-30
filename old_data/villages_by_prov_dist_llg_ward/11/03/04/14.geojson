@@ -1,0 +1,741 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29418,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.66481495964274,
+          -6.146189999868568
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29418,
+        "CU_NAME": "HAGANA",
+        "CU_NO": "007",
+        "GEOCODE": "11030414007",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.14619,
+        "LONGITUDE": 145.664815,
+        "REGHH": 21,
+        "TOTPOP2000": 97,
+        "MALE2000": 56,
+        "FEMALE2000": 41,
+        "POP2008": 113,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29419,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.68268571987016,
+          -6.162711660114951
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29419,
+        "CU_NAME": "HAKERE",
+        "CU_NO": "019",
+        "GEOCODE": "11030414019",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.162712,
+        "LONGITUDE": 145.682686,
+        "REGHH": 20,
+        "TOTPOP2000": 87,
+        "MALE2000": 45,
+        "FEMALE2000": 42,
+        "POP2008": 103,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29420,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6769609999502,
+          -6.159697020201293
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29420,
+        "CU_NAME": "KESEVAKA",
+        "CU_NO": "021",
+        "GEOCODE": "11030414021",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.159697,
+        "LONGITUDE": 145.676961,
+        "REGHH": 22,
+        "TOTPOP2000": 99,
+        "MALE2000": 48,
+        "FEMALE2000": 51,
+        "POP2008": 115,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29421,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.65478283965638,
+          -6.132790980019649
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29421,
+        "CU_NAME": "KRIHE",
+        "CU_NO": "038",
+        "GEOCODE": "11030414038",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.132791,
+        "LONGITUDE": 145.654783,
+        "REGHH": 16,
+        "TOTPOP2000": 76,
+        "MALE2000": 44,
+        "FEMALE2000": 32,
+        "POP2008": 92,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29422,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67220684007373,
+          -6.157361700282195
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29422,
+        "CU_NAME": "HOFITONE",
+        "CU_NO": "039",
+        "GEOCODE": "11030414039",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.157362,
+        "LONGITUDE": 145.672207,
+        "REGHH": 8,
+        "TOTPOP2000": 37,
+        "MALE2000": 19,
+        "FEMALE2000": 18,
+        "POP2008": 45,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29423,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.66494995957305,
+          -6.1514468996546725
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29423,
+        "CU_NAME": "KULUMPAFI",
+        "CU_NO": "040",
+        "GEOCODE": "11030414040",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.151447,
+        "LONGITUDE": 145.66495,
+        "REGHH": 13,
+        "TOTPOP2000": 63,
+        "MALE2000": 32,
+        "FEMALE2000": 31,
+        "POP2008": 73,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29424,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6748535601438,
+          -6.152788350002311
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29424,
+        "CU_NAME": "TIHAGIZAIS",
+        "CU_NO": "041",
+        "GEOCODE": "11030414041",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.152788,
+        "LONGITUDE": 145.674854,
+        "REGHH": 5,
+        "TOTPOP2000": 25,
+        "MALE2000": 12,
+        "FEMALE2000": 13,
+        "POP2008": 33,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29425,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67213484035062,
+          -6.139457639958096
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29425,
+        "CU_NAME": "HOZONEVE",
+        "CU_NO": "042",
+        "GEOCODE": "11030414042",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.139458,
+        "LONGITUDE": 145.672135,
+        "REGHH": 21,
+        "TOTPOP2000": 109,
+        "MALE2000": 54,
+        "FEMALE2000": 55,
+        "POP2008": 130,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29426,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67809283991267,
+          -6.156462059876105
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29426,
+        "CU_NAME": "NOZAMORINTE",
+        "CU_NO": "043",
+        "GEOCODE": "11030414043",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.156462,
+        "LONGITUDE": 145.678093,
+        "REGHH": 13,
+        "TOTPOP2000": 60,
+        "MALE2000": 36,
+        "FEMALE2000": 24,
+        "POP2008": 68,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29427,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.66127147969507,
+          -6.132218580423114
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29427,
+        "CU_NAME": "HONOLE",
+        "CU_NO": "044",
+        "GEOCODE": "11030414044",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.132219,
+        "LONGITUDE": 145.661271,
+        "REGHH": 23,
+        "TOTPOP2000": 119,
+        "MALE2000": 58,
+        "FEMALE2000": 61,
+        "POP2008": 143,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29428,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67300567996824,
+          -6.146992800377404
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29428,
+        "CU_NAME": "JOGE",
+        "CU_NO": "045",
+        "GEOCODE": "11030414045",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.146993,
+        "LONGITUDE": 145.673006,
+        "REGHH": 19,
+        "TOTPOP2000": 85,
+        "MALE2000": 49,
+        "FEMALE2000": 36,
+        "POP2008": 101,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29429,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67150808033375,
+          -6.159092219830029
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29429,
+        "CU_NAME": "JETE",
+        "CU_NO": "046",
+        "GEOCODE": "11030414046",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.159092,
+        "LONGITUDE": 145.671508,
+        "REGHH": 32,
+        "TOTPOP2000": 135,
+        "MALE2000": 67,
+        "FEMALE2000": 68,
+        "POP2008": 159,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29430,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67658983984927,
+          -6.1618297498430366
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29430,
+        "CU_NAME": "HANATE",
+        "CU_NO": "047",
+        "GEOCODE": "11030414047",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.16183,
+        "LONGITUDE": 145.67659,
+        "REGHH": 20,
+        "TOTPOP2000": 75,
+        "MALE2000": 37,
+        "FEMALE2000": 38,
+        "POP2008": 91,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29431,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.656153720318,
+          -6.136351020083453
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29431,
+        "CU_NAME": "MOPAHAMPRI",
+        "CU_NO": "048",
+        "GEOCODE": "11030414048",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.136351,
+        "LONGITUDE": 145.656154,
+        "REGHH": 22,
+        "TOTPOP2000": 101,
+        "MALE2000": 48,
+        "FEMALE2000": 53,
+        "POP2008": 118,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29432,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67928227965353,
+          -6.159586589749267
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29432,
+        "CU_NAME": "ALAONTE",
+        "CU_NO": "049",
+        "GEOCODE": "11030414049",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.159587,
+        "LONGITUDE": 145.679282,
+        "REGHH": 15,
+        "TOTPOP2000": 81,
+        "MALE2000": 43,
+        "FEMALE2000": 38,
+        "POP2008": 97,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29433,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.68107543967983,
+          -6.1606118699418175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29433,
+        "CU_NAME": "HANKROIMPI",
+        "CU_NO": "050",
+        "GEOCODE": "11030414050",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.160612,
+        "LONGITUDE": 145.681075,
+        "REGHH": 13,
+        "TOTPOP2000": 58,
+        "MALE2000": 31,
+        "FEMALE2000": 27,
+        "POP2008": 66,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29434,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.653613200289,
+          -6.159337380415707
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29434,
+        "CU_NAME": "ZOFRINTE",
+        "CU_NO": "051",
+        "GEOCODE": "11030414051",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.159337,
+        "LONGITUDE": 145.653613,
+        "REGHH": 9,
+        "TOTPOP2000": 43,
+        "MALE2000": 20,
+        "FEMALE2000": 23,
+        "POP2008": 51,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29435,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67748083956917,
+          -6.1598930400317045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29435,
+        "CU_NAME": "KUMEO",
+        "CU_NO": "052",
+        "GEOCODE": "11030414052",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.159893,
+        "LONGITUDE": 145.677481,
+        "REGHH": 17,
+        "TOTPOP2000": 71,
+        "MALE2000": 35,
+        "FEMALE2000": 36,
+        "POP2008": 87,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29436,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67457780012546,
+          -6.162201990029757
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29436,
+        "CU_NAME": "HIFAU",
+        "CU_NO": "053",
+        "GEOCODE": "11030414053",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.162202,
+        "LONGITUDE": 145.674578,
+        "REGHH": 17,
+        "TOTPOP2000": 54,
+        "MALE2000": 26,
+        "FEMALE2000": 28,
+        "POP2008": 62,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29437,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.66090355985148,
+          -6.15949559994192
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29437,
+        "CU_NAME": "BARARE",
+        "CU_NO": "054",
+        "GEOCODE": "11030414054",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.159496,
+        "LONGITUDE": 145.660904,
+        "REGHH": 6,
+        "TOTPOP2000": 31,
+        "MALE2000": 13,
+        "FEMALE2000": 18,
+        "POP2008": 39,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29438,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6655331600274,
+          -6.165254700044329
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29438,
+        "CU_NAME": "TIRUPI",
+        "CU_NO": "055",
+        "GEOCODE": "11030414055",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.165255,
+        "LONGITUDE": 145.665533,
+        "REGHH": 13,
+        "TOTPOP2000": 69,
+        "MALE2000": 39,
+        "FEMALE2000": 30,
+        "POP2008": 85,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29439,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.60306163988287,
+          -6.166927529881548
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29439,
+        "CU_NAME": "YANOTE",
+        "CU_NO": "056",
+        "GEOCODE": "11030414056",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.166928,
+        "LONGITUDE": 145.603062,
+        "REGHH": 8,
+        "TOTPOP2000": 33,
+        "MALE2000": 12,
+        "FEMALE2000": 21,
+        "POP2008": 41,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29440,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6594887598984,
+          -6.1490973596554
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29440,
+        "CU_NAME": "KISABOPATI",
+        "CU_NO": "057",
+        "GEOCODE": "11030414057",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "KESEVAKA NO 2",
+        "LATITUDE": -6.149097,
+        "LONGITUDE": 145.659489,
+        "REGHH": 5,
+        "TOTPOP2000": 25,
+        "MALE2000": 16,
+        "FEMALE2000": 9,
+        "POP2008": 33,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7273,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.40261999981317,
+          -3.693390999794758
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7273,
+        "CU_NAME": "NEIMU",
+        "CU_NO": "010",
+        "GEOCODE": "14062406010",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "24",
+        "WARD_NO": "06",
+        "WARD_NAME": "NEIMU",
+        "LATITUDE": -3.69497,
+        "LONGITUDE": 143.401385,
+        "REGHH": 112,
+        "TOTPOP2000": 580,
+        "MALE2000": 281,
+        "FEMALE2000": 299,
+        "POP2008": 691,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062406010,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

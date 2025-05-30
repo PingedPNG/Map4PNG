@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3088120001737,
+          -9.123847000438673
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13142,
+        "CU_NAME": "BARABARA",
+        "CU_NO": "006",
+        "GEOCODE": "06010211006",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "11",
+        "WARD_NAME": "JEBO",
+        "LATITUDE": -9.125299,
+        "LONGITUDE": 149.307814,
+        "REGHH": 26,
+        "TOTPOP2000": 142,
+        "MALE2000": 70,
+        "FEMALE2000": 72,
+        "POP2008": 175,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010211006,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.32261099979792,
+          -9.112967999673401
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13143,
+        "CU_NAME": "BAUWAME",
+        "CU_NO": "007",
+        "GEOCODE": "06010211007",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "11",
+        "WARD_NAME": "JEBO",
+        "LATITUDE": -9.114257,
+        "LONGITUDE": 149.322406,
+        "REGHH": 30,
+        "TOTPOP2000": 163,
+        "MALE2000": 74,
+        "FEMALE2000": 89,
+        "POP2008": 202,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010211007,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.31291000029637,
+          -9.153804999700924
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13144,
+        "CU_NAME": "JEBO",
+        "CU_NO": "021",
+        "GEOCODE": "06010211021",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "11",
+        "WARD_NAME": "JEBO",
+        "LATITUDE": -9.155758,
+        "LONGITUDE": 149.316729,
+        "REGHH": 25,
+        "TOTPOP2000": 130,
+        "MALE2000": 68,
+        "FEMALE2000": 62,
+        "POP2008": 162,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010211021,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.30007800029955,
+          -9.137913999831198
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13145,
+        "CU_NAME": "OROTOABA",
+        "CU_NO": "042",
+        "GEOCODE": "06010211042",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "11",
+        "WARD_NAME": "JEBO",
+        "LATITUDE": -9.139367,
+        "LONGITUDE": 149.29908,
+        "REGHH": 23,
+        "TOTPOP2000": 161,
+        "MALE2000": 76,
+        "FEMALE2000": 85,
+        "POP2008": 199,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010211042,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.32542400001762,
+          -9.121031000080563
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13146,
+        "CU_NAME": "TAINABUNA",
+        "CU_NO": "047",
+        "GEOCODE": "06010211047",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "11",
+        "WARD_NAME": "JEBO",
+        "LATITUDE": -9.123369,
+        "LONGITUDE": 149.326725,
+        "REGHH": 28,
+        "TOTPOP2000": 171,
+        "MALE2000": 87,
+        "FEMALE2000": 84,
+        "POP2008": 212,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010211047,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

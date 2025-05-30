@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6245,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.89396500028465,
+          -4.239587000439656
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6245,
+        "CU_NAME": "IMOMBI",
+        "CU_NO": "002",
+        "GEOCODE": "14010417002",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "17",
+        "WARD_NAME": "IMOMBI",
+        "LATITUDE": -4.24117,
+        "LONGITUDE": 141.89271,
+        "REGHH": 71,
+        "TOTPOP2000": 396,
+        "MALE2000": 209,
+        "FEMALE2000": 187,
+        "POP2008": 472,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010417002,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

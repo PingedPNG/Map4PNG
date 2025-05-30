@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4557,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6923289996837,
+          -4.226009000215129
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4557,
+        "CU_NAME": "KOLOPOM SETTLEMENT",
+        "CU_NO": "543",
+        "GEOCODE": "18010319543",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "19",
+        "WARD_NAME": "KOLOPOM SETTLEMENT",
+        "LATITUDE": -4.227408,
+        "LONGITUDE": 151.691376,
+        "REGHH": 31,
+        "TOTPOP2000": 189,
+        "MALE2000": 99,
+        "FEMALE2000": 90,
+        "POP2008": 230,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010319543,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4558,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6928139995665,
+          -4.230999000103736
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4558,
+        "CU_NAME": "BASIS",
+        "CU_NO": "544",
+        "GEOCODE": "18010319544",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "19",
+        "WARD_NAME": "KOLOPOM SETTLEMENT",
+        "LATITUDE": -4.232398,
+        "LONGITUDE": 151.691861,
+        "REGHH": 29,
+        "TOTPOP2000": 162,
+        "MALE2000": 92,
+        "FEMALE2000": 70,
+        "POP2008": 197,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010319544,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4559,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.69222999961482,
+          -4.228431000390287
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4559,
+        "CU_NAME": "BOLWARA",
+        "CU_NO": "545",
+        "GEOCODE": "18010319545",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "19",
+        "WARD_NAME": "KOLOPOM SETTLEMENT",
+        "LATITUDE": -4.22983,
+        "LONGITUDE": 151.691277,
+        "REGHH": 12,
+        "TOTPOP2000": 73,
+        "MALE2000": 38,
+        "FEMALE2000": 35,
+        "POP2008": 89,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010319545,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

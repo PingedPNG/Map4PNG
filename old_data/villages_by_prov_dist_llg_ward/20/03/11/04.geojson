@@ -1,0 +1,389 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 770,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.4789540003269,
+          -6.433287999641436
+        ]
+      },
+      "properties": {
+        "OBJECTID": 770,
+        "CU_NAME": "PANAM",
+        "CU_NO": "001",
+        "GEOCODE": "20031104001",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "TELEPI",
+        "LATITUDE": -6.434722,
+        "LONGITUDE": 155.478056,
+        "REGHH": 70,
+        "TOTPOP2000": 322,
+        "MALE2000": 152,
+        "FEMALE2000": 170,
+        "POP2008": 362,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031104001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 771,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.483118999942,
+          -6.436066000045798
+        ]
+      },
+      "properties": {
+        "OBJECTID": 771,
+        "CU_NAME": "LABONAMI",
+        "CU_NO": "002",
+        "GEOCODE": "20031104002",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "TELEPI",
+        "LATITUDE": -6.4375,
+        "LONGITUDE": 155.482222,
+        "REGHH": 29,
+        "TOTPOP2000": 104,
+        "MALE2000": 61,
+        "FEMALE2000": 43,
+        "POP2008": 120,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031104002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 772,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.48673000008955,
+          -6.441899000138676
+        ]
+      },
+      "properties": {
+        "OBJECTID": 772,
+        "CU_NAME": "WALALIU 1",
+        "CU_NO": "003",
+        "GEOCODE": "20031104003",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "TELEPI",
+        "LATITUDE": -6.443333,
+        "LONGITUDE": 155.485833,
+        "REGHH": 12,
+        "TOTPOP2000": 73,
+        "MALE2000": 38,
+        "FEMALE2000": 35,
+        "POP2008": 81,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031104003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 773,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.48771100036242,
+          -6.44682099958942
+        ]
+      },
+      "properties": {
+        "OBJECTID": 773,
+        "CU_NAME": "WALALIU 2",
+        "CU_NO": "004",
+        "GEOCODE": "20031104004",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "TELEPI",
+        "LATITUDE": -6.448255,
+        "LONGITUDE": 155.486814,
+        "REGHH": 40,
+        "TOTPOP2000": 227,
+        "MALE2000": 121,
+        "FEMALE2000": 106,
+        "POP2008": 256,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031104004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 774,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.48201000006156,
+          -6.441899000138676
+        ]
+      },
+      "properties": {
+        "OBJECTID": 774,
+        "CU_NAME": "SIANEKI",
+        "CU_NO": "005",
+        "GEOCODE": "20031104005",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "TELEPI",
+        "LATITUDE": -6.443333,
+        "LONGITUDE": 155.481111,
+        "REGHH": 43,
+        "TOTPOP2000": 217,
+        "MALE2000": 116,
+        "FEMALE2000": 101,
+        "POP2008": 243,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031104005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 775,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.45950900024025,
+          -6.470233000052872
+        ]
+      },
+      "properties": {
+        "OBJECTID": 775,
+        "CU_NAME": "WARUWARU",
+        "CU_NO": "006",
+        "GEOCODE": "20031104006",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "TELEPI",
+        "LATITUDE": -6.471667,
+        "LONGITUDE": 155.458611,
+        "REGHH": 97,
+        "TOTPOP2000": 455,
+        "MALE2000": 220,
+        "FEMALE2000": 235,
+        "POP2008": 512,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031104006,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 776,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.4533979999178,
+          -6.43495500007316
+        ]
+      },
+      "properties": {
+        "OBJECTID": 776,
+        "CU_NAME": "BELELEKI",
+        "CU_NO": "007",
+        "GEOCODE": "20031104007",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "TELEPI",
+        "LATITUDE": -6.436389,
+        "LONGITUDE": 155.4525,
+        "REGHH": 16,
+        "TOTPOP2000": 90,
+        "MALE2000": 50,
+        "FEMALE2000": 40,
+        "POP2008": 98,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031104007,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 777,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.4364540000521,
+          -6.429954999723407
+        ]
+      },
+      "properties": {
+        "OBJECTID": 777,
+        "CU_NAME": "MOMOGANALI",
+        "CU_NO": "008",
+        "GEOCODE": "20031104008",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "TELEPI",
+        "LATITUDE": -6.431389,
+        "LONGITUDE": 155.435556,
+        "REGHH": 47,
+        "TOTPOP2000": 244,
+        "MALE2000": 129,
+        "FEMALE2000": 115,
+        "POP2008": 276,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031104008,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 778,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.42611299981513,
+          -6.428629999774614
+        ]
+      },
+      "properties": {
+        "OBJECTID": 778,
+        "CU_NAME": "KALERIA",
+        "CU_NO": "009",
+        "GEOCODE": "20031104009",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "TELEPI",
+        "LATITUDE": -6.430064,
+        "LONGITUDE": 155.425215,
+        "REGHH": 226,
+        "TOTPOP2000": 1021,
+        "MALE2000": 517,
+        "FEMALE2000": 504,
+        "POP2008": 1151,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031104009,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 779,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.42720399976486,
+          -6.426875999827473
+        ]
+      },
+      "properties": {
+        "OBJECTID": 779,
+        "CU_NAME": "SIRAKATAU",
+        "CU_NO": "010",
+        "GEOCODE": "20031104010",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "TELEPI",
+        "LATITUDE": -6.42831,
+        "LONGITUDE": 155.426306,
+        "REGHH": 25,
+        "TOTPOP2000": 127,
+        "MALE2000": 62,
+        "FEMALE2000": 65,
+        "POP2008": 143,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031104010,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 780,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.42848000015192,
+          -6.432348000359866
+        ]
+      },
+      "properties": {
+        "OBJECTID": 780,
+        "CU_NAME": "KOWELE",
+        "CU_NO": "011",
+        "GEOCODE": "20031104011",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "TELEPI",
+        "LATITUDE": -6.433782,
+        "LONGITUDE": 155.427582,
+        "REGHH": 8,
+        "TOTPOP2000": 46,
+        "MALE2000": 22,
+        "FEMALE2000": 24,
+        "POP2008": 54,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031104011,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 781,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.4128430003043,
+          -6.421898999639097
+        ]
+      },
+      "properties": {
+        "OBJECTID": 781,
+        "CU_NAME": "BOLEUKO MISSION",
+        "CU_NO": "402",
+        "GEOCODE": "20031104402",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "TELEPI",
+        "LATITUDE": -6.423333,
+        "LONGITUDE": 155.411944,
+        "REGHH": 23,
+        "TOTPOP2000": 150,
+        "MALE2000": 85,
+        "FEMALE2000": 65,
+        "POP2008": 166,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031104402,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

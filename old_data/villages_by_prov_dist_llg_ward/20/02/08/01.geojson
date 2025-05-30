@@ -1,0 +1,677 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 332,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.86257000030537,
+          -6.468005999876937
+        ]
+      },
+      "properties": {
+        "OBJECTID": 332,
+        "CU_NAME": "TAKEE",
+        "CU_NO": "001",
+        "GEOCODE": "20020801001",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.469441,
+        "LONGITUDE": 155.861679,
+        "REGHH": 74,
+        "TOTPOP2000": 403,
+        "MALE2000": 214,
+        "FEMALE2000": 189,
+        "POP2008": 453,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 333,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.8388399995664,
+          -6.489349000256084
+        ]
+      },
+      "properties": {
+        "OBJECTID": 333,
+        "CU_NAME": "TUAREREKU",
+        "CU_NO": "002",
+        "GEOCODE": "20020801002",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.488552,
+        "LONGITUDE": 155.840017,
+        "REGHH": 26,
+        "TOTPOP2000": 122,
+        "MALE2000": 62,
+        "FEMALE2000": 60,
+        "POP2008": 138,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 334,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.83542999969484,
+          -6.47949399994809
+        ]
+      },
+      "properties": {
+        "OBJECTID": 334,
+        "CU_NAME": "AMUAPONG",
+        "CU_NO": "003",
+        "GEOCODE": "20020801003",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.480929,
+        "LONGITUDE": 155.834538,
+        "REGHH": 37,
+        "TOTPOP2000": 175,
+        "MALE2000": 92,
+        "FEMALE2000": 83,
+        "POP2008": 199,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 335,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.83115000017244,
+          -6.454176999768663
+        ]
+      },
+      "properties": {
+        "OBJECTID": 335,
+        "CU_NAME": "SIOROVI",
+        "CU_NO": "004",
+        "GEOCODE": "20020801004",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.455612,
+        "LONGITUDE": 155.830258,
+        "REGHH": 67,
+        "TOTPOP2000": 340,
+        "MALE2000": 182,
+        "FEMALE2000": 158,
+        "POP2008": 382,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 336,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.83956499972498,
+          -6.452454000351793
+        ]
+      },
+      "properties": {
+        "OBJECTID": 336,
+        "CU_NAME": "PONTANA",
+        "CU_NO": "005",
+        "GEOCODE": "20020801005",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.451525,
+        "LONGITUDE": 155.839493,
+        "REGHH": 12,
+        "TOTPOP2000": 67,
+        "MALE2000": 34,
+        "FEMALE2000": 33,
+        "POP2008": 75,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 337,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.81809399973838,
+          -6.429132999588205
+        ]
+      },
+      "properties": {
+        "OBJECTID": 337,
+        "CU_NAME": "MINANI",
+        "CU_NO": "006",
+        "GEOCODE": "20020801006",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.430567,
+        "LONGITUDE": 155.817202,
+        "REGHH": 27,
+        "TOTPOP2000": 134,
+        "MALE2000": 70,
+        "FEMALE2000": 64,
+        "POP2008": 150,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801006,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 338,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.83753999987118,
+          -6.418527999767321
+        ]
+      },
+      "properties": {
+        "OBJECTID": 338,
+        "CU_NAME": "SIROVAI",
+        "CU_NO": "007",
+        "GEOCODE": "20020801007",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.419962,
+        "LONGITUDE": 155.836648,
+        "REGHH": 10,
+        "TOTPOP2000": 35,
+        "MALE2000": 17,
+        "FEMALE2000": 18,
+        "POP2008": 43,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801007,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 339,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.82973499967056,
+          -6.39995000009236
+        ]
+      },
+      "properties": {
+        "OBJECTID": 339,
+        "CU_NAME": "PIKA'A",
+        "CU_NO": "008",
+        "GEOCODE": "20020801008",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.3995,
+        "LONGITUDE": 155.830332,
+        "REGHH": 17,
+        "TOTPOP2000": 74,
+        "MALE2000": 36,
+        "FEMALE2000": 38,
+        "POP2008": 82,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801008,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 340,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.8268349999354,
+          -6.399225999979876
+        ]
+      },
+      "properties": {
+        "OBJECTID": 340,
+        "CU_NAME": "KAMAROVE",
+        "CU_NO": "009",
+        "GEOCODE": "20020801009",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.397648,
+        "LONGITUDE": 155.828175,
+        "REGHH": 23,
+        "TOTPOP2000": 132,
+        "MALE2000": 70,
+        "FEMALE2000": 62,
+        "POP2008": 148,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801009,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 341,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.8252889996877,
+          -6.396115999553672
+        ]
+      },
+      "properties": {
+        "OBJECTID": 341,
+        "CU_NAME": "DOTA-BAREOSI",
+        "CU_NO": "010",
+        "GEOCODE": "20020801010",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.39754,
+        "LONGITUDE": 155.826312,
+        "REGHH": 17,
+        "TOTPOP2000": 78,
+        "MALE2000": 37,
+        "FEMALE2000": 41,
+        "POP2008": 86,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801010,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.79117600037216,
+          -6.393168000302921
+        ]
+      },
+      "properties": {
+        "OBJECTID": 342,
+        "CU_NAME": "MUNIASI",
+        "CU_NO": "011",
+        "GEOCODE": "20020801011",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.395502,
+        "LONGITUDE": 155.788773,
+        "REGHH": 19,
+        "TOTPOP2000": 99,
+        "MALE2000": 55,
+        "FEMALE2000": 44,
+        "POP2008": 113,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801011,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 343,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.79414599973813,
+          -6.384025999600169
+        ]
+      },
+      "properties": {
+        "OBJECTID": 343,
+        "CU_NAME": "BONA",
+        "CU_NO": "012",
+        "GEOCODE": "20020801012",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.38546,
+        "LONGITUDE": 155.793254,
+        "REGHH": 18,
+        "TOTPOP2000": 95,
+        "MALE2000": 51,
+        "FEMALE2000": 44,
+        "POP2008": 105,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801012,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 344,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.82737699974882,
+          -6.4742570003602395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 344,
+        "CU_NAME": "MANGOUNA",
+        "CU_NO": "013",
+        "GEOCODE": "20020801013",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.475692,
+        "LONGITUDE": 155.826485,
+        "REGHH": 16,
+        "TOTPOP2000": 79,
+        "MALE2000": 35,
+        "FEMALE2000": 44,
+        "POP2008": 87,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801013,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.7760950000843,
+          -6.365790999554918
+        ]
+      },
+      "properties": {
+        "OBJECTID": 345,
+        "CU_NAME": "KORORO",
+        "CU_NO": "014",
+        "GEOCODE": "20020801014",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.371849,
+        "LONGITUDE": 155.777723,
+        "REGHH": 14,
+        "TOTPOP2000": 65,
+        "MALE2000": 34,
+        "FEMALE2000": 31,
+        "POP2008": 73,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801014,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 346,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.78029599956085,
+          -6.373227999872256
+        ]
+      },
+      "properties": {
+        "OBJECTID": 346,
+        "CU_NAME": "DOMENA",
+        "CU_NO": "015",
+        "GEOCODE": "20020801015",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.378588,
+        "LONGITUDE": 155.779157,
+        "REGHH": 22,
+        "TOTPOP2000": 92,
+        "MALE2000": 41,
+        "FEMALE2000": 51,
+        "POP2008": 100,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801015,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 347,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.83462300025133,
+          -6.404985000257511
+        ]
+      },
+      "properties": {
+        "OBJECTID": 347,
+        "CU_NAME": "SIPUREI",
+        "CU_NO": "016",
+        "GEOCODE": "20020801016",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.406419,
+        "LONGITUDE": 155.833731,
+        "REGHH": 22,
+        "TOTPOP2000": 114,
+        "MALE2000": 55,
+        "FEMALE2000": 59,
+        "POP2008": 130,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801016,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 348,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.80692499998884,
+          -6.357209000395017
+        ]
+      },
+      "properties": {
+        "OBJECTID": 348,
+        "CU_NAME": "PEVANA",
+        "CU_NO": "017",
+        "GEOCODE": "20020801017",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.356369,
+        "LONGITUDE": 155.803881,
+        "REGHH": 25,
+        "TOTPOP2000": 116,
+        "MALE2000": 62,
+        "FEMALE2000": 54,
+        "POP2008": 132,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801017,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 349,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.75531699967985,
+          -6.373513000424566
+        ]
+      },
+      "properties": {
+        "OBJECTID": 349,
+        "CU_NAME": "POSINAMI",
+        "CU_NO": "024",
+        "GEOCODE": "20020801024",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.374947,
+        "LONGITUDE": 155.754424,
+        "REGHH": 15,
+        "TOTPOP2000": 75,
+        "MALE2000": 30,
+        "FEMALE2000": 45,
+        "POP2008": 83,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801024,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 350,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.76948600017886,
+          -6.37394000033072
+        ]
+      },
+      "properties": {
+        "OBJECTID": 350,
+        "CU_NAME": "TAURA",
+        "CU_NO": "025",
+        "GEOCODE": "20020801025",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.375374,
+        "LONGITUDE": 155.768593,
+        "REGHH": 16,
+        "TOTPOP2000": 77,
+        "MALE2000": 36,
+        "FEMALE2000": 41,
+        "POP2008": 85,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801025,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 351,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.76411899999198,
+          -6.369245999703082
+        ]
+      },
+      "properties": {
+        "OBJECTID": 351,
+        "CU_NAME": "BABEDOSI",
+        "CU_NO": "026",
+        "GEOCODE": "20020801026",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.37068,
+        "LONGITUDE": 155.763226,
+        "REGHH": 19,
+        "TOTPOP2000": 94,
+        "MALE2000": 46,
+        "FEMALE2000": 48,
+        "POP2008": 103,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801026,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 352,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.7695979999478,
+          -6.38522199989535
+        ]
+      },
+      "properties": {
+        "OBJECTID": 352,
+        "CU_NAME": "PIRUNAVA",
+        "CU_NO": "027",
+        "GEOCODE": "20020801027",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOKODA",
+        "LATITUDE": -6.387534,
+        "LONGITUDE": 155.771384,
+        "REGHH": 21,
+        "TOTPOP2000": 94,
+        "MALE2000": 47,
+        "FEMALE2000": 47,
+        "POP2008": 103,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020801027,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

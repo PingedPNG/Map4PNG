@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.81631300014487,
+          -2.2438650002695226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9538,
+        "CU_NAME": "LIULIU",
+        "CU_NO": "004",
+        "GEOCODE": "16011205004",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "POLOBULI",
+        "LATITUDE": -2.24337,
+        "LONGITUDE": 147.81082,
+        "REGHH": 39,
+        "TOTPOP2000": 203,
+        "MALE2000": 114,
+        "FEMALE2000": 89,
+        "POP2008": 249,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16011205004,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9539,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.77492299979667,
+          -2.2103119997989324
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9539,
+        "CU_NAME": "LOAMAT",
+        "CU_NO": "005",
+        "GEOCODE": "16011205005",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "POLOBULI",
+        "LATITUDE": -2.21168,
+        "LONGITUDE": 147.773916,
+        "REGHH": 13,
+        "TOTPOP2000": 62,
+        "MALE2000": 29,
+        "FEMALE2000": 33,
+        "POP2008": 78,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16011205005,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9540,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.76714900012632,
+          -2.200366999837115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9540,
+        "CU_NAME": "POPEU",
+        "CU_NO": "012",
+        "GEOCODE": "16011205012",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "POLOBULI",
+        "LATITUDE": -2.201735,
+        "LONGITUDE": 147.76614,
+        "REGHH": 24,
+        "TOTPOP2000": 140,
+        "MALE2000": 72,
+        "FEMALE2000": 68,
+        "POP2008": 172,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16011205012,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9541,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.78213100034543,
+          -2.2259620002460565
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9541,
+        "CU_NAME": "BUNDROU",
+        "CU_NO": "013",
+        "GEOCODE": "16011205013",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "POLOBULI",
+        "LATITUDE": -2.226577,
+        "LONGITUDE": 147.783279,
+        "REGHH": 24,
+        "TOTPOP2000": 137,
+        "MALE2000": 79,
+        "FEMALE2000": 58,
+        "POP2008": 169,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16011205013,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15663,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.26677400031997,
+          -8.752787000319756
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15663,
+        "CU_NAME": "KOROMBO",
+        "CU_NO": "006",
+        "GEOCODE": "01031314006",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "14",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -8.754213,
+        "LONGITUDE": 141.265672,
+        "REGHH": 28,
+        "TOTPOP2000": 138,
+        "MALE2000": 67,
+        "FEMALE2000": 71,
+        "POP2008": 180,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031314006,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15664,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2596310000706,
+          -8.884465999606164
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15664,
+        "CU_NAME": "WANDO",
+        "CU_NO": "010",
+        "GEOCODE": "01031314010",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "14",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -8.885893,
+        "LONGITUDE": 141.258528,
+        "REGHH": 41,
+        "TOTPOP2000": 166,
+        "MALE2000": 87,
+        "FEMALE2000": 79,
+        "POP2008": 215,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031314010,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15665,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.25901200030364,
+          -8.89282200003521
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15665,
+        "CU_NAME": "WANDO COMM. SCHOOL",
+        "CU_NO": "011",
+        "GEOCODE": "01031314011",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "14",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -8.894249,
+        "LONGITUDE": 141.257909,
+        "REGHH": 5,
+        "TOTPOP2000": 38,
+        "MALE2000": 13,
+        "FEMALE2000": 25,
+        "POP2008": 46,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031314011,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15666,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.25095800031158,
+          -8.847873000138804
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15666,
+        "CU_NAME": "BENSBACH LODGE",
+        "CU_NO": "502",
+        "GEOCODE": "01031314502",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "14",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -8.8493,
+        "LONGITUDE": 141.249855,
+        "REGHH": 1,
+        "TOTPOP2000": 4,
+        "MALE2000": 2,
+        "FEMALE2000": 2,
+        "POP2008": 4,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031314502,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

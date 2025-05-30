@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7979,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95148600017887,
+          -4.236174999576519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7979,
+        "CU_NAME": "BOIKULU",
+        "CU_NO": "011",
+        "GEOCODE": "13010311011",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "AMBU",
+        "LATITUDE": -4.236272,
+        "LONGITUDE": 144.951302,
+        "REGHH": 45,
+        "TOTPOP2000": 258,
+        "MALE2000": 132,
+        "FEMALE2000": 126,
+        "POP2008": 319,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010311011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7980,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9721950000992,
+          -4.2591499996726725
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7980,
+        "CU_NAME": "KAMASINA",
+        "CU_NO": "023",
+        "GEOCODE": "13010311023",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "AMBU",
+        "LATITUDE": -4.26054,
+        "LONGITUDE": 144.971148,
+        "REGHH": 23,
+        "TOTPOP2000": 154,
+        "MALE2000": 83,
+        "FEMALE2000": 71,
+        "POP2008": 190,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010311023,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7981,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97078799996632,
+          -4.254188000176043
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7981,
+        "CU_NAME": "AMBU",
+        "CU_NO": "037",
+        "GEOCODE": "13010311037",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "AMBU",
+        "LATITUDE": -4.255055,
+        "LONGITUDE": 144.97009,
+        "REGHH": 22,
+        "TOTPOP2000": 153,
+        "MALE2000": 78,
+        "FEMALE2000": 75,
+        "POP2008": 189,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010311037,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7982,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9324960003902,
+          -4.22685699975068
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7982,
+        "CU_NAME": "KOSAKOSA",
+        "CU_NO": "038",
+        "GEOCODE": "13010311038",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "AMBU",
+        "LATITUDE": -4.228247,
+        "LONGITUDE": 144.931449,
+        "REGHH": 43,
+        "TOTPOP2000": 233,
+        "MALE2000": 121,
+        "FEMALE2000": 112,
+        "POP2008": 288,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010311038,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7983,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97502700029588,
+          -4.263997000161396
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7983,
+        "CU_NAME": "SAMUSAMU",
+        "CU_NO": "040",
+        "GEOCODE": "13010311040",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "AMBU",
+        "LATITUDE": -4.265386,
+        "LONGITUDE": 144.97398,
+        "REGHH": 40,
+        "TOTPOP2000": 251,
+        "MALE2000": 140,
+        "FEMALE2000": 111,
+        "POP2008": 311,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010311040,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

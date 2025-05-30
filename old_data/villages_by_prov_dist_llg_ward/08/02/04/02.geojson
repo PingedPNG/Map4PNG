@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5446,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.85129599991058,
+          -5.392628999928377
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5446,
+        "CU_NAME": "BIRIP",
+        "CU_NO": "002",
+        "GEOCODE": "08020402002",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "02",
+        "WARD_NAME": "BIRIP",
+        "LATITUDE": -5.393102,
+        "LONGITUDE": 143.84843,
+        "REGHH": 57,
+        "TOTPOP2000": 323,
+        "MALE2000": 148,
+        "FEMALE2000": 175,
+        "POP2008": 405,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020402002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5447,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.82896900001936,
+          -5.388190000268253
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5447,
+        "CU_NAME": "KEPILAM",
+        "CU_NO": "003",
+        "GEOCODE": "08020402003",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "02",
+        "WARD_NAME": "BIRIP",
+        "LATITUDE": -5.389591,
+        "LONGITUDE": 143.827906,
+        "REGHH": 49,
+        "TOTPOP2000": 315,
+        "MALE2000": 155,
+        "FEMALE2000": 160,
+        "POP2008": 396,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020402003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5448,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.81218700042984,
+          -5.401450000217267
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5448,
+        "CU_NAME": "LEPRES",
+        "CU_NO": "004",
+        "GEOCODE": "08020402004",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "02",
+        "WARD_NAME": "BIRIP",
+        "LATITUDE": -5.402851,
+        "LONGITUDE": 143.811124,
+        "REGHH": 57,
+        "TOTPOP2000": 318,
+        "MALE2000": 161,
+        "FEMALE2000": 157,
+        "POP2008": 399,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020402004,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

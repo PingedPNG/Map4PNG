@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15806,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.38505599993448,
+          -5.827031000080524
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15806,
+        "CU_NAME": "KUTIBULG 2",
+        "CU_NO": "008",
+        "GEOCODE": "09010113008",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUTIBULG 2",
+        "LATITUDE": -5.82797,
+        "LONGITUDE": 144.385391,
+        "REGHH": 102,
+        "TOTPOP2000": 487,
+        "MALE2000": 256,
+        "FEMALE2000": 231,
+        "POP2008": 592,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010113008,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15807,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3829299999196,
+          -5.829731999632031
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15807,
+        "CU_NAME": "BUNAMULG",
+        "CU_NO": "009",
+        "GEOCODE": "09010113009",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUTIBULG 2",
+        "LATITUDE": -5.830671,
+        "LONGITUDE": 144.383265,
+        "REGHH": 47,
+        "TOTPOP2000": 250,
+        "MALE2000": 123,
+        "FEMALE2000": 127,
+        "POP2008": 304,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010113009,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15808,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3906370000975,
+          -5.871515000117142
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15808,
+        "CU_NAME": "KUPMANDU",
+        "CU_NO": "010",
+        "GEOCODE": "09010113010",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUTIBULG 2",
+        "LATITUDE": -5.872454,
+        "LONGITUDE": 144.390973,
+        "REGHH": 15,
+        "TOTPOP2000": 64,
+        "MALE2000": 32,
+        "FEMALE2000": 32,
+        "POP2008": 80,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010113010,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

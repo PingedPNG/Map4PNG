@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8691,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.83504199998833,
+          -5.813430999740774
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8691,
+        "CU_NAME": "BERINGE/NANGOI",
+        "CU_NO": "003",
+        "GEOCODE": "13041101003",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "WARD 1",
+        "LATITUDE": -5.811489,
+        "LONGITUDE": 145.835686,
+        "REGHH": 17,
+        "TOTPOP2000": 114,
+        "MALE2000": 63,
+        "FEMALE2000": 51,
+        "POP2008": 140,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041101003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8692,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.78437199976804,
+          -5.808612999690126
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8692,
+        "CU_NAME": "GURUMBO",
+        "CU_NO": "012",
+        "GEOCODE": "13041101012",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "WARD 1",
+        "LATITUDE": -5.810022,
+        "LONGITUDE": 145.783333,
+        "REGHH": 32,
+        "TOTPOP2000": 166,
+        "MALE2000": 87,
+        "FEMALE2000": 79,
+        "POP2008": 205,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041101012,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4601,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1489429998196,
+          -4.373288000340892
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4601,
+        "CU_NAME": "RABAGI NO.1",
+        "CU_NO": "002",
+        "GEOCODE": "18010502002",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "02",
+        "WARD_NAME": "RABAGI NO.1",
+        "LATITUDE": -4.374689,
+        "LONGITUDE": 152.147997,
+        "REGHH": 73,
+        "TOTPOP2000": 488,
+        "MALE2000": 258,
+        "FEMALE2000": 230,
+        "POP2008": 595,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010502002,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

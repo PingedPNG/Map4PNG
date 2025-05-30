@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20885,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7447020001972,
+          -5.699498999579134
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20885,
+        "CU_NAME": "KOROBA STATION",
+        "CU_NO": "401",
+        "GEOCODE": "07051715401",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "15",
+        "WARD_NAME": "KOROBA STATION",
+        "LATITUDE": -5.704375,
+        "LONGITUDE": 142.736862,
+        "REGHH": 65,
+        "TOTPOP2000": 381,
+        "MALE2000": 218,
+        "FEMALE2000": 163,
+        "POP2008": 529,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051715401,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10990,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.97405500003833,
+          -6.9822100000913565
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10990,
+        "CU_NAME": "AWASA BUSAMANG",
+        "CU_NO": "002",
+        "GEOCODE": "12031016002",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "16",
+        "WARD_NAME": "AWASA BUSAMA",
+        "LATITUDE": -6.98127,
+        "LONGITUDE": 146.97374,
+        "REGHH": 105,
+        "TOTPOP2000": 501,
+        "MALE2000": 242,
+        "FEMALE2000": 259,
+        "POP2008": 625,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031016002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10991,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9466380001437,
+          -6.99167899968603
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10991,
+        "CU_NAME": "GWADO",
+        "CU_NO": "009",
+        "GEOCODE": "12031016009",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "16",
+        "WARD_NAME": "AWASA BUSAMA",
+        "LATITUDE": -6.993103,
+        "LONGITUDE": 146.945612,
+        "REGHH": 32,
+        "TOTPOP2000": 174,
+        "MALE2000": 92,
+        "FEMALE2000": 82,
+        "POP2008": 217,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031016009,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

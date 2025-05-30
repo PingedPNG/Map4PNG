@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12402,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.67358299965576,
+          -1.6477249996090109
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12402,
+        "CU_NAME": "TENCH",
+        "CU_NO": "024",
+        "GEOCODE": "17010106024",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "TENCH",
+        "LATITUDE": -1.649087,
+        "LONGITUDE": 150.672617,
+        "REGHH": 13,
+        "TOTPOP2000": 66,
+        "MALE2000": 33,
+        "FEMALE2000": 33,
+        "POP2008": 82,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010106024,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

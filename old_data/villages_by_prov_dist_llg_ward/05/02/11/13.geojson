@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10074,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.74241699984475,
+          -9.034619000066755
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10074,
+        "CU_NAME": "DIKOIAS",
+        "CU_NO": "003",
+        "GEOCODE": "05021113003",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "DIKOIAS",
+        "LATITUDE": -9.03608,
+        "LONGITUDE": 152.741471,
+        "REGHH": 38,
+        "TOTPOP2000": 190,
+        "MALE2000": 86,
+        "FEMALE2000": 104,
+        "POP2008": 231,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021113003,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

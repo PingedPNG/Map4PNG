@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21842,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.96811100012258,
+          -5.856177999714873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21842,
+        "CU_NAME": "KUKU 1",
+        "CU_NO": "007",
+        "GEOCODE": "07083011007",
+        "PROV_KEY": "21",
+        "DIST_NO": "3",
+        "LLG_NO": "30",
+        "WARD_NO": "11",
+        "WARD_NAME": "KUKU 1",
+        "LATITUDE": -5.860422,
+        "LONGITUDE": 142.968375,
+        "REGHH": 147,
+        "TOTPOP2000": 956,
+        "MALE2000": 483,
+        "FEMALE2000": 473,
+        "POP2008": 1328,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7083011007,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

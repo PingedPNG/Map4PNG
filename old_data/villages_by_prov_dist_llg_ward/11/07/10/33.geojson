@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30646,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7162625595695,
+          -6.503391629819816
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30646,
+        "CU_NAME": "ANOKAFA",
+        "CU_NO": "002",
+        "GEOCODE": "11071033002",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "33",
+        "WARD_NAME": "SEPUNA",
+        "LATITUDE": -6.503392,
+        "LONGITUDE": 145.716263,
+        "REGHH": 64,
+        "TOTPOP2000": 251,
+        "MALE2000": 120,
+        "FEMALE2000": 131,
+        "POP2008": 299,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30647,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.71008423959609,
+          -6.525624959923903
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30647,
+        "CU_NAME": "ARORA NO 1",
+        "CU_NO": "003",
+        "GEOCODE": "11071033003",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "33",
+        "WARD_NAME": "SEPUNA",
+        "LATITUDE": -6.525625,
+        "LONGITUDE": 145.710084,
+        "REGHH": 127,
+        "TOTPOP2000": 549,
+        "MALE2000": 277,
+        "FEMALE2000": 272,
+        "POP2008": 653,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30648,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.68515388044727,
+          -6.5431055699660305
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30648,
+        "CU_NAME": "INDONA",
+        "CU_NO": "007",
+        "GEOCODE": "11071033007",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "33",
+        "WARD_NAME": "SEPUNA",
+        "LATITUDE": -6.543106,
+        "LONGITUDE": 145.685154,
+        "REGHH": 59,
+        "TOTPOP2000": 326,
+        "MALE2000": 169,
+        "FEMALE2000": 157,
+        "POP2008": 387,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30649,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.69893864020617,
+          -6.528620519821061
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30649,
+        "CU_NAME": "SEFUNA",
+        "CU_NO": "012",
+        "GEOCODE": "11071033012",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "33",
+        "WARD_NAME": "SEPUNA",
+        "LATITUDE": -6.528621,
+        "LONGITUDE": 145.698939,
+        "REGHH": 69,
+        "TOTPOP2000": 371,
+        "MALE2000": 176,
+        "FEMALE2000": 195,
+        "POP2008": 442,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30650,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.71552311989615,
+          -6.519167820438497
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30650,
+        "CU_NAME": "ARORA NO 2",
+        "CU_NO": "013",
+        "GEOCODE": "11071033013",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "33",
+        "WARD_NAME": "SEPUNA",
+        "LATITUDE": -6.519168,
+        "LONGITUDE": 145.715523,
+        "REGHH": 65,
+        "TOTPOP2000": 294,
+        "MALE2000": 153,
+        "FEMALE2000": 141,
+        "POP2008": 350,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

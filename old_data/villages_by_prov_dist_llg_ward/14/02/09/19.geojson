@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6562,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.91065499972854,
+          -4.817658999762955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6562,
+        "CU_NAME": "YAMBAITOK",
+        "CU_NO": "032",
+        "GEOCODE": "14020919032",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "19",
+        "WARD_NAME": "YAMBAITOK",
+        "LATITUDE": -4.823884,
+        "LONGITUDE": 143.899586,
+        "REGHH": 65,
+        "TOTPOP2000": 290,
+        "MALE2000": 166,
+        "FEMALE2000": 124,
+        "POP2008": 345,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020919032,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

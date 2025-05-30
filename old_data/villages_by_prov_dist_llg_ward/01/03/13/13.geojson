@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15660,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.7035959996557,
+          -8.041202999918482
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15660,
+        "CU_NAME": "AEWE",
+        "CU_NO": "001",
+        "GEOCODE": "01031313001",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "13",
+        "WARD_NAME": "AEWE",
+        "LATITUDE": -8.042625,
+        "LONGITUDE": 141.702501,
+        "REGHH": 41,
+        "TOTPOP2000": 249,
+        "MALE2000": 127,
+        "FEMALE2000": 122,
+        "POP2008": 322,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031313001,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15661,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.70827100030647,
+          -8.038280000021928
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15661,
+        "CU_NAME": "RITI",
+        "CU_NO": "002",
+        "GEOCODE": "01031313002",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "13",
+        "WARD_NAME": "AEWE",
+        "LATITUDE": -8.039702,
+        "LONGITUDE": 141.707176,
+        "REGHH": 59,
+        "TOTPOP2000": 337,
+        "MALE2000": 164,
+        "FEMALE2000": 173,
+        "POP2008": 436,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031313002,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15662,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.72519900033365,
+          -8.034197999737842
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15662,
+        "CU_NAME": "SUKI",
+        "CU_NO": "401",
+        "GEOCODE": "01031313401",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "13",
+        "WARD_NAME": "AEWE",
+        "LATITUDE": -8.041671,
+        "LONGITUDE": 141.72065,
+        "REGHH": 20,
+        "TOTPOP2000": 114,
+        "MALE2000": 60,
+        "FEMALE2000": 54,
+        "POP2008": 148,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031313401,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

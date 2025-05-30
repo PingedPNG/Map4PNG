@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9782,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.45705255253336,
+          -10.65419762542001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9782,
+        "CU_NAME": "KOUKOU",
+        "CU_NO": "001",
+        "GEOCODE": "05010601001",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOUKOU",
+        "LATITUDE": -10.653772,
+        "LONGITUDE": 150.463279,
+        "REGHH": 42,
+        "TOTPOP2000": 182,
+        "MALE2000": 100,
+        "FEMALE2000": 82,
+        "POP2008": 222,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010601001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

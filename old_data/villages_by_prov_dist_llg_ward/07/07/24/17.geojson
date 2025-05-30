@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.45079500008922,
+          -6.1993980002175135
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21277,
+        "CU_NAME": "HULAL 2",
+        "CU_NO": "001",
+        "GEOCODE": "07072417001",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "24",
+        "WARD_NO": "17",
+        "WARD_NAME": "HULAL 2",
+        "LATITUDE": -6.203571,
+        "LONGITUDE": 143.451967,
+        "REGHH": 77,
+        "TOTPOP2000": 465,
+        "MALE2000": 222,
+        "FEMALE2000": 243,
+        "POP2008": 646,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072417001,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5790,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.69607300036876,
+          -5.4682080003988744
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5790,
+        "CU_NAME": "KOPEN",
+        "CU_NO": "012",
+        "GEOCODE": "08041112012",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "KOPEN",
+        "LATITUDE": -5.472113,
+        "LONGITUDE": 143.698032,
+        "REGHH": 52,
+        "TOTPOP2000": 290,
+        "MALE2000": 153,
+        "FEMALE2000": 137,
+        "POP2008": 364,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041112012,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5791,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.69612800020707,
+          -5.4741019997075
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5791,
+        "CU_NAME": "PAKOPYE",
+        "CU_NO": "013",
+        "GEOCODE": "08041112013",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "KOPEN",
+        "LATITUDE": -5.475504,
+        "LONGITUDE": 143.695063,
+        "REGHH": 120,
+        "TOTPOP2000": 638,
+        "MALE2000": 311,
+        "FEMALE2000": 327,
+        "POP2008": 803,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041112013,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5792,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.69545499974845,
+          -5.472373000013874
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5792,
+        "CU_NAME": "KOPEN S/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "08041112401",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "12",
+        "WARD_NAME": "KOPEN",
+        "LATITUDE": -5.473775,
+        "LONGITUDE": 143.69439,
+        "REGHH": 14,
+        "TOTPOP2000": 58,
+        "MALE2000": 31,
+        "FEMALE2000": 27,
+        "POP2008": 74,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041112401,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

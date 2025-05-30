@@ -1,0 +1,677 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 704,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.392278999876,
+          -6.613028000241968
+        ]
+      },
+      "properties": {
+        "OBJECTID": 704,
+        "CU_NAME": "TOIRA",
+        "CU_NO": "001",
+        "GEOCODE": "20031009001",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.61639,
+        "LONGITUDE": 155.395,
+        "REGHH": 7,
+        "TOTPOP2000": 34,
+        "MALE2000": 19,
+        "FEMALE2000": 15,
+        "POP2008": 42,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 705,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.40989900033867,
+          -6.629954000176895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 705,
+        "CU_NAME": "TONNUI",
+        "CU_NO": "002",
+        "GEOCODE": "20031009002",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.63139,
+        "LONGITUDE": 155.409,
+        "REGHH": 41,
+        "TOTPOP2000": 212,
+        "MALE2000": 116,
+        "FEMALE2000": 96,
+        "POP2008": 236,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 706,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.41908500037255,
+          -6.637527999617419
+        ]
+      },
+      "properties": {
+        "OBJECTID": 706,
+        "CU_NAME": "HUKOHAH",
+        "CU_NO": "003",
+        "GEOCODE": "20031009003",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.638966,
+        "LONGITUDE": 155.418186,
+        "REGHH": 61,
+        "TOTPOP2000": 338,
+        "MALE2000": 178,
+        "FEMALE2000": 160,
+        "POP2008": 380,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 707,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.37104800016516,
+          -6.7222859997989985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 707,
+        "CU_NAME": "AITARA 1",
+        "CU_NO": "004",
+        "GEOCODE": "20031009004",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.722037,
+        "LONGITUDE": 155.374585,
+        "REGHH": 18,
+        "TOTPOP2000": 78,
+        "MALE2000": 39,
+        "FEMALE2000": 39,
+        "POP2008": 86,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 708,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.3916010000861,
+          -6.725788000315902
+        ]
+      },
+      "properties": {
+        "OBJECTID": 708,
+        "CU_NAME": "RUNNOI",
+        "CU_NO": "005",
+        "GEOCODE": "20031009005",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.73139,
+        "LONGITUDE": 155.391,
+        "REGHH": 14,
+        "TOTPOP2000": 82,
+        "MALE2000": 40,
+        "FEMALE2000": 42,
+        "POP2008": 90,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 709,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.39689899978907,
+          -6.655503000263195
+        ]
+      },
+      "properties": {
+        "OBJECTID": 709,
+        "CU_NAME": "TOHU",
+        "CU_NO": "006",
+        "GEOCODE": "20031009006",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.65694,
+        "LONGITUDE": 155.396,
+        "REGHH": 32,
+        "TOTPOP2000": 183,
+        "MALE2000": 104,
+        "FEMALE2000": 79,
+        "POP2008": 207,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009006,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 710,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.41089899968915,
+          -6.660232999853008
+        ]
+      },
+      "properties": {
+        "OBJECTID": 710,
+        "CU_NAME": "USO",
+        "CU_NO": "007",
+        "GEOCODE": "20031009007",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.66167,
+        "LONGITUDE": 155.41,
+        "REGHH": 30,
+        "TOTPOP2000": 137,
+        "MALE2000": 69,
+        "FEMALE2000": 68,
+        "POP2008": 153,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009007,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 711,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.41017799971496,
+          -6.642363999598842
+        ]
+      },
+      "properties": {
+        "OBJECTID": 711,
+        "CU_NAME": "OSO",
+        "CU_NO": "008",
+        "GEOCODE": "20031009008",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.643801,
+        "LONGITUDE": 155.409279,
+        "REGHH": 27,
+        "TOTPOP2000": 132,
+        "MALE2000": 73,
+        "FEMALE2000": 59,
+        "POP2008": 148,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009008,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 712,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.440657999667,
+          -6.6282059996071325
+        ]
+      },
+      "properties": {
+        "OBJECTID": 712,
+        "CU_NAME": "PURIKORI",
+        "CU_NO": "009",
+        "GEOCODE": "20031009009",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.629642,
+        "LONGITUDE": 155.439759,
+        "REGHH": 22,
+        "TOTPOP2000": 87,
+        "MALE2000": 41,
+        "FEMALE2000": 46,
+        "POP2008": 95,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009009,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 713,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.43910399994968,
+          -6.63489300041158
+        ]
+      },
+      "properties": {
+        "OBJECTID": 713,
+        "CU_NAME": "MAINOITA",
+        "CU_NO": "010",
+        "GEOCODE": "20031009010",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.63633,
+        "LONGITUDE": 155.438205,
+        "REGHH": 51,
+        "TOTPOP2000": 245,
+        "MALE2000": 105,
+        "FEMALE2000": 140,
+        "POP2008": 277,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009010,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 714,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.4353220000104,
+          -6.613844000100471
+        ]
+      },
+      "properties": {
+        "OBJECTID": 714,
+        "CU_NAME": "KAKOTOKORI",
+        "CU_NO": "011",
+        "GEOCODE": "20031009011",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.61972,
+        "LONGITUDE": 155.435,
+        "REGHH": 22,
+        "TOTPOP2000": 98,
+        "MALE2000": 46,
+        "FEMALE2000": 52,
+        "POP2008": 111,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009011,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 715,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.42989899993893,
+          -6.655233000402575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 715,
+        "CU_NAME": "TONU",
+        "CU_NO": "012",
+        "GEOCODE": "20031009012",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.65667,
+        "LONGITUDE": 155.429,
+        "REGHH": 31,
+        "TOTPOP2000": 134,
+        "MALE2000": 68,
+        "FEMALE2000": 66,
+        "POP2008": 150,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009012,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 716,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.44889800014266,
+          -6.650502999913442
+        ]
+      },
+      "properties": {
+        "OBJECTID": 716,
+        "CU_NAME": "NUKUI",
+        "CU_NO": "013",
+        "GEOCODE": "20031009013",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.65194,
+        "LONGITUDE": 155.448,
+        "REGHH": 26,
+        "TOTPOP2000": 108,
+        "MALE2000": 55,
+        "FEMALE2000": 53,
+        "POP2008": 124,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009013,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 717,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.44589800029257,
+          -6.639672999609218
+        ]
+      },
+      "properties": {
+        "OBJECTID": 717,
+        "CU_NAME": "POSOU",
+        "CU_NO": "014",
+        "GEOCODE": "20031009014",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.64111,
+        "LONGITUDE": 155.445,
+        "REGHH": 9,
+        "TOTPOP2000": 48,
+        "MALE2000": 20,
+        "FEMALE2000": 28,
+        "POP2008": 56,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009014,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 718,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.4528980002426,
+          -6.639123000326151
+        ]
+      },
+      "properties": {
+        "OBJECTID": 718,
+        "CU_NAME": "RABAULU",
+        "CU_NO": "015",
+        "GEOCODE": "20031009015",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.64056,
+        "LONGITUDE": 155.452,
+        "REGHH": 50,
+        "TOTPOP2000": 270,
+        "MALE2000": 135,
+        "FEMALE2000": 135,
+        "POP2008": 302,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009015,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 719,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.4638980002926,
+          -6.6238439999006005
+        ]
+      },
+      "properties": {
+        "OBJECTID": 719,
+        "CU_NAME": "MATUKORI",
+        "CU_NO": "016",
+        "GEOCODE": "20031009016",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.62528,
+        "LONGITUDE": 155.463,
+        "REGHH": 49,
+        "TOTPOP2000": 220,
+        "MALE2000": 118,
+        "FEMALE2000": 102,
+        "POP2008": 247,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009016,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 720,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.44089899998892,
+          -6.6371730003336324
+        ]
+      },
+      "properties": {
+        "OBJECTID": 720,
+        "CU_NAME": "HANONG",
+        "CU_NO": "017",
+        "GEOCODE": "20031009017",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.63861,
+        "LONGITUDE": 155.44,
+        "REGHH": 11,
+        "TOTPOP2000": 45,
+        "MALE2000": 17,
+        "FEMALE2000": 28,
+        "POP2008": 53,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009017,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 721,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.42601599983857,
+          -6.6191599997341655
+        ]
+      },
+      "properties": {
+        "OBJECTID": 721,
+        "CU_NAME": "HIJAE",
+        "CU_NO": "018",
+        "GEOCODE": "20031009018",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.61972,
+        "LONGITUDE": 155.434,
+        "REGHH": 12,
+        "TOTPOP2000": 65,
+        "MALE2000": 28,
+        "FEMALE2000": 37,
+        "POP2008": 73,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009018,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 722,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.39689899978907,
+          -6.640233000252692
+        ]
+      },
+      "properties": {
+        "OBJECTID": 722,
+        "CU_NAME": "NARAHE",
+        "CU_NO": "019",
+        "GEOCODE": "20031009019",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.64167,
+        "LONGITUDE": 155.396,
+        "REGHH": 6,
+        "TOTPOP2000": 29,
+        "MALE2000": 15,
+        "FEMALE2000": 14,
+        "POP2008": 29,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009019,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 723,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.42989899993893,
+          -6.657172999933948
+        ]
+      },
+      "properties": {
+        "OBJECTID": 723,
+        "CU_NAME": "TONU H/CENTRE",
+        "CU_NO": "402",
+        "GEOCODE": "20031009402",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.65861,
+        "LONGITUDE": 155.429,
+        "REGHH": 13,
+        "TOTPOP2000": 68,
+        "MALE2000": 30,
+        "FEMALE2000": 38,
+        "POP2008": 76,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009402,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.4220820000843,
+          -6.656305000375426
+        ]
+      },
+      "properties": {
+        "OBJECTID": 724,
+        "CU_NAME": "TONU H/SCHOOL",
+        "CU_NO": "404",
+        "GEOCODE": "20031009404",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "MOTUNA",
+        "LATITUDE": -6.657742,
+        "LONGITUDE": 155.421183,
+        "REGHH": 7,
+        "TOTPOP2000": 28,
+        "MALE2000": 14,
+        "FEMALE2000": 14,
+        "POP2008": 28,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031009404,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

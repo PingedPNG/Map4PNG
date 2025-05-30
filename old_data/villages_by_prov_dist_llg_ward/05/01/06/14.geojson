@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9797,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.12208224539938,
+          -10.66727254399268
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9797,
+        "CU_NAME": "ISUDIUDIU",
+        "CU_NO": "001",
+        "GEOCODE": "05010614001",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "06",
+        "WARD_NO": "14",
+        "WARD_NAME": "ISUDIUDIU",
+        "LATITUDE": -10.665791,
+        "LONGITUDE": 150.11184,
+        "REGHH": 39,
+        "TOTPOP2000": 220,
+        "MALE2000": 118,
+        "FEMALE2000": 102,
+        "POP2008": 268,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010614001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

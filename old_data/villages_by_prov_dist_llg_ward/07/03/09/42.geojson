@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20072,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.78008300023032,
+          -6.370373000413565
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20072,
+        "CU_NAME": "WASA",
+        "CU_NO": "015",
+        "GEOCODE": "07030942015",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "42",
+        "WARD_NAME": "WASA",
+        "LATITUDE": -6.378273,
+        "LONGITUDE": 143.779926,
+        "REGHH": 28,
+        "TOTPOP2000": 128,
+        "MALE2000": 72,
+        "FEMALE2000": 56,
+        "POP2008": 178,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030942015,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20073,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.78510399974982,
+          -6.37217199973793
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20073,
+        "CU_NAME": "PUAPA",
+        "CU_NO": "016",
+        "GEOCODE": "07030942016",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "42",
+        "WARD_NAME": "WASA",
+        "LATITUDE": -6.378273,
+        "LONGITUDE": 143.779926,
+        "REGHH": 14,
+        "TOTPOP2000": 64,
+        "MALE2000": 36,
+        "FEMALE2000": 28,
+        "POP2008": 89,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030942016,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20074,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.77598099992326,
+          -6.369939000184672
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20074,
+        "CU_NAME": "MOKAYOANDA",
+        "CU_NO": "017",
+        "GEOCODE": "07030942017",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "42",
+        "WARD_NAME": "WASA",
+        "LATITUDE": -6.378273,
+        "LONGITUDE": 143.779926,
+        "REGHH": 11,
+        "TOTPOP2000": 47,
+        "MALE2000": 26,
+        "FEMALE2000": 21,
+        "POP2008": 64,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030942017,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20075,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.78558100016312,
+          -6.376277000183393
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20075,
+        "CU_NAME": "RAKIMA",
+        "CU_NO": "018",
+        "GEOCODE": "07030942018",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "42",
+        "WARD_NAME": "WASA",
+        "LATITUDE": -6.378273,
+        "LONGITUDE": 143.779926,
+        "REGHH": 24,
+        "TOTPOP2000": 90,
+        "MALE2000": 43,
+        "FEMALE2000": 47,
+        "POP2008": 125,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030942018,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20076,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.78099099983478,
+          -6.369455000347955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20076,
+        "CU_NAME": "YAMBALA",
+        "CU_NO": "019",
+        "GEOCODE": "07030942019",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "42",
+        "WARD_NAME": "WASA",
+        "LATITUDE": -6.378273,
+        "LONGITUDE": 143.779926,
+        "REGHH": 10,
+        "TOTPOP2000": 46,
+        "MALE2000": 25,
+        "FEMALE2000": 21,
+        "POP2008": 63,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030942019,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20077,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.78196199964668,
+          -6.380859000142721
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20077,
+        "CU_NAME": "WABI STATION",
+        "CU_NO": "401",
+        "GEOCODE": "07030942401",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "42",
+        "WARD_NAME": "WASA",
+        "LATITUDE": -6.378273,
+        "LONGITUDE": 143.779926,
+        "REGHH": 26,
+        "TOTPOP2000": 120,
+        "MALE2000": 57,
+        "FEMALE2000": 63,
+        "POP2008": 166,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030942401,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

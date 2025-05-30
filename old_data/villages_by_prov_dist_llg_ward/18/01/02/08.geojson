@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4475,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.02883499993538,
+          -4.3930820003340045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4475,
+        "CU_NAME": "LIAGA",
+        "CU_NO": "001",
+        "GEOCODE": "18010208001",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "LIAGA",
+        "LATITUDE": -4.394483,
+        "LONGITUDE": 152.027887,
+        "REGHH": 40,
+        "TOTPOP2000": 226,
+        "MALE2000": 117,
+        "FEMALE2000": 109,
+        "POP2008": 276,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010208001,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4476,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.03688000041177,
+          -4.42929999959523
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4476,
+        "CU_NAME": "USUVIT",
+        "CU_NO": "002",
+        "GEOCODE": "18010208002",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "LIAGA",
+        "LATITUDE": -4.430702,
+        "LONGITUDE": 152.035932,
+        "REGHH": 33,
+        "TOTPOP2000": 217,
+        "MALE2000": 109,
+        "FEMALE2000": 108,
+        "POP2008": 264,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010208002,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4477,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.05243099989082,
+          -4.420230000414165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4477,
+        "CU_NAME": "KEREVAT CIS",
+        "CU_NO": "506",
+        "GEOCODE": "18010208506",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "LIAGA",
+        "LATITUDE": -4.421632,
+        "LONGITUDE": 152.051483,
+        "REGHH": 45,
+        "TOTPOP2000": 654,
+        "MALE2000": 521,
+        "FEMALE2000": 133,
+        "POP2008": 796,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010208506,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

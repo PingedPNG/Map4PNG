@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17352,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7283530003907,
+          -5.818433000182779
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17352,
+        "CU_NAME": "NUMBKORA",
+        "CU_NO": "020",
+        "GEOCODE": "09061115020",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "15",
+        "WARD_NAME": "NUMBKORA",
+        "LATITUDE": -5.81856,
+        "LONGITUDE": 144.727889,
+        "REGHH": 74,
+        "TOTPOP2000": 309,
+        "MALE2000": 146,
+        "FEMALE2000": 163,
+        "POP2008": 377,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061115020,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17353,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.72480200031214,
+          -5.821436000171218
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17353,
+        "CU_NAME": "MALAMB",
+        "CU_NO": "021",
+        "GEOCODE": "09061115021",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "15",
+        "WARD_NAME": "NUMBKORA",
+        "LATITUDE": -5.822373,
+        "LONGITUDE": 144.725141,
+        "REGHH": 26,
+        "TOTPOP2000": 125,
+        "MALE2000": 66,
+        "FEMALE2000": 59,
+        "POP2008": 152,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061115021,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17354,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7204209997294,
+          -5.825704000039536
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17354,
+        "CU_NAME": "NENDE",
+        "CU_NO": "022",
+        "GEOCODE": "09061115022",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "15",
+        "WARD_NAME": "NUMBKORA",
+        "LATITUDE": -5.826641,
+        "LONGITUDE": 144.72076,
+        "REGHH": 26,
+        "TOTPOP2000": 160,
+        "MALE2000": 83,
+        "FEMALE2000": 77,
+        "POP2008": 194,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061115022,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17355,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.72118399984174,
+          -5.829088999657586
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17355,
+        "CU_NAME": "NOUNANG",
+        "CU_NO": "023",
+        "GEOCODE": "09061115023",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "15",
+        "WARD_NAME": "NUMBKORA",
+        "LATITUDE": -5.830026,
+        "LONGITUDE": 144.721523,
+        "REGHH": 68,
+        "TOTPOP2000": 275,
+        "MALE2000": 138,
+        "FEMALE2000": 137,
+        "POP2008": 335,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061115023,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17356,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.72539599982565,
+          -5.81868900029707
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17356,
+        "CU_NAME": "KUMBAL",
+        "CU_NO": "024",
+        "GEOCODE": "09061115024",
+        "PROV_KEY": "22",
+        "DIST_NO": "3",
+        "LLG_NO": "11",
+        "WARD_NO": "15",
+        "WARD_NAME": "NUMBKORA",
+        "LATITUDE": -5.81856,
+        "LONGITUDE": 144.727889,
+        "REGHH": 61,
+        "TOTPOP2000": 301,
+        "MALE2000": 136,
+        "FEMALE2000": 165,
+        "POP2008": 368,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9061115024,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

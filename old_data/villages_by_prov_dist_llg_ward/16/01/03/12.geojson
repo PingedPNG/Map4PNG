@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9380,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6855969996019,
+          -1.9855880003858601
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9380,
+        "CU_NAME": "LEVEI",
+        "CU_NO": "005",
+        "GEOCODE": "16010312005",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "LEVEI",
+        "LATITUDE": -1.986735,
+        "LONGITUDE": 146.683492,
+        "REGHH": 70,
+        "TOTPOP2000": 427,
+        "MALE2000": 229,
+        "FEMALE2000": 198,
+        "POP2008": 524,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010312005,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

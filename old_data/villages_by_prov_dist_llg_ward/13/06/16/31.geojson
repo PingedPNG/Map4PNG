@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9294,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38513000044918,
+          -5.5176479996554235
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9294,
+        "CU_NAME": "BIGEI",
+        "CU_NO": "004",
+        "GEOCODE": "13061631004",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "31",
+        "WARD_NAME": "BOKO",
+        "LATITUDE": -5.519053,
+        "LONGITUDE": 145.384085,
+        "REGHH": 38,
+        "TOTPOP2000": 233,
+        "MALE2000": 110,
+        "FEMALE2000": 123,
+        "POP2008": 288,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061631004,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9295,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.30369799986283,
+          -5.587001999942288
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9295,
+        "CU_NAME": "BOKO",
+        "CU_NO": "010",
+        "GEOCODE": "13061631010",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "31",
+        "WARD_NAME": "BOKO",
+        "LATITUDE": -5.584097,
+        "LONGITUDE": 145.309147,
+        "REGHH": 36,
+        "TOTPOP2000": 262,
+        "MALE2000": 130,
+        "FEMALE2000": 132,
+        "POP2008": 324,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061631010,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9296,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.35627199975306,
+          -5.562307999714392
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9296,
+        "CU_NAME": "USINO",
+        "CU_NO": "016",
+        "GEOCODE": "13061631016",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "31",
+        "WARD_NAME": "BOKO",
+        "LATITUDE": -5.563713,
+        "LONGITUDE": 145.355228,
+        "REGHH": 57,
+        "TOTPOP2000": 372,
+        "MALE2000": 190,
+        "FEMALE2000": 182,
+        "POP2008": 460,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061631016,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9297,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.33399999970027,
+          -5.572200999976133
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9297,
+        "CU_NAME": "MANIKARA",
+        "CU_NO": "017",
+        "GEOCODE": "13061631017",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "31",
+        "WARD_NAME": "BOKO",
+        "LATITUDE": -5.573607,
+        "LONGITUDE": 145.332956,
+        "REGHH": 34,
+        "TOTPOP2000": 186,
+        "MALE2000": 93,
+        "FEMALE2000": 93,
+        "POP2008": 230,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061631017,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

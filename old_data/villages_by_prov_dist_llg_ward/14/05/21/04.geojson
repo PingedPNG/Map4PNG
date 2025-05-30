@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9670909998498,
+          -3.7257839998316626
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7119,
+        "CU_NAME": "TATEMBA",
+        "CU_NO": "039",
+        "GEOCODE": "14052104039",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "21",
+        "WARD_NO": "04",
+        "WARD_NAME": "TATEMBA",
+        "LATITUDE": -3.727363,
+        "LONGITUDE": 142.965851,
+        "REGHH": 78,
+        "TOTPOP2000": 319,
+        "MALE2000": 154,
+        "FEMALE2000": 165,
+        "POP2008": 379,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052104039,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

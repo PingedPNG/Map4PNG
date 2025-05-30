@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11666,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2598520002697,
+          -6.274302000137141
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11666,
+        "CU_NAME": "SAURUAN (KAIAPIT)",
+        "CU_NO": "008",
+        "GEOCODE": "12061821008",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "21",
+        "WARD_NAME": "SAURUAN",
+        "LATITUDE": -6.275717,
+        "LONGITUDE": 146.258819,
+        "REGHH": 27,
+        "TOTPOP2000": 144,
+        "MALE2000": 72,
+        "FEMALE2000": 72,
+        "POP2008": 179,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061821008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11667,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2709700003653,
+          -6.288912000288519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11667,
+        "CU_NAME": "RAGIDUMPIAT",
+        "CU_NO": "017",
+        "GEOCODE": "12061821017",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "21",
+        "WARD_NAME": "SAURUAN",
+        "LATITUDE": -6.290327,
+        "LONGITUDE": 146.269937,
+        "REGHH": 54,
+        "TOTPOP2000": 294,
+        "MALE2000": 144,
+        "FEMALE2000": 150,
+        "POP2008": 366,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061821017,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11668,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.26418999976875,
+          -6.271696999616779
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11668,
+        "CU_NAME": "SAURUAN",
+        "CU_NO": "018",
+        "GEOCODE": "12061821018",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "21",
+        "WARD_NAME": "SAURUAN",
+        "LATITUDE": -6.272998,
+        "LONGITUDE": 146.266,
+        "REGHH": 149,
+        "TOTPOP2000": 672,
+        "MALE2000": 337,
+        "FEMALE2000": 335,
+        "POP2008": 838,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061821018,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11669,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.26313100039545,
+          -6.267192999657141
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11669,
+        "CU_NAME": "AMPAN COMM.SCH",
+        "CU_NO": "403",
+        "GEOCODE": "12061821403",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "21",
+        "WARD_NAME": "SAURUAN",
+        "LATITUDE": -6.272998,
+        "LONGITUDE": 146.266,
+        "REGHH": 6,
+        "TOTPOP2000": 28,
+        "MALE2000": 15,
+        "FEMALE2000": 13,
+        "POP2008": 36,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061821403,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11670,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.26691699961987,
+          -6.269568000362881
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11670,
+        "CU_NAME": "YABIM GIRLS SCHOOL",
+        "CU_NO": "504",
+        "GEOCODE": "12061821504",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "21",
+        "WARD_NAME": "SAURUAN",
+        "LATITUDE": -6.272998,
+        "LONGITUDE": 146.266,
+        "REGHH": 4,
+        "TOTPOP2000": 20,
+        "MALE2000": 11,
+        "FEMALE2000": 9,
+        "POP2008": 28,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061821504,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11671,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.27936099971043,
+          -6.284646999659287
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11671,
+        "CU_NAME": "TSUIA SERVICE CENTRE",
+        "CU_NO": "505",
+        "GEOCODE": "12061821505",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "21",
+        "WARD_NAME": "SAURUAN",
+        "LATITUDE": -6.279828,
+        "LONGITUDE": 146.274986,
+        "REGHH": 5,
+        "TOTPOP2000": 32,
+        "MALE2000": 19,
+        "FEMALE2000": 13,
+        "POP2008": 40,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061821505,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6507,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.50426199959168,
+          -4.027161999826376
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6507,
+        "CU_NAME": "GAPUN",
+        "CU_NO": "001",
+        "GEOCODE": "14020819001",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "19",
+        "WARD_NAME": "GAPUN",
+        "LATITUDE": -4.028746,
+        "LONGITUDE": 144.50304,
+        "REGHH": 31,
+        "TOTPOP2000": 203,
+        "MALE2000": 105,
+        "FEMALE2000": 98,
+        "POP2008": 242,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020819001,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6508,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.55390099993122,
+          -4.053365000394422
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6508,
+        "CU_NAME": "SINAI/MANGUM",
+        "CU_NO": "002",
+        "GEOCODE": "14020819002",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "19",
+        "WARD_NAME": "GAPUN",
+        "LATITUDE": -4.054951,
+        "LONGITUDE": 144.55268,
+        "REGHH": 37,
+        "TOTPOP2000": 277,
+        "MALE2000": 137,
+        "FEMALE2000": 140,
+        "POP2008": 329,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020819002,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6509,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.53334299977973,
+          -3.9977420001931137
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6509,
+        "CU_NAME": "WOGAN",
+        "CU_NO": "003",
+        "GEOCODE": "14020819003",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "19",
+        "WARD_NAME": "GAPUN",
+        "LATITUDE": -3.999326,
+        "LONGITUDE": 144.532123,
+        "REGHH": 20,
+        "TOTPOP2000": 141,
+        "MALE2000": 76,
+        "FEMALE2000": 65,
+        "POP2008": 166,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020819003,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6510,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.54366199990147,
+          -4.000271999952815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6510,
+        "CU_NAME": "WOGAN COMMUNITY SCHOOL",
+        "CU_NO": "004",
+        "GEOCODE": "14020819004",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "19",
+        "WARD_NAME": "GAPUN",
+        "LATITUDE": -3.994842,
+        "LONGITUDE": 144.542411,
+        "REGHH": 3,
+        "TOTPOP2000": 24,
+        "MALE2000": 11,
+        "FEMALE2000": 13,
+        "POP2008": 32,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020819004,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

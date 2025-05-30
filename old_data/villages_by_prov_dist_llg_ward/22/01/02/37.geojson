@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.55713099959598,
+          -6.290053999892109
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16188,
+        "CU_NAME": "SIKOI",
+        "CU_NO": "003",
+        "GEOCODE": "09010237003",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "37",
+        "WARD_NAME": "YEU  2",
+        "LATITUDE": -6.249636,
+        "LONGITUDE": 144.599189,
+        "REGHH": 22,
+        "TOTPOP2000": 92,
+        "MALE2000": 46,
+        "FEMALE2000": 46,
+        "POP2008": 111,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010237003,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16189,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.62216000008402,
+          -6.194636000051332
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16189,
+        "CU_NAME": "NEW CAMP",
+        "CU_NO": "004",
+        "GEOCODE": "09010237004",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "37",
+        "WARD_NAME": "YEU  2",
+        "LATITUDE": -6.197628,
+        "LONGITUDE": 144.632996,
+        "REGHH": 18,
+        "TOTPOP2000": 103,
+        "MALE2000": 60,
+        "FEMALE2000": 43,
+        "POP2008": 127,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010237004,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

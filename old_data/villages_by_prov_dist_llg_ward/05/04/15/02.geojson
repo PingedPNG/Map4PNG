@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10246,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.81561699982478,
+          -9.814100000114877
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10246,
+        "CU_NAME": "BWAKERA",
+        "CU_NO": "007",
+        "GEOCODE": "05041502007",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "02",
+        "WARD_NAME": "BWAKERA",
+        "LATITUDE": -9.817837,
+        "LONGITUDE": 150.817277,
+        "REGHH": 212,
+        "TOTPOP2000": 984,
+        "MALE2000": 528,
+        "FEMALE2000": 456,
+        "POP2008": 1200,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041502007,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

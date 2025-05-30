@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15272,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1523640003984,
+          -5.6668630000273765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15272,
+        "CU_NAME": "TINAHAE",
+        "CU_NO": "003",
+        "GEOCODE": "01010528003",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "28",
+        "WARD_NAME": "TINAHAI",
+        "LATITUDE": -5.65987,
+        "LONGITUDE": 142.14906,
+        "REGHH": 14,
+        "TOTPOP2000": 86,
+        "MALE2000": 51,
+        "FEMALE2000": 35,
+        "POP2008": 111,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010528003,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15273,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.31301000001156,
+          -5.748213999576365
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15273,
+        "CU_NAME": "UMUIBI",
+        "CU_NO": "006",
+        "GEOCODE": "01010528006",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "28",
+        "WARD_NAME": "TINAHAI",
+        "LATITUDE": -5.672349,
+        "LONGITUDE": 142.276943,
+        "REGHH": 17,
+        "TOTPOP2000": 53,
+        "MALE2000": 33,
+        "FEMALE2000": 20,
+        "POP2008": 69,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010528006,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

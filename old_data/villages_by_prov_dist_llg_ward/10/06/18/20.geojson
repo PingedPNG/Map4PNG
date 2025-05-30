@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14964,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97957599963274,
+          -6.184040999792273
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14964,
+        "CU_NAME": "DIRE",
+        "CU_NO": "005",
+        "GEOCODE": "10061820005",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "20",
+        "WARD_NAME": "MARIBEBI-KUI",
+        "LATITUDE": -6.185452,
+        "LONGITUDE": 144.978526,
+        "REGHH": 29,
+        "TOTPOP2000": 120,
+        "MALE2000": 52,
+        "FEMALE2000": 68,
+        "POP2008": 136,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061820005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14965,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.98389600010034,
+          -6.187218999756965
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14965,
+        "CU_NAME": "GABAKININ",
+        "CU_NO": "006",
+        "GEOCODE": "10061820006",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "20",
+        "WARD_NAME": "MARIBEBI-KUI",
+        "LATITUDE": -6.18863,
+        "LONGITUDE": 144.982846,
+        "REGHH": 60,
+        "TOTPOP2000": 213,
+        "MALE2000": 105,
+        "FEMALE2000": 108,
+        "POP2008": 245,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061820006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14966,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99073900000496,
+          -6.187395999825469
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14966,
+        "CU_NAME": "IGIDI",
+        "CU_NO": "007",
+        "GEOCODE": "10061820007",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "20",
+        "WARD_NAME": "MARIBEBI-KUI",
+        "LATITUDE": -6.188807,
+        "LONGITUDE": 144.989689,
+        "REGHH": 94,
+        "TOTPOP2000": 321,
+        "MALE2000": 168,
+        "FEMALE2000": 153,
+        "POP2008": 370,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061820007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14967,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.98389600010034,
+          -6.183335999656606
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14967,
+        "CU_NAME": "SEGIMA (SUB-H/C)",
+        "CU_NO": "401",
+        "GEOCODE": "10061820401",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "20",
+        "WARD_NAME": "MARIBEBI-KUI",
+        "LATITUDE": -6.184747,
+        "LONGITUDE": 144.982846,
+        "REGHH": 4,
+        "TOTPOP2000": 11,
+        "MALE2000": 5,
+        "FEMALE2000": 6,
+        "POP2008": 11,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061820401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

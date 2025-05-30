@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10068,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9507980003275,
+          -9.283530999755783
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10068,
+        "CU_NAME": "EGOM",
+        "CU_NO": "004",
+        "GEOCODE": "05021109004",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "11",
+        "WARD_NO": "09",
+        "WARD_NAME": "IANABA",
+        "LATITUDE": -9.389516,
+        "LONGITUDE": 151.938921,
+        "REGHH": 20,
+        "TOTPOP2000": 125,
+        "MALE2000": 63,
+        "FEMALE2000": 62,
+        "POP2008": 152,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021109004,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10069,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.89800300013837,
+          -9.271421999825407
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10069,
+        "CU_NAME": "IANABA",
+        "CU_NO": "007",
+        "GEOCODE": "05021109007",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "11",
+        "WARD_NO": "09",
+        "WARD_NAME": "IANABA",
+        "LATITUDE": -9.275359,
+        "LONGITUDE": 151.896355,
+        "REGHH": 33,
+        "TOTPOP2000": 177,
+        "MALE2000": 88,
+        "FEMALE2000": 89,
+        "POP2008": 216,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021109007,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

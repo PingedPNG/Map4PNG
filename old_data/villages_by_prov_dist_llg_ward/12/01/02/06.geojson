@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10413,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8179729995544,
+          -7.895893999808209
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10413,
+        "CU_NAME": "BELAWOK",
+        "CU_NO": "001",
+        "GEOCODE": "12010206001",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "GATAIPA",
+        "LATITUDE": -7.897327,
+        "LONGITUDE": 146.816944,
+        "REGHH": 39,
+        "TOTPOP2000": 182,
+        "MALE2000": 95,
+        "FEMALE2000": 87,
+        "POP2008": 227,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010206001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10414,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.82438300017543,
+          -7.880911000442268
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10414,
+        "CU_NAME": "GATAIPA",
+        "CU_NO": "006",
+        "GEOCODE": "12010206006",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "GATAIPA",
+        "LATITUDE": -7.882344,
+        "LONGITUDE": 146.823354,
+        "REGHH": 48,
+        "TOTPOP2000": 189,
+        "MALE2000": 91,
+        "FEMALE2000": 98,
+        "POP2008": 235,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010206006,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

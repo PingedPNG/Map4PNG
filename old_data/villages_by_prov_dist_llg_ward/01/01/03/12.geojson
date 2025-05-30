@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8696989998091,
+          -7.948463000367099
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15117,
+        "CU_NAME": "KOTALE",
+        "CU_NO": "009",
+        "GEOCODE": "01010312009",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "KOTALE",
+        "LATITUDE": -7.949887,
+        "LONGITUDE": 142.868618,
+        "REGHH": 106,
+        "TOTPOP2000": 767,
+        "MALE2000": 394,
+        "FEMALE2000": 373,
+        "POP2008": 995,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010312009,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

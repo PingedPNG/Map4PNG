@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9810,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.85958499964806,
+          -10.394892999911974
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9810,
+        "CU_NAME": "LAIMODO - SUAIBINA",
+        "CU_NO": "026",
+        "GEOCODE": "05010625026",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "06",
+        "WARD_NO": "25",
+        "WARD_NAME": "SUIEABINA",
+        "LATITUDE": -10.396412,
+        "LONGITUDE": 149.863902,
+        "REGHH": 72,
+        "TOTPOP2000": 429,
+        "MALE2000": 234,
+        "FEMALE2000": 195,
+        "POP2008": 523,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010625026,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.87286218204417,
+          -10.389928226906079
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22252,
+        "CU_NAME": "NUBE",
+        "CU_NO": "",
+        "GEOCODE": "6665",
+        "PROV_KEY": "5",
+        "DIST_NO": "1",
+        "LLG_NO": "06",
+        "WARD_NO": "25",
+        "WARD_NAME": "SUIEABINA",
+        "LATITUDE": -10.389970082,
+        "LONGITUDE": 149.872820327,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 6665,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

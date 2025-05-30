@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17157,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.07282300028135,
+          -5.570284999752914
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17157,
+        "CU_NAME": "SINANGAMANDA",
+        "CU_NO": "001",
+        "GEOCODE": "09051013001",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUMBAKOSA.1",
+        "LATITUDE": -5.57122,
+        "LONGITUDE": 144.073155,
+        "REGHH": 30,
+        "TOTPOP2000": 146,
+        "MALE2000": 90,
+        "FEMALE2000": 56,
+        "POP2008": 178,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051013001,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17158,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0807889998125,
+          -5.571308000164038
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17158,
+        "CU_NAME": "TRAKANINGA",
+        "CU_NO": "002",
+        "GEOCODE": "09051013002",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUMBAKOSA.1",
+        "LATITUDE": -5.572243,
+        "LONGITUDE": 144.081121,
+        "REGHH": 28,
+        "TOTPOP2000": 98,
+        "MALE2000": 50,
+        "FEMALE2000": 48,
+        "POP2008": 120,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051013002,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17159,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.06166300004747,
+          -5.571685999609144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17159,
+        "CU_NAME": "PENUNGA",
+        "CU_NO": "003",
+        "GEOCODE": "09051013003",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUMBAKOSA.1",
+        "LATITUDE": -5.572621,
+        "LONGITUDE": 144.061993,
+        "REGHH": 19,
+        "TOTPOP2000": 93,
+        "MALE2000": 54,
+        "FEMALE2000": 39,
+        "POP2008": 113,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051013003,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

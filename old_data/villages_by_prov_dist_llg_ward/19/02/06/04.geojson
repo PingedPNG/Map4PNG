@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17985,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.23296100025004,
+          -5.088590999574933
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17985,
+        "CU_NAME": "SIVIGA",
+        "CU_NO": "022",
+        "GEOCODE": "19020604022",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "NAVO",
+        "LATITUDE": -5.09,
+        "LONGITUDE": 151.232,
+        "REGHH": 34,
+        "TOTPOP2000": 161,
+        "MALE2000": 85,
+        "FEMALE2000": 76,
+        "POP2008": 212,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020604022,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17986,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.23216000018397,
+          -5.092805999697077
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17986,
+        "CU_NAME": "NAVO PLANTATION DIV. 1",
+        "CU_NO": "510",
+        "GEOCODE": "19020604510",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "NAVO",
+        "LATITUDE": -5.09583,
+        "LONGITUDE": 151.234,
+        "REGHH": 199,
+        "TOTPOP2000": 1037,
+        "MALE2000": 605,
+        "FEMALE2000": 432,
+        "POP2008": 1366,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020604510,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17987,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20936899957974,
+          -5.076940000080867
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17987,
+        "CU_NAME": "NAVO PLANTATION DIV. 2",
+        "CU_NO": "511",
+        "GEOCODE": "19020604511",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "NAVO",
+        "LATITUDE": -5.07995,
+        "LONGITUDE": 151.206,
+        "REGHH": 129,
+        "TOTPOP2000": 575,
+        "MALE2000": 393,
+        "FEMALE2000": 182,
+        "POP2008": 758,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020604511,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17988,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.19496199979653,
+          -5.121350000302243
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17988,
+        "CU_NAME": "NAVO PLANTATION DIV. 3",
+        "CU_NO": "512",
+        "GEOCODE": "19020604512",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "NAVO",
+        "LATITUDE": -5.12276,
+        "LONGITUDE": 151.194,
+        "REGHH": 17,
+        "TOTPOP2000": 52,
+        "MALE2000": 35,
+        "FEMALE2000": 17,
+        "POP2008": 68,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020604512,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

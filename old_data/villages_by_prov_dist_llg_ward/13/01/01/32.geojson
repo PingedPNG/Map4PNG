@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7916,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38676100012015,
+          -4.5062290002680925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7916,
+        "CU_NAME": "MUAKA",
+        "CU_NO": "019",
+        "GEOCODE": "13010132019",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "32",
+        "WARD_NAME": "MUAKA",
+        "LATITUDE": -4.507623,
+        "LONGITUDE": 145.385719,
+        "REGHH": 23,
+        "TOTPOP2000": 143,
+        "MALE2000": 71,
+        "FEMALE2000": 72,
+        "POP2008": 177,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010132019,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7917,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38207799999975,
+          -4.526785000327436
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7917,
+        "CU_NAME": "SARAMUN",
+        "CU_NO": "023",
+        "GEOCODE": "13010132023",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "32",
+        "WARD_NAME": "MUAKA",
+        "LATITUDE": -4.52564,
+        "LONGITUDE": 145.377131,
+        "REGHH": 53,
+        "TOTPOP2000": 348,
+        "MALE2000": 197,
+        "FEMALE2000": 151,
+        "POP2008": 430,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010132023,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

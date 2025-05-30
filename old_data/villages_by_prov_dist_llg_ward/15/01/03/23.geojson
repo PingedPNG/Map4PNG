@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18431,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.94631099955302,
+          -2.9662749998913114
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18431,
+        "CU_NAME": "SARAI",
+        "CU_NO": "027",
+        "GEOCODE": "15010323027",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "SARAI",
+        "LATITUDE": -2.967202,
+        "LONGITUDE": 141.9452,
+        "REGHH": 42,
+        "TOTPOP2000": 293,
+        "MALE2000": 164,
+        "FEMALE2000": 129,
+        "POP2008": 354,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010323027,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

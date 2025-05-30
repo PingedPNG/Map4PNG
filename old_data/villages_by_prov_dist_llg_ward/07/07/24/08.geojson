@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.51500399963493,
+          -6.274288000390868
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21268,
+        "CU_NAME": "TOPUA 2",
+        "CU_NO": "001",
+        "GEOCODE": "07072408001",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "24",
+        "WARD_NO": "08",
+        "WARD_NAME": "TOPUA 2",
+        "LATITUDE": -6.277151,
+        "LONGITUDE": 143.514441,
+        "REGHH": 146,
+        "TOTPOP2000": 785,
+        "MALE2000": 393,
+        "FEMALE2000": 392,
+        "POP2008": 1090,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072408001,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

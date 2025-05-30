@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7686,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.38493799988885,
+          -7.338565000174583
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7686,
+        "CU_NAME": "MORERE",
+        "CU_NO": "004",
+        "GEOCODE": "02020807004",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "07",
+        "WARD_NAME": "MORERE",
+        "LATITUDE": -7.339987,
+        "LONGITUDE": 144.383878,
+        "REGHH": 17,
+        "TOTPOP2000": 128,
+        "MALE2000": 61,
+        "FEMALE2000": 67,
+        "POP2008": 157,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020807004,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7687,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4024340000292,
+          -7.337303999579888
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7687,
+        "CU_NAME": "MORERE TFI CAMP",
+        "CU_NO": "401",
+        "GEOCODE": "02020807401",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "07",
+        "WARD_NAME": "MORERE",
+        "LATITUDE": -7.338726,
+        "LONGITUDE": 144.401374,
+        "REGHH": 9,
+        "TOTPOP2000": 77,
+        "MALE2000": 59,
+        "FEMALE2000": 18,
+        "POP2008": 93,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020807401,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

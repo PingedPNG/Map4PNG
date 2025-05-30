@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19444,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.21126600032574,
+          -6.476884000096504
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19444,
+        "CU_NAME": "WALLA",
+        "CU_NO": "001",
+        "GEOCODE": "07010421001",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "21",
+        "WARD_NAME": "WANU",
+        "LATITUDE": -6.479712,
+        "LONGITUDE": 144.212249,
+        "REGHH": 32,
+        "TOTPOP2000": 132,
+        "MALE2000": 71,
+        "FEMALE2000": 61,
+        "POP2008": 184,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010421001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19445,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.21301800018068,
+          -6.4751059999418885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19445,
+        "CU_NAME": "BELIPINI",
+        "CU_NO": "002",
+        "GEOCODE": "07010421002",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "21",
+        "WARD_NAME": "WANU",
+        "LATITUDE": -6.479712,
+        "LONGITUDE": 144.212249,
+        "REGHH": 24,
+        "TOTPOP2000": 106,
+        "MALE2000": 58,
+        "FEMALE2000": 48,
+        "POP2008": 147,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010421002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19446,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.21072100037395,
+          -6.474413000359618
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19446,
+        "CU_NAME": "WANU",
+        "CU_NO": "003",
+        "GEOCODE": "07010421003",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "21",
+        "WARD_NAME": "WANU",
+        "LATITUDE": -6.479712,
+        "LONGITUDE": 144.212249,
+        "REGHH": 55,
+        "TOTPOP2000": 249,
+        "MALE2000": 123,
+        "FEMALE2000": 126,
+        "POP2008": 345,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010421003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19447,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.21002299966176,
+          -6.47565500007812
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19447,
+        "CU_NAME": "YOLI SCHOOL",
+        "CU_NO": "801",
+        "GEOCODE": "07010421801",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "21",
+        "WARD_NAME": "WANU",
+        "LATITUDE": -6.479712,
+        "LONGITUDE": 144.212249,
+        "REGHH": 35,
+        "TOTPOP2000": 180,
+        "MALE2000": 94,
+        "FEMALE2000": 86,
+        "POP2008": 251,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010421801,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

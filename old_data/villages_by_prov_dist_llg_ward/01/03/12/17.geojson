@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15598,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1978460003927,
+          -8.409717000439173
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15598,
+        "CU_NAME": "SEPE",
+        "CU_NO": "020",
+        "GEOCODE": "01031217020",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "17",
+        "WARD_NAME": "SEPE",
+        "LATITUDE": -8.410159,
+        "LONGITUDE": 143.193737,
+        "REGHH": 15,
+        "TOTPOP2000": 105,
+        "MALE2000": 56,
+        "FEMALE2000": 49,
+        "POP2008": 136,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031217020,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15599,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.22810700013804,
+          -8.457565000024658
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15599,
+        "CU_NAME": "AUTI",
+        "CU_NO": "030",
+        "GEOCODE": "01031217030",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "17",
+        "WARD_NAME": "SEPE",
+        "LATITUDE": -8.458994,
+        "LONGITUDE": 143.227029,
+        "REGHH": 14,
+        "TOTPOP2000": 125,
+        "MALE2000": 62,
+        "FEMALE2000": 63,
+        "POP2008": 162,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031217030,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

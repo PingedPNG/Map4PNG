@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4975,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.14346299981764,
+          -4.659464999909744
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4975,
+        "CU_NAME": "MARANAGI",
+        "CU_NO": "004",
+        "GEOCODE": "18031303004",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "03",
+        "WARD_NAME": "MARANAGI",
+        "LATITUDE": -4.66087,
+        "LONGITUDE": 152.142516,
+        "REGHH": 25,
+        "TOTPOP2000": 92,
+        "MALE2000": 44,
+        "FEMALE2000": 48,
+        "POP2008": 111,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031303004,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

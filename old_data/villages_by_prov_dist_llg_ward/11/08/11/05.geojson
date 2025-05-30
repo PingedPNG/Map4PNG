@@ -1,0 +1,581 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30718,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5110837995777,
+          -6.175657890199432
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30718,
+        "CU_NAME": "HALO BODU/SEKAGU",
+        "CU_NO": "003",
+        "GEOCODE": "11081105003",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGITU",
+        "LATITUDE": -6.175658,
+        "LONGITUDE": 145.511084,
+        "REGHH": 23,
+        "TOTPOP2000": 97,
+        "MALE2000": 43,
+        "FEMALE2000": 54,
+        "POP2008": 113,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30719,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.48073472023123,
+          -6.14185874978142
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30719,
+        "CU_NAME": "KOROPA",
+        "CU_NO": "008",
+        "GEOCODE": "11081105008",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGITU",
+        "LATITUDE": -6.141859,
+        "LONGITUDE": 145.480735,
+        "REGHH": 51,
+        "TOTPOP2000": 178,
+        "MALE2000": 94,
+        "FEMALE2000": 84,
+        "POP2008": 211,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30720,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.53312768029832,
+          -6.178905450026434
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30720,
+        "CU_NAME": "LOKIYAFISE",
+        "CU_NO": "010",
+        "GEOCODE": "11081105010",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGITU",
+        "LATITUDE": -6.178905,
+        "LONGITUDE": 145.533128,
+        "REGHH": 41,
+        "TOTPOP2000": 128,
+        "MALE2000": 61,
+        "FEMALE2000": 67,
+        "POP2008": 152,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30721,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.48569768020388,
+          -6.135049440279374
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30721,
+        "CU_NAME": "BEGO BEGOFA",
+        "CU_NO": "032",
+        "GEOCODE": "11081105032",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGITU",
+        "LATITUDE": -6.135049,
+        "LONGITUDE": 145.485698,
+        "REGHH": 46,
+        "TOTPOP2000": 159,
+        "MALE2000": 78,
+        "FEMALE2000": 81,
+        "POP2008": 190,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30722,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.51968635993762,
+          -6.171304589635042
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30722,
+        "CU_NAME": "BAKO",
+        "CU_NO": "067",
+        "GEOCODE": "11081105067",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGITU",
+        "LATITUDE": -6.171305,
+        "LONGITUDE": 145.519686,
+        "REGHH": 57,
+        "TOTPOP2000": 223,
+        "MALE2000": 113,
+        "FEMALE2000": 110,
+        "POP2008": 265,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30723,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5126109203577,
+          -6.133207049565613
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30723,
+        "CU_NAME": "GOGOPA GOSALO",
+        "CU_NO": "073",
+        "GEOCODE": "11081105073",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGITU",
+        "LATITUDE": -6.133207,
+        "LONGITUDE": 145.512611,
+        "REGHH": 44,
+        "TOTPOP2000": 166,
+        "MALE2000": 76,
+        "FEMALE2000": 90,
+        "POP2008": 198,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.51500744004136,
+          -6.1575742802288005
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30724,
+        "CU_NAME": "BALE-EHI",
+        "CU_NO": "074",
+        "GEOCODE": "11081105074",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGITU",
+        "LATITUDE": -6.157574,
+        "LONGITUDE": 145.515007,
+        "REGHH": 46,
+        "TOTPOP2000": 190,
+        "MALE2000": 96,
+        "FEMALE2000": 94,
+        "POP2008": 226,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.51020971970286,
+          -6.148366110107872
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30725,
+        "CU_NAME": "FOLE-E",
+        "CU_NO": "077",
+        "GEOCODE": "11081105077",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGITU",
+        "LATITUDE": -6.148366,
+        "LONGITUDE": 145.51021,
+        "REGHH": 47,
+        "TOTPOP2000": 199,
+        "MALE2000": 106,
+        "FEMALE2000": 93,
+        "POP2008": 237,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30726,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50755435984593,
+          -6.142390289580135
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30726,
+        "CU_NAME": "GARDEN",
+        "CU_NO": "090",
+        "GEOCODE": "11081105090",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGITU",
+        "LATITUDE": -6.14239,
+        "LONGITUDE": 145.507554,
+        "REGHH": 46,
+        "TOTPOP2000": 212,
+        "MALE2000": 106,
+        "FEMALE2000": 106,
+        "POP2008": 252,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30727,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.48727411980485,
+          -6.160430970412904
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30727,
+        "CU_NAME": "LOGOFE",
+        "CU_NO": "094",
+        "GEOCODE": "11081105094",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGITU",
+        "LATITUDE": -6.160431,
+        "LONGITUDE": 145.487274,
+        "REGHH": 47,
+        "TOTPOP2000": 176,
+        "MALE2000": 91,
+        "FEMALE2000": 85,
+        "POP2008": 208,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30728,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50459947988213,
+          -6.153287040264672
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30728,
+        "CU_NAME": "YASIGOSA",
+        "CU_NO": "097",
+        "GEOCODE": "11081105097",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGITU",
+        "LATITUDE": -6.153287,
+        "LONGITUDE": 145.504599,
+        "REGHH": 17,
+        "TOTPOP2000": 56,
+        "MALE2000": 30,
+        "FEMALE2000": 26,
+        "POP2008": 64,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30729,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.49763852040144,
+          -6.153866729765696
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30729,
+        "CU_NAME": "MALEPATOGA",
+        "CU_NO": "098",
+        "GEOCODE": "11081105098",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGITU",
+        "LATITUDE": -6.153867,
+        "LONGITUDE": 145.497639,
+        "REGHH": 50,
+        "TOTPOP2000": 195,
+        "MALE2000": 102,
+        "FEMALE2000": 93,
+        "POP2008": 232,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30730,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50544979966855,
+          -6.149304630004622
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30730,
+        "CU_NAME": "GANE",
+        "CU_NO": "101",
+        "GEOCODE": "11081105101",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGITU",
+        "LATITUDE": -6.149305,
+        "LONGITUDE": 145.50545,
+        "REGHH": 44,
+        "TOTPOP2000": 214,
+        "MALE2000": 106,
+        "FEMALE2000": 108,
+        "POP2008": 254,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30731,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.49126903963452,
+          -6.152822460388165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30731,
+        "CU_NAME": "MAGITU NO 2",
+        "CU_NO": "103",
+        "GEOCODE": "11081105103",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGITU",
+        "LATITUDE": -6.152822,
+        "LONGITUDE": 145.491269,
+        "REGHH": 48,
+        "TOTPOP2000": 194,
+        "MALE2000": 94,
+        "FEMALE2000": 100,
+        "POP2008": 231,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30732,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5094130399799,
+          -6.1591022103986575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30732,
+        "CU_NAME": "FOPAHEPA",
+        "CU_NO": "108",
+        "GEOCODE": "11081105108",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGITU",
+        "LATITUDE": -6.159102,
+        "LONGITUDE": 145.509413,
+        "REGHH": 46,
+        "TOTPOP2000": 168,
+        "MALE2000": 84,
+        "FEMALE2000": 84,
+        "POP2008": 200,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30733,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.48608863977893,
+          -6.166168469699073
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30733,
+        "CU_NAME": "FACTORY COMPOUND",
+        "CU_NO": "109",
+        "GEOCODE": "11081105109",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGITU",
+        "LATITUDE": -6.166168,
+        "LONGITUDE": 145.486089,
+        "REGHH": 50,
+        "TOTPOP2000": 142,
+        "MALE2000": 73,
+        "FEMALE2000": 69,
+        "POP2008": 168,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30734,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.49744304016428,
+          -6.1489819802341685
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30734,
+        "CU_NAME": "SIOIFAI",
+        "CU_NO": "112",
+        "GEOCODE": "11081105112",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGITU",
+        "LATITUDE": -6.148982,
+        "LONGITUDE": 145.497443,
+        "REGHH": 37,
+        "TOTPOP2000": 108,
+        "MALE2000": 59,
+        "FEMALE2000": 49,
+        "POP2008": 129,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30735,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50004944002967,
+          -6.145127549796541
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30735,
+        "CU_NAME": "KOSAHEPAI",
+        "CU_NO": "115",
+        "GEOCODE": "11081105115",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MAGITU",
+        "LATITUDE": -6.145128,
+        "LONGITUDE": 145.500049,
+        "REGHH": 47,
+        "TOTPOP2000": 152,
+        "MALE2000": 72,
+        "FEMALE2000": 80,
+        "POP2008": 181,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

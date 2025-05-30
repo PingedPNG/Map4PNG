@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14722,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.06829599996047,
+          -5.95820699955334
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14722,
+        "CU_NAME": "GANDEKOGLKUNA 2",
+        "CU_NO": "004",
+        "GEOCODE": "10051505004",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": "05",
+        "WARD_NAME": "NUNUIOMANE 2",
+        "LATITUDE": -5.961343,
+        "LONGITUDE": 145.066724,
+        "REGHH": 66,
+        "TOTPOP2000": 331,
+        "MALE2000": 181,
+        "FEMALE2000": 150,
+        "POP2008": 381,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051505004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14723,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.06142899984854,
+          -5.956166999907055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14723,
+        "CU_NAME": "KAMBIANGE",
+        "CU_NO": "005",
+        "GEOCODE": "10051505005",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": "05",
+        "WARD_NAME": "NUNUIOMANE 2",
+        "LATITUDE": -5.957576,
+        "LONGITUDE": 145.060379,
+        "REGHH": 45,
+        "TOTPOP2000": 247,
+        "MALE2000": 129,
+        "FEMALE2000": 118,
+        "POP2008": 286,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051505005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.06986400032338,
+          -5.952376999598812
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14724,
+        "CU_NAME": "NIGLGUMA",
+        "CU_NO": "006",
+        "GEOCODE": "10051505006",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": "05",
+        "WARD_NAME": "NUNUIOMANE 2",
+        "LATITUDE": -5.953786,
+        "LONGITUDE": 145.068816,
+        "REGHH": 71,
+        "TOTPOP2000": 323,
+        "MALE2000": 161,
+        "FEMALE2000": 162,
+        "POP2008": 372,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051505006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.07603699990773,
+          -5.954266000375583
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14725,
+        "CU_NAME": "KEREFUN",
+        "CU_NO": "007",
+        "GEOCODE": "10051505007",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": "05",
+        "WARD_NAME": "NUNUIOMANE 2",
+        "LATITUDE": -5.955675,
+        "LONGITUDE": 145.074989,
+        "REGHH": 35,
+        "TOTPOP2000": 144,
+        "MALE2000": 80,
+        "FEMALE2000": 64,
+        "POP2008": 168,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051505007,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

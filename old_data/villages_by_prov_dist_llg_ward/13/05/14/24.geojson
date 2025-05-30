@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.62903200022674,
+          -5.005678999985832
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9126,
+        "CU_NAME": "ASIWO",
+        "CU_NO": "002",
+        "GEOCODE": "13051424002",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "24",
+        "WARD_NAME": "WARD 24",
+        "LATITUDE": -5.002847,
+        "LONGITUDE": 145.633644,
+        "REGHH": 4,
+        "TOTPOP2000": 26,
+        "MALE2000": 17,
+        "FEMALE2000": 9,
+        "POP2008": 34,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051424002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.64259999999013,
+          -4.99593100011549
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9127,
+        "CU_NAME": "BALBE",
+        "CU_NO": "006",
+        "GEOCODE": "13051424006",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "24",
+        "WARD_NAME": "WARD 24",
+        "LATITUDE": -4.993432,
+        "LONGITUDE": 145.636985,
+        "REGHH": 23,
+        "TOTPOP2000": 98,
+        "MALE2000": 53,
+        "FEMALE2000": 45,
+        "POP2008": 122,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051424006,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5858920001158,
+          -4.987190999964639
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9128,
+        "CU_NAME": "MOIK",
+        "CU_NO": "010",
+        "GEOCODE": "13051424010",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "24",
+        "WARD_NAME": "WARD 24",
+        "LATITUDE": -4.983308,
+        "LONGITUDE": 145.594032,
+        "REGHH": 9,
+        "TOTPOP2000": 59,
+        "MALE2000": 33,
+        "FEMALE2000": 26,
+        "POP2008": 75,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051424010,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6611249999189,
+          -4.9916830002702
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9129,
+        "CU_NAME": "SIGU",
+        "CU_NO": "012",
+        "GEOCODE": "13051424012",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "24",
+        "WARD_NAME": "WARD 24",
+        "LATITUDE": -4.988137,
+        "LONGITUDE": 145.662564,
+        "REGHH": 4,
+        "TOTPOP2000": 15,
+        "MALE2000": 8,
+        "FEMALE2000": 7,
+        "POP2008": 15,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051424012,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

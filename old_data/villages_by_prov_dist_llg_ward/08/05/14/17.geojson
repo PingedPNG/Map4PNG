@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5982,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.87613599967676,
+          -5.652725000058638
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5982,
+        "CU_NAME": "USK",
+        "CU_NO": "002",
+        "GEOCODE": "08051417002",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "17",
+        "WARD_NAME": "KWIA",
+        "LATITUDE": -5.654129,
+        "LONGITUDE": 143.875073,
+        "REGHH": 95,
+        "TOTPOP2000": 522,
+        "MALE2000": 244,
+        "FEMALE2000": 278,
+        "POP2008": 657,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051417002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5983,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.87906799998825,
+          -5.6471360004260305
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5983,
+        "CU_NAME": "KWIA",
+        "CU_NO": "003",
+        "GEOCODE": "08051417003",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "17",
+        "WARD_NAME": "KWIA",
+        "LATITUDE": -5.64854,
+        "LONGITUDE": 143.878005,
+        "REGHH": 115,
+        "TOTPOP2000": 638,
+        "MALE2000": 339,
+        "FEMALE2000": 299,
+        "POP2008": 803,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051417003,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

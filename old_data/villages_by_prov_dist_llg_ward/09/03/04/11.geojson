@@ -1,0 +1,261 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16571,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2274860000789,
+          -5.888332999568206
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16571,
+        "CU_NAME": "KOROBUK",
+        "CU_NO": "013",
+        "GEOCODE": "09030411013",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "KOROBUK",
+        "LATITUDE": -5.889272,
+        "LONGITUDE": 144.22782,
+        "REGHH": 23,
+        "TOTPOP2000": 106,
+        "MALE2000": 52,
+        "FEMALE2000": 54,
+        "POP2008": 130,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030411013,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16572,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.22508700006506,
+          -5.889210999587931
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16572,
+        "CU_NAME": "KILIPINGA",
+        "CU_NO": "014",
+        "GEOCODE": "09030411014",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "KOROBUK",
+        "LATITUDE": -5.89015,
+        "LONGITUDE": 144.225421,
+        "REGHH": 24,
+        "TOTPOP2000": 119,
+        "MALE2000": 56,
+        "FEMALE2000": 63,
+        "POP2008": 144,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030411014,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16573,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.22347300027877,
+          -5.913450999563906
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16573,
+        "CU_NAME": "KUTA",
+        "CU_NO": "015",
+        "GEOCODE": "09030411015",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "KOROBUK",
+        "LATITUDE": -5.91439,
+        "LONGITUDE": 144.223807,
+        "REGHH": 32,
+        "TOTPOP2000": 148,
+        "MALE2000": 62,
+        "FEMALE2000": 86,
+        "POP2008": 180,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030411015,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16574,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.23099800015768,
+          -5.905450000217286
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16574,
+        "CU_NAME": "POU",
+        "CU_NO": "016",
+        "GEOCODE": "09030411016",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "KOROBUK",
+        "LATITUDE": -5.906389,
+        "LONGITUDE": 144.231332,
+        "REGHH": 37,
+        "TOTPOP2000": 178,
+        "MALE2000": 96,
+        "FEMALE2000": 82,
+        "POP2008": 217,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030411016,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16575,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2251229999266,
+          -5.899387000309787
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16575,
+        "CU_NAME": "GAMBA/KONTPANG",
+        "CU_NO": "017",
+        "GEOCODE": "09030411017",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "KOROBUK",
+        "LATITUDE": -5.900326,
+        "LONGITUDE": 144.225457,
+        "REGHH": 32,
+        "TOTPOP2000": 145,
+        "MALE2000": 66,
+        "FEMALE2000": 79,
+        "POP2008": 177,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030411017,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16576,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2410739998653,
+          -5.897017999880745
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16576,
+        "CU_NAME": "GATIK (KURKUM)",
+        "CU_NO": "018",
+        "GEOCODE": "09030411018",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "KOROBUK",
+        "LATITUDE": -5.897957,
+        "LONGITUDE": 144.241408,
+        "REGHH": 12,
+        "TOTPOP2000": 57,
+        "MALE2000": 30,
+        "FEMALE2000": 27,
+        "POP2008": 69,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030411018,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16577,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.23014500039153,
+          -5.893170999641882
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16577,
+        "CU_NAME": "KIA",
+        "CU_NO": "019",
+        "GEOCODE": "09030411019",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "KOROBUK",
+        "LATITUDE": -5.89411,
+        "LONGITUDE": 144.230479,
+        "REGHH": 29,
+        "TOTPOP2000": 136,
+        "MALE2000": 69,
+        "FEMALE2000": 67,
+        "POP2008": 166,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030411019,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16578,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2293349999104,
+          -5.897187999626453
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16578,
+        "CU_NAME": "PIPIRPENG",
+        "CU_NO": "020",
+        "GEOCODE": "09030411020",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "KOROBUK",
+        "LATITUDE": -5.898127,
+        "LONGITUDE": 144.229669,
+        "REGHH": 56,
+        "TOTPOP2000": 269,
+        "MALE2000": 137,
+        "FEMALE2000": 132,
+        "POP2008": 328,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030411020,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

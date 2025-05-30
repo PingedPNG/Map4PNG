@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14887,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.04081299972017,
+          -6.07487299988901
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14887,
+        "CU_NAME": "DUMUN KUL",
+        "CU_NO": "003",
+        "GEOCODE": "10061711003",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "11",
+        "WARD_NAME": "KAPMA (GAREN)",
+        "LATITUDE": -6.076283,
+        "LONGITUDE": 145.039764,
+        "REGHH": 80,
+        "TOTPOP2000": 348,
+        "MALE2000": 179,
+        "FEMALE2000": 169,
+        "POP2008": 401,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061711003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.04018400039138,
+          -6.072924999988686
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14888,
+        "CU_NAME": "BIL",
+        "CU_NO": "004",
+        "GEOCODE": "10061711004",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "11",
+        "WARD_NAME": "KAPMA (GAREN)",
+        "LATITUDE": -6.074335,
+        "LONGITUDE": 145.039135,
+        "REGHH": 39,
+        "TOTPOP2000": 208,
+        "MALE2000": 109,
+        "FEMALE2000": 99,
+        "POP2008": 240,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061711004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14889,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.04549299970222,
+          -6.0733319998718684
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14889,
+        "CU_NAME": "KURALBA",
+        "CU_NO": "005",
+        "GEOCODE": "10061711005",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "11",
+        "WARD_NAME": "KAPMA (GAREN)",
+        "LATITUDE": -6.074742,
+        "LONGITUDE": 145.044444,
+        "REGHH": 55,
+        "TOTPOP2000": 277,
+        "MALE2000": 146,
+        "FEMALE2000": 131,
+        "POP2008": 319,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061711005,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

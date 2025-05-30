@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.82694471732486,
+          -9.642403928898148
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10265,
+        "CU_NAME": "DAGUIARA",
+        "CU_NO": "004",
+        "GEOCODE": "05041520004",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "20",
+        "WARD_NAME": "DAGUIARA",
+        "LATITUDE": -9.645406,
+        "LONGITUDE": 150.835098,
+        "REGHH": 65,
+        "TOTPOP2000": 334,
+        "MALE2000": 167,
+        "FEMALE2000": 167,
+        "POP2008": 407,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041520004,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

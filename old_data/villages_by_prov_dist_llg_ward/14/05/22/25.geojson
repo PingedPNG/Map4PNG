@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.92711499995733,
+          -3.873993999723268
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7204,
+        "CU_NAME": "NUNGWAIKO 3",
+        "CU_NO": "012",
+        "GEOCODE": "14052225012",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "22",
+        "WARD_NO": "25",
+        "WARD_NAME": "NUNGWAIKO",
+        "LATITUDE": -3.875574,
+        "LONGITUDE": 142.925874,
+        "REGHH": 23,
+        "TOTPOP2000": 132,
+        "MALE2000": 72,
+        "FEMALE2000": 60,
+        "POP2008": 156,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052225012,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7205,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.949121000334,
+          -3.8585940000130563
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7205,
+        "CU_NAME": "NUNGWAIKO 2",
+        "CU_NO": "013",
+        "GEOCODE": "14052225013",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "22",
+        "WARD_NO": "25",
+        "WARD_NAME": "NUNGWAIKO",
+        "LATITUDE": -3.85814,
+        "LONGITUDE": 142.944318,
+        "REGHH": 65,
+        "TOTPOP2000": 318,
+        "MALE2000": 169,
+        "FEMALE2000": 149,
+        "POP2008": 378,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052225013,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7206,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.94774699992422,
+          -3.851756000339094
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7206,
+        "CU_NAME": "NUNGWAIKO 1",
+        "CU_NO": "014",
+        "GEOCODE": "14052225014",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "22",
+        "WARD_NO": "25",
+        "WARD_NAME": "NUNGWAIKO",
+        "LATITUDE": -3.856914,
+        "LONGITUDE": 142.944481,
+        "REGHH": 106,
+        "TOTPOP2000": 481,
+        "MALE2000": 236,
+        "FEMALE2000": 245,
+        "POP2008": 573,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052225014,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

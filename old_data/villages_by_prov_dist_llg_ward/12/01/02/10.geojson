@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10431,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0164289998985,
+          -7.743740999747274
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10431,
+        "CU_NAME": "BAPI",
+        "CU_NO": "001",
+        "GEOCODE": "12010210001",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "10",
+        "WARD_NAME": "TIMANIGOSA",
+        "LATITUDE": -7.741306,
+        "LONGITUDE": 147.016511,
+        "REGHH": 48,
+        "TOTPOP2000": 267,
+        "MALE2000": 136,
+        "FEMALE2000": 131,
+        "POP2008": 333,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010210001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10432,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0873149997875,
+          -7.846509000390029
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10432,
+        "CU_NAME": "KAPISO",
+        "CU_NO": "003",
+        "GEOCODE": "12010210003",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "10",
+        "WARD_NAME": "TIMANIGOSA",
+        "LATITUDE": -7.847942,
+        "LONGITUDE": 147.086289,
+        "REGHH": 59,
+        "TOTPOP2000": 324,
+        "MALE2000": 161,
+        "FEMALE2000": 163,
+        "POP2008": 404,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010210003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10433,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0494199996333,
+          -7.7765510001285065
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10433,
+        "CU_NAME": "KORI",
+        "CU_NO": "007",
+        "GEOCODE": "12010210007",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "10",
+        "WARD_NAME": "TIMANIGOSA",
+        "LATITUDE": -7.781299,
+        "LONGITUDE": 147.044517,
+        "REGHH": 24,
+        "TOTPOP2000": 111,
+        "MALE2000": 63,
+        "FEMALE2000": 48,
+        "POP2008": 138,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010210007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10434,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.08458399975189,
+          -7.820428000052118
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10434,
+        "CU_NAME": "GAORE C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "12010210401",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "10",
+        "WARD_NAME": "TIMANIGOSA",
+        "LATITUDE": -7.821861,
+        "LONGITUDE": 147.083558,
+        "REGHH": 3,
+        "TOTPOP2000": 25,
+        "MALE2000": 12,
+        "FEMALE2000": 13,
+        "POP2008": 33,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010210401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6392030004182,
+          -3.447716000093294
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6120,
+        "CU_NAME": "KING",
+        "CU_NO": "041",
+        "GEOCODE": "14010220041",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "20",
+        "WARD_NAME": "KING",
+        "LATITUDE": -3.449293,
+        "LONGITUDE": 142.637959,
+        "REGHH": 37,
+        "TOTPOP2000": 150,
+        "MALE2000": 79,
+        "FEMALE2000": 71,
+        "POP2008": 178,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010220041,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.63622499978396,
+          -3.4533269998411242
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6121,
+        "CU_NAME": "MUP",
+        "CU_NO": "046",
+        "GEOCODE": "14010220046",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "20",
+        "WARD_NAME": "KING",
+        "LATITUDE": -3.447877,
+        "LONGITUDE": 142.636406,
+        "REGHH": 4,
+        "TOTPOP2000": 21,
+        "MALE2000": 10,
+        "FEMALE2000": 11,
+        "POP2008": 21,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010220046,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7723,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2638359998316,
+          -7.7865370001823635
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7723,
+        "CU_NAME": "AVAVU",
+        "CU_NO": "002",
+        "GEOCODE": "02020901002",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "01",
+        "WARD_NAME": "AVAVU",
+        "LATITUDE": -7.787965,
+        "LONGITUDE": 145.262786,
+        "REGHH": 26,
+        "TOTPOP2000": 185,
+        "MALE2000": 88,
+        "FEMALE2000": 97,
+        "POP2008": 227,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020901002,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26445699969088,
+          -7.78992599998486
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7724,
+        "CU_NAME": "ERE",
+        "CU_NO": "003",
+        "GEOCODE": "02020901003",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "01",
+        "WARD_NAME": "AVAVU",
+        "LATITUDE": -7.791354,
+        "LONGITUDE": 145.263407,
+        "REGHH": 18,
+        "TOTPOP2000": 112,
+        "MALE2000": 55,
+        "FEMALE2000": 57,
+        "POP2008": 136,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020901003,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27478300013536,
+          -7.816314000090983
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7725,
+        "CU_NAME": "HURUTA",
+        "CU_NO": "005",
+        "GEOCODE": "02020901005",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "01",
+        "WARD_NAME": "AVAVU",
+        "LATITUDE": -7.817743,
+        "LONGITUDE": 145.273733,
+        "REGHH": 20,
+        "TOTPOP2000": 124,
+        "MALE2000": 63,
+        "FEMALE2000": 61,
+        "POP2008": 152,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020901005,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7726,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27437200006784,
+          -7.763635999901453
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7726,
+        "CU_NAME": "KILAVI",
+        "CU_NO": "007",
+        "GEOCODE": "02020901007",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "01",
+        "WARD_NAME": "AVAVU",
+        "LATITUDE": -7.768106,
+        "LONGITUDE": 145.271563,
+        "REGHH": 24,
+        "TOTPOP2000": 135,
+        "MALE2000": 68,
+        "FEMALE2000": 67,
+        "POP2008": 167,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020901007,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7727,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2761029998536,
+          -7.770956000219201
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7727,
+        "CU_NAME": "HEPERE",
+        "CU_NO": "008",
+        "GEOCODE": "02020901008",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "01",
+        "WARD_NAME": "AVAVU",
+        "LATITUDE": -7.77079,
+        "LONGITUDE": 145.275933,
+        "REGHH": 22,
+        "TOTPOP2000": 183,
+        "MALE2000": 92,
+        "FEMALE2000": 91,
+        "POP2008": 225,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020901008,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7728,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.25587999986215,
+          -7.793842999854519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7728,
+        "CU_NAME": "MURO STATION",
+        "CU_NO": "401",
+        "GEOCODE": "02020901401",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "01",
+        "WARD_NAME": "AVAVU",
+        "LATITUDE": -7.796747,
+        "LONGITUDE": 145.260647,
+        "REGHH": 2,
+        "TOTPOP2000": 20,
+        "MALE2000": 13,
+        "FEMALE2000": 7,
+        "POP2008": 28,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020901401,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

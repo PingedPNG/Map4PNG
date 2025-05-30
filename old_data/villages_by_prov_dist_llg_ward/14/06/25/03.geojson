@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7311,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.70479100040438,
+          -3.838483999836683
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7311,
+        "CU_NAME": "YARI/NUNGAWA",
+        "CU_NO": "047",
+        "GEOCODE": "14062503047",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "25",
+        "WARD_NO": "03",
+        "WARD_NAME": "YARI/NUNGAWA",
+        "LATITUDE": -3.840058,
+        "LONGITUDE": 143.705556,
+        "REGHH": 31,
+        "TOTPOP2000": 175,
+        "MALE2000": 92,
+        "FEMALE2000": 83,
+        "POP2008": 207,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062503047,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

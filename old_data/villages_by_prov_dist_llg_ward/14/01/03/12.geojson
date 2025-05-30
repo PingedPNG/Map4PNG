@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6187,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.66009399973836,
+          -3.736892000365458
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6187,
+        "CU_NAME": "BONGOS",
+        "CU_NO": "007",
+        "GEOCODE": "14010312007",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "BONGOS",
+        "LATITUDE": -3.736685,
+        "LONGITUDE": 142.658084,
+        "REGHH": 199,
+        "TOTPOP2000": 927,
+        "MALE2000": 466,
+        "FEMALE2000": 461,
+        "POP2008": 1103,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010312007,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

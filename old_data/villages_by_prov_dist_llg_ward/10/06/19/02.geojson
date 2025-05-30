@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14989,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99529899984907,
+          -6.004301000091061
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14989,
+        "CU_NAME": "KAGAI-KOGLO",
+        "CU_NO": "002",
+        "GEOCODE": "10061902002",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "02",
+        "WARD_NAME": "KAGAI",
+        "LATITUDE": -6.005712,
+        "LONGITUDE": 144.99425,
+        "REGHH": 66,
+        "TOTPOP2000": 272,
+        "MALE2000": 136,
+        "FEMALE2000": 136,
+        "POP2008": 313,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061902002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14990,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99607299956938,
+          -6.001415000102099
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14990,
+        "CU_NAME": "KAGAI-KANMA",
+        "CU_NO": "003",
+        "GEOCODE": "10061902003",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "02",
+        "WARD_NAME": "KAGAI",
+        "LATITUDE": -6.002826,
+        "LONGITUDE": 144.995024,
+        "REGHH": 88,
+        "TOTPOP2000": 356,
+        "MALE2000": 197,
+        "FEMALE2000": 159,
+        "POP2008": 411,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061902003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14991,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.98855099982882,
+          -6.0088969997966615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14991,
+        "CU_NAME": "KUNDAR/KAGIKUGO",
+        "CU_NO": "004",
+        "GEOCODE": "10061902004",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "02",
+        "WARD_NAME": "KAGAI",
+        "LATITUDE": -6.010307,
+        "LONGITUDE": 144.987501,
+        "REGHH": 93,
+        "TOTPOP2000": 420,
+        "MALE2000": 219,
+        "FEMALE2000": 201,
+        "POP2008": 485,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061902004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14992,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99114699993413,
+          -6.011014000295802
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14992,
+        "CU_NAME": "KOGOMAUGO",
+        "CU_NO": "005",
+        "GEOCODE": "10061902005",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "02",
+        "WARD_NAME": "KAGAI",
+        "LATITUDE": -6.012424,
+        "LONGITUDE": 144.990097,
+        "REGHH": 39,
+        "TOTPOP2000": 178,
+        "MALE2000": 99,
+        "FEMALE2000": 79,
+        "POP2008": 204,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061902005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14993,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.00463000027435,
+          -6.013915000077134
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14993,
+        "CU_NAME": "SUNGAL",
+        "CU_NO": "006",
+        "GEOCODE": "10061902006",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "02",
+        "WARD_NAME": "KAGAI",
+        "LATITUDE": -6.015325,
+        "LONGITUDE": 145.003581,
+        "REGHH": 68,
+        "TOTPOP2000": 307,
+        "MALE2000": 161,
+        "FEMALE2000": 146,
+        "POP2008": 355,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061902006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14994,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.98855099982882,
+          -6.005905000315465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14994,
+        "CU_NAME": "MEDAI GOGL",
+        "CU_NO": "007",
+        "GEOCODE": "10061902007",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "02",
+        "WARD_NAME": "KAGAI",
+        "LATITUDE": -6.007315,
+        "LONGITUDE": 144.987501,
+        "REGHH": 46,
+        "TOTPOP2000": 216,
+        "MALE2000": 109,
+        "FEMALE2000": 107,
+        "POP2008": 248,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061902007,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

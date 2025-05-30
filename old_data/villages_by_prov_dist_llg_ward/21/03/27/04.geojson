@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21774,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.87344099970244,
+          -5.845027999942204
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21774,
+        "CU_NAME": "HALIMBU",
+        "CU_NO": "001",
+        "GEOCODE": "07082704001",
+        "PROV_KEY": "21",
+        "DIST_NO": "3",
+        "LLG_NO": "27",
+        "WARD_NO": "04",
+        "WARD_NAME": "HALIMBU",
+        "LATITUDE": -5.849272,
+        "LONGITUDE": 142.873703,
+        "REGHH": 142,
+        "TOTPOP2000": 710,
+        "MALE2000": 360,
+        "FEMALE2000": 350,
+        "POP2008": 987,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7082704001,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

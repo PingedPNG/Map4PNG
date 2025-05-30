@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.81262299955188,
+          -10.329380999633372
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9813,
+        "CU_NAME": "SOLOLO",
+        "CU_NO": "010",
+        "GEOCODE": "05010627010",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "06",
+        "WARD_NO": "27",
+        "WARD_NAME": "WADAUDA",
+        "LATITUDE": -10.329223,
+        "LONGITUDE": 149.810021,
+        "REGHH": 13,
+        "TOTPOP2000": 64,
+        "MALE2000": 31,
+        "FEMALE2000": 33,
+        "POP2008": 80,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010627010,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.69432200026017,
+          -10.19218699963028
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9814,
+        "CU_NAME": "KONDU",
+        "CU_NO": "015",
+        "GEOCODE": "05010627015",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "27",
+        "WARD_NAME": "WADAUDA",
+        "LATITUDE": -10.193022,
+        "LONGITUDE": 149.699129,
+        "REGHH": 12,
+        "TOTPOP2000": 69,
+        "MALE2000": 31,
+        "FEMALE2000": 38,
+        "POP2008": 85,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010627015,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.70609299989212,
+          -10.261768999639571
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9815,
+        "CU_NAME": "WADAUDA",
+        "CU_NO": "028",
+        "GEOCODE": "05010627028",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "27",
+        "WARD_NAME": "WADAUDA",
+        "LATITUDE": -10.267706,
+        "LONGITUDE": 149.701638,
+        "REGHH": 21,
+        "TOTPOP2000": 117,
+        "MALE2000": 61,
+        "FEMALE2000": 56,
+        "POP2008": 141,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010627028,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

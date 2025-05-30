@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14829,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9001499998227,
+          -5.997587999886264
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14829,
+        "CU_NAME": "KOROMA",
+        "CU_NO": "011",
+        "GEOCODE": "10051613011",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "13",
+        "WARD_NAME": "KOROMA",
+        "LATITUDE": -5.998997,
+        "LONGITUDE": 144.899099,
+        "REGHH": 120,
+        "TOTPOP2000": 663,
+        "MALE2000": 330,
+        "FEMALE2000": 333,
+        "POP2008": 765,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051613011,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14830,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8889719996581,
+          -6.013206999803174
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14830,
+        "CU_NAME": "YOMBAR",
+        "CU_NO": "012",
+        "GEOCODE": "10051613012",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "13",
+        "WARD_NAME": "KOROMA",
+        "LATITUDE": -6.014616,
+        "LONGITUDE": 144.887921,
+        "REGHH": 43,
+        "TOTPOP2000": 236,
+        "MALE2000": 126,
+        "FEMALE2000": 110,
+        "POP2008": 272,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051613012,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14831,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.87347800010969,
+          -5.98966899982446
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14831,
+        "CU_NAME": "BUAGLKAP",
+        "CU_NO": "013",
+        "GEOCODE": "10051613013",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "13",
+        "WARD_NAME": "KOROMA",
+        "LATITUDE": -5.991078,
+        "LONGITUDE": 144.872427,
+        "REGHH": 87,
+        "TOTPOP2000": 488,
+        "MALE2000": 256,
+        "FEMALE2000": 232,
+        "POP2008": 563,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051613013,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14832,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.89601099960805,
+          -6.01429599966059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14832,
+        "CU_NAME": "TOPOKUGLO",
+        "CU_NO": "014",
+        "GEOCODE": "10051613014",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "13",
+        "WARD_NAME": "KOROMA",
+        "LATITUDE": -6.015705,
+        "LONGITUDE": 144.89496,
+        "REGHH": 36,
+        "TOTPOP2000": 184,
+        "MALE2000": 86,
+        "FEMALE2000": 98,
+        "POP2008": 212,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051613014,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

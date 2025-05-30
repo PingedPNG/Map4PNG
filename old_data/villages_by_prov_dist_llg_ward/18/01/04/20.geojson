@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4585,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.10534600021776,
+          -4.223331999971776
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4585,
+        "CU_NAME": "RAMALMAL",
+        "CU_NO": "001",
+        "GEOCODE": "18010420001",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "20",
+        "WARD_NAME": "RAMALMAL",
+        "LATITUDE": -4.224731,
+        "LONGITUDE": 152.104399,
+        "REGHH": 132,
+        "TOTPOP2000": 724,
+        "MALE2000": 374,
+        "FEMALE2000": 350,
+        "POP2008": 881,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010420001,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4586,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.10547499987138,
+          -4.211308000363886
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4586,
+        "CU_NAME": "VUNABUKUBUK",
+        "CU_NO": "506",
+        "GEOCODE": "18010420506",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "20",
+        "WARD_NAME": "RAMALMAL",
+        "LATITUDE": -4.212707,
+        "LONGITUDE": 152.104528,
+        "REGHH": 18,
+        "TOTPOP2000": 81,
+        "MALE2000": 39,
+        "FEMALE2000": 42,
+        "POP2008": 97,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010420506,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

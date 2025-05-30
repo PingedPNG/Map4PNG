@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0230070003728,
+          -7.2184380003134265
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12008,
+        "CU_NAME": "MENYAMYA VOC. CENTRE",
+        "CU_NO": "401",
+        "GEOCODE": "12072116401",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "16",
+        "WARD_NAME": "MENYAMYA STATION",
+        "LATITUDE": -7.219267,
+        "LONGITUDE": 146.021138,
+        "REGHH": 12,
+        "TOTPOP2000": 65,
+        "MALE2000": 38,
+        "FEMALE2000": 27,
+        "POP2008": 81,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072116401,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12009,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0028970001964,
+          -7.21687300008881
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12009,
+        "CU_NAME": "MENYAMYA HEALTH CENTRE",
+        "CU_NO": "402",
+        "GEOCODE": "12072116402",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "16",
+        "WARD_NAME": "MENYAMYA STATION",
+        "LATITUDE": -7.219267,
+        "LONGITUDE": 146.01941,
+        "REGHH": 8,
+        "TOTPOP2000": 32,
+        "MALE2000": 13,
+        "FEMALE2000": 19,
+        "POP2008": 40,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072116402,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12010,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.01902700029586,
+          -7.220937999588955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12010,
+        "CU_NAME": "MENYAMYA SDA",
+        "CU_NO": "403",
+        "GEOCODE": "12072116403",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "16",
+        "WARD_NAME": "MENYAMYA STATION",
+        "LATITUDE": -7.22041,
+        "LONGITUDE": 146.01989,
+        "REGHH": 2,
+        "TOTPOP2000": 9,
+        "MALE2000": 4,
+        "FEMALE2000": 5,
+        "POP2008": 9,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072116403,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12011,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.019301000341,
+          -7.213705999732042
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12011,
+        "CU_NAME": "MENYAMYA GOVT. STATION",
+        "CU_NO": "501",
+        "GEOCODE": "12072116501",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "16",
+        "WARD_NAME": "MENYAMYA STATION",
+        "LATITUDE": -7.216913,
+        "LONGITUDE": 146.020987,
+        "REGHH": 72,
+        "TOTPOP2000": 409,
+        "MALE2000": 222,
+        "FEMALE2000": 187,
+        "POP2008": 509,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072116501,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8839,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.26269500007425,
+          -5.7052319995571
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8839,
+        "CU_NAME": "KIAMBOWE",
+        "CU_NO": "012",
+        "GEOCODE": "13041222012",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "22",
+        "WARD_NAME": "WARD 22",
+        "LATITUDE": -5.70672,
+        "LONGITUDE": 146.263829,
+        "REGHH": 18,
+        "TOTPOP2000": 89,
+        "MALE2000": 46,
+        "FEMALE2000": 43,
+        "POP2008": 111,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041222012,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8840,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.25988399994674,
+          -5.685606000116763
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8840,
+        "CU_NAME": "RAMBA",
+        "CU_NO": "022",
+        "GEOCODE": "13041222022",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "22",
+        "WARD_NAME": "WARD 22",
+        "LATITUDE": -5.687014,
+        "LONGITUDE": 146.258852,
+        "REGHH": 14,
+        "TOTPOP2000": 84,
+        "MALE2000": 48,
+        "FEMALE2000": 36,
+        "POP2008": 103,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041222022,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8841,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2786039998748,
+          -5.693877000223324
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8841,
+        "CU_NAME": "RUSUANG",
+        "CU_NO": "023",
+        "GEOCODE": "13041222023",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "22",
+        "WARD_NAME": "WARD 22",
+        "LATITUDE": -5.695286,
+        "LONGITUDE": 146.277572,
+        "REGHH": 35,
+        "TOTPOP2000": 175,
+        "MALE2000": 86,
+        "FEMALE2000": 89,
+        "POP2008": 217,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041222023,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8842,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.26283600028125,
+          -5.708951000188449
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8842,
+        "CU_NAME": "SEREMORE",
+        "CU_NO": "024",
+        "GEOCODE": "13041222024",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "22",
+        "WARD_NAME": "WARD 22",
+        "LATITUDE": -5.70672,
+        "LONGITUDE": 146.263829,
+        "REGHH": 12,
+        "TOTPOP2000": 76,
+        "MALE2000": 33,
+        "FEMALE2000": 43,
+        "POP2008": 92,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041222024,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6543,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.86119200031067,
+          -4.413644999816825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6543,
+        "CU_NAME": "BIWAT",
+        "CU_NO": "009",
+        "GEOCODE": "14020907009",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "07",
+        "WARD_NAME": "BIWAT",
+        "LATITUDE": -4.415234,
+        "LONGITUDE": 143.859962,
+        "REGHH": 130,
+        "TOTPOP2000": 810,
+        "MALE2000": 410,
+        "FEMALE2000": 400,
+        "POP2008": 964,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020907009,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

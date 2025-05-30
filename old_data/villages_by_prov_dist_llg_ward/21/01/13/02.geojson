@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20302,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.35220499966113,
+          -6.103376000402022
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20302,
+        "CU_NAME": "WAPAL",
+        "CU_NO": "007",
+        "GEOCODE": "07041302007",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "02",
+        "WARD_NAME": "WAPAL",
+        "LATITUDE": -6.109405,
+        "LONGITUDE": 143.351215,
+        "REGHH": 43,
+        "TOTPOP2000": 268,
+        "MALE2000": 137,
+        "FEMALE2000": 131,
+        "POP2008": 372,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041302007,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20303,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3486629999975,
+          -6.10517100044126
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20303,
+        "CU_NAME": "TIKILI",
+        "CU_NO": "008",
+        "GEOCODE": "07041302008",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "02",
+        "WARD_NAME": "WAPAL",
+        "LATITUDE": -6.109405,
+        "LONGITUDE": 143.351215,
+        "REGHH": 34,
+        "TOTPOP2000": 193,
+        "MALE2000": 96,
+        "FEMALE2000": 97,
+        "POP2008": 268,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041302008,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20304,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.35297800023454,
+          -6.106167999653394
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20304,
+        "CU_NAME": "PALIM",
+        "CU_NO": "009",
+        "GEOCODE": "07041302009",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "02",
+        "WARD_NAME": "WAPAL",
+        "LATITUDE": -6.109405,
+        "LONGITUDE": 143.351215,
+        "REGHH": 21,
+        "TOTPOP2000": 153,
+        "MALE2000": 69,
+        "FEMALE2000": 84,
+        "POP2008": 213,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041302009,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20305,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.34993900038467,
+          -6.1071980003873705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20305,
+        "CU_NAME": "ANDAI",
+        "CU_NO": "010",
+        "GEOCODE": "07041302010",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "02",
+        "WARD_NAME": "WAPAL",
+        "LATITUDE": -6.109405,
+        "LONGITUDE": 143.351215,
+        "REGHH": 37,
+        "TOTPOP2000": 230,
+        "MALE2000": 118,
+        "FEMALE2000": 112,
+        "POP2008": 320,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041302010,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

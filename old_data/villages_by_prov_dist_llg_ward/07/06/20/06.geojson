@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21080,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.66719200041052,
+          -6.1237480000701225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21080,
+        "CU_NAME": "TETA",
+        "CU_NO": "011",
+        "GEOCODE": "07062006011",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "20",
+        "WARD_NO": "06",
+        "WARD_NAME": "TETA",
+        "LATITUDE": -6.127992,
+        "LONGITUDE": 143.667468,
+        "REGHH": 110,
+        "TOTPOP2000": 668,
+        "MALE2000": 310,
+        "FEMALE2000": 358,
+        "POP2008": 927,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7062006011,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

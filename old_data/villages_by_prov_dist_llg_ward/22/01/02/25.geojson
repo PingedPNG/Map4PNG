@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7031989996342,
+          -5.893085000172562
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16104,
+        "CU_NAME": "OLUBUS",
+        "CU_NO": "026",
+        "GEOCODE": "09010225026",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "25",
+        "WARD_NAME": "OLUBUS",
+        "LATITUDE": -5.894024,
+        "LONGITUDE": 144.703539,
+        "REGHH": 54,
+        "TOTPOP2000": 266,
+        "MALE2000": 131,
+        "FEMALE2000": 135,
+        "POP2008": 325,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010225026,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.70021200038354,
+          -5.913523000186274
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16105,
+        "CU_NAME": "PISNGIL",
+        "CU_NO": "027",
+        "GEOCODE": "09010225027",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "25",
+        "WARD_NAME": "OLUBUS",
+        "LATITUDE": -5.914462,
+        "LONGITUDE": 144.700552,
+        "REGHH": 43,
+        "TOTPOP2000": 223,
+        "MALE2000": 117,
+        "FEMALE2000": 106,
+        "POP2008": 272,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010225027,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.70046699955242,
+          -5.909197000341237
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16106,
+        "CU_NAME": "KONJAMBI KONSAR",
+        "CU_NO": "028",
+        "GEOCODE": "09010225028",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "25",
+        "WARD_NAME": "OLUBUS",
+        "LATITUDE": -5.910136,
+        "LONGITUDE": 144.700807,
+        "REGHH": 34,
+        "TOTPOP2000": 126,
+        "MALE2000": 63,
+        "FEMALE2000": 63,
+        "POP2008": 153,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010225028,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.69559699980175,
+          -5.922215999968387
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16107,
+        "CU_NAME": "KUMBUKU",
+        "CU_NO": "029",
+        "GEOCODE": "09010225029",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "25",
+        "WARD_NAME": "OLUBUS",
+        "LATITUDE": -5.923155,
+        "LONGITUDE": 144.695937,
+        "REGHH": 43,
+        "TOTPOP2000": 207,
+        "MALE2000": 103,
+        "FEMALE2000": 104,
+        "POP2008": 252,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010225029,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.69166500013966,
+          -5.922433000082833
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16108,
+        "CU_NAME": "KOLA",
+        "CU_NO": "030",
+        "GEOCODE": "09010225030",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "25",
+        "WARD_NAME": "OLUBUS",
+        "LATITUDE": -5.923372,
+        "LONGITUDE": 144.692005,
+        "REGHH": 91,
+        "TOTPOP2000": 327,
+        "MALE2000": 162,
+        "FEMALE2000": 165,
+        "POP2008": 398,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010225030,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.71583499958558,
+          -5.887286999895082
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16109,
+        "CU_NAME": "WAGHI BLOCK",
+        "CU_NO": "401",
+        "GEOCODE": "09010225401",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "25",
+        "WARD_NAME": "OLUBUS",
+        "LATITUDE": -5.888226,
+        "LONGITUDE": 144.716174,
+        "REGHH": 49,
+        "TOTPOP2000": 247,
+        "MALE2000": 122,
+        "FEMALE2000": 125,
+        "POP2008": 300,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010225401,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

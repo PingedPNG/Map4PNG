@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19866,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.86345100016354,
+          -6.367093000241709
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19866,
+        "CU_NAME": "ALAIYA",
+        "CU_NO": "002",
+        "GEOCODE": "07030904002",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "04",
+        "WARD_NAME": "ALAIYA",
+        "LATITUDE": -6.372192,
+        "LONGITUDE": 143.86226,
+        "REGHH": 22,
+        "TOTPOP2000": 151,
+        "MALE2000": 75,
+        "FEMALE2000": 76,
+        "POP2008": 209,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030904002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19867,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8643039999297,
+          -6.368777999704889
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19867,
+        "CU_NAME": "AMBARE",
+        "CU_NO": "003",
+        "GEOCODE": "07030904003",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "04",
+        "WARD_NAME": "ALAIYA",
+        "LATITUDE": -6.372192,
+        "LONGITUDE": 143.86226,
+        "REGHH": 38,
+        "TOTPOP2000": 185,
+        "MALE2000": 89,
+        "FEMALE2000": 96,
+        "POP2008": 257,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030904003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19868,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.86135499973352,
+          -6.369217000164383
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19868,
+        "CU_NAME": "UTU",
+        "CU_NO": "004",
+        "GEOCODE": "07030904004",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "04",
+        "WARD_NAME": "ALAIYA",
+        "LATITUDE": -6.372192,
+        "LONGITUDE": 143.86226,
+        "REGHH": 21,
+        "TOTPOP2000": 83,
+        "MALE2000": 41,
+        "FEMALE2000": 42,
+        "POP2008": 115,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030904004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.86050600015187,
+          -6.36816500021456
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19869,
+        "CU_NAME": "YAMANE",
+        "CU_NO": "005",
+        "GEOCODE": "07030904005",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "04",
+        "WARD_NAME": "ALAIYA",
+        "LATITUDE": -6.372192,
+        "LONGITUDE": 143.86226,
+        "REGHH": 34,
+        "TOTPOP2000": 135,
+        "MALE2000": 69,
+        "FEMALE2000": 66,
+        "POP2008": 188,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030904005,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

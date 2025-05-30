@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19352,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1216160002782,
+          -6.42822499998374
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19352,
+        "CU_NAME": "BOLONA",
+        "CU_NO": "003",
+        "GEOCODE": "07010403003",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "BOLONA",
+        "LATITUDE": -6.433169,
+        "LONGITUDE": 144.123316,
+        "REGHH": 32,
+        "TOTPOP2000": 100,
+        "MALE2000": 48,
+        "FEMALE2000": 52,
+        "POP2008": 139,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010403003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19353,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1217069999782,
+          -6.424978000434351
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19353,
+        "CU_NAME": "LAYOWANE",
+        "CU_NO": "004",
+        "GEOCODE": "07010403004",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "BOLONA",
+        "LATITUDE": -6.433169,
+        "LONGITUDE": 144.123316,
+        "REGHH": 27,
+        "TOTPOP2000": 126,
+        "MALE2000": 67,
+        "FEMALE2000": 59,
+        "POP2008": 176,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010403004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19354,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.12610500044548,
+          -6.430376000252181
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19354,
+        "CU_NAME": "YOMBA",
+        "CU_NO": "005",
+        "GEOCODE": "07010403005",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "BOLONA",
+        "LATITUDE": -6.433169,
+        "LONGITUDE": 144.123316,
+        "REGHH": 15,
+        "TOTPOP2000": 53,
+        "MALE2000": 24,
+        "FEMALE2000": 29,
+        "POP2008": 73,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010403005,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19355,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.12527199980298,
+          -6.425890000223262
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19355,
+        "CU_NAME": "MAGAPIKO",
+        "CU_NO": "006",
+        "GEOCODE": "07010403006",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "BOLONA",
+        "LATITUDE": -6.433169,
+        "LONGITUDE": 144.123316,
+        "REGHH": 17,
+        "TOTPOP2000": 83,
+        "MALE2000": 42,
+        "FEMALE2000": 41,
+        "POP2008": 115,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010403006,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

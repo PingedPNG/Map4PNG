@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1670,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.68560000043976,
+          -9.94819900038351
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1670,
+        "CU_NAME": "BABAGARUPU",
+        "CU_NO": "007",
+        "GEOCODE": "03041211007",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "BABAGARUPU",
+        "LATITUDE": -9.949655,
+        "LONGITUDE": 147.684577,
+        "REGHH": 39,
+        "TOTPOP2000": 279,
+        "MALE2000": 128,
+        "FEMALE2000": 151,
+        "POP2008": 335,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041211007,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1671,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.67894300011938,
+          -9.951103000303192
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1671,
+        "CU_NAME": "BINA C/SCH.",
+        "CU_NO": "401",
+        "GEOCODE": "03041211401",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "BABAGARUPU",
+        "LATITUDE": -9.952464,
+        "LONGITUDE": 147.67785,
+        "REGHH": 0,
+        "TOTPOP2000": 29,
+        "MALE2000": 17,
+        "FEMALE2000": 12,
+        "POP2008": 37,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041211401,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

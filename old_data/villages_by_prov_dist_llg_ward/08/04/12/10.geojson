@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5870,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5530119996041,
+          -5.098837999973682
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5870,
+        "CU_NAME": "POTEAKA",
+        "CU_NO": "001",
+        "GEOCODE": "08041210001",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "10",
+        "WARD_NAME": "POTEAKA",
+        "LATITUDE": -5.115251,
+        "LONGITUDE": 143.565101,
+        "REGHH": 116,
+        "TOTPOP2000": 633,
+        "MALE2000": 333,
+        "FEMALE2000": 300,
+        "POP2008": 795,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041210001,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

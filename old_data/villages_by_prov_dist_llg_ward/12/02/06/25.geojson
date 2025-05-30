@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10773,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.58339200044054,
+          -6.3671369995728355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10773,
+        "CU_NAME": "FASEU",
+        "CU_NO": "009",
+        "GEOCODE": "12020625009",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "25",
+        "WARD_NAME": "KOBAU",
+        "LATITUDE": -6.371579,
+        "LONGITUDE": 147.579361,
+        "REGHH": 50,
+        "TOTPOP2000": 272,
+        "MALE2000": 138,
+        "FEMALE2000": 134,
+        "POP2008": 340,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020625009,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10774,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5466959998206,
+          -6.3844349995755465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10774,
+        "CU_NAME": "GAENG",
+        "CU_NO": "010",
+        "GEOCODE": "12020625010",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "25",
+        "WARD_NAME": "KOBAU",
+        "LATITUDE": -6.385854,
+        "LONGITUDE": 147.54568,
+        "REGHH": 69,
+        "TOTPOP2000": 372,
+        "MALE2000": 163,
+        "FEMALE2000": 209,
+        "POP2008": 464,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020625010,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10775,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.56525899970313,
+          -6.386813999566357
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10775,
+        "CU_NAME": "KOBAO",
+        "CU_NO": "017",
+        "GEOCODE": "12020625017",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "25",
+        "WARD_NAME": "KOBAU",
+        "LATITUDE": -6.388233,
+        "LONGITUDE": 147.564243,
+        "REGHH": 53,
+        "TOTPOP2000": 278,
+        "MALE2000": 139,
+        "FEMALE2000": 139,
+        "POP2008": 346,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020625017,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10776,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.57087200044248,
+          -6.3502850003524145
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10776,
+        "CU_NAME": "MORACGO",
+        "CU_NO": "021",
+        "GEOCODE": "12020625021",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "25",
+        "WARD_NAME": "KOBAU",
+        "LATITUDE": -6.351703,
+        "LONGITUDE": 147.569856,
+        "REGHH": 72,
+        "TOTPOP2000": 393,
+        "MALE2000": 193,
+        "FEMALE2000": 200,
+        "POP2008": 490,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020625021,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10777,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.57650000007504,
+          -6.360861999781434
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10777,
+        "CU_NAME": "YOMENG",
+        "CU_NO": "022",
+        "GEOCODE": "12020625022",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "25",
+        "WARD_NAME": "KOBAU",
+        "LATITUDE": -6.362556,
+        "LONGITUDE": 147.578557,
+        "REGHH": 32,
+        "TOTPOP2000": 153,
+        "MALE2000": 68,
+        "FEMALE2000": 85,
+        "POP2008": 191,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020625022,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

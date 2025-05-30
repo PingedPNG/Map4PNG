@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10274,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8249209999043,
+          -9.45110100031087
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10274,
+        "CU_NAME": "URUA",
+        "CU_NO": "017",
+        "GEOCODE": "05041529017",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "29",
+        "WARD_NAME": "URUA",
+        "LATITUDE": -9.451326,
+        "LONGITUDE": 150.825203,
+        "REGHH": 58,
+        "TOTPOP2000": 284,
+        "MALE2000": 145,
+        "FEMALE2000": 139,
+        "POP2008": 345,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041529017,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

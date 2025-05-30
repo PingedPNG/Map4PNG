@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5472849999029,
+          -6.27504700031875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21261,
+        "CU_NAME": "UPA 1",
+        "CU_NO": "013",
+        "GEOCODE": "07072401013",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "24",
+        "WARD_NO": "01",
+        "WARD_NAME": "UPA NO. 1",
+        "LATITUDE": -6.279648,
+        "LONGITUDE": 143.545763,
+        "REGHH": 85,
+        "TOTPOP2000": 563,
+        "MALE2000": 286,
+        "FEMALE2000": 277,
+        "POP2008": 784,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072401013,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

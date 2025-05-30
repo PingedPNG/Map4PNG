@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9779399999311,
+          -5.311973000053854
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5496,
+        "CU_NAME": "LAPALAMA",
+        "CU_NO": "004",
+        "GEOCODE": "08020424004",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "LAPALAMA",
+        "LATITUDE": -5.313373,
+        "LONGITUDE": 143.976879,
+        "REGHH": 11,
+        "TOTPOP2000": 49,
+        "MALE2000": 27,
+        "FEMALE2000": 22,
+        "POP2008": 62,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020424004,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5497,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.99940300044818,
+          -5.306514000120956
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5497,
+        "CU_NAME": "KAMALAM",
+        "CU_NO": "005",
+        "GEOCODE": "08020424005",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "LAPALAMA",
+        "LATITUDE": -5.306539,
+        "LONGITUDE": 144.005024,
+        "REGHH": 32,
+        "TOTPOP2000": 175,
+        "MALE2000": 87,
+        "FEMALE2000": 88,
+        "POP2008": 220,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020424005,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.03228599969918,
+          -5.319686999655289
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5498,
+        "CU_NAME": "TAPAIKINIS",
+        "CU_NO": "006",
+        "GEOCODE": "08020424006",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "LAPALAMA",
+        "LATITUDE": -5.321088,
+        "LONGITUDE": 144.031225,
+        "REGHH": 28,
+        "TOTPOP2000": 146,
+        "MALE2000": 88,
+        "FEMALE2000": 58,
+        "POP2008": 183,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020424006,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

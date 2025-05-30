@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.66984599959324,
+          -5.999480999948162
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21136,
+        "CU_NAME": "KELTA",
+        "CU_NO": "008",
+        "GEOCODE": "07062117008",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "21",
+        "WARD_NO": "17",
+        "WARD_NAME": "KELTA",
+        "LATITUDE": -6.003724,
+        "LONGITUDE": 143.670123,
+        "REGHH": 156,
+        "TOTPOP2000": 1089,
+        "MALE2000": 610,
+        "FEMALE2000": 479,
+        "POP2008": 1515,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7062117008,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

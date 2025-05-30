@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19512,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.02002700004607,
+          -6.155443000294156
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19512,
+        "CU_NAME": "KERENDA",
+        "CU_NO": "001",
+        "GEOCODE": "07020508001",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "BIBINE 1",
+        "LATITUDE": -6.159372,
+        "LONGITUDE": 144.021333,
+        "REGHH": 21,
+        "TOTPOP2000": 116,
+        "MALE2000": 54,
+        "FEMALE2000": 62,
+        "POP2008": 162,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020508001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19513,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.02085100027352,
+          -6.1562590001527155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19513,
+        "CU_NAME": "WERELA",
+        "CU_NO": "002",
+        "GEOCODE": "07020508002",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "BIBINE 1",
+        "LATITUDE": -6.159372,
+        "LONGITUDE": 144.021333,
+        "REGHH": 20,
+        "TOTPOP2000": 88,
+        "MALE2000": 47,
+        "FEMALE2000": 41,
+        "POP2008": 123,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020508002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19514,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0198279998624,
+          -6.156367999783299
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19514,
+        "CU_NAME": "KERENDA 1 & 2",
+        "CU_NO": "003",
+        "GEOCODE": "07020508003",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "BIBINE 1",
+        "LATITUDE": -6.159372,
+        "LONGITUDE": 144.021333,
+        "REGHH": 51,
+        "TOTPOP2000": 219,
+        "MALE2000": 101,
+        "FEMALE2000": 118,
+        "POP2008": 304,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020508003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19515,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0191029997037,
+          -6.155036999557808
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19515,
+        "CU_NAME": "BIBINE 1 COMM.SCH",
+        "CU_NO": "401",
+        "GEOCODE": "07020508401",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "BIBINE 1",
+        "LATITUDE": -6.159372,
+        "LONGITUDE": 144.021333,
+        "REGHH": 17,
+        "TOTPOP2000": 70,
+        "MALE2000": 32,
+        "FEMALE2000": 38,
+        "POP2008": 97,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020508401,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

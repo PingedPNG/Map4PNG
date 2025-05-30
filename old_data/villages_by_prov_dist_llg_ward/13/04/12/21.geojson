@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8835,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.22657900012086,
+          -5.685732999678123
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8835,
+        "CU_NAME": "KOIAKO",
+        "CU_NO": "013",
+        "GEOCODE": "13041221013",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "21",
+        "WARD_NAME": "WARD 21",
+        "LATITUDE": -5.687141,
+        "LONGITUDE": 146.225546,
+        "REGHH": 28,
+        "TOTPOP2000": 156,
+        "MALE2000": 84,
+        "FEMALE2000": 72,
+        "POP2008": 193,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041221013,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8836,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.23113099959608,
+          -5.658661999551612
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8836,
+        "CU_NAME": "KOKING",
+        "CU_NO": "014",
+        "GEOCODE": "13041221014",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "21",
+        "WARD_NAME": "WARD 21",
+        "LATITUDE": -5.66007,
+        "LONGITUDE": 146.230098,
+        "REGHH": 26,
+        "TOTPOP2000": 159,
+        "MALE2000": 77,
+        "FEMALE2000": 82,
+        "POP2008": 197,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041221014,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8837,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.25772100002416,
+          -5.600842999704639
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8837,
+        "CU_NAME": "MASI",
+        "CU_NO": "018",
+        "GEOCODE": "13041221018",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "21",
+        "WARD_NAME": "WARD 21",
+        "LATITUDE": -5.60225,
+        "LONGITUDE": 146.256689,
+        "REGHH": 25,
+        "TOTPOP2000": 115,
+        "MALE2000": 63,
+        "FEMALE2000": 52,
+        "POP2008": 142,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041221018,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8838,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.25364299992452,
+          -5.637333999864154
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8838,
+        "CU_NAME": "SORANG",
+        "CU_NO": "032",
+        "GEOCODE": "13041221032",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "21",
+        "WARD_NAME": "WARD 21",
+        "LATITUDE": -5.638742,
+        "LONGITUDE": 146.252611,
+        "REGHH": 29,
+        "TOTPOP2000": 163,
+        "MALE2000": 82,
+        "FEMALE2000": 81,
+        "POP2008": 202,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041221032,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

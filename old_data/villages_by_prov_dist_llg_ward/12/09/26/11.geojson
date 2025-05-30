@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12247,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5896240000476,
+          -6.213363000302195
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12247,
+        "CU_NAME": "GERUP",
+        "CU_NO": "006",
+        "GEOCODE": "12092611006",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "KARAKO",
+        "LATITUDE": -6.21478,
+        "LONGITUDE": 147.588609,
+        "REGHH": 66,
+        "TOTPOP2000": 365,
+        "MALE2000": 172,
+        "FEMALE2000": 193,
+        "POP2008": 455,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092611006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12248,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.59575100020857,
+          -6.216693000081818
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12248,
+        "CU_NAME": "KARAKO",
+        "CU_NO": "011",
+        "GEOCODE": "12092611011",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "KARAKO",
+        "LATITUDE": -6.21811,
+        "LONGITUDE": 147.594736,
+        "REGHH": 110,
+        "TOTPOP2000": 694,
+        "MALE2000": 338,
+        "FEMALE2000": 356,
+        "POP2008": 866,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092611011,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12249,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.60581400021601,
+          -6.207139000164659
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12249,
+        "CU_NAME": "MAIAWA",
+        "CU_NO": "019",
+        "GEOCODE": "12092611019",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "KARAKO",
+        "LATITUDE": -6.208556,
+        "LONGITUDE": 147.604799,
+        "REGHH": 31,
+        "TOTPOP2000": 187,
+        "MALE2000": 90,
+        "FEMALE2000": 97,
+        "POP2008": 233,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092611019,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

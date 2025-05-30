@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1544,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.46800700002314,
+          -8.510719999728167
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1544,
+        "CU_NAME": "BABANONGO",
+        "CU_NO": "003",
+        "GEOCODE": "03031013003",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "BABANONGO",
+        "LATITUDE": -8.512159,
+        "LONGITUDE": 146.466971,
+        "REGHH": 73,
+        "TOTPOP2000": 521,
+        "MALE2000": 254,
+        "FEMALE2000": 267,
+        "POP2008": 625,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031013003,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1545,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.55277699985868,
+          -8.426103999799693
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1545,
+        "CU_NAME": "ENGEFA",
+        "CU_NO": "004",
+        "GEOCODE": "03031013004",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "BABANONGO",
+        "LATITUDE": -8.432343,
+        "LONGITUDE": 146.534835,
+        "REGHH": 60,
+        "TOTPOP2000": 469,
+        "MALE2000": 249,
+        "FEMALE2000": 220,
+        "POP2008": 563,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031013004,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1546,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.53130900001042,
+          -8.47391300028471
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1546,
+        "CU_NAME": "MA'AKUNGA SETTLEMENT",
+        "CU_NO": "402",
+        "GEOCODE": "03031013402",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "BABANONGO",
+        "LATITUDE": -8.475351,
+        "LONGITUDE": 146.530274,
+        "REGHH": 17,
+        "TOTPOP2000": 133,
+        "MALE2000": 70,
+        "FEMALE2000": 63,
+        "POP2008": 158,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031013402,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

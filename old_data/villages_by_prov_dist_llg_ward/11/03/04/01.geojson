@@ -1,0 +1,581 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.75217688025884,
+          -6.287079420278985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29218,
+        "CU_NAME": "MUGEGONA",
+        "CU_NO": "016",
+        "GEOCODE": "11030401016",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMPRI",
+        "LATITUDE": -6.287079,
+        "LONGITUDE": 145.752177,
+        "REGHH": 36,
+        "TOTPOP2000": 159,
+        "MALE2000": 86,
+        "FEMALE2000": 73,
+        "POP2008": 190,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29219,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.73870819982358,
+          -6.304666410226616
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29219,
+        "CU_NAME": "COUNTRY SIDE",
+        "CU_NO": "018",
+        "GEOCODE": "11030401018",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMPRI",
+        "LATITUDE": -6.304666,
+        "LONGITUDE": 145.738708,
+        "REGHH": 14,
+        "TOTPOP2000": 71,
+        "MALE2000": 37,
+        "FEMALE2000": 34,
+        "POP2008": 87,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29220,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.53386892041442,
+          -6.4149100199813915
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29220,
+        "CU_NAME": "YUGUSA",
+        "CU_NO": "032",
+        "GEOCODE": "11030401032",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMPRI",
+        "LATITUDE": -6.41491,
+        "LONGITUDE": 145.533869,
+        "REGHH": 48,
+        "TOTPOP2000": 259,
+        "MALE2000": 136,
+        "FEMALE2000": 123,
+        "POP2008": 308,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29221,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.74979943969242,
+          -6.304919400310041
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29221,
+        "CU_NAME": "JULI SIPE",
+        "CU_NO": "036",
+        "GEOCODE": "11030401036",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMPRI",
+        "LATITUDE": -6.304919,
+        "LONGITUDE": 145.749799,
+        "REGHH": 96,
+        "TOTPOP2000": 472,
+        "MALE2000": 234,
+        "FEMALE2000": 238,
+        "POP2008": 562,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29222,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.75116635973973,
+          -6.294977369909645
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29222,
+        "CU_NAME": "NIHOZEGA",
+        "CU_NO": "037",
+        "GEOCODE": "11030401037",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMPRI",
+        "LATITUDE": -6.294977,
+        "LONGITUDE": 145.751166,
+        "REGHH": 32,
+        "TOTPOP2000": 190,
+        "MALE2000": 97,
+        "FEMALE2000": 93,
+        "POP2008": 226,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.72821743998293,
+          -6.293890350359334
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29223,
+        "CU_NAME": "VARENA",
+        "CU_NO": "038",
+        "GEOCODE": "11030401038",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMPRI",
+        "LATITUDE": -6.29389,
+        "LONGITUDE": 145.728217,
+        "REGHH": 36,
+        "TOTPOP2000": 140,
+        "MALE2000": 73,
+        "FEMALE2000": 67,
+        "POP2008": 165,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7256387599209,
+          -6.288104249911157
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29224,
+        "CU_NAME": "GATEWAY",
+        "CU_NO": "039",
+        "GEOCODE": "11030401039",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMPRI",
+        "LATITUDE": -6.288104,
+        "LONGITUDE": 145.725639,
+        "REGHH": 23,
+        "TOTPOP2000": 108,
+        "MALE2000": 55,
+        "FEMALE2000": 53,
+        "POP2008": 129,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.63041083988844,
+          -6.198073020053812
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29225,
+        "CU_NAME": "JACKSON 5",
+        "CU_NO": "040",
+        "GEOCODE": "11030401040",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMPRI",
+        "LATITUDE": -6.198073,
+        "LONGITUDE": 145.630411,
+        "REGHH": 12,
+        "TOTPOP2000": 52,
+        "MALE2000": 28,
+        "FEMALE2000": 24,
+        "POP2008": 60,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.73252411969247,
+          -6.292571040421137
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29226,
+        "CU_NAME": "KUMAKOS",
+        "CU_NO": "042",
+        "GEOCODE": "11030401042",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMPRI",
+        "LATITUDE": -6.292571,
+        "LONGITUDE": 145.732524,
+        "REGHH": 9,
+        "TOTPOP2000": 45,
+        "MALE2000": 24,
+        "FEMALE2000": 21,
+        "POP2008": 53,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.72539755994944,
+          -6.2942742898265465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29227,
+        "CU_NAME": "SABAMA",
+        "CU_NO": "043",
+        "GEOCODE": "11030401043",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMPRI",
+        "LATITUDE": -6.294274,
+        "LONGITUDE": 145.725398,
+        "REGHH": 16,
+        "TOTPOP2000": 67,
+        "MALE2000": 32,
+        "FEMALE2000": 35,
+        "POP2008": 81,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29228,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.73854764026146,
+          -6.2999690398392545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29228,
+        "CU_NAME": "TSOSO",
+        "CU_NO": "044",
+        "GEOCODE": "11030401044",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMPRI",
+        "LATITUDE": -6.299969,
+        "LONGITUDE": 145.738548,
+        "REGHH": 15,
+        "TOTPOP2000": 66,
+        "MALE2000": 29,
+        "FEMALE2000": 37,
+        "POP2008": 79,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7254911595894,
+          -6.276793320055617
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29229,
+        "CU_NAME": "COUNTRY SIDE 2",
+        "CU_NO": "045",
+        "GEOCODE": "11030401045",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMPRI",
+        "LATITUDE": -6.276793,
+        "LONGITUDE": 145.725491,
+        "REGHH": 22,
+        "TOTPOP2000": 128,
+        "MALE2000": 58,
+        "FEMALE2000": 70,
+        "POP2008": 152,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29230,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.74518460008926,
+          -6.284162790280504
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29230,
+        "CU_NAME": "JAMENENKA",
+        "CU_NO": "046",
+        "GEOCODE": "11030401046",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMPRI",
+        "LATITUDE": -6.284163,
+        "LONGITUDE": 145.745185,
+        "REGHH": 39,
+        "TOTPOP2000": 274,
+        "MALE2000": 136,
+        "FEMALE2000": 138,
+        "POP2008": 326,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29231,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.73608380002736,
+          -6.28555184983793
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29231,
+        "CU_NAME": "KRAVEFANKA",
+        "CU_NO": "047",
+        "GEOCODE": "11030401047",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMPRI",
+        "LATITUDE": -6.285552,
+        "LONGITUDE": 145.736084,
+        "REGHH": 22,
+        "TOTPOP2000": 129,
+        "MALE2000": 69,
+        "FEMALE2000": 60,
+        "POP2008": 153,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7342568003112,
+          -6.300272070000005
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29232,
+        "CU_NAME": "WARAKUM",
+        "CU_NO": "048",
+        "GEOCODE": "11030401048",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMPRI",
+        "LATITUDE": -6.300272,
+        "LONGITUDE": 145.734257,
+        "REGHH": 16,
+        "TOTPOP2000": 102,
+        "MALE2000": 50,
+        "FEMALE2000": 52,
+        "POP2008": 120,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.72680948027335,
+          -6.284719529982283
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29233,
+        "CU_NAME": "UPPER JULI",
+        "CU_NO": "049",
+        "GEOCODE": "11030401049",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMPRI",
+        "LATITUDE": -6.28472,
+        "LONGITUDE": 145.726809,
+        "REGHH": 42,
+        "TOTPOP2000": 198,
+        "MALE2000": 109,
+        "FEMALE2000": 89,
+        "POP2008": 236,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.72100232040088,
+          -6.291305910139613
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29234,
+        "CU_NAME": "UVA-VAGO",
+        "CU_NO": "050",
+        "GEOCODE": "11030401050",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMPRI",
+        "LATITUDE": -6.291306,
+        "LONGITUDE": 145.721002,
+        "REGHH": 31,
+        "TOTPOP2000": 137,
+        "MALE2000": 69,
+        "FEMALE2000": 68,
+        "POP2008": 161,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.73373372043488,
+          -6.297803729558439
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29235,
+        "CU_NAME": "KOMPRI SWISS MISSION",
+        "CU_NO": "404",
+        "GEOCODE": "11030401404",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMPRI",
+        "LATITUDE": -6.297804,
+        "LONGITUDE": 145.733734,
+        "REGHH": 14,
+        "TOTPOP2000": 65,
+        "MALE2000": 37,
+        "FEMALE2000": 28,
+        "POP2008": 77,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

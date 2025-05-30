@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.89252799956762,
+          -9.111391999840862
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1234,
+        "CU_NAME": "MANUMANU",
+        "CU_NO": "006",
+        "GEOCODE": "03030707006",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "07",
+        "WARD_NAME": "MANUMANU",
+        "LATITUDE": -9.112838,
+        "LONGITUDE": 146.891496,
+        "REGHH": 63,
+        "TOTPOP2000": 470,
+        "MALE2000": 245,
+        "FEMALE2000": 225,
+        "POP2008": 564,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030707006,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.92709900021873,
+          -9.168657000220321
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1235,
+        "CU_NAME": "GEREBADA SETTLEMENT",
+        "CU_NO": "403",
+        "GEOCODE": "03030707403",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "07",
+        "WARD_NAME": "MANUMANU",
+        "LATITUDE": -9.170103,
+        "LONGITUDE": 146.926068,
+        "REGHH": 13,
+        "TOTPOP2000": 100,
+        "MALE2000": 45,
+        "FEMALE2000": 55,
+        "POP2008": 119,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030707403,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

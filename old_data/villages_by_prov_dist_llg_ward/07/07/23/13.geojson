@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21257,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.67051900025172,
+          -6.225008000418825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21257,
+        "CU_NAME": "AIYA(KABULUSADO)",
+        "CU_NO": "004",
+        "GEOCODE": "07072313004",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "13",
+        "WARD_NAME": "KABULUSADO",
+        "LATITUDE": -6.230079,
+        "LONGITUDE": 142.673551,
+        "REGHH": 45,
+        "TOTPOP2000": 217,
+        "MALE2000": 125,
+        "FEMALE2000": 92,
+        "POP2008": 301,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072313004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.67577699990863,
+          -6.22388199975444
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21258,
+        "CU_NAME": "GALOMA",
+        "CU_NO": "005",
+        "GEOCODE": "07072313005",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "13",
+        "WARD_NAME": "KABULUSADO",
+        "LATITUDE": -6.230079,
+        "LONGITUDE": 142.673551,
+        "REGHH": 2,
+        "TOTPOP2000": 8,
+        "MALE2000": 3,
+        "FEMALE2000": 5,
+        "POP2008": 8,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072313005,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.67161999976327,
+          -6.222785000427393
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21259,
+        "CU_NAME": "EBEDEBE",
+        "CU_NO": "006",
+        "GEOCODE": "07072313006",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "13",
+        "WARD_NAME": "KABULUSADO",
+        "LATITUDE": -6.230079,
+        "LONGITUDE": 142.673551,
+        "REGHH": 42,
+        "TOTPOP2000": 193,
+        "MALE2000": 105,
+        "FEMALE2000": 88,
+        "POP2008": 268,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072313006,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.67273399987425,
+          -6.224723999912612
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21260,
+        "CU_NAME": "SALODO",
+        "CU_NO": "007",
+        "GEOCODE": "07072313007",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "13",
+        "WARD_NAME": "KABULUSADO",
+        "LATITUDE": -6.230079,
+        "LONGITUDE": 142.673551,
+        "REGHH": 24,
+        "TOTPOP2000": 121,
+        "MALE2000": 71,
+        "FEMALE2000": 50,
+        "POP2008": 169,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072313007,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

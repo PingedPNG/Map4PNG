@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4765,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.20599300017693,
+          -4.315643000424075
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4765,
+        "CU_NAME": "BITABAUR",
+        "CU_NO": "009",
+        "GEOCODE": "18020909009",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "BITABAUR",
+        "LATITUDE": -4.317044,
+        "LONGITUDE": 152.205048,
+        "REGHH": 102,
+        "TOTPOP2000": 650,
+        "MALE2000": 340,
+        "FEMALE2000": 310,
+        "POP2008": 791,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020909009,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

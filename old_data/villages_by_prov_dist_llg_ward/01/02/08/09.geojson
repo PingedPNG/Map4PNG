@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15407,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.24437599985254,
+          -5.4999989996540535
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15407,
+        "CU_NAME": "BOLEWOGAM. 7.",
+        "CU_NO": "006",
+        "GEOCODE": "01020809006",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "09",
+        "WARD_NAME": "WULIMKANATGO",
+        "LATITUDE": -5.504488,
+        "LONGITUDE": 141.249891,
+        "REGHH": 20,
+        "TOTPOP2000": 122,
+        "MALE2000": 62,
+        "FEMALE2000": 60,
+        "POP2008": 158,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020809006,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15408,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.28985700000067,
+          -5.531402999948455
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15408,
+        "CU_NAME": "HAIDAUWOGAM",
+        "CU_NO": "012",
+        "GEOCODE": "01020809012",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "09",
+        "WARD_NAME": "WULIMKANATGO",
+        "LATITUDE": -5.535762,
+        "LONGITUDE": 141.281387,
+        "REGHH": 27,
+        "TOTPOP2000": 126,
+        "MALE2000": 68,
+        "FEMALE2000": 58,
+        "POP2008": 163,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020809012,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15409,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2142259998301,
+          -5.492095000283996
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15409,
+        "CU_NAME": "MONGOLAVURAM",
+        "CU_NO": "019",
+        "GEOCODE": "01020809019",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "09",
+        "WARD_NAME": "WULIMKANATGO",
+        "LATITUDE": -5.493492,
+        "LONGITUDE": 141.213131,
+        "REGHH": 34,
+        "TOTPOP2000": 136,
+        "MALE2000": 73,
+        "FEMALE2000": 63,
+        "POP2008": 176,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020809019,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15410,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2672790002257,
+          -5.544894999804342
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15410,
+        "CU_NAME": "WULIMKANATGO",
+        "CU_NO": "029",
+        "GEOCODE": "01020809029",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "09",
+        "WARD_NAME": "WULIMKANATGO",
+        "LATITUDE": -5.544812,
+        "LONGITUDE": 141.272085,
+        "REGHH": 20,
+        "TOTPOP2000": 81,
+        "MALE2000": 47,
+        "FEMALE2000": 34,
+        "POP2008": 105,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020809029,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21474,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.46037899959117,
+          -6.168168999899365
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21474,
+        "CU_NAME": "NEMDA",
+        "CU_NO": "001",
+        "GEOCODE": "07072532001",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "32",
+        "WARD_NAME": "PULIM 2",
+        "LATITUDE": -6.172353,
+        "LONGITUDE": 143.459603,
+        "REGHH": 41,
+        "TOTPOP2000": 344,
+        "MALE2000": 167,
+        "FEMALE2000": 177,
+        "POP2008": 477,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072532001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21475,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4604130002598,
+          -6.167473000178745
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21475,
+        "CU_NAME": "KAKO",
+        "CU_NO": "002",
+        "GEOCODE": "07072532002",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "32",
+        "WARD_NAME": "PULIM 2",
+        "LATITUDE": -6.172353,
+        "LONGITUDE": 143.459603,
+        "REGHH": 18,
+        "TOTPOP2000": 136,
+        "MALE2000": 73,
+        "FEMALE2000": 63,
+        "POP2008": 189,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072532002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21476,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.46058800023604,
+          -6.16780800033888
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21476,
+        "CU_NAME": "HENAL",
+        "CU_NO": "003",
+        "GEOCODE": "07072532003",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "32",
+        "WARD_NAME": "PULIM 2",
+        "LATITUDE": -6.172353,
+        "LONGITUDE": 143.459603,
+        "REGHH": 16,
+        "TOTPOP2000": 118,
+        "MALE2000": 60,
+        "FEMALE2000": 58,
+        "POP2008": 164,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072532003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21477,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.45935900021777,
+          -6.167310999902668
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21477,
+        "CU_NAME": "PONDIPTE",
+        "CU_NO": "004",
+        "GEOCODE": "07072532004",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "32",
+        "WARD_NAME": "PULIM 2",
+        "LATITUDE": -6.172353,
+        "LONGITUDE": 143.459603,
+        "REGHH": 23,
+        "TOTPOP2000": 156,
+        "MALE2000": 83,
+        "FEMALE2000": 73,
+        "POP2008": 217,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072532004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21478,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.45859900024368,
+          -6.168110999922646
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21478,
+        "CU_NAME": "WIP",
+        "CU_NO": "005",
+        "GEOCODE": "07072532005",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "32",
+        "WARD_NAME": "PULIM 2",
+        "LATITUDE": -6.172353,
+        "LONGITUDE": 143.459603,
+        "REGHH": 47,
+        "TOTPOP2000": 327,
+        "MALE2000": 168,
+        "FEMALE2000": 159,
+        "POP2008": 455,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072532005,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

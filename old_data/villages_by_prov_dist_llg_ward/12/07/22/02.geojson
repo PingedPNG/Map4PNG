@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12016,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.02564599976313,
+          -7.298832999843
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12016,
+        "CU_NAME": "HANJUA",
+        "CU_NO": "006",
+        "GEOCODE": "12072202006",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "02",
+        "WARD_NAME": "HANJUA",
+        "LATITUDE": -7.300262,
+        "LONGITUDE": 146.026443,
+        "REGHH": 114,
+        "TOTPOP2000": 489,
+        "MALE2000": 265,
+        "FEMALE2000": 224,
+        "POP2008": 610,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072202006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12017,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.01554699989424,
+          -7.292096000330105
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12017,
+        "CU_NAME": "PANGAPU",
+        "CU_NO": "018",
+        "GEOCODE": "12072202018",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "02",
+        "WARD_NAME": "HANJUA",
+        "LATITUDE": -7.293521,
+        "LONGITUDE": 146.014508,
+        "REGHH": 26,
+        "TOTPOP2000": 106,
+        "MALE2000": 50,
+        "FEMALE2000": 56,
+        "POP2008": 131,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072202018,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12018,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.03293400040388,
+          -7.3108760003270845
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12018,
+        "CU_NAME": "PEKAPONYL",
+        "CU_NO": "020",
+        "GEOCODE": "12072202020",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "02",
+        "WARD_NAME": "HANJUA",
+        "LATITUDE": -7.312301,
+        "LONGITUDE": 146.031895,
+        "REGHH": 72,
+        "TOTPOP2000": 343,
+        "MALE2000": 196,
+        "FEMALE2000": 147,
+        "POP2008": 428,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072202020,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13286,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.49576399990872,
+          -9.218506000351567
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13286,
+        "CU_NAME": "GEWOIA",
+        "CU_NO": "006",
+        "GEOCODE": "06010315006",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "15",
+        "WARD_NAME": "TOMAL",
+        "LATITUDE": -9.221231,
+        "LONGITUDE": 148.498654,
+        "REGHH": 28,
+        "TOTPOP2000": 149,
+        "MALE2000": 76,
+        "FEMALE2000": 73,
+        "POP2008": 184,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010315006,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13287,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.4063390003447,
+          -9.206285999798979
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13287,
+        "CU_NAME": "TOMA",
+        "CU_NO": "028",
+        "GEOCODE": "06010315028",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "15",
+        "WARD_NAME": "TOMAL",
+        "LATITUDE": -9.210333,
+        "LONGITUDE": 148.401443,
+        "REGHH": 5,
+        "TOTPOP2000": 23,
+        "MALE2000": 12,
+        "FEMALE2000": 11,
+        "POP2008": 31,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010315028,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13288,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.53620599970714,
+          -9.293672999809075
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13288,
+        "CU_NAME": "ORARA",
+        "CU_NO": "033",
+        "GEOCODE": "06010315033",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "15",
+        "WARD_NAME": "TOMAL",
+        "LATITUDE": -9.290547,
+        "LONGITUDE": 148.5362,
+        "REGHH": 10,
+        "TOTPOP2000": 44,
+        "MALE2000": 23,
+        "FEMALE2000": 21,
+        "POP2008": 52,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010315033,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13289,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.52346300021736,
+          -9.229562000286023
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13289,
+        "CU_NAME": "MANANA",
+        "CU_NO": "035",
+        "GEOCODE": "06010315035",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "15",
+        "WARD_NAME": "TOMAL",
+        "LATITUDE": -9.231013,
+        "LONGITUDE": 148.522454,
+        "REGHH": 18,
+        "TOTPOP2000": 104,
+        "MALE2000": 56,
+        "FEMALE2000": 48,
+        "POP2008": 128,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010315035,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13290,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.43986799970844,
+          -9.210766999597297
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13290,
+        "CU_NAME": "BARIRI",
+        "CU_NO": "036",
+        "GEOCODE": "06010315036",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "15",
+        "WARD_NAME": "TOMAL",
+        "LATITUDE": -9.212218,
+        "LONGITUDE": 148.438859,
+        "REGHH": 23,
+        "TOTPOP2000": 270,
+        "MALE2000": 141,
+        "FEMALE2000": 129,
+        "POP2008": 334,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010315036,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13291,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.52341599984857,
+          -9.353886000338605
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13291,
+        "CU_NAME": "BABAROBO",
+        "CU_NO": "048",
+        "GEOCODE": "06010315048",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "15",
+        "WARD_NAME": "TOMAL",
+        "LATITUDE": -9.355339,
+        "LONGITUDE": 148.522406,
+        "REGHH": 8,
+        "TOTPOP2000": 59,
+        "MALE2000": 36,
+        "FEMALE2000": 23,
+        "POP2008": 75,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010315048,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9020149996926,
+          -5.025058999772966
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5542,
+        "CU_NAME": "KOPAIPALU",
+        "CU_NO": "004",
+        "GEOCODE": "08020512004",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "12",
+        "WARD_NAME": "KOPAIPALA",
+        "LATITUDE": -5.033851,
+        "LONGITUDE": 143.905916,
+        "REGHH": 80,
+        "TOTPOP2000": 397,
+        "MALE2000": 212,
+        "FEMALE2000": 185,
+        "POP2008": 500,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020512004,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

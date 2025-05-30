@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15646,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.583500000125,
+          -8.598630999620866
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15646,
+        "CU_NAME": "KINKIN",
+        "CU_NO": "010",
+        "GEOCODE": "01031309010",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "09",
+        "WARD_NAME": "LIMOL",
+        "LATITUDE": -8.60006,
+        "LONGITUDE": 142.582414,
+        "REGHH": 32,
+        "TOTPOP2000": 161,
+        "MALE2000": 85,
+        "FEMALE2000": 76,
+        "POP2008": 208,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031309010,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15647,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.69529599981058,
+          -8.636793000396608
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15647,
+        "CU_NAME": "LIMOL",
+        "CU_NO": "013",
+        "GEOCODE": "01031309013",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "09",
+        "WARD_NAME": "LIMOL",
+        "LATITUDE": -8.638222,
+        "LONGITUDE": 142.694211,
+        "REGHH": 28,
+        "TOTPOP2000": 145,
+        "MALE2000": 65,
+        "FEMALE2000": 80,
+        "POP2008": 188,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031309013,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

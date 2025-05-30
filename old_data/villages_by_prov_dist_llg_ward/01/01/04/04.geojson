@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15171,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3902770002834,
+          -6.81406900018419
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15171,
+        "CU_NAME": "NAGO",
+        "CU_NO": "008",
+        "GEOCODE": "01010404008",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "NAGO",
+        "LATITUDE": -6.815479,
+        "LONGITUDE": 141.389181,
+        "REGHH": 34,
+        "TOTPOP2000": 195,
+        "MALE2000": 104,
+        "FEMALE2000": 91,
+        "POP2008": 253,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010404008,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15172,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.39136099991026,
+          -6.818612000143617
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15172,
+        "CU_NAME": "AEWA",
+        "CU_NO": "009",
+        "GEOCODE": "01010404009",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "NAGO",
+        "LATITUDE": -6.820022,
+        "LONGITUDE": 141.390265,
+        "REGHH": 24,
+        "TOTPOP2000": 161,
+        "MALE2000": 77,
+        "FEMALE2000": 84,
+        "POP2008": 208,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010404009,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

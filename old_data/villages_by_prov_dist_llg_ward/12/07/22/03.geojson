@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12019,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.05184500014673,
+          -7.323774999816351
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12019,
+        "CU_NAME": "PIWI",
+        "CU_NO": "021",
+        "GEOCODE": "12072203021",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "03",
+        "WARD_NAME": "WAUWOKA",
+        "LATITUDE": -7.327298,
+        "LONGITUDE": 146.053596,
+        "REGHH": 64,
+        "TOTPOP2000": 309,
+        "MALE2000": 156,
+        "FEMALE2000": 153,
+        "POP2008": 386,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072203021,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12020,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.06762999962484,
+          -7.305016999934537
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12020,
+        "CU_NAME": "WAUWOKA",
+        "CU_NO": "032",
+        "GEOCODE": "12072203032",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "03",
+        "WARD_NAME": "WAUWOKA",
+        "LATITUDE": -7.306442,
+        "LONGITUDE": 146.066592,
+        "REGHH": 107,
+        "TOTPOP2000": 621,
+        "MALE2000": 319,
+        "FEMALE2000": 302,
+        "POP2008": 773,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072203032,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12021,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1004620001213,
+          -7.343841999808376
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12021,
+        "CU_NAME": "AMAYANGAPI",
+        "CU_NO": "039",
+        "GEOCODE": "12072203039",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "03",
+        "WARD_NAME": "WAUWOKA",
+        "LATITUDE": -7.350267,
+        "LONGITUDE": 146.079219,
+        "REGHH": 15,
+        "TOTPOP2000": 99,
+        "MALE2000": 52,
+        "FEMALE2000": 47,
+        "POP2008": 123,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072203039,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

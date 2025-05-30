@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19453,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.25705800042647,
+          -6.474631999666997
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19453,
+        "CU_NAME": "MAUPINI",
+        "CU_NO": "017",
+        "GEOCODE": "07010423017",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "UNDIYAPU",
+        "LATITUDE": -6.478366,
+        "LONGITUDE": 144.254519,
+        "REGHH": 38,
+        "TOTPOP2000": 193,
+        "MALE2000": 102,
+        "FEMALE2000": 91,
+        "POP2008": 268,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010423017,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19454,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.25212400042233,
+          -6.4755469995943145
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19454,
+        "CU_NAME": "UNDIYAPU",
+        "CU_NO": "034",
+        "GEOCODE": "07010423034",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "UNDIYAPU",
+        "LATITUDE": -6.478366,
+        "LONGITUDE": 144.254519,
+        "REGHH": 52,
+        "TOTPOP2000": 357,
+        "MALE2000": 193,
+        "FEMALE2000": 164,
+        "POP2008": 496,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010423034,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19455,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.25492500008875,
+          -6.472172000437411
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19455,
+        "CU_NAME": "KALAYAPU",
+        "CU_NO": "035",
+        "GEOCODE": "07010423035",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "UNDIYAPU",
+        "LATITUDE": -6.478366,
+        "LONGITUDE": 144.254519,
+        "REGHH": 27,
+        "TOTPOP2000": 167,
+        "MALE2000": 83,
+        "FEMALE2000": 84,
+        "POP2008": 232,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010423035,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19456,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.25175799973192,
+          -6.473606000016844
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19456,
+        "CU_NAME": "KOYAWANE",
+        "CU_NO": "036",
+        "GEOCODE": "07010423036",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "UNDIYAPU",
+        "LATITUDE": -6.478366,
+        "LONGITUDE": 144.254519,
+        "REGHH": 30,
+        "TOTPOP2000": 217,
+        "MALE2000": 110,
+        "FEMALE2000": 107,
+        "POP2008": 301,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010423036,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19457,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.25708099968847,
+          -6.480410999967603
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19457,
+        "CU_NAME": "AMBU",
+        "CU_NO": "037",
+        "GEOCODE": "07010423037",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "UNDIYAPU",
+        "LATITUDE": -6.478366,
+        "LONGITUDE": 144.254519,
+        "REGHH": 21,
+        "TOTPOP2000": 136,
+        "MALE2000": 82,
+        "FEMALE2000": 54,
+        "POP2008": 189,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010423037,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

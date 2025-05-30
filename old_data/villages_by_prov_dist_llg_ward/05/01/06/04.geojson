@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9785,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.32632900018325,
+          -10.650339999691198
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9785,
+        "CU_NAME": "MODEWA",
+        "CU_NO": "018",
+        "GEOCODE": "05010604018",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "MODEWA",
+        "LATITUDE": -10.651811,
+        "LONGITUDE": 150.325341,
+        "REGHH": 41,
+        "TOTPOP2000": 248,
+        "MALE2000": 140,
+        "FEMALE2000": 108,
+        "POP2008": 302,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010604018,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

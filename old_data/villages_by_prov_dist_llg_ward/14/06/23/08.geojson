@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.28891300013493,
+          -3.6162199996531967
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7226,
+        "CU_NAME": "HOWI",
+        "CU_NO": "016",
+        "GEOCODE": "14062308016",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "23",
+        "WARD_NO": "08",
+        "WARD_NAME": "HOWI/WAMAINA",
+        "LATITUDE": -3.617798,
+        "LONGITUDE": 143.287677,
+        "REGHH": 24,
+        "TOTPOP2000": 129,
+        "MALE2000": 64,
+        "FEMALE2000": 65,
+        "POP2008": 153,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062308016,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.30275499994332,
+          -3.6075160002631605
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7227,
+        "CU_NAME": "WAMAINA",
+        "CU_NO": "032",
+        "GEOCODE": "14062308032",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "23",
+        "WARD_NO": "08",
+        "WARD_NAME": "HOWI/WAMAINA",
+        "LATITUDE": -3.612143,
+        "LONGITUDE": 143.297494,
+        "REGHH": 49,
+        "TOTPOP2000": 244,
+        "MALE2000": 116,
+        "FEMALE2000": 128,
+        "POP2008": 290,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062308032,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7228,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.31250699999816,
+          -3.6107209996743563
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7228,
+        "CU_NAME": "PANGU",
+        "CU_NO": "037",
+        "GEOCODE": "14062308037",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "23",
+        "WARD_NO": "08",
+        "WARD_NAME": "HOWI/WAMAINA",
+        "LATITUDE": -3.612299,
+        "LONGITUDE": 143.311271,
+        "REGHH": 34,
+        "TOTPOP2000": 134,
+        "MALE2000": 64,
+        "FEMALE2000": 70,
+        "POP2008": 158,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062308037,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

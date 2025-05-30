@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20029,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.73396400033846,
+          -6.31783200024654
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20029,
+        "CU_NAME": "USA",
+        "CU_NO": "013",
+        "GEOCODE": "07030935013",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "35",
+        "WARD_NAME": "USA",
+        "LATITUDE": -6.325238,
+        "LONGITUDE": 143.735735,
+        "REGHH": 53,
+        "TOTPOP2000": 262,
+        "MALE2000": 137,
+        "FEMALE2000": 125,
+        "POP2008": 363,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030935013,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20030,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7373479999103,
+          -6.319926999731194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20030,
+        "CU_NAME": "YAKIPITA",
+        "CU_NO": "014",
+        "GEOCODE": "07030935014",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "35",
+        "WARD_NAME": "USA",
+        "LATITUDE": -6.325238,
+        "LONGITUDE": 143.735735,
+        "REGHH": 57,
+        "TOTPOP2000": 290,
+        "MALE2000": 148,
+        "FEMALE2000": 142,
+        "POP2008": 403,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030935014,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20031,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.73397700003864,
+          -6.320367000236843
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20031,
+        "CU_NAME": "RAGERO",
+        "CU_NO": "015",
+        "GEOCODE": "07030935015",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "35",
+        "WARD_NAME": "USA",
+        "LATITUDE": -6.325238,
+        "LONGITUDE": 143.735735,
+        "REGHH": 27,
+        "TOTPOP2000": 133,
+        "MALE2000": 78,
+        "FEMALE2000": 55,
+        "POP2008": 185,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030935015,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20032,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.73586800000828,
+          -6.319088999757469
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20032,
+        "CU_NAME": "USA COMM. SCH",
+        "CU_NO": "401",
+        "GEOCODE": "07030935401",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "35",
+        "WARD_NAME": "USA",
+        "LATITUDE": -6.325238,
+        "LONGITUDE": 143.735735,
+        "REGHH": 5,
+        "TOTPOP2000": 23,
+        "MALE2000": 12,
+        "FEMALE2000": 11,
+        "POP2008": 31,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030935401,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

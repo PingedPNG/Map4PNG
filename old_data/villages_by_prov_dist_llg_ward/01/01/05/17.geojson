@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15247,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.9326000003898,
+          -6.161427000155868
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15247,
+        "CU_NAME": "PIPILA",
+        "CU_NO": "008",
+        "GEOCODE": "01010517008",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "PIPILA",
+        "LATITUDE": -6.162832,
+        "LONGITUDE": 141.931512,
+        "REGHH": 26,
+        "TOTPOP2000": 150,
+        "MALE2000": 73,
+        "FEMALE2000": 77,
+        "POP2008": 194,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010517008,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15248,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.99242800025206,
+          -6.181492000055698
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15248,
+        "CU_NAME": "TEGENA",
+        "CU_NO": "009",
+        "GEOCODE": "01010517009",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "PIPILA",
+        "LATITUDE": -6.182897,
+        "LONGITUDE": 141.991341,
+        "REGHH": 33,
+        "TOTPOP2000": 135,
+        "MALE2000": 74,
+        "FEMALE2000": 61,
+        "POP2008": 175,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010517009,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

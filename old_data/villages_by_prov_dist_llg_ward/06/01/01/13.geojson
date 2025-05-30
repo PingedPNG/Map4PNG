@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13037,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.41334100038694,
+          -8.758340000090868
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13037,
+        "CU_NAME": "BARISARI",
+        "CU_NO": "004",
+        "GEOCODE": "06010113004",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "13",
+        "WARD_NAME": "BARISARI",
+        "LATITUDE": -8.762329,
+        "LONGITUDE": 148.407896,
+        "REGHH": 106,
+        "TOTPOP2000": 654,
+        "MALE2000": 352,
+        "FEMALE2000": 302,
+        "POP2008": 810,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010113004,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13038,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.45048299999053,
+          -8.758043999930578
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13038,
+        "CU_NAME": "GARURO",
+        "CU_NO": "020",
+        "GEOCODE": "06010113020",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "13",
+        "WARD_NAME": "BARISARI",
+        "LATITUDE": -8.75949,
+        "LONGITUDE": 148.449474,
+        "REGHH": 42,
+        "TOTPOP2000": 272,
+        "MALE2000": 147,
+        "FEMALE2000": 125,
+        "POP2008": 337,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010113020,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13039,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.43354300030933,
+          -8.765854000361799
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13039,
+        "CU_NAME": "HANAU",
+        "CU_NO": "024",
+        "GEOCODE": "06010113024",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "13",
+        "WARD_NAME": "BARISARI",
+        "LATITUDE": -8.7711,
+        "LONGITUDE": 148.430009,
+        "REGHH": 13,
+        "TOTPOP2000": 103,
+        "MALE2000": 61,
+        "FEMALE2000": 42,
+        "POP2008": 127,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010113024,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13040,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.41219799983787,
+          -8.775433999679308
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13040,
+        "CU_NAME": "SORODIGARI",
+        "CU_NO": "025",
+        "GEOCODE": "06010113025",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "13",
+        "WARD_NAME": "BARISARI",
+        "LATITUDE": -8.77688,
+        "LONGITUDE": 148.411188,
+        "REGHH": 17,
+        "TOTPOP2000": 105,
+        "MALE2000": 60,
+        "FEMALE2000": 45,
+        "POP2008": 129,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010113025,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13041,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.38953299964828,
+          -8.757414999702405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13041,
+        "CU_NAME": "TANESE",
+        "CU_NO": "026",
+        "GEOCODE": "06010113026",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "13",
+        "WARD_NAME": "BARISARI",
+        "LATITUDE": -8.75918,
+        "LONGITUDE": 148.386641,
+        "REGHH": 26,
+        "TOTPOP2000": 171,
+        "MALE2000": 85,
+        "FEMALE2000": 86,
+        "POP2008": 212,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010113026,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

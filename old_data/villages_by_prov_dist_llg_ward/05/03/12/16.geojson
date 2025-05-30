@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.08577499991634,
+          -8.526089999853582
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10132,
+        "CU_NAME": "KAPWAPU",
+        "CU_NO": "006",
+        "GEOCODE": "05031216006",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "16",
+        "WARD_NAME": "KAPWAPU",
+        "LATITUDE": -8.527541,
+        "LONGITUDE": 151.084805,
+        "REGHH": 86,
+        "TOTPOP2000": 339,
+        "MALE2000": 164,
+        "FEMALE2000": 175,
+        "POP2008": 413,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031216006,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0772580001567,
+          -8.521535000240021
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10133,
+        "CU_NAME": "KUDUKWAKELA",
+        "CU_NO": "008",
+        "GEOCODE": "05031216008",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "16",
+        "WARD_NAME": "KAPWAPU",
+        "LATITUDE": -8.522987,
+        "LONGITUDE": 151.076288,
+        "REGHH": 36,
+        "TOTPOP2000": 165,
+        "MALE2000": 87,
+        "FEMALE2000": 78,
+        "POP2008": 201,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031216008,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

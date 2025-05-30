@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14319,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.17083900011983,
+          -6.370894000157932
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14319,
+        "CU_NAME": "KUKUMA",
+        "CU_NO": "004",
+        "GEOCODE": "10030813004",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "KALEM",
+        "LATITUDE": -6.372308,
+        "LONGITUDE": 145.169791,
+        "REGHH": 40,
+        "TOTPOP2000": 185,
+        "MALE2000": 84,
+        "FEMALE2000": 101,
+        "POP2008": 213,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030813004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14320,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.16650599995205,
+          -6.372936999942567
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14320,
+        "CU_NAME": "MURAGOI",
+        "CU_NO": "005",
+        "GEOCODE": "10030813005",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "KALEM",
+        "LATITUDE": -6.374351,
+        "LONGITUDE": 145.165458,
+        "REGHH": 49,
+        "TOTPOP2000": 201,
+        "MALE2000": 100,
+        "FEMALE2000": 101,
+        "POP2008": 233,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030813005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14321,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.16997299975424,
+          -6.3758169996547736
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14321,
+        "CU_NAME": "ABURI",
+        "CU_NO": "006",
+        "GEOCODE": "10030813006",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "KALEM",
+        "LATITUDE": -6.377231,
+        "LONGITUDE": 145.168925,
+        "REGHH": 45,
+        "TOTPOP2000": 193,
+        "MALE2000": 100,
+        "FEMALE2000": 93,
+        "POP2008": 224,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030813006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14322,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.17207100027656,
+          -6.378713000104824
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14322,
+        "CU_NAME": "MUNERI",
+        "CU_NO": "007",
+        "GEOCODE": "10030813007",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "KALEM",
+        "LATITUDE": -6.380127,
+        "LONGITUDE": 145.171023,
+        "REGHH": 41,
+        "TOTPOP2000": 203,
+        "MALE2000": 103,
+        "FEMALE2000": 100,
+        "POP2008": 235,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030813007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14323,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.17244200029813,
+          -6.381170000095381
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14323,
+        "CU_NAME": "LAS WARA",
+        "CU_NO": "008",
+        "GEOCODE": "10030813008",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "KALEM",
+        "LATITUDE": -6.382584,
+        "LONGITUDE": 145.171394,
+        "REGHH": 18,
+        "TOTPOP2000": 65,
+        "MALE2000": 30,
+        "FEMALE2000": 35,
+        "POP2008": 73,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030813008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.17343100004064,
+          -6.387928999723499
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14324,
+        "CU_NAME": "OWAIHO",
+        "CU_NO": "009",
+        "GEOCODE": "10030813009",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "KALEM",
+        "LATITUDE": -6.389343,
+        "LONGITUDE": 145.172383,
+        "REGHH": 8,
+        "TOTPOP2000": 35,
+        "MALE2000": 20,
+        "FEMALE2000": 15,
+        "POP2008": 43,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030813009,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

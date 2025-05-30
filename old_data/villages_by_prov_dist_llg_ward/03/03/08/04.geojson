@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1320,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.56462400029739,
+          -8.857183999641848
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1320,
+        "CU_NAME": "DELENA",
+        "CU_NO": "004",
+        "GEOCODE": "03030804004",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "DELENA",
+        "LATITUDE": -8.856956,
+        "LONGITUDE": 146.565162,
+        "REGHH": 64,
+        "TOTPOP2000": 417,
+        "MALE2000": 209,
+        "FEMALE2000": 208,
+        "POP2008": 501,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030804004,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.62534900015635,
+          -8.796907999804318
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1321,
+        "CU_NAME": "NIKURA",
+        "CU_NO": "007",
+        "GEOCODE": "03030804007",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "DELENA",
+        "LATITUDE": -8.79835,
+        "LONGITUDE": 146.624315,
+        "REGHH": 49,
+        "TOTPOP2000": 299,
+        "MALE2000": 167,
+        "FEMALE2000": 132,
+        "POP2008": 359,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030804007,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1322,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.56694500031153,
+          -8.852387999706366
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1322,
+        "CU_NAME": "POUKAMA",
+        "CU_NO": "009",
+        "GEOCODE": "03030804009",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "DELENA",
+        "LATITUDE": -8.85216,
+        "LONGITUDE": 146.567483,
+        "REGHH": 43,
+        "TOTPOP2000": 290,
+        "MALE2000": 154,
+        "FEMALE2000": 136,
+        "POP2008": 348,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030804009,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1323,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.64016199977652,
+          -8.791032000426412
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1323,
+        "CU_NAME": "NAMANAMA VOC. CNTR",
+        "CU_NO": "401",
+        "GEOCODE": "03030804401",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "DELENA",
+        "LATITUDE": -8.792474,
+        "LONGITUDE": 146.639128,
+        "REGHH": 2,
+        "TOTPOP2000": 13,
+        "MALE2000": 10,
+        "FEMALE2000": 3,
+        "POP2008": 13,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030804401,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.59502600024973,
+          -8.849324999648957
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1324,
+        "CU_NAME": "KARA LOGGING CAMP",
+        "CU_NO": "402",
+        "GEOCODE": "03030804402",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "DELENA",
+        "LATITUDE": -8.850767,
+        "LONGITUDE": 146.593991,
+        "REGHH": 3,
+        "TOTPOP2000": 6,
+        "MALE2000": 6,
+        "FEMALE2000": 0,
+        "POP2008": 6,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030804402,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.483540000071,
+          -8.898694000127932
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13007,
+        "CU_NAME": "BEAMA",
+        "CU_NO": "005",
+        "GEOCODE": "06010107005",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "BEAMA",
+        "LATITUDE": -8.8995,
+        "LONGITUDE": 148.485069,
+        "REGHH": 88,
+        "TOTPOP2000": 556,
+        "MALE2000": 281,
+        "FEMALE2000": 275,
+        "POP2008": 688,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010107005,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.47543000019436,
+          -8.867792999647179
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13008,
+        "CU_NAME": "KOPURE",
+        "CU_NO": "030",
+        "GEOCODE": "06010107030",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "BEAMA",
+        "LATITUDE": -8.869241,
+        "LONGITUDE": 148.474421,
+        "REGHH": 53,
+        "TOTPOP2000": 319,
+        "MALE2000": 161,
+        "FEMALE2000": 158,
+        "POP2008": 395,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010107030,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13009,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.4846170002744,
+          -8.890385000067624
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13009,
+        "CU_NAME": "KATEREDA H/C",
+        "CU_NO": "401",
+        "GEOCODE": "06010107401",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "BEAMA",
+        "LATITUDE": -8.891833,
+        "LONGITUDE": 148.483608,
+        "REGHH": 11,
+        "TOTPOP2000": 66,
+        "MALE2000": 38,
+        "FEMALE2000": 28,
+        "POP2008": 82,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010107401,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13010,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.49461299989014,
+          -8.900046000422549
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13010,
+        "CU_NAME": "PNG HARBOURS BOARD",
+        "CU_NO": "407",
+        "GEOCODE": "06010107407",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "BEAMA",
+        "LATITUDE": -8.899604,
+        "LONGITUDE": 148.492326,
+        "REGHH": 5,
+        "TOTPOP2000": 19,
+        "MALE2000": 10,
+        "FEMALE2000": 9,
+        "POP2008": 27,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010107407,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13011,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.48764899980154,
+          -8.888694000327803
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13011,
+        "CU_NAME": "DPI STATION - ORO BAY",
+        "CU_NO": "409",
+        "GEOCODE": "06010107409",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "BEAMA",
+        "LATITUDE": -8.891397,
+        "LONGITUDE": 148.488551,
+        "REGHH": 5,
+        "TOTPOP2000": 27,
+        "MALE2000": 17,
+        "FEMALE2000": 10,
+        "POP2008": 35,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010107409,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

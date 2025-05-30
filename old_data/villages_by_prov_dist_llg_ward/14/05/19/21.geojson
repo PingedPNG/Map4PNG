@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7067,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.20934700016403,
+          -4.076388000006148
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7067,
+        "CU_NAME": "KEMBIAM",
+        "CU_NO": "002",
+        "GEOCODE": "14051921002",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "19",
+        "WARD_NO": "21",
+        "WARD_NAME": "KEMBIAM",
+        "LATITUDE": -4.077971,
+        "LONGITUDE": 143.208109,
+        "REGHH": 53,
+        "TOTPOP2000": 206,
+        "MALE2000": 105,
+        "FEMALE2000": 101,
+        "POP2008": 246,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14051921002,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7068,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.19219599974565,
+          -4.078734000273869
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7068,
+        "CU_NAME": "WANIKO",
+        "CU_NO": "003",
+        "GEOCODE": "14051921003",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "19",
+        "WARD_NO": "21",
+        "WARD_NAME": "KEMBIAM",
+        "LATITUDE": -4.080317,
+        "LONGITUDE": 143.190958,
+        "REGHH": 23,
+        "TOTPOP2000": 115,
+        "MALE2000": 69,
+        "FEMALE2000": 46,
+        "POP2008": 139,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14051921003,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7069,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.20453699958296,
+          -4.069291000079545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7069,
+        "CU_NAME": "WANIKO 3",
+        "CU_NO": "004",
+        "GEOCODE": "14051921004",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "19",
+        "WARD_NO": "21",
+        "WARD_NAME": "KEMBIAM",
+        "LATITUDE": -4.070874,
+        "LONGITUDE": 143.203299,
+        "REGHH": 15,
+        "TOTPOP2000": 102,
+        "MALE2000": 58,
+        "FEMALE2000": 44,
+        "POP2008": 120,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14051921004,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

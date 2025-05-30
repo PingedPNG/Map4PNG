@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11972,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91728800034105,
+          -7.197233000002882
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11972,
+        "CU_NAME": "POKUYALYE",
+        "CU_NO": "008",
+        "GEOCODE": "12072110008",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "10",
+        "WARD_NAME": "KWAPLALEM",
+        "LATITUDE": -7.198657,
+        "LONGITUDE": 145.916248,
+        "REGHH": 18,
+        "TOTPOP2000": 112,
+        "MALE2000": 52,
+        "FEMALE2000": 60,
+        "POP2008": 139,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072110008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11973,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91346300021735,
+          -7.193810000431142
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11973,
+        "CU_NAME": "IWOLYW",
+        "CU_NO": "009",
+        "GEOCODE": "12072110009",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "10",
+        "WARD_NAME": "KWAPLALEM",
+        "LATITUDE": -7.195234,
+        "LONGITUDE": 145.912423,
+        "REGHH": 71,
+        "TOTPOP2000": 353,
+        "MALE2000": 186,
+        "FEMALE2000": 167,
+        "POP2008": 440,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072110009,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11974,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.92686699961246,
+          -7.1890490003110585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11974,
+        "CU_NAME": "NAPANARAKUYASE",
+        "CU_NO": "011",
+        "GEOCODE": "12072110011",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "10",
+        "WARD_NAME": "KWAPLALEM",
+        "LATITUDE": -7.190473,
+        "LONGITUDE": 145.925827,
+        "REGHH": 68,
+        "TOTPOP2000": 403,
+        "MALE2000": 199,
+        "FEMALE2000": 204,
+        "POP2008": 503,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072110011,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11975,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91737799999476,
+          -7.200269999760621
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11975,
+        "CU_NAME": "KWAPLALEM",
+        "CU_NO": "012",
+        "GEOCODE": "12072110012",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "10",
+        "WARD_NAME": "KWAPLALEM",
+        "LATITUDE": -7.201694,
+        "LONGITUDE": 145.916338,
+        "REGHH": 77,
+        "TOTPOP2000": 458,
+        "MALE2000": 237,
+        "FEMALE2000": 221,
+        "POP2008": 572,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072110012,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9248690001043,
+          -7.193129999649727
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11976,
+        "CU_NAME": "KAWAPLALEM STATION",
+        "CU_NO": "401",
+        "GEOCODE": "12072110401",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "10",
+        "WARD_NAME": "KWAPLALEM",
+        "LATITUDE": -7.196645,
+        "LONGITUDE": 145.923475,
+        "REGHH": 14,
+        "TOTPOP2000": 61,
+        "MALE2000": 27,
+        "FEMALE2000": 34,
+        "POP2008": 77,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072110401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

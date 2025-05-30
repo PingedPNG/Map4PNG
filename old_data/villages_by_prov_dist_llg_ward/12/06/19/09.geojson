@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.50094099982732,
+          -6.116102000007231
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11747,
+        "CU_NAME": "NAPNA",
+        "CU_NO": "018",
+        "GEOCODE": "12061909018",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "09",
+        "WARD_NAME": "KUBUNG",
+        "LATITUDE": -6.117516,
+        "LONGITUDE": 146.499911,
+        "REGHH": 14,
+        "TOTPOP2000": 73,
+        "MALE2000": 43,
+        "FEMALE2000": 30,
+        "POP2008": 89,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061909018,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11748,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.49401999992313,
+          -6.13329999989503
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11748,
+        "CU_NAME": "SIPOT",
+        "CU_NO": "019",
+        "GEOCODE": "12061909019",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "09",
+        "WARD_NAME": "KUBUNG",
+        "LATITUDE": -6.134714,
+        "LONGITUDE": 146.49299,
+        "REGHH": 11,
+        "TOTPOP2000": 51,
+        "MALE2000": 24,
+        "FEMALE2000": 27,
+        "POP2008": 64,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061909019,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11749,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.48665800036645,
+          -6.139104000449208
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11749,
+        "CU_NAME": "YANGAKOP",
+        "CU_NO": "020",
+        "GEOCODE": "12061909020",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "09",
+        "WARD_NAME": "KUBUNG",
+        "LATITUDE": -6.138815,
+        "LONGITUDE": 146.487674,
+        "REGHH": 24,
+        "TOTPOP2000": 89,
+        "MALE2000": 46,
+        "FEMALE2000": 43,
+        "POP2008": 112,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061909020,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11750,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.49210000041478,
+          -6.127183000195259
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11750,
+        "CU_NAME": "GWAPZIT",
+        "CU_NO": "021",
+        "GEOCODE": "12061909021",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "09",
+        "WARD_NAME": "KUBUNG",
+        "LATITUDE": -6.128597,
+        "LONGITUDE": 146.49107,
+        "REGHH": 17,
+        "TOTPOP2000": 71,
+        "MALE2000": 38,
+        "FEMALE2000": 33,
+        "POP2008": 87,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061909021,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.50056300038227,
+          -6.108951000288414
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11751,
+        "CU_NAME": "KUBUNG",
+        "CU_NO": "027",
+        "GEOCODE": "12061909027",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "09",
+        "WARD_NAME": "KUBUNG",
+        "LATITUDE": -6.110365,
+        "LONGITUDE": 146.499533,
+        "REGHH": 38,
+        "TOTPOP2000": 236,
+        "MALE2000": 130,
+        "FEMALE2000": 106,
+        "POP2008": 295,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061909027,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11752,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.49891499992736,
+          -6.117220000302723
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11752,
+        "CU_NAME": "PIUNG",
+        "CU_NO": "034",
+        "GEOCODE": "12061909034",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "09",
+        "WARD_NAME": "KUBUNG",
+        "LATITUDE": -6.118634,
+        "LONGITUDE": 146.497885,
+        "REGHH": 18,
+        "TOTPOP2000": 88,
+        "MALE2000": 48,
+        "FEMALE2000": 40,
+        "POP2008": 111,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061909034,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

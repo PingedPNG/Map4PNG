@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7047,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.10498499975802,
+          -4.024854999558556
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7047,
+        "CU_NAME": "YANGIT",
+        "CU_NO": "022",
+        "GEOCODE": "14051913022",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "19",
+        "WARD_NO": "13",
+        "WARD_NAME": "YANGIT",
+        "LATITUDE": -4.028986,
+        "LONGITUDE": 143.104769,
+        "REGHH": 39,
+        "TOTPOP2000": 231,
+        "MALE2000": 107,
+        "FEMALE2000": 124,
+        "POP2008": 275,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14051913022,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

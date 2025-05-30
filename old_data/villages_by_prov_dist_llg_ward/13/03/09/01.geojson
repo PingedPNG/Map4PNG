@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8589,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.43519499994932,
+          -5.197682999570702
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8589,
+        "CU_NAME": "SALEMP (008)",
+        "CU_NO": "008",
+        "GEOCODE": "13030901008",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "01",
+        "WARD_NAME": "SALEMP",
+        "LATITUDE": -5.199083,
+        "LONGITUDE": 144.43414,
+        "REGHH": 104,
+        "TOTPOP2000": 816,
+        "MALE2000": 417,
+        "FEMALE2000": 399,
+        "POP2008": 1011,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030901008,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

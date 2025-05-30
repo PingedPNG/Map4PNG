@@ -1,0 +1,261 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.45798599955435,
+          -4.699787999616433
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18100,
+        "CU_NAME": "BALANGORE NO. 1",
+        "CU_NO": "001",
+        "GEOCODE": "19020706001",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "WEST GAROVE",
+        "LATITUDE": -4.70119,
+        "LONGITUDE": 149.457,
+        "REGHH": 120,
+        "TOTPOP2000": 632,
+        "MALE2000": 313,
+        "FEMALE2000": 319,
+        "POP2008": 832,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020706001,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.48298600040368,
+          -4.692617999920685
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18101,
+        "CU_NAME": "BALANGORE NO. 2",
+        "CU_NO": "002",
+        "GEOCODE": "19020706002",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "WEST GAROVE",
+        "LATITUDE": -4.69402,
+        "LONGITUDE": 149.482,
+        "REGHH": 63,
+        "TOTPOP2000": 291,
+        "MALE2000": 150,
+        "FEMALE2000": 141,
+        "POP2008": 384,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020706002,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.43755699995563,
+          -4.693195999595673
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18102,
+        "CU_NAME": "VITUHU",
+        "CU_NO": "027",
+        "GEOCODE": "19020706027",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "WEST GAROVE",
+        "LATITUDE": -4.694598,
+        "LONGITUDE": 149.43657,
+        "REGHH": 93,
+        "TOTPOP2000": 534,
+        "MALE2000": 278,
+        "FEMALE2000": 256,
+        "POP2008": 703,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020706027,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.51233500036005,
+          -4.7017819998393975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18103,
+        "CU_NAME": "VIRIO",
+        "CU_NO": "028",
+        "GEOCODE": "19020706028",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "WEST GAROVE",
+        "LATITUDE": -4.703184,
+        "LONGITUDE": 149.511349,
+        "REGHH": 11,
+        "TOTPOP2000": 56,
+        "MALE2000": 31,
+        "FEMALE2000": 25,
+        "POP2008": 72,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020706028,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.48398599975417,
+          -4.7008380003733805
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18104,
+        "CU_NAME": "DALAROTO",
+        "CU_NO": "029",
+        "GEOCODE": "19020706029",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "WEST GAROVE",
+        "LATITUDE": -4.70224,
+        "LONGITUDE": 149.483,
+        "REGHH": 12,
+        "TOTPOP2000": 59,
+        "MALE2000": 31,
+        "FEMALE2000": 28,
+        "POP2008": 76,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020706029,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.48898600010386,
+          -4.702098000022659
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18105,
+        "CU_NAME": "TALOBI",
+        "CU_NO": "030",
+        "GEOCODE": "19020706030",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "WEST GAROVE",
+        "LATITUDE": -4.7035,
+        "LONGITUDE": 149.488,
+        "REGHH": 22,
+        "TOTPOP2000": 118,
+        "MALE2000": 67,
+        "FEMALE2000": 51,
+        "POP2008": 155,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020706030,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.44098699985022,
+          -4.6903479995604584
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18106,
+        "CU_NAME": "VITU GOVT. STATION",
+        "CU_NO": "501",
+        "GEOCODE": "19020706501",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "WEST GAROVE",
+        "LATITUDE": -4.69175,
+        "LONGITUDE": 149.44,
+        "REGHH": 7,
+        "TOTPOP2000": 73,
+        "MALE2000": 33,
+        "FEMALE2000": 40,
+        "POP2008": 97,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020706501,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.48919299975717,
+          -4.6903879996064575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18107,
+        "CU_NAME": "ST. MICHAEL'S CATH. MISSION",
+        "CU_NO": "502",
+        "GEOCODE": "19020706502",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "WEST GAROVE",
+        "LATITUDE": -4.691372,
+        "LONGITUDE": 149.490127,
+        "REGHH": 32,
+        "TOTPOP2000": 204,
+        "MALE2000": 112,
+        "FEMALE2000": 92,
+        "POP2008": 268,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020706502,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

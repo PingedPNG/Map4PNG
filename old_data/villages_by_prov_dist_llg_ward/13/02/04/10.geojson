@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.76137599960282,
+          -5.092772999973931
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8119,
+        "CU_NAME": "MABENOB",
+        "CU_NO": "021",
+        "GEOCODE": "13020410021",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "WARD 10",
+        "LATITUDE": -5.094174,
+        "LONGITUDE": 145.760338,
+        "REGHH": 119,
+        "TOTPOP2000": 769,
+        "MALE2000": 396,
+        "FEMALE2000": 373,
+        "POP2008": 951,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020410021,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.82170500008579,
+          -5.0881600003836525
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8120,
+        "CU_NAME": "SEK",
+        "CU_NO": "031",
+        "GEOCODE": "13020410031",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "WARD 10",
+        "LATITUDE": -5.08946,
+        "LONGITUDE": 145.821486,
+        "REGHH": 157,
+        "TOTPOP2000": 1005,
+        "MALE2000": 527,
+        "FEMALE2000": 478,
+        "POP2008": 1244,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020410031,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8021009998613,
+          -5.108265000329482
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8121,
+        "CU_NAME": "DAPU",
+        "CU_NO": "032",
+        "GEOCODE": "13020410032",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "WARD 10",
+        "LATITUDE": -5.109666,
+        "LONGITUDE": 145.801064,
+        "REGHH": 59,
+        "TOTPOP2000": 412,
+        "MALE2000": 224,
+        "FEMALE2000": 188,
+        "POP2008": 509,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020410032,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8122,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.80598399996165,
+          -5.092510999582942
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8122,
+        "CU_NAME": "ALEXISHAFEN CATH. MISS",
+        "CU_NO": "501",
+        "GEOCODE": "13020410501",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "WARD 10",
+        "LATITUDE": -5.093697,
+        "LONGITUDE": 145.805378,
+        "REGHH": 68,
+        "TOTPOP2000": 482,
+        "MALE2000": 272,
+        "FEMALE2000": 210,
+        "POP2008": 596,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020410501,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

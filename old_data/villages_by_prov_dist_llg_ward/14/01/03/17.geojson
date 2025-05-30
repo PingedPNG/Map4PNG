@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6193,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.68726199984144,
+          -3.6555460001477513
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6193,
+        "CU_NAME": "KUBRIWAT 2",
+        "CU_NO": "001",
+        "GEOCODE": "14010317001",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "17",
+        "WARD_NAME": "KUBRIWAT 2",
+        "LATITUDE": -3.657124,
+        "LONGITUDE": 142.686017,
+        "REGHH": 106,
+        "TOTPOP2000": 445,
+        "MALE2000": 242,
+        "FEMALE2000": 203,
+        "POP2008": 529,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010317001,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

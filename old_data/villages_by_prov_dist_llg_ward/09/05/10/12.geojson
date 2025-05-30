@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.07108200003438,
+          -5.514477000013471
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17155,
+        "CU_NAME": "WANGUMALI",
+        "CU_NO": "001",
+        "GEOCODE": "09051012001",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "WANGUMALI",
+        "LATITUDE": -5.515412,
+        "LONGITUDE": 144.071414,
+        "REGHH": 37,
+        "TOTPOP2000": 122,
+        "MALE2000": 61,
+        "FEMALE2000": 61,
+        "POP2008": 148,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051012001,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.07061099989778,
+          -5.50918299959568
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17156,
+        "CU_NAME": "AMBANKEUSA",
+        "CU_NO": "002",
+        "GEOCODE": "09051012002",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "WANGUMALI",
+        "LATITUDE": -5.510118,
+        "LONGITUDE": 144.070943,
+        "REGHH": 17,
+        "TOTPOP2000": 49,
+        "MALE2000": 27,
+        "FEMALE2000": 22,
+        "POP2008": 57,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051012002,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

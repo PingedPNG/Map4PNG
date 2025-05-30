@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18914,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.27499800005774,
+          -2.6636950002240383
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18914,
+        "CU_NAME": "VANIMO (LIDO)",
+        "CU_NO": "002",
+        "GEOCODE": "15041306002",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "06",
+        "WARD_NAME": "VANIMO (LIDO)",
+        "LATITUDE": -2.663273,
+        "LONGITUDE": 141.2745,
+        "REGHH": 175,
+        "TOTPOP2000": 1197,
+        "MALE2000": 651,
+        "FEMALE2000": 546,
+        "POP2008": 1447,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041306002,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18915,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.27327799987984,
+          -2.6846940000280597
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18915,
+        "CU_NAME": "ILOLO",
+        "CU_NO": "003",
+        "GEOCODE": "15041306003",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "06",
+        "WARD_NAME": "VANIMO (LIDO)",
+        "LATITUDE": -2.683957,
+        "LONGITUDE": 141.273984,
+        "REGHH": 25,
+        "TOTPOP2000": 209,
+        "MALE2000": 133,
+        "FEMALE2000": 76,
+        "POP2008": 252,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041306003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18916,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2681089998306,
+          -2.7157630001622692
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18916,
+        "CU_NAME": "KARANAS PIT",
+        "CU_NO": "004",
+        "GEOCODE": "15041306004",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "06",
+        "WARD_NAME": "VANIMO (LIDO)",
+        "LATITUDE": -2.717132,
+        "LONGITUDE": 141.267018,
+        "REGHH": 34,
+        "TOTPOP2000": 230,
+        "MALE2000": 119,
+        "FEMALE2000": 111,
+        "POP2008": 279,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041306004,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

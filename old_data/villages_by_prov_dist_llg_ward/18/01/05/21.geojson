@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4624,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.20552600022484,
+          -4.425850999723821
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4624,
+        "CU_NAME": "WAIRIKI NO.3",
+        "CU_NO": "006",
+        "GEOCODE": "18010521006",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "21",
+        "WARD_NAME": "WAIRIKI NO.3",
+        "LATITUDE": -4.42682,
+        "LONGITUDE": 152.205662,
+        "REGHH": 135,
+        "TOTPOP2000": 773,
+        "MALE2000": 409,
+        "FEMALE2000": 364,
+        "POP2008": 941,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010521006,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4625,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.20604399983074,
+          -4.4114300001942865
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4625,
+        "CU_NAME": "WAIRIKI PLNT",
+        "CU_NO": "505",
+        "GEOCODE": "18010521505",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "21",
+        "WARD_NAME": "WAIRIKI NO.3",
+        "LATITUDE": -4.412832,
+        "LONGITUDE": 152.205098,
+        "REGHH": 5,
+        "TOTPOP2000": 45,
+        "MALE2000": 30,
+        "FEMALE2000": 15,
+        "POP2008": 53,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010521505,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4626,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.20704300003445,
+          -4.423247000148876
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4626,
+        "CU_NAME": "OISCA",
+        "CU_NO": "506",
+        "GEOCODE": "18010521506",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "21",
+        "WARD_NAME": "WAIRIKI NO.3",
+        "LATITUDE": -4.42682,
+        "LONGITUDE": 152.205662,
+        "REGHH": 7,
+        "TOTPOP2000": 45,
+        "MALE2000": 38,
+        "FEMALE2000": 7,
+        "POP2008": 53,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010521506,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4627,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.2015749996865,
+          -4.4471709999416476
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4627,
+        "CU_NAME": "WATERSMEET PLANTATION",
+        "CU_NO": "507",
+        "GEOCODE": "18010521507",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "21",
+        "WARD_NAME": "WAIRIKI NO.3",
+        "LATITUDE": -4.448573,
+        "LONGITUDE": 152.200629,
+        "REGHH": 14,
+        "TOTPOP2000": 104,
+        "MALE2000": 69,
+        "FEMALE2000": 35,
+        "POP2008": 128,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010521507,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.26461699977483,
+          -3.6283070003677267
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18888,
+        "CU_NAME": "MASINERI",
+        "CU_NO": "016",
+        "GEOCODE": "15041215016",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "15",
+        "WARD_NAME": "MASINERI-NAI NO. 2",
+        "LATITUDE": -3.629686,
+        "LONGITUDE": 141.263525,
+        "REGHH": 16,
+        "TOTPOP2000": 87,
+        "MALE2000": 48,
+        "FEMALE2000": 39,
+        "POP2008": 103,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041215016,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18889,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.30276699999706,
+          -3.6231170002492945
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18889,
+        "CU_NAME": "MOURI",
+        "CU_NO": "017",
+        "GEOCODE": "15041215017",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "15",
+        "WARD_NAME": "MASINERI-NAI NO. 2",
+        "LATITUDE": -3.624496,
+        "LONGITUDE": 141.301676,
+        "REGHH": 20,
+        "TOTPOP2000": 75,
+        "MALE2000": 33,
+        "FEMALE2000": 42,
+        "POP2008": 91,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041215017,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18890,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2627560002893,
+          -3.6751810000030787
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18890,
+        "CU_NAME": "NAI 2",
+        "CU_NO": "019",
+        "GEOCODE": "15041215019",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "15",
+        "WARD_NAME": "MASINERI-NAI NO. 2",
+        "LATITUDE": -3.664307,
+        "LONGITUDE": 141.261661,
+        "REGHH": 29,
+        "TOTPOP2000": 175,
+        "MALE2000": 98,
+        "FEMALE2000": 77,
+        "POP2008": 211,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041215019,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18891,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2514390000099,
+          -3.6115360003860815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18891,
+        "CU_NAME": "OWANIAK",
+        "CU_NO": "022",
+        "GEOCODE": "15041215022",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "15",
+        "WARD_NAME": "MASINERI-NAI NO. 2",
+        "LATITUDE": -3.612915,
+        "LONGITUDE": 141.250347,
+        "REGHH": 29,
+        "TOTPOP2000": 160,
+        "MALE2000": 84,
+        "FEMALE2000": 76,
+        "POP2008": 193,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041215022,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18892,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2248549998584,
+          -3.5949609995504375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18892,
+        "CU_NAME": "WOFNERI",
+        "CU_NO": "027",
+        "GEOCODE": "15041215027",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "15",
+        "WARD_NAME": "MASINERI-NAI NO. 2",
+        "LATITUDE": -3.596339,
+        "LONGITUDE": 141.223763,
+        "REGHH": 49,
+        "TOTPOP2000": 246,
+        "MALE2000": 130,
+        "FEMALE2000": 116,
+        "POP2008": 297,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041215027,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

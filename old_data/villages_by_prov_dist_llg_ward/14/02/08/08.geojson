@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6489,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0018869998852,
+          -3.7956579998167967
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6489,
+        "CU_NAME": "ARAMUT",
+        "CU_NO": "001",
+        "GEOCODE": "14020808001",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "MURIK",
+        "LATITUDE": -3.794976,
+        "LONGITUDE": 143.998682,
+        "REGHH": 38,
+        "TOTPOP2000": 250,
+        "MALE2000": 114,
+        "FEMALE2000": 136,
+        "POP2008": 298,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020808001,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6490,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1584550002981,
+          -3.786115999553715
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6490,
+        "CU_NAME": "JANGAIMOT",
+        "CU_NO": "003",
+        "GEOCODE": "14020808003",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "MURIK",
+        "LATITUDE": -3.784902,
+        "LONGITUDE": 144.158735,
+        "REGHH": 28,
+        "TOTPOP2000": 148,
+        "MALE2000": 81,
+        "FEMALE2000": 67,
+        "POP2008": 176,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020808003,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.14971099996274,
+          -3.785545000201523
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6491,
+        "CU_NAME": "WAGAMUT",
+        "CU_NO": "006",
+        "GEOCODE": "14020808006",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "MURIK",
+        "LATITUDE": -3.787126,
+        "LONGITUDE": 144.148485,
+        "REGHH": 29,
+        "TOTPOP2000": 198,
+        "MALE2000": 93,
+        "FEMALE2000": 105,
+        "POP2008": 236,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020808006,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

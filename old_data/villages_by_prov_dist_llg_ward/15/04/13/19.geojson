@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18948,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1814189995872,
+          -3.02215700034526
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18948,
+        "CU_NAME": "AMOI",
+        "CU_NO": "002",
+        "GEOCODE": "15041319002",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "19",
+        "WARD_NAME": "AMOI",
+        "LATITUDE": -3.020995,
+        "LONGITUDE": 141.176724,
+        "REGHH": 43,
+        "TOTPOP2000": 273,
+        "MALE2000": 134,
+        "FEMALE2000": 139,
+        "POP2008": 331,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041319002,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18949,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.18143799956408,
+          -3.0318820000542246
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18949,
+        "CU_NAME": "BEWANI STATION",
+        "CU_NO": "501",
+        "GEOCODE": "15041319501",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "19",
+        "WARD_NAME": "AMOI",
+        "LATITUDE": -3.023119,
+        "LONGITUDE": 141.167741,
+        "REGHH": 18,
+        "TOTPOP2000": 128,
+        "MALE2000": 68,
+        "FEMALE2000": 60,
+        "POP2008": 154,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041319501,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

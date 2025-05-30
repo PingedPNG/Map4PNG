@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17994,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.16156700031684,
+          -5.109560999840198
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17994,
+        "CU_NAME": "KABAIA SETTLEMENT",
+        "CU_NO": "501",
+        "GEOCODE": "19020606501",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "KABAIA",
+        "LATITUDE": -5.11177,
+        "LONGITUDE": 151.159,
+        "REGHH": 318,
+        "TOTPOP2000": 2129,
+        "MALE2000": 1237,
+        "FEMALE2000": 892,
+        "POP2008": 2806,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020606501,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17995,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.12696500003483,
+          -5.152264999630006
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17995,
+        "CU_NAME": "SOI SETTLEMENT",
+        "CU_NO": "502",
+        "GEOCODE": "19020606502",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "KABAIA",
+        "LATITUDE": -5.15569,
+        "LONGITUDE": 151.128,
+        "REGHH": 168,
+        "TOTPOP2000": 1278,
+        "MALE2000": 732,
+        "FEMALE2000": 546,
+        "POP2008": 1683,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020606502,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

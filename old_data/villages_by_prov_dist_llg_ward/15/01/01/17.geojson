@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18312,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6776410004319,
+          -3.2764790004055158
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18312,
+        "CU_NAME": "YAKAMUL 1",
+        "CU_NO": "021",
+        "GEOCODE": "15010117021",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "17",
+        "WARD_NAME": "YAKAMUL 1",
+        "LATITUDE": -3.271334,
+        "LONGITUDE": 142.676556,
+        "REGHH": 83,
+        "TOTPOP2000": 641,
+        "MALE2000": 314,
+        "FEMALE2000": 327,
+        "POP2008": 775,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010117021,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

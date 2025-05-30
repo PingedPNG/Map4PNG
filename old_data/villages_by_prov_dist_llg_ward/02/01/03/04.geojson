@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7483,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.06141699999466,
+          -7.411737000262292
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7483,
+        "CU_NAME": "WEMPANGO",
+        "CU_NO": "014",
+        "GEOCODE": "02010304014",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "WEMPANGO",
+        "LATITUDE": -7.405166,
+        "LONGITUDE": 146.05603,
+        "REGHH": 74,
+        "TOTPOP2000": 374,
+        "MALE2000": 188,
+        "FEMALE2000": 186,
+        "POP2008": 460,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010304014,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7484,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.05417000034527,
+          -7.4053970001713765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7484,
+        "CU_NAME": "HAIYEKINI",
+        "CU_NO": "015",
+        "GEOCODE": "02010304015",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "WEMPANGO",
+        "LATITUDE": -7.406109,
+        "LONGITUDE": 146.058953,
+        "REGHH": 17,
+        "TOTPOP2000": 83,
+        "MALE2000": 38,
+        "FEMALE2000": 45,
+        "POP2008": 100,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010304015,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7485,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.06604800041498,
+          -7.405855999754522
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7485,
+        "CU_NAME": "HAVA",
+        "CU_NO": "016",
+        "GEOCODE": "02010304016",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "WEMPANGO",
+        "LATITUDE": -7.404384,
+        "LONGITUDE": 146.06861,
+        "REGHH": 20,
+        "TOTPOP2000": 110,
+        "MALE2000": 56,
+        "FEMALE2000": 54,
+        "POP2008": 134,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010304016,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9690,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.56255700040526,
+          -10.252725999904953
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9690,
+        "CU_NAME": "IAPOA NO.2",
+        "CU_NO": "009",
+        "GEOCODE": "05010409009",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "IAPOA NO. 2",
+        "LATITUDE": -10.254194,
+        "LONGITUDE": 150.561574,
+        "REGHH": 101,
+        "TOTPOP2000": 565,
+        "MALE2000": 298,
+        "FEMALE2000": 267,
+        "POP2008": 688,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010409009,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

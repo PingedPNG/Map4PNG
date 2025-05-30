@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8422,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.72085700005061,
+          -4.816127000160861
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8422,
+        "CU_NAME": "GRENGABU",
+        "CU_NO": "021",
+        "GEOCODE": "13030710021",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "10",
+        "WARD_NAME": "WARD 10",
+        "LATITUDE": -4.817523,
+        "LONGITUDE": 144.719806,
+        "REGHH": 34,
+        "TOTPOP2000": 228,
+        "MALE2000": 108,
+        "FEMALE2000": 120,
+        "POP2008": 281,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030710021,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8423,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.71980300000848,
+          -4.823582000408919
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8423,
+        "CU_NAME": "KWETOBU",
+        "CU_NO": "022",
+        "GEOCODE": "13030710022",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "10",
+        "WARD_NAME": "WARD 10",
+        "LATITUDE": -4.823578,
+        "LONGITUDE": 144.722985,
+        "REGHH": 15,
+        "TOTPOP2000": 121,
+        "MALE2000": 65,
+        "FEMALE2000": 56,
+        "POP2008": 150,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030710022,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8424,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.72262299965178,
+          -4.813984000261371
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8424,
+        "CU_NAME": "TRUMA",
+        "CU_NO": "024",
+        "GEOCODE": "13030710024",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "10",
+        "WARD_NAME": "WARD 10",
+        "LATITUDE": -4.815555,
+        "LONGITUDE": 144.721658,
+        "REGHH": 6,
+        "TOTPOP2000": 41,
+        "MALE2000": 24,
+        "FEMALE2000": 17,
+        "POP2008": 49,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030710024,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8425,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7238179999008,
+          -4.826501000121027
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8425,
+        "CU_NAME": "WLETA",
+        "CU_NO": "025",
+        "GEOCODE": "13030710025",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "10",
+        "WARD_NAME": "WARD 10",
+        "LATITUDE": -4.827412,
+        "LONGITUDE": 144.72271,
+        "REGHH": 22,
+        "TOTPOP2000": 167,
+        "MALE2000": 88,
+        "FEMALE2000": 79,
+        "POP2008": 207,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030710025,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

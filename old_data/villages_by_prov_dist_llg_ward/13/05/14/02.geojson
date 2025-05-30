@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9033,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.46294399966587,
+          -4.647829000208162
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9033,
+        "CU_NAME": "ERENDUK",
+        "CU_NO": "011",
+        "GEOCODE": "13051402011",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -4.649225,
+        "LONGITUDE": 145.461903,
+        "REGHH": 32,
+        "TOTPOP2000": 182,
+        "MALE2000": 101,
+        "FEMALE2000": 81,
+        "POP2008": 225,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051402011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9034,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.41626500002974,
+          -4.710528000266947
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9034,
+        "CU_NAME": "SEREMBEN",
+        "CU_NO": "012",
+        "GEOCODE": "13051402012",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -4.710629,
+        "LONGITUDE": 145.408306,
+        "REGHH": 18,
+        "TOTPOP2000": 106,
+        "MALE2000": 57,
+        "FEMALE2000": 49,
+        "POP2008": 130,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051402012,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9035,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.44579000000851,
+          -4.68500100029587
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9035,
+        "CU_NAME": "SARISABU",
+        "CU_NO": "013",
+        "GEOCODE": "13051402013",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -4.684758,
+        "LONGITUDE": 145.444752,
+        "REGHH": 6,
+        "TOTPOP2000": 42,
+        "MALE2000": 26,
+        "FEMALE2000": 16,
+        "POP2008": 50,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051402013,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9036,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4256540004318,
+          -4.684503999859658
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9036,
+        "CU_NAME": "SOBERAM",
+        "CU_NO": "014",
+        "GEOCODE": "13051402014",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -4.6859,
+        "LONGITUDE": 145.424612,
+        "REGHH": 17,
+        "TOTPOP2000": 99,
+        "MALE2000": 52,
+        "FEMALE2000": 47,
+        "POP2008": 123,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051402014,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9037,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.441347000164,
+          -4.675481000148011
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9037,
+        "CU_NAME": "SEVAN",
+        "CU_NO": "017",
+        "GEOCODE": "13051402017",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -4.679431,
+        "LONGITUDE": 145.443655,
+        "REGHH": 20,
+        "TOTPOP2000": 139,
+        "MALE2000": 73,
+        "FEMALE2000": 66,
+        "POP2008": 172,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051402017,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9038,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.44990299992355,
+          -4.711812000123643
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9038,
+        "CU_NAME": "EREGEREG",
+        "CU_NO": "018",
+        "GEOCODE": "13051402018",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -4.714899,
+        "LONGITUDE": 145.455956,
+        "REGHH": 7,
+        "TOTPOP2000": 46,
+        "MALE2000": 25,
+        "FEMALE2000": 21,
+        "POP2008": 54,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051402018,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9039,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.44850700029792,
+          -4.675495999940381
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9039,
+        "CU_NAME": "SEVAN SCH. & A/POST",
+        "CU_NO": "401",
+        "GEOCODE": "13051402401",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -4.679431,
+        "LONGITUDE": 145.443654,
+        "REGHH": 2,
+        "TOTPOP2000": 11,
+        "MALE2000": 8,
+        "FEMALE2000": 3,
+        "POP2008": 11,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051402401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

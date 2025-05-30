@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17171,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.02197299985414,
+          -5.566134999930227
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17171,
+        "CU_NAME": "KUNJILAMA",
+        "CU_NO": "001",
+        "GEOCODE": "09051018001",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "18",
+        "WARD_NAME": "KUNJILAMA",
+        "LATITUDE": -5.56707,
+        "LONGITUDE": 144.022304,
+        "REGHH": 30,
+        "TOTPOP2000": 129,
+        "MALE2000": 66,
+        "FEMALE2000": 63,
+        "POP2008": 157,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051018001,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17172,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.023044999827,
+          -5.566408999975295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17172,
+        "CU_NAME": "ISEPASA",
+        "CU_NO": "002",
+        "GEOCODE": "09051018002",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "18",
+        "WARD_NAME": "KUNJILAMA",
+        "LATITUDE": -5.56707,
+        "LONGITUDE": 144.022304,
+        "REGHH": 33,
+        "TOTPOP2000": 164,
+        "MALE2000": 91,
+        "FEMALE2000": 73,
+        "POP2008": 199,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051018002,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17173,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.01491099974294,
+          -5.564716000143221
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17173,
+        "CU_NAME": "SAMOKOTA",
+        "CU_NO": "003",
+        "GEOCODE": "09051018003",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "18",
+        "WARD_NAME": "KUNJILAMA",
+        "LATITUDE": -5.565651,
+        "LONGITUDE": 144.015242,
+        "REGHH": 24,
+        "TOTPOP2000": 94,
+        "MALE2000": 54,
+        "FEMALE2000": 40,
+        "POP2008": 114,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051018003,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.04342900004838,
+          -5.557373999710251
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17174,
+        "CU_NAME": "KALUNGAMANDA",
+        "CU_NO": "004",
+        "GEOCODE": "09051018004",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "18",
+        "WARD_NAME": "KUNJILAMA",
+        "LATITUDE": -5.558309,
+        "LONGITUDE": 144.043759,
+        "REGHH": 22,
+        "TOTPOP2000": 102,
+        "MALE2000": 56,
+        "FEMALE2000": 46,
+        "POP2008": 126,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051018004,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

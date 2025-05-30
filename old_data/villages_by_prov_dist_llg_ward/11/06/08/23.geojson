@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30295,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.99579500003927,
+          -6.665979870074921
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30295,
+        "CU_NAME": "SUANARA",
+        "CU_NO": "004",
+        "GEOCODE": "11060823004",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "23",
+        "WARD_NAME": "HABI'INA",
+        "LATITUDE": -6.66598,
+        "LONGITUDE": 145.995795,
+        "REGHH": 77,
+        "TOTPOP2000": 362,
+        "MALE2000": 176,
+        "FEMALE2000": 186,
+        "POP2008": 430,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30296,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.99336896010948,
+          -6.6693294004314225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30296,
+        "CU_NAME": "DANDURA",
+        "CU_NO": "005",
+        "GEOCODE": "11060823005",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "23",
+        "WARD_NAME": "HABI'INA",
+        "LATITUDE": -6.669329,
+        "LONGITUDE": 145.993369,
+        "REGHH": 49,
+        "TOTPOP2000": 216,
+        "MALE2000": 108,
+        "FEMALE2000": 108,
+        "POP2008": 257,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30297,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.00142000043274,
+          -6.677409059880176
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30297,
+        "CU_NAME": "SARERA",
+        "CU_NO": "006",
+        "GEOCODE": "11060823006",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "23",
+        "WARD_NAME": "HABI'INA",
+        "LATITUDE": -6.677409,
+        "LONGITUDE": 146.00142,
+        "REGHH": 25,
+        "TOTPOP2000": 104,
+        "MALE2000": 54,
+        "FEMALE2000": 50,
+        "POP2008": 123,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

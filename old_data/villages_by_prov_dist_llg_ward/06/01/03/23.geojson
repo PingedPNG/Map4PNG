@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13320,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.63084599964327,
+          -9.571930000169345
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13320,
+        "CU_NAME": "BIBIRA NO. 1",
+        "CU_NO": "005",
+        "GEOCODE": "06010323005",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "SAFIA",
+        "LATITUDE": -9.573385,
+        "LONGITUDE": 148.629837,
+        "REGHH": 17,
+        "TOTPOP2000": 89,
+        "MALE2000": 43,
+        "FEMALE2000": 46,
+        "POP2008": 111,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010323005,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13321,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.65364199957867,
+          -9.620898000142574
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13321,
+        "CU_NAME": "DOMARA",
+        "CU_NO": "007",
+        "GEOCODE": "06010323007",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "SAFIA",
+        "LATITUDE": -9.622354,
+        "LONGITUDE": 148.652633,
+        "REGHH": 17,
+        "TOTPOP2000": 78,
+        "MALE2000": 33,
+        "FEMALE2000": 45,
+        "POP2008": 94,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010323007,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13322,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.63405600018427,
+          -9.603602000232058
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13322,
+        "CU_NAME": "SAFIA",
+        "CU_NO": "014",
+        "GEOCODE": "06010323014",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "SAFIA",
+        "LATITUDE": -9.601168,
+        "LONGITUDE": 148.636927,
+        "REGHH": 23,
+        "TOTPOP2000": 147,
+        "MALE2000": 80,
+        "FEMALE2000": 67,
+        "POP2008": 182,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010323014,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13323,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.70657699992864,
+          -9.633123000026387
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13323,
+        "CU_NAME": "BARE",
+        "CU_NO": "044",
+        "GEOCODE": "06010323044",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "SAFIA",
+        "LATITUDE": -9.634579,
+        "LONGITUDE": 148.705569,
+        "REGHH": 12,
+        "TOTPOP2000": 61,
+        "MALE2000": 36,
+        "FEMALE2000": 25,
+        "POP2008": 77,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010323044,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.65168400011657,
+          -9.630173999830163
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13324,
+        "CU_NAME": "WAIRI",
+        "CU_NO": "045",
+        "GEOCODE": "06010323045",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "SAFIA",
+        "LATITUDE": -9.63163,
+        "LONGITUDE": 148.650675,
+        "REGHH": 4,
+        "TOTPOP2000": 25,
+        "MALE2000": 14,
+        "FEMALE2000": 11,
+        "POP2008": 33,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010323045,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

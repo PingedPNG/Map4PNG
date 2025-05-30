@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7489,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.00263199966707,
+          -7.406237000237297
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7489,
+        "CU_NAME": "IWAU",
+        "CU_NO": "003",
+        "GEOCODE": "02010307003",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "YEMEPANGO",
+        "LATITUDE": -7.407663,
+        "LONGITUDE": 146.001593,
+        "REGHH": 41,
+        "TOTPOP2000": 267,
+        "MALE2000": 143,
+        "FEMALE2000": 124,
+        "POP2008": 327,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010307003,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7490,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9993880002561,
+          -7.411268000218001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7490,
+        "CU_NAME": "HAWABANGO NO.2",
+        "CU_NO": "006",
+        "GEOCODE": "02010307006",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "YEMEPANGO",
+        "LATITUDE": -7.412694,
+        "LONGITUDE": 145.998349,
+        "REGHH": 16,
+        "TOTPOP2000": 108,
+        "MALE2000": 55,
+        "FEMALE2000": 53,
+        "POP2008": 132,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010307006,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.99628900033713,
+          -7.416894999804356
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7491,
+        "CU_NAME": "YEMEPANGO",
+        "CU_NO": "008",
+        "GEOCODE": "02010307008",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "YEMEPANGO",
+        "LATITUDE": -7.418321,
+        "LONGITUDE": 145.99525,
+        "REGHH": 54,
+        "TOTPOP2000": 334,
+        "MALE2000": 168,
+        "FEMALE2000": 166,
+        "POP2008": 410,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010307008,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

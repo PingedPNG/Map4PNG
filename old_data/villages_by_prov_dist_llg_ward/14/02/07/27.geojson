@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6444,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.28484700038882,
+          -4.663957000215362
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6444,
+        "CU_NAME": "ANGISI",
+        "CU_NO": "002",
+        "GEOCODE": "14020727002",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "27",
+        "WARD_NAME": "KIVIM",
+        "LATITUDE": -4.665548,
+        "LONGITUDE": 144.283622,
+        "REGHH": 42,
+        "TOTPOP2000": 326,
+        "MALE2000": 170,
+        "FEMALE2000": 156,
+        "POP2008": 387,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020727002,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6445,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.261095000434,
+          -4.646978999681039
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6445,
+        "CU_NAME": "BOMENGA",
+        "CU_NO": "036",
+        "GEOCODE": "14020727036",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "27",
+        "WARD_NAME": "KIVIM",
+        "LATITUDE": -4.651433,
+        "LONGITUDE": 144.258135,
+        "REGHH": 24,
+        "TOTPOP2000": 142,
+        "MALE2000": 81,
+        "FEMALE2000": 61,
+        "POP2008": 168,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020727036,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6446,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2563100001065,
+          -4.647229999564786
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6446,
+        "CU_NAME": "BUNAM",
+        "CU_NO": "037",
+        "GEOCODE": "14020727037",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "27",
+        "WARD_NAME": "KIVIM",
+        "LATITUDE": -4.651712,
+        "LONGITUDE": 144.255653,
+        "REGHH": 40,
+        "TOTPOP2000": 263,
+        "MALE2000": 133,
+        "FEMALE2000": 130,
+        "POP2008": 313,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020727037,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

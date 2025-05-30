@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5798,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.70721199963418,
+          -5.475577000278292
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5798,
+        "CU_NAME": "TEREMANDA",
+        "CU_NO": "009",
+        "GEOCODE": "08041115009",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "15",
+        "WARD_NAME": "TEREMANDA",
+        "LATITUDE": -5.478973,
+        "LONGITUDE": 143.710173,
+        "REGHH": 143,
+        "TOTPOP2000": 707,
+        "MALE2000": 353,
+        "FEMALE2000": 354,
+        "POP2008": 889,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041115009,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5799,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7133440000257,
+          -5.4826380003434
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5799,
+        "CU_NAME": "KWIMAS",
+        "CU_NO": "010",
+        "GEOCODE": "08041115010",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "15",
+        "WARD_NAME": "TEREMANDA",
+        "LATITUDE": -5.48404,
+        "LONGITUDE": 143.712279,
+        "REGHH": 90,
+        "TOTPOP2000": 551,
+        "MALE2000": 276,
+        "FEMALE2000": 275,
+        "POP2008": 691,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041115010,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5800,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71012800010715,
+          -5.479616000378087
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5800,
+        "CU_NAME": "LEPATENGES",
+        "CU_NO": "011",
+        "GEOCODE": "08041115011",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "15",
+        "WARD_NAME": "TEREMANDA",
+        "LATITUDE": -5.480934,
+        "LONGITUDE": 143.710363,
+        "REGHH": 42,
+        "TOTPOP2000": 160,
+        "MALE2000": 76,
+        "FEMALE2000": 84,
+        "POP2008": 202,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041115011,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5801,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.70781200032366,
+          -5.4854420001481685
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5801,
+        "CU_NAME": "POKATU",
+        "CU_NO": "012",
+        "GEOCODE": "08041115012",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "15",
+        "WARD_NAME": "TEREMANDA",
+        "LATITUDE": -5.486844,
+        "LONGITUDE": 143.706747,
+        "REGHH": 23,
+        "TOTPOP2000": 142,
+        "MALE2000": 78,
+        "FEMALE2000": 64,
+        "POP2008": 178,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041115012,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3764339996294,
+          -5.7683229997066405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9185,
+        "CU_NAME": "TERENI",
+        "CU_NO": "001",
+        "GEOCODE": "13061518001",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "18",
+        "WARD_NAME": "WARD 18",
+        "LATITUDE": -5.765256,
+        "LONGITUDE": 145.374906,
+        "REGHH": 41,
+        "TOTPOP2000": 268,
+        "MALE2000": 151,
+        "FEMALE2000": 117,
+        "POP2008": 331,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061518001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9186,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.40535300044064,
+          -5.686739000204625
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9186,
+        "CU_NAME": "USEMA",
+        "CU_NO": "002",
+        "GEOCODE": "13061518002",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "18",
+        "WARD_NAME": "WARD 18",
+        "LATITUDE": -5.688146,
+        "LONGITUDE": 145.404309,
+        "REGHH": 43,
+        "TOTPOP2000": 250,
+        "MALE2000": 140,
+        "FEMALE2000": 110,
+        "POP2008": 310,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061518002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9187,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.32756599977108,
+          -5.728479999652222
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9187,
+        "CU_NAME": "WEGE/IMBRUM",
+        "CU_NO": "003",
+        "GEOCODE": "13061518003",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "18",
+        "WARD_NAME": "WARD 18",
+        "LATITUDE": -5.729887,
+        "LONGITUDE": 145.326521,
+        "REGHH": 28,
+        "TOTPOP2000": 167,
+        "MALE2000": 97,
+        "FEMALE2000": 70,
+        "POP2008": 207,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061518003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.36915600034922,
+          -5.756579000420459
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9188,
+        "CU_NAME": "BRAHMAN HIGH SCHOOL",
+        "CU_NO": "503",
+        "GEOCODE": "13061518503",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "18",
+        "WARD_NAME": "WARD 18",
+        "LATITUDE": -5.757987,
+        "LONGITUDE": 145.368112,
+        "REGHH": 54,
+        "TOTPOP2000": 326,
+        "MALE2000": 178,
+        "FEMALE2000": 148,
+        "POP2008": 404,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061518503,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

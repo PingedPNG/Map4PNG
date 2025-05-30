@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4502,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9374580002866,
+          -4.581923999792707
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4502,
+        "CU_NAME": "RHUNGAGI",
+        "CU_NO": "001",
+        "GEOCODE": "18010220001",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "20",
+        "WARD_NAME": "RHUNGAGI",
+        "LATITUDE": -4.53263,
+        "LONGITUDE": 151.961078,
+        "REGHH": 85,
+        "TOTPOP2000": 564,
+        "MALE2000": 289,
+        "FEMALE2000": 275,
+        "POP2008": 687,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010220001,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

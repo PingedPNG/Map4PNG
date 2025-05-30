@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30412,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.87424819999455,
+          -6.838917119929079
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30412,
+        "CU_NAME": "WIOBO",
+        "CU_NO": "007",
+        "GEOCODE": "11060924007",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "24",
+        "WARD_NAME": "WIOBO",
+        "LATITUDE": -6.838917,
+        "LONGITUDE": 145.874248,
+        "REGHH": 69,
+        "TOTPOP2000": 331,
+        "MALE2000": 168,
+        "FEMALE2000": 163,
+        "POP2008": 393,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30413,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.86755795983208,
+          -6.83559953978687
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30413,
+        "CU_NAME": "IVEREMA",
+        "CU_NO": "008",
+        "GEOCODE": "11060924008",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "24",
+        "WARD_NAME": "WIOBO",
+        "LATITUDE": -6.8356,
+        "LONGITUDE": 145.867558,
+        "REGHH": 47,
+        "TOTPOP2000": 213,
+        "MALE2000": 93,
+        "FEMALE2000": 120,
+        "POP2008": 253,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

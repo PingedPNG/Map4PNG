@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16922,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.64986799990834,
+          -5.537924000292321
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16922,
+        "CU_NAME": "TSINGIROPA",
+        "CU_NO": "016",
+        "GEOCODE": "09040633016",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "33",
+        "WARD_NAME": "TSINGIROPA",
+        "LATITUDE": -5.53993,
+        "LONGITUDE": 144.649129,
+        "REGHH": 54,
+        "TOTPOP2000": 249,
+        "MALE2000": 130,
+        "FEMALE2000": 119,
+        "POP2008": 303,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040633016,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16923,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.66172599995502,
+          -5.537648000155059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16923,
+        "CU_NAME": "JIMIAN",
+        "CU_NO": "017",
+        "GEOCODE": "09040633017",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "33",
+        "WARD_NAME": "TSINGIROPA",
+        "LATITUDE": -5.542053,
+        "LONGITUDE": 144.653556,
+        "REGHH": 72,
+        "TOTPOP2000": 321,
+        "MALE2000": 160,
+        "FEMALE2000": 161,
+        "POP2008": 391,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040633017,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16924,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.67359899979408,
+          -5.556610999597922
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16924,
+        "CU_NAME": "BRAIMBA",
+        "CU_NO": "018",
+        "GEOCODE": "09040633018",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "33",
+        "WARD_NAME": "TSINGIROPA",
+        "LATITUDE": -5.557545,
+        "LONGITUDE": 144.673937,
+        "REGHH": 44,
+        "TOTPOP2000": 248,
+        "MALE2000": 122,
+        "FEMALE2000": 126,
+        "POP2008": 302,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040633018,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

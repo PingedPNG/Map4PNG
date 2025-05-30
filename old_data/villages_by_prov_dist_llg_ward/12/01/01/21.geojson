@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10385,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4978310003005,
+          -7.087888000031114
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10385,
+        "CU_NAME": "GALAWO",
+        "CU_NO": "004",
+        "GEOCODE": "12010121004",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "GALAWO",
+        "LATITUDE": -7.085382,
+        "LONGITUDE": 146.501399,
+        "REGHH": 50,
+        "TOTPOP2000": 278,
+        "MALE2000": 157,
+        "FEMALE2000": 121,
+        "POP2008": 346,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010121004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10386,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5132679999183,
+          -7.0687970000814175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10386,
+        "CU_NAME": "KAPIN 1",
+        "CU_NO": "007",
+        "GEOCODE": "12010121007",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "GALAWO",
+        "LATITUDE": -7.070221,
+        "LONGITUDE": 146.512236,
+        "REGHH": 18,
+        "TOTPOP2000": 107,
+        "MALE2000": 52,
+        "FEMALE2000": 55,
+        "POP2008": 133,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010121007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10387,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.51809699957698,
+          -7.038499999575265
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10387,
+        "CU_NAME": "KAPIN 2",
+        "CU_NO": "008",
+        "GEOCODE": "12010121008",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "GALAWO",
+        "LATITUDE": -7.039924,
+        "LONGITUDE": 146.517066,
+        "REGHH": 37,
+        "TOTPOP2000": 205,
+        "MALE2000": 104,
+        "FEMALE2000": 101,
+        "POP2008": 256,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010121008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10388,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.51909199959618,
+          -7.073207000202842
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10388,
+        "CU_NAME": "TAYEK",
+        "CU_NO": "011",
+        "GEOCODE": "12010121011",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "GALAWO",
+        "LATITUDE": -7.074631,
+        "LONGITUDE": 146.51806,
+        "REGHH": 66,
+        "TOTPOP2000": 362,
+        "MALE2000": 211,
+        "FEMALE2000": 151,
+        "POP2008": 451,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010121011,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10389,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.49100999961183,
+          -7.024982000319028
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10389,
+        "CU_NAME": "SANANG",
+        "CU_NO": "012",
+        "GEOCODE": "12010121012",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "GALAWO",
+        "LATITUDE": -7.026405,
+        "LONGITUDE": 146.489978,
+        "REGHH": 24,
+        "TOTPOP2000": 144,
+        "MALE2000": 76,
+        "FEMALE2000": 68,
+        "POP2008": 179,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010121012,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

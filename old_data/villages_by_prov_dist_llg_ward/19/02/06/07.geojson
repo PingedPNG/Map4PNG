@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17996,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1329629996428,
+          -5.19835900016767
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17996,
+        "CU_NAME": "GIGIPUNA",
+        "CU_NO": "006",
+        "GEOCODE": "19020607006",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "BAREMA",
+        "LATITUDE": -5.19977,
+        "LONGITUDE": 151.132,
+        "REGHH": 19,
+        "TOTPOP2000": 102,
+        "MALE2000": 50,
+        "FEMALE2000": 52,
+        "POP2008": 135,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020607006,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.12896300044213,
+          -5.180890000373154
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17997,
+        "CU_NAME": "SOVULA",
+        "CU_NO": "007",
+        "GEOCODE": "19020607007",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "BAREMA",
+        "LATITUDE": -5.1823,
+        "LONGITUDE": 151.128,
+        "REGHH": 20,
+        "TOTPOP2000": 103,
+        "MALE2000": 48,
+        "FEMALE2000": 55,
+        "POP2008": 136,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020607007,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17998,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.14196300009246,
+          -5.235718999931862
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17998,
+        "CU_NAME": "PAKISI",
+        "CU_NO": "008",
+        "GEOCODE": "19020607008",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "BAREMA",
+        "LATITUDE": -5.23713,
+        "LONGITUDE": 151.141,
+        "REGHH": 16,
+        "TOTPOP2000": 96,
+        "MALE2000": 51,
+        "FEMALE2000": 45,
+        "POP2008": 126,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020607008,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17999,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1223749997065,
+          -5.217714999747386
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17999,
+        "CU_NAME": "BAREMA SETTLEMENT",
+        "CU_NO": "501",
+        "GEOCODE": "19020607501",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "BAREMA",
+        "LATITUDE": -5.22153,
+        "LONGITUDE": 151.119,
+        "REGHH": 257,
+        "TOTPOP2000": 1684,
+        "MALE2000": 919,
+        "FEMALE2000": 765,
+        "POP2008": 2217,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020607501,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

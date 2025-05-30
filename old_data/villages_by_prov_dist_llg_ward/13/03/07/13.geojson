@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8436,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.701777999755,
+          -4.715247000248837
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8436,
+        "CU_NAME": "KWANGA",
+        "CU_NO": "022",
+        "GEOCODE": "13030713022",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "WARD 13",
+        "LATITUDE": -4.716642,
+        "LONGITUDE": 144.700727,
+        "REGHH": 33,
+        "TOTPOP2000": 243,
+        "MALE2000": 140,
+        "FEMALE2000": 103,
+        "POP2008": 302,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030713022,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8437,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.70497599974271,
+          -4.706891999865832
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8437,
+        "CU_NAME": "LAREBU",
+        "CU_NO": "023",
+        "GEOCODE": "13030713023",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "WARD 13",
+        "LATITUDE": -4.708988,
+        "LONGITUDE": 144.704792,
+        "REGHH": 42,
+        "TOTPOP2000": 301,
+        "MALE2000": 153,
+        "FEMALE2000": 148,
+        "POP2008": 373,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030713023,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8438,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.70589799999277,
+          -4.718953000280692
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8438,
+        "CU_NAME": "VINANDA",
+        "CU_NO": "024",
+        "GEOCODE": "13030713024",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "WARD 13",
+        "LATITUDE": -4.720348,
+        "LONGITUDE": 144.704847,
+        "REGHH": 52,
+        "TOTPOP2000": 403,
+        "MALE2000": 217,
+        "FEMALE2000": 186,
+        "POP2008": 498,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030713024,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8439,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7085980003975,
+          -4.722078999646044
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8439,
+        "CU_NAME": "KWANGA STATION",
+        "CU_NO": "406",
+        "GEOCODE": "13030713406",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "WARD 13",
+        "LATITUDE": -4.723474,
+        "LONGITUDE": 144.707547,
+        "REGHH": 8,
+        "TOTPOP2000": 69,
+        "MALE2000": 33,
+        "FEMALE2000": 36,
+        "POP2008": 85,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030713406,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

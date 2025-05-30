@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.76260499982095,
+          -5.94030699966828
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16136,
+        "CU_NAME": "BEKPE",
+        "CU_NO": "001",
+        "GEOCODE": "09010228001",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "28",
+        "WARD_NAME": "BEKPE",
+        "LATITUDE": -5.941245,
+        "LONGITUDE": 144.762946,
+        "REGHH": 21,
+        "TOTPOP2000": 76,
+        "MALE2000": 38,
+        "FEMALE2000": 38,
+        "POP2008": 92,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010228001,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7599010001311,
+          -5.928449999667691
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16137,
+        "CU_NAME": "GEWI 1",
+        "CU_NO": "002",
+        "GEOCODE": "09010228002",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "28",
+        "WARD_NAME": "BEKPE",
+        "LATITUDE": -5.929388,
+        "LONGITUDE": 144.760242,
+        "REGHH": 32,
+        "TOTPOP2000": 175,
+        "MALE2000": 82,
+        "FEMALE2000": 93,
+        "POP2008": 213,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010228002,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.77259900024376,
+          -5.939801999762437
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16138,
+        "CU_NAME": "GEWI 2",
+        "CU_NO": "003",
+        "GEOCODE": "09010228003",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "28",
+        "WARD_NAME": "BEKPE",
+        "LATITUDE": -5.94074,
+        "LONGITUDE": 144.77294,
+        "REGHH": 42,
+        "TOTPOP2000": 200,
+        "MALE2000": 100,
+        "FEMALE2000": 100,
+        "POP2008": 243,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010228003,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.75438700035988,
+          -5.92140700043268
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16139,
+        "CU_NAME": "DONG",
+        "CU_NO": "004",
+        "GEOCODE": "09010228004",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "28",
+        "WARD_NAME": "BEKPE",
+        "LATITUDE": -5.922345,
+        "LONGITUDE": 144.754728,
+        "REGHH": 27,
+        "TOTPOP2000": 109,
+        "MALE2000": 55,
+        "FEMALE2000": 54,
+        "POP2008": 133,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010228004,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.753660000109,
+          -5.928408000428817
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16140,
+        "CU_NAME": "DANAL C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "09010228401",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "28",
+        "WARD_NAME": "BEKPE",
+        "LATITUDE": -5.929919,
+        "LONGITUDE": 144.753425,
+        "REGHH": 1,
+        "TOTPOP2000": 3,
+        "MALE2000": 0,
+        "FEMALE2000": 3,
+        "POP2008": 3,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010228401,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16141,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.77101900022672,
+          -5.921361000110039
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16141,
+        "CU_NAME": "KUMBAL BLOCK",
+        "CU_NO": "402",
+        "GEOCODE": "09010228402",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "28",
+        "WARD_NAME": "BEKPE",
+        "LATITUDE": -5.922299,
+        "LONGITUDE": 144.77136,
+        "REGHH": 6,
+        "TOTPOP2000": 44,
+        "MALE2000": 21,
+        "FEMALE2000": 23,
+        "POP2008": 52,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010228402,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.75831699992966,
+          -5.911803000008376
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16142,
+        "CU_NAME": "WAGHI BRUK",
+        "CU_NO": "403",
+        "GEOCODE": "09010228403",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "28",
+        "WARD_NAME": "BEKPE",
+        "LATITUDE": -5.912741,
+        "LONGITUDE": 144.758658,
+        "REGHH": 30,
+        "TOTPOP2000": 115,
+        "MALE2000": 55,
+        "FEMALE2000": 60,
+        "POP2008": 139,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010228403,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

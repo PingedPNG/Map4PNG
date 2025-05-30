@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9473,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.18105599963474,
+          -2.1365290003130895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9473,
+        "CU_NAME": "SIRRAH",
+        "CU_NO": "007",
+        "GEOCODE": "16010806007",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "08",
+        "WARD_NO": "06",
+        "WARD_NAME": "SIRRAH",
+        "LATITUDE": -2.136379,
+        "LONGITUDE": 147.178749,
+        "REGHH": 42,
+        "TOTPOP2000": 234,
+        "MALE2000": 124,
+        "FEMALE2000": 110,
+        "POP2008": 287,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010806007,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

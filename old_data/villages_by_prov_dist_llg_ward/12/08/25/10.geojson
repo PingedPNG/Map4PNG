@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12173,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.76175299970123,
+          -6.393303000233232
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12173,
+        "CU_NAME": "SILILIM",
+        "CU_NO": "001",
+        "GEOCODE": "12082510001",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "25",
+        "WARD_NO": "10",
+        "WARD_NAME": "GAIN",
+        "LATITUDE": -6.39472,
+        "LONGITUDE": 146.760726,
+        "REGHH": 34,
+        "TOTPOP2000": 193,
+        "MALE2000": 89,
+        "FEMALE2000": 104,
+        "POP2008": 241,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082510001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.77489899978912,
+          -6.431238999580103
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12174,
+        "CU_NAME": "KASIN",
+        "CU_NO": "002",
+        "GEOCODE": "12082510002",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "25",
+        "WARD_NO": "10",
+        "WARD_NAME": "GAIN",
+        "LATITUDE": -6.432657,
+        "LONGITUDE": 146.773872,
+        "REGHH": 49,
+        "TOTPOP2000": 216,
+        "MALE2000": 111,
+        "FEMALE2000": 105,
+        "POP2008": 269,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082510002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.74454200011326,
+          -6.441513000324676
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12175,
+        "CU_NAME": "BADIBO",
+        "CU_NO": "003",
+        "GEOCODE": "12082510003",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "25",
+        "WARD_NO": "10",
+        "WARD_NAME": "GAIN",
+        "LATITUDE": -6.442931,
+        "LONGITUDE": 146.743515,
+        "REGHH": 51,
+        "TOTPOP2000": 285,
+        "MALE2000": 146,
+        "FEMALE2000": 139,
+        "POP2008": 355,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082510003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12176,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.77579299964725,
+          -6.440660999705301
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12176,
+        "CU_NAME": "MUGURENG",
+        "CU_NO": "004",
+        "GEOCODE": "12082510004",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "25",
+        "WARD_NO": "10",
+        "WARD_NAME": "GAIN",
+        "LATITUDE": -6.442079,
+        "LONGITUDE": 146.774766,
+        "REGHH": 6,
+        "TOTPOP2000": 44,
+        "MALE2000": 23,
+        "FEMALE2000": 21,
+        "POP2008": 52,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082510004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12177,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.75317099964195,
+          -6.433809000285066
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12177,
+        "CU_NAME": "DIDI",
+        "CU_NO": "006",
+        "GEOCODE": "12082510006",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "25",
+        "WARD_NO": "10",
+        "WARD_NAME": "GAIN",
+        "LATITUDE": -6.435229,
+        "LONGITUDE": 146.757176,
+        "REGHH": 21,
+        "TOTPOP2000": 115,
+        "MALE2000": 63,
+        "FEMALE2000": 52,
+        "POP2008": 143,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082510006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12178,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.75619199956122,
+          -6.429781999839349
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12178,
+        "CU_NAME": "GAIN",
+        "CU_NO": "007",
+        "GEOCODE": "12082510007",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "25",
+        "WARD_NO": "10",
+        "WARD_NAME": "GAIN",
+        "LATITUDE": -6.435229,
+        "LONGITUDE": 146.757176,
+        "REGHH": 79,
+        "TOTPOP2000": 449,
+        "MALE2000": 227,
+        "FEMALE2000": 222,
+        "POP2008": 560,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082510007,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

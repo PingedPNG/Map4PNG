@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11243,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.17124999978773,
+          -6.167939000084743
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11243,
+        "CU_NAME": "INDUM 1",
+        "CU_NO": "005",
+        "GEOCODE": "12041317005",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "17",
+        "WARD_NAME": "INDUM",
+        "LATITUDE": -6.169354,
+        "LONGITUDE": 147.170229,
+        "REGHH": 256,
+        "TOTPOP2000": 1181,
+        "MALE2000": 528,
+        "FEMALE2000": 653,
+        "POP2008": 1473,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041317005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11244,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1753580003715,
+          -6.160160000183794
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11244,
+        "CU_NAME": "INDUM 2",
+        "CU_NO": "006",
+        "GEOCODE": "12041317006",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "17",
+        "WARD_NAME": "INDUM",
+        "LATITUDE": -6.160568,
+        "LONGITUDE": 147.176851,
+        "REGHH": 82,
+        "TOTPOP2000": 397,
+        "MALE2000": 200,
+        "FEMALE2000": 197,
+        "POP2008": 494,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041317006,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

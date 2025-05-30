@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18418,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.08972500040852,
+          -3.1774450001865375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18418,
+        "CU_NAME": "GOINIRI",
+        "CU_NO": "020",
+        "GEOCODE": "15010312020",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "KOINIRI",
+        "LATITUDE": -3.183179,
+        "LONGITUDE": 142.084315,
+        "REGHH": 39,
+        "TOTPOP2000": 299,
+        "MALE2000": 151,
+        "FEMALE2000": 148,
+        "POP2008": 361,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010312020,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

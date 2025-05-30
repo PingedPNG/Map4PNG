@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8951,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.00719599969568,
+          -4.557306000371568
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8951,
+        "CU_NAME": "KAUL 3",
+        "CU_NO": "010",
+        "GEOCODE": "13051313010",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "13",
+        "WARD_NAME": "WARD 13",
+        "LATITUDE": -4.558701,
+        "LONGITUDE": 146.006162,
+        "REGHH": 113,
+        "TOTPOP2000": 634,
+        "MALE2000": 320,
+        "FEMALE2000": 314,
+        "POP2008": 786,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051313010,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8952,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.00799299957737,
+          -4.558779999996943
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8952,
+        "CU_NAME": "KAUL 4 & 5",
+        "CU_NO": "011",
+        "GEOCODE": "13051313011",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "13",
+        "WARD_NAME": "WARD 13",
+        "LATITUDE": -4.560175,
+        "LONGITUDE": 146.006959,
+        "REGHH": 74,
+        "TOTPOP2000": 420,
+        "MALE2000": 210,
+        "FEMALE2000": 210,
+        "POP2008": 520,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051313011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8953,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.00846399971385,
+          -4.5615140001709165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8953,
+        "CU_NAME": "KAUL 6",
+        "CU_NO": "012",
+        "GEOCODE": "13051313012",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "13",
+        "WARD_NAME": "WARD 13",
+        "LATITUDE": -4.562909,
+        "LONGITUDE": 146.00743,
+        "REGHH": 92,
+        "TOTPOP2000": 610,
+        "MALE2000": 335,
+        "FEMALE2000": 275,
+        "POP2008": 754,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051313012,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8954,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.00863999973626,
+          -4.556582000259084
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8954,
+        "CU_NAME": "BUMSOL COMM. SCH.",
+        "CU_NO": "401",
+        "GEOCODE": "13051313401",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "13",
+        "WARD_NAME": "WARD 13",
+        "LATITUDE": -4.557977,
+        "LONGITUDE": 146.007606,
+        "REGHH": 4,
+        "TOTPOP2000": 21,
+        "MALE2000": 10,
+        "FEMALE2000": 11,
+        "POP2008": 29,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051313401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

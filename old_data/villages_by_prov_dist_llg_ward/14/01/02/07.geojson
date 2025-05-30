@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6078,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.80748399958702,
+          -3.5556939999780752
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6078,
+        "CU_NAME": "ASILING",
+        "CU_NO": "001",
+        "GEOCODE": "14010207001",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "07",
+        "WARD_NAME": "MISSIM",
+        "LATITUDE": -3.557271,
+        "LONGITUDE": 142.806242,
+        "REGHH": 24,
+        "TOTPOP2000": 95,
+        "MALE2000": 47,
+        "FEMALE2000": 48,
+        "POP2008": 111,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010207001,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6079,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.81072599980507,
+          -3.5606770004431496
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6079,
+        "CU_NAME": "MISSIM",
+        "CU_NO": "005",
+        "GEOCODE": "14010207005",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "07",
+        "WARD_NAME": "MISSIM",
+        "LATITUDE": -3.562254,
+        "LONGITUDE": 142.809484,
+        "REGHH": 44,
+        "TOTPOP2000": 198,
+        "MALE2000": 99,
+        "FEMALE2000": 99,
+        "POP2008": 236,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010207005,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6080,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.81580800033896,
+          -3.5646239998976057
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6080,
+        "CU_NAME": "SOMASAI",
+        "CU_NO": "026",
+        "GEOCODE": "14010207026",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "07",
+        "WARD_NAME": "MISSIM",
+        "LATITUDE": -3.566201,
+        "LONGITUDE": 142.814566,
+        "REGHH": 30,
+        "TOTPOP2000": 130,
+        "MALE2000": 63,
+        "FEMALE2000": 67,
+        "POP2008": 154,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010207026,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6081,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.79967600014731,
+          -3.581238999879872
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6081,
+        "CU_NAME": "NAHLEMDUWI",
+        "CU_NO": "027",
+        "GEOCODE": "14010207027",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "07",
+        "WARD_NAME": "MISSIM",
+        "LATITUDE": -3.579799,
+        "LONGITUDE": 142.801923,
+        "REGHH": 23,
+        "TOTPOP2000": 88,
+        "MALE2000": 44,
+        "FEMALE2000": 44,
+        "POP2008": 104,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010207027,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.10046499995985,
+          -5.4465649996749335
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5725,
+        "CU_NAME": "YARIK",
+        "CU_NO": "001",
+        "GEOCODE": "08030915001",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "15",
+        "WARD_NAME": "YARIK",
+        "LATITUDE": -5.44695,
+        "LONGITUDE": 143.101901,
+        "REGHH": 233,
+        "TOTPOP2000": 1718,
+        "MALE2000": 956,
+        "FEMALE2000": 762,
+        "POP2008": 2159,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030915001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5726,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1058599996394,
+          -5.445762000415925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5726,
+        "CU_NAME": "TIMOROPE",
+        "CU_NO": "002",
+        "GEOCODE": "08030915002",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "15",
+        "WARD_NAME": "YARIK",
+        "LATITUDE": -5.447162,
+        "LONGITUDE": 143.104788,
+        "REGHH": 107,
+        "TOTPOP2000": 618,
+        "MALE2000": 325,
+        "FEMALE2000": 293,
+        "POP2008": 777,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030915002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

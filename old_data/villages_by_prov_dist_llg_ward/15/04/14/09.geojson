@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18987,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.54198999983873,
+          -3.9650370001573947
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18987,
+        "CU_NAME": "BEIMAP",
+        "CU_NO": "002",
+        "GEOCODE": "15041409002",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "09",
+        "WARD_NAME": "BEIMAP",
+        "LATITUDE": -3.965041,
+        "LONGITUDE": 141.54035,
+        "REGHH": 20,
+        "TOTPOP2000": 145,
+        "MALE2000": 77,
+        "FEMALE2000": 68,
+        "POP2008": 176,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041409002,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18988,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.55433699995262,
+          -3.9832429997645704
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18988,
+        "CU_NAME": "SENOU",
+        "CU_NO": "007",
+        "GEOCODE": "15041409007",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "09",
+        "WARD_NAME": "BEIMAP",
+        "LATITUDE": -3.986634,
+        "LONGITUDE": 141.55275,
+        "REGHH": 20,
+        "TOTPOP2000": 202,
+        "MALE2000": 103,
+        "FEMALE2000": 99,
+        "POP2008": 244,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041409007,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

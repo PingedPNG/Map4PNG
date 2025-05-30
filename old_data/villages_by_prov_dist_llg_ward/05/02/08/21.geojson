@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9870,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.65267499955166,
+          -10.58092700028078
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9870,
+        "CU_NAME": "KUIARO",
+        "CU_NO": "503",
+        "GEOCODE": "05020821503",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "21",
+        "WARD_NAME": "KUIARO",
+        "LATITUDE": -10.577507,
+        "LONGITUDE": 150.65097,
+        "REGHH": 43,
+        "TOTPOP2000": 227,
+        "MALE2000": 118,
+        "FEMALE2000": 109,
+        "POP2008": 277,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020821503,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9871,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.67348200039407,
+          -10.572041999738474
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9871,
+        "CU_NAME": "BELASANA",
+        "CU_NO": "508",
+        "GEOCODE": "05020821508",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "21",
+        "WARD_NAME": "KUIARO",
+        "LATITUDE": -10.573343,
+        "LONGITUDE": 150.674781,
+        "REGHH": 17,
+        "TOTPOP2000": 74,
+        "MALE2000": 35,
+        "FEMALE2000": 39,
+        "POP2008": 90,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020821508,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

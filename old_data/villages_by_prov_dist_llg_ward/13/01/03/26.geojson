@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8031,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8284280000522,
+          -4.430848999981322
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8031,
+        "CU_NAME": "AMBER",
+        "CU_NO": "002",
+        "GEOCODE": "13010326002",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "26",
+        "WARD_NAME": "AMBER AREP",
+        "LATITUDE": -4.432241,
+        "LONGITUDE": 144.827379,
+        "REGHH": 95,
+        "TOTPOP2000": 525,
+        "MALE2000": 258,
+        "FEMALE2000": 267,
+        "POP2008": 650,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010326002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8032,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8479930002768,
+          -4.420069000184185
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8032,
+        "CU_NAME": "AREP",
+        "CU_NO": "006",
+        "GEOCODE": "13010326006",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "26",
+        "WARD_NAME": "AMBER AREP",
+        "LATITUDE": -4.421461,
+        "LONGITUDE": 144.846944,
+        "REGHH": 58,
+        "TOTPOP2000": 340,
+        "MALE2000": 168,
+        "FEMALE2000": 172,
+        "POP2008": 420,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010326006,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

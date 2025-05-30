@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15510,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.15135099974896,
+          -5.209461999571602
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15510,
+        "CU_NAME": "OK TEDI MILL",
+        "CU_NO": "021",
+        "GEOCODE": "01021008021",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "OK TEDI TAU",
+        "LATITUDE": -5.206876,
+        "LONGITUDE": 141.152016,
+        "REGHH": 29,
+        "TOTPOP2000": 166,
+        "MALE2000": 96,
+        "FEMALE2000": 70,
+        "POP2008": 215,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1021008021,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19680,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71562600003995,
+          -6.2440699999305025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19680,
+        "CU_NAME": "RAKENDA",
+        "CU_NO": "001",
+        "GEOCODE": "07020715001",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "15",
+        "WARD_NAME": "YEBI 3",
+        "LATITUDE": -6.249507,
+        "LONGITUDE": 143.716166,
+        "REGHH": 32,
+        "TOTPOP2000": 161,
+        "MALE2000": 81,
+        "FEMALE2000": 80,
+        "POP2008": 224,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020715001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19681,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7144459995833,
+          -6.246376000152225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19681,
+        "CU_NAME": "ASONINI",
+        "CU_NO": "002",
+        "GEOCODE": "07020715002",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "15",
+        "WARD_NAME": "YEBI 3",
+        "LATITUDE": -6.249507,
+        "LONGITUDE": 143.716166,
+        "REGHH": 21,
+        "TOTPOP2000": 80,
+        "MALE2000": 36,
+        "FEMALE2000": 44,
+        "POP2008": 110,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020715002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19682,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71384099956254,
+          -6.244761000319841
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19682,
+        "CU_NAME": "WARIPUTI",
+        "CU_NO": "003",
+        "GEOCODE": "07020715003",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "15",
+        "WARD_NAME": "YEBI 3",
+        "LATITUDE": -6.249507,
+        "LONGITUDE": 143.716166,
+        "REGHH": 35,
+        "TOTPOP2000": 177,
+        "MALE2000": 97,
+        "FEMALE2000": 80,
+        "POP2008": 245,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020715003,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

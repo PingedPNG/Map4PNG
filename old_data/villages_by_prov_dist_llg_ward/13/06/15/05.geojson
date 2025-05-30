@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.15653000035934,
+          -5.779855000008183
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9156,
+        "CU_NAME": "GOGUBAGU",
+        "CU_NO": "012",
+        "GEOCODE": "13061505012",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARD 5",
+        "LATITUDE": -5.784586,
+        "LONGITUDE": 145.158945,
+        "REGHH": 43,
+        "TOTPOP2000": 187,
+        "MALE2000": 99,
+        "FEMALE2000": 88,
+        "POP2008": 231,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061505012,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19546,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0046670003818,
+          -6.233793999993054
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19546,
+        "CU_NAME": "KOKOKA",
+        "CU_NO": "008",
+        "GEOCODE": "07020517008",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "POPE",
+        "LATITUDE": -6.238142,
+        "LONGITUDE": 144.004744,
+        "REGHH": 162,
+        "TOTPOP2000": 811,
+        "MALE2000": 378,
+        "FEMALE2000": 433,
+        "POP2008": 1127,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020517008,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19547,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.003848000385,
+          -6.2339010004307625
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19547,
+        "CU_NAME": "POPE",
+        "CU_NO": "009",
+        "GEOCODE": "07020517009",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "POPE",
+        "LATITUDE": -6.238142,
+        "LONGITUDE": 144.004744,
+        "REGHH": 45,
+        "TOTPOP2000": 234,
+        "MALE2000": 119,
+        "FEMALE2000": 115,
+        "POP2008": 326,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020517009,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

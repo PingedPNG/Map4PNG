@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5508,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7155429998097,
+          -5.254031999976746
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5508,
+        "CU_NAME": "KAIMANDA",
+        "CU_NO": "002",
+        "GEOCODE": "08020429002",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "29",
+        "WARD_NAME": "KAIMANDA",
+        "LATITUDE": -5.255431,
+        "LONGITUDE": 143.714479,
+        "REGHH": 79,
+        "TOTPOP2000": 427,
+        "MALE2000": 233,
+        "FEMALE2000": 194,
+        "POP2008": 536,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020429002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

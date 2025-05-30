@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21795,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9000500001075,
+          -5.810644999866781
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21795,
+        "CU_NAME": "PETA-POROGORALI",
+        "CU_NO": "001",
+        "GEOCODE": "07082804001",
+        "PROV_KEY": "21",
+        "DIST_NO": "3",
+        "LLG_NO": "28",
+        "WARD_NO": "04",
+        "WARD_NAME": "PETA-POROGORALI",
+        "LATITUDE": -5.814889,
+        "LONGITUDE": 142.900312,
+        "REGHH": 106,
+        "TOTPOP2000": 524,
+        "MALE2000": 267,
+        "FEMALE2000": 257,
+        "POP2008": 728,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7082804001,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

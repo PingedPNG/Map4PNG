@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5417,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63126200004137,
+          -5.392465999606145
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5417,
+        "CU_NAME": "MONOKAM",
+        "CU_NO": "006",
+        "GEOCODE": "08020317006",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "17",
+        "WARD_NAME": "MONOKAM",
+        "LATITUDE": -5.393344,
+        "LONGITUDE": 143.634712,
+        "REGHH": 67,
+        "TOTPOP2000": 300,
+        "MALE2000": 159,
+        "FEMALE2000": 141,
+        "POP2008": 377,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020317006,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5418,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63023300025282,
+          -5.386849999627714
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5418,
+        "CU_NAME": "YAKANDA",
+        "CU_NO": "007",
+        "GEOCODE": "08020317007",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "17",
+        "WARD_NAME": "MONOKAM",
+        "LATITUDE": -5.388251,
+        "LONGITUDE": 143.629167,
+        "REGHH": 36,
+        "TOTPOP2000": 174,
+        "MALE2000": 82,
+        "FEMALE2000": 92,
+        "POP2008": 218,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020317007,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5419,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63878099964347,
+          -5.389917999915724
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5419,
+        "CU_NAME": "MONOKAM SCH & A/P",
+        "CU_NO": "401",
+        "GEOCODE": "08020317401",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "17",
+        "WARD_NAME": "MONOKAM",
+        "LATITUDE": -5.393344,
+        "LONGITUDE": 143.634712,
+        "REGHH": 3,
+        "TOTPOP2000": 15,
+        "MALE2000": 9,
+        "FEMALE2000": 6,
+        "POP2008": 15,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020317401,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

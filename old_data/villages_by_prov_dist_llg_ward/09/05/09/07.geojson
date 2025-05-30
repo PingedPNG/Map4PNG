@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17075,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.16087899966612,
+          -5.5717329999779395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17075,
+        "CU_NAME": "LYAPORAMBO.1",
+        "CU_NO": "001",
+        "GEOCODE": "09050907001",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "07",
+        "WARD_NAME": "LYAPORAMBO.1",
+        "LATITUDE": -5.572518,
+        "LONGITUDE": 144.162455,
+        "REGHH": 131,
+        "TOTPOP2000": 495,
+        "MALE2000": 257,
+        "FEMALE2000": 238,
+        "POP2008": 603,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050907001,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

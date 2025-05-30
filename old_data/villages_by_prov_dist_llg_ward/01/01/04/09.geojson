@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15179,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.73565400043185,
+          -6.7194419999482875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15179,
+        "CU_NAME": "KAPIKAM",
+        "CU_NO": "012",
+        "GEOCODE": "01010409012",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "KAPIKAM",
+        "LATITUDE": -6.713059,
+        "LONGITUDE": 141.748371,
+        "REGHH": 52,
+        "TOTPOP2000": 306,
+        "MALE2000": 162,
+        "FEMALE2000": 144,
+        "POP2008": 396,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010409012,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

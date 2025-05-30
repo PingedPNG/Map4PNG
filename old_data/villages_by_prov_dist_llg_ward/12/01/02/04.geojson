@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10408,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.93441300025984,
+          -7.852056999930539
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10408,
+        "CU_NAME": "GARAWARIA",
+        "CU_NO": "002",
+        "GEOCODE": "12010204002",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "PAGAU",
+        "LATITUDE": -7.85349,
+        "LONGITUDE": 146.933385,
+        "REGHH": 13,
+        "TOTPOP2000": 49,
+        "MALE2000": 31,
+        "FEMALE2000": 18,
+        "POP2008": 60,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010204002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10409,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.95999500006928,
+          -7.852361999606558
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10409,
+        "CU_NAME": "RAULEPO",
+        "CU_NO": "003",
+        "GEOCODE": "12010204003",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "PAGAU",
+        "LATITUDE": -7.853795,
+        "LONGITUDE": 146.958968,
+        "REGHH": 13,
+        "TOTPOP2000": 65,
+        "MALE2000": 32,
+        "FEMALE2000": 33,
+        "POP2008": 81,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010204003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10410,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9685800002669,
+          -7.848406999783151
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10410,
+        "CU_NAME": "PAGAU",
+        "CU_NO": "009",
+        "GEOCODE": "12010204009",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "PAGAU",
+        "LATITUDE": -7.84984,
+        "LONGITUDE": 146.967553,
+        "REGHH": 28,
+        "TOTPOP2000": 169,
+        "MALE2000": 84,
+        "FEMALE2000": 85,
+        "POP2008": 211,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010204009,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.86742199962566,
+          -6.111467000301786
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14188,
+        "CU_NAME": "OLDALE",
+        "CU_NO": "007",
+        "GEOCODE": "10020611007",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "11",
+        "WARD_NAME": "OLDALE 1",
+        "LATITUDE": -6.112877,
+        "LONGITUDE": 144.866371,
+        "REGHH": 64,
+        "TOTPOP2000": 319,
+        "MALE2000": 168,
+        "FEMALE2000": 151,
+        "POP2008": 367,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020611007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14189,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.88336099991034,
+          -6.0618570004002095
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14189,
+        "CU_NAME": "DINIDAM",
+        "CU_NO": "008",
+        "GEOCODE": "10020611008",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "11",
+        "WARD_NAME": "OLDALE 1",
+        "LATITUDE": -6.063267,
+        "LONGITUDE": 144.88231,
+        "REGHH": 81,
+        "TOTPOP2000": 465,
+        "MALE2000": 230,
+        "FEMALE2000": 235,
+        "POP2008": 536,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020611008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14190,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.89379099975486,
+          -6.07047600036708
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14190,
+        "CU_NAME": "KOMIKAMALE",
+        "CU_NO": "009",
+        "GEOCODE": "10020611009",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "11",
+        "WARD_NAME": "OLDALE 1",
+        "LATITUDE": -6.071886,
+        "LONGITUDE": 144.89274,
+        "REGHH": 37,
+        "TOTPOP2000": 245,
+        "MALE2000": 129,
+        "FEMALE2000": 116,
+        "POP2008": 283,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020611009,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

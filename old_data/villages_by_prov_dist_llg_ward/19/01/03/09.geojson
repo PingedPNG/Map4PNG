@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17794,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.04293499965058,
+          -6.168954000126973
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17794,
+        "CU_NAME": "PAILIKMETE",
+        "CU_NO": "014",
+        "GEOCODE": "19010309014",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "PILILO",
+        "LATITUDE": -6.169622,
+        "LONGITUDE": 149.042,
+        "REGHH": 42,
+        "TOTPOP2000": 244,
+        "MALE2000": 113,
+        "FEMALE2000": 131,
+        "POP2008": 322,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010309014,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17795,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0409950001192,
+          -6.170120999984135
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17795,
+        "CU_NAME": "WINGURU",
+        "CU_NO": "020",
+        "GEOCODE": "19010309020",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "PILILO",
+        "LATITUDE": -6.17154,
+        "LONGITUDE": 149.04,
+        "REGHH": 32,
+        "TOTPOP2000": 218,
+        "MALE2000": 116,
+        "FEMALE2000": 102,
+        "POP2008": 287,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010309020,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17796,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.03699500001926,
+          -6.155590999924641
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17796,
+        "CU_NAME": "AMULUT (INCL. ARAWE PLTN)",
+        "CU_NO": "021",
+        "GEOCODE": "19010309021",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "PILILO",
+        "LATITUDE": -6.15701,
+        "LONGITUDE": 149.036,
+        "REGHH": 33,
+        "TOTPOP2000": 178,
+        "MALE2000": 97,
+        "FEMALE2000": 81,
+        "POP2008": 234,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010309021,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17797,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.03924799959555,
+          -6.180482000244069
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17797,
+        "CU_NAME": "MALANGE",
+        "CU_NO": "022",
+        "GEOCODE": "19010309022",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "PILILO",
+        "LATITUDE": -6.181901,
+        "LONGITUDE": 149.038253,
+        "REGHH": 17,
+        "TOTPOP2000": 92,
+        "MALE2000": 45,
+        "FEMALE2000": 47,
+        "POP2008": 121,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010309022,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17798,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.04530800026407,
+          -6.183500000024935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17798,
+        "CU_NAME": "WAPMETE",
+        "CU_NO": "023",
+        "GEOCODE": "19010309023",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "PILILO",
+        "LATITUDE": -6.184919,
+        "LONGITUDE": 149.044313,
+        "REGHH": 30,
+        "TOTPOP2000": 136,
+        "MALE2000": 76,
+        "FEMALE2000": 60,
+        "POP2008": 179,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010309023,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17799,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.04650599975218,
+          -6.1745340002438525
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17799,
+        "CU_NAME": "PILILO MISSION",
+        "CU_NO": "403",
+        "GEOCODE": "19010309403",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "PILILO",
+        "LATITUDE": -6.172112,
+        "LONGITUDE": 149.044687,
+        "REGHH": 12,
+        "TOTPOP2000": 51,
+        "MALE2000": 32,
+        "FEMALE2000": 19,
+        "POP2008": 67,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010309403,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

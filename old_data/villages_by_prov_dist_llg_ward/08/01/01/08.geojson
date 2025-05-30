@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5201,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.51303100038047,
+          -5.856495999990386
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5201,
+        "CU_NAME": "IMALI",
+        "CU_NO": "001",
+        "GEOCODE": "08010108001",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "IMALI (PINDATA)",
+        "LATITUDE": -5.857901,
+        "LONGITUDE": 143.511963,
+        "REGHH": 53,
+        "TOTPOP2000": 327,
+        "MALE2000": 172,
+        "FEMALE2000": 155,
+        "POP2008": 411,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010108001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5202,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5017689999395,
+          -5.86593099981576
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5202,
+        "CU_NAME": "KUPAI",
+        "CU_NO": "002",
+        "GEOCODE": "08010108002",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "IMALI (PINDATA)",
+        "LATITUDE": -5.867336,
+        "LONGITUDE": 143.500701,
+        "REGHH": 22,
+        "TOTPOP2000": 150,
+        "MALE2000": 81,
+        "FEMALE2000": 69,
+        "POP2008": 188,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010108002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

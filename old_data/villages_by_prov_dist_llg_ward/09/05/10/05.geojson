@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.04455599985954,
+          -5.545216000218204
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17142,
+        "CU_NAME": "KEPAKANDA",
+        "CU_NO": "004",
+        "GEOCODE": "09051005004",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "NEKERAPA.1",
+        "LATITUDE": -5.546151,
+        "LONGITUDE": 144.044886,
+        "REGHH": 12,
+        "TOTPOP2000": 67,
+        "MALE2000": 38,
+        "FEMALE2000": 29,
+        "POP2008": 83,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051005004,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

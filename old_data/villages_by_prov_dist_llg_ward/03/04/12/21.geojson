@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1683,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.86054800038994,
+          -10.097351999694979
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1683,
+        "CU_NAME": "ALUKUNI",
+        "CU_NO": "004",
+        "GEOCODE": "03041221004",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "21",
+        "WARD_NAME": "ALUKUNI",
+        "LATITUDE": -10.09881,
+        "LONGITUDE": 147.859527,
+        "REGHH": 35,
+        "TOTPOP2000": 219,
+        "MALE2000": 114,
+        "FEMALE2000": 105,
+        "POP2008": 262,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041221004,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

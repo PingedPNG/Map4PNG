@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.46628899963764,
+          -5.48484100031186
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5611,
+        "CU_NAME": "IPAI",
+        "CU_NO": "040",
+        "GEOCODE": "08030631040",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "31",
+        "WARD_NAME": "IPAI",
+        "LATITUDE": -5.486242,
+        "LONGITUDE": 143.465221,
+        "REGHH": 164,
+        "TOTPOP2000": 929,
+        "MALE2000": 463,
+        "FEMALE2000": 466,
+        "POP2008": 1168,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030631040,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

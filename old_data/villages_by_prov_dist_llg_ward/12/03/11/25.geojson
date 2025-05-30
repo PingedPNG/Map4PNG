@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.35243099959098,
+          -6.857752000154619
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11116,
+        "CU_NAME": "BENCHENG",
+        "CU_NO": "002",
+        "GEOCODE": "12031125002",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "25",
+        "WARD_NAME": "TSILITSILI",
+        "LATITUDE": -6.856273,
+        "LONGITUDE": 146.355971,
+        "REGHH": 80,
+        "TOTPOP2000": 466,
+        "MALE2000": 252,
+        "FEMALE2000": 214,
+        "POP2008": 581,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031125002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.35150800019414,
+          -6.85179000040813
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11117,
+        "CU_NAME": "DUNGUTUNG",
+        "CU_NO": "003",
+        "GEOCODE": "12031125003",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "25",
+        "WARD_NAME": "TSILITSILI",
+        "LATITUDE": -6.853211,
+        "LONGITUDE": 146.350475,
+        "REGHH": 78,
+        "TOTPOP2000": 397,
+        "MALE2000": 215,
+        "FEMALE2000": 182,
+        "POP2008": 494,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031125003,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

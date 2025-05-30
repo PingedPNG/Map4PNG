@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10884,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.64072999968982,
+          -6.624818999896888
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10884,
+        "CU_NAME": "MUGISUNG",
+        "CU_NO": "030",
+        "GEOCODE": "12020816030",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "MANGAC",
+        "LATITUDE": -6.621822,
+        "LONGITUDE": 147.640813,
+        "REGHH": 26,
+        "TOTPOP2000": 186,
+        "MALE2000": 92,
+        "FEMALE2000": 94,
+        "POP2008": 231,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020816030,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10885,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.57140799997933,
+          -6.559662999847546
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10885,
+        "CU_NAME": "SAMBIANG",
+        "CU_NO": "034",
+        "GEOCODE": "12020816034",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "MANGAC",
+        "LATITUDE": -6.561084,
+        "LONGITUDE": 147.570392,
+        "REGHH": 43,
+        "TOTPOP2000": 243,
+        "MALE2000": 130,
+        "FEMALE2000": 113,
+        "POP2008": 303,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020816034,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10886,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.64847099963697,
+          -6.663622999701602
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10886,
+        "CU_NAME": "YOMBONG",
+        "CU_NO": "041",
+        "GEOCODE": "12020816041",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "MANGAC",
+        "LATITUDE": -6.666382,
+        "LONGITUDE": 147.651276,
+        "REGHH": 50,
+        "TOTPOP2000": 293,
+        "MALE2000": 152,
+        "FEMALE2000": 141,
+        "POP2008": 365,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020816041,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10887,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.64882399972782,
+          -6.558677000243335
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10887,
+        "CU_NAME": "ZINKO",
+        "CU_NO": "043",
+        "GEOCODE": "12020816043",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "MANGAC",
+        "LATITUDE": -6.560098,
+        "LONGITUDE": 147.647809,
+        "REGHH": 29,
+        "TOTPOP2000": 196,
+        "MALE2000": 95,
+        "FEMALE2000": 101,
+        "POP2008": 244,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020816043,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.62316299987265,
+          -6.577516000263131
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10888,
+        "CU_NAME": "MANGAC",
+        "CU_NO": "044",
+        "GEOCODE": "12020816044",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "MANGAC",
+        "LATITUDE": -6.578937,
+        "LONGITUDE": 147.622148,
+        "REGHH": 21,
+        "TOTPOP2000": 118,
+        "MALE2000": 65,
+        "FEMALE2000": 53,
+        "POP2008": 147,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020816044,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

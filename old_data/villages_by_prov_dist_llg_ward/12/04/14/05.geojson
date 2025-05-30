@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11270,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.64184199990848,
+          -6.083407999579492
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11270,
+        "CU_NAME": "GORGIOK",
+        "CU_NO": "004",
+        "GEOCODE": "12041405004",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "05",
+        "WARD_NAME": "GORGIOK",
+        "LATITUDE": -6.082433,
+        "LONGITUDE": 146.63809,
+        "REGHH": 27,
+        "TOTPOP2000": 157,
+        "MALE2000": 81,
+        "FEMALE2000": 76,
+        "POP2008": 196,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041405004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11271,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.63459999959036,
+          -6.10842899959863
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11271,
+        "CU_NAME": "TORIK",
+        "CU_NO": "005",
+        "GEOCODE": "12041405005",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "05",
+        "WARD_NAME": "GORGIOK",
+        "LATITUDE": -6.109843,
+        "LONGITUDE": 146.633572,
+        "REGHH": 27,
+        "TOTPOP2000": 193,
+        "MALE2000": 111,
+        "FEMALE2000": 82,
+        "POP2008": 241,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041405005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11272,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6892109998878,
+          -6.065191000364337
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11272,
+        "CU_NAME": "NUMANORANG",
+        "CU_NO": "006",
+        "GEOCODE": "12041405006",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "05",
+        "WARD_NAME": "GORGIOK",
+        "LATITUDE": -6.066604,
+        "LONGITUDE": 146.688184,
+        "REGHH": 11,
+        "TOTPOP2000": 62,
+        "MALE2000": 28,
+        "FEMALE2000": 34,
+        "POP2008": 78,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041405006,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

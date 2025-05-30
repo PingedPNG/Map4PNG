@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30079,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2883496401239,
+          -6.346774709884926
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30079,
+        "CU_NAME": "DUTO",
+        "CU_NO": "005",
+        "GEOCODE": "11050716005",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "16",
+        "WARD_NAME": "KOROWA",
+        "LATITUDE": -6.346775,
+        "LONGITUDE": 145.28835,
+        "REGHH": 35,
+        "TOTPOP2000": 135,
+        "MALE2000": 66,
+        "FEMALE2000": 69,
+        "POP2008": 159,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30080,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3101436801868,
+          -6.347639159819323
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30080,
+        "CU_NAME": "KEMURAKE",
+        "CU_NO": "019",
+        "GEOCODE": "11050716019",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "16",
+        "WARD_NAME": "KOROWA",
+        "LATITUDE": -6.347639,
+        "LONGITUDE": 145.310144,
+        "REGHH": 63,
+        "TOTPOP2000": 227,
+        "MALE2000": 116,
+        "FEMALE2000": 111,
+        "POP2008": 270,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30081,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27050480015646,
+          -6.347870549985828
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30081,
+        "CU_NAME": "KIOSA",
+        "CU_NO": "021",
+        "GEOCODE": "11050716021",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "16",
+        "WARD_NAME": "KOROWA",
+        "LATITUDE": -6.347871,
+        "LONGITUDE": 145.270505,
+        "REGHH": 66,
+        "TOTPOP2000": 238,
+        "MALE2000": 126,
+        "FEMALE2000": 112,
+        "POP2008": 283,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30082,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2685165196217,
+          -6.338061450175758
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30082,
+        "CU_NAME": "KOROWA",
+        "CU_NO": "025",
+        "GEOCODE": "11050716025",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "16",
+        "WARD_NAME": "KOROWA",
+        "LATITUDE": -6.338061,
+        "LONGITUDE": 145.268517,
+        "REGHH": 150,
+        "TOTPOP2000": 633,
+        "MALE2000": 297,
+        "FEMALE2000": 336,
+        "POP2008": 754,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30083,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3019659199913,
+          -6.343454969571155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30083,
+        "CU_NAME": "LOSEVE",
+        "CU_NO": "026",
+        "GEOCODE": "11050716026",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "16",
+        "WARD_NAME": "KOROWA",
+        "LATITUDE": -6.343455,
+        "LONGITUDE": 145.301966,
+        "REGHH": 71,
+        "TOTPOP2000": 273,
+        "MALE2000": 146,
+        "FEMALE2000": 127,
+        "POP2008": 325,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30084,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.29731076018345,
+          -6.348770640052976
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30084,
+        "CU_NAME": "SARA",
+        "CU_NO": "038",
+        "GEOCODE": "11050716038",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "16",
+        "WARD_NAME": "KOROWA",
+        "LATITUDE": -6.348771,
+        "LONGITUDE": 145.297311,
+        "REGHH": 47,
+        "TOTPOP2000": 227,
+        "MALE2000": 116,
+        "FEMALE2000": 111,
+        "POP2008": 270,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

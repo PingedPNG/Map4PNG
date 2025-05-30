@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.03665799986686,
+          -6.465580000416651
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20112,
+        "CU_NAME": "KILIPIMI 1",
+        "CU_NO": "004",
+        "GEOCODE": "07031008004",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "KILIPIMI 1",
+        "LATITUDE": -6.465943,
+        "LONGITUDE": 144.03911,
+        "REGHH": 24,
+        "TOTPOP2000": 125,
+        "MALE2000": 74,
+        "FEMALE2000": 51,
+        "POP2008": 173,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031008004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.039130999696,
+          -6.4632360002411815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20113,
+        "CU_NAME": "KILIPIMI 2",
+        "CU_NO": "005",
+        "GEOCODE": "07031008005",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "KILIPIMI 1",
+        "LATITUDE": -6.465943,
+        "LONGITUDE": 144.03911,
+        "REGHH": 26,
+        "TOTPOP2000": 149,
+        "MALE2000": 81,
+        "FEMALE2000": 68,
+        "POP2008": 207,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031008005,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.03587000040022,
+          -6.46408799996118
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20114,
+        "CU_NAME": "PORORA",
+        "CU_NO": "006",
+        "GEOCODE": "07031008006",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "KILIPIMI 1",
+        "LATITUDE": -6.465943,
+        "LONGITUDE": 144.03911,
+        "REGHH": 15,
+        "TOTPOP2000": 71,
+        "MALE2000": 37,
+        "FEMALE2000": 34,
+        "POP2008": 98,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031008006,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.03706999998053,
+          -6.4629450003114925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20115,
+        "CU_NAME": "KONOGA",
+        "CU_NO": "007",
+        "GEOCODE": "07031008007",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "KILIPIMI 1",
+        "LATITUDE": -6.465943,
+        "LONGITUDE": 144.03911,
+        "REGHH": 6,
+        "TOTPOP2000": 37,
+        "MALE2000": 19,
+        "FEMALE2000": 18,
+        "POP2008": 53,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031008007,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5874,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5675479999403,
+          -5.097695000323938
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5874,
+        "CU_NAME": "KUPIN",
+        "CU_NO": "001",
+        "GEOCODE": "08041213001",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "13",
+        "WARD_NAME": "PENALE",
+        "LATITUDE": -5.102081,
+        "LONGITUDE": 143.573454,
+        "REGHH": 21,
+        "TOTPOP2000": 128,
+        "MALE2000": 70,
+        "FEMALE2000": 58,
+        "POP2008": 161,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041213001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5875,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5855320001018,
+          -5.09234800016003
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5875,
+        "CU_NAME": "NAMARA",
+        "CU_NO": "002",
+        "GEOCODE": "08041213002",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "13",
+        "WARD_NAME": "PENALE",
+        "LATITUDE": -5.092376,
+        "LONGITUDE": 143.594336,
+        "REGHH": 20,
+        "TOTPOP2000": 139,
+        "MALE2000": 88,
+        "FEMALE2000": 51,
+        "POP2008": 174,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041213002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

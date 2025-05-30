@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.41975900037767,
+          -5.336210999937634
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16888,
+        "CU_NAME": "MERENT",
+        "CU_NO": "009",
+        "GEOCODE": "09040618009",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "18",
+        "WARD_NAME": "MERENT",
+        "LATITUDE": -5.337142,
+        "LONGITUDE": 144.420094,
+        "REGHH": 44,
+        "TOTPOP2000": 189,
+        "MALE2000": 105,
+        "FEMALE2000": 84,
+        "POP2008": 230,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040618009,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

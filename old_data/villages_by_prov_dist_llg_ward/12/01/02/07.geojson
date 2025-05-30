@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10415,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.930474000275,
+          -7.726836999927571
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10415,
+        "CU_NAME": "GEREPO",
+        "CU_NO": "002",
+        "GEOCODE": "12010207002",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "07",
+        "WARD_NAME": "SIM",
+        "LATITUDE": -7.728269,
+        "LONGITUDE": 146.929445,
+        "REGHH": 37,
+        "TOTPOP2000": 250,
+        "MALE2000": 129,
+        "FEMALE2000": 121,
+        "POP2008": 311,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010207002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10416,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.93647900020574,
+          -7.737183000395078
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10416,
+        "CU_NAME": "SUMU",
+        "CU_NO": "004",
+        "GEOCODE": "12010207004",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "07",
+        "WARD_NAME": "SIM",
+        "LATITUDE": -7.738615,
+        "LONGITUDE": 146.935452,
+        "REGHH": 18,
+        "TOTPOP2000": 100,
+        "MALE2000": 53,
+        "FEMALE2000": 47,
+        "POP2008": 124,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010207004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10417,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.91856999990569,
+          -7.752726999551328
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10417,
+        "CU_NAME": "KOIAVI",
+        "CU_NO": "006",
+        "GEOCODE": "12010207006",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "07",
+        "WARD_NAME": "SIM",
+        "LATITUDE": -7.754159,
+        "LONGITUDE": 146.917542,
+        "REGHH": 7,
+        "TOTPOP2000": 18,
+        "MALE2000": 9,
+        "FEMALE2000": 9,
+        "POP2008": 26,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010207006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10418,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.93337500005623,
+          -7.7546809997282935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10418,
+        "CU_NAME": "SIM",
+        "CU_NO": "010",
+        "GEOCODE": "12010207010",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "07",
+        "WARD_NAME": "SIM",
+        "LATITUDE": -7.756113,
+        "LONGITUDE": 146.932347,
+        "REGHH": 25,
+        "TOTPOP2000": 119,
+        "MALE2000": 62,
+        "FEMALE2000": 57,
+        "POP2008": 149,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010207010,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10419,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.93366900012427,
+          -7.7576930001317805
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10419,
+        "CU_NAME": "SIM C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "12010207401",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "07",
+        "WARD_NAME": "SIM",
+        "LATITUDE": -7.759125,
+        "LONGITUDE": 146.932641,
+        "REGHH": 1,
+        "TOTPOP2000": 1,
+        "MALE2000": 1,
+        "FEMALE2000": 0,
+        "POP2008": 1,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010207401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

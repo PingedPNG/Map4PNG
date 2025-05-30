@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9907760004122,
+          -8.353372000217576
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1156,
+        "CU_NAME": "TAPINI 01",
+        "CU_NO": "001",
+        "GEOCODE": "03020580001",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "80",
+        "WARD_NAME": "TAPINI URBAN",
+        "LATITUDE": -8.356158,
+        "LONGITUDE": 146.988558,
+        "REGHH": 30,
+        "TOTPOP2000": 192,
+        "MALE2000": 98,
+        "FEMALE2000": 94,
+        "POP2008": 231,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020580001,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1157,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9924759996677,
+          -8.355153999657318
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1157,
+        "CU_NAME": "TAPINI 02",
+        "CU_NO": "002",
+        "GEOCODE": "03020580002",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "80",
+        "WARD_NAME": "TAPINI URBAN",
+        "LATITUDE": -8.356157,
+        "LONGITUDE": 146.988558,
+        "REGHH": 8,
+        "TOTPOP2000": 48,
+        "MALE2000": 24,
+        "FEMALE2000": 24,
+        "POP2008": 56,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020580002,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1158,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9914890000174,
+          -8.357176000272148
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1158,
+        "CU_NAME": "TAPINI DASF",
+        "CU_NO": "003",
+        "GEOCODE": "03020580003",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "80",
+        "WARD_NAME": "TAPINI URBAN",
+        "LATITUDE": -8.356156,
+        "LONGITUDE": 146.988559,
+        "REGHH": 13,
+        "TOTPOP2000": 78,
+        "MALE2000": 34,
+        "FEMALE2000": 44,
+        "POP2008": 94,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020580003,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1159,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.98958700043977,
+          -8.349796999931527
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1159,
+        "CU_NAME": "TAPINI HIGH SCHOOL",
+        "CU_NO": "004",
+        "GEOCODE": "03020580004",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "80",
+        "WARD_NAME": "TAPINI URBAN",
+        "LATITUDE": -8.356156,
+        "LONGITUDE": 146.988558,
+        "REGHH": 19,
+        "TOTPOP2000": 166,
+        "MALE2000": 83,
+        "FEMALE2000": 83,
+        "POP2008": 198,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020580004,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

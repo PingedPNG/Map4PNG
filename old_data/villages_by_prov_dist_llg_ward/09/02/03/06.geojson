@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.33235100029844,
+          -5.787658000116551
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16232,
+        "CU_NAME": "KUK.1",
+        "CU_NO": "001",
+        "GEOCODE": "09020306001",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "KUK 1",
+        "LATITUDE": -5.788596,
+        "LONGITUDE": 144.332685,
+        "REGHH": 160,
+        "TOTPOP2000": 647,
+        "MALE2000": 330,
+        "FEMALE2000": 317,
+        "POP2008": 788,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020306001,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.34169300033182,
+          -5.79473600006628
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16233,
+        "CU_NAME": "KUK TEA",
+        "CU_NO": "002",
+        "GEOCODE": "09020306002",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "KUK 1",
+        "LATITUDE": -5.795674,
+        "LONGITUDE": 144.342029,
+        "REGHH": 93,
+        "TOTPOP2000": 459,
+        "MALE2000": 225,
+        "FEMALE2000": 234,
+        "POP2008": 559,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020306002,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.35640599983708,
+          -5.777033000272695
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16234,
+        "CU_NAME": "KUNING",
+        "CU_NO": "003",
+        "GEOCODE": "09020306003",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "KUK 1",
+        "LATITUDE": -5.777971,
+        "LONGITUDE": 144.356742,
+        "REGHH": 97,
+        "TOTPOP2000": 419,
+        "MALE2000": 211,
+        "FEMALE2000": 208,
+        "POP2008": 510,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020306003,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.32870400028946,
+          -5.787055000188047
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16235,
+        "CU_NAME": "KUK RESEARCH",
+        "CU_NO": "401",
+        "GEOCODE": "09020306401",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "KUK 1",
+        "LATITUDE": -5.7888,
+        "LONGITUDE": 144.329034,
+        "REGHH": 87,
+        "TOTPOP2000": 403,
+        "MALE2000": 196,
+        "FEMALE2000": 207,
+        "POP2008": 491,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020306401,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

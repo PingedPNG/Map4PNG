@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20240,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.95863300011297,
+          -5.9077330002776876
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20240,
+        "CU_NAME": "DAULI TCHR'S COLL.",
+        "CU_NO": "501",
+        "GEOCODE": "07041125501",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "11",
+        "WARD_NO": "25",
+        "WARD_NAME": "DAULI 2",
+        "LATITUDE": -5.911978,
+        "LONGITUDE": 142.958897,
+        "REGHH": 51,
+        "TOTPOP2000": 303,
+        "MALE2000": 212,
+        "FEMALE2000": 91,
+        "POP2008": 421,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041125501,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10854,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.7638920001158,
+          -6.696169999645747
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10854,
+        "CU_NAME": "BUSIGA",
+        "CU_NO": "004",
+        "GEOCODE": "12020808004",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "BUSIGA",
+        "LATITUDE": -6.697593,
+        "LONGITUDE": 147.762878,
+        "REGHH": 81,
+        "TOTPOP2000": 398,
+        "MALE2000": 208,
+        "FEMALE2000": 190,
+        "POP2008": 495,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020808004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10855,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.72998899969264,
+          -6.702625999690099
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10855,
+        "CU_NAME": "MANGEC",
+        "CU_NO": "013",
+        "GEOCODE": "12020808013",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "BUSIGA",
+        "LATITUDE": -6.70405,
+        "LONGITUDE": 147.728975,
+        "REGHH": 57,
+        "TOTPOP2000": 308,
+        "MALE2000": 168,
+        "FEMALE2000": 140,
+        "POP2008": 384,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020808013,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10856,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.7694409997024,
+          -6.676597999997682
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10856,
+        "CU_NAME": "KETAC",
+        "CU_NO": "014",
+        "GEOCODE": "12020808014",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "BUSIGA",
+        "LATITUDE": -6.67802,
+        "LONGITUDE": 147.768427,
+        "REGHH": 41,
+        "TOTPOP2000": 203,
+        "MALE2000": 111,
+        "FEMALE2000": 92,
+        "POP2008": 254,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020808014,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10857,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.7546160004281,
+          -6.700418000390357
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10857,
+        "CU_NAME": "BUMASE C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "12020808401",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "BUSIGA",
+        "LATITUDE": -6.701841,
+        "LONGITUDE": 147.753602,
+        "REGHH": 4,
+        "TOTPOP2000": 13,
+        "MALE2000": 10,
+        "FEMALE2000": 3,
+        "POP2008": 13,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020808401,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10858,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.83040799992932,
+          -6.5267859999738675
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10858,
+        "CU_NAME": "BUAYUNG CAMP",
+        "CU_NO": "402",
+        "GEOCODE": "12020808402",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "BUSIGA",
+        "LATITUDE": -6.527944,
+        "LONGITUDE": 147.829501,
+        "REGHH": 11,
+        "TOTPOP2000": 55,
+        "MALE2000": 32,
+        "FEMALE2000": 23,
+        "POP2008": 71,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020808402,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5822,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.75469699956693,
+          -5.498072999869009
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5822,
+        "CU_NAME": "WAKUMALE",
+        "CU_NO": "016",
+        "GEOCODE": "08041121016",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "21",
+        "WARD_NAME": "WAKUMALE",
+        "LATITUDE": -5.499475,
+        "LONGITUDE": 143.753633,
+        "REGHH": 78,
+        "TOTPOP2000": 473,
+        "MALE2000": 237,
+        "FEMALE2000": 236,
+        "POP2008": 595,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041121016,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5823,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.75545300025578,
+          -5.502399999760144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5823,
+        "CU_NAME": "WAEAMU",
+        "CU_NO": "017",
+        "GEOCODE": "08041121017",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "21",
+        "WARD_NAME": "WAKUMALE",
+        "LATITUDE": -5.503802,
+        "LONGITUDE": 143.754389,
+        "REGHH": 15,
+        "TOTPOP2000": 77,
+        "MALE2000": 44,
+        "FEMALE2000": 33,
+        "POP2008": 96,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041121017,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

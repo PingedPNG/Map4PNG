@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20880,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.76445700019042,
+          -5.7306580002664305
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20880,
+        "CU_NAME": "GUNU 1",
+        "CU_NO": "007",
+        "GEOCODE": "07051710007",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "10",
+        "WARD_NAME": "GUNU 1",
+        "LATITUDE": -5.734902,
+        "LONGITUDE": 142.764718,
+        "REGHH": 119,
+        "TOTPOP2000": 726,
+        "MALE2000": 382,
+        "FEMALE2000": 344,
+        "POP2008": 1008,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051710007,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

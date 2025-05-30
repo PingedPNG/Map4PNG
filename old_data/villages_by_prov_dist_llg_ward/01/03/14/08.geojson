@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15710,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.81671800003573,
+          -8.619110999772772
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15710,
+        "CU_NAME": "KAPAL",
+        "CU_NO": "012",
+        "GEOCODE": "01031408012",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "08",
+        "WARD_NAME": "KAPAL",
+        "LATITUDE": -8.620541,
+        "LONGITUDE": 142.815635,
+        "REGHH": 45,
+        "TOTPOP2000": 238,
+        "MALE2000": 118,
+        "FEMALE2000": 120,
+        "POP2008": 309,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031408012,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

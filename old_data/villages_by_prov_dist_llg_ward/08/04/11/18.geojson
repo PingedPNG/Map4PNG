@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5811,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.72256900005937,
+          -5.494119000091757
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5811,
+        "CU_NAME": "SAKALIS",
+        "CU_NO": "006",
+        "GEOCODE": "08041118006",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "SAKALIS",
+        "LATITUDE": -5.495339,
+        "LONGITUDE": 143.721503,
+        "REGHH": 108,
+        "TOTPOP2000": 593,
+        "MALE2000": 294,
+        "FEMALE2000": 299,
+        "POP2008": 745,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041118006,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71713699957297,
+          -5.488672999859034
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5812,
+        "CU_NAME": "SANGURAP",
+        "CU_NO": "008",
+        "GEOCODE": "08041118008",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "SAKALIS",
+        "LATITUDE": -5.492117,
+        "LONGITUDE": 143.715654,
+        "REGHH": 126,
+        "TOTPOP2000": 778,
+        "MALE2000": 421,
+        "FEMALE2000": 357,
+        "POP2008": 979,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041118008,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7169829996658,
+          -5.496834000288857
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5813,
+        "CU_NAME": "SAGASAMBES",
+        "CU_NO": "009",
+        "GEOCODE": "08041118009",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "SAKALIS",
+        "LATITUDE": -5.498543,
+        "LONGITUDE": 143.715012,
+        "REGHH": 35,
+        "TOTPOP2000": 145,
+        "MALE2000": 83,
+        "FEMALE2000": 62,
+        "POP2008": 182,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041118009,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71486299992762,
+          -5.494465999905913
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5814,
+        "CU_NAME": "YAKALE",
+        "CU_NO": "010",
+        "GEOCODE": "08041118010",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "SAKALIS",
+        "LATITUDE": -5.494348,
+        "LONGITUDE": 143.714879,
+        "REGHH": 33,
+        "TOTPOP2000": 164,
+        "MALE2000": 80,
+        "FEMALE2000": 84,
+        "POP2008": 206,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041118010,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

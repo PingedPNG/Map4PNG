@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 958,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2198879996315,
+          -10.046788999912394
+        ]
+      },
+      "properties": {
+        "OBJECTID": 958,
+        "CU_NAME": "WANIGELA",
+        "CU_NO": "045",
+        "GEOCODE": "03010212045",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "WANIGELA",
+        "LATITUDE": -10.048248,
+        "LONGITUDE": 148.218872,
+        "REGHH": 347,
+        "TOTPOP2000": 3322,
+        "MALE2000": 1676,
+        "FEMALE2000": 1646,
+        "POP2008": 3986,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010212045,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

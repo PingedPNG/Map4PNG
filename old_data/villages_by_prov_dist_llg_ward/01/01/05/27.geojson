@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15269,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.10437399966042,
+          -5.896479000205659
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15269,
+        "CU_NAME": "KOMOKATO",
+        "CU_NO": "001",
+        "GEOCODE": "01010527001",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "27",
+        "WARD_NAME": "AEYEDUBI",
+        "LATITUDE": -5.896994,
+        "LONGITUDE": 142.105491,
+        "REGHH": 15,
+        "TOTPOP2000": 88,
+        "MALE2000": 43,
+        "FEMALE2000": 45,
+        "POP2008": 113,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010527001,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15270,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.353471999833,
+          -6.288470999736774
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15270,
+        "CU_NAME": "AEYEDUBI",
+        "CU_NO": "002",
+        "GEOCODE": "01010527002",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "27",
+        "WARD_NAME": "AEYEDUBI",
+        "LATITUDE": -6.279536,
+        "LONGITUDE": 142.350885,
+        "REGHH": 31,
+        "TOTPOP2000": 198,
+        "MALE2000": 97,
+        "FEMALE2000": 101,
+        "POP2008": 257,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010527002,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15271,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.17390199987744,
+          -5.817189000372025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15271,
+        "CU_NAME": "SESEYEBI",
+        "CU_NO": "003",
+        "GEOCODE": "01010527003",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "27",
+        "WARD_NAME": "AEYEDUBI",
+        "LATITUDE": -5.882941,
+        "LONGITUDE": 142.256262,
+        "REGHH": 12,
+        "TOTPOP2000": 66,
+        "MALE2000": 35,
+        "FEMALE2000": 31,
+        "POP2008": 85,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010527003,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

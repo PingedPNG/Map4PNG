@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4723,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.29565800001672,
+          -4.343082999580702
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4723,
+        "CU_NAME": "TAKUBAR",
+        "CU_NO": "010",
+        "GEOCODE": "18020813010",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "TAKUBAR",
+        "LATITUDE": -4.342615,
+        "LONGITUDE": 152.294669,
+        "REGHH": 43,
+        "TOTPOP2000": 252,
+        "MALE2000": 134,
+        "FEMALE2000": 118,
+        "POP2008": 306,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020813010,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.2928839997968,
+          -4.363998000007655
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4724,
+        "CU_NAME": "KABALEO",
+        "CU_NO": "015",
+        "GEOCODE": "18020813015",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "TAKUBAR",
+        "LATITUDE": -4.365399,
+        "LONGITUDE": 152.29194,
+        "REGHH": 25,
+        "TOTPOP2000": 181,
+        "MALE2000": 92,
+        "FEMALE2000": 89,
+        "POP2008": 221,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020813015,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.28125699961095,
+          -4.361153000110846
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4725,
+        "CU_NAME": "VUNABOSCO",
+        "CU_NO": "401",
+        "GEOCODE": "18020813401",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "TAKUBAR",
+        "LATITUDE": -4.362554,
+        "LONGITUDE": 152.280313,
+        "REGHH": 20,
+        "TOTPOP2000": 61,
+        "MALE2000": 50,
+        "FEMALE2000": 11,
+        "POP2008": 77,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020813401,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4726,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.29466600013586,
+          -4.346404999890808
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4726,
+        "CU_NAME": "TAKUBAR PLANTATION",
+        "CU_NO": "402",
+        "GEOCODE": "18020813402",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "TAKUBAR",
+        "LATITUDE": -4.345937,
+        "LONGITUDE": 152.293677,
+        "REGHH": 16,
+        "TOTPOP2000": 148,
+        "MALE2000": 85,
+        "FEMALE2000": 63,
+        "POP2008": 180,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020813402,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4727,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.29318400014154,
+          -4.36084999962776
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4727,
+        "CU_NAME": "KABALEO T/COLLEGE",
+        "CU_NO": "509",
+        "GEOCODE": "18020813509",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "TAKUBAR",
+        "LATITUDE": -4.362251,
+        "LONGITUDE": 152.29224,
+        "REGHH": 21,
+        "TOTPOP2000": 204,
+        "MALE2000": 63,
+        "FEMALE2000": 141,
+        "POP2008": 248,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020813509,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

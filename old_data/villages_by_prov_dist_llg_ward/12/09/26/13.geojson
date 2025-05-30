@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12253,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.72056100019006,
+          -6.312291000129505
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12253,
+        "CU_NAME": "BUTENKA",
+        "CU_NO": "002",
+        "GEOCODE": "12092613002",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "13",
+        "WARD_NAME": "WANDOKAI",
+        "LATITUDE": -6.313709,
+        "LONGITUDE": 147.719547,
+        "REGHH": 57,
+        "TOTPOP2000": 309,
+        "MALE2000": 171,
+        "FEMALE2000": 138,
+        "POP2008": 386,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092613002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12254,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.78098599970417,
+          -6.307923000146275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12254,
+        "CU_NAME": "HUBEGONG",
+        "CU_NO": "005",
+        "GEOCODE": "12092613005",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "13",
+        "WARD_NAME": "WANDOKAI",
+        "LATITUDE": -6.309336,
+        "LONGITUDE": 147.783046,
+        "REGHH": 35,
+        "TOTPOP2000": 192,
+        "MALE2000": 98,
+        "FEMALE2000": 94,
+        "POP2008": 240,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092613005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12255,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.71350799959453,
+          -6.302648999751511
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12255,
+        "CU_NAME": "KAPAUA",
+        "CU_NO": "007",
+        "GEOCODE": "12092613007",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "13",
+        "WARD_NAME": "WANDOKAI",
+        "LATITUDE": -6.304067,
+        "LONGITUDE": 147.712494,
+        "REGHH": 69,
+        "TOTPOP2000": 376,
+        "MALE2000": 187,
+        "FEMALE2000": 189,
+        "POP2008": 469,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092613007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12256,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.7426499998976,
+          -6.288363000152287
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12256,
+        "CU_NAME": "WANDOKAI",
+        "CU_NO": "014",
+        "GEOCODE": "12092613014",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "13",
+        "WARD_NAME": "WANDOKAI",
+        "LATITUDE": -6.284695,
+        "LONGITUDE": 147.741123,
+        "REGHH": 105,
+        "TOTPOP2000": 601,
+        "MALE2000": 312,
+        "FEMALE2000": 289,
+        "POP2008": 749,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092613014,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

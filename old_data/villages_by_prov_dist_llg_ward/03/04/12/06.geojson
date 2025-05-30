@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1663,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6417889999625,
+          -9.90583500008512
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1663,
+        "CU_NAME": "GAMOGA",
+        "CU_NO": "021",
+        "GEOCODE": "03041206021",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "TAURUBA",
+        "LATITUDE": -9.907291,
+        "LONGITUDE": 147.640765,
+        "REGHH": 42,
+        "TOTPOP2000": 207,
+        "MALE2000": 108,
+        "FEMALE2000": 99,
+        "POP2008": 248,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041206021,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1664,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.62277199982805,
+          -9.898033000022906
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1664,
+        "CU_NAME": "TAURUBA",
+        "CU_NO": "082",
+        "GEOCODE": "03041206082",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "TAURUBA",
+        "LATITUDE": -9.899488,
+        "LONGITUDE": 147.621748,
+        "REGHH": 89,
+        "TOTPOP2000": 726,
+        "MALE2000": 376,
+        "FEMALE2000": 350,
+        "POP2008": 871,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041206082,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

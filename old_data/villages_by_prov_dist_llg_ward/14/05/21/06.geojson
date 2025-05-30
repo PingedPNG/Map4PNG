@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7122,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.96872399961296,
+          -3.755303999579894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7122,
+        "CU_NAME": "VISIKUM",
+        "CU_NO": "009",
+        "GEOCODE": "14052106009",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "21",
+        "WARD_NO": "06",
+        "WARD_NAME": "VISIKUM",
+        "LATITUDE": -3.756883,
+        "LONGITUDE": 142.967484,
+        "REGHH": 82,
+        "TOTPOP2000": 395,
+        "MALE2000": 194,
+        "FEMALE2000": 201,
+        "POP2008": 470,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052106009,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7123,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.95855099992878,
+          -3.7534410000021126
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7123,
+        "CU_NAME": "LUPUKO",
+        "CU_NO": "010",
+        "GEOCODE": "14052106010",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "21",
+        "WARD_NO": "06",
+        "WARD_NAME": "VISIKUM",
+        "LATITUDE": -3.75502,
+        "LONGITUDE": 142.957309,
+        "REGHH": 18,
+        "TOTPOP2000": 87,
+        "MALE2000": 36,
+        "FEMALE2000": 51,
+        "POP2008": 103,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052106010,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14590,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8797000001549,
+          -6.042833999989057
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14590,
+        "CU_NAME": "MOROMAMBUNO",
+        "CU_NO": "008",
+        "GEOCODE": "10041211008",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "BANDI NO. 1",
+        "LATITUDE": -6.044244,
+        "LONGITUDE": 144.878649,
+        "REGHH": 115,
+        "TOTPOP2000": 749,
+        "MALE2000": 387,
+        "FEMALE2000": 362,
+        "POP2008": 863,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041211008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14591,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.88183699977776,
+          -6.054739000404481
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14591,
+        "CU_NAME": "NEREGAIMA",
+        "CU_NO": "009",
+        "GEOCODE": "10041211009",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "BANDI NO. 1",
+        "LATITUDE": -6.056149,
+        "LONGITUDE": 144.880786,
+        "REGHH": 45,
+        "TOTPOP2000": 414,
+        "MALE2000": 225,
+        "FEMALE2000": 189,
+        "POP2008": 477,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041211009,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14592,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.87813099974596,
+          -6.048137999968674
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14592,
+        "CU_NAME": "KAMTAI",
+        "CU_NO": "010",
+        "GEOCODE": "10041211010",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "BANDI NO. 1",
+        "LATITUDE": -6.049548,
+        "LONGITUDE": 144.87708,
+        "REGHH": 53,
+        "TOTPOP2000": 288,
+        "MALE2000": 151,
+        "FEMALE2000": 137,
+        "POP2008": 332,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041211010,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14593,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.88433099967597,
+          -6.0540029997386
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14593,
+        "CU_NAME": "NEREGAIMA CATH MSSN",
+        "CU_NO": "401",
+        "GEOCODE": "10041211401",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "BANDI NO. 1",
+        "LATITUDE": -6.057931,
+        "LONGITUDE": 144.881758,
+        "REGHH": 20,
+        "TOTPOP2000": 142,
+        "MALE2000": 72,
+        "FEMALE2000": 70,
+        "POP2008": 166,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041211401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

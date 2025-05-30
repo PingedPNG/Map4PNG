@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4646,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.2881760003222,
+          -4.418021000168949
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4646,
+        "CU_NAME": "TABUNA",
+        "CU_NO": "023",
+        "GEOCODE": "18020607023",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "TABUNA",
+        "LATITUDE": -4.419423,
+        "LONGITUDE": 152.287232,
+        "REGHH": 59,
+        "TOTPOP2000": 320,
+        "MALE2000": 164,
+        "FEMALE2000": 156,
+        "POP2008": 389,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020607023,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4647,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.28005599998448,
+          -4.4398260002696475
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4647,
+        "CU_NAME": "TABUNA PLANTATION",
+        "CU_NO": "516",
+        "GEOCODE": "18020607516",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "TABUNA",
+        "LATITUDE": -4.441228,
+        "LONGITUDE": 152.279112,
+        "REGHH": 50,
+        "TOTPOP2000": 206,
+        "MALE2000": 132,
+        "FEMALE2000": 74,
+        "POP2008": 251,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020607516,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

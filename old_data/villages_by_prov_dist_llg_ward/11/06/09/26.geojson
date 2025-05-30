@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30418,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8791463602164,
+          -6.806165849774118
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30418,
+        "CU_NAME": "WAPME",
+        "CU_NO": "006",
+        "GEOCODE": "11060926006",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "26",
+        "WARD_NAME": "WAPME",
+        "LATITUDE": -6.806166,
+        "LONGITUDE": 145.879146,
+        "REGHH": 34,
+        "TOTPOP2000": 165,
+        "MALE2000": 83,
+        "FEMALE2000": 82,
+        "POP2008": 197,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30419,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.86995879985875,
+          -6.814348739702552
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30419,
+        "CU_NAME": "WANAWARA",
+        "CU_NO": "007",
+        "GEOCODE": "11060926007",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "26",
+        "WARD_NAME": "WAPME",
+        "LATITUDE": -6.814349,
+        "LONGITUDE": 145.869959,
+        "REGHH": 18,
+        "TOTPOP2000": 86,
+        "MALE2000": 48,
+        "FEMALE2000": 38,
+        "POP2008": 102,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30420,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.88594747959257,
+          -6.803276040257003
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30420,
+        "CU_NAME": "TUKA",
+        "CU_NO": "008",
+        "GEOCODE": "11060926008",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "26",
+        "WARD_NAME": "WAPME",
+        "LATITUDE": -6.803276,
+        "LONGITUDE": 145.885947,
+        "REGHH": 16,
+        "TOTPOP2000": 74,
+        "MALE2000": 38,
+        "FEMALE2000": 36,
+        "POP2008": 90,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30421,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.86864335970336,
+          -6.738066990099469
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30421,
+        "CU_NAME": "SIRATA",
+        "CU_NO": "009",
+        "GEOCODE": "11060926009",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "26",
+        "WARD_NAME": "WAPME",
+        "LATITUDE": -6.738067,
+        "LONGITUDE": 145.868643,
+        "REGHH": 13,
+        "TOTPOP2000": 95,
+        "MALE2000": 48,
+        "FEMALE2000": 47,
+        "POP2008": 111,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30422,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8920451600561,
+          -6.7976819999242935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30422,
+        "CU_NAME": "WONENARA STATION",
+        "CU_NO": "401",
+        "GEOCODE": "11060926401",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "26",
+        "WARD_NAME": "WAPME",
+        "LATITUDE": -6.797682,
+        "LONGITUDE": 145.892045,
+        "REGHH": 14,
+        "TOTPOP2000": 79,
+        "MALE2000": 28,
+        "FEMALE2000": 51,
+        "POP2008": 95,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

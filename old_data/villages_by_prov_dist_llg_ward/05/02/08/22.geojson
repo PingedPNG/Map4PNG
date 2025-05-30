@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9872,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.88802000042278,
+          -10.612053000345668
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9872,
+        "CU_NAME": "SEKUKU",
+        "CU_NO": "014",
+        "GEOCODE": "05020822014",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "22",
+        "WARD_NAME": "SEKUKU",
+        "LATITUDE": -10.613164,
+        "LONGITUDE": 150.889133,
+        "REGHH": 25,
+        "TOTPOP2000": 170,
+        "MALE2000": 92,
+        "FEMALE2000": 78,
+        "POP2008": 207,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020822014,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

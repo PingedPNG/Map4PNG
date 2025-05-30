@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.37654199991346,
+          -6.967182000448929
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11120,
+        "CU_NAME": "MARALANGKO",
+        "CU_NO": "004",
+        "GEOCODE": "12031127004",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "27",
+        "WARD_NAME": "MARALANGKO",
+        "LATITUDE": -6.968605,
+        "LONGITUDE": 146.375509,
+        "REGHH": 12,
+        "TOTPOP2000": 49,
+        "MALE2000": 27,
+        "FEMALE2000": 22,
+        "POP2008": 60,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031127004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.374147000084,
+          -6.963465999955872
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11121,
+        "CU_NAME": "WAWAS",
+        "CU_NO": "009",
+        "GEOCODE": "12031127009",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "27",
+        "WARD_NAME": "MARALANGKO",
+        "LATITUDE": -6.964888,
+        "LONGITUDE": 146.373114,
+        "REGHH": 26,
+        "TOTPOP2000": 135,
+        "MALE2000": 70,
+        "FEMALE2000": 65,
+        "POP2008": 168,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031127009,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11122,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.37670999956686,
+          -6.96306999968067
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11122,
+        "CU_NAME": "ZINIMB",
+        "CU_NO": "011",
+        "GEOCODE": "12031127011",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "27",
+        "WARD_NAME": "MARALANGKO",
+        "LATITUDE": -6.964491,
+        "LONGITUDE": 146.375677,
+        "REGHH": 11,
+        "TOTPOP2000": 51,
+        "MALE2000": 27,
+        "FEMALE2000": 24,
+        "POP2008": 64,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031127011,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

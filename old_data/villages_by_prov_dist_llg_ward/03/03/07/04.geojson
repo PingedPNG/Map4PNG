@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1228,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.09230399962996,
+          -9.457674000354814
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1228,
+        "CU_NAME": "ROKU",
+        "CU_NO": "009",
+        "GEOCODE": "03030704009",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "04",
+        "WARD_NAME": "ROKU",
+        "LATITUDE": -9.459124,
+        "LONGITUDE": 147.091274,
+        "REGHH": 81,
+        "TOTPOP2000": 929,
+        "MALE2000": 528,
+        "FEMALE2000": 401,
+        "POP2008": 1113,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030704009,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

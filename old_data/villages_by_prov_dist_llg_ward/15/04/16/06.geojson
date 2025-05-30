@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19078,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.07271899968214,
+          -3.298540999767283
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19078,
+        "CU_NAME": "DOVNENDI",
+        "CU_NO": "004",
+        "GEOCODE": "15041606004",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "06",
+        "WARD_NAME": "DOPONENDI",
+        "LATITUDE": -3.299916,
+        "LONGITUDE": 141.071625,
+        "REGHH": 55,
+        "TOTPOP2000": 312,
+        "MALE2000": 167,
+        "FEMALE2000": 145,
+        "POP2008": 377,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041606004,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19079,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0638020003621,
+          -3.2877549996934476
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19079,
+        "CU_NAME": "TOKONENDI",
+        "CU_NO": "022",
+        "GEOCODE": "15041606022",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "06",
+        "WARD_NAME": "DOPONENDI",
+        "LATITUDE": -3.28913,
+        "LONGITUDE": 141.062708,
+        "REGHH": 27,
+        "TOTPOP2000": 160,
+        "MALE2000": 81,
+        "FEMALE2000": 79,
+        "POP2008": 193,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041606022,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19080,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.07556499962504,
+          -3.286040999792249
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19080,
+        "CU_NAME": "WASENGLA",
+        "CU_NO": "502",
+        "GEOCODE": "15041606502",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "06",
+        "WARD_NAME": "DOPONENDI",
+        "LATITUDE": -3.294675,
+        "LONGITUDE": 141.073027,
+        "REGHH": 6,
+        "TOTPOP2000": 50,
+        "MALE2000": 27,
+        "FEMALE2000": 23,
+        "POP2008": 58,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041606502,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

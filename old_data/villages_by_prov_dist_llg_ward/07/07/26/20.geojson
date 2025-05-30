@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21742,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63363899994,
+          -6.313549999732629
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21742,
+        "CU_NAME": "POROMA",
+        "CU_NO": "015",
+        "GEOCODE": "07072620015",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "20",
+        "WARD_NAME": "POROMA",
+        "LATITUDE": -6.317897,
+        "LONGITUDE": 143.633254,
+        "REGHH": 24,
+        "TOTPOP2000": 120,
+        "MALE2000": 62,
+        "FEMALE2000": 58,
+        "POP2008": 166,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072620015,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21743,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6327660001508,
+          -6.314585999843985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21743,
+        "CU_NAME": "PERET/YONGORU",
+        "CU_NO": "016",
+        "GEOCODE": "07072620016",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "20",
+        "WARD_NAME": "POROMA",
+        "LATITUDE": -6.317897,
+        "LONGITUDE": 143.633254,
+        "REGHH": 38,
+        "TOTPOP2000": 184,
+        "MALE2000": 96,
+        "FEMALE2000": 88,
+        "POP2008": 255,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072620016,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21744,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63449099966,
+          -6.314793000396605
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21744,
+        "CU_NAME": "KOLPEREANDA",
+        "CU_NO": "017",
+        "GEOCODE": "07072620017",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "20",
+        "WARD_NAME": "POROMA",
+        "LATITUDE": -6.317897,
+        "LONGITUDE": 143.633254,
+        "REGHH": 18,
+        "TOTPOP2000": 75,
+        "MALE2000": 41,
+        "FEMALE2000": 34,
+        "POP2008": 104,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072620017,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63183600043112,
+          -6.315381999679516
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21745,
+        "CU_NAME": "WOMBU",
+        "CU_NO": "018",
+        "GEOCODE": "07072620018",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "20",
+        "WARD_NAME": "POROMA",
+        "LATITUDE": -6.317897,
+        "LONGITUDE": 143.633254,
+        "REGHH": 21,
+        "TOTPOP2000": 118,
+        "MALE2000": 68,
+        "FEMALE2000": 50,
+        "POP2008": 164,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072620018,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63175700038528,
+          -6.313873000238743
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21746,
+        "CU_NAME": "YAPAPI",
+        "CU_NO": "019",
+        "GEOCODE": "07072620019",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "20",
+        "WARD_NAME": "POROMA",
+        "LATITUDE": -6.317897,
+        "LONGITUDE": 143.633254,
+        "REGHH": 20,
+        "TOTPOP2000": 91,
+        "MALE2000": 44,
+        "FEMALE2000": 47,
+        "POP2008": 126,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072620019,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

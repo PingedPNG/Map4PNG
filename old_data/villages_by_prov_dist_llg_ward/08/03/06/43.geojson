@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5623,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.51804300038418,
+          -5.405160999580403
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5623,
+        "CU_NAME": "KUSI",
+        "CU_NO": "002",
+        "GEOCODE": "08030643002",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "43",
+        "WARD_NAME": "KUSI",
+        "LATITUDE": -5.406562,
+        "LONGITUDE": 143.516976,
+        "REGHH": 30,
+        "TOTPOP2000": 182,
+        "MALE2000": 95,
+        "FEMALE2000": 87,
+        "POP2008": 228,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030643002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

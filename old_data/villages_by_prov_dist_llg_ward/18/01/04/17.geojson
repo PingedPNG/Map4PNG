@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4582,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1104190003366,
+          -4.240863999973556
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4582,
+        "CU_NAME": "TARANGA",
+        "CU_NO": "012",
+        "GEOCODE": "18010417012",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "17",
+        "WARD_NAME": "TARANGA",
+        "LATITUDE": -4.242263,
+        "LONGITUDE": 152.109472,
+        "REGHH": 108,
+        "TOTPOP2000": 547,
+        "MALE2000": 271,
+        "FEMALE2000": 276,
+        "POP2008": 666,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010417012,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

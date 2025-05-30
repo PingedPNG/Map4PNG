@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5807,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6994119996641,
+          -5.481711999908839
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5807,
+        "CU_NAME": "LAKEMANDA",
+        "CU_NO": "013",
+        "GEOCODE": "08041117013",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "17",
+        "WARD_NAME": "LAKEMANDA",
+        "LATITUDE": -5.483114,
+        "LONGITUDE": 143.698347,
+        "REGHH": 145,
+        "TOTPOP2000": 666,
+        "MALE2000": 346,
+        "FEMALE2000": 320,
+        "POP2008": 837,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041117013,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5808,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7261499997228,
+          -5.468064000053516
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5808,
+        "CU_NAME": "WAIPU",
+        "CU_NO": "014",
+        "GEOCODE": "08041117014",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "17",
+        "WARD_NAME": "LAKEMANDA",
+        "LATITUDE": -5.469466,
+        "LONGITUDE": 143.725085,
+        "REGHH": 75,
+        "TOTPOP2000": 617,
+        "MALE2000": 309,
+        "FEMALE2000": 308,
+        "POP2008": 775,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041117014,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5809,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7047399998512,
+          -5.480384999867795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5809,
+        "CU_NAME": "PANDAM",
+        "CU_NO": "015",
+        "GEOCODE": "08041117015",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "17",
+        "WARD_NAME": "LAKEMANDA",
+        "LATITUDE": -5.481787,
+        "LONGITUDE": 143.703675,
+        "REGHH": 97,
+        "TOTPOP2000": 864,
+        "MALE2000": 437,
+        "FEMALE2000": 427,
+        "POP2008": 1087,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041117015,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5810,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.72792399969285,
+          -5.462763000212249
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5810,
+        "CU_NAME": "OPEAM",
+        "CU_NO": "016",
+        "GEOCODE": "08041117016",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "17",
+        "WARD_NAME": "LAKEMANDA",
+        "LATITUDE": -5.464165,
+        "LONGITUDE": 143.726859,
+        "REGHH": 47,
+        "TOTPOP2000": 232,
+        "MALE2000": 116,
+        "FEMALE2000": 116,
+        "POP2008": 292,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041117016,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

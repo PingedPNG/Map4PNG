@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5619,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.52222900006836,
+          -5.429987999646414
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5619,
+        "CU_NAME": "POREA",
+        "CU_NO": "001",
+        "GEOCODE": "08030639001",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "39",
+        "WARD_NAME": "POREA",
+        "LATITUDE": -5.432406,
+        "LONGITUDE": 143.518656,
+        "REGHH": 168,
+        "TOTPOP2000": 957,
+        "MALE2000": 503,
+        "FEMALE2000": 454,
+        "POP2008": 1203,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030639001,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

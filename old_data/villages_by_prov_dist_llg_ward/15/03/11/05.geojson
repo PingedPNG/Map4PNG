@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18808,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.24364200017828,
+          -4.670732999728102
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18808,
+        "CU_NAME": "IVIKMIN",
+        "CU_NO": "007",
+        "GEOCODE": "15031105007",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "IVIKMIN",
+        "LATITUDE": -4.672122,
+        "LONGITUDE": 141.242549,
+        "REGHH": 23,
+        "TOTPOP2000": 94,
+        "MALE2000": 45,
+        "FEMALE2000": 49,
+        "POP2008": 112,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031105007,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18809,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2495039998098,
+          -4.674518999851898
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18809,
+        "CU_NAME": "SEIMAMIN-TABU",
+        "CU_NO": "013",
+        "GEOCODE": "15031105013",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "IVIKMIN",
+        "LATITUDE": -4.675908,
+        "LONGITUDE": 141.248411,
+        "REGHH": 10,
+        "TOTPOP2000": 52,
+        "MALE2000": 28,
+        "FEMALE2000": 24,
+        "POP2008": 60,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031105013,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

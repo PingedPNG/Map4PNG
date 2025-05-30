@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5357,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.44360100018605,
+          -5.874545999598183
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5357,
+        "CU_NAME": "NEREP",
+        "CU_NO": "001",
+        "GEOCODE": "08010221001",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "21",
+        "WARD_NAME": "NEREP",
+        "LATITUDE": -5.873261,
+        "LONGITUDE": 143.443413,
+        "REGHH": 43,
+        "TOTPOP2000": 269,
+        "MALE2000": 131,
+        "FEMALE2000": 138,
+        "POP2008": 338,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010221001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5358,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4389129998351,
+          -5.866159000437449
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5358,
+        "CU_NAME": "PANGIPIPAK",
+        "CU_NO": "002",
+        "GEOCODE": "08010221002",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "21",
+        "WARD_NAME": "NEREP",
+        "LATITUDE": -5.867564,
+        "LONGITUDE": 143.437844,
+        "REGHH": 18,
+        "TOTPOP2000": 108,
+        "MALE2000": 61,
+        "FEMALE2000": 47,
+        "POP2008": 135,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010221002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5359,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.42983700037735,
+          -5.873564000178419
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5359,
+        "CU_NAME": "KAEMB",
+        "CU_NO": "003",
+        "GEOCODE": "08010221003",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "21",
+        "WARD_NAME": "NEREP",
+        "LATITUDE": -5.874969,
+        "LONGITUDE": 143.428768,
+        "REGHH": 20,
+        "TOTPOP2000": 130,
+        "MALE2000": 75,
+        "FEMALE2000": 55,
+        "POP2008": 163,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010221003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5360,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.45187400038492,
+          -5.89394800039986
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5360,
+        "CU_NAME": "MARAKAMP",
+        "CU_NO": "004",
+        "GEOCODE": "08010221004",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "21",
+        "WARD_NAME": "NEREP",
+        "LATITUDE": -5.895353,
+        "LONGITUDE": 143.450805,
+        "REGHH": 17,
+        "TOTPOP2000": 91,
+        "MALE2000": 48,
+        "FEMALE2000": 43,
+        "POP2008": 115,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010221004,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

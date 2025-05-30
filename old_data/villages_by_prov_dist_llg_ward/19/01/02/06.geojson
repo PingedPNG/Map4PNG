@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17734,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.54367999993212,
+          -5.535119999588289
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17734,
+        "CU_NAME": "GARIMATE",
+        "CU_NO": "010",
+        "GEOCODE": "19010206010",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAKIU",
+        "LATITUDE": -5.53628,
+        "LONGITUDE": 148.543,
+        "REGHH": 18,
+        "TOTPOP2000": 103,
+        "MALE2000": 53,
+        "FEMALE2000": 50,
+        "POP2008": 136,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010206010,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17735,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.58300000014992,
+          -5.53382900030806
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17735,
+        "CU_NAME": "NATAMOU",
+        "CU_NO": "018",
+        "GEOCODE": "19010206018",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAKIU",
+        "LATITUDE": -5.53524,
+        "LONGITUDE": 148.582,
+        "REGHH": 28,
+        "TOTPOP2000": 150,
+        "MALE2000": 73,
+        "FEMALE2000": 77,
+        "POP2008": 197,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010206018,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17736,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.53000100044585,
+          -5.5326489998514035
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17736,
+        "CU_NAME": "NAIKAROP",
+        "CU_NO": "019",
+        "GEOCODE": "19010206019",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAKIU",
+        "LATITUDE": -5.53406,
+        "LONGITUDE": 148.529,
+        "REGHH": 33,
+        "TOTPOP2000": 182,
+        "MALE2000": 90,
+        "FEMALE2000": 92,
+        "POP2008": 240,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010206019,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5415159999635,
+          -5.532719000381519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17737,
+        "CU_NAME": "SILIMATE",
+        "CU_NO": "030",
+        "GEOCODE": "19010206030",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAKIU",
+        "LATITUDE": -5.533282,
+        "LONGITUDE": 148.541374,
+        "REGHH": 27,
+        "TOTPOP2000": 154,
+        "MALE2000": 86,
+        "FEMALE2000": 68,
+        "POP2008": 203,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010206030,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5569999999501,
+          -5.539078999596086
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17738,
+        "CU_NAME": "GARENGE",
+        "CU_NO": "037",
+        "GEOCODE": "19010206037",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAKIU",
+        "LATITUDE": -5.54049,
+        "LONGITUDE": 148.556,
+        "REGHH": 2,
+        "TOTPOP2000": 16,
+        "MALE2000": 7,
+        "FEMALE2000": 9,
+        "POP2008": 24,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010206037,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17739,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.50800100034598,
+          -5.513689999693668
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17739,
+        "CU_NAME": "WARAPUT",
+        "CU_NO": "039",
+        "GEOCODE": "19010206039",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAKIU",
+        "LATITUDE": -5.5151,
+        "LONGITUDE": 148.507,
+        "REGHH": 19,
+        "TOTPOP2000": 126,
+        "MALE2000": 68,
+        "FEMALE2000": 58,
+        "POP2008": 166,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010206039,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17740,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.43400199989242,
+          -5.452451000413305
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17740,
+        "CU_NAME": "AIRSTRIP (AIMSEPUA)",
+        "CU_NO": "040",
+        "GEOCODE": "19010206040",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAKIU",
+        "LATITUDE": -5.45386,
+        "LONGITUDE": 148.433,
+        "REGHH": 6,
+        "TOTPOP2000": 69,
+        "MALE2000": 43,
+        "FEMALE2000": 26,
+        "POP2008": 91,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010206040,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17741,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5192179996111,
+          -5.5011400001108655
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17741,
+        "CU_NAME": "WALAU",
+        "CU_NO": "041",
+        "GEOCODE": "19010206041",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAKIU",
+        "LATITUDE": -5.50255,
+        "LONGITUDE": 148.518217,
+        "REGHH": 10,
+        "TOTPOP2000": 65,
+        "MALE2000": 35,
+        "FEMALE2000": 30,
+        "POP2008": 85,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010206041,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17742,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.52200100024606,
+          -5.528369000329064
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17742,
+        "CU_NAME": "NAROLMULIA",
+        "CU_NO": "042",
+        "GEOCODE": "19010206042",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAKIU",
+        "LATITUDE": -5.52978,
+        "LONGITUDE": 148.521,
+        "REGHH": 22,
+        "TOTPOP2000": 148,
+        "MALE2000": 74,
+        "FEMALE2000": 74,
+        "POP2008": 195,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010206042,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17743,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.56699999975024,
+          -5.5383789996910195
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17743,
+        "CU_NAME": "AUSMATE",
+        "CU_NO": "043",
+        "GEOCODE": "19010206043",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAKIU",
+        "LATITUDE": -5.53979,
+        "LONGITUDE": 148.566,
+        "REGHH": 7,
+        "TOTPOP2000": 38,
+        "MALE2000": 18,
+        "FEMALE2000": 20,
+        "POP2008": 49,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010206043,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17744,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.50158700043983,
+          -5.4861929997071
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17744,
+        "CU_NAME": "VEM SETTLEMENT",
+        "CU_NO": "403",
+        "GEOCODE": "19010206403",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAKIU",
+        "LATITUDE": -5.48742,
+        "LONGITUDE": 148.501,
+        "REGHH": 19,
+        "TOTPOP2000": 139,
+        "MALE2000": 66,
+        "FEMALE2000": 73,
+        "POP2008": 183,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010206403,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.46300199994243,
+          -5.468050000307244
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17745,
+        "CU_NAME": "GALEGALE SETTLEMENT",
+        "CU_NO": "404",
+        "GEOCODE": "19010206404",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAKIU",
+        "LATITUDE": -5.46946,
+        "LONGITUDE": 148.462,
+        "REGHH": 10,
+        "TOTPOP2000": 88,
+        "MALE2000": 52,
+        "FEMALE2000": 36,
+        "POP2008": 115,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010206404,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.51884799963557,
+          -5.520471000336329
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17746,
+        "CU_NAME": "GLOUCESTER GOVT. STN",
+        "CU_NO": "501",
+        "GEOCODE": "19010206501",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAKIU",
+        "LATITUDE": -5.52102,
+        "LONGITUDE": 148.517,
+        "REGHH": 28,
+        "TOTPOP2000": 186,
+        "MALE2000": 88,
+        "FEMALE2000": 98,
+        "POP2008": 245,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010206501,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5450009996964,
+          -5.542019000276582
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17747,
+        "CU_NAME": "GLOUCESTER HIGH SCHOOL",
+        "CU_NO": "502",
+        "GEOCODE": "19010206502",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAKIU",
+        "LATITUDE": -5.54343,
+        "LONGITUDE": 148.544,
+        "REGHH": 10,
+        "TOTPOP2000": 54,
+        "MALE2000": 29,
+        "FEMALE2000": 25,
+        "POP2008": 70,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010206502,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17748,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.47800200009226,
+          -5.580838999919877
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17748,
+        "CU_NAME": "GINANE LOGGING CAMP",
+        "CU_NO": "503",
+        "GEOCODE": "19010206503",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAKIU",
+        "LATITUDE": -5.58225,
+        "LONGITUDE": 148.477,
+        "REGHH": 13,
+        "TOTPOP2000": 80,
+        "MALE2000": 43,
+        "FEMALE2000": 37,
+        "POP2008": 105,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010206503,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

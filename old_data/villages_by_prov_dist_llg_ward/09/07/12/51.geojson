@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17584,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.07344900037117,
+          -6.046918000365395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17584,
+        "CU_NAME": "KOMBOLGA",
+        "CU_NO": "017",
+        "GEOCODE": "09071251017",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "51",
+        "WARD_NAME": "KOMBOLGA",
+        "LATITUDE": -6.047629,
+        "LONGITUDE": 144.077532,
+        "REGHH": 52,
+        "TOTPOP2000": 224,
+        "MALE2000": 116,
+        "FEMALE2000": 108,
+        "POP2008": 274,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071251017,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17585,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.05498699975033,
+          -6.028084999722921
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17585,
+        "CU_NAME": "POLIPO",
+        "CU_NO": "018",
+        "GEOCODE": "09071251018",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "51",
+        "WARD_NAME": "KOMBOLGA",
+        "LATITUDE": -6.029026,
+        "LONGITUDE": 144.055317,
+        "REGHH": 46,
+        "TOTPOP2000": 221,
+        "MALE2000": 103,
+        "FEMALE2000": 118,
+        "POP2008": 270,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071251018,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17586,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0678280001622,
+          -6.041341000386808
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17586,
+        "CU_NAME": "KOMRA",
+        "CU_NO": "019",
+        "GEOCODE": "09071251019",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "51",
+        "WARD_NAME": "KOMBOLGA",
+        "LATITUDE": -6.042282,
+        "LONGITUDE": 144.06816,
+        "REGHH": 35,
+        "TOTPOP2000": 166,
+        "MALE2000": 78,
+        "FEMALE2000": 88,
+        "POP2008": 202,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071251019,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

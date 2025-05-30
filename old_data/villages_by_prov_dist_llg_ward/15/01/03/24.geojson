@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18432,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.9237260003547,
+          -2.9696530000858274
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18432,
+        "CU_NAME": "RAINUK",
+        "CU_NO": "024",
+        "GEOCODE": "15010324024",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "24",
+        "WARD_NAME": "RAINUK",
+        "LATITUDE": -2.970131,
+        "LONGITUDE": 141.922642,
+        "REGHH": 30,
+        "TOTPOP2000": 221,
+        "MALE2000": 121,
+        "FEMALE2000": 100,
+        "POP2008": 267,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010324024,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18433,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.91816600026073,
+          -2.9873329997180917
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18433,
+        "CU_NAME": "VPP BASE CAMP",
+        "CU_NO": "401",
+        "GEOCODE": "15010324401",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "24",
+        "WARD_NAME": "RAINUK",
+        "LATITUDE": -2.979754,
+        "LONGITUDE": 141.916138,
+        "REGHH": 77,
+        "TOTPOP2000": 478,
+        "MALE2000": 229,
+        "FEMALE2000": 249,
+        "POP2008": 578,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010324401,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

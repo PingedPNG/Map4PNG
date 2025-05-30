@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.5084809997984,
+          -9.867314999887299
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9604,
+        "CU_NAME": "BIMAN",
+        "CU_NO": "002",
+        "GEOCODE": "05010211002",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "11",
+        "WARD_NAME": "BIMAN",
+        "LATITUDE": -9.868776,
+        "LONGITUDE": 149.507484,
+        "REGHH": 32,
+        "TOTPOP2000": 153,
+        "MALE2000": 69,
+        "FEMALE2000": 84,
+        "POP2008": 186,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010211002,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

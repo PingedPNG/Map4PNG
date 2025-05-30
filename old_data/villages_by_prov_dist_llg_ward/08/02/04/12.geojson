@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5469,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.95486799985838,
+          -5.407555000263017
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5469,
+        "CU_NAME": "KAINDAN",
+        "CU_NO": "001",
+        "GEOCODE": "08020412001",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "12",
+        "WARD_NAME": "KAINDAN",
+        "LATITUDE": -5.408956,
+        "LONGITUDE": 143.953806,
+        "REGHH": 79,
+        "TOTPOP2000": 462,
+        "MALE2000": 228,
+        "FEMALE2000": 234,
+        "POP2008": 580,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020412001,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

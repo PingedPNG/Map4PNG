@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5441,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.68492099960451,
+          -5.2759439996158335
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5441,
+        "CU_NAME": "LAILAMA",
+        "CU_NO": "011",
+        "GEOCODE": "08020324011",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "24",
+        "WARD_NAME": "PENEI (LAILAMA)",
+        "LATITUDE": -5.29811,
+        "LONGITUDE": 143.643806,
+        "REGHH": 88,
+        "TOTPOP2000": 594,
+        "MALE2000": 334,
+        "FEMALE2000": 260,
+        "POP2008": 746,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020324011,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

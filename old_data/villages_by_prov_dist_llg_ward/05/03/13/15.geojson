@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10201,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.31381699965493,
+          -9.448810999927673
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10201,
+        "CU_NAME": "UFUFU",
+        "CU_NO": "016",
+        "GEOCODE": "05031315016",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "15",
+        "WARD_NAME": "UFUFU",
+        "LATITUDE": -9.45027,
+        "LONGITUDE": 150.312833,
+        "REGHH": 116,
+        "TOTPOP2000": 565,
+        "MALE2000": 270,
+        "FEMALE2000": 295,
+        "POP2008": 688,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031315016,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10202,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.32159599955583,
+          -9.434588999682546
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10202,
+        "CU_NAME": "GUNUWALA",
+        "CU_NO": "017",
+        "GEOCODE": "05031315017",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "15",
+        "WARD_NAME": "UFUFU",
+        "LATITUDE": -9.429261,
+        "LONGITUDE": 150.320664,
+        "REGHH": 67,
+        "TOTPOP2000": 270,
+        "MALE2000": 137,
+        "FEMALE2000": 133,
+        "POP2008": 329,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031315017,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10203,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.30729200002588,
+          -9.459738000208517
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10203,
+        "CU_NAME": "BOWA",
+        "CU_NO": "018",
+        "GEOCODE": "05031315018",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "15",
+        "WARD_NAME": "UFUFU",
+        "LATITUDE": -9.461197,
+        "LONGITUDE": 150.306308,
+        "REGHH": 72,
+        "TOTPOP2000": 327,
+        "MALE2000": 166,
+        "FEMALE2000": 161,
+        "POP2008": 398,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031315018,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

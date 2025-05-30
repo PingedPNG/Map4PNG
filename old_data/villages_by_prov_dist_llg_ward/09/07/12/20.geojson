@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9304950000443,
+          -5.8719300003691615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17504,
+        "CU_NAME": "KAMINDI",
+        "CU_NO": "011",
+        "GEOCODE": "09071220011",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "20",
+        "WARD_NAME": "KAMINDI",
+        "LATITUDE": -5.872869,
+        "LONGITUDE": 143.930824,
+        "REGHH": 66,
+        "TOTPOP2000": 278,
+        "MALE2000": 130,
+        "FEMALE2000": 148,
+        "POP2008": 338,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071220011,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17505,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.93264100008219,
+          -5.875304000379288
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17505,
+        "CU_NAME": "PAUSA",
+        "CU_NO": "012",
+        "GEOCODE": "09071220012",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "20",
+        "WARD_NAME": "KAMINDI",
+        "LATITUDE": -5.876243,
+        "LONGITUDE": 143.93297,
+        "REGHH": 95,
+        "TOTPOP2000": 378,
+        "MALE2000": 181,
+        "FEMALE2000": 197,
+        "POP2008": 460,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071220012,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

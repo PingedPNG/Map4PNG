@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11289,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.57405299984612,
+          -6.0097729997241345
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11289,
+        "CU_NAME": "KUMBUL 1 & 2",
+        "CU_NO": "001",
+        "GEOCODE": "12041412001",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "12",
+        "WARD_NAME": "KEVENG",
+        "LATITUDE": -6.011186,
+        "LONGITUDE": 146.573024,
+        "REGHH": 82,
+        "TOTPOP2000": 579,
+        "MALE2000": 252,
+        "FEMALE2000": 327,
+        "POP2008": 723,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041412001,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

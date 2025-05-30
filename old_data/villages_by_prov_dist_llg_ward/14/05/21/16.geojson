@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.94233000012946,
+          -3.7516449999167776
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7135,
+        "CU_NAME": "BUKIBALIKUM",
+        "CU_NO": "004",
+        "GEOCODE": "14052116004",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "21",
+        "WARD_NO": "16",
+        "WARD_NAME": "BUKIBALIKUM",
+        "LATITUDE": -3.756282,
+        "LONGITUDE": 142.943128,
+        "REGHH": 53,
+        "TOTPOP2000": 245,
+        "MALE2000": 115,
+        "FEMALE2000": 130,
+        "POP2008": 292,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052116004,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

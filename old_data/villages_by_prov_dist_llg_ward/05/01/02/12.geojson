@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9605,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.51420600030679,
+          -9.897651000393296
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9605,
+        "CU_NAME": "GWAGUT",
+        "CU_NO": "009",
+        "GEOCODE": "05010212009",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GWAGUT",
+        "LATITUDE": -9.899112,
+        "LONGITUDE": 149.513209,
+        "REGHH": 32,
+        "TOTPOP2000": 198,
+        "MALE2000": 91,
+        "FEMALE2000": 107,
+        "POP2008": 241,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010212009,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

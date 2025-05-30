@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.14618500013773,
+          -6.365311999948801
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19130,
+        "CU_NAME": "MELE",
+        "CU_NO": "018",
+        "GEOCODE": "07010110018",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "MELE 2",
+        "LATITUDE": -6.368478,
+        "LONGITUDE": 144.149639,
+        "REGHH": 26,
+        "TOTPOP2000": 117,
+        "MALE2000": 53,
+        "FEMALE2000": 64,
+        "POP2008": 163,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010110018,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.14634899960674,
+          -6.363367000186884
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19131,
+        "CU_NAME": "PALAMELE",
+        "CU_NO": "019",
+        "GEOCODE": "07010110019",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "MELE 2",
+        "LATITUDE": -6.368478,
+        "LONGITUDE": 144.149639,
+        "REGHH": 11,
+        "TOTPOP2000": 51,
+        "MALE2000": 28,
+        "FEMALE2000": 23,
+        "POP2008": 70,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010110019,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.15389000022344,
+          -6.361466999802133
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19132,
+        "CU_NAME": "KANGENEYAPU",
+        "CU_NO": "020",
+        "GEOCODE": "07010110020",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "MELE 2",
+        "LATITUDE": -6.368478,
+        "LONGITUDE": 144.149639,
+        "REGHH": 22,
+        "TOTPOP2000": 114,
+        "MALE2000": 56,
+        "FEMALE2000": 58,
+        "POP2008": 158,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010110020,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4775,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.2214960001404,
+          -4.328970999911689
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4775,
+        "CU_NAME": "BALANATAMAN",
+        "CU_NO": "019",
+        "GEOCODE": "18020919019",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "19",
+        "WARD_NAME": "BALANATAMAN",
+        "LATITUDE": -4.330372,
+        "LONGITUDE": 152.220551,
+        "REGHH": 119,
+        "TOTPOP2000": 628,
+        "MALE2000": 316,
+        "FEMALE2000": 312,
+        "POP2008": 765,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020919019,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

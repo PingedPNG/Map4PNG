@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8973,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.98024599975315,
+          -4.735099000218611
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8973,
+        "CU_NAME": "PAIN",
+        "CU_NO": "024",
+        "GEOCODE": "13051318024",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "18",
+        "WARD_NAME": "WARD 18",
+        "LATITUDE": -4.736496,
+        "LONGITUDE": 145.979212,
+        "REGHH": 25,
+        "TOTPOP2000": 137,
+        "MALE2000": 66,
+        "FEMALE2000": 71,
+        "POP2008": 169,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051318024,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8974,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.97652199979052,
+          -4.724406999982989
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8974,
+        "CU_NAME": "ULUN 1 & 2",
+        "CU_NO": "026",
+        "GEOCODE": "13051318026",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "18",
+        "WARD_NAME": "WARD 18",
+        "LATITUDE": -4.725804,
+        "LONGITUDE": 145.975488,
+        "REGHH": 108,
+        "TOTPOP2000": 589,
+        "MALE2000": 309,
+        "FEMALE2000": 280,
+        "POP2008": 729,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051318026,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8975,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9854929998022,
+          -4.738082000184136
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8975,
+        "CU_NAME": "WARAT",
+        "CU_NO": "029",
+        "GEOCODE": "13051318029",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "18",
+        "WARD_NAME": "WARD 18",
+        "LATITUDE": -4.739479,
+        "LONGITUDE": 145.984459,
+        "REGHH": 48,
+        "TOTPOP2000": 235,
+        "MALE2000": 116,
+        "FEMALE2000": 119,
+        "POP2008": 291,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051318029,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.98080200021218,
+          -4.736541000166994
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8976,
+        "CU_NAME": "KAVILO C/SCHOOL",
+        "CU_NO": "402",
+        "GEOCODE": "13051318402",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "18",
+        "WARD_NAME": "WARD 18",
+        "LATITUDE": -4.737938,
+        "LONGITUDE": 145.979768,
+        "REGHH": 4,
+        "TOTPOP2000": 17,
+        "MALE2000": 10,
+        "FEMALE2000": 7,
+        "POP2008": 17,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051318402,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

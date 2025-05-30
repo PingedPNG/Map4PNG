@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7586,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.10415699964585,
+          -7.934607999959212
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7586,
+        "CU_NAME": "KUKIA",
+        "CU_NO": "001",
+        "GEOCODE": "02010601001",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "IPIHIA/TITIKAINI",
+        "LATITUDE": -7.93604,
+        "LONGITUDE": 146.103118,
+        "REGHH": 39,
+        "TOTPOP2000": 212,
+        "MALE2000": 118,
+        "FEMALE2000": 94,
+        "POP2008": 261,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010601001,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7587,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.11628699964535,
+          -7.923094999634486
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7587,
+        "CU_NAME": "HYDAVIA",
+        "CU_NO": "002",
+        "GEOCODE": "02010601002",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "IPIHIA/TITIKAINI",
+        "LATITUDE": -7.91513,
+        "LONGITUDE": 146.1203,
+        "REGHH": 15,
+        "TOTPOP2000": 99,
+        "MALE2000": 58,
+        "FEMALE2000": 41,
+        "POP2008": 123,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010601002,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7588,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1113100003563,
+          -7.94684600044252
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7588,
+        "CU_NAME": "HIBAWAIA",
+        "CU_NO": "008",
+        "GEOCODE": "02010601008",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "IPIHIA/TITIKAINI",
+        "LATITUDE": -7.931546,
+        "LONGITUDE": 146.131065,
+        "REGHH": 20,
+        "TOTPOP2000": 117,
+        "MALE2000": 65,
+        "FEMALE2000": 52,
+        "POP2008": 143,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010601008,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7294,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5024669997523,
+          -3.673246999849141
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7294,
+        "CU_NAME": "HANDRANDOGUM",
+        "CU_NO": "001",
+        "GEOCODE": "14062418001",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "24",
+        "WARD_NO": "18",
+        "WARD_NAME": "TANGORI 2",
+        "LATITUDE": -3.674826,
+        "LONGITUDE": 143.501233,
+        "REGHH": 26,
+        "TOTPOP2000": 143,
+        "MALE2000": 71,
+        "FEMALE2000": 72,
+        "POP2008": 169,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062418001,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7295,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.51018599958422,
+          -3.692101999707461
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7295,
+        "CU_NAME": "TANGORI 2",
+        "CU_NO": "039",
+        "GEOCODE": "14062418039",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "24",
+        "WARD_NO": "18",
+        "WARD_NAME": "TANGORI 2",
+        "LATITUDE": -3.693681,
+        "LONGITUDE": 143.508952,
+        "REGHH": 25,
+        "TOTPOP2000": 145,
+        "MALE2000": 64,
+        "FEMALE2000": 81,
+        "POP2008": 172,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062418039,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

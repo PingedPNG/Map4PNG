@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8376,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.42114200010326,
+          -5.056561000090028
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8376,
+        "CU_NAME": "ABAIYA",
+        "CU_NO": "001",
+        "GEOCODE": "13020616001",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -5.057961,
+        "LONGITUDE": 145.4201,
+        "REGHH": 19,
+        "TOTPOP2000": 87,
+        "MALE2000": 50,
+        "FEMALE2000": 37,
+        "POP2008": 108,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020616001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8377,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3564040004443,
+          -4.957885000192562
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8377,
+        "CU_NAME": "BARATA",
+        "CU_NO": "003",
+        "GEOCODE": "13020616003",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -4.956434,
+        "LONGITUDE": 145.346906,
+        "REGHH": 12,
+        "TOTPOP2000": 54,
+        "MALE2000": 29,
+        "FEMALE2000": 25,
+        "POP2008": 68,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020616003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8378,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.35064300007446,
+          -4.967870000200321
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8378,
+        "CU_NAME": "GULKUBRAN",
+        "CU_NO": "007",
+        "GEOCODE": "13020616007",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -4.967865,
+        "LONGITUDE": 145.353834,
+        "REGHH": 17,
+        "TOTPOP2000": 77,
+        "MALE2000": 42,
+        "FEMALE2000": 35,
+        "POP2008": 93,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020616007,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8379,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.39509000020337,
+          -5.013896000300122
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8379,
+        "CU_NAME": "MAGILAN",
+        "CU_NO": "018",
+        "GEOCODE": "13020616018",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -5.018128,
+        "LONGITUDE": 145.395802,
+        "REGHH": 32,
+        "TOTPOP2000": 167,
+        "MALE2000": 91,
+        "FEMALE2000": 76,
+        "POP2008": 207,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020616018,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8380,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.40648999981374,
+          -4.787208000248938
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8380,
+        "CU_NAME": "YARIATOGO",
+        "CU_NO": "019",
+        "GEOCODE": "13020616019",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -4.788605,
+        "LONGITUDE": 145.405448,
+        "REGHH": 13,
+        "TOTPOP2000": 57,
+        "MALE2000": 29,
+        "FEMALE2000": 28,
+        "POP2008": 73,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020616019,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

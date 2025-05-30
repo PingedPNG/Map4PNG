@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.17213099984588,
+          -4.145767999693362
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5112,
+        "CU_NAME": "TAVUI NO.2",
+        "CU_NO": "008",
+        "GEOCODE": "18041508008",
+        "PROV_KEY": "18",
+        "DIST_NO": "04",
+        "LLG_NO": "15",
+        "WARD_NO": "08",
+        "WARD_NAME": "TAVUI NO.2",
+        "LATITUDE": -4.147166,
+        "LONGITUDE": 152.171185,
+        "REGHH": 110,
+        "TOTPOP2000": 572,
+        "MALE2000": 280,
+        "FEMALE2000": 292,
+        "POP2008": 697,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18041508008,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

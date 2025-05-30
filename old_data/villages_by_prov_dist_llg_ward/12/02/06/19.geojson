@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10744,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.46514700013404,
+          -6.418655000228057
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10744,
+        "CU_NAME": "BERACQAYU",
+        "CU_NO": "004",
+        "GEOCODE": "12020619004",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "19",
+        "WARD_NAME": "UNSESU",
+        "LATITUDE": -6.420074,
+        "LONGITUDE": 147.46413,
+        "REGHH": 38,
+        "TOTPOP2000": 200,
+        "MALE2000": 100,
+        "FEMALE2000": 100,
+        "POP2008": 250,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020619004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.48898200031908,
+          -6.468045999922936
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10745,
+        "CU_NAME": "TONGUMBO",
+        "CU_NO": "005",
+        "GEOCODE": "12020619005",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "19",
+        "WARD_NAME": "UNSESU",
+        "LATITUDE": -6.469465,
+        "LONGITUDE": 147.487965,
+        "REGHH": 11,
+        "TOTPOP2000": 56,
+        "MALE2000": 24,
+        "FEMALE2000": 32,
+        "POP2008": 72,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020619005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.50738500001785,
+          -6.4546109999976125
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10746,
+        "CU_NAME": "SOSOC",
+        "CU_NO": "006",
+        "GEOCODE": "12020619006",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "19",
+        "WARD_NAME": "UNSESU",
+        "LATITUDE": -6.458269,
+        "LONGITUDE": 147.503017,
+        "REGHH": 4,
+        "TOTPOP2000": 13,
+        "MALE2000": 7,
+        "FEMALE2000": 6,
+        "POP2008": 13,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020619006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4913940000331,
+          -6.460969000019304
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10747,
+        "CU_NAME": "KWENZENZENG",
+        "CU_NO": "019",
+        "GEOCODE": "12020619019",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "19",
+        "WARD_NAME": "UNSESU",
+        "LATITUDE": -6.462388,
+        "LONGITUDE": 147.490377,
+        "REGHH": 29,
+        "TOTPOP2000": 160,
+        "MALE2000": 77,
+        "FEMALE2000": 83,
+        "POP2008": 199,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020619019,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10748,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4794070003329,
+          -6.426612000243551
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10748,
+        "CU_NAME": "UNSESU (LUMBO)",
+        "CU_NO": "027",
+        "GEOCODE": "12020619027",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "19",
+        "WARD_NAME": "UNSESU",
+        "LATITUDE": -6.428031,
+        "LONGITUDE": 147.47839,
+        "REGHH": 62,
+        "TOTPOP2000": 292,
+        "MALE2000": 133,
+        "FEMALE2000": 159,
+        "POP2008": 364,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020619027,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10749,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.49233100007564,
+          -6.44456299978259
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10749,
+        "CU_NAME": "ZENGURU",
+        "CU_NO": "028",
+        "GEOCODE": "12020619028",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "19",
+        "WARD_NAME": "UNSESU",
+        "LATITUDE": -6.445982,
+        "LONGITUDE": 147.491314,
+        "REGHH": 62,
+        "TOTPOP2000": 297,
+        "MALE2000": 140,
+        "FEMALE2000": 157,
+        "POP2008": 371,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020619028,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10750,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.45417799971494,
+          -6.429930000369154
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10750,
+        "CU_NAME": "SIMBENANGU",
+        "CU_NO": "029",
+        "GEOCODE": "12020619029",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "19",
+        "WARD_NAME": "UNSESU",
+        "LATITUDE": -6.426589,
+        "LONGITUDE": 147.463495,
+        "REGHH": 1,
+        "TOTPOP2000": 2,
+        "MALE2000": 1,
+        "FEMALE2000": 1,
+        "POP2008": 2,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020619029,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

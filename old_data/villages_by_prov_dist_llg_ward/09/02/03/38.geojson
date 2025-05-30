@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16417,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4140970000766,
+          -5.675903999669799
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16417,
+        "CU_NAME": "ROMANGA",
+        "CU_NO": "055",
+        "GEOCODE": "09020338055",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "38",
+        "WARD_NAME": "ROMANGA",
+        "LATITUDE": -5.67684,
+        "LONGITUDE": 144.414433,
+        "REGHH": 22,
+        "TOTPOP2000": 75,
+        "MALE2000": 31,
+        "FEMALE2000": 44,
+        "POP2008": 91,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020338055,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16418,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4166419996286,
+          -5.671498999778976
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16418,
+        "CU_NAME": "NUMOPANG",
+        "CU_NO": "056",
+        "GEOCODE": "09020338056",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "38",
+        "WARD_NAME": "ROMANGA",
+        "LATITUDE": -5.672435,
+        "LONGITUDE": 144.416978,
+        "REGHH": 28,
+        "TOTPOP2000": 113,
+        "MALE2000": 53,
+        "FEMALE2000": 60,
+        "POP2008": 137,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020338056,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16419,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4120389996002,
+          -5.672993000326642
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16419,
+        "CU_NAME": "GAGL",
+        "CU_NO": "057",
+        "GEOCODE": "09020338057",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "38",
+        "WARD_NAME": "ROMANGA",
+        "LATITUDE": -5.673929,
+        "LONGITUDE": 144.412375,
+        "REGHH": 29,
+        "TOTPOP2000": 126,
+        "MALE2000": 58,
+        "FEMALE2000": 68,
+        "POP2008": 153,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020338057,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16420,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.41396899956976,
+          -5.6715250000786455
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16420,
+        "CU_NAME": "KUGLI",
+        "CU_NO": "058",
+        "GEOCODE": "09020338058",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "38",
+        "WARD_NAME": "ROMANGA",
+        "LATITUDE": -5.672461,
+        "LONGITUDE": 144.414305,
+        "REGHH": 37,
+        "TOTPOP2000": 133,
+        "MALE2000": 70,
+        "FEMALE2000": 63,
+        "POP2008": 162,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020338058,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16421,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4155590000479,
+          -5.677862000031212
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16421,
+        "CU_NAME": "PITPIT",
+        "CU_NO": "059",
+        "GEOCODE": "09020338059",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "38",
+        "WARD_NAME": "ROMANGA",
+        "LATITUDE": -5.678798,
+        "LONGITUDE": 144.415895,
+        "REGHH": 30,
+        "TOTPOP2000": 140,
+        "MALE2000": 67,
+        "FEMALE2000": 73,
+        "POP2008": 172,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020338059,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

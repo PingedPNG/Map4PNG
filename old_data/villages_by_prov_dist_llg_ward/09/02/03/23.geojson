@@ -1,0 +1,421 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.43935300014095,
+          -5.724702999943418
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16318,
+        "CU_NAME": "KUTINGA",
+        "CU_NO": "023",
+        "GEOCODE": "09020323023",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "KUTINGA",
+        "LATITUDE": -5.72572,
+        "LONGITUDE": 144.44,
+        "REGHH": 22,
+        "TOTPOP2000": 133,
+        "MALE2000": 68,
+        "FEMALE2000": 65,
+        "POP2008": 162,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020323023,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16319,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4486709999668,
+          -5.707613999686316
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16319,
+        "CU_NAME": "NEWCAMP",
+        "CU_NO": "024",
+        "GEOCODE": "09020323024",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "KUTINGA",
+        "LATITUDE": -5.718207,
+        "LONGITUDE": 144.442567,
+        "REGHH": 49,
+        "TOTPOP2000": 312,
+        "MALE2000": 175,
+        "FEMALE2000": 137,
+        "POP2008": 380,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020323024,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16320,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4386290000284,
+          -5.727320000117857
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16320,
+        "CU_NAME": "KILIPIORANG",
+        "CU_NO": "025",
+        "GEOCODE": "09020323025",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "KUTINGA",
+        "LATITUDE": -5.728258,
+        "LONGITUDE": 144.438965,
+        "REGHH": 30,
+        "TOTPOP2000": 144,
+        "MALE2000": 67,
+        "FEMALE2000": 77,
+        "POP2008": 176,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020323025,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16321,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.43269699986672,
+          -5.729469000294102
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16321,
+        "CU_NAME": "KOTONG",
+        "CU_NO": "026",
+        "GEOCODE": "09020323026",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "KUTINGA",
+        "LATITUDE": -5.730407,
+        "LONGITUDE": 144.433033,
+        "REGHH": 8,
+        "TOTPOP2000": 33,
+        "MALE2000": 16,
+        "FEMALE2000": 17,
+        "POP2008": 41,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020323026,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16322,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4428779999198,
+          -5.727924000092457
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16322,
+        "CU_NAME": "RUKUPIL",
+        "CU_NO": "027",
+        "GEOCODE": "09020323027",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "KUTINGA",
+        "LATITUDE": -5.728862,
+        "LONGITUDE": 144.443214,
+        "REGHH": 29,
+        "TOTPOP2000": 142,
+        "MALE2000": 78,
+        "FEMALE2000": 64,
+        "POP2008": 174,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020323027,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16323,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.41260499962107,
+          -5.733082999680619
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16323,
+        "CU_NAME": "GUMANCH",
+        "CU_NO": "028",
+        "GEOCODE": "09020323028",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "KUTINGA",
+        "LATITUDE": -5.734021,
+        "LONGITUDE": 144.412942,
+        "REGHH": 34,
+        "TOTPOP2000": 178,
+        "MALE2000": 98,
+        "FEMALE2000": 80,
+        "POP2008": 217,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020323028,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.44310400044935,
+          -5.725532000401472
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16324,
+        "CU_NAME": "GINGAL",
+        "CU_NO": "029",
+        "GEOCODE": "09020323029",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "KUTINGA",
+        "LATITUDE": -5.72647,
+        "LONGITUDE": 144.44344,
+        "REGHH": 27,
+        "TOTPOP2000": 148,
+        "MALE2000": 76,
+        "FEMALE2000": 72,
+        "POP2008": 180,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020323029,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16325,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.43796499998484,
+          -5.716212999630159
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16325,
+        "CU_NAME": "MUR",
+        "CU_NO": "030",
+        "GEOCODE": "09020323030",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "KUTINGA",
+        "LATITUDE": -5.717149,
+        "LONGITUDE": 144.438301,
+        "REGHH": 34,
+        "TOTPOP2000": 199,
+        "MALE2000": 108,
+        "FEMALE2000": 91,
+        "POP2008": 242,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020323030,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16326,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.43394499986186,
+          -5.733534999840344
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16326,
+        "CU_NAME": "BOLDMUL",
+        "CU_NO": "031",
+        "GEOCODE": "09020323031",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "KUTINGA",
+        "LATITUDE": -5.734473,
+        "LONGITUDE": 144.434281,
+        "REGHH": 17,
+        "TOTPOP2000": 83,
+        "MALE2000": 45,
+        "FEMALE2000": 38,
+        "POP2008": 99,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020323031,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16327,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4354209995795,
+          -5.727095999680614
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16327,
+        "CU_NAME": "JIM",
+        "CU_NO": "032",
+        "GEOCODE": "09020323032",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "KUTINGA",
+        "LATITUDE": -5.728034,
+        "LONGITUDE": 144.435757,
+        "REGHH": 34,
+        "TOTPOP2000": 168,
+        "MALE2000": 96,
+        "FEMALE2000": 72,
+        "POP2008": 204,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020323032,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16328,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4396409999323,
+          -5.7289299997196395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16328,
+        "CU_NAME": "KUMBANGA",
+        "CU_NO": "033",
+        "GEOCODE": "09020323033",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "KUTINGA",
+        "LATITUDE": -5.729868,
+        "LONGITUDE": 144.439977,
+        "REGHH": 17,
+        "TOTPOP2000": 94,
+        "MALE2000": 45,
+        "FEMALE2000": 49,
+        "POP2008": 114,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020323033,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16329,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.46149200035563,
+          -5.720619999613234
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16329,
+        "CU_NAME": "KUPENGAI",
+        "CU_NO": "034",
+        "GEOCODE": "09020323034",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "KUTINGA",
+        "LATITUDE": -5.723177,
+        "LONGITUDE": 144.457209,
+        "REGHH": 17,
+        "TOTPOP2000": 101,
+        "MALE2000": 46,
+        "FEMALE2000": 55,
+        "POP2008": 125,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020323034,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16330,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.43340300004843,
+          -5.710262000390969
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16330,
+        "CU_NAME": "NUNGA PLTN",
+        "CU_NO": "401",
+        "GEOCODE": "09020323401",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "KUTINGA",
+        "LATITUDE": -5.711198,
+        "LONGITUDE": 144.433739,
+        "REGHH": 22,
+        "TOTPOP2000": 108,
+        "MALE2000": 65,
+        "FEMALE2000": 43,
+        "POP2008": 132,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020323401,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

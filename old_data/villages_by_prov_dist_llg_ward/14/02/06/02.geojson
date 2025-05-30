@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6340,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6176019996326,
+          -4.517096999626801
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6340,
+        "CU_NAME": "KAIWARIA",
+        "CU_NO": "003",
+        "GEOCODE": "14020602003",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "02",
+        "WARD_NAME": "KAIWARIA",
+        "LATITUDE": -4.524838,
+        "LONGITUDE": 143.608255,
+        "REGHH": 37,
+        "TOTPOP2000": 247,
+        "MALE2000": 132,
+        "FEMALE2000": 115,
+        "POP2008": 294,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020602003,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6341,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5809290000734,
+          -4.491696000070306
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6341,
+        "CU_NAME": "KUNGRIABUN",
+        "CU_NO": "007",
+        "GEOCODE": "14020602007",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "02",
+        "WARD_NAME": "KAIWARIA",
+        "LATITUDE": -4.503136,
+        "LONGITUDE": 143.590995,
+        "REGHH": 45,
+        "TOTPOP2000": 235,
+        "MALE2000": 122,
+        "FEMALE2000": 113,
+        "POP2008": 280,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020602007,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.61909600018032,
+          -4.536751000358322
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6342,
+        "CU_NAME": "MAIKROBI",
+        "CU_NO": "010",
+        "GEOCODE": "14020602010",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "02",
+        "WARD_NAME": "KAIWARIA",
+        "LATITUDE": -4.528143,
+        "LONGITUDE": 143.615791,
+        "REGHH": 28,
+        "TOTPOP2000": 164,
+        "MALE2000": 81,
+        "FEMALE2000": 83,
+        "POP2008": 196,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020602010,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6343,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63661100029753,
+          -4.529835999831505
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6343,
+        "CU_NAME": "KASIET",
+        "CU_NO": "013",
+        "GEOCODE": "14020602013",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "02",
+        "WARD_NAME": "KAIWARIA",
+        "LATITUDE": -4.461053,
+        "LONGITUDE": 143.65554,
+        "REGHH": 4,
+        "TOTPOP2000": 28,
+        "MALE2000": 17,
+        "FEMALE2000": 11,
+        "POP2008": 36,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020602013,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

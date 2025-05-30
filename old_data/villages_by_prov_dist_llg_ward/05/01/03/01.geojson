@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9618,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.1364089995758,
+          -10.116913999781218
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9618,
+        "CU_NAME": "DIVARI",
+        "CU_NO": "002",
+        "GEOCODE": "05010301002",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "01",
+        "WARD_NAME": "DIVARI",
+        "LATITUDE": -10.116536,
+        "LONGITUDE": 150.137099,
+        "REGHH": 62,
+        "TOTPOP2000": 261,
+        "MALE2000": 129,
+        "FEMALE2000": 132,
+        "POP2008": 319,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010301002,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

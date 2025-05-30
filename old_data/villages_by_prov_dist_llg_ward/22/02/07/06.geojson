@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16949,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.907750999609,
+          -5.666361000259883
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16949,
+        "CU_NAME": "MAME",
+        "CU_NO": "009",
+        "GEOCODE": "09040706009",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "MAME",
+        "LATITUDE": -5.672802,
+        "LONGITUDE": 144.907074,
+        "REGHH": 32,
+        "TOTPOP2000": 130,
+        "MALE2000": 64,
+        "FEMALE2000": 66,
+        "POP2008": 158,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040706009,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16950,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.91286099963554,
+          -5.705177999764828
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16950,
+        "CU_NAME": "DANDUAM",
+        "CU_NO": "010",
+        "GEOCODE": "09040706010",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "MAME",
+        "LATITUDE": -5.706114,
+        "LONGITUDE": 144.913203,
+        "REGHH": 61,
+        "TOTPOP2000": 271,
+        "MALE2000": 129,
+        "FEMALE2000": 142,
+        "POP2008": 330,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040706010,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16951,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.91019900008382,
+          -5.690390000398168
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16951,
+        "CU_NAME": "KOOL",
+        "CU_NO": "011",
+        "GEOCODE": "09040706011",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "MAME",
+        "LATITUDE": -5.691326,
+        "LONGITUDE": 144.910541,
+        "REGHH": 35,
+        "TOTPOP2000": 152,
+        "MALE2000": 82,
+        "FEMALE2000": 70,
+        "POP2008": 184,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040706011,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

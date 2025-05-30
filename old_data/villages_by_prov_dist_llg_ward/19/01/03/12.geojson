@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17810,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.65571099966292,
+          -5.847741000047051
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17810,
+        "CU_NAME": "ANEPMETE",
+        "CU_NO": "001",
+        "GEOCODE": "19010312001",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "NAPLAVUI",
+        "LATITUDE": -5.85345,
+        "LONGITUDE": 148.651,
+        "REGHH": 24,
+        "TOTPOP2000": 160,
+        "MALE2000": 80,
+        "FEMALE2000": 80,
+        "POP2008": 211,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010312001,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17811,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.74800000000005,
+          -5.941612999640199
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17811,
+        "CU_NAME": "IUNGPUN",
+        "CU_NO": "007",
+        "GEOCODE": "19010312007",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "NAPLAVUI",
+        "LATITUDE": -5.943029,
+        "LONGITUDE": 148.747,
+        "REGHH": 34,
+        "TOTPOP2000": 197,
+        "MALE2000": 104,
+        "FEMALE2000": 93,
+        "POP2008": 259,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010312007,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.7467479998204,
+          -5.857281000217938
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17812,
+        "CU_NAME": "MOLOU",
+        "CU_NO": "008",
+        "GEOCODE": "19010312008",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "NAPLAVUI",
+        "LATITUDE": -5.86364,
+        "LONGITUDE": 148.747,
+        "REGHH": 23,
+        "TOTPOP2000": 130,
+        "MALE2000": 76,
+        "FEMALE2000": 54,
+        "POP2008": 172,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010312008,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.78499800015766,
+          -5.821345999618131
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17813,
+        "CU_NAME": "AMLAKMETE",
+        "CU_NO": "009",
+        "GEOCODE": "19010312009",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "NAPLAVUI",
+        "LATITUDE": -5.82276,
+        "LONGITUDE": 148.784,
+        "REGHH": 11,
+        "TOTPOP2000": 56,
+        "MALE2000": 34,
+        "FEMALE2000": 22,
+        "POP2008": 72,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010312009,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.746997999658,
+          -5.828815999658616
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17814,
+        "CU_NAME": "SIPUL BASE CAMP",
+        "CU_NO": "501",
+        "GEOCODE": "19010312501",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "NAPLAVUI",
+        "LATITUDE": -5.83023,
+        "LONGITUDE": 148.746,
+        "REGHH": 0,
+        "TOTPOP2000": 201,
+        "MALE2000": 136,
+        "FEMALE2000": 65,
+        "POP2008": 265,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010312501,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.64100000024985,
+          -5.834816000258172
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17815,
+        "CU_NAME": "ANEPMETE LOGGING CAMP",
+        "CU_NO": "502",
+        "GEOCODE": "19010312502",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "NAPLAVUI",
+        "LATITUDE": -5.83623,
+        "LONGITUDE": 148.64,
+        "REGHH": 27,
+        "TOTPOP2000": 217,
+        "MALE2000": 121,
+        "FEMALE2000": 96,
+        "POP2008": 286,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010312502,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

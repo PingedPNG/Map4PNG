@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6294,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.80171599959374,
+          -4.113745999678088
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6294,
+        "CU_NAME": "MUNDOMUNDO",
+        "CU_NO": "015",
+        "GEOCODE": "14020508015",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "MUNDOMUNDO",
+        "LATITUDE": -4.123521,
+        "LONGITUDE": 143.792384,
+        "REGHH": 118,
+        "TOTPOP2000": 779,
+        "MALE2000": 409,
+        "FEMALE2000": 370,
+        "POP2008": 928,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020508015,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

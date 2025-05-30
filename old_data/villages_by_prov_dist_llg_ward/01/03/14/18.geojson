@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15735,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.69543399987924,
+          -9.003509999886546
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15735,
+        "CU_NAME": "KIBULI VILLAGE",
+        "CU_NO": "013",
+        "GEOCODE": "01031418013",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "18",
+        "WARD_NAME": "SEBE",
+        "LATITUDE": -9.0084,
+        "LONGITUDE": 142.693495,
+        "REGHH": 41,
+        "TOTPOP2000": 223,
+        "MALE2000": 96,
+        "FEMALE2000": 127,
+        "POP2008": 289,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031418013,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15736,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.68934599971817,
+          -9.010877999719867
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15736,
+        "CU_NAME": "KIBULI COMM. SCH",
+        "CU_NO": "014",
+        "GEOCODE": "01031418014",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "18",
+        "WARD_NAME": "SEBE",
+        "LATITUDE": -9.011419,
+        "LONGITUDE": 142.694334,
+        "REGHH": 3,
+        "TOTPOP2000": 17,
+        "MALE2000": 9,
+        "FEMALE2000": 8,
+        "POP2008": 25,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031418014,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6997369995629,
+          -9.004787000319766
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15737,
+        "CU_NAME": "KIBULI SUB HEALTH CENTRE",
+        "CU_NO": "015",
+        "GEOCODE": "01031418015",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "18",
+        "WARD_NAME": "SEBE",
+        "LATITUDE": -9.011419,
+        "LONGITUDE": 142.694334,
+        "REGHH": 1,
+        "TOTPOP2000": 3,
+        "MALE2000": 2,
+        "FEMALE2000": 1,
+        "POP2008": 3,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031418015,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.69933299981813,
+          -9.049455999894406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15738,
+        "CU_NAME": "SEBE",
+        "CU_NO": "023",
+        "GEOCODE": "01031418023",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "18",
+        "WARD_NAME": "SEBE",
+        "LATITUDE": -9.050889,
+        "LONGITUDE": 142.698247,
+        "REGHH": 33,
+        "TOTPOP2000": 163,
+        "MALE2000": 74,
+        "FEMALE2000": 89,
+        "POP2008": 212,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031418023,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

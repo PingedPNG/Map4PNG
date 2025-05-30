@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9638,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.85870200029717,
+          -10.027061000264894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9638,
+        "CU_NAME": "WADOBUNA",
+        "CU_NO": "011",
+        "GEOCODE": "05010310011",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "WADOBUNA",
+        "LATITUDE": -10.020098,
+        "LONGITUDE": 149.863691,
+        "REGHH": 28,
+        "TOTPOP2000": 156,
+        "MALE2000": 77,
+        "FEMALE2000": 79,
+        "POP2008": 189,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010310011,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9639,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.8576840001166,
+          -9.985234999595491
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9639,
+        "CU_NAME": "MUSARA",
+        "CU_NO": "016",
+        "GEOCODE": "05010310016",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "WADOBUNA",
+        "LATITUDE": -9.986093,
+        "LONGITUDE": 149.858263,
+        "REGHH": 16,
+        "TOTPOP2000": 78,
+        "MALE2000": 35,
+        "FEMALE2000": 43,
+        "POP2008": 94,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010310016,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9640,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.86206299970775,
+          -10.023967999723368
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9640,
+        "CU_NAME": "VURAWARA",
+        "CU_NO": "017",
+        "GEOCODE": "05010310017",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "WADOBUNA",
+        "LATITUDE": -10.018784,
+        "LONGITUDE": 149.869831,
+        "REGHH": 32,
+        "TOTPOP2000": 165,
+        "MALE2000": 77,
+        "FEMALE2000": 88,
+        "POP2008": 201,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010310017,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9641,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.84911699984968,
+          -9.981707999724335
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9641,
+        "CU_NAME": "WARAKA",
+        "CU_NO": "018",
+        "GEOCODE": "05010310018",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "WADOBUNA",
+        "LATITUDE": -9.981608,
+        "LONGITUDE": 149.846886,
+        "REGHH": 24,
+        "TOTPOP2000": 122,
+        "MALE2000": 63,
+        "FEMALE2000": 59,
+        "POP2008": 148,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010310018,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18694,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.13300299968876,
+          -5.231184000341273
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18694,
+        "CU_NAME": "RANIMAP",
+        "CU_NO": "001",
+        "GEOCODE": "15030901001",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "01",
+        "WARD_NAME": "RANIMAP",
+        "LATITUDE": -5.23258,
+        "LONGITUDE": 142.131919,
+        "REGHH": 114,
+        "TOTPOP2000": 608,
+        "MALE2000": 282,
+        "FEMALE2000": 326,
+        "POP2008": 735,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030901001,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

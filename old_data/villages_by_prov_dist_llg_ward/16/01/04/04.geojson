@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9386,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.88635199984503,
+          -1.9652129996801477
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9386,
+        "CU_NAME": "ARAN",
+        "CU_NO": "001",
+        "GEOCODE": "16010404001",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "04",
+        "WARD_NAME": "LAPAHAU",
+        "LATITUDE": -1.965583,
+        "LONGITUDE": 146.884839,
+        "REGHH": 22,
+        "TOTPOP2000": 159,
+        "MALE2000": 79,
+        "FEMALE2000": 80,
+        "POP2008": 195,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010404001,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

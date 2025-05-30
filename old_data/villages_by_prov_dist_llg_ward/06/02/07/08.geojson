@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13777,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.01889199996594,
+          -8.142222999991418
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13777,
+        "CU_NAME": "OMBAREDE",
+        "CU_NO": "003",
+        "GEOCODE": "06020708003",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "08",
+        "WARD_NAME": "SIA",
+        "LATITUDE": -8.141674,
+        "LONGITUDE": 148.019862,
+        "REGHH": 5,
+        "TOTPOP2000": 18,
+        "MALE2000": 9,
+        "FEMALE2000": 9,
+        "POP2008": 18,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020708003,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13778,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0253730002638,
+          -8.178946000057806
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13778,
+        "CU_NAME": "BEBEWA",
+        "CU_NO": "004",
+        "GEOCODE": "06020708004",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "08",
+        "WARD_NAME": "SIA",
+        "LATITUDE": -8.180524,
+        "LONGITUDE": 148.015346,
+        "REGHH": 7,
+        "TOTPOP2000": 39,
+        "MALE2000": 20,
+        "FEMALE2000": 19,
+        "POP2008": 47,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020708004,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13779,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0318050001007,
+          -8.157900999931144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13779,
+        "CU_NAME": "SIA",
+        "CU_NO": "018",
+        "GEOCODE": "06020708018",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "08",
+        "WARD_NAME": "SIA",
+        "LATITUDE": -8.166929,
+        "LONGITUDE": 148.027641,
+        "REGHH": 57,
+        "TOTPOP2000": 384,
+        "MALE2000": 202,
+        "FEMALE2000": 182,
+        "POP2008": 476,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020708018,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13780,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.02280200041207,
+          -8.121436000071299
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13780,
+        "CU_NAME": "TAUTUTU",
+        "CU_NO": "021",
+        "GEOCODE": "06020708021",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "08",
+        "WARD_NAME": "SIA",
+        "LATITUDE": -8.128569,
+        "LONGITUDE": 148.018633,
+        "REGHH": 26,
+        "TOTPOP2000": 179,
+        "MALE2000": 89,
+        "FEMALE2000": 90,
+        "POP2008": 222,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020708021,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13781,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.02229500041403,
+          -8.147981000222956
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13781,
+        "CU_NAME": "BOTO C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "06020708401",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "08",
+        "WARD_NAME": "SIA",
+        "LATITUDE": -8.14942,
+        "LONGITUDE": 148.021282,
+        "REGHH": 5,
+        "TOTPOP2000": 40,
+        "MALE2000": 19,
+        "FEMALE2000": 21,
+        "POP2008": 48,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020708401,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

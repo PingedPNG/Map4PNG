@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8090,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.79884399985076,
+          -5.179028999988304
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8090,
+        "CU_NAME": "SIAR",
+        "CU_NO": "032",
+        "GEOCODE": "13020405032",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARD 5",
+        "LATITUDE": -5.182896,
+        "LONGITUDE": 145.800665,
+        "REGHH": 252,
+        "TOTPOP2000": 1416,
+        "MALE2000": 727,
+        "FEMALE2000": 689,
+        "POP2008": 1751,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020405032,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8091,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.80633800009866,
+          -5.1860279998922465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8091,
+        "CU_NAME": "SIAR PLTN",
+        "CU_NO": "511",
+        "GEOCODE": "13020405511",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARD 5",
+        "LATITUDE": -5.187215,
+        "LONGITUDE": 145.805947,
+        "REGHH": 51,
+        "TOTPOP2000": 329,
+        "MALE2000": 175,
+        "FEMALE2000": 154,
+        "POP2008": 407,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020405511,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

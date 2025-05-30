@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19819,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.27018100035298,
+          -6.706874999581544
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19819,
+        "CU_NAME": "BIAGE",
+        "CU_NO": "003",
+        "GEOCODE": "07030816003",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "SIRIGI",
+        "LATITUDE": -6.711122,
+        "LONGITUDE": 144.27047,
+        "REGHH": 14,
+        "TOTPOP2000": 92,
+        "MALE2000": 54,
+        "FEMALE2000": 38,
+        "POP2008": 128,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030816003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19820,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.28993500030003,
+          -6.714263000337155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19820,
+        "CU_NAME": "SIRIGI",
+        "CU_NO": "008",
+        "GEOCODE": "07030816008",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "SIRIGI",
+        "LATITUDE": -6.711123,
+        "LONGITUDE": 144.270471,
+        "REGHH": 21,
+        "TOTPOP2000": 135,
+        "MALE2000": 62,
+        "FEMALE2000": 73,
+        "POP2008": 188,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030816008,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

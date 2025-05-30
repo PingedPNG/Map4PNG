@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9858,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6642469998992,
+          -10.613960000153838
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9858,
+        "CU_NAME": "SAMARAI 01",
+        "CU_NO": "001",
+        "GEOCODE": "05020812001",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "12",
+        "WARD_NAME": "SAMARAI NORTH",
+        "LATITUDE": -10.612823,
+        "LONGITUDE": 150.665226,
+        "REGHH": 48,
+        "TOTPOP2000": 291,
+        "MALE2000": 136,
+        "FEMALE2000": 155,
+        "POP2008": 354,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020812001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

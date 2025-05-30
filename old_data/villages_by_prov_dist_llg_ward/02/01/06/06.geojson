@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7614,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.34870000020487,
+          -7.852597999697878
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7614,
+        "CU_NAME": "KEREMAHAUA",
+        "CU_NO": "001",
+        "GEOCODE": "02010606001",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "OKAIVAI",
+        "LATITUDE": -7.852457,
+        "LONGITUDE": 146.35242,
+        "REGHH": 9,
+        "TOTPOP2000": 54,
+        "MALE2000": 29,
+        "FEMALE2000": 25,
+        "POP2008": 66,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010606001,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7615,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.38983699967787,
+          -7.869721999770434
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7615,
+        "CU_NAME": "OKAVAI",
+        "CU_NO": "006",
+        "GEOCODE": "02010606006",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "OKAIVAI",
+        "LATITUDE": -7.861389,
+        "LONGITUDE": 146.39093,
+        "REGHH": 46,
+        "TOTPOP2000": 303,
+        "MALE2000": 165,
+        "FEMALE2000": 138,
+        "POP2008": 372,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010606006,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7616,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4306919996361,
+          -7.7518790000157765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7616,
+        "CU_NAME": "NUKEVA/PARATA",
+        "CU_NO": "007",
+        "GEOCODE": "02010606007",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "OKAIVAI",
+        "LATITUDE": -7.751783,
+        "LONGITUDE": 146.428436,
+        "REGHH": 23,
+        "TOTPOP2000": 97,
+        "MALE2000": 53,
+        "FEMALE2000": 44,
+        "POP2008": 121,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010606007,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7617,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.35239499972954,
+          -7.966289999583751
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7617,
+        "CU_NAME": "URULAU",
+        "CU_NO": "009",
+        "GEOCODE": "02010606009",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "OKAIVAI",
+        "LATITUDE": -7.963359,
+        "LONGITUDE": 146.346995,
+        "REGHH": 36,
+        "TOTPOP2000": 211,
+        "MALE2000": 117,
+        "FEMALE2000": 94,
+        "POP2008": 259,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010606009,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7618,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.18892000005803,
+          -7.853827999762359
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7618,
+        "CU_NAME": "NANAMOTO/YAITO",
+        "CU_NO": "010",
+        "GEOCODE": "02010606010",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "OKAIVAI",
+        "LATITUDE": -7.855259,
+        "LONGITUDE": 146.187882,
+        "REGHH": 8,
+        "TOTPOP2000": 27,
+        "MALE2000": 14,
+        "FEMALE2000": 13,
+        "POP2008": 35,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010606010,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7619,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.40032999972982,
+          -7.867876000077274
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7619,
+        "CU_NAME": "UNGIMA",
+        "CU_NO": "011",
+        "GEOCODE": "02010606011",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "OKAIVAI",
+        "LATITUDE": -7.868053,
+        "LONGITUDE": 146.444464,
+        "REGHH": 12,
+        "TOTPOP2000": 67,
+        "MALE2000": 44,
+        "FEMALE2000": 23,
+        "POP2008": 83,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010606011,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

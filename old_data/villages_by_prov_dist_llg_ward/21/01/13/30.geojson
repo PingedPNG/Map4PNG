@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20436,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.2970549996885,
+          -5.809106999987989
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20436,
+        "CU_NAME": "TAUWANDA",
+        "CU_NO": "014",
+        "GEOCODE": "07041330014",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "30",
+        "WARD_NAME": "TAUWANDA",
+        "LATITUDE": -5.799577,
+        "LONGITUDE": 143.284495,
+        "REGHH": 78,
+        "TOTPOP2000": 385,
+        "MALE2000": 192,
+        "FEMALE2000": 193,
+        "POP2008": 536,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041330014,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20437,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.2993130003947,
+          -5.8124769998136685
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20437,
+        "CU_NAME": "PIPITE",
+        "CU_NO": "015",
+        "GEOCODE": "07041330015",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "30",
+        "WARD_NAME": "TAUANDA",
+        "LATITUDE": -5.802947,
+        "LONGITUDE": 143.286753,
+        "REGHH": 70,
+        "TOTPOP2000": 368,
+        "MALE2000": 188,
+        "FEMALE2000": 180,
+        "POP2008": 511,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041330015,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20438,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.2995959999555,
+          -5.809390000448104
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20438,
+        "CU_NAME": "HAREIPA",
+        "CU_NO": "016",
+        "GEOCODE": "07041330016",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "30",
+        "WARD_NAME": "TAUANDA",
+        "LATITUDE": -5.79986,
+        "LONGITUDE": 143.287036,
+        "REGHH": 60,
+        "TOTPOP2000": 328,
+        "MALE2000": 155,
+        "FEMALE2000": 173,
+        "POP2008": 456,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041330016,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

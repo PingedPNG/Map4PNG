@@ -1,0 +1,581 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21645,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62758000021688,
+          -6.258399999760115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21645,
+        "CU_NAME": "WALUMESA",
+        "CU_NO": "020",
+        "GEOCODE": "07072611020",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "WALUMESA",
+        "LATITUDE": -6.262635,
+        "LONGITUDE": 143.627732,
+        "REGHH": 7,
+        "TOTPOP2000": 32,
+        "MALE2000": 14,
+        "FEMALE2000": 18,
+        "POP2008": 44,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072611020,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21646,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62700399973482,
+          -6.257555000362913
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21646,
+        "CU_NAME": "ROWANDA",
+        "CU_NO": "021",
+        "GEOCODE": "07072611021",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "WALUMESA",
+        "LATITUDE": -6.262635,
+        "LONGITUDE": 143.627732,
+        "REGHH": 9,
+        "TOTPOP2000": 35,
+        "MALE2000": 14,
+        "FEMALE2000": 21,
+        "POP2008": 50,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072611021,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21647,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62583299969322,
+          -6.257947999600447
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21647,
+        "CU_NAME": "ENGELAM",
+        "CU_NO": "022",
+        "GEOCODE": "07072611022",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "WALUMESA",
+        "LATITUDE": -6.262635,
+        "LONGITUDE": 143.627732,
+        "REGHH": 20,
+        "TOTPOP2000": 83,
+        "MALE2000": 46,
+        "FEMALE2000": 37,
+        "POP2008": 115,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072611022,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21648,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62795500042296,
+          -6.257885000292504
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21648,
+        "CU_NAME": "SIPILI",
+        "CU_NO": "023",
+        "GEOCODE": "07072611023",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "WALUMESA",
+        "LATITUDE": -6.262635,
+        "LONGITUDE": 143.627732,
+        "REGHH": 9,
+        "TOTPOP2000": 59,
+        "MALE2000": 26,
+        "FEMALE2000": 33,
+        "POP2008": 82,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072611023,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21649,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62690799980442,
+          -6.258020000222757
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21649,
+        "CU_NAME": "OSORA",
+        "CU_NO": "024",
+        "GEOCODE": "07072611024",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "WALUMESA",
+        "LATITUDE": -6.262635,
+        "LONGITUDE": 143.627732,
+        "REGHH": 8,
+        "TOTPOP2000": 36,
+        "MALE2000": 16,
+        "FEMALE2000": 20,
+        "POP2008": 52,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072611024,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21650,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62579699983178,
+          -6.258813999966094
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21650,
+        "CU_NAME": "ENGREANDA",
+        "CU_NO": "026",
+        "GEOCODE": "07072611026",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "WALUMESA",
+        "LATITUDE": -6.262635,
+        "LONGITUDE": 143.627732,
+        "REGHH": 7,
+        "TOTPOP2000": 43,
+        "MALE2000": 14,
+        "FEMALE2000": 29,
+        "POP2008": 59,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072611026,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21651,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62551300022483,
+          -6.257428999948331
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21651,
+        "CU_NAME": "YENGIANDA",
+        "CU_NO": "027",
+        "GEOCODE": "07072611027",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "WALUMESA",
+        "LATITUDE": -6.262635,
+        "LONGITUDE": 143.627732,
+        "REGHH": 14,
+        "TOTPOP2000": 72,
+        "MALE2000": 36,
+        "FEMALE2000": 36,
+        "POP2008": 100,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072611027,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21652,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6274569999407,
+          -6.258823000381142
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21652,
+        "CU_NAME": "WAMBU/MEISA",
+        "CU_NO": "028",
+        "GEOCODE": "07072611028",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "WALUMESA",
+        "LATITUDE": -6.262635,
+        "LONGITUDE": 143.627732,
+        "REGHH": 9,
+        "TOTPOP2000": 50,
+        "MALE2000": 23,
+        "FEMALE2000": 27,
+        "POP2008": 69,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072611028,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21653,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6260750000613,
+          -6.259229000218113
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21653,
+        "CU_NAME": "IPREP/ONASOPRE",
+        "CU_NO": "029",
+        "GEOCODE": "07072611029",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "WALUMESA",
+        "LATITUDE": -6.262635,
+        "LONGITUDE": 143.627732,
+        "REGHH": 13,
+        "TOTPOP2000": 78,
+        "MALE2000": 47,
+        "FEMALE2000": 31,
+        "POP2008": 108,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072611029,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21654,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62828899963768,
+          -6.259078999596113
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21654,
+        "CU_NAME": "NOWEP",
+        "CU_NO": "030",
+        "GEOCODE": "07072611030",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "WALUMESA",
+        "LATITUDE": -6.262635,
+        "LONGITUDE": 143.627732,
+        "REGHH": 3,
+        "TOTPOP2000": 7,
+        "MALE2000": 4,
+        "FEMALE2000": 3,
+        "POP2008": 7,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072611030,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21655,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6273220000104,
+          -6.259500000124831
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21655,
+        "CU_NAME": "PAPORONGAI",
+        "CU_NO": "031",
+        "GEOCODE": "07072611031",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "WALUMESA",
+        "LATITUDE": -6.262635,
+        "LONGITUDE": 143.627732,
+        "REGHH": 5,
+        "TOTPOP2000": 27,
+        "MALE2000": 13,
+        "FEMALE2000": 14,
+        "POP2008": 35,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072611031,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21656,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62675700003558,
+          -6.257146000387536
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21656,
+        "CU_NAME": "MUTREANDA",
+        "CU_NO": "032",
+        "GEOCODE": "07072611032",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "WALUMESA",
+        "LATITUDE": -6.262635,
+        "LONGITUDE": 143.627732,
+        "REGHH": 9,
+        "TOTPOP2000": 40,
+        "MALE2000": 25,
+        "FEMALE2000": 15,
+        "POP2008": 56,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072611032,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21657,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62814200005334,
+          -6.257416000248156
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21657,
+        "CU_NAME": "PEREANDA",
+        "CU_NO": "033",
+        "GEOCODE": "07072611033",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "WALUMESA",
+        "LATITUDE": -6.262635,
+        "LONGITUDE": 143.627732,
+        "REGHH": 9,
+        "TOTPOP2000": 32,
+        "MALE2000": 17,
+        "FEMALE2000": 15,
+        "POP2008": 44,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072611033,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21658,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62744800042492,
+          -6.25700400013443
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21658,
+        "CU_NAME": "YOLAM",
+        "CU_NO": "034",
+        "GEOCODE": "07072611034",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "WALUMESA",
+        "LATITUDE": -6.262635,
+        "LONGITUDE": 143.627732,
+        "REGHH": 9,
+        "TOTPOP2000": 39,
+        "MALE2000": 24,
+        "FEMALE2000": 15,
+        "POP2008": 55,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072611034,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21659,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6262099999916,
+          -6.258534999690426
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21659,
+        "CU_NAME": "POANDA",
+        "CU_NO": "035",
+        "GEOCODE": "07072611035",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "WALUMESA",
+        "LATITUDE": -6.262635,
+        "LONGITUDE": 143.627732,
+        "REGHH": 8,
+        "TOTPOP2000": 38,
+        "MALE2000": 18,
+        "FEMALE2000": 20,
+        "POP2008": 54,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072611035,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21660,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62676999973576,
+          -6.259780000446597
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21660,
+        "CU_NAME": "RAKIANDA",
+        "CU_NO": "036",
+        "GEOCODE": "07072611036",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "WALUMESA",
+        "LATITUDE": -6.262635,
+        "LONGITUDE": 143.627732,
+        "REGHH": 5,
+        "TOTPOP2000": 33,
+        "MALE2000": 16,
+        "FEMALE2000": 17,
+        "POP2008": 46,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072611036,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21661,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62883899982,
+          -6.258382999875494
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21661,
+        "CU_NAME": "WEPINAM",
+        "CU_NO": "037",
+        "GEOCODE": "07072611037",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "WALUMESA",
+        "LATITUDE": -6.262635,
+        "LONGITUDE": 143.627732,
+        "REGHH": 18,
+        "TOTPOP2000": 90,
+        "MALE2000": 49,
+        "FEMALE2000": 41,
+        "POP2008": 125,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072611037,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21662,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62843099989084,
+          -6.259910000146363
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21662,
+        "CU_NAME": "REGEMA",
+        "CU_NO": "038",
+        "GEOCODE": "07072611038",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "11",
+        "WARD_NAME": "WALUMESA",
+        "LATITUDE": -6.262635,
+        "LONGITUDE": 143.627732,
+        "REGHH": 3,
+        "TOTPOP2000": 13,
+        "MALE2000": 7,
+        "FEMALE2000": 6,
+        "POP2008": 21,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072611038,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11157,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.05486900000437,
+          -6.127338000148541
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11157,
+        "CU_NAME": "DALUGILOMON",
+        "CU_NO": "005",
+        "GEOCODE": "12041207005",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "07",
+        "WARD_NAME": "LEWEMON",
+        "LATITUDE": -6.128753,
+        "LONGITUDE": 147.053847,
+        "REGHH": 42,
+        "TOTPOP2000": 198,
+        "MALE2000": 83,
+        "FEMALE2000": 115,
+        "POP2008": 248,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041207005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11158,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.06412499966905,
+          -6.129871000046592
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11158,
+        "CU_NAME": "LEVEMON",
+        "CU_NO": "021",
+        "GEOCODE": "12041207021",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "07",
+        "WARD_NAME": "LEWEMON",
+        "LATITUDE": -6.135313,
+        "LONGITUDE": 147.061595,
+        "REGHH": 44,
+        "TOTPOP2000": 205,
+        "MALE2000": 91,
+        "FEMALE2000": 114,
+        "POP2008": 256,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041207021,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11159,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.06592299984663,
+          -6.134284000306309
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11159,
+        "CU_NAME": "MOTU",
+        "CU_NO": "022",
+        "GEOCODE": "12041207022",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "07",
+        "WARD_NAME": "LEWEMON",
+        "LATITUDE": -6.135699,
+        "LONGITUDE": 147.064901,
+        "REGHH": 68,
+        "TOTPOP2000": 320,
+        "MALE2000": 156,
+        "FEMALE2000": 164,
+        "POP2008": 399,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041207022,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

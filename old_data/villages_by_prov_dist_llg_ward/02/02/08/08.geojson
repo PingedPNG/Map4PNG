@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7688,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.36182799986238,
+          -7.452284999553058
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7688,
+        "CU_NAME": "ERO",
+        "CU_NO": "007",
+        "GEOCODE": "02020808007",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "ERO",
+        "LATITUDE": -7.446131,
+        "LONGITUDE": 144.364831,
+        "REGHH": 91,
+        "TOTPOP2000": 753,
+        "MALE2000": 407,
+        "FEMALE2000": 346,
+        "POP2008": 925,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020808007,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7689,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.37274999991268,
+          -7.4415879999861545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7689,
+        "CU_NAME": "SAMOA",
+        "CU_NO": "011",
+        "GEOCODE": "02020808011",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "ERO",
+        "LATITUDE": -7.441499,
+        "LONGITUDE": 144.374454,
+        "REGHH": 32,
+        "TOTPOP2000": 251,
+        "MALE2000": 133,
+        "FEMALE2000": 118,
+        "POP2008": 309,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020808011,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7690,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.31509699962692,
+          -7.414994000272827
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7690,
+        "CU_NAME": "WOWOU",
+        "CU_NO": "013",
+        "GEOCODE": "02020808013",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "ERO",
+        "LATITUDE": -7.414287,
+        "LONGITUDE": 144.315579,
+        "REGHH": 14,
+        "TOTPOP2000": 145,
+        "MALE2000": 82,
+        "FEMALE2000": 63,
+        "POP2008": 177,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020808013,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

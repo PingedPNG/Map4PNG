@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7098,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.23630499957608,
+          -4.1875659999709
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7098,
+        "CU_NAME": "MARINGEI",
+        "CU_NO": "001",
+        "GEOCODE": "14052015001",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "20",
+        "WARD_NO": "15",
+        "WARD_NAME": "MARINGEI",
+        "LATITUDE": -4.18915,
+        "LONGITUDE": 143.235066,
+        "REGHH": 54,
+        "TOTPOP2000": 268,
+        "MALE2000": 132,
+        "FEMALE2000": 136,
+        "POP2008": 319,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052015001,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

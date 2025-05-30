@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.15195900020774,
+          -5.46454299955974
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17110,
+        "CU_NAME": "ROPANDA (IKI  2)",
+        "CU_NO": "003",
+        "GEOCODE": "09050936003",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "36",
+        "WARD_NAME": "IKI 2",
+        "LATITUDE": -5.465476,
+        "LONGITUDE": 144.152292,
+        "REGHH": 42,
+        "TOTPOP2000": 185,
+        "MALE2000": 96,
+        "FEMALE2000": 89,
+        "POP2008": 225,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050936003,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

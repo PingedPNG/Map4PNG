@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12810,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.87097300010396,
+          -3.3937089997704675
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12810,
+        "CU_NAME": "KANAMARADAN",
+        "CU_NO": "006",
+        "GEOCODE": "17020618006",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "18",
+        "WARD_NAME": "MESSI",
+        "LATITUDE": -3.395097,
+        "LONGITUDE": 151.870024,
+        "REGHH": 44,
+        "TOTPOP2000": 242,
+        "MALE2000": 131,
+        "FEMALE2000": 111,
+        "POP2008": 304,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020618006,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12811,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.90515599994956,
+          -3.421633999709286
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12811,
+        "CU_NAME": "MESSI NO. 1 & 2",
+        "CU_NO": "016",
+        "GEOCODE": "17020618016",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "18",
+        "WARD_NAME": "MESSI",
+        "LATITUDE": -3.423022,
+        "LONGITUDE": 151.904207,
+        "REGHH": 90,
+        "TOTPOP2000": 466,
+        "MALE2000": 259,
+        "FEMALE2000": 207,
+        "POP2008": 587,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020618016,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.8652180000107,
+          -3.3895420000632157
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12812,
+        "CU_NAME": "KALUAN NO. 2",
+        "CU_NO": "024",
+        "GEOCODE": "17020618024",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "18",
+        "WARD_NAME": "MESSI",
+        "LATITUDE": -3.39093,
+        "LONGITUDE": 151.864268,
+        "REGHH": 39,
+        "TOTPOP2000": 200,
+        "MALE2000": 108,
+        "FEMALE2000": 92,
+        "POP2008": 251,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020618024,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.88406500039946,
+          -3.4049680000730973
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12813,
+        "CU_NAME": "KINIBAK PLTN",
+        "CU_NO": "511",
+        "GEOCODE": "17020618511",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "18",
+        "WARD_NAME": "MESSI",
+        "LATITUDE": -3.406356,
+        "LONGITUDE": 151.883116,
+        "REGHH": 9,
+        "TOTPOP2000": 46,
+        "MALE2000": 30,
+        "FEMALE2000": 16,
+        "POP2008": 56,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020618511,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

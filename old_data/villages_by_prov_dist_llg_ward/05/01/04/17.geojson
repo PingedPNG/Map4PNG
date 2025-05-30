@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9698,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8694749995716,
+          -10.232068999684543
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9698,
+        "CU_NAME": "EAST CAPE",
+        "CU_NO": "003",
+        "GEOCODE": "05010417003",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "17",
+        "WARD_NAME": "EAST CAPE",
+        "LATITUDE": -10.225398,
+        "LONGITUDE": 150.873653,
+        "REGHH": 70,
+        "TOTPOP2000": 371,
+        "MALE2000": 205,
+        "FEMALE2000": 166,
+        "POP2008": 451,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010417003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9699,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8720460003227,
+          -10.229502000017249
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9699,
+        "CU_NAME": "EAST CAPE MISS/STN",
+        "CU_NO": "401",
+        "GEOCODE": "05010417401",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "17",
+        "WARD_NAME": "EAST CAPE",
+        "LATITUDE": -10.22741,
+        "LONGITUDE": 150.874771,
+        "REGHH": 8,
+        "TOTPOP2000": 29,
+        "MALE2000": 11,
+        "FEMALE2000": 18,
+        "POP2008": 37,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010417401,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

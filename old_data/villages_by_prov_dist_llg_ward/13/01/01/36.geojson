@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7923,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.41056399972888,
+          -4.4632529996262065
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7923,
+        "CU_NAME": "MEDEBUR",
+        "CU_NO": "014",
+        "GEOCODE": "13010136014",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "36",
+        "WARD_NAME": "MEDEBUR",
+        "LATITUDE": -4.464646,
+        "LONGITUDE": 145.409523,
+        "REGHH": 34,
+        "TOTPOP2000": 221,
+        "MALE2000": 122,
+        "FEMALE2000": 99,
+        "POP2008": 273,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010136014,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

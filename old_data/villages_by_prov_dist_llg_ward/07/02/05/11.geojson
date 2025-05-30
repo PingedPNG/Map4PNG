@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19524,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.97370499978592,
+          -6.151681000377835
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19524,
+        "CU_NAME": "TIEWE (YOMBI)",
+        "CU_NO": "029",
+        "GEOCODE": "07020511029",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "IOMBI 1",
+        "LATITUDE": -6.155932,
+        "LONGITUDE": 143.972654,
+        "REGHH": 55,
+        "TOTPOP2000": 267,
+        "MALE2000": 137,
+        "FEMALE2000": 130,
+        "POP2008": 371,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020511029,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19525,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9732999999951,
+          -6.1526069999130755
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19525,
+        "CU_NAME": "ALOPUL & KALEPAPENA",
+        "CU_NO": "030",
+        "GEOCODE": "07020511030",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "IOMBI 1",
+        "LATITUDE": -6.155932,
+        "LONGITUDE": 143.972654,
+        "REGHH": 54,
+        "TOTPOP2000": 275,
+        "MALE2000": 149,
+        "FEMALE2000": 126,
+        "POP2008": 383,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020511030,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19526,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.97196799972346,
+          -6.152615000281969
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19526,
+        "CU_NAME": "PONDEAPU",
+        "CU_NO": "031",
+        "GEOCODE": "07020511031",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "IOMBI 1",
+        "LATITUDE": -6.155932,
+        "LONGITUDE": 143.972654,
+        "REGHH": 54,
+        "TOTPOP2000": 255,
+        "MALE2000": 129,
+        "FEMALE2000": 126,
+        "POP2008": 355,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020511031,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19527,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9714510001636,
+          -6.151796000285117
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19527,
+        "CU_NAME": "PUPUL & KARULU",
+        "CU_NO": "032",
+        "GEOCODE": "07020511032",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "IOMBI 1",
+        "LATITUDE": -6.155932,
+        "LONGITUDE": 143.972654,
+        "REGHH": 8,
+        "TOTPOP2000": 46,
+        "MALE2000": 24,
+        "FEMALE2000": 22,
+        "POP2008": 63,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020511032,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

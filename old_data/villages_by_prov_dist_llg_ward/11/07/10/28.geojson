@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30621,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.40670827966346,
+          -6.622508879880854
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30621,
+        "CU_NAME": "AGIBU",
+        "CU_NO": "002",
+        "GEOCODE": "11071028002",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "28",
+        "WARD_NAME": "ASARUPI",
+        "LATITUDE": -6.622509,
+        "LONGITUDE": 145.406708,
+        "REGHH": 30,
+        "TOTPOP2000": 121,
+        "MALE2000": 59,
+        "FEMALE2000": 62,
+        "POP2008": 145,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30622,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38483432044757,
+          -6.615882089586705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30622,
+        "CU_NAME": "UWAI-AGIBU",
+        "CU_NO": "013",
+        "GEOCODE": "11071028013",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "28",
+        "WARD_NAME": "ASARUPI",
+        "LATITUDE": -6.615882,
+        "LONGITUDE": 145.384834,
+        "REGHH": 59,
+        "TOTPOP2000": 209,
+        "MALE2000": 117,
+        "FEMALE2000": 92,
+        "POP2008": 249,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30623,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.36318500018763,
+          -6.633488969840016
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30623,
+        "CU_NAME": "ELI-ILABA",
+        "CU_NO": "015",
+        "GEOCODE": "11071028015",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "28",
+        "WARD_NAME": "ASARUPI",
+        "LATITUDE": -6.633489,
+        "LONGITUDE": 145.363185,
+        "REGHH": 50,
+        "TOTPOP2000": 228,
+        "MALE2000": 118,
+        "FEMALE2000": 110,
+        "POP2008": 271,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30624,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.36823364037025,
+          -6.637908689834148
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30624,
+        "CU_NAME": "ASARUPISA",
+        "CU_NO": "020",
+        "GEOCODE": "11071028020",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "28",
+        "WARD_NAME": "ASARUPI",
+        "LATITUDE": -6.637909,
+        "LONGITUDE": 145.368234,
+        "REGHH": 90,
+        "TOTPOP2000": 430,
+        "MALE2000": 211,
+        "FEMALE2000": 219,
+        "POP2008": 512,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30625,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3648838402171,
+          -6.622337970021249
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30625,
+        "CU_NAME": "WAIYANAVI",
+        "CU_NO": "038",
+        "GEOCODE": "11071028038",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "28",
+        "WARD_NAME": "ASARUPI",
+        "LATITUDE": -6.622338,
+        "LONGITUDE": 145.364884,
+        "REGHH": 36,
+        "TOTPOP2000": 200,
+        "MALE2000": 94,
+        "FEMALE2000": 106,
+        "POP2008": 238,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

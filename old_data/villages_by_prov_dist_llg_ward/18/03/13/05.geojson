@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4978,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.2307309997359,
+          -4.58556400037827
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4978,
+        "CU_NAME": "SANDAM",
+        "CU_NO": "007",
+        "GEOCODE": "18031305007",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "05",
+        "WARD_NAME": "SANDAM",
+        "LATITUDE": -4.586968,
+        "LONGITUDE": 152.229786,
+        "REGHH": 55,
+        "TOTPOP2000": 307,
+        "MALE2000": 167,
+        "FEMALE2000": 140,
+        "POP2008": 374,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031305007,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

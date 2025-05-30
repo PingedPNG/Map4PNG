@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.13659599990558,
+          -8.599194000402747
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10147,
+        "CU_NAME": "OBULAKU",
+        "CU_NO": "001",
+        "GEOCODE": "05031223001",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "23",
+        "WARD_NAME": "OBULAKU",
+        "LATITUDE": -8.600646,
+        "LONGITUDE": 151.135626,
+        "REGHH": 65,
+        "TOTPOP2000": 282,
+        "MALE2000": 155,
+        "FEMALE2000": 127,
+        "POP2008": 343,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031223001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.13238199982948,
+          -8.616413000359614
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10148,
+        "CU_NAME": "WAWELA",
+        "CU_NO": "002",
+        "GEOCODE": "05031223002",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "23",
+        "WARD_NAME": "OBULAKU",
+        "LATITUDE": -8.621927,
+        "LONGITUDE": 151.126373,
+        "REGHH": 55,
+        "TOTPOP2000": 157,
+        "MALE2000": 83,
+        "FEMALE2000": 74,
+        "POP2008": 191,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031223002,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10149,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.13992399959295,
+          -8.581324000102484
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10149,
+        "CU_NAME": "KWABULA",
+        "CU_NO": "003",
+        "GEOCODE": "05031223003",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "23",
+        "WARD_NAME": "OBULAKU",
+        "LATITUDE": -8.582775,
+        "LONGITUDE": 151.138953,
+        "REGHH": 50,
+        "TOTPOP2000": 173,
+        "MALE2000": 88,
+        "FEMALE2000": 85,
+        "POP2008": 211,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031223003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1342020001223,
+          -8.612012999800072
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10150,
+        "CU_NAME": "OBULAKU COMM SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "05031223401",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "23",
+        "WARD_NAME": "OBULAKU",
+        "LATITUDE": -8.613465,
+        "LONGITUDE": 151.133232,
+        "REGHH": 3,
+        "TOTPOP2000": 19,
+        "MALE2000": 7,
+        "FEMALE2000": 12,
+        "POP2008": 19,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031223401,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

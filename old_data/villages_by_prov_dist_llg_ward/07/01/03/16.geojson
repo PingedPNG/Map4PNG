@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19321,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.91162100020904,
+          -6.244844999696909
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19321,
+        "CU_NAME": "YAMALA",
+        "CU_NO": "023",
+        "GEOCODE": "07010316023",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "16",
+        "WARD_NAME": "KUMBAME 1",
+        "LATITUDE": -6.251644,
+        "LONGITUDE": 143.912184,
+        "REGHH": 16,
+        "TOTPOP2000": 65,
+        "MALE2000": 32,
+        "FEMALE2000": 33,
+        "POP2008": 90,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010316023,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19322,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.91205300034574,
+          -6.250223000391088
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19322,
+        "CU_NAME": "RAKIANDA",
+        "CU_NO": "024",
+        "GEOCODE": "07010316024",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "16",
+        "WARD_NAME": "KUMBAME 1",
+        "LATITUDE": -6.251644,
+        "LONGITUDE": 143.912184,
+        "REGHH": 9,
+        "TOTPOP2000": 58,
+        "MALE2000": 28,
+        "FEMALE2000": 30,
+        "POP2008": 81,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010316024,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19323,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.90922899961868,
+          -6.2492969999565275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19323,
+        "CU_NAME": "YAMORENDA",
+        "CU_NO": "025",
+        "GEOCODE": "07010316025",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "16",
+        "WARD_NAME": "KUMBAME 1",
+        "LATITUDE": -6.251644,
+        "LONGITUDE": 143.912184,
+        "REGHH": 23,
+        "TOTPOP2000": 138,
+        "MALE2000": 68,
+        "FEMALE2000": 70,
+        "POP2008": 192,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010316025,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.90907999994215,
+          -6.246608000059098
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19324,
+        "CU_NAME": "RINA",
+        "CU_NO": "026",
+        "GEOCODE": "07010316026",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "16",
+        "WARD_NAME": "KUMBAME 1",
+        "LATITUDE": -6.251644,
+        "LONGITUDE": 143.912184,
+        "REGHH": 10,
+        "TOTPOP2000": 49,
+        "MALE2000": 24,
+        "FEMALE2000": 25,
+        "POP2008": 67,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010316026,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19325,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.91304200008835,
+          -6.247477999709872
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19325,
+        "CU_NAME": "REMBARE",
+        "CU_NO": "027",
+        "GEOCODE": "07010316027",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "16",
+        "WARD_NAME": "KUMBAME 1",
+        "LATITUDE": -6.251644,
+        "LONGITUDE": 143.912184,
+        "REGHH": 4,
+        "TOTPOP2000": 24,
+        "MALE2000": 11,
+        "FEMALE2000": 13,
+        "POP2008": 32,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010316027,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

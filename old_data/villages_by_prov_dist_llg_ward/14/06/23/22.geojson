@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7253,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.31161700032442,
+          -3.6521639997687316
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7253,
+        "CU_NAME": "KIARIVU",
+        "CU_NO": "011",
+        "GEOCODE": "14062322011",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "23",
+        "WARD_NO": "22",
+        "WARD_NAME": "KIARIVU",
+        "LATITUDE": -3.653744,
+        "LONGITUDE": 143.310381,
+        "REGHH": 89,
+        "TOTPOP2000": 436,
+        "MALE2000": 200,
+        "FEMALE2000": 236,
+        "POP2008": 519,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062322011,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

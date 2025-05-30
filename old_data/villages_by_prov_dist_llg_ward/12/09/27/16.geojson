@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12308,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.01637299981417,
+          -5.768218000260447
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12308,
+        "CU_NAME": "GAURU",
+        "CU_NO": "012",
+        "GEOCODE": "12092716012",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "27",
+        "WARD_NO": "16",
+        "WARD_NAME": "GUNE",
+        "LATITUDE": -5.76963,
+        "LONGITUDE": 148.015365,
+        "REGHH": 161,
+        "TOTPOP2000": 961,
+        "MALE2000": 494,
+        "FEMALE2000": 467,
+        "POP2008": 1199,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092716012,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0361109999228,
+          -5.754018000130543
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12309,
+        "CU_NAME": "YANGLA",
+        "CU_NO": "035",
+        "GEOCODE": "12092716035",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "27",
+        "WARD_NO": "16",
+        "WARD_NAME": "GUNE",
+        "LATITUDE": -5.75543,
+        "LONGITUDE": 148.035103,
+        "REGHH": 47,
+        "TOTPOP2000": 294,
+        "MALE2000": 151,
+        "FEMALE2000": 143,
+        "POP2008": 366,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092716035,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

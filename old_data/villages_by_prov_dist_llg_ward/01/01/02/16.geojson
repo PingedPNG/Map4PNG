@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15082,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71617600022228,
+          -8.025147999680371
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15082,
+        "CU_NAME": "DARAWI",
+        "CU_NO": "010",
+        "GEOCODE": "01010216010",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "16",
+        "WARD_NAME": "PIRUPIRU",
+        "LATITUDE": -8.026575,
+        "LONGITUDE": 143.715106,
+        "REGHH": 7,
+        "TOTPOP2000": 29,
+        "MALE2000": 17,
+        "FEMALE2000": 12,
+        "POP2008": 37,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010216010,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15083,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.72338599996397,
+          -8.030175000375948
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15083,
+        "CU_NAME": "PIRUPIRU NO. 1",
+        "CU_NO": "014",
+        "GEOCODE": "01010216014",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "16",
+        "WARD_NAME": "PIRUPIRU",
+        "LATITUDE": -8.034584,
+        "LONGITUDE": 143.717891,
+        "REGHH": 28,
+        "TOTPOP2000": 172,
+        "MALE2000": 90,
+        "FEMALE2000": 82,
+        "POP2008": 223,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010216014,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15084,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7268210000891,
+          -8.038354999883268
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15084,
+        "CU_NAME": "PIRUPIRU NO. 2",
+        "CU_NO": "015",
+        "GEOCODE": "01010216015",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "16",
+        "WARD_NAME": "PIRUPIRU",
+        "LATITUDE": -8.039782,
+        "LONGITUDE": 143.725751,
+        "REGHH": 20,
+        "TOTPOP2000": 83,
+        "MALE2000": 48,
+        "FEMALE2000": 35,
+        "POP2008": 107,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010216015,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15085,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.69907100012665,
+          -8.019902999723627
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15085,
+        "CU_NAME": "SIBARA",
+        "CU_NO": "016",
+        "GEOCODE": "01010216016",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "16",
+        "WARD_NAME": "PIRUPIRU",
+        "LATITUDE": -8.02133,
+        "LONGITUDE": 143.698,
+        "REGHH": 4,
+        "TOTPOP2000": 41,
+        "MALE2000": 21,
+        "FEMALE2000": 20,
+        "POP2008": 52,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010216016,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

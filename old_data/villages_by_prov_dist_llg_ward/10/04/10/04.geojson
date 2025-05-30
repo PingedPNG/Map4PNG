@@ -1,0 +1,261 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14392,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8832140003259,
+          -5.918583999751718
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14392,
+        "CU_NAME": "KENDINE",
+        "CU_NO": "002",
+        "GEOCODE": "10041004002",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "KENDINE",
+        "LATITUDE": -5.919992,
+        "LONGITUDE": 144.882163,
+        "REGHH": 25,
+        "TOTPOP2000": 135,
+        "MALE2000": 78,
+        "FEMALE2000": 57,
+        "POP2008": 157,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041004002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14393,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.92250199996738,
+          -5.935580000216817
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14393,
+        "CU_NAME": "KAMATARU",
+        "CU_NO": "003",
+        "GEOCODE": "10041004003",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "KENDINE",
+        "LATITUDE": -5.936989,
+        "LONGITUDE": 144.921452,
+        "REGHH": 19,
+        "TOTPOP2000": 89,
+        "MALE2000": 53,
+        "FEMALE2000": 36,
+        "POP2008": 105,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041004003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14394,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.87480700024298,
+          -5.918187000329738
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14394,
+        "CU_NAME": "BINAGL",
+        "CU_NO": "004",
+        "GEOCODE": "10041004004",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "KENDINE",
+        "LATITUDE": -5.919595,
+        "LONGITUDE": 144.873756,
+        "REGHH": 76,
+        "TOTPOP2000": 311,
+        "MALE2000": 176,
+        "FEMALE2000": 135,
+        "POP2008": 359,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041004004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14395,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9010180002806,
+          -5.935316999779673
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14395,
+        "CU_NAME": "SIE MOGL",
+        "CU_NO": "005",
+        "GEOCODE": "10041004005",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "KENDINE",
+        "LATITUDE": -5.936726,
+        "LONGITUDE": 144.899967,
+        "REGHH": 90,
+        "TOTPOP2000": 420,
+        "MALE2000": 214,
+        "FEMALE2000": 206,
+        "POP2008": 485,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041004005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14396,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.93178199983947,
+          -5.934707999574471
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14396,
+        "CU_NAME": "BOGL NIGLE",
+        "CU_NO": "006",
+        "GEOCODE": "10041004006",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "KENDINE",
+        "LATITUDE": -5.936117,
+        "LONGITUDE": 144.930732,
+        "REGHH": 17,
+        "TOTPOP2000": 83,
+        "MALE2000": 44,
+        "FEMALE2000": 39,
+        "POP2008": 98,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041004006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14397,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.91819800023757,
+          -5.935089000057246
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14397,
+        "CU_NAME": "DAN NIGLE",
+        "CU_NO": "007",
+        "GEOCODE": "10041004007",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "KENDINE",
+        "LATITUDE": -5.936498,
+        "LONGITUDE": 144.917148,
+        "REGHH": 42,
+        "TOTPOP2000": 202,
+        "MALE2000": 105,
+        "FEMALE2000": 97,
+        "POP2008": 234,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041004007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14398,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.89438800030598,
+          -5.931782000438943
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14398,
+        "CU_NAME": "BURBA",
+        "CU_NO": "008",
+        "GEOCODE": "10041004008",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "KENDINE",
+        "LATITUDE": -5.933191,
+        "LONGITUDE": 144.893337,
+        "REGHH": 23,
+        "TOTPOP2000": 135,
+        "MALE2000": 70,
+        "FEMALE2000": 65,
+        "POP2008": 157,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041004008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14399,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8818850001927,
+          -5.9172830000104
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14399,
+        "CU_NAME": "KENDINE H/C",
+        "CU_NO": "402",
+        "GEOCODE": "10041004402",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "KENDINE",
+        "LATITUDE": -5.919702,
+        "LONGITUDE": 144.881334,
+        "REGHH": 25,
+        "TOTPOP2000": 113,
+        "MALE2000": 58,
+        "FEMALE2000": 55,
+        "POP2008": 129,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041004402,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

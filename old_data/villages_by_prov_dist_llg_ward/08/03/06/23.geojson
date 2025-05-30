@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5600,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4705770004283,
+          -5.477329000133182
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5600,
+        "CU_NAME": "WANAPOS",
+        "CU_NO": "007",
+        "GEOCODE": "08030623007",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "WANAPOS",
+        "LATITUDE": -5.480309,
+        "LONGITUDE": 143.469874,
+        "REGHH": 70,
+        "TOTPOP2000": 443,
+        "MALE2000": 204,
+        "FEMALE2000": 239,
+        "POP2008": 557,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030623007,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5601,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.46874999981276,
+          -5.474961999796392
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5601,
+        "CU_NAME": "SAIMANDA",
+        "CU_NO": "008",
+        "GEOCODE": "08030623008",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "WANAPOS",
+        "LATITUDE": -5.476363,
+        "LONGITUDE": 143.467682,
+        "REGHH": 71,
+        "TOTPOP2000": 539,
+        "MALE2000": 274,
+        "FEMALE2000": 265,
+        "POP2008": 679,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030623008,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5602,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.49661000035132,
+          -5.482684999812818
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5602,
+        "CU_NAME": "LATULAM",
+        "CU_NO": "009",
+        "GEOCODE": "08030623009",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "WANAPOS",
+        "LATITUDE": -5.484086,
+        "LONGITUDE": 143.495542,
+        "REGHH": 21,
+        "TOTPOP2000": 130,
+        "MALE2000": 70,
+        "FEMALE2000": 60,
+        "POP2008": 163,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030623009,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

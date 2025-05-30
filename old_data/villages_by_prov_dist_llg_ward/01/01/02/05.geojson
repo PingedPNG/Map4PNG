@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15054,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.17816400016852,
+          -7.66550299986352
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15054,
+        "CU_NAME": "BIBISA",
+        "CU_NO": "002",
+        "GEOCODE": "01010205002",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "BIBISA",
+        "LATITUDE": -7.666925,
+        "LONGITUDE": 143.177088,
+        "REGHH": 21,
+        "TOTPOP2000": 152,
+        "MALE2000": 66,
+        "FEMALE2000": 86,
+        "POP2008": 197,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010205002,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

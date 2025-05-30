@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7867,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9382640001835,
+          -4.454904000419219
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7867,
+        "CU_NAME": "SEREKEN 2",
+        "CU_NO": "002",
+        "GEOCODE": "13010114002",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "14",
+        "WARD_NAME": "SEREKEN",
+        "LATITUDE": -4.456297,
+        "LONGITUDE": 144.937216,
+        "REGHH": 68,
+        "TOTPOP2000": 349,
+        "MALE2000": 177,
+        "FEMALE2000": 172,
+        "POP2008": 431,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010114002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7868,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.93143299993312,
+          -4.4535740002398825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7868,
+        "CU_NAME": "SEREKEN 1",
+        "CU_NO": "015",
+        "GEOCODE": "13010114015",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "14",
+        "WARD_NAME": "SEREKEN",
+        "LATITUDE": -4.450886,
+        "LONGITUDE": 144.925826,
+        "REGHH": 52,
+        "TOTPOP2000": 283,
+        "MALE2000": 144,
+        "FEMALE2000": 139,
+        "POP2008": 351,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010114015,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21253,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.81307100002664,
+          -6.280373999560368
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21253,
+        "CU_NAME": "GUNIGAMO",
+        "CU_NO": "001",
+        "GEOCODE": "07072312001",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "12",
+        "WARD_NAME": "GUNIGAMO",
+        "LATITUDE": -6.28295,
+        "LONGITUDE": 142.815542,
+        "REGHH": 17,
+        "TOTPOP2000": 92,
+        "MALE2000": 58,
+        "FEMALE2000": 34,
+        "POP2008": 128,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072312001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21254,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.81305900037262,
+          -6.276767999643425
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21254,
+        "CU_NAME": "HEAMONA",
+        "CU_NO": "002",
+        "GEOCODE": "07072312002",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "12",
+        "WARD_NAME": "GUNIGAMO",
+        "LATITUDE": -6.28295,
+        "LONGITUDE": 142.815542,
+        "REGHH": 8,
+        "TOTPOP2000": 47,
+        "MALE2000": 25,
+        "FEMALE2000": 22,
+        "POP2008": 64,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072312002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21255,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8172080001492,
+          -6.275921000153971
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21255,
+        "CU_NAME": "GEBI",
+        "CU_NO": "003",
+        "GEOCODE": "07072312003",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "12",
+        "WARD_NAME": "GUNIGAMO",
+        "LATITUDE": -6.28295,
+        "LONGITUDE": 142.815542,
+        "REGHH": 11,
+        "TOTPOP2000": 55,
+        "MALE2000": 26,
+        "FEMALE2000": 29,
+        "POP2008": 76,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072312003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21256,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.81804900026123,
+          -6.278693000281692
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21256,
+        "CU_NAME": "GULESA",
+        "CU_NO": "004",
+        "GEOCODE": "07072312004",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "12",
+        "WARD_NAME": "GUNIGAMO",
+        "LATITUDE": -6.28295,
+        "LONGITUDE": 142.815542,
+        "REGHH": 22,
+        "TOTPOP2000": 116,
+        "MALE2000": 63,
+        "FEMALE2000": 53,
+        "POP2008": 162,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072312004,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

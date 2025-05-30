@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1539,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4858790004156,
+          -8.400713999851178
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1539,
+        "CU_NAME": "AMEIAKA",
+        "CU_NO": "001",
+        "GEOCODE": "03031012001",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "AMEIAKA",
+        "LATITUDE": -8.402152,
+        "LONGITUDE": 146.484844,
+        "REGHH": 48,
+        "TOTPOP2000": 309,
+        "MALE2000": 153,
+        "FEMALE2000": 156,
+        "POP2008": 370,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031012001,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1540,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.46865900041257,
+          -8.403161000279908
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1540,
+        "CU_NAME": "PIUNGA",
+        "CU_NO": "008",
+        "GEOCODE": "03031012008",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "AMEIAKA",
+        "LATITUDE": -8.4046,
+        "LONGITUDE": 146.467622,
+        "REGHH": 44,
+        "TOTPOP2000": 262,
+        "MALE2000": 139,
+        "FEMALE2000": 123,
+        "POP2008": 314,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031012008,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1541,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.50943000009454,
+          -8.38718500008764
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1541,
+        "CU_NAME": "AKUFA STATION",
+        "CU_NO": "401",
+        "GEOCODE": "03031012401",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "AMEIAKA",
+        "LATITUDE": -8.388622,
+        "LONGITUDE": 146.508395,
+        "REGHH": 19,
+        "TOTPOP2000": 122,
+        "MALE2000": 52,
+        "FEMALE2000": 70,
+        "POP2008": 146,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031012401,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5160549998384,
+          -8.393656999970517
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1542,
+        "CU_NAME": "AKUFA SETTLEMENT",
+        "CU_NO": "405",
+        "GEOCODE": "03031012405",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "AMEIAKA",
+        "LATITUDE": -8.387676,
+        "LONGITUDE": 146.517845,
+        "REGHH": 38,
+        "TOTPOP2000": 269,
+        "MALE2000": 131,
+        "FEMALE2000": 138,
+        "POP2008": 322,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031012405,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1543,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.521307000118,
+          -8.375977000338253
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1543,
+        "CU_NAME": "OLIBE",
+        "CU_NO": "406",
+        "GEOCODE": "03031012406",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "AMEIAKA",
+        "LATITUDE": -8.373455,
+        "LONGITUDE": 146.519283,
+        "REGHH": 11,
+        "TOTPOP2000": 70,
+        "MALE2000": 39,
+        "FEMALE2000": 31,
+        "POP2008": 86,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031012406,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

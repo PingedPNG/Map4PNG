@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13947,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1553289998335,
+          -6.268554000366748
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13947,
+        "CU_NAME": "YORORI",
+        "CU_NO": "007",
+        "GEOCODE": "10010212007",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "YORORI",
+        "LATITUDE": -6.269967,
+        "LONGITUDE": 145.154281,
+        "REGHH": 57,
+        "TOTPOP2000": 224,
+        "MALE2000": 115,
+        "FEMALE2000": 109,
+        "POP2008": 257,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010212007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13948,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.15968099997826,
+          -6.269191000064552
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13948,
+        "CU_NAME": "DAME",
+        "CU_NO": "008",
+        "GEOCODE": "10010212008",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "YORORI",
+        "LATITUDE": -6.270604,
+        "LONGITUDE": 145.158633,
+        "REGHH": 10,
+        "TOTPOP2000": 43,
+        "MALE2000": 20,
+        "FEMALE2000": 23,
+        "POP2008": 51,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010212008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13949,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.16470599968216,
+          -6.251803999554909
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13949,
+        "CU_NAME": "KUWE",
+        "CU_NO": "009",
+        "GEOCODE": "10010212009",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "YORORI",
+        "LATITUDE": -6.253216,
+        "LONGITUDE": 145.163658,
+        "REGHH": 65,
+        "TOTPOP2000": 239,
+        "MALE2000": 129,
+        "FEMALE2000": 110,
+        "POP2008": 276,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010212009,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13950,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.16470399958996,
+          -6.250052999746117
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13950,
+        "CU_NAME": "KUWE AID POST",
+        "CU_NO": "402",
+        "GEOCODE": "10010212402",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "YORORI",
+        "LATITUDE": -6.251465,
+        "LONGITUDE": 145.163656,
+        "REGHH": 23,
+        "TOTPOP2000": 69,
+        "MALE2000": 39,
+        "FEMALE2000": 30,
+        "POP2008": 77,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010212402,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

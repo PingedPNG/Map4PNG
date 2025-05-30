@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2284052559978,
+          -9.936570147594182
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10298,
+        "CU_NAME": "DAWADA",
+        "CU_NO": "005",
+        "GEOCODE": "05041612005",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "16",
+        "WARD_NO": "12",
+        "WARD_NAME": "DAWADA",
+        "LATITUDE": -9.936529,
+        "LONGITUDE": 151.228941,
+        "REGHH": 80,
+        "TOTPOP2000": 375,
+        "MALE2000": 191,
+        "FEMALE2000": 184,
+        "POP2008": 457,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041612005,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

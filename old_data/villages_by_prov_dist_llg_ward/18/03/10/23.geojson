@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4843,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.65541299971028,
+          -5.366079999592273
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4843,
+        "CU_NAME": "PATURU",
+        "CU_NO": "012",
+        "GEOCODE": "18031023012",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "23",
+        "WARD_NAME": "PARAKAMAN",
+        "LATITUDE": -5.367494,
+        "LONGITUDE": 151.654458,
+        "REGHH": 29,
+        "TOTPOP2000": 153,
+        "MALE2000": 79,
+        "FEMALE2000": 74,
+        "POP2008": 186,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031023012,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4844,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6346229996518,
+          -5.350091999745928
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4844,
+        "CU_NAME": "TETAL",
+        "CU_NO": "013",
+        "GEOCODE": "18031023013",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "23",
+        "WARD_NAME": "PARAKAMAN",
+        "LATITUDE": -5.348922,
+        "LONGITUDE": 151.635481,
+        "REGHH": 31,
+        "TOTPOP2000": 131,
+        "MALE2000": 67,
+        "FEMALE2000": 64,
+        "POP2008": 160,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031023013,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4845,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.66336400034845,
+          -5.343671000416293
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4845,
+        "CU_NAME": "PARAKAMAN",
+        "CU_NO": "015",
+        "GEOCODE": "18031023015",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "23",
+        "WARD_NAME": "PARAKAMAN",
+        "LATITUDE": -5.345084,
+        "LONGITUDE": 151.662409,
+        "REGHH": 36,
+        "TOTPOP2000": 243,
+        "MALE2000": 120,
+        "FEMALE2000": 123,
+        "POP2008": 296,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031023015,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

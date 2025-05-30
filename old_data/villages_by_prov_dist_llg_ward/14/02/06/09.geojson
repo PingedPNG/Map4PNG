@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6351,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5513149995876,
+          -4.682393999683313
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6351,
+        "CU_NAME": "YIMAS 1",
+        "CU_NO": "008",
+        "GEOCODE": "14020609008",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "YIMAS",
+        "LATITUDE": -4.680562,
+        "LONGITUDE": 143.548847,
+        "REGHH": 17,
+        "TOTPOP2000": 126,
+        "MALE2000": 61,
+        "FEMALE2000": 65,
+        "POP2008": 150,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020609008,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6352,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4894480001252,
+          -4.6132360003410895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6352,
+        "CU_NAME": "YIMAS 2",
+        "CU_NO": "011",
+        "GEOCODE": "14020609011",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "YIMAS",
+        "LATITUDE": -4.612625,
+        "LONGITUDE": 143.487474,
+        "REGHH": 24,
+        "TOTPOP2000": 225,
+        "MALE2000": 111,
+        "FEMALE2000": 114,
+        "POP2008": 268,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020609011,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

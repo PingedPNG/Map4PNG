@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18831,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.21469599992054,
+          -3.6613160000333096
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18831,
+        "CU_NAME": "BIBRIARI",
+        "CU_NO": "003",
+        "GEOCODE": "15041201003",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BIBRIARI",
+        "LATITUDE": -3.662695,
+        "LONGITUDE": 141.213604,
+        "REGHH": 17,
+        "TOTPOP2000": 93,
+        "MALE2000": 50,
+        "FEMALE2000": 43,
+        "POP2008": 111,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041201003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18832,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.21964899990144,
+          -3.6626719996130532
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18832,
+        "CU_NAME": "BIWAN (BIBRIARI)",
+        "CU_NO": "005",
+        "GEOCODE": "15041201005",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BIBRIARI",
+        "LATITUDE": -3.664051,
+        "LONGITUDE": 141.218557,
+        "REGHH": 43,
+        "TOTPOP2000": 226,
+        "MALE2000": 129,
+        "FEMALE2000": 97,
+        "POP2008": 273,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041201005,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18833,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.29084999992767,
+          -3.6243260002446505
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18833,
+        "CU_NAME": "NAI 1",
+        "CU_NO": "010",
+        "GEOCODE": "15041201010",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BIBRIARI",
+        "LATITUDE": -3.624291,
+        "LONGITUDE": 141.289758,
+        "REGHH": 12,
+        "TOTPOP2000": 77,
+        "MALE2000": 41,
+        "FEMALE2000": 36,
+        "POP2008": 93,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041201010,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18834,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.20583100030046,
+          -3.6836569996707453
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18834,
+        "CU_NAME": "SENAGI",
+        "CU_NO": "012",
+        "GEOCODE": "15041201012",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BIBRIARI",
+        "LATITUDE": -3.681265,
+        "LONGITUDE": 141.20755,
+        "REGHH": 20,
+        "TOTPOP2000": 94,
+        "MALE2000": 54,
+        "FEMALE2000": 40,
+        "POP2008": 112,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041201012,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18835,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.230837999674,
+          -3.6684659997060862
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18835,
+        "CU_NAME": "WAMU",
+        "CU_NO": "014",
+        "GEOCODE": "15041201014",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BIBRIARI",
+        "LATITUDE": -3.669845,
+        "LONGITUDE": 141.229746,
+        "REGHH": 22,
+        "TOTPOP2000": 102,
+        "MALE2000": 50,
+        "FEMALE2000": 52,
+        "POP2008": 124,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041201014,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

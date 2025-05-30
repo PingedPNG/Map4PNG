@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18486,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.13739499987946,
+          -3.4356130004395595
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18486,
+        "CU_NAME": "TOLGETE",
+        "CU_NO": "023",
+        "GEOCODE": "15010414023",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "WIGOTE",
+        "LATITUDE": -3.436991,
+        "LONGITUDE": 142.136314,
+        "REGHH": 41,
+        "TOTPOP2000": 207,
+        "MALE2000": 96,
+        "FEMALE2000": 111,
+        "POP2008": 250,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010414023,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18487,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.15471199985893,
+          -3.435545000001696
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18487,
+        "CU_NAME": "WIGOTE",
+        "CU_NO": "028",
+        "GEOCODE": "15010414028",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "WIGOTE",
+        "LATITUDE": -3.43978,
+        "LONGITUDE": 142.147962,
+        "REGHH": 69,
+        "TOTPOP2000": 370,
+        "MALE2000": 181,
+        "FEMALE2000": 189,
+        "POP2008": 447,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010414028,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29963,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.88996148033812,
+          -6.501705839852605
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29963,
+        "CU_NAME": "TOTONA",
+        "CU_NO": "020",
+        "GEOCODE": "11040533020",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "33",
+        "WARD_NAME": "TONTONA",
+        "LATITUDE": -6.501706,
+        "LONGITUDE": 145.889961,
+        "REGHH": 56,
+        "TOTPOP2000": 289,
+        "MALE2000": 146,
+        "FEMALE2000": 143,
+        "POP2008": 343,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29964,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.90935539983195,
+          -6.4989350097428655
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29964,
+        "CU_NAME": "TONTAINA",
+        "CU_NO": "022",
+        "GEOCODE": "11040533022",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "33",
+        "WARD_NAME": "TONTONA",
+        "LATITUDE": -6.498935,
+        "LONGITUDE": 145.909355,
+        "REGHH": 101,
+        "TOTPOP2000": 619,
+        "MALE2000": 311,
+        "FEMALE2000": 308,
+        "POP2008": 738,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29965,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8645519597053,
+          -6.384067559969878
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29965,
+        "CU_NAME": "UHA'A",
+        "CU_NO": "024",
+        "GEOCODE": "11040533024",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "33",
+        "WARD_NAME": "TONTONA",
+        "LATITUDE": -6.384068,
+        "LONGITUDE": 145.864552,
+        "REGHH": 32,
+        "TOTPOP2000": 201,
+        "MALE2000": 89,
+        "FEMALE2000": 112,
+        "POP2008": 240,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29966,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.83331763989725,
+          -6.338989529842877
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29966,
+        "CU_NAME": "EBC BARABUNDORA",
+        "CU_NO": "401",
+        "GEOCODE": "11040533401",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "33",
+        "WARD_NAME": "TONTONA",
+        "LATITUDE": -6.33899,
+        "LONGITUDE": 145.833318,
+        "REGHH": 13,
+        "TOTPOP2000": 61,
+        "MALE2000": 11,
+        "FEMALE2000": 50,
+        "POP2008": 69,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

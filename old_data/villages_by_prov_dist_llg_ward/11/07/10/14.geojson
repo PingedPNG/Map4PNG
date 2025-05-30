@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30544,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57873571957782,
+          -6.39238041002784
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30544,
+        "CU_NAME": "ANUMPBARU 2",
+        "CU_NO": "009",
+        "GEOCODE": "11071014009",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "AFARU",
+        "LATITUDE": -6.39238,
+        "LONGITUDE": 145.578736,
+        "REGHH": 99,
+        "TOTPOP2000": 450,
+        "MALE2000": 233,
+        "FEMALE2000": 217,
+        "POP2008": 536,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30545,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5973819202395,
+          -6.38349101989462
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30545,
+        "CU_NAME": "KOKOPI",
+        "CU_NO": "023",
+        "GEOCODE": "11071014023",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "AFARU",
+        "LATITUDE": -6.383491,
+        "LONGITUDE": 145.597382,
+        "REGHH": 84,
+        "TOTPOP2000": 409,
+        "MALE2000": 210,
+        "FEMALE2000": 199,
+        "POP2008": 486,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30546,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58958179976037,
+          -6.391459259637088
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30546,
+        "CU_NAME": "KOSUNARU 2",
+        "CU_NO": "025",
+        "GEOCODE": "11071014025",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "14",
+        "WARD_NAME": "AFARU",
+        "LATITUDE": -6.391459,
+        "LONGITUDE": 145.589582,
+        "REGHH": 117,
+        "TOTPOP2000": 515,
+        "MALE2000": 264,
+        "FEMALE2000": 251,
+        "POP2008": 613,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

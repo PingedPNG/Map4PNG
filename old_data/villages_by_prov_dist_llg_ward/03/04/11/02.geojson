@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1597,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.57676000037384,
+          -9.733332999618199
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1597,
+        "CU_NAME": "GIRABU",
+        "CU_NO": "031",
+        "GEOCODE": "03041102031",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "02",
+        "WARD_NAME": "GIRABU",
+        "LATITUDE": -9.734787,
+        "LONGITUDE": 147.575736,
+        "REGHH": 30,
+        "TOTPOP2000": 143,
+        "MALE2000": 74,
+        "FEMALE2000": 69,
+        "POP2008": 171,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041102031,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 31076,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.61309392344583,
+          -5.731944636036076
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31076,
+        "CU_NAME": "Ainpul",
+        "CU_NO": "872",
+        "GEOCODE": "872",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": -5.732,
+        "LONGITUDE": 150.612,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 872,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31077,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.65675021624952,
+          -5.636112457923559
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31077,
+        "CU_NAME": "Madangkona",
+        "CU_NO": "873",
+        "GEOCODE": "873",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": -5.636575,
+        "LONGITUDE": 150.655533,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 873,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31078,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.852295897138,
+          -5.550398923571436
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31078,
+        "CU_NAME": "Bataro",
+        "CU_NO": "874",
+        "GEOCODE": "874",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": -5.550302,
+        "LONGITUDE": 150.852199,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 874,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13049,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.32602299996154,
+          -8.622811999574083
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13049,
+        "CU_NAME": "GARARA",
+        "CU_NO": "009",
+        "GEOCODE": "06010116009",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "16",
+        "WARD_NAME": "KILLERTON",
+        "LATITUDE": -8.621726,
+        "LONGITUDE": 148.326274,
+        "REGHH": 15,
+        "TOTPOP2000": 90,
+        "MALE2000": 49,
+        "FEMALE2000": 41,
+        "POP2008": 112,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010116009,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13050,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3445710000517,
+          -8.62266600003585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13050,
+        "CU_NAME": "KILLERTON",
+        "CU_NO": "041",
+        "GEOCODE": "06010116041",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "16",
+        "WARD_NAME": "KILLERTON",
+        "LATITUDE": -8.622207,
+        "LONGITUDE": 148.346093,
+        "REGHH": 51,
+        "TOTPOP2000": 276,
+        "MALE2000": 135,
+        "FEMALE2000": 141,
+        "POP2008": 342,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010116041,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13051,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.33472900034315,
+          -8.655663000047355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13051,
+        "CU_NAME": "BAGOU",
+        "CU_NO": "042",
+        "GEOCODE": "06010116042",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "16",
+        "WARD_NAME": "KILLERTON",
+        "LATITUDE": -8.660278,
+        "LONGITUDE": 148.330556,
+        "REGHH": 31,
+        "TOTPOP2000": 182,
+        "MALE2000": 92,
+        "FEMALE2000": 90,
+        "POP2008": 225,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010116042,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

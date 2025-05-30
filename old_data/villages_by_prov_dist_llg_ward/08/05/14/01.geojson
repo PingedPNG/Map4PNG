@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5950,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.80384299965476,
+          -5.631455000347955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5950,
+        "CU_NAME": "PIPITES",
+        "CU_NO": "001",
+        "GEOCODE": "08051401001",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "01",
+        "WARD_NAME": "PIPITES",
+        "LATITUDE": -5.632858,
+        "LONGITUDE": 143.802779,
+        "REGHH": 73,
+        "TOTPOP2000": 403,
+        "MALE2000": 210,
+        "FEMALE2000": 193,
+        "POP2008": 506,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051401001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5951,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.80288200030418,
+          -5.627532000201597
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5951,
+        "CU_NAME": "TUPAPOSA",
+        "CU_NO": "002",
+        "GEOCODE": "08051401002",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "01",
+        "WARD_NAME": "PIPITES",
+        "LATITUDE": -5.628935,
+        "LONGITUDE": 143.801818,
+        "REGHH": 62,
+        "TOTPOP2000": 379,
+        "MALE2000": 203,
+        "FEMALE2000": 176,
+        "POP2008": 476,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051401002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

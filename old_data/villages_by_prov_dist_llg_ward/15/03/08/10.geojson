@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18680,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.86110300020334,
+          -3.8917579996319205
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18680,
+        "CU_NAME": "MAKME",
+        "CU_NO": "002",
+        "GEOCODE": "15030810002",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "10",
+        "WARD_NAME": "WARKORI",
+        "LATITUDE": -3.89314,
+        "LONGITUDE": 141.860018,
+        "REGHH": 21,
+        "TOTPOP2000": 167,
+        "MALE2000": 87,
+        "FEMALE2000": 80,
+        "POP2008": 201,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030810002,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18681,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.8801509999687,
+          -3.922175000276013
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18681,
+        "CU_NAME": "WARKORI",
+        "CU_NO": "015",
+        "GEOCODE": "15030810015",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "10",
+        "WARD_NAME": "WARKORI",
+        "LATITUDE": -3.923558,
+        "LONGITUDE": 141.879066,
+        "REGHH": 54,
+        "TOTPOP2000": 315,
+        "MALE2000": 170,
+        "FEMALE2000": 145,
+        "POP2008": 382,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030810015,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18682,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.8789120003886,
+          -3.8991919998109097
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18682,
+        "CU_NAME": "NAMI",
+        "CU_NO": "016",
+        "GEOCODE": "15030810016",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "10",
+        "WARD_NAME": "WARKORI",
+        "LATITUDE": -3.896557,
+        "LONGITUDE": 141.879322,
+        "REGHH": 42,
+        "TOTPOP2000": 253,
+        "MALE2000": 137,
+        "FEMALE2000": 116,
+        "POP2008": 306,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030810016,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

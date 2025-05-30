@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8654,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7476180000707,
+          -5.531211000087524
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8654,
+        "CU_NAME": "JILIM",
+        "CU_NO": "017",
+        "GEOCODE": "13041006017",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "WARD 6",
+        "LATITUDE": -5.532617,
+        "LONGITUDE": 145.746579,
+        "REGHH": 37,
+        "TOTPOP2000": 262,
+        "MALE2000": 151,
+        "FEMALE2000": 111,
+        "POP2008": 324,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041006017,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8655,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7754759996177,
+          -5.486657000420166
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8655,
+        "CU_NAME": "MALE",
+        "CU_NO": "023",
+        "GEOCODE": "13041006023",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "WARD 6",
+        "LATITUDE": -5.485904,
+        "LONGITUDE": 145.774873,
+        "REGHH": 50,
+        "TOTPOP2000": 287,
+        "MALE2000": 140,
+        "FEMALE2000": 147,
+        "POP2008": 355,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041006023,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8656,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.75339500027906,
+          -5.498600999936173
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8656,
+        "CU_NAME": "RERAU",
+        "CU_NO": "025",
+        "GEOCODE": "13041006025",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "WARD 6",
+        "LATITUDE": -5.500006,
+        "LONGITUDE": 145.752356,
+        "REGHH": 37,
+        "TOTPOP2000": 227,
+        "MALE2000": 120,
+        "FEMALE2000": 107,
+        "POP2008": 280,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041006025,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8657,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7741489995767,
+          -5.485748999916382
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8657,
+        "CU_NAME": "MALE 2",
+        "CU_NO": "026",
+        "GEOCODE": "13041006026",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "WARD 6",
+        "LATITUDE": -5.487154,
+        "LONGITUDE": 145.773111,
+        "REGHH": 26,
+        "TOTPOP2000": 159,
+        "MALE2000": 76,
+        "FEMALE2000": 83,
+        "POP2008": 197,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041006026,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8658,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.74684799963552,
+          -5.492117000399219
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8658,
+        "CU_NAME": "REREU NO.2 (BAI)",
+        "CU_NO": "027",
+        "GEOCODE": "13041006027",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "WARD 6",
+        "LATITUDE": -5.493522,
+        "LONGITUDE": 145.745809,
+        "REGHH": 34,
+        "TOTPOP2000": 220,
+        "MALE2000": 120,
+        "FEMALE2000": 100,
+        "POP2008": 272,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041006027,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

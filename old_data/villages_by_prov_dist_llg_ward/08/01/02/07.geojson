@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5282,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.42874300028927,
+          -5.700821000288897
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5282,
+        "CU_NAME": "TAITENGES",
+        "CU_NO": "001",
+        "GEOCODE": "08010207001",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "07",
+        "WARD_NAME": "TAITENGES",
+        "LATITUDE": -5.701427,
+        "LONGITUDE": 143.425561,
+        "REGHH": 53,
+        "TOTPOP2000": 344,
+        "MALE2000": 182,
+        "FEMALE2000": 162,
+        "POP2008": 433,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010207001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.42232800033696,
+          -5.707764000308316
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5283,
+        "CU_NAME": "KOMAI",
+        "CU_NO": "002",
+        "GEOCODE": "08010207002",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "07",
+        "WARD_NAME": "TAITENGES",
+        "LATITUDE": -5.709169,
+        "LONGITUDE": 143.421259,
+        "REGHH": 22,
+        "TOTPOP2000": 115,
+        "MALE2000": 59,
+        "FEMALE2000": 56,
+        "POP2008": 145,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010207002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.42503800030352,
+          -5.705603999624827
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5284,
+        "CU_NAME": "MAROP",
+        "CU_NO": "003",
+        "GEOCODE": "08010207003",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "07",
+        "WARD_NAME": "TAITENGES",
+        "LATITUDE": -5.707007,
+        "LONGITUDE": 143.423969,
+        "REGHH": 33,
+        "TOTPOP2000": 183,
+        "MALE2000": 91,
+        "FEMALE2000": 92,
+        "POP2008": 229,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010207003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.44212100028403,
+          -5.718362999852502
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5285,
+        "CU_NAME": "KEAIP",
+        "CU_NO": "004",
+        "GEOCODE": "08010207004",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "07",
+        "WARD_NAME": "TAITENGES",
+        "LATITUDE": -5.719767,
+        "LONGITUDE": 143.441052,
+        "REGHH": 53,
+        "TOTPOP2000": 348,
+        "MALE2000": 174,
+        "FEMALE2000": 174,
+        "POP2008": 437,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010207004,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

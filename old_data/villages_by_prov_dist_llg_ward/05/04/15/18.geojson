@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.81252856873857,
+          -9.66003711971723
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10263,
+        "CU_NAME": "BEGASI",
+        "CU_NO": "001",
+        "GEOCODE": "05041518001",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "18",
+        "WARD_NAME": "BEGASI",
+        "LATITUDE": -9.660226,
+        "LONGITUDE": 150.812952,
+        "REGHH": 65,
+        "TOTPOP2000": 309,
+        "MALE2000": 155,
+        "FEMALE2000": 154,
+        "POP2008": 377,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041518001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

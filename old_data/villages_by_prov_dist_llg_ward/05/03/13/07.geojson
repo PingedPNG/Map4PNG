@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.30139999991013,
+          -9.314814999912244
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10188,
+        "CU_NAME": "WAKONAI",
+        "CU_NO": "021",
+        "GEOCODE": "05031307021",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "WAKONAI",
+        "LATITUDE": -9.316272,
+        "LONGITUDE": 150.300416,
+        "REGHH": 53,
+        "TOTPOP2000": 293,
+        "MALE2000": 147,
+        "FEMALE2000": 146,
+        "POP2008": 357,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031307021,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10189,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.27247199958322,
+          -9.326763999658795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10189,
+        "CU_NAME": "GALUWATA",
+        "CU_NO": "022",
+        "GEOCODE": "05031307022",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "WAKONAI",
+        "LATITUDE": -9.328221,
+        "LONGITUDE": 150.271488,
+        "REGHH": 51,
+        "TOTPOP2000": 253,
+        "MALE2000": 117,
+        "FEMALE2000": 136,
+        "POP2008": 308,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031307022,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

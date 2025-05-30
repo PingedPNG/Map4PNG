@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6383,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.35017499957667,
+          -4.451291000179481
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6383,
+        "CU_NAME": "KAMBRAMAN",
+        "CU_NO": "006",
+        "GEOCODE": "14020623006",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "KAMBRAMAN",
+        "LATITUDE": -4.461082,
+        "LONGITUDE": 143.336759,
+        "REGHH": 30,
+        "TOTPOP2000": 204,
+        "MALE2000": 99,
+        "FEMALE2000": 105,
+        "POP2008": 243,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020623006,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

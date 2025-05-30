@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20951,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.61052599977518,
+          -6.026932999658186
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20951,
+        "CU_NAME": "HUMTE",
+        "CU_NO": "001",
+        "GEOCODE": "07061813001",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "13",
+        "WARD_NAME": "PEMBI",
+        "LATITUDE": -6.030346,
+        "LONGITUDE": 143.61195,
+        "REGHH": 61,
+        "TOTPOP2000": 315,
+        "MALE2000": 157,
+        "FEMALE2000": 158,
+        "POP2008": 438,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061813001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20952,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6128229995818,
+          -6.025436999917588
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20952,
+        "CU_NAME": "PILA",
+        "CU_NO": "002",
+        "GEOCODE": "07061813002",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "13",
+        "WARD_NAME": "PEMBI",
+        "LATITUDE": -6.030346,
+        "LONGITUDE": 143.61195,
+        "REGHH": 85,
+        "TOTPOP2000": 414,
+        "MALE2000": 209,
+        "FEMALE2000": 205,
+        "POP2008": 574,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061813002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20953,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.61166700023193,
+          -6.024617999920736
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20953,
+        "CU_NAME": "LUL",
+        "CU_NO": "003",
+        "GEOCODE": "07061813003",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "13",
+        "WARD_NAME": "PEMBI",
+        "LATITUDE": -6.030346,
+        "LONGITUDE": 143.61195,
+        "REGHH": 41,
+        "TOTPOP2000": 185,
+        "MALE2000": 91,
+        "FEMALE2000": 94,
+        "POP2008": 257,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061813003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20954,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.61002800019207,
+          -6.025944999961723
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20954,
+        "CU_NAME": "OSUMTE",
+        "CU_NO": "004",
+        "GEOCODE": "07061813004",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "13",
+        "WARD_NAME": "PEMBI",
+        "LATITUDE": -6.030346,
+        "LONGITUDE": 143.61195,
+        "REGHH": 38,
+        "TOTPOP2000": 209,
+        "MALE2000": 109,
+        "FEMALE2000": 100,
+        "POP2008": 291,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061813004,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

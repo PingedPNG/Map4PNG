@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5828,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71651699975985,
+          -5.4781300001993145
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5828,
+        "CU_NAME": "AINUMANDA",
+        "CU_NO": "017",
+        "GEOCODE": "08041123017",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "23",
+        "WARD_NAME": "AINUMANDA",
+        "LATITUDE": -5.479532,
+        "LONGITUDE": 143.715452,
+        "REGHH": 93,
+        "TOTPOP2000": 594,
+        "MALE2000": 314,
+        "FEMALE2000": 280,
+        "POP2008": 746,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041123017,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5829,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.78033200002187,
+          -5.512830999650873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5829,
+        "CU_NAME": "TUMBILAM",
+        "CU_NO": "018",
+        "GEOCODE": "08041123018",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "23",
+        "WARD_NAME": "AINUMANDA",
+        "LATITUDE": -5.514233,
+        "LONGITUDE": 143.779268,
+        "REGHH": 124,
+        "TOTPOP2000": 648,
+        "MALE2000": 345,
+        "FEMALE2000": 303,
+        "POP2008": 814,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041123018,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15566,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.60849699993662,
+          -9.315603000278202
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15566,
+        "CU_NAME": "SIGABADURU",
+        "CU_NO": "012",
+        "GEOCODE": "01031201012",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "SIGABADURU",
+        "LATITUDE": -9.322661,
+        "LONGITUDE": 142.604828,
+        "REGHH": 59,
+        "TOTPOP2000": 456,
+        "MALE2000": 239,
+        "FEMALE2000": 217,
+        "POP2008": 592,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031201012,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15567,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.61518399984175,
+          -9.322170000045446
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15567,
+        "CU_NAME": "SIGABADURU COMM. SCH.",
+        "CU_NO": "013",
+        "GEOCODE": "01031201013",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "SIGABADURU",
+        "LATITUDE": -9.32278,
+        "LONGITUDE": 142.605402,
+        "REGHH": 1,
+        "TOTPOP2000": 14,
+        "MALE2000": 3,
+        "FEMALE2000": 11,
+        "POP2008": 14,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031201013,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

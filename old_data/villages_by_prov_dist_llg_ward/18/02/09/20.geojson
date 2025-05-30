@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4776,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.18215299976123,
+          -4.349457000340237
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4776,
+        "CU_NAME": "RAVAT",
+        "CU_NO": "020",
+        "GEOCODE": "18020920020",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "20",
+        "WARD_NAME": "RAVAT",
+        "LATITUDE": -4.350858,
+        "LONGITUDE": 152.181207,
+        "REGHH": 158,
+        "TOTPOP2000": 853,
+        "MALE2000": 424,
+        "FEMALE2000": 429,
+        "POP2008": 1039,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020920020,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

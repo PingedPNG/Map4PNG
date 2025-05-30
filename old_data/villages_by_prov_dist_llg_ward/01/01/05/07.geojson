@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.45668400026648,
+          -6.260211999683975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15225,
+        "CU_NAME": "IGIBIA",
+        "CU_NO": "013",
+        "GEOCODE": "01010507013",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "07",
+        "WARD_NAME": "IGIBIA",
+        "LATITUDE": -6.261619,
+        "LONGITUDE": 142.455602,
+        "REGHH": 29,
+        "TOTPOP2000": 203,
+        "MALE2000": 113,
+        "FEMALE2000": 90,
+        "POP2008": 263,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010507013,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.49296499973502,
+          -6.240716999989502
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15226,
+        "CU_NAME": "SUBI",
+        "CU_NO": "024",
+        "GEOCODE": "01010507024",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "07",
+        "WARD_NAME": "IGIBIA",
+        "LATITUDE": -6.242124,
+        "LONGITUDE": 142.491884,
+        "REGHH": 10,
+        "TOTPOP2000": 59,
+        "MALE2000": 28,
+        "FEMALE2000": 31,
+        "POP2008": 75,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010507024,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.46459299986714,
+          -6.286948999696506
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15227,
+        "CU_NAME": "GAIMISI",
+        "CU_NO": "035",
+        "GEOCODE": "01010507035",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "07",
+        "WARD_NAME": "IGIBIA",
+        "LATITUDE": -6.288356,
+        "LONGITUDE": 142.463511,
+        "REGHH": 16,
+        "TOTPOP2000": 83,
+        "MALE2000": 41,
+        "FEMALE2000": 42,
+        "POP2008": 107,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010507035,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

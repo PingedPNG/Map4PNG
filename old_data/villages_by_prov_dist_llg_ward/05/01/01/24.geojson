@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9584,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.51114600038773,
+          -9.781726000054789
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9584,
+        "CU_NAME": "BEMBERI",
+        "CU_NO": "005",
+        "GEOCODE": "05010124005",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "24",
+        "WARD_NAME": "BEMBERI",
+        "LATITUDE": -9.779594,
+        "LONGITUDE": 149.51431,
+        "REGHH": 25,
+        "TOTPOP2000": 110,
+        "MALE2000": 58,
+        "FEMALE2000": 52,
+        "POP2008": 134,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010124005,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

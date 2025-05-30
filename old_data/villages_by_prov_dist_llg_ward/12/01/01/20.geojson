@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10380,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.62377699960894,
+          -7.06696099995014
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10380,
+        "CU_NAME": "MANGAU",
+        "CU_NO": "002",
+        "GEOCODE": "12010120002",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "20",
+        "WARD_NAME": "BAIYUNE",
+        "LATITUDE": -7.068385,
+        "LONGITUDE": 146.622747,
+        "REGHH": 12,
+        "TOTPOP2000": 55,
+        "MALE2000": 29,
+        "FEMALE2000": 26,
+        "POP2008": 71,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010120002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10381,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6525710000517,
+          -7.084231999607027
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10381,
+        "CU_NAME": "SANGAS",
+        "CU_NO": "014",
+        "GEOCODE": "12010120014",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "20",
+        "WARD_NAME": "BAIYUNE",
+        "LATITUDE": -7.084296,
+        "LONGITUDE": 146.650777,
+        "REGHH": 21,
+        "TOTPOP2000": 108,
+        "MALE2000": 62,
+        "FEMALE2000": 46,
+        "POP2008": 134,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010120014,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10382,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6238490002312,
+          -7.089665000139576
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10382,
+        "CU_NAME": "WIDIPOSH",
+        "CU_NO": "015",
+        "GEOCODE": "12010120015",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "20",
+        "WARD_NAME": "BAIYUNE",
+        "LATITUDE": -7.091089,
+        "LONGITUDE": 146.622819,
+        "REGHH": 86,
+        "TOTPOP2000": 376,
+        "MALE2000": 208,
+        "FEMALE2000": 168,
+        "POP2008": 469,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010120015,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10383,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.63001999972323,
+          -7.085046000272655
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10383,
+        "CU_NAME": "LOWER BAIYUNE",
+        "CU_NO": "505",
+        "GEOCODE": "12010120505",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "20",
+        "WARD_NAME": "BAIYUNE",
+        "LATITUDE": -7.08647,
+        "LONGITUDE": 146.62899,
+        "REGHH": 62,
+        "TOTPOP2000": 298,
+        "MALE2000": 147,
+        "FEMALE2000": 151,
+        "POP2008": 372,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010120505,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10384,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.65149699998665,
+          -7.08062100035886
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10384,
+        "CU_NAME": "UPPER BAIYUNE",
+        "CU_NO": "506",
+        "GEOCODE": "12010120506",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "20",
+        "WARD_NAME": "BAIYUNE",
+        "LATITUDE": -7.084173,
+        "LONGITUDE": 146.650634,
+        "REGHH": 63,
+        "TOTPOP2000": 307,
+        "MALE2000": 172,
+        "FEMALE2000": 135,
+        "POP2008": 383,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010120506,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

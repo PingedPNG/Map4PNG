@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5841,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.79841300015994,
+          -5.543464000363258
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5841,
+        "CU_NAME": "LYAGIMAUS",
+        "CU_NO": "001",
+        "GEOCODE": "08041128001",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "28",
+        "WARD_NAME": "BIRIP",
+        "LATITUDE": -5.544866,
+        "LONGITUDE": 143.797349,
+        "REGHH": 199,
+        "TOTPOP2000": 999,
+        "MALE2000": 525,
+        "FEMALE2000": 474,
+        "POP2008": 1256,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041128001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5842,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.80962300000147,
+          -5.553467000301794
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5842,
+        "CU_NAME": "APUMALE",
+        "CU_NO": "002",
+        "GEOCODE": "08041128002",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "28",
+        "WARD_NAME": "BIRIP",
+        "LATITUDE": -5.55487,
+        "LONGITUDE": 143.808559,
+        "REGHH": 196,
+        "TOTPOP2000": 1076,
+        "MALE2000": 562,
+        "FEMALE2000": 514,
+        "POP2008": 1352,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041128002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5843,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.79796600023076,
+          -5.545479999802126
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5843,
+        "CU_NAME": "LUMANDA",
+        "CU_NO": "003",
+        "GEOCODE": "08041128003",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "28",
+        "WARD_NAME": "BIRIP",
+        "LATITUDE": -5.546883,
+        "LONGITUDE": 143.796902,
+        "REGHH": 169,
+        "TOTPOP2000": 877,
+        "MALE2000": 474,
+        "FEMALE2000": 403,
+        "POP2008": 1102,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041128003,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

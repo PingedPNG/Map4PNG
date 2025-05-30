@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12893,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.20307100012667,
+          -3.4423619996065327
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12893,
+        "CU_NAME": "BALANWARASAU",
+        "CU_NO": "005",
+        "GEOCODE": "17020806005",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "06",
+        "WARD_NAME": "PUT",
+        "LATITUDE": -3.443752,
+        "LONGITUDE": 153.202142,
+        "REGHH": 37,
+        "TOTPOP2000": 204,
+        "MALE2000": 113,
+        "FEMALE2000": 91,
+        "POP2008": 256,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020806005,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12894,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1937969996319,
+          -3.4821519999148336
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12894,
+        "CU_NAME": "FANGWEL",
+        "CU_NO": "008",
+        "GEOCODE": "17020806008",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "06",
+        "WARD_NAME": "PUT",
+        "LATITUDE": -3.483542,
+        "LONGITUDE": 153.192868,
+        "REGHH": 22,
+        "TOTPOP2000": 114,
+        "MALE2000": 55,
+        "FEMALE2000": 59,
+        "POP2008": 143,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020806008,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12895,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.21502300001146,
+          -3.434212999730107
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12895,
+        "CU_NAME": "GARGARIS",
+        "CU_NO": "010",
+        "GEOCODE": "17020806010",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "06",
+        "WARD_NAME": "PUT",
+        "LATITUDE": -3.431906,
+        "LONGITUDE": 153.215472,
+        "REGHH": 33,
+        "TOTPOP2000": 206,
+        "MALE2000": 117,
+        "FEMALE2000": 89,
+        "POP2008": 258,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020806010,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12896,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2085419997136,
+          -3.486474999621464
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12896,
+        "CU_NAME": "PUT",
+        "CU_NO": "014",
+        "GEOCODE": "17020806014",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "06",
+        "WARD_NAME": "PUT",
+        "LATITUDE": -3.486677,
+        "LONGITUDE": 153.210272,
+        "REGHH": 87,
+        "TOTPOP2000": 486,
+        "MALE2000": 238,
+        "FEMALE2000": 248,
+        "POP2008": 611,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020806014,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12897,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.18975300020088,
+          -3.459993999723281
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12897,
+        "CU_NAME": "SINDAODU",
+        "CU_NO": "016",
+        "GEOCODE": "17020806016",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "06",
+        "WARD_NAME": "PUT",
+        "LATITUDE": -3.464156,
+        "LONGITUDE": 153.185148,
+        "REGHH": 34,
+        "TOTPOP2000": 176,
+        "MALE2000": 87,
+        "FEMALE2000": 89,
+        "POP2008": 221,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020806016,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

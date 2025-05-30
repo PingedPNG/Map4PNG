@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.84835499998337,
+          -10.234697000366225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 976,
+        "CU_NAME": "BORU",
+        "CU_NO": "006",
+        "GEOCODE": "03010301006",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "01",
+        "WARD_NAME": "BORU",
+        "LATITUDE": -10.236158,
+        "LONGITUDE": 148.847347,
+        "REGHH": 81,
+        "TOTPOP2000": 568,
+        "MALE2000": 303,
+        "FEMALE2000": 265,
+        "POP2008": 681,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010301006,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 977,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.95064400012052,
+          -10.265041000341853
+        ]
+      },
+      "properties": {
+        "OBJECTID": 977,
+        "CU_NAME": "MAGAUBO",
+        "CU_NO": "032",
+        "GEOCODE": "03010301032",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "01",
+        "WARD_NAME": "BORU",
+        "LATITUDE": -10.266504,
+        "LONGITUDE": 148.949638,
+        "REGHH": 55,
+        "TOTPOP2000": 428,
+        "MALE2000": 223,
+        "FEMALE2000": 205,
+        "POP2008": 514,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010301032,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

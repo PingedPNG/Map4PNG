@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12793,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.11913500028015,
+          -3.3439930003765994
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12793,
+        "CU_NAME": "BULU",
+        "CU_NO": "002",
+        "GEOCODE": "17020613002",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "13",
+        "WARD_NAME": "BULU",
+        "LATITUDE": -3.344033,
+        "LONGITUDE": 152.120876,
+        "REGHH": 34,
+        "TOTPOP2000": 158,
+        "MALE2000": 88,
+        "FEMALE2000": 70,
+        "POP2008": 199,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020613002,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12794,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.0876190002167,
+          -3.3119939996233256
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12794,
+        "CU_NAME": "DABINOT",
+        "CU_NO": "004",
+        "GEOCODE": "17020613004",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "13",
+        "WARD_NAME": "BULU",
+        "LATITUDE": -3.313381,
+        "LONGITUDE": 152.086673,
+        "REGHH": 25,
+        "TOTPOP2000": 109,
+        "MALE2000": 65,
+        "FEMALE2000": 44,
+        "POP2008": 137,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020613004,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12795,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.10908099978838,
+          -3.3312639997337783
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12795,
+        "CU_NAME": "LANGAMUT",
+        "CU_NO": "020",
+        "GEOCODE": "17020613020",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "13",
+        "WARD_NAME": "BULU",
+        "LATITUDE": -3.331303,
+        "LONGITUDE": 152.109479,
+        "REGHH": 7,
+        "TOTPOP2000": 39,
+        "MALE2000": 15,
+        "FEMALE2000": 24,
+        "POP2008": 47,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020613020,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12796,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.0975420000633,
+          -3.317295000363913
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12796,
+        "CU_NAME": "SILOM",
+        "CU_NO": "039",
+        "GEOCODE": "17020613039",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "13",
+        "WARD_NAME": "BULU",
+        "LATITUDE": -3.318682,
+        "LONGITUDE": 152.096596,
+        "REGHH": 26,
+        "TOTPOP2000": 120,
+        "MALE2000": 61,
+        "FEMALE2000": 59,
+        "POP2008": 151,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020613039,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

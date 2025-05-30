@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14056,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.22332899973367,
+          -6.147511999679011
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14056,
+        "CU_NAME": "OPAIRO",
+        "CU_NO": "006",
+        "GEOCODE": "10010327006",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "27",
+        "WARD_NAME": "KIFIUFA",
+        "LATITUDE": -6.148922,
+        "LONGITUDE": 145.222282,
+        "REGHH": 51,
+        "TOTPOP2000": 171,
+        "MALE2000": 88,
+        "FEMALE2000": 83,
+        "POP2008": 195,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010327006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14057,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.22154400015552,
+          -6.142458999583141
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14057,
+        "CU_NAME": "MONEGA",
+        "CU_NO": "007",
+        "GEOCODE": "10010327007",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "27",
+        "WARD_NAME": "KIFIUFA",
+        "LATITUDE": -6.147669,
+        "LONGITUDE": 145.213668,
+        "REGHH": 25,
+        "TOTPOP2000": 103,
+        "MALE2000": 54,
+        "FEMALE2000": 49,
+        "POP2008": 119,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010327007,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

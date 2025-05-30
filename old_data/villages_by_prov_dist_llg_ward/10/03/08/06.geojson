@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14300,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.10567299960928,
+          -6.337459999779128
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14300,
+        "CU_NAME": "MONOWARI",
+        "CU_NO": "007",
+        "GEOCODE": "10030806007",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "06",
+        "WARD_NAME": "MONOWARI",
+        "LATITUDE": -6.338873,
+        "LONGITUDE": 145.104624,
+        "REGHH": 50,
+        "TOTPOP2000": 233,
+        "MALE2000": 114,
+        "FEMALE2000": 119,
+        "POP2008": 268,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030806007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14301,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.11315300011097,
+          -6.3402990002985575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14301,
+        "CU_NAME": "KEMPTEN",
+        "CU_NO": "008",
+        "GEOCODE": "10030806008",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "06",
+        "WARD_NAME": "MONOWARI",
+        "LATITUDE": -6.341712,
+        "LONGITUDE": 145.112104,
+        "REGHH": 37,
+        "TOTPOP2000": 156,
+        "MALE2000": 77,
+        "FEMALE2000": 79,
+        "POP2008": 180,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030806008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14302,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.11251100018262,
+          -6.334808999835445
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14302,
+        "CU_NAME": "YOWAI",
+        "CU_NO": "009",
+        "GEOCODE": "10030806009",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "06",
+        "WARD_NAME": "MONOWARI",
+        "LATITUDE": -6.336222,
+        "LONGITUDE": 145.111462,
+        "REGHH": 18,
+        "TOTPOP2000": 90,
+        "MALE2000": 47,
+        "FEMALE2000": 43,
+        "POP2008": 106,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030806009,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

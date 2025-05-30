@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.00521699986473,
+          -8.058470000290242
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15132,
+        "CU_NAME": "KIMAMA",
+        "CU_NO": "014",
+        "GEOCODE": "01010321014",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "KIMAMA",
+        "LATITUDE": -8.057058,
+        "LONGITUDE": 143.001382,
+        "REGHH": 138,
+        "TOTPOP2000": 1106,
+        "MALE2000": 556,
+        "FEMALE2000": 550,
+        "POP2008": 1434,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010321014,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0057989997241,
+          -8.062932000111687
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15133,
+        "CU_NAME": "GUTULA COMM. SCH",
+        "CU_NO": "015",
+        "GEOCODE": "01010321015",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "KIMAMA",
+        "LATITUDE": -8.057058,
+        "LONGITUDE": 143.001382,
+        "REGHH": 4,
+        "TOTPOP2000": 25,
+        "MALE2000": 13,
+        "FEMALE2000": 12,
+        "POP2008": 33,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010321015,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

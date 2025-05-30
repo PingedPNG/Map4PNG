@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8426510003435,
+          -5.726274000444732
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16935,
+        "CU_NAME": "WAMKU",
+        "CU_NO": "018",
+        "GEOCODE": "09040702018",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "WAMKU",
+        "LATITUDE": -5.727515,
+        "LONGITUDE": 144.842343,
+        "REGHH": 38,
+        "TOTPOP2000": 185,
+        "MALE2000": 91,
+        "FEMALE2000": 94,
+        "POP2008": 225,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040702018,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8411009999113,
+          -5.726053000145782
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16936,
+        "CU_NAME": "BOKONAL",
+        "CU_NO": "019",
+        "GEOCODE": "09040702019",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "WAMKU",
+        "LATITUDE": -5.727515,
+        "LONGITUDE": 144.842343,
+        "REGHH": 71,
+        "TOTPOP2000": 396,
+        "MALE2000": 231,
+        "FEMALE2000": 165,
+        "POP2008": 482,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040702019,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84199899995394,
+          -5.727436000071293
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16937,
+        "CU_NAME": "KOLMULO",
+        "CU_NO": "020",
+        "GEOCODE": "09040702020",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "WAMKU",
+        "LATITUDE": -5.727515,
+        "LONGITUDE": 144.842343,
+        "REGHH": 48,
+        "TOTPOP2000": 235,
+        "MALE2000": 134,
+        "FEMALE2000": 101,
+        "POP2008": 286,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040702020,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8418480001851,
+          -5.725009999711688
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16938,
+        "CU_NAME": "ZINE",
+        "CU_NO": "021",
+        "GEOCODE": "09040702021",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "WAMKU",
+        "LATITUDE": -5.725946,
+        "LONGITUDE": 144.842189,
+        "REGHH": 43,
+        "TOTPOP2000": 180,
+        "MALE2000": 99,
+        "FEMALE2000": 81,
+        "POP2008": 219,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040702021,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

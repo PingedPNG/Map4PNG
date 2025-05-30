@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18301,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.46579699963195,
+          -3.1943720001676184
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18301,
+        "CU_NAME": "LEMIENG",
+        "CU_NO": "008",
+        "GEOCODE": "15010113008",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "13",
+        "WARD_NAME": "LEMIENG",
+        "LATITUDE": -3.194852,
+        "LONGITUDE": 142.465313,
+        "REGHH": 138,
+        "TOTPOP2000": 883,
+        "MALE2000": 432,
+        "FEMALE2000": 451,
+        "POP2008": 1067,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010113008,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

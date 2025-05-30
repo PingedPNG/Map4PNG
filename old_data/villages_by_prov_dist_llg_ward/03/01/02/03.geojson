@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 934,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.01808200038408,
+          -10.1371939997033
+        ]
+      },
+      "properties": {
+        "OBJECTID": 934,
+        "CU_NAME": "MAOPA NO. 1",
+        "CU_NO": "031",
+        "GEOCODE": "03010203031",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "MAOPA",
+        "LATITUDE": -10.135737,
+        "LONGITUDE": 148.017763,
+        "REGHH": 164,
+        "TOTPOP2000": 1061,
+        "MALE2000": 505,
+        "FEMALE2000": 556,
+        "POP2008": 1273,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010203031,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.01497800023458,
+          -10.132436999767663
+        ]
+      },
+      "properties": {
+        "OBJECTID": 935,
+        "CU_NAME": "MAOPA NO. 2",
+        "CU_NO": "032",
+        "GEOCODE": "03010203032",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "MAOPA",
+        "LATITUDE": -10.132384,
+        "LONGITUDE": 148.018104,
+        "REGHH": 122,
+        "TOTPOP2000": 679,
+        "MALE2000": 339,
+        "FEMALE2000": 340,
+        "POP2008": 815,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010203032,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0198839998468,
+          -10.128876000127264
+        ]
+      },
+      "properties": {
+        "OBJECTID": 936,
+        "CU_NAME": "MAOPA KALA",
+        "CU_NO": "033",
+        "GEOCODE": "03010203033",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "MAOPA",
+        "LATITUDE": -10.130466,
+        "LONGITUDE": 148.01836,
+        "REGHH": 25,
+        "TOTPOP2000": 145,
+        "MALE2000": 63,
+        "FEMALE2000": 82,
+        "POP2008": 174,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010203033,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

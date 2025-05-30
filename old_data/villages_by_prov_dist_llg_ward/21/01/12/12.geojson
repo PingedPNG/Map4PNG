@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20269,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82842100012908,
+          -5.979837999723884
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20269,
+        "CU_NAME": "KUNGU",
+        "CU_NO": "001",
+        "GEOCODE": "07041212001",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "12",
+        "WARD_NAME": "KUNGU",
+        "LATITUDE": -5.985384,
+        "LONGITUDE": 142.832287,
+        "REGHH": 108,
+        "TOTPOP2000": 493,
+        "MALE2000": 287,
+        "FEMALE2000": 206,
+        "POP2008": 686,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041212001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20270,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83299799985787,
+          -5.978182999845501
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20270,
+        "CU_NAME": "KUNIA EANDA",
+        "CU_NO": "002",
+        "GEOCODE": "07041212002",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "12",
+        "WARD_NAME": "KUNGU",
+        "LATITUDE": -5.985384,
+        "LONGITUDE": 142.832287,
+        "REGHH": 24,
+        "TOTPOP2000": 128,
+        "MALE2000": 65,
+        "FEMALE2000": 63,
+        "POP2008": 178,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041212002,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

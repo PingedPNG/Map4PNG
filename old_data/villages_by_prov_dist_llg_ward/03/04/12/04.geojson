@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1660,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.53893900003493,
+          -9.796672999559235
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1660,
+        "CU_NAME": "TAGANA",
+        "CU_NO": "079",
+        "GEOCODE": "03041204079",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "04",
+        "WARD_NAME": "TAGANA",
+        "LATITUDE": -9.798127,
+        "LONGITUDE": 147.537914,
+        "REGHH": 39,
+        "TOTPOP2000": 184,
+        "MALE2000": 109,
+        "FEMALE2000": 75,
+        "POP2008": 221,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041204079,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1661,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.50843099969097,
+          -9.755038999650083
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1661,
+        "CU_NAME": "DEUGOLO",
+        "CU_NO": "080",
+        "GEOCODE": "03041204080",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "04",
+        "WARD_NAME": "TAGANA",
+        "LATITUDE": -9.756493,
+        "LONGITUDE": 147.507406,
+        "REGHH": 33,
+        "TOTPOP2000": 180,
+        "MALE2000": 95,
+        "FEMALE2000": 85,
+        "POP2008": 216,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041204080,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

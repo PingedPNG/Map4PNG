@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12505,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.87121000044124,
+          -2.6097599996242593
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12505,
+        "CU_NAME": "KAPLAMAN",
+        "CU_NO": "008",
+        "GEOCODE": "17010303008",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "PANAPAI",
+        "LATITUDE": -2.611136,
+        "LONGITUDE": 150.870246,
+        "REGHH": 97,
+        "TOTPOP2000": 434,
+        "MALE2000": 208,
+        "FEMALE2000": 226,
+        "POP2008": 546,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010303008,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12506,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.84615299966129,
+          -2.606522999636695
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12506,
+        "CU_NAME": "PANAPAI",
+        "CU_NO": "021",
+        "GEOCODE": "17010303021",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "PANAPAI",
+        "LATITUDE": -2.607159,
+        "LONGITUDE": 150.846518,
+        "REGHH": 57,
+        "TOTPOP2000": 276,
+        "MALE2000": 149,
+        "FEMALE2000": 127,
+        "POP2008": 346,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010303021,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

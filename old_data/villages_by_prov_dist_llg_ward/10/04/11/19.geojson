@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14536,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.81482899975856,
+          -5.93225799990671
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14536,
+        "CU_NAME": "GOGOMUGL 1",
+        "CU_NO": "009",
+        "GEOCODE": "10041119009",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "19",
+        "WARD_NAME": "NIMAIKANE",
+        "LATITUDE": -5.933666,
+        "LONGITUDE": 144.813777,
+        "REGHH": 134,
+        "TOTPOP2000": 993,
+        "MALE2000": 514,
+        "FEMALE2000": 479,
+        "POP2008": 1146,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041119009,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14537,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.81497600024227,
+          -5.937705000185588
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14537,
+        "CU_NAME": "GANIGE 2",
+        "CU_NO": "010",
+        "GEOCODE": "10041119010",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "19",
+        "WARD_NAME": "NIMAIKANE",
+        "LATITUDE": -5.939113,
+        "LONGITUDE": 144.813924,
+        "REGHH": 73,
+        "TOTPOP2000": 361,
+        "MALE2000": 189,
+        "FEMALE2000": 172,
+        "POP2008": 416,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041119010,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.81478000019695,
+          -5.933240000225794
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14538,
+        "CU_NAME": "GOGOMUGL 2",
+        "CU_NO": "011",
+        "GEOCODE": "10041119011",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "19",
+        "WARD_NAME": "NIMAIKANE",
+        "LATITUDE": -5.934648,
+        "LONGITUDE": 144.813728,
+        "REGHH": 91,
+        "TOTPOP2000": 561,
+        "MALE2000": 301,
+        "FEMALE2000": 260,
+        "POP2008": 646,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041119011,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

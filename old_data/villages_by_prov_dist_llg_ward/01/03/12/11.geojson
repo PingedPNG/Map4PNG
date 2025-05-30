@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15587,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60558799958653,
+          -8.636022999961426
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15587,
+        "CU_NAME": "AGOBARO",
+        "CU_NO": "002",
+        "GEOCODE": "01031211002",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "SAGASIA",
+        "LATITUDE": -8.636382,
+        "LONGITUDE": 143.614597,
+        "REGHH": 22,
+        "TOTPOP2000": 127,
+        "MALE2000": 65,
+        "FEMALE2000": 62,
+        "POP2008": 164,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031211002,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15588,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62516899964965,
+          -8.640925000288462
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15588,
+        "CU_NAME": "IPISIA",
+        "CU_NO": "009",
+        "GEOCODE": "01031211009",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "SAGASIA",
+        "LATITUDE": -8.640335,
+        "LONGITUDE": 143.6261,
+        "REGHH": 22,
+        "TOTPOP2000": 151,
+        "MALE2000": 77,
+        "FEMALE2000": 74,
+        "POP2008": 195,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031211009,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15589,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.57984599959332,
+          -8.61280500035042
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15589,
+        "CU_NAME": "SAGASIA",
+        "CU_NO": "016",
+        "GEOCODE": "01031211016",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "SAGASIA",
+        "LATITUDE": -8.614237,
+        "LONGITUDE": 143.578772,
+        "REGHH": 21,
+        "TOTPOP2000": 166,
+        "MALE2000": 90,
+        "FEMALE2000": 76,
+        "POP2008": 215,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031211016,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

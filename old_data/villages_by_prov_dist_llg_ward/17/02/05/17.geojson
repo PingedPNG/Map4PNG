@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12690,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.74257599998248,
+          -3.890235000444875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12690,
+        "CU_NAME": "HIMAU",
+        "CU_NO": "005",
+        "GEOCODE": "17020517005",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "HIMAU",
+        "LATITUDE": -3.890228,
+        "LONGITUDE": 152.743967,
+        "REGHH": 71,
+        "TOTPOP2000": 323,
+        "MALE2000": 173,
+        "FEMALE2000": 150,
+        "POP2008": 405,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020517005,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12691,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.77398100032292,
+          -3.8777860001237627
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12691,
+        "CU_NAME": "HIMAUL",
+        "CU_NO": "006",
+        "GEOCODE": "17020517006",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "HIMAU",
+        "LATITUDE": -3.879181,
+        "LONGITUDE": 152.773045,
+        "REGHH": 46,
+        "TOTPOP2000": 200,
+        "MALE2000": 103,
+        "FEMALE2000": 97,
+        "POP2008": 251,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020517006,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12692,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.76770100030103,
+          -3.894306000221661
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12692,
+        "CU_NAME": "TEKEDAN",
+        "CU_NO": "028",
+        "GEOCODE": "17020517028",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "HIMAU",
+        "LATITUDE": -3.887882,
+        "LONGITUDE": 152.766765,
+        "REGHH": 23,
+        "TOTPOP2000": 111,
+        "MALE2000": 59,
+        "FEMALE2000": 52,
+        "POP2008": 139,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020517028,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12693,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.7530839998268,
+          -3.892669000274111
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12693,
+        "CU_NAME": "HIMAU PLTN",
+        "CU_NO": "501",
+        "GEOCODE": "17020517501",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "HIMAU",
+        "LATITUDE": -3.890791,
+        "LONGITUDE": 152.751217,
+        "REGHH": 7,
+        "TOTPOP2000": 29,
+        "MALE2000": 14,
+        "FEMALE2000": 15,
+        "POP2008": 37,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020517501,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

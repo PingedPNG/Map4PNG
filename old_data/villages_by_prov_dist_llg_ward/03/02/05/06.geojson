@@ -1,0 +1,261 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.93948600037868,
+          -8.226145000291467
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1130,
+        "CU_NAME": "BURUAI",
+        "CU_NO": "002",
+        "GEOCODE": "03020506002",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "06",
+        "WARD_NAME": "JOWA",
+        "LATITUDE": -8.227582,
+        "LONGITUDE": 146.938457,
+        "REGHH": 6,
+        "TOTPOP2000": 18,
+        "MALE2000": 9,
+        "FEMALE2000": 9,
+        "POP2008": 18,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020506002,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.97602800019217,
+          -8.25536299960271
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1131,
+        "CU_NAME": "ERUME LAVAVA",
+        "CU_NO": "003",
+        "GEOCODE": "03020506003",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "06",
+        "WARD_NAME": "JOWA",
+        "LATITUDE": -8.2568,
+        "LONGITUDE": 146.975,
+        "REGHH": 9,
+        "TOTPOP2000": 36,
+        "MALE2000": 15,
+        "FEMALE2000": 21,
+        "POP2008": 44,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020506003,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0003260001448,
+          -8.226702999943427
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1132,
+        "CU_NAME": "GIGUAVA",
+        "CU_NO": "004",
+        "GEOCODE": "03020506004",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "06",
+        "WARD_NAME": "JOWA",
+        "LATITUDE": -8.22814,
+        "LONGITUDE": 146.999298,
+        "REGHH": 13,
+        "TOTPOP2000": 54,
+        "MALE2000": 28,
+        "FEMALE2000": 26,
+        "POP2008": 62,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020506004,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.96096199969656,
+          -8.264501000121015
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1133,
+        "CU_NAME": "KOILOA LAVAVA",
+        "CU_NO": "008",
+        "GEOCODE": "03020506008",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "06",
+        "WARD_NAME": "JOWA",
+        "LATITUDE": -8.265938,
+        "LONGITUDE": 146.959934,
+        "REGHH": 9,
+        "TOTPOP2000": 45,
+        "MALE2000": 16,
+        "FEMALE2000": 29,
+        "POP2008": 53,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020506008,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9928259996202,
+          -8.235366000140743
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1134,
+        "CU_NAME": "NAILE LAVAVA",
+        "CU_NO": "011",
+        "GEOCODE": "03020506011",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "06",
+        "WARD_NAME": "JOWA",
+        "LATITUDE": -8.236803,
+        "LONGITUDE": 146.991798,
+        "REGHH": 9,
+        "TOTPOP2000": 32,
+        "MALE2000": 17,
+        "FEMALE2000": 15,
+        "POP2008": 40,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020506011,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.97768099997825,
+          -8.25706299975758
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1135,
+        "CU_NAME": "PERUME LAVAVA",
+        "CU_NO": "012",
+        "GEOCODE": "03020506012",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "06",
+        "WARD_NAME": "JOWA",
+        "LATITUDE": -8.2585,
+        "LONGITUDE": 146.976653,
+        "REGHH": 21,
+        "TOTPOP2000": 89,
+        "MALE2000": 45,
+        "FEMALE2000": 44,
+        "POP2008": 105,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020506012,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.94917800036444,
+          -8.239381000033063
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1136,
+        "CU_NAME": "POMUTU",
+        "CU_NO": "013",
+        "GEOCODE": "03020506013",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "06",
+        "WARD_NAME": "JOWA",
+        "LATITUDE": -8.240818,
+        "LONGITUDE": 146.948149,
+        "REGHH": 10,
+        "TOTPOP2000": 24,
+        "MALE2000": 9,
+        "FEMALE2000": 15,
+        "POP2008": 32,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020506013,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0022509998838,
+          -8.215758999777961
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1137,
+        "CU_NAME": "MURUWETU",
+        "CU_NO": "016",
+        "GEOCODE": "03020506016",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "06",
+        "WARD_NAME": "JOWA",
+        "LATITUDE": -8.217196,
+        "LONGITUDE": 147.001223,
+        "REGHH": 5,
+        "TOTPOP2000": 23,
+        "MALE2000": 14,
+        "FEMALE2000": 9,
+        "POP2008": 31,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020506016,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

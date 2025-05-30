@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6328,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60688700013498,
+          -4.106583000305193
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6328,
+        "CU_NAME": "KAMANGAUI",
+        "CU_NO": "003",
+        "GEOCODE": "14020534003",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "34",
+        "WARD_NAME": "KOIWUT",
+        "LATITUDE": -4.116371,
+        "LONGITUDE": 143.593484,
+        "REGHH": 30,
+        "TOTPOP2000": 180,
+        "MALE2000": 85,
+        "FEMALE2000": 95,
+        "POP2008": 213,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020534003,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6329,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.55647199998293,
+          -4.088210000191282
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6329,
+        "CU_NAME": "KOIWUT",
+        "CU_NO": "005",
+        "GEOCODE": "14020534005",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "34",
+        "WARD_NAME": "KOIWUT",
+        "LATITUDE": -4.089795,
+        "LONGITUDE": 143.555238,
+        "REGHH": 29,
+        "TOTPOP2000": 144,
+        "MALE2000": 68,
+        "FEMALE2000": 76,
+        "POP2008": 170,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020534005,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6330,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.54058200015925,
+          -4.10926199974142
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6330,
+        "CU_NAME": "KOREP",
+        "CU_NO": "017",
+        "GEOCODE": "14020534017",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "34",
+        "WARD_NAME": "KOIWUT",
+        "LATITUDE": -4.110846,
+        "LONGITUDE": 143.539348,
+        "REGHH": 26,
+        "TOTPOP2000": 148,
+        "MALE2000": 69,
+        "FEMALE2000": 79,
+        "POP2008": 176,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020534017,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6331,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.81453699998258,
+          -4.1606839995668565
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6331,
+        "CU_NAME": "WENIO",
+        "CU_NO": "018",
+        "GEOCODE": "14020534018",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "34",
+        "WARD_NAME": "KOIWUT",
+        "LATITUDE": -4.162269,
+        "LONGITUDE": 143.813306,
+        "REGHH": 10,
+        "TOTPOP2000": 59,
+        "MALE2000": 26,
+        "FEMALE2000": 33,
+        "POP2008": 67,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020534018,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6332,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5627030004432,
+          -4.074822999781588
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6332,
+        "CU_NAME": "MARA",
+        "CU_NO": "019",
+        "GEOCODE": "14020534019",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "34",
+        "WARD_NAME": "KOIWUT",
+        "LATITUDE": -4.076406,
+        "LONGITUDE": 143.561468,
+        "REGHH": 20,
+        "TOTPOP2000": 90,
+        "MALE2000": 39,
+        "FEMALE2000": 51,
+        "POP2008": 106,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020534019,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

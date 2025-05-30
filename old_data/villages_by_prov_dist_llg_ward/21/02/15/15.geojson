@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20717,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6349749996965,
+          -5.231360000363679
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20717,
+        "CU_NAME": "MALIELI",
+        "CU_NO": "009",
+        "GEOCODE": "07051515009",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "15",
+        "WARD_NAME": "USAI/MALIELI",
+        "LATITUDE": -5.228333,
+        "LONGITUDE": 142.618835,
+        "REGHH": 15,
+        "TOTPOP2000": 137,
+        "MALE2000": 73,
+        "FEMALE2000": 64,
+        "POP2008": 191,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051515009,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20718,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6303969999217,
+          -5.220410999967612
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20718,
+        "CU_NAME": "USAI",
+        "CU_NO": "010",
+        "GEOCODE": "07051515010",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "15",
+        "WARD_NAME": "USAI/MALIELI",
+        "LATITUDE": -5.228333,
+        "LONGITUDE": 142.618835,
+        "REGHH": 11,
+        "TOTPOP2000": 76,
+        "MALE2000": 47,
+        "FEMALE2000": 29,
+        "POP2008": 105,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051515010,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20719,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.61860800035902,
+          -5.2359689997694545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20719,
+        "CU_NAME": "LIPALIPA 1",
+        "CU_NO": "011",
+        "GEOCODE": "07051515011",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "15",
+        "WARD_NAME": "USAI/MALIELI",
+        "LATITUDE": -5.228333,
+        "LONGITUDE": 142.618835,
+        "REGHH": 2,
+        "TOTPOP2000": 35,
+        "MALE2000": 19,
+        "FEMALE2000": 16,
+        "POP2008": 50,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051515011,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20720,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6249660003807,
+          -5.231385999764029
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20720,
+        "CU_NAME": "LIPALIPA 2",
+        "CU_NO": "012",
+        "GEOCODE": "07051515012",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "15",
+        "WARD_NAME": "USAI/MALIELI",
+        "LATITUDE": -5.228333,
+        "LONGITUDE": 142.618835,
+        "REGHH": 5,
+        "TOTPOP2000": 49,
+        "MALE2000": 28,
+        "FEMALE2000": 21,
+        "POP2008": 67,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051515012,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20721,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.61131999971826,
+          -5.232334000313813
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20721,
+        "CU_NAME": "PAWALIP",
+        "CU_NO": "013",
+        "GEOCODE": "07051515013",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "15",
+        "WARD_NAME": "USAI/MALIELI",
+        "LATITUDE": -5.228333,
+        "LONGITUDE": 142.618835,
+        "REGHH": 5,
+        "TOTPOP2000": 33,
+        "MALE2000": 19,
+        "FEMALE2000": 14,
+        "POP2008": 46,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051515013,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20722,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.61039200009077,
+          -5.225028999788435
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20722,
+        "CU_NAME": "WESWAIA",
+        "CU_NO": "014",
+        "GEOCODE": "07051515014",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "15",
+        "WARD_NAME": "USAI/MALIELI",
+        "LATITUDE": -5.228333,
+        "LONGITUDE": 142.618835,
+        "REGHH": 17,
+        "TOTPOP2000": 119,
+        "MALE2000": 73,
+        "FEMALE2000": 46,
+        "POP2008": 165,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051515014,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20723,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.62858900018227,
+          -5.224982000319017
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20723,
+        "CU_NAME": "YANA",
+        "CU_NO": "015",
+        "GEOCODE": "07051515015",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "15",
+        "WARD_NAME": "USAI/MALIELI",
+        "LATITUDE": -5.228333,
+        "LONGITUDE": 142.618835,
+        "REGHH": 6,
+        "TOTPOP2000": 60,
+        "MALE2000": 42,
+        "FEMALE2000": 18,
+        "POP2008": 84,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051515015,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.61855199957517,
+          -5.214047999715376
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20724,
+        "CU_NAME": "WAIP YANA",
+        "CU_NO": "016",
+        "GEOCODE": "07051515016",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "15",
+        "WARD_NAME": "USAI/MALIELI",
+        "LATITUDE": -5.228333,
+        "LONGITUDE": 142.618835,
+        "REGHH": 17,
+        "TOTPOP2000": 144,
+        "MALE2000": 89,
+        "FEMALE2000": 55,
+        "POP2008": 200,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051515016,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.62402400010762,
+          -5.218601000136005
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20725,
+        "CU_NAME": "TALI",
+        "CU_NO": "017",
+        "GEOCODE": "07051515017",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "15",
+        "WARD_NAME": "USAI/MALIELI",
+        "LATITUDE": -5.228333,
+        "LONGITUDE": 142.618835,
+        "REGHH": 22,
+        "TOTPOP2000": 159,
+        "MALE2000": 93,
+        "FEMALE2000": 66,
+        "POP2008": 222,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051515017,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20726,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.61401900007684,
+          -5.220453000105806
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20726,
+        "CU_NAME": "KENALIPA",
+        "CU_NO": "018",
+        "GEOCODE": "07051515018",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "15",
+        "WARD_NAME": "USAI/MALIELI",
+        "LATITUDE": -5.228333,
+        "LONGITUDE": 142.618835,
+        "REGHH": 16,
+        "TOTPOP2000": 126,
+        "MALE2000": 76,
+        "FEMALE2000": 50,
+        "POP2008": 176,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051515018,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

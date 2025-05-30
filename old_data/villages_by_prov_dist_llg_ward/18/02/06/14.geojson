@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4663,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.34559199957118,
+          -4.414011999654008
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4663,
+        "CU_NAME": "MENEBONBON",
+        "CU_NO": "011",
+        "GEOCODE": "18020614011",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "14",
+        "WARD_NAME": "MENEBONBON",
+        "LATITUDE": -4.415414,
+        "LONGITUDE": 152.344649,
+        "REGHH": 42,
+        "TOTPOP2000": 261,
+        "MALE2000": 132,
+        "FEMALE2000": 129,
+        "POP2008": 319,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020614011,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

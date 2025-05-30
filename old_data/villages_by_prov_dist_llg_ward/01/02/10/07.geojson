@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15508,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.06919800008768,
+          -5.403690000093377
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15508,
+        "CU_NAME": "SOWENAM",
+        "CU_NO": "019",
+        "GEOCODE": "01021007019",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "07",
+        "WARD_NAME": "NIOSIKWI",
+        "LATITUDE": -5.405086,
+        "LONGITUDE": 141.068101,
+        "REGHH": 22,
+        "TOTPOP2000": 149,
+        "MALE2000": 83,
+        "FEMALE2000": 66,
+        "POP2008": 193,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1021007019,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15509,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.16561500013222,
+          -5.357529000063266
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15509,
+        "CU_NAME": "NIOSIKWI",
+        "CU_NO": "020",
+        "GEOCODE": "01021007020",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "07",
+        "WARD_NAME": "NIOSIKWI",
+        "LATITUDE": -5.350525,
+        "LONGITUDE": 141.164075,
+        "REGHH": 26,
+        "TOTPOP2000": 145,
+        "MALE2000": 72,
+        "FEMALE2000": 73,
+        "POP2008": 188,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1021007020,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

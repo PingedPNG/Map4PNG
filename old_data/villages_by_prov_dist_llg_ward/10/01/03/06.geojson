@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13982,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.22792000010793,
+          -6.267855999654614
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13982,
+        "CU_NAME": "KITIRO",
+        "CU_NO": "010",
+        "GEOCODE": "10010306010",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "FOKOWE",
+        "LATITUDE": -6.269269,
+        "LONGITUDE": 145.226873,
+        "REGHH": 57,
+        "TOTPOP2000": 218,
+        "MALE2000": 111,
+        "FEMALE2000": 107,
+        "POP2008": 250,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010306010,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13983,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.24041199971407,
+          -6.261867999608455
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13983,
+        "CU_NAME": "KURUNGA",
+        "CU_NO": "011",
+        "GEOCODE": "10010306011",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "FOKOWE",
+        "LATITUDE": -6.263281,
+        "LONGITUDE": 145.239365,
+        "REGHH": 58,
+        "TOTPOP2000": 220,
+        "MALE2000": 106,
+        "FEMALE2000": 114,
+        "POP2008": 252,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010306011,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13984,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.24330900021027,
+          -6.258988999942346
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13984,
+        "CU_NAME": "MI'1",
+        "CU_NO": "012",
+        "GEOCODE": "10010306012",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "FOKOWE",
+        "LATITUDE": -6.260402,
+        "LONGITUDE": 145.242262,
+        "REGHH": 27,
+        "TOTPOP2000": 89,
+        "MALE2000": 52,
+        "FEMALE2000": 37,
+        "POP2008": 105,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010306012,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

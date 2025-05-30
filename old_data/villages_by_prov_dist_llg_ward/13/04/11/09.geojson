@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8709,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.96229100002972,
+          -5.872763000112343
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8709,
+        "CU_NAME": "NUMBAIYA",
+        "CU_NO": "001",
+        "GEOCODE": "13041109001",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD 9",
+        "LATITUDE": -5.878932,
+        "LONGITUDE": 145.964596,
+        "REGHH": 42,
+        "TOTPOP2000": 315,
+        "MALE2000": 166,
+        "FEMALE2000": 149,
+        "POP2008": 390,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041109001,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

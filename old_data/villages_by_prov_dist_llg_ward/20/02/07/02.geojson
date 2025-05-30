@@ -1,0 +1,869 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.00812600031475,
+          -5.818852999766079
+        ]
+      },
+      "properties": {
+        "OBJECTID": 260,
+        "CU_NAME": "KUKUAIS",
+        "CU_NO": "001",
+        "GEOCODE": "20020702001",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.820278,
+        "LONGITUDE": 155.007222,
+        "REGHH": 40,
+        "TOTPOP2000": 261,
+        "MALE2000": 137,
+        "FEMALE2000": 124,
+        "POP2008": 293,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.1884619996216,
+          -5.8451199996881655
+        ]
+      },
+      "properties": {
+        "OBJECTID": 261,
+        "CU_NAME": "ASITAI",
+        "CU_NO": "002",
+        "GEOCODE": "20020702002",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.845708,
+        "LONGITUDE": 155.187891,
+        "REGHH": 3,
+        "TOTPOP2000": 22,
+        "MALE2000": 13,
+        "FEMALE2000": 9,
+        "POP2008": 22,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.1132740000951,
+          -5.8187759998124875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 262,
+        "CU_NAME": "PISIKOAIA",
+        "CU_NO": "003",
+        "GEOCODE": "20020702003",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.820201,
+        "LONGITUDE": 155.112372,
+        "REGHH": 14,
+        "TOTPOP2000": 80,
+        "MALE2000": 44,
+        "FEMALE2000": 36,
+        "POP2008": 88,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.08759600035523,
+          -5.827608999755512
+        ]
+      },
+      "properties": {
+        "OBJECTID": 263,
+        "CU_NAME": "ANUTOKORU",
+        "CU_NO": "004",
+        "GEOCODE": "20020702004",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.829054,
+        "LONGITUDE": 155.08115,
+        "REGHH": 15,
+        "TOTPOP2000": 71,
+        "MALE2000": 33,
+        "FEMALE2000": 38,
+        "POP2008": 79,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 264,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.99590399966996,
+          -5.8069080002039755
+        ]
+      },
+      "properties": {
+        "OBJECTID": 264,
+        "CU_NAME": "KUSI",
+        "CU_NO": "005",
+        "GEOCODE": "20020702005",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.808333,
+        "LONGITUDE": 154.995,
+        "REGHH": 23,
+        "TOTPOP2000": 121,
+        "MALE2000": 61,
+        "FEMALE2000": 60,
+        "POP2008": 137,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.01729300037175,
+          -5.816908000004162
+        ]
+      },
+      "properties": {
+        "OBJECTID": 265,
+        "CU_NAME": "SIRIVIA",
+        "CU_NO": "006",
+        "GEOCODE": "20020702006",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.818333,
+        "LONGITUDE": 155.016389,
+        "REGHH": 50,
+        "TOTPOP2000": 230,
+        "MALE2000": 109,
+        "FEMALE2000": 121,
+        "POP2008": 260,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702006,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.01146000027882,
+          -5.796908000403846
+        ]
+      },
+      "properties": {
+        "OBJECTID": 266,
+        "CU_NAME": "VAIANO",
+        "CU_NO": "007",
+        "GEOCODE": "20020702007",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.798333,
+        "LONGITUDE": 155.010556,
+        "REGHH": 52,
+        "TOTPOP2000": 235,
+        "MALE2000": 134,
+        "FEMALE2000": 101,
+        "POP2008": 267,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702007,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.06750200001738,
+          -5.833391000194467
+        ]
+      },
+      "properties": {
+        "OBJECTID": 267,
+        "CU_NAME": "KAKUPAUNUI",
+        "CU_NO": "008",
+        "GEOCODE": "20020702008",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.834816,
+        "LONGITUDE": 155.066599,
+        "REGHH": 9,
+        "TOTPOP2000": 56,
+        "MALE2000": 31,
+        "FEMALE2000": 25,
+        "POP2008": 64,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702008,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.1029620002961,
+          -5.8155440000555245
+        ]
+      },
+      "properties": {
+        "OBJECTID": 268,
+        "CU_NAME": "SIRORAVIA",
+        "CU_NO": "009",
+        "GEOCODE": "20020702009",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.816969,
+        "LONGITUDE": 155.102059,
+        "REGHH": 15,
+        "TOTPOP2000": 67,
+        "MALE2000": 36,
+        "FEMALE2000": 31,
+        "POP2008": 75,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702009,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.24030800011417,
+          -5.870258999752991
+        ]
+      },
+      "properties": {
+        "OBJECTID": 269,
+        "CU_NAME": "ARIARIKO",
+        "CU_NO": "010",
+        "GEOCODE": "20020702010",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.868245,
+        "LONGITUDE": 155.240278,
+        "REGHH": 33,
+        "TOTPOP2000": 180,
+        "MALE2000": 96,
+        "FEMALE2000": 84,
+        "POP2008": 204,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702010,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.1310739998653,
+          -5.807954999923254
+        ]
+      },
+      "properties": {
+        "OBJECTID": 270,
+        "CU_NAME": "RATERI",
+        "CU_NO": "011",
+        "GEOCODE": "20020702011",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.80938,
+        "LONGITUDE": 155.130172,
+        "REGHH": 30,
+        "TOTPOP2000": 135,
+        "MALE2000": 70,
+        "FEMALE2000": 65,
+        "POP2008": 151,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702011,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 271,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.1168060001968,
+          -5.8127329999279596
+        ]
+      },
+      "properties": {
+        "OBJECTID": 271,
+        "CU_NAME": "TUBITUBIN",
+        "CU_NO": "012",
+        "GEOCODE": "20020702012",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.814158,
+        "LONGITUDE": 155.115904,
+        "REGHH": 35,
+        "TOTPOP2000": 198,
+        "MALE2000": 108,
+        "FEMALE2000": 90,
+        "POP2008": 222,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702012,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 272,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.15585300041573,
+          -5.805981999769415
+        ]
+      },
+      "properties": {
+        "OBJECTID": 272,
+        "CU_NAME": "KUKUAUVO",
+        "CU_NO": "013",
+        "GEOCODE": "20020702013",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.808056,
+        "LONGITUDE": 155.155278,
+        "REGHH": 45,
+        "TOTPOP2000": 221,
+        "MALE2000": 112,
+        "FEMALE2000": 109,
+        "POP2008": 248,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702013,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 273,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.15231199989898,
+          -5.796710000266273
+        ]
+      },
+      "properties": {
+        "OBJECTID": 273,
+        "CU_NAME": "TOKOROBO",
+        "CU_NO": "014",
+        "GEOCODE": "20020702014",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.800106,
+        "LONGITUDE": 155.154189,
+        "REGHH": 15,
+        "TOTPOP2000": 69,
+        "MALE2000": 40,
+        "FEMALE2000": 29,
+        "POP2008": 77,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702014,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 274,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.1587530001509,
+          -5.810875999727557
+        ]
+      },
+      "properties": {
+        "OBJECTID": 274,
+        "CU_NAME": "TAPITOEA",
+        "CU_NO": "015",
+        "GEOCODE": "20020702015",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.813056,
+        "LONGITUDE": 155.158611,
+        "REGHH": 16,
+        "TOTPOP2000": 84,
+        "MALE2000": 40,
+        "FEMALE2000": 44,
+        "POP2008": 92,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702015,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 275,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.15599599981556,
+          -5.8137150002470435
+        ]
+      },
+      "properties": {
+        "OBJECTID": 275,
+        "CU_NAME": "TURIMA",
+        "CU_NO": "016",
+        "GEOCODE": "20020702016",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.813611,
+        "LONGITUDE": 155.158333,
+        "REGHH": 25,
+        "TOTPOP2000": 144,
+        "MALE2000": 70,
+        "FEMALE2000": 74,
+        "POP2008": 160,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702016,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 276,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.13840499979096,
+          -5.773778000354412
+        ]
+      },
+      "properties": {
+        "OBJECTID": 276,
+        "CU_NAME": "TEAKIRIS",
+        "CU_NO": "017",
+        "GEOCODE": "20020702017",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.779167,
+        "LONGITUDE": 155.137518,
+        "REGHH": 14,
+        "TOTPOP2000": 49,
+        "MALE2000": 26,
+        "FEMALE2000": 23,
+        "POP2008": 57,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702017,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.13617999970734,
+          -5.7882969999065494
+        ]
+      },
+      "properties": {
+        "OBJECTID": 277,
+        "CU_NAME": "TESIURU",
+        "CU_NO": "018",
+        "GEOCODE": "20020702018",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.789722,
+        "LONGITUDE": 155.135278,
+        "REGHH": 14,
+        "TOTPOP2000": 72,
+        "MALE2000": 38,
+        "FEMALE2000": 34,
+        "POP2008": 80,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702018,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 278,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.13702099981936,
+          -5.78093400030383
+        ]
+      },
+      "properties": {
+        "OBJECTID": 278,
+        "CU_NAME": "TOKAI",
+        "CU_NO": "019",
+        "GEOCODE": "20020702019",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.78236,
+        "LONGITUDE": 155.136119,
+        "REGHH": 24,
+        "TOTPOP2000": 121,
+        "MALE2000": 64,
+        "FEMALE2000": 57,
+        "POP2008": 137,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702019,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 279,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.12673500032008,
+          -5.761354000286815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 279,
+        "CU_NAME": "STEAMAS",
+        "CU_NO": "020",
+        "GEOCODE": "20020702020",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.762778,
+        "LONGITUDE": 155.125833,
+        "REGHH": 9,
+        "TOTPOP2000": 53,
+        "MALE2000": 25,
+        "FEMALE2000": 28,
+        "POP2008": 61,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702020,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.12669500027414,
+          -5.7552589998029475
+        ]
+      },
+      "properties": {
+        "OBJECTID": 280,
+        "CU_NAME": "RUESTA",
+        "CU_NO": "021",
+        "GEOCODE": "20020702021",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.756683,
+        "LONGITUDE": 155.125793,
+        "REGHH": 3,
+        "TOTPOP2000": 24,
+        "MALE2000": 9,
+        "FEMALE2000": 15,
+        "POP2008": 24,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702021,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.12526900016428,
+          -5.765141999603543
+        ]
+      },
+      "properties": {
+        "OBJECTID": 281,
+        "CU_NAME": "PERIOVE",
+        "CU_NO": "022",
+        "GEOCODE": "20020702022",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.764722,
+        "LONGITUDE": 155.125278,
+        "REGHH": 10,
+        "TOTPOP2000": 66,
+        "MALE2000": 35,
+        "FEMALE2000": 31,
+        "POP2008": 74,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702022,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 282,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.18140299964875,
+          -5.842471999882832
+        ]
+      },
+      "properties": {
+        "OBJECTID": 282,
+        "CU_NAME": "RIKO",
+        "CU_NO": "023",
+        "GEOCODE": "20020702023",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.844167,
+        "LONGITUDE": 155.180556,
+        "REGHH": 11,
+        "TOTPOP2000": 56,
+        "MALE2000": 29,
+        "FEMALE2000": 27,
+        "POP2008": 64,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702023,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.12673500032008,
+          -5.748854000311837
+        ]
+      },
+      "properties": {
+        "OBJECTID": 283,
+        "CU_NAME": "KOTOITA",
+        "CU_NO": "024",
+        "GEOCODE": "20020702024",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.750278,
+        "LONGITUDE": 155.125833,
+        "REGHH": 14,
+        "TOTPOP2000": 102,
+        "MALE2000": 55,
+        "FEMALE2000": 47,
+        "POP2008": 118,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702024,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.15923499989538,
+          -5.843297000156383
+        ]
+      },
+      "properties": {
+        "OBJECTID": 284,
+        "CU_NAME": "INIVUS",
+        "CU_NO": "025",
+        "GEOCODE": "20020702025",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.844722,
+        "LONGITUDE": 155.158333,
+        "REGHH": 40,
+        "TOTPOP2000": 211,
+        "MALE2000": 106,
+        "FEMALE2000": 105,
+        "POP2008": 235,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702025,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.17143500042505,
+          -5.777550999878713
+        ]
+      },
+      "properties": {
+        "OBJECTID": 285,
+        "CU_NAME": "TEOHIUP",
+        "CU_NO": "026",
+        "GEOCODE": "20020702026",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.777778,
+        "LONGITUDE": 155.172904,
+        "REGHH": 36,
+        "TOTPOP2000": 172,
+        "MALE2000": 83,
+        "FEMALE2000": 89,
+        "POP2008": 196,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702026,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 286,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.17075399959742,
+          -5.798518000005629
+        ]
+      },
+      "properties": {
+        "OBJECTID": 286,
+        "CU_NAME": "TEARAKA",
+        "CU_NO": "027",
+        "GEOCODE": "20020702027",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "BOHI",
+        "LATITUDE": -5.7975,
+        "LONGITUDE": 155.171667,
+        "REGHH": 22,
+        "TOTPOP2000": 112,
+        "MALE2000": 59,
+        "FEMALE2000": 53,
+        "POP2008": 128,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020702027,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17658,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.74696999976572,
+          -6.106758999927877
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17658,
+        "CU_NAME": "AMIO",
+        "CU_NO": "008",
+        "GEOCODE": "19010101008",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "AMIO",
+        "LATITUDE": -6.10818,
+        "LONGITUDE": 150.746,
+        "REGHH": 120,
+        "TOTPOP2000": 701,
+        "MALE2000": 369,
+        "FEMALE2000": 332,
+        "POP2008": 922,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010101008,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17659,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.70797099996173,
+          -6.127837999823782
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17659,
+        "CU_NAME": "KASKAS",
+        "CU_NO": "019",
+        "GEOCODE": "19010101019",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "AMIO",
+        "LATITUDE": -6.12926,
+        "LONGITUDE": 150.707,
+        "REGHH": 56,
+        "TOTPOP2000": 363,
+        "MALE2000": 191,
+        "FEMALE2000": 172,
+        "POP2008": 479,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010101019,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17660,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.62181619705996,
+          -6.109223666638854
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17660,
+        "CU_NAME": "AMELEI",
+        "CU_NO": "024",
+        "GEOCODE": "19010101024",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "AMIO",
+        "LATITUDE": -6.1097,
+        "LONGITUDE": 150.621,
+        "REGHH": 19,
+        "TOTPOP2000": 173,
+        "MALE2000": 92,
+        "FEMALE2000": 81,
+        "POP2008": 227,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010101024,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17661,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6189720002577,
+          -6.128589000282091
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17661,
+        "CU_NAME": "AWIRWIR",
+        "CU_NO": "035",
+        "GEOCODE": "19010101035",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "AMIO",
+        "LATITUDE": -6.13001,
+        "LONGITUDE": 150.618,
+        "REGHH": 29,
+        "TOTPOP2000": 200,
+        "MALE2000": 101,
+        "FEMALE2000": 99,
+        "POP2008": 263,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010101035,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17662,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7279700004152,
+          -6.110028999638587
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17662,
+        "CU_NAME": "AMIO GOVT. STN",
+        "CU_NO": "505",
+        "GEOCODE": "19010101505",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "AMIO",
+        "LATITUDE": -6.11145,
+        "LONGITUDE": 150.727,
+        "REGHH": 14,
+        "TOTPOP2000": 69,
+        "MALE2000": 37,
+        "FEMALE2000": 32,
+        "POP2008": 91,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010101505,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17663,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7419700003153,
+          -6.108189000222126
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17663,
+        "CU_NAME": "AMIO LOGGING CAMP",
+        "CU_NO": "506",
+        "GEOCODE": "19010101506",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "AMIO",
+        "LATITUDE": -6.10961,
+        "LONGITUDE": 150.741,
+        "REGHH": 25,
+        "TOTPOP2000": 267,
+        "MALE2000": 191,
+        "FEMALE2000": 76,
+        "POP2008": 351,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010101506,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

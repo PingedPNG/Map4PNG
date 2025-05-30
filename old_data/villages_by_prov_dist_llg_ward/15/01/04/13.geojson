@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18483,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.11457799987488,
+          -3.4420200000229215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18483,
+        "CU_NAME": "KUPUOM",
+        "CU_NO": "008",
+        "GEOCODE": "15010413008",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUPUOM",
+        "LATITUDE": -3.443398,
+        "LONGITUDE": 142.113497,
+        "REGHH": 46,
+        "TOTPOP2000": 261,
+        "MALE2000": 124,
+        "FEMALE2000": 137,
+        "POP2008": 315,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010413008,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18484,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.11683399958952,
+          -3.4460430002841917
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18484,
+        "CU_NAME": "WELIUM",
+        "CU_NO": "030",
+        "GEOCODE": "15010413030",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUPUOM",
+        "LATITUDE": -3.447421,
+        "LONGITUDE": 142.115753,
+        "REGHH": 67,
+        "TOTPOP2000": 396,
+        "MALE2000": 210,
+        "FEMALE2000": 186,
+        "POP2008": 479,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010413030,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18485,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.10088799988137,
+          -3.4384699999904456
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18485,
+        "CU_NAME": "FATIMA CATHOLIC MIS",
+        "CU_NO": "402",
+        "GEOCODE": "15010413402",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUPUOM",
+        "LATITUDE": -3.442122,
+        "LONGITUDE": 142.106049,
+        "REGHH": 9,
+        "TOTPOP2000": 40,
+        "MALE2000": 12,
+        "FEMALE2000": 28,
+        "POP2008": 48,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010413402,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

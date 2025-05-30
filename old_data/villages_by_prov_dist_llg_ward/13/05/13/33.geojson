@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9021,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91657499983648,
+          -4.576701999997283
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9021,
+        "CU_NAME": "KENG",
+        "CU_NO": "013",
+        "GEOCODE": "13051333013",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "33",
+        "WARD_NAME": "WARD 33",
+        "LATITUDE": -4.578097,
+        "LONGITUDE": 145.91554,
+        "REGHH": 98,
+        "TOTPOP2000": 585,
+        "MALE2000": 295,
+        "FEMALE2000": 290,
+        "POP2008": 725,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051333013,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9022,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91157899967118,
+          -4.584563000082369
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9022,
+        "CU_NAME": "MATER",
+        "CU_NO": "023",
+        "GEOCODE": "13051333023",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "33",
+        "WARD_NAME": "WARD 33",
+        "LATITUDE": -4.585958,
+        "LONGITUDE": 145.910544,
+        "REGHH": 75,
+        "TOTPOP2000": 469,
+        "MALE2000": 243,
+        "FEMALE2000": 226,
+        "POP2008": 580,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051333023,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9023,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9420100000615,
+          -4.587677999839798
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9023,
+        "CU_NAME": "DOKTE",
+        "CU_NO": "024",
+        "GEOCODE": "13051333024",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "33",
+        "WARD_NAME": "WARD 33",
+        "LATITUDE": -4.589074,
+        "LONGITUDE": 145.940975,
+        "REGHH": 12,
+        "TOTPOP2000": 76,
+        "MALE2000": 42,
+        "FEMALE2000": 34,
+        "POP2008": 92,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051333024,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9024,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9095410001171,
+          -4.587474000324789
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9024,
+        "CU_NAME": "MATER COMM. SCH.",
+        "CU_NO": "401",
+        "GEOCODE": "13051333401",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "33",
+        "WARD_NAME": "WARD 33",
+        "LATITUDE": -4.588869,
+        "LONGITUDE": 145.908506,
+        "REGHH": 2,
+        "TOTPOP2000": 16,
+        "MALE2000": 7,
+        "FEMALE2000": 9,
+        "POP2008": 16,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051333401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

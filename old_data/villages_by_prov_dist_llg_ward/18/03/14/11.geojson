@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5046,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.21555299967122,
+          -5.910395999875448
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5046,
+        "CU_NAME": "KANGELONA",
+        "CU_NO": "001",
+        "GEOCODE": "18031411001",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "11",
+        "WARD_NAME": "KANGELONA",
+        "LATITUDE": -5.910424,
+        "LONGITUDE": 151.216456,
+        "REGHH": 29,
+        "TOTPOP2000": 151,
+        "MALE2000": 64,
+        "FEMALE2000": 87,
+        "POP2008": 183,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031411001,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.78564599996298,
+          -9.642057000130421
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10260,
+        "CU_NAME": "NEBOLUWA",
+        "CU_NO": "001",
+        "GEOCODE": "05041515001",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "15",
+        "WARD_NAME": "NEBOLUWA",
+        "LATITUDE": -9.643519,
+        "LONGITUDE": 150.784668,
+        "REGHH": 54,
+        "TOTPOP2000": 280,
+        "MALE2000": 148,
+        "FEMALE2000": 132,
+        "POP2008": 341,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041515001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

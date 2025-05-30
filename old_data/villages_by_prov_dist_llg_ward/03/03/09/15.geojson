@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6671749997265,
+          -9.113548000339904
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1491,
+        "CU_NAME": "BODINUMU",
+        "CU_NO": "002",
+        "GEOCODE": "03030915002",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "15",
+        "WARD_NAME": "BORIDI",
+        "LATITUDE": -9.112065,
+        "LONGITUDE": 147.666829,
+        "REGHH": 29,
+        "TOTPOP2000": 169,
+        "MALE2000": 81,
+        "FEMALE2000": 88,
+        "POP2008": 202,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030915002,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1492,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.63885799969694,
+          -9.085959999754152
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1492,
+        "CU_NAME": "BORIDI",
+        "CU_NO": "003",
+        "GEOCODE": "03030915003",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "15",
+        "WARD_NAME": "BORIDI",
+        "LATITUDE": -9.087406,
+        "LONGITUDE": 147.637837,
+        "REGHH": 21,
+        "TOTPOP2000": 115,
+        "MALE2000": 55,
+        "FEMALE2000": 60,
+        "POP2008": 139,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030915003,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1493,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.60156400027847,
+          -9.08002799959246
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1493,
+        "CU_NAME": "DUBI",
+        "CU_NO": "004",
+        "GEOCODE": "03030915004",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "15",
+        "WARD_NAME": "BORIDI",
+        "LATITUDE": -9.080118,
+        "LONGITUDE": 147.603261,
+        "REGHH": 11,
+        "TOTPOP2000": 45,
+        "MALE2000": 22,
+        "FEMALE2000": 23,
+        "POP2008": 53,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030915004,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1494,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.57098800039591,
+          -9.066918000265446
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1494,
+        "CU_NAME": "MANUMU",
+        "CU_NO": "012",
+        "GEOCODE": "03030915012",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "15",
+        "WARD_NAME": "BORIDI",
+        "LATITUDE": -9.067003,
+        "LONGITUDE": 147.576313,
+        "REGHH": 9,
+        "TOTPOP2000": 57,
+        "MALE2000": 28,
+        "FEMALE2000": 29,
+        "POP2008": 65,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030915012,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

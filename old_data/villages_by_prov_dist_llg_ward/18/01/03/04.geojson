@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4523,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.67513399993425,
+          -4.211972999554234
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4523,
+        "CU_NAME": "NANGAS",
+        "CU_NO": "007",
+        "GEOCODE": "18010304007",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "NANGAS",
+        "LATITUDE": -4.213371,
+        "LONGITUDE": 151.674181,
+        "REGHH": 25,
+        "TOTPOP2000": 128,
+        "MALE2000": 68,
+        "FEMALE2000": 60,
+        "POP2008": 156,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010304007,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4524,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6895870000401,
+          -4.215928000276961
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4524,
+        "CU_NAME": "ASALINGI PLANTATION",
+        "CU_NO": "501",
+        "GEOCODE": "18010304501",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "NANGAS",
+        "LATITUDE": -4.217328,
+        "LONGITUDE": 151.688634,
+        "REGHH": 18,
+        "TOTPOP2000": 106,
+        "MALE2000": 82,
+        "FEMALE2000": 24,
+        "POP2008": 130,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010304501,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4525,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.62975499999334,
+          -4.203884999792876
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4525,
+        "CU_NAME": "GAVIT PLANTATION",
+        "CU_NO": "503",
+        "GEOCODE": "18010304503",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "NANGAS",
+        "LATITUDE": -4.200074,
+        "LONGITUDE": 151.63533,
+        "REGHH": 8,
+        "TOTPOP2000": 48,
+        "MALE2000": 26,
+        "FEMALE2000": 22,
+        "POP2008": 56,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010304503,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4526,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.66750399970988,
+          -4.2027309996358895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4526,
+        "CU_NAME": "TOVANAKUS PLANTATION",
+        "CU_NO": "529",
+        "GEOCODE": "18010304529",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "NANGAS",
+        "LATITUDE": -4.20413,
+        "LONGITUDE": 151.66748,
+        "REGHH": 14,
+        "TOTPOP2000": 66,
+        "MALE2000": 38,
+        "FEMALE2000": 28,
+        "POP2008": 82,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010304529,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4527,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.64378699957047,
+          -4.199663000247199
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4527,
+        "CU_NAME": "LILINAKAIA",
+        "CU_NO": "530",
+        "GEOCODE": "18010304530",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "NANGAS",
+        "LATITUDE": -4.201061,
+        "LONGITUDE": 151.642833,
+        "REGHH": 5,
+        "TOTPOP2000": 38,
+        "MALE2000": 24,
+        "FEMALE2000": 14,
+        "POP2008": 46,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010304530,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4528,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6663729997142,
+          -4.212409999921533
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4528,
+        "CU_NAME": "DING SETTLEMENT",
+        "CU_NO": "531",
+        "GEOCODE": "18010304531",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "NANGAS",
+        "LATITUDE": -4.213808,
+        "LONGITUDE": 151.66542,
+        "REGHH": 6,
+        "TOTPOP2000": 43,
+        "MALE2000": 28,
+        "FEMALE2000": 15,
+        "POP2008": 51,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010304531,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

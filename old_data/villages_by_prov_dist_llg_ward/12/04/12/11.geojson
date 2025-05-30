@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11172,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.09887899976604,
+          -6.203008000318903
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11172,
+        "CU_NAME": "LOMNGE",
+        "CU_NO": "020",
+        "GEOCODE": "12041211020",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "SAMBANGAN",
+        "LATITUDE": -6.204424,
+        "LONGITUDE": 147.097857,
+        "REGHH": 52,
+        "TOTPOP2000": 289,
+        "MALE2000": 150,
+        "FEMALE2000": 139,
+        "POP2008": 361,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041211020,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11173,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.11981300016987,
+          -6.213221000049089
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11173,
+        "CU_NAME": "SAMBANGAN",
+        "CU_NO": "028",
+        "GEOCODE": "12041211028",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "SAMBANGAN",
+        "LATITUDE": -6.214637,
+        "LONGITUDE": 147.118791,
+        "REGHH": 73,
+        "TOTPOP2000": 386,
+        "MALE2000": 184,
+        "FEMALE2000": 202,
+        "POP2008": 481,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041211028,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1164990002287,
+          -6.202280000021915
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11174,
+        "CU_NAME": "WANGGA",
+        "CU_NO": "029",
+        "GEOCODE": "12041211029",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "SAMBANGAN",
+        "LATITUDE": -6.203696,
+        "LONGITUDE": 147.115477,
+        "REGHH": 41,
+        "TOTPOP2000": 232,
+        "MALE2000": 118,
+        "FEMALE2000": 114,
+        "POP2008": 289,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041211029,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

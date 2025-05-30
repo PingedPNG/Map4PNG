@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17464,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.10741099991776,
+          -5.8210149996425
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17464,
+        "CU_NAME": "PAIAKONA 1",
+        "CU_NO": "029",
+        "GEOCODE": "09071204029",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "04",
+        "WARD_NAME": "PAIAKONA.1",
+        "LATITUDE": -5.823297,
+        "LONGITUDE": 144.107468,
+        "REGHH": 78,
+        "TOTPOP2000": 309,
+        "MALE2000": 163,
+        "FEMALE2000": 146,
+        "POP2008": 377,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071204029,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17465,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.10004800031504,
+          -5.81208599976901
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17465,
+        "CU_NAME": "TORIKA",
+        "CU_NO": "030",
+        "GEOCODE": "09071204030",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "04",
+        "WARD_NAME": "PAIAKONA.1",
+        "LATITUDE": -5.813024,
+        "LONGITUDE": 144.100379,
+        "REGHH": 71,
+        "TOTPOP2000": 305,
+        "MALE2000": 152,
+        "FEMALE2000": 153,
+        "POP2008": 372,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071204030,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17466,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.10351199997888,
+          -5.821505999802014
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17466,
+        "CU_NAME": "PAIAKONA C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "09071204401",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "04",
+        "WARD_NAME": "PAIAKONA.1",
+        "LATITUDE": -5.822444,
+        "LONGITUDE": 144.103843,
+        "REGHH": 2,
+        "TOTPOP2000": 4,
+        "MALE2000": 4,
+        "FEMALE2000": 0,
+        "POP2008": 4,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071204401,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

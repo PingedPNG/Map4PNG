@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30329,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.81046988038077,
+          -6.992547570314059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30329,
+        "CU_NAME": "GAWOI NO 1",
+        "CU_NO": "005",
+        "GEOCODE": "11060906005",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAWOI",
+        "LATITUDE": -6.992548,
+        "LONGITUDE": 145.81047,
+        "REGHH": 51,
+        "TOTPOP2000": 190,
+        "MALE2000": 86,
+        "FEMALE2000": 104,
+        "POP2008": 226,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30330,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.81106244007958,
+          -6.984649080190877
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30330,
+        "CU_NAME": "NANDARAK",
+        "CU_NO": "021",
+        "GEOCODE": "11060906021",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAWOI",
+        "LATITUDE": -6.984649,
+        "LONGITUDE": 145.811062,
+        "REGHH": 38,
+        "TOTPOP2000": 207,
+        "MALE2000": 96,
+        "FEMALE2000": 111,
+        "POP2008": 247,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30331,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8041929200673,
+          -6.982272000252578
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30331,
+        "CU_NAME": "GANOI NO 2",
+        "CU_NO": "022",
+        "GEOCODE": "11060906022",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAWOI",
+        "LATITUDE": -6.982272,
+        "LONGITUDE": 145.804193,
+        "REGHH": 76,
+        "TOTPOP2000": 366,
+        "MALE2000": 192,
+        "FEMALE2000": 174,
+        "POP2008": 435,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10228,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.53437600035215,
+          -9.54402999958478
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10228,
+        "CU_NAME": "FAGULULU",
+        "CU_NO": "006",
+        "GEOCODE": "05041409006",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "14",
+        "WARD_NO": "09",
+        "WARD_NAME": "FAGULULU",
+        "LATITUDE": -9.539874,
+        "LONGITUDE": 150.536464,
+        "REGHH": 117,
+        "TOTPOP2000": 563,
+        "MALE2000": 289,
+        "FEMALE2000": 274,
+        "POP2008": 686,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041409006,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

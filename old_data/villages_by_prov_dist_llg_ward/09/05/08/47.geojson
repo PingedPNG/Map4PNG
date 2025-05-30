@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17067,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.14440399984483,
+          -5.876531000305363
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17067,
+        "CU_NAME": "EBUGA",
+        "CU_NO": "001",
+        "GEOCODE": "09050847001",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "47",
+        "WARD_NAME": "EBUGA",
+        "LATITUDE": -5.877471,
+        "LONGITUDE": 144.144737,
+        "REGHH": 152,
+        "TOTPOP2000": 760,
+        "MALE2000": 382,
+        "FEMALE2000": 378,
+        "POP2008": 925,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050847001,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

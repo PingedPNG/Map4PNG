@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19097,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.46177200037755,
+          -3.1920649998997987
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19097,
+        "CU_NAME": "FUGERI",
+        "CU_NO": "003",
+        "GEOCODE": "15041611003",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "11",
+        "WARD_NAME": "FAS 1",
+        "LATITUDE": -3.192494,
+        "LONGITUDE": 141.464901,
+        "REGHH": 14,
+        "TOTPOP2000": 100,
+        "MALE2000": 48,
+        "FEMALE2000": 52,
+        "POP2008": 121,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041611003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19098,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.38316000033376,
+          -3.2571569996957237
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19098,
+        "CU_NAME": "FUGUMUI",
+        "CU_NO": "004",
+        "GEOCODE": "15041611004",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "11",
+        "WARD_NAME": "FAS 1",
+        "LATITUDE": -3.253331,
+        "LONGITUDE": 141.425202,
+        "REGHH": 40,
+        "TOTPOP2000": 342,
+        "MALE2000": 169,
+        "FEMALE2000": 173,
+        "POP2008": 413,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041611004,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

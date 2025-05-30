@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15502,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.04620600010685,
+          -5.1456999999550135
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15502,
+        "CU_NAME": "ATEMKIT",
+        "CU_NO": "001",
+        "GEOCODE": "01021001001",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "ATEMKIT",
+        "LATITUDE": -5.152831,
+        "LONGITUDE": 141.03594,
+        "REGHH": 21,
+        "TOTPOP2000": 115,
+        "MALE2000": 60,
+        "FEMALE2000": 55,
+        "POP2008": 149,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1021001001,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

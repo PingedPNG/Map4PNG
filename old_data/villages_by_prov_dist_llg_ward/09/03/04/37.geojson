@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16777,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.16569000029335,
+          -5.8818849998928044
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16777,
+        "CU_NAME": "KULG",
+        "CU_NO": "014",
+        "GEOCODE": "09030437014",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "37",
+        "WARD_NAME": "KULG",
+        "LATITUDE": -5.882824,
+        "LONGITUDE": 144.166022,
+        "REGHH": 79,
+        "TOTPOP2000": 309,
+        "MALE2000": 163,
+        "FEMALE2000": 146,
+        "POP2008": 377,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030437014,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16778,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.15171199960912,
+          -5.873530000409119
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16778,
+        "CU_NAME": "KOLTOM",
+        "CU_NO": "015",
+        "GEOCODE": "09030437015",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "37",
+        "WARD_NAME": "KULG",
+        "LATITUDE": -5.87447,
+        "LONGITUDE": 144.152044,
+        "REGHH": 66,
+        "TOTPOP2000": 240,
+        "MALE2000": 122,
+        "FEMALE2000": 118,
+        "POP2008": 292,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030437015,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16779,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.15763500025514,
+          -5.878490999859707
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16779,
+        "CU_NAME": "KOIBUGA",
+        "CU_NO": "016",
+        "GEOCODE": "09030437016",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "37",
+        "WARD_NAME": "KULG",
+        "LATITUDE": -5.879431,
+        "LONGITUDE": 144.157967,
+        "REGHH": 35,
+        "TOTPOP2000": 125,
+        "MALE2000": 55,
+        "FEMALE2000": 70,
+        "POP2008": 152,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030437016,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16780,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.14716799960354,
+          -5.887832999892964
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16780,
+        "CU_NAME": "OMUGMUG",
+        "CU_NO": "017",
+        "GEOCODE": "09030437017",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "37",
+        "WARD_NAME": "KULG",
+        "LATITUDE": -5.888773,
+        "LONGITUDE": 144.147501,
+        "REGHH": 85,
+        "TOTPOP2000": 362,
+        "MALE2000": 165,
+        "FEMALE2000": 197,
+        "POP2008": 440,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030437017,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16781,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1656540004318,
+          -5.879335000110132
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16781,
+        "CU_NAME": "DAKA",
+        "CU_NO": "018",
+        "GEOCODE": "09030437018",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "37",
+        "WARD_NAME": "KULG",
+        "LATITUDE": -5.880275,
+        "LONGITUDE": 144.165986,
+        "REGHH": 41,
+        "TOTPOP2000": 213,
+        "MALE2000": 118,
+        "FEMALE2000": 95,
+        "POP2008": 259,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030437018,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

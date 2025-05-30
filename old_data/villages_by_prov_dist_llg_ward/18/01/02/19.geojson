@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.85205099985387,
+          -4.241151999764952
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4498,
+        "CU_NAME": "RAMANDU SETTLEMENT",
+        "CU_NO": "030",
+        "GEOCODE": "18010219030",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "19",
+        "WARD_NAME": "RAGAGA",
+        "LATITUDE": -4.242551,
+        "LONGITUDE": 151.8511,
+        "REGHH": 29,
+        "TOTPOP2000": 200,
+        "MALE2000": 96,
+        "FEMALE2000": 104,
+        "POP2008": 243,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010219030,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4499,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.8320530003458,
+          -4.267283999756728
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4499,
+        "CU_NAME": "RAGAGA",
+        "CU_NO": "031",
+        "GEOCODE": "18010219031",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "19",
+        "WARD_NAME": "RAGAGA",
+        "LATITUDE": -4.268683,
+        "LONGITUDE": 151.831102,
+        "REGHH": 37,
+        "TOTPOP2000": 212,
+        "MALE2000": 112,
+        "FEMALE2000": 100,
+        "POP2008": 258,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010219031,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4500,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.84492200025022,
+          -4.26031200019861
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4500,
+        "CU_NAME": "KLINWARA PLANTATION",
+        "CU_NO": "507",
+        "GEOCODE": "18010219507",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "19",
+        "WARD_NAME": "RAGAGA",
+        "LATITUDE": -4.261711,
+        "LONGITUDE": 151.843971,
+        "REGHH": 41,
+        "TOTPOP2000": 205,
+        "MALE2000": 118,
+        "FEMALE2000": 87,
+        "POP2008": 249,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010219507,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4501,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.8524779997599,
+          -4.239794000092957
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4501,
+        "CU_NAME": "RAMANDU PLANTATION",
+        "CU_NO": "509",
+        "GEOCODE": "18010219509",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "19",
+        "WARD_NAME": "RAGAGA",
+        "LATITUDE": -4.241193,
+        "LONGITUDE": 151.851527,
+        "REGHH": 12,
+        "TOTPOP2000": 66,
+        "MALE2000": 47,
+        "FEMALE2000": 19,
+        "POP2008": 82,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010219509,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

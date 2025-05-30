@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6578,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.02030300038325,
+          -3.6253810003328795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6578,
+        "CU_NAME": "APANGAI 1",
+        "CU_NO": "001",
+        "GEOCODE": "14031005001",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "APANGAI",
+        "LATITUDE": -3.626959,
+        "LONGITUDE": 143.019062,
+        "REGHH": 98,
+        "TOTPOP2000": 461,
+        "MALE2000": 232,
+        "FEMALE2000": 229,
+        "POP2008": 549,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031005001,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6579,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.01854100006722,
+          -3.619392000240566
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6579,
+        "CU_NAME": "APANGAI 2",
+        "CU_NO": "002",
+        "GEOCODE": "14031005002",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "APANGAI",
+        "LATITUDE": -3.62097,
+        "LONGITUDE": 143.0173,
+        "REGHH": 69,
+        "TOTPOP2000": 320,
+        "MALE2000": 165,
+        "FEMALE2000": 155,
+        "POP2008": 381,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031005002,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6580,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.01399900015383,
+          -3.6120539999920425
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6580,
+        "CU_NAME": "APANGAI 3",
+        "CU_NO": "004",
+        "GEOCODE": "14031005004",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "APANGAI",
+        "LATITUDE": -3.613632,
+        "LONGITUDE": 143.012759,
+        "REGHH": 38,
+        "TOTPOP2000": 158,
+        "MALE2000": 84,
+        "FEMALE2000": 74,
+        "POP2008": 189,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031005004,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6581,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.99942199972554,
+          -3.6243260002446505
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6581,
+        "CU_NAME": "YAMELIKUM",
+        "CU_NO": "015",
+        "GEOCODE": "14031005015",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "APANGAI",
+        "LATITUDE": -3.625904,
+        "LONGITUDE": 142.998182,
+        "REGHH": 63,
+        "TOTPOP2000": 270,
+        "MALE2000": 135,
+        "FEMALE2000": 135,
+        "POP2008": 321,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031005015,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6582,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.00643300018282,
+          -3.6176689999243763
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6582,
+        "CU_NAME": "BRIGITI COMMUNITY SCHOOL",
+        "CU_NO": "402",
+        "GEOCODE": "14031005402",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "APANGAI",
+        "LATITUDE": -3.620263,
+        "LONGITUDE": 143.006973,
+        "REGHH": 7,
+        "TOTPOP2000": 48,
+        "MALE2000": 17,
+        "FEMALE2000": 31,
+        "POP2008": 56,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031005402,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

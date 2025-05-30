@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19500,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.04848899956778,
+          -6.179413000409568
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19500,
+        "CU_NAME": "KOPIRI",
+        "CU_NO": "009",
+        "GEOCODE": "07020505009",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "PONEGAMA",
+        "LATITUDE": -6.183459,
+        "LONGITUDE": 144.047644,
+        "REGHH": 35,
+        "TOTPOP2000": 164,
+        "MALE2000": 74,
+        "FEMALE2000": 90,
+        "POP2008": 227,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020505009,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19501,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.04839199959122,
+          -6.180337999898711
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19501,
+        "CU_NAME": "KONAPUL",
+        "CU_NO": "010",
+        "GEOCODE": "07020505010",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "PONEGAMA",
+        "LATITUDE": -6.183459,
+        "LONGITUDE": 144.047644,
+        "REGHH": 26,
+        "TOTPOP2000": 117,
+        "MALE2000": 51,
+        "FEMALE2000": 66,
+        "POP2008": 163,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020505010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19502,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.04695800001173,
+          -6.180346000267662
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19502,
+        "CU_NAME": "KUNDIPOI",
+        "CU_NO": "011",
+        "GEOCODE": "07020505011",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "PONEGAMA",
+        "LATITUDE": -6.183459,
+        "LONGITUDE": 144.047644,
+        "REGHH": 36,
+        "TOTPOP2000": 165,
+        "MALE2000": 76,
+        "FEMALE2000": 89,
+        "POP2008": 230,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020505011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19503,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.04633700015245,
+          -6.179322999856538
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19503,
+        "CU_NAME": "PONELAMA",
+        "CU_NO": "012",
+        "GEOCODE": "07020505012",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "PONEGAMA",
+        "LATITUDE": -6.183459,
+        "LONGITUDE": 144.047644,
+        "REGHH": 26,
+        "TOTPOP2000": 151,
+        "MALE2000": 67,
+        "FEMALE2000": 84,
+        "POP2008": 209,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020505012,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9741,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.2604930002518,
+          -10.453175000425858
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9741,
+        "CU_NAME": "GELAMALAIA",
+        "CU_NO": "001",
+        "GEOCODE": "05010517001",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "GELAMALAIA",
+        "LATITUDE": -10.456866,
+        "LONGITUDE": 150.255689,
+        "REGHH": 33,
+        "TOTPOP2000": 203,
+        "MALE2000": 91,
+        "FEMALE2000": 112,
+        "POP2008": 247,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010517001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9742,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.29413300023782,
+          -10.49479699978167
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9742,
+        "CU_NAME": "MILLA",
+        "CU_NO": "003",
+        "GEOCODE": "05010517003",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "GELAMALAIA",
+        "LATITUDE": -10.499627,
+        "LONGITUDE": 150.290458,
+        "REGHH": 24,
+        "TOTPOP2000": 146,
+        "MALE2000": 90,
+        "FEMALE2000": 56,
+        "POP2008": 178,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010517003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9743,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.29417799961504,
+          -10.444749000366016
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9743,
+        "CU_NAME": "WELLA",
+        "CU_NO": "004",
+        "GEOCODE": "05010517004",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "GELAMALAIA",
+        "LATITUDE": -10.445674,
+        "LONGITUDE": 150.294152,
+        "REGHH": 41,
+        "TOTPOP2000": 258,
+        "MALE2000": 149,
+        "FEMALE2000": 109,
+        "POP2008": 314,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010517004,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9744,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.2769930003268,
+          -10.43199600041504
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9744,
+        "CU_NAME": "ATA'ATA",
+        "CU_NO": "005",
+        "GEOCODE": "05010517005",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "GELAMALAIA",
+        "LATITUDE": -10.432687,
+        "LONGITUDE": 150.277287,
+        "REGHH": 21,
+        "TOTPOP2000": 116,
+        "MALE2000": 65,
+        "FEMALE2000": 51,
+        "POP2008": 140,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010517005,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.25024099962252,
+          -10.440624999943736
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9745,
+        "CU_NAME": "AWHATUBO",
+        "CU_NO": "006",
+        "GEOCODE": "05010517006",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "GELAMALAIA",
+        "LATITUDE": -10.442094,
+        "LONGITUDE": 150.249253,
+        "REGHH": 27,
+        "TOTPOP2000": 190,
+        "MALE2000": 101,
+        "FEMALE2000": 89,
+        "POP2008": 231,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010517006,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9971,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.92420816517472,
+          -11.161970886647055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9971,
+        "CU_NAME": "KWANAK",
+        "CU_NO": "003",
+        "GEOCODE": "05020929003",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "29",
+        "WARD_NAME": "PANAUMARA",
+        "LATITUDE": -11.160561,
+        "LONGITUDE": 152.922898,
+        "REGHH": 20,
+        "TOTPOP2000": 129,
+        "MALE2000": 76,
+        "FEMALE2000": 53,
+        "POP2008": 157,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020929003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9972,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.78754788312835,
+          -11.148793945384227
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9972,
+        "CU_NAME": "PANAUMALA",
+        "CU_NO": "005",
+        "GEOCODE": "05020929005",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "29",
+        "WARD_NAME": "PANAUMARA",
+        "LATITUDE": -11.158469,
+        "LONGITUDE": 152.780034,
+        "REGHH": 26,
+        "TOTPOP2000": 139,
+        "MALE2000": 68,
+        "FEMALE2000": 71,
+        "POP2008": 170,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020929005,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9973,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.94908411174242,
+          -11.170079837014839
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9973,
+        "CU_NAME": "NOGUI",
+        "CU_NO": "006",
+        "GEOCODE": "05020929006",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "29",
+        "WARD_NAME": "PANAUMARA",
+        "LATITUDE": -11.167843,
+        "LONGITUDE": 152.943609,
+        "REGHH": 16,
+        "TOTPOP2000": 92,
+        "MALE2000": 43,
+        "FEMALE2000": 49,
+        "POP2008": 111,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020929006,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9969,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.57525600016436,
+          -11.087003999834678
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9969,
+        "CU_NAME": "LALAGELA",
+        "CU_NO": "001",
+        "GEOCODE": "05020927001",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "27",
+        "WARD_NAME": "MOTORINA SOUTH",
+        "LATITUDE": -11.090073,
+        "LONGITUDE": 152.573227,
+        "REGHH": 35,
+        "TOTPOP2000": 196,
+        "MALE2000": 101,
+        "FEMALE2000": 95,
+        "POP2008": 239,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020927001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

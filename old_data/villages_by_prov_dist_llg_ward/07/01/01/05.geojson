@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.18093700014253,
+          -6.378817000404183
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19116,
+        "CU_NAME": "TAKENDA",
+        "CU_NO": "001",
+        "GEOCODE": "07010105001",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "POKALE 1",
+        "LATITUDE": -6.383259,
+        "LONGITUDE": 144.179744,
+        "REGHH": 38,
+        "TOTPOP2000": 195,
+        "MALE2000": 101,
+        "FEMALE2000": 94,
+        "POP2008": 272,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010105001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.17944999991767,
+          -6.377533999694265
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19117,
+        "CU_NAME": "KARANAS",
+        "CU_NO": "002",
+        "GEOCODE": "07010105002",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "POKALE 1",
+        "LATITUDE": -6.383259,
+        "LONGITUDE": 144.179744,
+        "REGHH": 22,
+        "TOTPOP2000": 112,
+        "MALE2000": 55,
+        "FEMALE2000": 57,
+        "POP2008": 156,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010105002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.18041200021366,
+          -6.381158999588138
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19118,
+        "CU_NAME": "PALIPINI",
+        "CU_NO": "003",
+        "GEOCODE": "07010105003",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "POKALE 1",
+        "LATITUDE": -6.383259,
+        "LONGITUDE": 144.179744,
+        "REGHH": 17,
+        "TOTPOP2000": 87,
+        "MALE2000": 48,
+        "FEMALE2000": 39,
+        "POP2008": 121,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010105003,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

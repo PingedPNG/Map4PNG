@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18622,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.17612399982283,
+          -3.5502289997684784
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18622,
+        "CU_NAME": "KARUKA",
+        "CU_NO": "003",
+        "GEOCODE": "15020707003",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "07",
+        "WARD_NAME": "PIOM/LALWI",
+        "LATITUDE": -3.551608,
+        "LONGITUDE": 142.175043,
+        "REGHH": 19,
+        "TOTPOP2000": 104,
+        "MALE2000": 53,
+        "FEMALE2000": 51,
+        "POP2008": 127,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020707003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18623,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1754819998945,
+          -3.529056000034302
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18623,
+        "CU_NAME": "LALUI",
+        "CU_NO": "004",
+        "GEOCODE": "15020707004",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "07",
+        "WARD_NAME": "PIOM/LALWI",
+        "LATITUDE": -3.530435,
+        "LONGITUDE": 142.174401,
+        "REGHH": 28,
+        "TOTPOP2000": 145,
+        "MALE2000": 77,
+        "FEMALE2000": 68,
+        "POP2008": 176,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020707004,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18624,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.18150699984824,
+          -3.5401600003836506
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18624,
+        "CU_NAME": "PIOM",
+        "CU_NO": "009",
+        "GEOCODE": "15020707009",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "07",
+        "WARD_NAME": "PIOM/LALWI",
+        "LATITUDE": -3.541539,
+        "LONGITUDE": 142.180426,
+        "REGHH": 26,
+        "TOTPOP2000": 137,
+        "MALE2000": 74,
+        "FEMALE2000": 63,
+        "POP2008": 166,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020707009,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

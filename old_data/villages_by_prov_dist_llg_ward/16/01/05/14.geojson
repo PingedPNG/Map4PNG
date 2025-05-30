@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9421,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.21683300014286,
+          -2.0109089998504146
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9421,
+        "CU_NAME": "BULISO",
+        "CU_NO": "010",
+        "GEOCODE": "16010514010",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "14",
+        "WARD_NAME": "SAPON 1",
+        "LATITUDE": -2.007507,
+        "LONGITUDE": 147.212472,
+        "REGHH": 44,
+        "TOTPOP2000": 192,
+        "MALE2000": 102,
+        "FEMALE2000": 90,
+        "POP2008": 236,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010514010,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9422,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2091700001954,
+          -2.027164000318294
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9422,
+        "CU_NAME": "SAPON 1",
+        "CU_NO": "013",
+        "GEOCODE": "16010514013",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "14",
+        "WARD_NAME": "SAPON 1",
+        "LATITUDE": -2.02853,
+        "LONGITUDE": 147.208155,
+        "REGHH": 32,
+        "TOTPOP2000": 160,
+        "MALE2000": 75,
+        "FEMALE2000": 85,
+        "POP2008": 196,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010514013,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9423,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2288229999815,
+          -2.0730019998423472
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9423,
+        "CU_NAME": "SAPON 2",
+        "CU_NO": "014",
+        "GEOCODE": "16010514014",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "14",
+        "WARD_NAME": "SAPON 1",
+        "LATITUDE": -2.074368,
+        "LONGITUDE": 147.227808,
+        "REGHH": 19,
+        "TOTPOP2000": 101,
+        "MALE2000": 52,
+        "FEMALE2000": 49,
+        "POP2008": 125,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010514014,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9424,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.20905300019592,
+          -2.0091810002029433
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9424,
+        "CU_NAME": "BULIHAT",
+        "CU_NO": "016",
+        "GEOCODE": "16010514016",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "14",
+        "WARD_NAME": "SAPON 1",
+        "LATITUDE": -2.006,
+        "LONGITUDE": 147.202,
+        "REGHH": 19,
+        "TOTPOP2000": 87,
+        "MALE2000": 43,
+        "FEMALE2000": 44,
+        "POP2008": 106,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010514016,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

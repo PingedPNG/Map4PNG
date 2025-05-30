@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18501,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.57853041124952,
+          -3.774939370855236
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18501,
+        "CU_NAME": "KAFLE 3",
+        "CU_NO": "006",
+        "GEOCODE": "15020508006",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "KAFLE 3",
+        "LATITUDE": -3.770563,
+        "LONGITUDE": 142.578004,
+        "REGHH": 144,
+        "TOTPOP2000": 687,
+        "MALE2000": 346,
+        "FEMALE2000": 341,
+        "POP2008": 830,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020508006,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

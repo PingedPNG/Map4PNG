@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.52926300038723,
+          -4.71060200008219
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18108,
+        "CU_NAME": "LAMA",
+        "CU_NO": "010",
+        "GEOCODE": "19020707010",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "07",
+        "WARD_NAME": "EAST GAROVE",
+        "LATITUDE": -4.711793,
+        "LONGITUDE": 149.528918,
+        "REGHH": 64,
+        "TOTPOP2000": 297,
+        "MALE2000": 157,
+        "FEMALE2000": 140,
+        "POP2008": 391,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020707010,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.49283300034278,
+          -4.6425830002052635
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18109,
+        "CU_NAME": "LAMBE",
+        "CU_NO": "011",
+        "GEOCODE": "19020707011",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "07",
+        "WARD_NAME": "EAST GAROVE",
+        "LATITUDE": -4.64291,
+        "LONGITUDE": 149.491,
+        "REGHH": 135,
+        "TOTPOP2000": 833,
+        "MALE2000": 463,
+        "FEMALE2000": 370,
+        "POP2008": 1096,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020707011,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.5459849999079,
+          -4.6748180001505375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18110,
+        "CU_NAME": "DOLE",
+        "CU_NO": "016",
+        "GEOCODE": "19020707016",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "07",
+        "WARD_NAME": "EAST GAROVE",
+        "LATITUDE": -4.67622,
+        "LONGITUDE": 149.545,
+        "REGHH": 20,
+        "TOTPOP2000": 134,
+        "MALE2000": 63,
+        "FEMALE2000": 71,
+        "POP2008": 177,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020707016,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.52298499955816,
+          -4.651279000125726
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18111,
+        "CU_NAME": "POTPOT / METO",
+        "CU_NO": "022",
+        "GEOCODE": "19020707022",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "07",
+        "WARD_NAME": "EAST GAROVE",
+        "LATITUDE": -4.65268,
+        "LONGITUDE": 149.522,
+        "REGHH": 47,
+        "TOTPOP2000": 270,
+        "MALE2000": 142,
+        "FEMALE2000": 128,
+        "POP2008": 355,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020707022,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.54398500030754,
+          -4.706098000122552
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18112,
+        "CU_NAME": "LAMA PLANTATION",
+        "CU_NO": "503",
+        "GEOCODE": "19020707503",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "07",
+        "WARD_NAME": "EAST GAROVE",
+        "LATITUDE": -4.7075,
+        "LONGITUDE": 149.543,
+        "REGHH": 22,
+        "TOTPOP2000": 116,
+        "MALE2000": 58,
+        "FEMALE2000": 58,
+        "POP2008": 152,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020707503,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

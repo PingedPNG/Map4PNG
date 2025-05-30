@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8313,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.46876300001247,
+          -5.217535000439852
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8313,
+        "CU_NAME": "BAISARIK",
+        "CU_NO": "003",
+        "GEOCODE": "13020604003",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "WARD FOUR",
+        "LATITUDE": -5.218937,
+        "LONGITUDE": 145.467721,
+        "REGHH": 84,
+        "TOTPOP2000": 537,
+        "MALE2000": 267,
+        "FEMALE2000": 270,
+        "POP2008": 664,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020604003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8314,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.48109000010345,
+          -5.2598549996084785
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8314,
+        "CU_NAME": "BEMAL",
+        "CU_NO": "005",
+        "GEOCODE": "13020604005",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "WARD FOUR",
+        "LATITUDE": -5.257698,
+        "LONGITUDE": 145.484125,
+        "REGHH": 78,
+        "TOTPOP2000": 494,
+        "MALE2000": 263,
+        "FEMALE2000": 231,
+        "POP2008": 611,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020604005,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8315,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5128970000966,
+          -5.269262999987404
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8315,
+        "CU_NAME": "JOBTO",
+        "CU_NO": "015",
+        "GEOCODE": "13020604015",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "WARD FOUR",
+        "LATITUDE": -5.275747,
+        "LONGITUDE": 145.509307,
+        "REGHH": 55,
+        "TOTPOP2000": 375,
+        "MALE2000": 201,
+        "FEMALE2000": 174,
+        "POP2008": 464,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020604015,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8316,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.54365300018583,
+          -5.276683000420064
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8316,
+        "CU_NAME": "WAGUMA",
+        "CU_NO": "027",
+        "GEOCODE": "13020604027",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "WARD FOUR",
+        "LATITUDE": -5.278086,
+        "LONGITUDE": 145.542612,
+        "REGHH": 13,
+        "TOTPOP2000": 79,
+        "MALE2000": 45,
+        "FEMALE2000": 34,
+        "POP2008": 96,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020604027,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8317,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4872600004487,
+          -5.262973000403576
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8317,
+        "CU_NAME": "BEMAL C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "13020604401",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "WARD FOUR",
+        "LATITUDE": -5.264375,
+        "LONGITUDE": 145.486218,
+        "REGHH": 3,
+        "TOTPOP2000": 19,
+        "MALE2000": 9,
+        "FEMALE2000": 10,
+        "POP2008": 27,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020604401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

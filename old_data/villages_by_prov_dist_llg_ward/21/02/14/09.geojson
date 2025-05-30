@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20488,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.73509000030333,
+          -5.573211999833859
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20488,
+        "CU_NAME": "EGAE (AYUGALI 1)",
+        "CU_NO": "001",
+        "GEOCODE": "07051409001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "09",
+        "WARD_NAME": "EGAE (AYUGALI 1)",
+        "LATITUDE": -5.578073,
+        "LONGITUDE": 142.731106,
+        "REGHH": 63,
+        "TOTPOP2000": 317,
+        "MALE2000": 146,
+        "FEMALE2000": 171,
+        "POP2008": 440,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051409001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20489,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.73239900031365,
+          -5.57864100018196
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20489,
+        "CU_NAME": "WIRA",
+        "CU_NO": "002",
+        "GEOCODE": "07051409002",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "09",
+        "WARD_NAME": "EGAE (AYUGALI 1)",
+        "LATITUDE": -5.578073,
+        "LONGITUDE": 142.731106,
+        "REGHH": 29,
+        "TOTPOP2000": 118,
+        "MALE2000": 54,
+        "FEMALE2000": 64,
+        "POP2008": 164,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051409002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20490,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7311779997649,
+          -5.569291999825907
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20490,
+        "CU_NAME": "WARAYEA",
+        "CU_NO": "003",
+        "GEOCODE": "07051409003",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "09",
+        "WARD_NAME": "EGAE (AYUGALI 1)",
+        "LATITUDE": -5.578073,
+        "LONGITUDE": 142.731106,
+        "REGHH": 18,
+        "TOTPOP2000": 72,
+        "MALE2000": 40,
+        "FEMALE2000": 32,
+        "POP2008": 100,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051409003,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.72717300033378,
+          -5.575578000124551
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20491,
+        "CU_NAME": "KOPA",
+        "CU_NO": "004",
+        "GEOCODE": "07051409004",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "09",
+        "WARD_NAME": "EGAE (AYUGALI 1)",
+        "LATITUDE": -5.578073,
+        "LONGITUDE": 142.731106,
+        "REGHH": 12,
+        "TOTPOP2000": 63,
+        "MALE2000": 37,
+        "FEMALE2000": 26,
+        "POP2008": 88,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051409004,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.27517500012618,
+          -3.883912000238581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18997,
+        "CU_NAME": "HUFI",
+        "CU_NO": "007",
+        "GEOCODE": "15041415007",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "15",
+        "WARD_NAME": "HUFI",
+        "LATITUDE": -3.889858,
+        "LONGITUDE": 141.266137,
+        "REGHH": 30,
+        "TOTPOP2000": 202,
+        "MALE2000": 103,
+        "FEMALE2000": 99,
+        "POP2008": 244,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041415007,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

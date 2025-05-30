@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15070,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.68894099972738,
+          -8.125278000079618
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15070,
+        "CU_NAME": "BINA NO. 1",
+        "CU_NO": "007",
+        "GEOCODE": "01010212007",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "BINA",
+        "LATITUDE": -8.122098,
+        "LONGITUDE": 143.687839,
+        "REGHH": 7,
+        "TOTPOP2000": 40,
+        "MALE2000": 19,
+        "FEMALE2000": 21,
+        "POP2008": 50,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010212007,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15071,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.67370500038555,
+          -8.084875000280988
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15071,
+        "CU_NAME": "BINA NO. 2",
+        "CU_NO": "008",
+        "GEOCODE": "01010212008",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "BINA",
+        "LATITUDE": -8.084513,
+        "LONGITUDE": 143.672109,
+        "REGHH": 40,
+        "TOTPOP2000": 273,
+        "MALE2000": 152,
+        "FEMALE2000": 121,
+        "POP2008": 354,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010212008,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15072,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.56977700020843,
+          -8.073712999954921
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15072,
+        "CU_NAME": "OROPAI",
+        "CU_NO": "013",
+        "GEOCODE": "01010212013",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "BINA",
+        "LATITUDE": -8.07514,
+        "LONGITUDE": 143.568705,
+        "REGHH": 18,
+        "TOTPOP2000": 160,
+        "MALE2000": 79,
+        "FEMALE2000": 81,
+        "POP2008": 207,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010212013,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15073,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60120399976483,
+          -8.096896999796684
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15073,
+        "CU_NAME": "WARIO",
+        "CU_NO": "024",
+        "GEOCODE": "01010212024",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "BINA",
+        "LATITUDE": -8.096568,
+        "LONGITUDE": 143.594477,
+        "REGHH": 9,
+        "TOTPOP2000": 64,
+        "MALE2000": 36,
+        "FEMALE2000": 28,
+        "POP2008": 82,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010212024,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

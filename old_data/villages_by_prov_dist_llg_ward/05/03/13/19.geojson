@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10208,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.32873100033544,
+          -9.519033999819214
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10208,
+        "CU_NAME": "ABOLU",
+        "CU_NO": "001",
+        "GEOCODE": "05031319001",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "19",
+        "WARD_NAME": "ABOLU",
+        "LATITUDE": -9.520492,
+        "LONGITUDE": 150.327747,
+        "REGHH": 151,
+        "TOTPOP2000": 835,
+        "MALE2000": 424,
+        "FEMALE2000": 411,
+        "POP2008": 1017,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031319001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

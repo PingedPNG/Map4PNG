@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10861,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.66632199996036,
+          -6.694970000065382
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10861,
+        "CU_NAME": "BUKAWASIP",
+        "CU_NO": "002",
+        "GEOCODE": "12020810002",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "10",
+        "WARD_NAME": "BUKAWASIP",
+        "LATITUDE": -6.696392,
+        "LONGITUDE": 147.665307,
+        "REGHH": 47,
+        "TOTPOP2000": 231,
+        "MALE2000": 131,
+        "FEMALE2000": 100,
+        "POP2008": 288,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020810002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10862,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.65443600042113,
+          -6.70708100008801
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10862,
+        "CU_NAME": "BUSENG",
+        "CU_NO": "003",
+        "GEOCODE": "12020810003",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "10",
+        "WARD_NAME": "BUKAWASIP",
+        "LATITUDE": -6.708503,
+        "LONGITUDE": 147.653421,
+        "REGHH": 30,
+        "TOTPOP2000": 125,
+        "MALE2000": 70,
+        "FEMALE2000": 55,
+        "POP2008": 157,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020810003,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

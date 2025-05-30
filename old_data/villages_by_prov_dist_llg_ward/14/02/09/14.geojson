@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6553,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.74152800021704,
+          -4.433941999623528
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6553,
+        "CU_NAME": "ARAINING",
+        "CU_NO": "005",
+        "GEOCODE": "14020914005",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "MENSUAT",
+        "LATITUDE": -4.440426,
+        "LONGITUDE": 143.753688,
+        "REGHH": 10,
+        "TOTPOP2000": 64,
+        "MALE2000": 34,
+        "FEMALE2000": 30,
+        "POP2008": 75,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020914005,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6554,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.77447599976767,
+          -4.446089000406971
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6554,
+        "CU_NAME": "MENSUAT",
+        "CU_NO": "025",
+        "GEOCODE": "14020914025",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "MENSUAT",
+        "LATITUDE": -4.451618,
+        "LONGITUDE": 143.758479,
+        "REGHH": 51,
+        "TOTPOP2000": 284,
+        "MALE2000": 141,
+        "FEMALE2000": 143,
+        "POP2008": 338,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020914025,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

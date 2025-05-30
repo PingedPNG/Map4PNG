@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17028,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2034369999177,
+          -5.7282529999758935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17028,
+        "CU_NAME": "KILIKA",
+        "CU_NO": "035",
+        "GEOCODE": "09050825035",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "25",
+        "WARD_NAME": "KILIKA",
+        "LATITUDE": -5.728721,
+        "LONGITUDE": 144.203462,
+        "REGHH": 86,
+        "TOTPOP2000": 456,
+        "MALE2000": 244,
+        "FEMALE2000": 212,
+        "POP2008": 556,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050825035,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17029,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.20188600033873,
+          -5.727777999654904
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17029,
+        "CU_NAME": "KUWAL",
+        "CU_NO": "036",
+        "GEOCODE": "09050825036",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "25",
+        "WARD_NAME": "KILIKA",
+        "LATITUDE": -5.728721,
+        "LONGITUDE": 144.203462,
+        "REGHH": 51,
+        "TOTPOP2000": 242,
+        "MALE2000": 118,
+        "FEMALE2000": 124,
+        "POP2008": 295,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050825036,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

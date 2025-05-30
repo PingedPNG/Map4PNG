@@ -1,0 +1,357 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.04569399977834,
+          -6.241819000446469
+        ]
+      },
+      "properties": {
+        "OBJECTID": 815,
+        "CU_NAME": "MAROWA",
+        "CU_NO": "002",
+        "GEOCODE": "20031201002",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BURUE",
+        "LATITUDE": -6.239722,
+        "LONGITUDE": 155.040833,
+        "REGHH": 57,
+        "TOTPOP2000": 281,
+        "MALE2000": 130,
+        "FEMALE2000": 151,
+        "POP2008": 316,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031201002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 816,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.02940699963335,
+          -6.221538999625068
+        ]
+      },
+      "properties": {
+        "OBJECTID": 816,
+        "CU_NAME": "KAKANEA",
+        "CU_NO": "003",
+        "GEOCODE": "20031201003",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BURUE",
+        "LATITUDE": -6.222969,
+        "LONGITUDE": 155.028503,
+        "REGHH": 9,
+        "TOTPOP2000": 48,
+        "MALE2000": 24,
+        "FEMALE2000": 24,
+        "POP2008": 56,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031201003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 817,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.01701600018828,
+          -6.213014000395731
+        ]
+      },
+      "properties": {
+        "OBJECTID": 817,
+        "CU_NAME": "TEKOMO",
+        "CU_NO": "004",
+        "GEOCODE": "20031201004",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BURUE",
+        "LATITUDE": -6.214444,
+        "LONGITUDE": 155.016111,
+        "REGHH": 6,
+        "TOTPOP2000": 33,
+        "MALE2000": 19,
+        "FEMALE2000": 14,
+        "POP2008": 33,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031201004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 818,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.0400080001691,
+          -6.240158000291444
+        ]
+      },
+      "properties": {
+        "OBJECTID": 818,
+        "CU_NAME": "KEGIRI",
+        "CU_NO": "005",
+        "GEOCODE": "20031201005",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BURUE",
+        "LATITUDE": -6.24,
+        "LONGITUDE": 155.040278,
+        "REGHH": 43,
+        "TOTPOP2000": 219,
+        "MALE2000": 115,
+        "FEMALE2000": 104,
+        "POP2008": 246,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031201005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 819,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.1995130002249,
+          -6.29551199977891
+        ]
+      },
+      "properties": {
+        "OBJECTID": 819,
+        "CU_NAME": "KOIARE",
+        "CU_NO": "006",
+        "GEOCODE": "20031201006",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BURUE",
+        "LATITUDE": -6.296944,
+        "LONGITUDE": 155.198611,
+        "REGHH": 40,
+        "TOTPOP2000": 201,
+        "MALE2000": 103,
+        "FEMALE2000": 98,
+        "POP2008": 225,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031201006,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 820,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.04099499981942,
+          -6.237958999608111
+        ]
+      },
+      "properties": {
+        "OBJECTID": 820,
+        "CU_NAME": "MANARUBE",
+        "CU_NO": "007",
+        "GEOCODE": "20031201007",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BURUE",
+        "LATITUDE": -6.23939,
+        "LONGITUDE": 155.040091,
+        "REGHH": 8,
+        "TOTPOP2000": 43,
+        "MALE2000": 22,
+        "FEMALE2000": 21,
+        "POP2008": 51,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031201007,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 821,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.01951600036318,
+          -6.216625999690109
+        ]
+      },
+      "properties": {
+        "OBJECTID": 821,
+        "CU_NAME": "RISINI",
+        "CU_NO": "008",
+        "GEOCODE": "20031201008",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BURUE",
+        "LATITUDE": -6.218056,
+        "LONGITUDE": 155.018611,
+        "REGHH": 13,
+        "TOTPOP2000": 76,
+        "MALE2000": 40,
+        "FEMALE2000": 36,
+        "POP2008": 84,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031201008,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 822,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.0387240003124,
+          -6.220711000112544
+        ]
+      },
+      "properties": {
+        "OBJECTID": 822,
+        "CU_NAME": "ATSOVAPA",
+        "CU_NO": "009",
+        "GEOCODE": "20031201009",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BURUE",
+        "LATITUDE": -6.229074,
+        "LONGITUDE": 155.049871,
+        "REGHH": 13,
+        "TOTPOP2000": 84,
+        "MALE2000": 42,
+        "FEMALE2000": 42,
+        "POP2008": 92,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031201009,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 823,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.06489200016574,
+          -6.228987999596484
+        ]
+      },
+      "properties": {
+        "OBJECTID": 823,
+        "CU_NAME": "KOVILAS",
+        "CU_NO": "010",
+        "GEOCODE": "20031201010",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BURUE",
+        "LATITUDE": -6.235959,
+        "LONGITUDE": 155.062567,
+        "REGHH": 13,
+        "TOTPOP2000": 61,
+        "MALE2000": 32,
+        "FEMALE2000": 29,
+        "POP2008": 69,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031201010,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 824,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.09982699961643,
+          -6.245428999648595
+        ]
+      },
+      "properties": {
+        "OBJECTID": 824,
+        "CU_NAME": "KARIO",
+        "CU_NO": "011",
+        "GEOCODE": "20031201011",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BURUE",
+        "LATITUDE": -6.24686,
+        "LONGITUDE": 155.098924,
+        "REGHH": 11,
+        "TOTPOP2000": 47,
+        "MALE2000": 25,
+        "FEMALE2000": 22,
+        "POP2008": 55,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031201011,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 825,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.0433070003179,
+          -6.24762500019358
+        ]
+      },
+      "properties": {
+        "OBJECTID": 825,
+        "CU_NAME": "TOROKINA DISTRICT OFFICE",
+        "CU_NO": "404",
+        "GEOCODE": "20031201404",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "BURUE",
+        "LATITUDE": -6.240278,
+        "LONGITUDE": 155.040556,
+        "REGHH": 5,
+        "TOTPOP2000": 30,
+        "MALE2000": 17,
+        "FEMALE2000": 13,
+        "POP2008": 30,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031201404,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20469,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.71757800032447,
+          -5.610369000129197
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20469,
+        "CU_NAME": "HEWANALI",
+        "CU_NO": "001",
+        "GEOCODE": "07051403001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "03",
+        "WARD_NAME": "HEWANALI/KURANDA 2",
+        "LATITUDE": -5.616844,
+        "LONGITUDE": 142.716674,
+        "REGHH": 21,
+        "TOTPOP2000": 269,
+        "MALE2000": 147,
+        "FEMALE2000": 122,
+        "POP2008": 373,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051403001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20470,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7122789996762,
+          -5.613368999979343
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20470,
+        "CU_NAME": "PERABULI",
+        "CU_NO": "002",
+        "GEOCODE": "07051403002",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "03",
+        "WARD_NAME": "HEWANALI/KURANDA 2",
+        "LATITUDE": -5.616844,
+        "LONGITUDE": 142.716674,
+        "REGHH": 23,
+        "TOTPOP2000": 195,
+        "MALE2000": 109,
+        "FEMALE2000": 86,
+        "POP2008": 272,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051403002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20471,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7228010001661,
+          -5.611919999708164
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20471,
+        "CU_NAME": "TITAMU",
+        "CU_NO": "003",
+        "GEOCODE": "07051403003",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "03",
+        "WARD_NAME": "HEWANALI/KURANDA 2",
+        "LATITUDE": -5.616844,
+        "LONGITUDE": 142.716674,
+        "REGHH": 28,
+        "TOTPOP2000": 340,
+        "MALE2000": 160,
+        "FEMALE2000": 180,
+        "POP2008": 472,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051403003,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

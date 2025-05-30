@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16974,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7599689996697,
+          -5.678884000396238
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16974,
+        "CU_NAME": "NOKUNA",
+        "CU_NO": "021",
+        "GEOCODE": "09040720021",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "20",
+        "WARD_NAME": "NOKUNA",
+        "LATITUDE": -5.679885,
+        "LONGITUDE": 144.759974,
+        "REGHH": 30,
+        "TOTPOP2000": 215,
+        "MALE2000": 114,
+        "FEMALE2000": 101,
+        "POP2008": 261,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040720021,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16975,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.75901499974248,
+          -5.679469000394022
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16975,
+        "CU_NAME": "KOSE",
+        "CU_NO": "022",
+        "GEOCODE": "09040720022",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "20",
+        "WARD_NAME": "NOKUNA",
+        "LATITUDE": -5.679885,
+        "LONGITUDE": 144.759974,
+        "REGHH": 37,
+        "TOTPOP2000": 264,
+        "MALE2000": 133,
+        "FEMALE2000": 131,
+        "POP2008": 322,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040720022,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.75906600029577,
+          -5.678375000305948
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16976,
+        "CU_NAME": "WALI",
+        "CU_NO": "023",
+        "GEOCODE": "09040720023",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "20",
+        "WARD_NAME": "NOKUNA",
+        "LATITUDE": -5.679885,
+        "LONGITUDE": 144.759974,
+        "REGHH": 32,
+        "TOTPOP2000": 211,
+        "MALE2000": 110,
+        "FEMALE2000": 101,
+        "POP2008": 257,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040720023,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

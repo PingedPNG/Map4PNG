@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19180,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.02442799975245,
+          -6.382180999953164
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19180,
+        "CU_NAME": "WALUPOU",
+        "CU_NO": "036",
+        "GEOCODE": "07010124036",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "24",
+        "WARD_NAME": "WALUPOU 1",
+        "LATITUDE": -6.386304,
+        "LONGITUDE": 144.02539,
+        "REGHH": 46,
+        "TOTPOP2000": 251,
+        "MALE2000": 135,
+        "FEMALE2000": 116,
+        "POP2008": 348,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010124036,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19181,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0217529996013,
+          -6.382481000297901
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19181,
+        "CU_NAME": "RAI 1",
+        "CU_NO": "037",
+        "GEOCODE": "07010124037",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "24",
+        "WARD_NAME": "WALUPOU 1",
+        "LATITUDE": -6.386304,
+        "LONGITUDE": 144.02539,
+        "REGHH": 35,
+        "TOTPOP2000": 182,
+        "MALE2000": 92,
+        "FEMALE2000": 90,
+        "POP2008": 253,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010124037,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.02418200009924,
+          -6.384484000036537
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19182,
+        "CU_NAME": "KATINA",
+        "CU_NO": "039",
+        "GEOCODE": "07010124039",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "24",
+        "WARD_NAME": "WALUPOU 1",
+        "LATITUDE": -6.386304,
+        "LONGITUDE": 144.02539,
+        "REGHH": 26,
+        "TOTPOP2000": 131,
+        "MALE2000": 71,
+        "FEMALE2000": 60,
+        "POP2008": 183,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010124039,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

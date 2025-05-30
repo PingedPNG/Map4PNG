@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18929,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.84908600001893,
+          -2.9442309995609435
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18929,
+        "CU_NAME": "ONEI",
+        "CU_NO": "004",
+        "GEOCODE": "15041313004",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "13",
+        "WARD_NAME": "ONEI",
+        "LATITUDE": -2.945603,
+        "LONGITUDE": 141.848002,
+        "REGHH": 28,
+        "TOTPOP2000": 190,
+        "MALE2000": 117,
+        "FEMALE2000": 73,
+        "POP2008": 230,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041313004,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15514,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.02534300027935,
+          -5.201452999856031
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15514,
+        "CU_NAME": "KOROKIT",
+        "CU_NO": "033",
+        "GEOCODE": "01021012033",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "KOROKIT",
+        "LATITUDE": -5.202847,
+        "LONGITUDE": 141.024246,
+        "REGHH": 37,
+        "TOTPOP2000": 199,
+        "MALE2000": 102,
+        "FEMALE2000": 97,
+        "POP2008": 258,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1021012033,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

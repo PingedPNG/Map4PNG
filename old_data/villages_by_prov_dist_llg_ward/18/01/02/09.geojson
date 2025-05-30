@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4478,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.03444799977547,
+          -4.359147000233804
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4478,
+        "CU_NAME": "KEREBA SETT",
+        "CU_NO": "505",
+        "GEOCODE": "18010209505",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "KEREBA",
+        "LATITUDE": -4.360548,
+        "LONGITUDE": 152.0335,
+        "REGHH": 150,
+        "TOTPOP2000": 861,
+        "MALE2000": 449,
+        "FEMALE2000": 412,
+        "POP2008": 1050,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010209505,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

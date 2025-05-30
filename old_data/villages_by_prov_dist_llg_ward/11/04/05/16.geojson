@@ -1,0 +1,581 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29832,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.96738884032277,
+          -6.24063186027206
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29832,
+        "CU_NAME": "BOMPE",
+        "CU_NO": "016",
+        "GEOCODE": "11040516016",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ANAWA-YONKI",
+        "LATITUDE": -6.240632,
+        "LONGITUDE": 145.967389,
+        "REGHH": 25,
+        "TOTPOP2000": 109,
+        "MALE2000": 58,
+        "FEMALE2000": 51,
+        "POP2008": 130,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29833,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.90476971984674,
+          -6.2520584402447525
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29833,
+        "CU_NAME": "OKANTENU",
+        "CU_NO": "018",
+        "GEOCODE": "11040516018",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ANAWA-YONKI",
+        "LATITUDE": -6.252058,
+        "LONGITUDE": 145.90477,
+        "REGHH": 54,
+        "TOTPOP2000": 273,
+        "MALE2000": 138,
+        "FEMALE2000": 135,
+        "POP2008": 325,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29834,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91771387969186,
+          -6.210479969874655
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29834,
+        "CU_NAME": "PUNAMPA",
+        "CU_NO": "019",
+        "GEOCODE": "11040516019",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ANAWA-YONKI",
+        "LATITUDE": -6.21048,
+        "LONGITUDE": 145.917714,
+        "REGHH": 43,
+        "TOTPOP2000": 251,
+        "MALE2000": 134,
+        "FEMALE2000": 117,
+        "POP2008": 299,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29835,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.93598784016672,
+          -6.193947599601984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29835,
+        "CU_NAME": "KEKETUPA",
+        "CU_NO": "021",
+        "GEOCODE": "11040516021",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ANAWA-YONKI",
+        "LATITUDE": -6.193948,
+        "LONGITUDE": 145.935988,
+        "REGHH": 22,
+        "TOTPOP2000": 120,
+        "MALE2000": 63,
+        "FEMALE2000": 57,
+        "POP2008": 144,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29836,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.94269284000268,
+          -6.207667650441692
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29836,
+        "CU_NAME": "ASOMPA",
+        "CU_NO": "022",
+        "GEOCODE": "11040516022",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ANAWA-YONKI",
+        "LATITUDE": -6.207668,
+        "LONGITUDE": 145.942693,
+        "REGHH": 21,
+        "TOTPOP2000": 118,
+        "MALE2000": 64,
+        "FEMALE2000": 54,
+        "POP2008": 142,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29837,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.95941052007947,
+          -6.256008810358253
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29837,
+        "CU_NAME": "AVAMAPA",
+        "CU_NO": "023",
+        "GEOCODE": "11040516023",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ANAWA-YONKI",
+        "LATITUDE": -6.256009,
+        "LONGITUDE": 145.959411,
+        "REGHH": 23,
+        "TOTPOP2000": 99,
+        "MALE2000": 48,
+        "FEMALE2000": 51,
+        "POP2008": 115,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29838,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.86676307965251,
+          -6.215039549735366
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29838,
+        "CU_NAME": "ANUMPTAPA",
+        "CU_NO": "024",
+        "GEOCODE": "11040516024",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ANAWA-YONKI",
+        "LATITUDE": -6.21504,
+        "LONGITUDE": 145.866763,
+        "REGHH": 19,
+        "TOTPOP2000": 78,
+        "MALE2000": 41,
+        "FEMALE2000": 37,
+        "POP2008": 94,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29839,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9907632797017,
+          -6.214417020129304
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29839,
+        "CU_NAME": "KAKABIOPA",
+        "CU_NO": "025",
+        "GEOCODE": "11040516025",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ANAWA-YONKI",
+        "LATITUDE": -6.214417,
+        "LONGITUDE": 145.990763,
+        "REGHH": 35,
+        "TOTPOP2000": 154,
+        "MALE2000": 75,
+        "FEMALE2000": 79,
+        "POP2008": 184,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29840,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.94301612019785,
+          -6.238650959574102
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29840,
+        "CU_NAME": "YAIMIPA",
+        "CU_NO": "026",
+        "GEOCODE": "11040516026",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ANAWA-YONKI",
+        "LATITUDE": -6.238651,
+        "LONGITUDE": 145.943016,
+        "REGHH": 31,
+        "TOTPOP2000": 144,
+        "MALE2000": 78,
+        "FEMALE2000": 66,
+        "POP2008": 170,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29841,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.92619043963714,
+          -6.249314429717117
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29841,
+        "CU_NAME": "KASEFEMPA",
+        "CU_NO": "027",
+        "GEOCODE": "11040516027",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ANAWA-YONKI",
+        "LATITUDE": -6.249314,
+        "LONGITUDE": 145.92619,
+        "REGHH": 68,
+        "TOTPOP2000": 318,
+        "MALE2000": 155,
+        "FEMALE2000": 163,
+        "POP2008": 378,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29842,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.94595192014503,
+          -6.231422520133151
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29842,
+        "CU_NAME": "OWAMPA",
+        "CU_NO": "028",
+        "GEOCODE": "11040516028",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ANAWA-YONKI",
+        "LATITUDE": -6.231423,
+        "LONGITUDE": 145.945952,
+        "REGHH": 21,
+        "TOTPOP2000": 97,
+        "MALE2000": 53,
+        "FEMALE2000": 44,
+        "POP2008": 113,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29843,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.94150987987712,
+          -6.231490919869998
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29843,
+        "CU_NAME": "AMUYA",
+        "CU_NO": "029",
+        "GEOCODE": "11040516029",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ANAWA-YONKI",
+        "LATITUDE": -6.231491,
+        "LONGITUDE": 145.94151,
+        "REGHH": 30,
+        "TOTPOP2000": 132,
+        "MALE2000": 72,
+        "FEMALE2000": 60,
+        "POP2008": 156,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29844,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91242404043714,
+          -6.240458520444292
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29844,
+        "CU_NAME": "KEKETUANTU",
+        "CU_NO": "030",
+        "GEOCODE": "11040516030",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ANAWA-YONKI",
+        "LATITUDE": -6.240459,
+        "LONGITUDE": 145.912424,
+        "REGHH": 40,
+        "TOTPOP2000": 193,
+        "MALE2000": 99,
+        "FEMALE2000": 94,
+        "POP2008": 230,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29845,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.94906196014142,
+          -6.245840970084657
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29845,
+        "CU_NAME": "NONAMPA",
+        "CU_NO": "031",
+        "GEOCODE": "11040516031",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ANAWA-YONKI",
+        "LATITUDE": -6.245841,
+        "LONGITUDE": 145.949062,
+        "REGHH": 33,
+        "TOTPOP2000": 164,
+        "MALE2000": 85,
+        "FEMALE2000": 79,
+        "POP2008": 196,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29846,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.95354468034282,
+          -6.238067310358019
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29846,
+        "CU_NAME": "PAREPA",
+        "CU_NO": "032",
+        "GEOCODE": "11040516032",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ANAWA-YONKI",
+        "LATITUDE": -6.238067,
+        "LONGITUDE": 145.953545,
+        "REGHH": 13,
+        "TOTPOP2000": 69,
+        "MALE2000": 38,
+        "FEMALE2000": 31,
+        "POP2008": 85,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29847,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7448217200464,
+          -6.426583739947603
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29847,
+        "CU_NAME": "ANUMAPA SALVATION ARMY",
+        "CU_NO": "401",
+        "GEOCODE": "11040516401",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ANAWA-YONKI",
+        "LATITUDE": -6.426584,
+        "LONGITUDE": 145.744822,
+        "REGHH": 3,
+        "TOTPOP2000": 9,
+        "MALE2000": 4,
+        "FEMALE2000": 5,
+        "POP2008": 9,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29848,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9505595597759,
+          -6.223801409707221
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29848,
+        "CU_NAME": "YAUNA EBC STATION",
+        "CU_NO": "402",
+        "GEOCODE": "11040516402",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ANAWA-YONKI",
+        "LATITUDE": -6.223801,
+        "LONGITUDE": 145.95056,
+        "REGHH": 16,
+        "TOTPOP2000": 115,
+        "MALE2000": 77,
+        "FEMALE2000": 38,
+        "POP2008": 139,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29849,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.93917959975875,
+          -6.208197750425768
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29849,
+        "CU_NAME": "DRILLERS CAMP",
+        "CU_NO": "403",
+        "GEOCODE": "11040516403",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ANAWA-YONKI",
+        "LATITUDE": -6.208198,
+        "LONGITUDE": 145.93918,
+        "REGHH": 9,
+        "TOTPOP2000": 35,
+        "MALE2000": 20,
+        "FEMALE2000": 15,
+        "POP2008": 43,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

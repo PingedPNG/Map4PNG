@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6424,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.87742199962565,
+          -4.282276000437037
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6424,
+        "CU_NAME": "LANGAM",
+        "CU_NO": "011",
+        "GEOCODE": "14020715011",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "15",
+        "WARD_NAME": "LANGAM",
+        "LATITUDE": -4.30109,
+        "LONGITUDE": 143.883676,
+        "REGHH": 83,
+        "TOTPOP2000": 424,
+        "MALE2000": 215,
+        "FEMALE2000": 209,
+        "POP2008": 505,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020715011,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

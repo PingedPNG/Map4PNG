@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 242,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.0335759999325,
+          -4.767477999609923
+        ]
+      },
+      "properties": {
+        "OBJECTID": 242,
+        "CU_NAME": "NUKUTOA",
+        "CU_NO": "001",
+        "GEOCODE": "20010603001",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "MORTLOCK",
+        "LATITUDE": -4.754562,
+        "LONGITUDE": 157.034112,
+        "REGHH": 108,
+        "TOTPOP2000": 443,
+        "MALE2000": 177,
+        "FEMALE2000": 266,
+        "POP2008": 499,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010603001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27281,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.03308107962823,
+          -4.751882999900488
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27281,
+        "CU_NAME": "Mortlock",
+        "CU_NO": "775",
+        "GEOCODE": "775",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": null,
+        "LATITUDE": -4.751449,
+        "LONGITUDE": 157.033656,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 775,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

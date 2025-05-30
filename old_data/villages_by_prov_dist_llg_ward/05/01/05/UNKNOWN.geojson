@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 27265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.26924665570868,
+          -10.361572799744863
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27265,
+        "CU_NAME": "Kwakela",
+        "CU_NO": "760",
+        "GEOCODE": "760",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "5",
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": -10.361599,
+        "LONGITUDE": 150.26922,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 760,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31071,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.43015116184665,
+          -10.29960963937333
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31071,
+        "CU_NAME": "Ganaibeu",
+        "CU_NO": "866",
+        "GEOCODE": "866",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": -10.29963,
+        "LONGITUDE": 150.430029,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 866,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

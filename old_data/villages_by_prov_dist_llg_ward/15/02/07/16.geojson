@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18651,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.24390799965454,
+          -3.6135719998478635
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18651,
+        "CU_NAME": "RAWOT",
+        "CU_NO": "012",
+        "GEOCODE": "15020716012",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "16",
+        "WARD_NAME": "RAWOT",
+        "LATITUDE": -3.612674,
+        "LONGITUDE": 142.240556,
+        "REGHH": 127,
+        "TOTPOP2000": 478,
+        "MALE2000": 223,
+        "FEMALE2000": 255,
+        "POP2008": 578,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020716012,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

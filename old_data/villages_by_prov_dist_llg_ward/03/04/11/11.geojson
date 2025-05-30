@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1609,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.61771000021645,
+          -9.767121000134011
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1609,
+        "CU_NAME": "GERESI",
+        "CU_NO": "027",
+        "GEOCODE": "03041111027",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "11",
+        "WARD_NAME": "GERESI",
+        "LATITUDE": -9.768575,
+        "LONGITUDE": 147.616686,
+        "REGHH": 31,
+        "TOTPOP2000": 187,
+        "MALE2000": 100,
+        "FEMALE2000": 87,
+        "POP2008": 224,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041111027,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

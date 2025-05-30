@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5864,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.49857500013616,
+          -5.18072099977428
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5864,
+        "CU_NAME": "TONGARI",
+        "CU_NO": "008",
+        "GEOCODE": "08041205008",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "TONGARI",
+        "LATITUDE": -5.182992,
+        "LONGITUDE": 143.495782,
+        "REGHH": 51,
+        "TOTPOP2000": 350,
+        "MALE2000": 185,
+        "FEMALE2000": 165,
+        "POP2008": 439,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041205008,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5865,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.49447399987525,
+          -5.172774000219874
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5865,
+        "CU_NAME": "NALEAKA",
+        "CU_NO": "009",
+        "GEOCODE": "08041205009",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "TONGARI",
+        "LATITUDE": -5.174172,
+        "LONGITUDE": 143.493407,
+        "REGHH": 21,
+        "TOTPOP2000": 112,
+        "MALE2000": 54,
+        "FEMALE2000": 58,
+        "POP2008": 141,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041205009,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

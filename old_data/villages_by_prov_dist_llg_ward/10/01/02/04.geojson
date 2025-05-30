@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13914,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.09980199956271,
+          -6.233101000410784
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13914,
+        "CU_NAME": "MANEI",
+        "CU_NO": "003",
+        "GEOCODE": "10010204003",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "KURAIGURI",
+        "LATITUDE": -6.234729,
+        "LONGITUDE": 145.099234,
+        "REGHH": 102,
+        "TOTPOP2000": 433,
+        "MALE2000": 219,
+        "FEMALE2000": 214,
+        "POP2008": 500,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010204003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13915,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.08075199970506,
+          -6.247629000378026
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13915,
+        "CU_NAME": "BAIDIGO",
+        "CU_NO": "004",
+        "GEOCODE": "10010204004",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "KURAIGURI",
+        "LATITUDE": -6.249041,
+        "LONGITUDE": 145.079703,
+        "REGHH": 42,
+        "TOTPOP2000": 233,
+        "MALE2000": 120,
+        "FEMALE2000": 113,
+        "POP2008": 268,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010204004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13916,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.07613299983814,
+          -6.245691000039585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13916,
+        "CU_NAME": "BOMAI (DUMUN)",
+        "CU_NO": "005",
+        "GEOCODE": "10010204005",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "KURAIGURI",
+        "LATITUDE": -6.247103,
+        "LONGITUDE": 145.075084,
+        "REGHH": 36,
+        "TOTPOP2000": 278,
+        "MALE2000": 139,
+        "FEMALE2000": 139,
+        "POP2008": 320,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010204005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13917,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.068746000028,
+          -6.247576999778687
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13917,
+        "CU_NAME": "WIRI KEWA",
+        "CU_NO": "006",
+        "GEOCODE": "10010204006",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "KURAIGURI",
+        "LATITUDE": -6.248989,
+        "LONGITUDE": 145.067697,
+        "REGHH": 43,
+        "TOTPOP2000": 255,
+        "MALE2000": 119,
+        "FEMALE2000": 136,
+        "POP2008": 295,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010204006,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

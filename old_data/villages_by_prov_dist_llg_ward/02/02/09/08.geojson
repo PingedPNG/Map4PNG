@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38761099974795,
+          -7.895506999948054
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7745,
+        "CU_NAME": "HAEARI",
+        "CU_NO": "002",
+        "GEOCODE": "02020908002",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "08",
+        "WARD_NAME": "PAKOVAVU",
+        "LATITUDE": -7.896937,
+        "LONGITUDE": 145.386562,
+        "REGHH": 31,
+        "TOTPOP2000": 189,
+        "MALE2000": 99,
+        "FEMALE2000": 90,
+        "POP2008": 232,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020908002,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3715520002247,
+          -7.885329000033266
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7746,
+        "CU_NAME": "MIAE",
+        "CU_NO": "012",
+        "GEOCODE": "02020908012",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "08",
+        "WARD_NAME": "PAKOVAVU",
+        "LATITUDE": -7.886759,
+        "LONGITUDE": 145.370503,
+        "REGHH": 12,
+        "TOTPOP2000": 96,
+        "MALE2000": 46,
+        "FEMALE2000": 50,
+        "POP2008": 119,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020908012,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.37147100008667,
+          -7.885647000308779
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7747,
+        "CU_NAME": "PAKOVAVU",
+        "CU_NO": "013",
+        "GEOCODE": "02020908013",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "08",
+        "WARD_NAME": "PAKOVAVU",
+        "LATITUDE": -7.887077,
+        "LONGITUDE": 145.370422,
+        "REGHH": 44,
+        "TOTPOP2000": 284,
+        "MALE2000": 151,
+        "FEMALE2000": 133,
+        "POP2008": 349,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020908013,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.15891700001964,
+          -5.498943999565881
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17113,
+        "CU_NAME": "ANTENGA",
+        "CU_NO": "001",
+        "GEOCODE": "09050938001",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "38",
+        "WARD_NAME": "ANTENGA",
+        "LATITUDE": -5.499879,
+        "LONGITUDE": 144.15925,
+        "REGHH": 83,
+        "TOTPOP2000": 402,
+        "MALE2000": 196,
+        "FEMALE2000": 206,
+        "POP2008": 490,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050938001,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.16478099974336,
+          -5.494942000273056
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17114,
+        "CU_NAME": "ANTENGA C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "09050938401",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "38",
+        "WARD_NAME": "ANTENGA",
+        "LATITUDE": -5.495877,
+        "LONGITUDE": 144.165114,
+        "REGHH": 1,
+        "TOTPOP2000": 8,
+        "MALE2000": 5,
+        "FEMALE2000": 3,
+        "POP2008": 8,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050938401,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

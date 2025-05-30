@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18522,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.45289500000433,
+          -3.7367209996743327
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18522,
+        "CU_NAME": "ENGIEP",
+        "CU_NO": "002",
+        "GEOCODE": "15020516002",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ENGIEP",
+        "LATITUDE": -3.738102,
+        "LONGITUDE": 142.451817,
+        "REGHH": 50,
+        "TOTPOP2000": 207,
+        "MALE2000": 108,
+        "FEMALE2000": 99,
+        "POP2008": 250,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020516002,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18523,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.45990100023107,
+          -3.7357210003238492
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18523,
+        "CU_NAME": "IMBIYIP",
+        "CU_NO": "003",
+        "GEOCODE": "15020516003",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "ENGIEP",
+        "LATITUDE": -3.737102,
+        "LONGITUDE": 142.458823,
+        "REGHH": 78,
+        "TOTPOP2000": 360,
+        "MALE2000": 177,
+        "FEMALE2000": 183,
+        "POP2008": 436,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020516003,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

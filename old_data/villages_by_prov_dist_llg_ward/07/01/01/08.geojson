@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19125,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.16502500020363,
+          -6.366946999804156
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19125,
+        "CU_NAME": "KAKAIRUNGI",
+        "CU_NO": "001",
+        "GEOCODE": "07010108001",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "APENDA 2",
+        "LATITUDE": -6.370532,
+        "LONGITUDE": 144.163846,
+        "REGHH": 43,
+        "TOTPOP2000": 182,
+        "MALE2000": 105,
+        "FEMALE2000": 77,
+        "POP2008": 253,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010108001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.163975000346,
+          -6.368166000260658
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19126,
+        "CU_NAME": "PAWAI",
+        "CU_NO": "002",
+        "GEOCODE": "07010108002",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "APENDA 2",
+        "LATITUDE": -6.370532,
+        "LONGITUDE": 144.163846,
+        "REGHH": 37,
+        "TOTPOP2000": 169,
+        "MALE2000": 85,
+        "FEMALE2000": 84,
+        "POP2008": 234,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010108002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.16556700001706,
+          -6.365064000203404
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19127,
+        "CU_NAME": "APENDA SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "07010108401",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "APENDA 2",
+        "LATITUDE": -6.370532,
+        "LONGITUDE": 144.163846,
+        "REGHH": 15,
+        "TOTPOP2000": 92,
+        "MALE2000": 42,
+        "FEMALE2000": 50,
+        "POP2008": 128,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010108401,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

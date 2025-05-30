@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6563,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.84613100004572,
+          -5.026876999973524
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6563,
+        "CU_NAME": "OLIMOLO",
+        "CU_NO": "035",
+        "GEOCODE": "14020920035",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "20",
+        "WARD_NAME": "OLIMOLO",
+        "LATITUDE": -5.028471,
+        "LONGITUDE": 143.8449,
+        "REGHH": 30,
+        "TOTPOP2000": 141,
+        "MALE2000": 74,
+        "FEMALE2000": 67,
+        "POP2008": 166,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020920035,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6564,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.82097900028066,
+          -5.03125799965693
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6564,
+        "CU_NAME": "WAKIMU",
+        "CU_NO": "036",
+        "GEOCODE": "14020920036",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "20",
+        "WARD_NAME": "OLIMOLO",
+        "LATITUDE": -5.01419,
+        "LONGITUDE": 143.806282,
+        "REGHH": 17,
+        "TOTPOP2000": 73,
+        "MALE2000": 42,
+        "FEMALE2000": 31,
+        "POP2008": 89,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020920036,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6565,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7730689996347,
+          -4.942577000228312
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6565,
+        "CU_NAME": "KURUMP",
+        "CU_NO": "037",
+        "GEOCODE": "14020920037",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "20",
+        "WARD_NAME": "OLIMOLO",
+        "LATITUDE": -4.937089,
+        "LONGITUDE": 143.775681,
+        "REGHH": 9,
+        "TOTPOP2000": 40,
+        "MALE2000": 27,
+        "FEMALE2000": 13,
+        "POP2008": 48,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020920037,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6566,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8592400002259,
+          -5.029904000169438
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6566,
+        "CU_NAME": "KAINAM",
+        "CU_NO": "038",
+        "GEOCODE": "14020920038",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "20",
+        "WARD_NAME": "OLIMOLO",
+        "LATITUDE": -5.019845,
+        "LONGITUDE": 143.857606,
+        "REGHH": 36,
+        "TOTPOP2000": 170,
+        "MALE2000": 88,
+        "FEMALE2000": 82,
+        "POP2008": 202,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020920038,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

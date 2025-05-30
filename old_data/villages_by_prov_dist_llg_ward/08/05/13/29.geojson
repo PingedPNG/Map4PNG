@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5934,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.92000600017684,
+          -5.684353999937116
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5934,
+        "CU_NAME": "YAKAEDIS",
+        "CU_NO": "003",
+        "GEOCODE": "08051329003",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "29",
+        "WARD_NAME": "YAKAEDIS",
+        "LATITUDE": -5.685758,
+        "LONGITUDE": 143.918943,
+        "REGHH": 74,
+        "TOTPOP2000": 383,
+        "MALE2000": 194,
+        "FEMALE2000": 189,
+        "POP2008": 481,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051329003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.91438900015225,
+          -5.686192000160645
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5935,
+        "CU_NAME": "PELEMANDA",
+        "CU_NO": "004",
+        "GEOCODE": "08051329004",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "29",
+        "WARD_NAME": "YAKAEDIS",
+        "LATITUDE": -5.687596,
+        "LONGITUDE": 143.913326,
+        "REGHH": 80,
+        "TOTPOP2000": 423,
+        "MALE2000": 229,
+        "FEMALE2000": 194,
+        "POP2008": 532,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051329004,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

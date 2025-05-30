@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19630,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.66334600021776,
+          -6.2330139999960466
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19630,
+        "CU_NAME": "YOWAL",
+        "CU_NO": "001",
+        "GEOCODE": "07020706001",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "YORE 2",
+        "LATITUDE": -6.237753,
+        "LONGITUDE": 143.663379,
+        "REGHH": 18,
+        "TOTPOP2000": 100,
+        "MALE2000": 60,
+        "FEMALE2000": 40,
+        "POP2008": 139,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020706001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19631,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.66236900012927,
+          -6.234498000082567
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19631,
+        "CU_NAME": "KENGERE",
+        "CU_NO": "002",
+        "GEOCODE": "07020706002",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "YORE 2",
+        "LATITUDE": -6.237753,
+        "LONGITUDE": 143.663379,
+        "REGHH": 14,
+        "TOTPOP2000": 57,
+        "MALE2000": 29,
+        "FEMALE2000": 28,
+        "POP2008": 79,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020706002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19632,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6653150001872,
+          -6.233004000434221
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19632,
+        "CU_NAME": "URULU",
+        "CU_NO": "003",
+        "GEOCODE": "07020706003",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "YORE 2",
+        "LATITUDE": -6.237753,
+        "LONGITUDE": 143.663379,
+        "REGHH": 30,
+        "TOTPOP2000": 137,
+        "MALE2000": 71,
+        "FEMALE2000": 66,
+        "POP2008": 191,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020706003,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

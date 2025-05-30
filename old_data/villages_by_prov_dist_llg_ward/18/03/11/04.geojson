@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4887,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9738729996393,
+          -5.162858999842911
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4887,
+        "CU_NAME": "KAUKUM VILLAGE",
+        "CU_NO": "007",
+        "GEOCODE": "18031104007",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "KAUKUM",
+        "LATITUDE": -5.163807,
+        "LONGITUDE": 151.974783,
+        "REGHH": 71,
+        "TOTPOP2000": 388,
+        "MALE2000": 215,
+        "FEMALE2000": 173,
+        "POP2008": 473,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031104007,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

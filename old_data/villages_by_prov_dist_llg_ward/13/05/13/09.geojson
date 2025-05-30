@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8940,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9746220003051,
+          -4.538638000143521
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8940,
+        "CU_NAME": "GIAL",
+        "CU_NO": "007",
+        "GEOCODE": "13051309007",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD 9",
+        "LATITUDE": -4.540033,
+        "LONGITUDE": 145.973588,
+        "REGHH": 127,
+        "TOTPOP2000": 736,
+        "MALE2000": 339,
+        "FEMALE2000": 397,
+        "POP2008": 911,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051309007,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8941,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.98354699999413,
+          -4.534541000067065
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8941,
+        "CU_NAME": "KOROPAK",
+        "CU_NO": "015",
+        "GEOCODE": "13051309015",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD 9",
+        "LATITUDE": -4.535936,
+        "LONGITUDE": 145.982513,
+        "REGHH": 84,
+        "TOTPOP2000": 473,
+        "MALE2000": 242,
+        "FEMALE2000": 231,
+        "POP2008": 585,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051309015,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

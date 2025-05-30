@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6287050001357,
+          -4.010715000396885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6008,
+        "CU_NAME": "ABLATAK",
+        "CU_NO": "001",
+        "GEOCODE": "14010108001",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "ABLATAK",
+        "LATITUDE": -4.012298,
+        "LONGITUDE": 142.62746,
+        "REGHH": 47,
+        "TOTPOP2000": 292,
+        "MALE2000": 149,
+        "FEMALE2000": 143,
+        "POP2008": 347,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010108001,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6009,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.69958299965572,
+          -3.9615189998019673
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6009,
+        "CU_NAME": "BONGIRIKA",
+        "CU_NO": "014",
+        "GEOCODE": "14010108014",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "ABLATAK",
+        "LATITUDE": -3.952612,
+        "LONGITUDE": 142.674838,
+        "REGHH": 4,
+        "TOTPOP2000": 33,
+        "MALE2000": 17,
+        "FEMALE2000": 16,
+        "POP2008": 41,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010108014,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6010,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6519599996543,
+          -3.9691180003953264
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6010,
+        "CU_NAME": "GAUTAPA",
+        "CU_NO": "015",
+        "GEOCODE": "14010108015",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "ABLATAK",
+        "LATITUDE": -3.970699,
+        "LONGITUDE": 142.650714,
+        "REGHH": 10,
+        "TOTPOP2000": 90,
+        "MALE2000": 48,
+        "FEMALE2000": 42,
+        "POP2008": 106,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010108015,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

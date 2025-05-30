@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8610,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6717720000778,
+          -5.270216999914567
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8610,
+        "CU_NAME": "AIGRAM (010)",
+        "CU_NO": "001",
+        "GEOCODE": "13030917001",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "17",
+        "WARD_NAME": "AIGRAM",
+        "LATITUDE": -5.271618,
+        "LONGITUDE": 144.67072,
+        "REGHH": 48,
+        "TOTPOP2000": 289,
+        "MALE2000": 141,
+        "FEMALE2000": 148,
+        "POP2008": 357,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030917001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.70246499995983,
+          -5.256465999805982
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8611,
+        "CU_NAME": "KARAP (006)",
+        "CU_NO": "006",
+        "GEOCODE": "13030917006",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "17",
+        "WARD_NAME": "AIGRAM",
+        "LATITUDE": -5.257867,
+        "LONGITUDE": 144.701413,
+        "REGHH": 31,
+        "TOTPOP2000": 162,
+        "MALE2000": 89,
+        "FEMALE2000": 73,
+        "POP2008": 200,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030917006,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8612,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7098800001619,
+          -5.2399249996389585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8612,
+        "CU_NAME": "AMAR",
+        "CU_NO": "007",
+        "GEOCODE": "13030917007",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "17",
+        "WARD_NAME": "AIGRAM",
+        "LATITUDE": -5.241326,
+        "LONGITUDE": 144.708828,
+        "REGHH": 27,
+        "TOTPOP2000": 152,
+        "MALE2000": 68,
+        "FEMALE2000": 84,
+        "POP2008": 188,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030917007,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8613,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.71230699966839,
+          -5.231257000110418
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8613,
+        "CU_NAME": "MAMBASAP",
+        "CU_NO": "008",
+        "GEOCODE": "13030917008",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "17",
+        "WARD_NAME": "AIGRAM",
+        "LATITUDE": -5.232658,
+        "LONGITUDE": 144.711255,
+        "REGHH": 17,
+        "TOTPOP2000": 97,
+        "MALE2000": 54,
+        "FEMALE2000": 43,
+        "POP2008": 121,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030917008,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

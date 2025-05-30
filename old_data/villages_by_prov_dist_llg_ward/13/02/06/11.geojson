@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8344,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58907600035718,
+          -4.921401000355843
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8344,
+        "CU_NAME": "WAVIR",
+        "CU_NO": "011",
+        "GEOCODE": "13020611011",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD ELEVEN",
+        "LATITUDE": -4.919614,
+        "LONGITUDE": 145.586632,
+        "REGHH": 22,
+        "TOTPOP2000": 108,
+        "MALE2000": 52,
+        "FEMALE2000": 56,
+        "POP2008": 132,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020611011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.48878699982026,
+          -5.1150270000959495
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8345,
+        "CU_NAME": "IVAP",
+        "CU_NO": "013",
+        "GEOCODE": "13020611013",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD TEN",
+        "LATITUDE": -5.116428,
+        "LONGITUDE": 145.487746,
+        "REGHH": 13,
+        "TOTPOP2000": 66,
+        "MALE2000": 33,
+        "FEMALE2000": 33,
+        "POP2008": 82,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020611013,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8346,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.47572900019327,
+          -5.1048749995815115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8346,
+        "CU_NAME": "KAGI",
+        "CU_NO": "014",
+        "GEOCODE": "13020611014",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD ELEVEN",
+        "LATITUDE": -5.106276,
+        "LONGITUDE": 145.474687,
+        "REGHH": 13,
+        "TOTPOP2000": 84,
+        "MALE2000": 45,
+        "FEMALE2000": 39,
+        "POP2008": 103,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020611014,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8347,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.47894600015786,
+          -5.109685000162585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8347,
+        "CU_NAME": "ORONGA",
+        "CU_NO": "023",
+        "GEOCODE": "13020611023",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD ELEVEN",
+        "LATITUDE": -5.111086,
+        "LONGITUDE": 145.477904,
+        "REGHH": 28,
+        "TOTPOP2000": 143,
+        "MALE2000": 84,
+        "FEMALE2000": 59,
+        "POP2008": 177,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020611023,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8348,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.45056399982877,
+          -5.0908759997275865
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8348,
+        "CU_NAME": "SAMOSA",
+        "CU_NO": "025",
+        "GEOCODE": "13020611025",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD ELEVEN",
+        "LATITUDE": -5.092276,
+        "LONGITUDE": 145.449522,
+        "REGHH": 5,
+        "TOTPOP2000": 29,
+        "MALE2000": 11,
+        "FEMALE2000": 18,
+        "POP2008": 37,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020611025,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8349,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.45032200036007,
+          -5.08491700011939
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8349,
+        "CU_NAME": "SOLI",
+        "CU_NO": "026",
+        "GEOCODE": "13020611026",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD ELEVEN",
+        "LATITUDE": -5.086317,
+        "LONGITUDE": 145.44928,
+        "REGHH": 8,
+        "TOTPOP2000": 44,
+        "MALE2000": 21,
+        "FEMALE2000": 23,
+        "POP2008": 52,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020611026,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8964,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.04563099957102,
+          -4.706526000074803
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8964,
+        "CU_NAME": "KUBAM",
+        "CU_NO": "013",
+        "GEOCODE": "13051316013",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -4.707923,
+        "LONGITUDE": 146.044598,
+        "REGHH": 89,
+        "TOTPOP2000": 574,
+        "MALE2000": 323,
+        "FEMALE2000": 251,
+        "POP2008": 710,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051316013,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8965,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.05052300033628,
+          -4.679056000434002
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8965,
+        "CU_NAME": "BURAG",
+        "CU_NO": "030",
+        "GEOCODE": "13051316030",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -4.680453,
+        "LONGITUDE": 146.04949,
+        "REGHH": 50,
+        "TOTPOP2000": 306,
+        "MALE2000": 149,
+        "FEMALE2000": 157,
+        "POP2008": 378,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051316030,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8966,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.05056300038223,
+          -4.684163000322144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8966,
+        "CU_NAME": "YUKYUK",
+        "CU_NO": "032",
+        "GEOCODE": "13051316032",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -4.68556,
+        "LONGITUDE": 146.04953,
+        "REGHH": 54,
+        "TOTPOP2000": 313,
+        "MALE2000": 159,
+        "FEMALE2000": 154,
+        "POP2008": 387,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051316032,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

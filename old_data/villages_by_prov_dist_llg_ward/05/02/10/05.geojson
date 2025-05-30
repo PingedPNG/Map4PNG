@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.34239303800837,
+          -11.426098316384127
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9997,
+        "CU_NAME": "GESILA",
+        "CU_NO": "003",
+        "GEOCODE": "05021005003",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "GRIFFIN POINT",
+        "LATITUDE": -11.426296,
+        "LONGITUDE": 153.342863,
+        "REGHH": 15,
+        "TOTPOP2000": 68,
+        "MALE2000": 24,
+        "FEMALE2000": 44,
+        "POP2008": 84,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021005003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9998,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3143658229244,
+          -11.38411567629737
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9998,
+        "CU_NAME": "MITIN",
+        "CU_NO": "009",
+        "GEOCODE": "05021005009",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "GRIFFIN POINT",
+        "LATITUDE": -11.384176,
+        "LONGITUDE": 153.31405,
+        "REGHH": 18,
+        "TOTPOP2000": 81,
+        "MALE2000": 40,
+        "FEMALE2000": 41,
+        "POP2008": 97,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021005009,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9999,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.33570899957078,
+          -11.41409000005342
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9999,
+        "CU_NAME": "EBOLETHI",
+        "CU_NO": "010",
+        "GEOCODE": "05021005010",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "GRIFFIN POINT",
+        "LATITUDE": -11.415579,
+        "LONGITUDE": 153.334765,
+        "REGHH": 12,
+        "TOTPOP2000": 47,
+        "MALE2000": 26,
+        "FEMALE2000": 21,
+        "POP2008": 55,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021005010,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.30750647334514,
+          -11.38253209787797
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10000,
+        "CU_NAME": "EDWAHI",
+        "CU_NO": "011",
+        "GEOCODE": "05021005011",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "GRIFFIN POINT",
+        "LATITUDE": -11.377567,
+        "LONGITUDE": 153.313244,
+        "REGHH": 20,
+        "TOTPOP2000": 105,
+        "MALE2000": 57,
+        "FEMALE2000": 48,
+        "POP2008": 129,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021005011,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10001,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.35240886317854,
+          -11.407272644317061
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10001,
+        "CU_NAME": "TARANGIA",
+        "CU_NO": "015",
+        "GEOCODE": "05021005015",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "GRIFFIN POINT",
+        "LATITUDE": -11.408984,
+        "LONGITUDE": 153.352119,
+        "REGHH": 19,
+        "TOTPOP2000": 95,
+        "MALE2000": 52,
+        "FEMALE2000": 43,
+        "POP2008": 116,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021005015,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.34177990541832,
+          -11.399937697266864
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10002,
+        "CU_NAME": "GRIFFIN POINT C/SCH",
+        "CU_NO": "503",
+        "GEOCODE": "05021005503",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "GRIFFIN POINT",
+        "LATITUDE": -11.38969,
+        "LONGITUDE": 153.329155,
+        "REGHH": 15,
+        "TOTPOP2000": 59,
+        "MALE2000": 30,
+        "FEMALE2000": 29,
+        "POP2008": 73,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021005503,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

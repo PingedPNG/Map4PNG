@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6511,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3189670000271,
+          -4.10996899996934
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6511,
+        "CU_NAME": "ARANGO",
+        "CU_NO": "005",
+        "GEOCODE": "14020820005",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "20",
+        "WARD_NAME": "ARANGO",
+        "LATITUDE": -4.111554,
+        "LONGITUDE": 144.317743,
+        "REGHH": 38,
+        "TOTPOP2000": 256,
+        "MALE2000": 135,
+        "FEMALE2000": 121,
+        "POP2008": 305,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020820005,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

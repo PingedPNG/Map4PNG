@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1598,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.56451300037475,
+          -9.697031000080528
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1598,
+        "CU_NAME": "GOBUIA",
+        "CU_NO": "032",
+        "GEOCODE": "03041103032",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "03",
+        "WARD_NAME": "GOBUIA",
+        "LATITUDE": -9.698484,
+        "LONGITUDE": 147.563489,
+        "REGHH": 19,
+        "TOTPOP2000": 105,
+        "MALE2000": 56,
+        "FEMALE2000": 49,
+        "POP2008": 127,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041103032,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

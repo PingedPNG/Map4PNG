@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 24420,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2791060003417,
+          -9.502288000091085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24420,
+        "CU_NAME": "GAVERA TOANA",
+        "CU_NO": "411",
+        "GEOCODE": "04010188411",
+        "PROV_KEY": "04",
+        "DIST_NO": "3",
+        "LLG_NO": "01",
+        "WARD_NO": "88",
+        "WARD_NAME": "BOMANA URBAN",
+        "LATITUDE": -9.502288,
+        "LONGITUDE": 147.279106,
+        "REGHH": 12,
+        "TOTPOP2000": 72,
+        "MALE2000": 35,
+        "FEMALE2000": 37,
+        "POP2008": null,
+        "G_RATE": 0,
+        "Geocode_Num": 4010188411,
+        "PROVINCE": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24422,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.27847900020572,
+          -9.50586699966226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24422,
+        "CU_NAME": "IDUAMAVA",
+        "CU_NO": "413",
+        "GEOCODE": "04010188413",
+        "PROV_KEY": "04",
+        "DIST_NO": "3",
+        "LLG_NO": "01",
+        "WARD_NO": "88",
+        "WARD_NAME": "BOMANA URBAN",
+        "LATITUDE": -9.505867,
+        "LONGITUDE": 147.278479,
+        "REGHH": 6,
+        "TOTPOP2000": 32,
+        "MALE2000": 17,
+        "FEMALE2000": 15,
+        "POP2008": null,
+        "G_RATE": 0,
+        "Geocode_Num": 4010188413,
+        "PROVINCE": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24423,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2720909996999,
+          -9.500450999913653
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24423,
+        "CU_NAME": "KOBAENA",
+        "CU_NO": "414",
+        "GEOCODE": "04010188414",
+        "PROV_KEY": "04",
+        "DIST_NO": "3",
+        "LLG_NO": "01",
+        "WARD_NO": "88",
+        "WARD_NAME": "BOMANA URBAN",
+        "LATITUDE": -9.500451,
+        "LONGITUDE": 147.272091,
+        "REGHH": 13,
+        "TOTPOP2000": 80,
+        "MALE2000": 44,
+        "FEMALE2000": 36,
+        "POP2008": null,
+        "G_RATE": 0,
+        "Geocode_Num": 4010188414,
+        "PROVINCE": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24425,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.27891200038857,
+          -9.500759999774118
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24425,
+        "CU_NAME": "GEREKA",
+        "CU_NO": "417",
+        "GEOCODE": "04010188417",
+        "PROV_KEY": "04",
+        "DIST_NO": "3",
+        "LLG_NO": "01",
+        "WARD_NO": "88",
+        "WARD_NAME": "BOMANA URBAN",
+        "LATITUDE": -9.50076,
+        "LONGITUDE": 147.278912,
+        "REGHH": 12,
+        "TOTPOP2000": 72,
+        "MALE2000": 35,
+        "FEMALE2000": 37,
+        "POP2008": null,
+        "G_RATE": 0,
+        "Geocode_Num": 4010188417,
+        "PROVINCE": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24445,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.27513699987276,
+          -9.498592999667153
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24445,
+        "CU_NAME": "WAIN SETTLEMENT",
+        "CU_NO": "522",
+        "GEOCODE": "12082313549",
+        "PROV_KEY": "04",
+        "DIST_NO": "3",
+        "LLG_NO": "01",
+        "WARD_NO": "88",
+        "WARD_NAME": "BOMANA URBAN",
+        "LATITUDE": -9.498593,
+        "LONGITUDE": 147.275137,
+        "REGHH": 9,
+        "TOTPOP2000": 40,
+        "MALE2000": 23,
+        "FEMALE2000": 17,
+        "POP2008": null,
+        "G_RATE": 0,
+        "Geocode_Num": 12082313549,
+        "PROVINCE": 4
+      }
+    }
+  ]
+}

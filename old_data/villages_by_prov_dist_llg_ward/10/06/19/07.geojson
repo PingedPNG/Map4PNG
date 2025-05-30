@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15009,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0481859997841,
+          -6.01646099967536
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15009,
+        "CU_NAME": "TEREBONA",
+        "CU_NO": "006",
+        "GEOCODE": "10061907006",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "07",
+        "WARD_NAME": "MAI",
+        "LATITUDE": -6.017871,
+        "LONGITUDE": 145.047137,
+        "REGHH": 84,
+        "TOTPOP2000": 316,
+        "MALE2000": 167,
+        "FEMALE2000": 149,
+        "POP2008": 364,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061907006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15010,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.046228000322,
+          -6.012264000383254
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15010,
+        "CU_NAME": "GANDIPODI",
+        "CU_NO": "007",
+        "GEOCODE": "10061907007",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "07",
+        "WARD_NAME": "MAI",
+        "LATITUDE": -6.013674,
+        "LONGITUDE": 145.045179,
+        "REGHH": 22,
+        "TOTPOP2000": 105,
+        "MALE2000": 47,
+        "FEMALE2000": 58,
+        "POP2008": 121,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061907007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15011,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0488610003349,
+          -6.014384000121481
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15011,
+        "CU_NAME": "KERANGUMUL",
+        "CU_NO": "008",
+        "GEOCODE": "10061907008",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "07",
+        "WARD_NAME": "MAI",
+        "LATITUDE": -6.015794,
+        "LONGITUDE": 145.047812,
+        "REGHH": 104,
+        "TOTPOP2000": 407,
+        "MALE2000": 220,
+        "FEMALE2000": 187,
+        "POP2008": 469,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061907008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15012,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.05174500023168,
+          -6.015008000119053
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15012,
+        "CU_NAME": "ONGOGOLOMAMBUNO",
+        "CU_NO": "009",
+        "GEOCODE": "10061907009",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "07",
+        "WARD_NAME": "MAI",
+        "LATITUDE": -6.016418,
+        "LONGITUDE": 145.050696,
+        "REGHH": 31,
+        "TOTPOP2000": 140,
+        "MALE2000": 70,
+        "FEMALE2000": 70,
+        "POP2008": 164,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061907009,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15013,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.06741799994086,
+          -6.0088969997966615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15013,
+        "CU_NAME": "GOR",
+        "CU_NO": "010",
+        "GEOCODE": "10061907010",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "07",
+        "WARD_NAME": "MAI",
+        "LATITUDE": -6.010307,
+        "LONGITUDE": 145.066369,
+        "REGHH": 52,
+        "TOTPOP2000": 213,
+        "MALE2000": 105,
+        "FEMALE2000": 108,
+        "POP2008": 245,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061907010,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5047,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.30316300007246,
+          -5.8410320000267575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5047,
+        "CU_NAME": "MAUNA",
+        "CU_NO": "014",
+        "GEOCODE": "18031412014",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "12",
+        "WARD_NAME": "MAUNA",
+        "LATITUDE": -5.842451,
+        "LONGITUDE": 151.302202,
+        "REGHH": 37,
+        "TOTPOP2000": 198,
+        "MALE2000": 95,
+        "FEMALE2000": 103,
+        "POP2008": 241,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031412014,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

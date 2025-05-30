@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17478,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.02281900019682,
+          -5.825279000225635
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17478,
+        "CU_NAME": "TOMBA",
+        "CU_NO": "037",
+        "GEOCODE": "09071209037",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "09",
+        "WARD_NAME": "TOMBA",
+        "LATITUDE": -5.826205,
+        "LONGITUDE": 144.020732,
+        "REGHH": 97,
+        "TOTPOP2000": 576,
+        "MALE2000": 286,
+        "FEMALE2000": 290,
+        "POP2008": 702,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071209037,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17479,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.01494899969668,
+          -5.819140999557419
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17479,
+        "CU_NAME": "POROWE",
+        "CU_NO": "038",
+        "GEOCODE": "09071209038",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "09",
+        "WARD_NAME": "TOMBA",
+        "LATITUDE": -5.82008,
+        "LONGITUDE": 144.015279,
+        "REGHH": 104,
+        "TOTPOP2000": 495,
+        "MALE2000": 243,
+        "FEMALE2000": 252,
+        "POP2008": 603,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071209038,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

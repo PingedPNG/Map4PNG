@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6347,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60902299971178,
+          -4.645927999777314
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6347,
+        "CU_NAME": "IMANMERI",
+        "CU_NO": "002",
+        "GEOCODE": "14020606002",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "IMANMERI",
+        "LATITUDE": -4.646309,
+        "LONGITUDE": 143.604125,
+        "REGHH": 115,
+        "TOTPOP2000": 654,
+        "MALE2000": 361,
+        "FEMALE2000": 293,
+        "POP2008": 778,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020606002,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,2021 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38998376024244,
+          -6.046684200015761
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29109,
+        "CU_NAME": "GEHAMO",
+        "CU_NO": "018",
+        "GEOCODE": "11020212018",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.046684,
+        "LONGITUDE": 145.389984,
+        "REGHH": 6,
+        "TOTPOP2000": 29,
+        "MALE2000": 14,
+        "FEMALE2000": 15,
+        "POP2008": 37,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3821249598991,
+          -6.04845998963674
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29110,
+        "CU_NAME": "GATEWAY",
+        "CU_NO": "058",
+        "GEOCODE": "11020212058",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.04846,
+        "LONGITUDE": 145.382125,
+        "REGHH": 10,
+        "TOTPOP2000": 32,
+        "MALE2000": 16,
+        "FEMALE2000": 16,
+        "POP2008": 40,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.39438692012038,
+          -6.024509010182612
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29111,
+        "CU_NAME": "AKEPAVETOKA",
+        "CU_NO": "059",
+        "GEOCODE": "11020212059",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.024509,
+        "LONGITUDE": 145.394387,
+        "REGHH": 18,
+        "TOTPOP2000": 86,
+        "MALE2000": 50,
+        "FEMALE2000": 36,
+        "POP2008": 102,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.37103336030145,
+          -6.0439146298562605
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29112,
+        "CU_NAME": "NOLULUKUKA 1",
+        "CU_NO": "065",
+        "GEOCODE": "11020212065",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.043915,
+        "LONGITUDE": 145.371033,
+        "REGHH": 11,
+        "TOTPOP2000": 38,
+        "MALE2000": 18,
+        "FEMALE2000": 20,
+        "POP2008": 46,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.40094360016712,
+          -6.021924929691693
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29113,
+        "CU_NAME": "AIPOS",
+        "CU_NO": "066",
+        "GEOCODE": "11020212066",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.021925,
+        "LONGITUDE": 145.400944,
+        "REGHH": 51,
+        "TOTPOP2000": 232,
+        "MALE2000": 107,
+        "FEMALE2000": 125,
+        "POP2008": 276,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3884526797474,
+          -6.040251630008697
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29114,
+        "CU_NAME": "SEUZUHA",
+        "CU_NO": "075",
+        "GEOCODE": "11020212075",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.040252,
+        "LONGITUDE": 145.388453,
+        "REGHH": 37,
+        "TOTPOP2000": 137,
+        "MALE2000": 76,
+        "FEMALE2000": 61,
+        "POP2008": 161,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38825791986721,
+          -6.042286079938606
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29115,
+        "CU_NAME": "ASS MAMBU",
+        "CU_NO": "076",
+        "GEOCODE": "11020212076",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.042286,
+        "LONGITUDE": 145.388258,
+        "REGHH": 10,
+        "TOTPOP2000": 41,
+        "MALE2000": 22,
+        "FEMALE2000": 19,
+        "POP2008": 49,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38678947985068,
+          -6.04865888999575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29116,
+        "CU_NAME": "ASS KOFI",
+        "CU_NO": "077",
+        "GEOCODE": "11020212077",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.048659,
+        "LONGITUDE": 145.386789,
+        "REGHH": 14,
+        "TOTPOP2000": 57,
+        "MALE2000": 32,
+        "FEMALE2000": 25,
+        "POP2008": 65,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.39345847982509,
+          -6.04465586997236
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29117,
+        "CU_NAME": "ASS BATA",
+        "CU_NO": "078",
+        "GEOCODE": "11020212078",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.044656,
+        "LONGITUDE": 145.393458,
+        "REGHH": 8,
+        "TOTPOP2000": 44,
+        "MALE2000": 23,
+        "FEMALE2000": 21,
+        "POP2008": 52,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.39421592032852,
+          -6.043048019750245
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29118,
+        "CU_NAME": "AMOKUTIE",
+        "CU_NO": "079",
+        "GEOCODE": "11020212079",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.043048,
+        "LONGITUDE": 145.394216,
+        "REGHH": 9,
+        "TOTPOP2000": 18,
+        "MALE2000": 9,
+        "FEMALE2000": 9,
+        "POP2008": 18,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38488903969744,
+          -6.042268890297009
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29119,
+        "CU_NAME": "AMUWANUMUTO",
+        "CU_NO": "080",
+        "GEOCODE": "11020212080",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.042269,
+        "LONGITUDE": 145.384889,
+        "REGHH": 6,
+        "TOTPOP2000": 24,
+        "MALE2000": 12,
+        "FEMALE2000": 12,
+        "POP2008": 32,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.41054659964595,
+          -6.046979760407567
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29120,
+        "CU_NAME": "BANISLAW",
+        "CU_NO": "081",
+        "GEOCODE": "11020212081",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.04698,
+        "LONGITUDE": 145.410547,
+        "REGHH": 13,
+        "TOTPOP2000": 42,
+        "MALE2000": 18,
+        "FEMALE2000": 24,
+        "POP2008": 50,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38628044019026,
+          -6.051964590093689
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29121,
+        "CU_NAME": "FROG HAUS",
+        "CU_NO": "082",
+        "GEOCODE": "11020212082",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.051965,
+        "LONGITUDE": 145.38628,
+        "REGHH": 1,
+        "TOTPOP2000": 4,
+        "MALE2000": 1,
+        "FEMALE2000": 3,
+        "POP2008": 4,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29122,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.40045363962383,
+          -6.049388789660895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29122,
+        "CU_NAME": "GITUNUHATOKA/LOVILOVE",
+        "CU_NO": "083",
+        "GEOCODE": "11020212083",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.049389,
+        "LONGITUDE": 145.400454,
+        "REGHH": 18,
+        "TOTPOP2000": 76,
+        "MALE2000": 34,
+        "FEMALE2000": 42,
+        "POP2008": 92,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29123,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38141863955866,
+          -6.053692230012359
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29123,
+        "CU_NAME": "GOMEX",
+        "CU_NO": "084",
+        "GEOCODE": "11020212084",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.053692,
+        "LONGITUDE": 145.381419,
+        "REGHH": 7,
+        "TOTPOP2000": 36,
+        "MALE2000": 18,
+        "FEMALE2000": 18,
+        "POP2008": 44,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29124,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.40038631997277,
+          -6.053850540370092
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29124,
+        "CU_NAME": "HAUS LOTU",
+        "CU_NO": "085",
+        "GEOCODE": "11020212085",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.053851,
+        "LONGITUDE": 145.400386,
+        "REGHH": 12,
+        "TOTPOP2000": 49,
+        "MALE2000": 27,
+        "FEMALE2000": 22,
+        "POP2008": 57,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29125,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.37512944037144,
+          -6.044042429814226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29125,
+        "CU_NAME": "HUMEKEHAMAKA",
+        "CU_NO": "086",
+        "GEOCODE": "11020212086",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.044042,
+        "LONGITUDE": 145.375129,
+        "REGHH": 4,
+        "TOTPOP2000": 10,
+        "MALE2000": 3,
+        "FEMALE2000": 7,
+        "POP2008": 10,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.39932179966138,
+          -6.043671179781086
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29126,
+        "CU_NAME": "IPAHEGA",
+        "CU_NO": "087",
+        "GEOCODE": "11020212087",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.043671,
+        "LONGITUDE": 145.399322,
+        "REGHH": 7,
+        "TOTPOP2000": 41,
+        "MALE2000": 28,
+        "FEMALE2000": 13,
+        "POP2008": 49,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38164255995628,
+          -6.031840500238843
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29127,
+        "CU_NAME": "KELETOKA",
+        "CU_NO": "088",
+        "GEOCODE": "11020212088",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.03184,
+        "LONGITUDE": 145.381643,
+        "REGHH": 6,
+        "TOTPOP2000": 19,
+        "MALE2000": 6,
+        "FEMALE2000": 13,
+        "POP2008": 19,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.40418071976444,
+          -6.048393209578933
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29128,
+        "CU_NAME": "LAS",
+        "CU_NO": "089",
+        "GEOCODE": "11020212089",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.048393,
+        "LONGITUDE": 145.404181,
+        "REGHH": 18,
+        "TOTPOP2000": 98,
+        "MALE2000": 47,
+        "FEMALE2000": 51,
+        "POP2008": 114,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.36180116029539,
+          -6.048081089970253
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29129,
+        "CU_NAME": "LAGAKUAK",
+        "CU_NO": "090",
+        "GEOCODE": "11020212090",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.048081,
+        "LONGITUDE": 145.361801,
+        "REGHH": 12,
+        "TOTPOP2000": 48,
+        "MALE2000": 20,
+        "FEMALE2000": 28,
+        "POP2008": 56,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.40335488042342,
+          -6.053275170312816
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29130,
+        "CU_NAME": "LAPUN",
+        "CU_NO": "091",
+        "GEOCODE": "11020212091",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.053275,
+        "LONGITUDE": 145.403355,
+        "REGHH": 12,
+        "TOTPOP2000": 40,
+        "MALE2000": 24,
+        "FEMALE2000": 16,
+        "POP2008": 48,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38594024015003,
+          -6.04364282955288
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29131,
+        "CU_NAME": "MOUNTAIN",
+        "CU_NO": "092",
+        "GEOCODE": "11020212092",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.043643,
+        "LONGITUDE": 145.38594,
+        "REGHH": 4,
+        "TOTPOP2000": 14,
+        "MALE2000": 7,
+        "FEMALE2000": 7,
+        "POP2008": 14,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.37839392004344,
+          -6.035617710388976
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29132,
+        "CU_NAME": "MOUNTAIN PAWPAW",
+        "CU_NO": "093",
+        "GEOCODE": "11020212093",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.035618,
+        "LONGITUDE": 145.378394,
+        "REGHH": 15,
+        "TOTPOP2000": 61,
+        "MALE2000": 38,
+        "FEMALE2000": 23,
+        "POP2008": 69,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.39879655961363,
+          -6.055383600272876
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29133,
+        "CU_NAME": "PTC COMPANY",
+        "CU_NO": "094",
+        "GEOCODE": "11020212094",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.055384,
+        "LONGITUDE": 145.398797,
+        "REGHH": 7,
+        "TOTPOP2000": 28,
+        "MALE2000": 13,
+        "FEMALE2000": 15,
+        "POP2008": 36,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3912491603205,
+          -6.043285980363635
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29134,
+        "CU_NAME": "SAWMILL",
+        "CU_NO": "095",
+        "GEOCODE": "11020212095",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.043286,
+        "LONGITUDE": 145.391249,
+        "REGHH": 3,
+        "TOTPOP2000": 26,
+        "MALE2000": 12,
+        "FEMALE2000": 14,
+        "POP2008": 34,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4004860403985,
+          -6.032983859617389
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29135,
+        "CU_NAME": "HASAROKA",
+        "CU_NO": "096",
+        "GEOCODE": "11020212096",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.032984,
+        "LONGITUDE": 145.400486,
+        "REGHH": 20,
+        "TOTPOP2000": 61,
+        "MALE2000": 32,
+        "FEMALE2000": 29,
+        "POP2008": 69,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.37491020004575,
+          -6.037561620172596
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29136,
+        "CU_NAME": "LUMAPAKA 2",
+        "CU_NO": "097",
+        "GEOCODE": "11020212097",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.037562,
+        "LONGITUDE": 145.37491,
+        "REGHH": 22,
+        "TOTPOP2000": 59,
+        "MALE2000": 31,
+        "FEMALE2000": 28,
+        "POP2008": 67,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3994553597771,
+          -6.0266945695986465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29137,
+        "CU_NAME": "LAMAPKA 1",
+        "CU_NO": "098",
+        "GEOCODE": "11020212098",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.026695,
+        "LONGITUDE": 145.399455,
+        "REGHH": 20,
+        "TOTPOP2000": 60,
+        "MALE2000": 34,
+        "FEMALE2000": 26,
+        "POP2008": 68,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38282300018136,
+          -6.040463489598324
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29138,
+        "CU_NAME": "NUMUTAUKA",
+        "CU_NO": "099",
+        "GEOCODE": "11020212099",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.040463,
+        "LONGITUDE": 145.382823,
+        "REGHH": 11,
+        "TOTPOP2000": 36,
+        "MALE2000": 20,
+        "FEMALE2000": 16,
+        "POP2008": 44,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.39803408020873,
+          -6.030966420363939
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29139,
+        "CU_NAME": "OKOUKA",
+        "CU_NO": "100",
+        "GEOCODE": "11020212100",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.030966,
+        "LONGITUDE": 145.398034,
+        "REGHH": 14,
+        "TOTPOP2000": 47,
+        "MALE2000": 19,
+        "FEMALE2000": 28,
+        "POP2008": 55,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38108995983384,
+          -6.038842770077736
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29140,
+        "CU_NAME": "RIVER SIDE",
+        "CU_NO": "101",
+        "GEOCODE": "11020212101",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.038843,
+        "LONGITUDE": 145.38109,
+        "REGHH": 17,
+        "TOTPOP2000": 75,
+        "MALE2000": 52,
+        "FEMALE2000": 23,
+        "POP2008": 91,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29141,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.39686264039858,
+          -6.025308660366363
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29141,
+        "CU_NAME": "SIMBU BLOCK",
+        "CU_NO": "102",
+        "GEOCODE": "11020212102",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.025309,
+        "LONGITUDE": 145.396863,
+        "REGHH": 5,
+        "TOTPOP2000": 23,
+        "MALE2000": 10,
+        "FEMALE2000": 13,
+        "POP2008": 31,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.37747987969271,
+          -6.036658109983762
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29142,
+        "CU_NAME": "GAHEVAUKA",
+        "CU_NO": "103",
+        "GEOCODE": "11020212103",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.036658,
+        "LONGITUDE": 145.37748,
+        "REGHH": 14,
+        "TOTPOP2000": 67,
+        "MALE2000": 33,
+        "FEMALE2000": 34,
+        "POP2008": 81,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38828779984215,
+          -6.032433509598718
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29143,
+        "CU_NAME": "GASOWAGEHATO 1",
+        "CU_NO": "104",
+        "GEOCODE": "11020212104",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.032434,
+        "LONGITUDE": 145.388288,
+        "REGHH": 25,
+        "TOTPOP2000": 83,
+        "MALE2000": 45,
+        "FEMALE2000": 38,
+        "POP2008": 99,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3894250402335,
+          -6.008504759586913
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29144,
+        "CU_NAME": "MT GAHAVISUKA PROV. PARK",
+        "CU_NO": "105",
+        "GEOCODE": "11020212105",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.008505,
+        "LONGITUDE": 145.389425,
+        "REGHH": 2,
+        "TOTPOP2000": 2,
+        "MALE2000": 2,
+        "FEMALE2000": 0,
+        "POP2008": 2,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.37584332041297,
+          -6.03492731973995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29145,
+        "CU_NAME": "MUTUWALO",
+        "CU_NO": "106",
+        "GEOCODE": "11020212106",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.034927,
+        "LONGITUDE": 145.375843,
+        "REGHH": 7,
+        "TOTPOP2000": 56,
+        "MALE2000": 31,
+        "FEMALE2000": 25,
+        "POP2008": 64,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3895805599949,
+          -6.044865029797222
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29146,
+        "CU_NAME": "NOLULUKUKA 2",
+        "CU_NO": "107",
+        "GEOCODE": "11020212107",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.044865,
+        "LONGITUDE": 145.389581,
+        "REGHH": 22,
+        "TOTPOP2000": 69,
+        "MALE2000": 34,
+        "FEMALE2000": 35,
+        "POP2008": 85,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38067740034182,
+          -6.042933179922272
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29147,
+        "CU_NAME": "ANEKEHALO",
+        "CU_NO": "108",
+        "GEOCODE": "11020212108",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.042933,
+        "LONGITUDE": 145.380677,
+        "REGHH": 7,
+        "TOTPOP2000": 16,
+        "MALE2000": 7,
+        "FEMALE2000": 9,
+        "POP2008": 16,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3884134396286,
+          -6.037523370207339
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29148,
+        "CU_NAME": "APPA",
+        "CU_NO": "109",
+        "GEOCODE": "11020212109",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.037523,
+        "LONGITUDE": 145.388413,
+        "REGHH": 20,
+        "TOTPOP2000": 63,
+        "MALE2000": 34,
+        "FEMALE2000": 29,
+        "POP2008": 73,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29149,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38783563960317,
+          -6.0361605897393815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29149,
+        "CU_NAME": "BUNDI BLOCK",
+        "CU_NO": "110",
+        "GEOCODE": "11020212110",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.036161,
+        "LONGITUDE": 145.387836,
+        "REGHH": 19,
+        "TOTPOP2000": 93,
+        "MALE2000": 48,
+        "FEMALE2000": 45,
+        "POP2008": 109,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.40300207998212,
+          -6.019071299900531
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29150,
+        "CU_NAME": "DARK RUM",
+        "CU_NO": "111",
+        "GEOCODE": "11020212111",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.019071,
+        "LONGITUDE": 145.403002,
+        "REGHH": 4,
+        "TOTPOP2000": 19,
+        "MALE2000": 12,
+        "FEMALE2000": 7,
+        "POP2008": 19,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29151,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38735252020274,
+          -6.038860230415253
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29151,
+        "CU_NAME": "GIHE",
+        "CU_NO": "112",
+        "GEOCODE": "11020212112",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.03886,
+        "LONGITUDE": 145.387353,
+        "REGHH": 16,
+        "TOTPOP2000": 65,
+        "MALE2000": 34,
+        "FEMALE2000": 31,
+        "POP2008": 77,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29152,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.33993979968204,
+          -6.111823229858146
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29152,
+        "CU_NAME": "GITUNUZAHA",
+        "CU_NO": "113",
+        "GEOCODE": "11020212113",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.111823,
+        "LONGITUDE": 145.33994,
+        "REGHH": 14,
+        "TOTPOP2000": 52,
+        "MALE2000": 27,
+        "FEMALE2000": 25,
+        "POP2008": 60,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29153,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.39504859991303,
+          -6.02715321035231
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29153,
+        "CU_NAME": "GINITOKA",
+        "CU_NO": "114",
+        "GEOCODE": "11020212114",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.027153,
+        "LONGITUDE": 145.395049,
+        "REGHH": 11,
+        "TOTPOP2000": 38,
+        "MALE2000": 16,
+        "FEMALE2000": 22,
+        "POP2008": 46,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29154,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3875109195933,
+          -6.046429500321153
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29154,
+        "CU_NAME": "GASOWAGEHATO 2",
+        "CU_NO": "115",
+        "GEOCODE": "11020212115",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.046429,
+        "LONGITUDE": 145.387511,
+        "REGHH": 18,
+        "TOTPOP2000": 52,
+        "MALE2000": 29,
+        "FEMALE2000": 23,
+        "POP2008": 60,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38629484013484,
+          -6.046736039636471
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29155,
+        "CU_NAME": "GRUSHER",
+        "CU_NO": "116",
+        "GEOCODE": "11020212116",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.046736,
+        "LONGITUDE": 145.386295,
+        "REGHH": 7,
+        "TOTPOP2000": 27,
+        "MALE2000": 16,
+        "FEMALE2000": 11,
+        "POP2008": 35,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.39573800040841,
+          -6.048141480345009
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29156,
+        "CU_NAME": "JOPAVOTEKA",
+        "CU_NO": "117",
+        "GEOCODE": "11020212117",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.048141,
+        "LONGITUDE": 145.395738,
+        "REGHH": 9,
+        "TOTPOP2000": 39,
+        "MALE2000": 20,
+        "FEMALE2000": 19,
+        "POP2008": 47,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29157,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.37959920044284,
+          -6.045257609950681
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29157,
+        "CU_NAME": "JOSTOKA",
+        "CU_NO": "118",
+        "GEOCODE": "11020212118",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.045258,
+        "LONGITUDE": 145.379599,
+        "REGHH": 9,
+        "TOTPOP2000": 28,
+        "MALE2000": 14,
+        "FEMALE2000": 14,
+        "POP2008": 36,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29158,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.39520196040223,
+          -6.0441640199534845
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29158,
+        "CU_NAME": "KOFI HAUS",
+        "CU_NO": "119",
+        "GEOCODE": "11020212119",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.044164,
+        "LONGITUDE": 145.395202,
+        "REGHH": 3,
+        "TOTPOP2000": 18,
+        "MALE2000": 9,
+        "FEMALE2000": 9,
+        "POP2008": 18,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29159,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38642875997937,
+          -6.044664599691487
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29159,
+        "CU_NAME": "MAMBOO",
+        "CU_NO": "120",
+        "GEOCODE": "11020212120",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.044665,
+        "LONGITUDE": 145.386429,
+        "REGHH": 6,
+        "TOTPOP2000": 26,
+        "MALE2000": 9,
+        "FEMALE2000": 17,
+        "POP2008": 34,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29160,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.39273200028163,
+          -6.043413960186058
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29160,
+        "CU_NAME": "NAMOPAGETO",
+        "CU_NO": "121",
+        "GEOCODE": "11020212121",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.043414,
+        "LONGITUDE": 145.392732,
+        "REGHH": 11,
+        "TOTPOP2000": 36,
+        "MALE2000": 20,
+        "FEMALE2000": 16,
+        "POP2008": 44,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29161,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.37684664006042,
+          -6.0500405697164865
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29161,
+        "CU_NAME": "NAMO",
+        "CU_NO": "122",
+        "GEOCODE": "11020212122",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.050041,
+        "LONGITUDE": 145.376847,
+        "REGHH": 11,
+        "TOTPOP2000": 33,
+        "MALE2000": 16,
+        "FEMALE2000": 17,
+        "POP2008": 41,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29162,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38976884025988,
+          -6.042044969899393
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29162,
+        "CU_NAME": "NUMUVONAGAMI",
+        "CU_NO": "123",
+        "GEOCODE": "11020212123",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.042045,
+        "LONGITUDE": 145.389769,
+        "REGHH": 4,
+        "TOTPOP2000": 12,
+        "MALE2000": 8,
+        "FEMALE2000": 4,
+        "POP2008": 12,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29163,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.37974860031773,
+          -6.028881389864182
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29163,
+        "CU_NAME": "HULUSAROKA",
+        "CU_NO": "124",
+        "GEOCODE": "11020212124",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.028881,
+        "LONGITUDE": 145.379749,
+        "REGHH": 15,
+        "TOTPOP2000": 47,
+        "MALE2000": 26,
+        "FEMALE2000": 21,
+        "POP2008": 55,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29164,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38741696022464,
+          -6.043274999641483
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29164,
+        "CU_NAME": "LISAPEKA",
+        "CU_NO": "125",
+        "GEOCODE": "11020212125",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.043275,
+        "LONGITUDE": 145.387417,
+        "REGHH": 26,
+        "TOTPOP2000": 108,
+        "MALE2000": 53,
+        "FEMALE2000": 55,
+        "POP2008": 129,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29165,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.37953404006396,
+          -6.031554839584146
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29165,
+        "CU_NAME": "ZAVELEHALO",
+        "CU_NO": "126",
+        "GEOCODE": "11020212126",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.031555,
+        "LONGITUDE": 145.379534,
+        "REGHH": 28,
+        "TOTPOP2000": 89,
+        "MALE2000": 44,
+        "FEMALE2000": 45,
+        "POP2008": 105,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29166,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.369998719965,
+          -6.047573759921022
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29166,
+        "CU_NAME": "MACK TAYLOR BLOCK",
+        "CU_NO": "127",
+        "GEOCODE": "11020212127",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.047574,
+        "LONGITUDE": 145.369999,
+        "REGHH": 12,
+        "TOTPOP2000": 39,
+        "MALE2000": 23,
+        "FEMALE2000": 16,
+        "POP2008": 47,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29167,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38197880028144,
+          -6.024107610377882
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29167,
+        "CU_NAME": "SINASINA BLOCK",
+        "CU_NO": "128",
+        "GEOCODE": "11020212128",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.024108,
+        "LONGITUDE": 145.381979,
+        "REGHH": 40,
+        "TOTPOP2000": 127,
+        "MALE2000": 71,
+        "FEMALE2000": 56,
+        "POP2008": 151,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29168,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38101292031013,
+          -6.048208979860476
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29168,
+        "CU_NAME": "ZOTUHALO",
+        "CU_NO": "129",
+        "GEOCODE": "11020212129",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.048209,
+        "LONGITUDE": 145.381013,
+        "REGHH": 9,
+        "TOTPOP2000": 33,
+        "MALE2000": 20,
+        "FEMALE2000": 13,
+        "POP2008": 41,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29169,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3815640797186,
+          -6.047710199665914
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29169,
+        "CU_NAME": "KEFAMO CATHOLIC MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "11020212401",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.04771,
+        "LONGITUDE": 145.381564,
+        "REGHH": 15,
+        "TOTPOP2000": 71,
+        "MALE2000": 33,
+        "FEMALE2000": 38,
+        "POP2008": 87,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29170,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.39156596000112,
+          -6.02671958963731
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29170,
+        "CU_NAME": "NIPIYALEKA PLNT",
+        "CU_NO": "402",
+        "GEOCODE": "11020212402",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.02672,
+        "LONGITUDE": 145.391566,
+        "REGHH": 4,
+        "TOTPOP2000": 10,
+        "MALE2000": 7,
+        "FEMALE2000": 3,
+        "POP2008": 10,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29171,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.368946440326,
+          -6.051533400246171
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29171,
+        "CU_NAME": "OKIUFA P/SCHOOL",
+        "CU_NO": "404",
+        "GEOCODE": "11020212404",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GEHAMO",
+        "LATITUDE": -6.051533,
+        "LONGITUDE": 145.368946,
+        "REGHH": 8,
+        "TOTPOP2000": 46,
+        "MALE2000": 25,
+        "FEMALE2000": 21,
+        "POP2008": 54,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.69854599999792,
+          -6.55892600003483
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14233,
+        "CU_NAME": "NEGABO",
+        "CU_NO": "001",
+        "GEOCODE": "10030713001",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "NEGABO",
+        "LATITUDE": -6.560341,
+        "LONGITUDE": 144.697492,
+        "REGHH": 48,
+        "TOTPOP2000": 293,
+        "MALE2000": 149,
+        "FEMALE2000": 144,
+        "POP2008": 338,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030713001,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.70169400037787,
+          -6.566501000420772
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14234,
+        "CU_NAME": "YOGOBO 1&2",
+        "CU_NO": "002",
+        "GEOCODE": "10030713002",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "NEGABO",
+        "LATITUDE": -6.567916,
+        "LONGITUDE": 144.70064,
+        "REGHH": 29,
+        "TOTPOP2000": 158,
+        "MALE2000": 81,
+        "FEMALE2000": 77,
+        "POP2008": 182,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030713002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.70584100006215,
+          -6.546220999599427
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14235,
+        "CU_NAME": "BEIYE",
+        "CU_NO": "003",
+        "GEOCODE": "10030713003",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "NEGABO",
+        "LATITUDE": -6.547636,
+        "LONGITUDE": 144.704787,
+        "REGHH": 35,
+        "TOTPOP2000": 218,
+        "MALE2000": 117,
+        "FEMALE2000": 101,
+        "POP2008": 250,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030713003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.70103100038045,
+          -6.5530129998500115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14236,
+        "CU_NAME": "TOMOBISIBI",
+        "CU_NO": "004",
+        "GEOCODE": "10030713004",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "NEGABO",
+        "LATITUDE": -6.554428,
+        "LONGITUDE": 144.699977,
+        "REGHH": 20,
+        "TOTPOP2000": 136,
+        "MALE2000": 66,
+        "FEMALE2000": 70,
+        "POP2008": 158,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030713004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14237,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.70524699964938,
+          -6.564543000059359
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14237,
+        "CU_NAME": "NEGABO H/CEN",
+        "CU_NO": "401",
+        "GEOCODE": "10030713401",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "NEGABO",
+        "LATITUDE": -6.567307,
+        "LONGITUDE": 144.703436,
+        "REGHH": 4,
+        "TOTPOP2000": 13,
+        "MALE2000": 10,
+        "FEMALE2000": 3,
+        "POP2008": 13,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030713401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

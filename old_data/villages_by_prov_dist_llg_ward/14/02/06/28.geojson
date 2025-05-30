@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6390,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.32655600035923,
+          -4.57869099998959
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6390,
+        "CU_NAME": "SEVENBUK",
+        "CU_NO": "015",
+        "GEOCODE": "14020628015",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "28",
+        "WARD_NAME": "TARAKAI",
+        "LATITUDE": -4.581537,
+        "LONGITUDE": 143.324854,
+        "REGHH": 23,
+        "TOTPOP2000": 115,
+        "MALE2000": 54,
+        "FEMALE2000": 61,
+        "POP2008": 139,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020628015,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6391,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.30976116744398,
+          -4.578244896684566
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6391,
+        "CU_NAME": "TARAKAI",
+        "CU_NO": "016",
+        "GEOCODE": "14020628016",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "28",
+        "WARD_NAME": "TARAKAI",
+        "LATITUDE": -4.580464,
+        "LONGITUDE": 143.308361,
+        "REGHH": 20,
+        "TOTPOP2000": 102,
+        "MALE2000": 45,
+        "FEMALE2000": 57,
+        "POP2008": 120,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020628016,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6392,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.35547800040945,
+          -4.604505999752064
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6392,
+        "CU_NAME": "MARIBON",
+        "CU_NO": "023",
+        "GEOCODE": "14020628023",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "28",
+        "WARD_NAME": "TARAKAI",
+        "LATITUDE": -4.604206,
+        "LONGITUDE": 143.355954,
+        "REGHH": 5,
+        "TOTPOP2000": 18,
+        "MALE2000": 7,
+        "FEMALE2000": 11,
+        "POP2008": 18,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020628023,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

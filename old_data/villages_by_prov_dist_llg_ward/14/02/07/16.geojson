@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6425,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9545250002286,
+          -4.273090000403158
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6425,
+        "CU_NAME": "KAIMBAL",
+        "CU_NO": "005",
+        "GEOCODE": "14020716005",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "16",
+        "WARD_NAME": "MONGOL",
+        "LATITUDE": -4.274676,
+        "LONGITUDE": 143.953296,
+        "REGHH": 12,
+        "TOTPOP2000": 81,
+        "MALE2000": 45,
+        "FEMALE2000": 36,
+        "POP2008": 97,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020716005,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6426,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.91886699981228,
+          -4.260707000427658
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6426,
+        "CU_NAME": "MONGOL",
+        "CU_NO": "024",
+        "GEOCODE": "14020716024",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "16",
+        "WARD_NAME": "MONGOL",
+        "LATITUDE": -4.262293,
+        "LONGITUDE": 143.917638,
+        "REGHH": 31,
+        "TOTPOP2000": 255,
+        "MALE2000": 122,
+        "FEMALE2000": 133,
+        "POP2008": 304,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020716024,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

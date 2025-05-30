@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14186,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.88799799970798,
+          -6.11381599980848
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14186,
+        "CU_NAME": "PILDIMNA",
+        "CU_NO": "006",
+        "GEOCODE": "10020610006",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "10",
+        "WARD_NAME": "OLDALE",
+        "LATITUDE": -6.115226,
+        "LONGITUDE": 144.886947,
+        "REGHH": 56,
+        "TOTPOP2000": 367,
+        "MALE2000": 185,
+        "FEMALE2000": 182,
+        "POP2008": 423,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020610006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14187,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.90153499984046,
+          -6.093071000026555
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14187,
+        "CU_NAME": "YOUMA",
+        "CU_NO": "007",
+        "GEOCODE": "10020610007",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "10",
+        "WARD_NAME": "OLDALE",
+        "LATITUDE": -6.094481,
+        "LONGITUDE": 144.900484,
+        "REGHH": 43,
+        "TOTPOP2000": 260,
+        "MALE2000": 136,
+        "FEMALE2000": 124,
+        "POP2008": 300,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020610007,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

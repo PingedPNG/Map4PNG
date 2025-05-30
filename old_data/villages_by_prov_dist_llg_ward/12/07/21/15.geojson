@@ -1,0 +1,261 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91800400008458,
+          -7.2565230002362
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12000,
+        "CU_NAME": "WIYOKA",
+        "CU_NO": "015",
+        "GEOCODE": "12072115015",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "15",
+        "WARD_NAME": "IKUMDI",
+        "LATITUDE": -7.23177,
+        "LONGITUDE": 145.869044,
+        "REGHH": 69,
+        "TOTPOP2000": 312,
+        "MALE2000": 165,
+        "FEMALE2000": 147,
+        "POP2008": 389,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072115015,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12001,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.96225600021432,
+          -7.28036699993703
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12001,
+        "CU_NAME": "BU-U",
+        "CU_NO": "016",
+        "GEOCODE": "12072115016",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "15",
+        "WARD_NAME": "IKUMDI",
+        "LATITUDE": -7.253328,
+        "LONGITUDE": 145.914848,
+        "REGHH": 22,
+        "TOTPOP2000": 75,
+        "MALE2000": 42,
+        "FEMALE2000": 33,
+        "POP2008": 91,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072115016,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.910523999583,
+          -7.272572000197613
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12002,
+        "CU_NAME": "WIYOKA",
+        "CU_NO": "017",
+        "GEOCODE": "12072115017",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "15",
+        "WARD_NAME": "IKUMDI",
+        "LATITUDE": -7.236167,
+        "LONGITUDE": 145.870817,
+        "REGHH": 11,
+        "TOTPOP2000": 37,
+        "MALE2000": 22,
+        "FEMALE2000": 15,
+        "POP2008": 45,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072115017,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.93490799990434,
+          -7.260720999574403
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12003,
+        "CU_NAME": "ANGAI",
+        "CU_NO": "018",
+        "GEOCODE": "12072115018",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "15",
+        "WARD_NAME": "IKUMDI",
+        "LATITUDE": -7.233968,
+        "LONGITUDE": 145.886775,
+        "REGHH": 21,
+        "TOTPOP2000": 100,
+        "MALE2000": 49,
+        "FEMALE2000": 51,
+        "POP2008": 124,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072115018,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.960644999667,
+          -7.283718999831933
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12004,
+        "CU_NAME": "BU-U",
+        "CU_NO": "019",
+        "GEOCODE": "12072115019",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "15",
+        "WARD_NAME": "IKUMDI",
+        "LATITUDE": -7.256393,
+        "LONGITUDE": 145.913815,
+        "REGHH": 42,
+        "TOTPOP2000": 197,
+        "MALE2000": 99,
+        "FEMALE2000": 98,
+        "POP2008": 247,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072115019,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12005,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.93595599966966,
+          -7.264959999904022
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12005,
+        "CU_NAME": "ANGAI",
+        "CU_NO": "020",
+        "GEOCODE": "12072115020",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "15",
+        "WARD_NAME": "IKUMDI",
+        "LATITUDE": -7.237486,
+        "LONGITUDE": 145.888548,
+        "REGHH": 27,
+        "TOTPOP2000": 116,
+        "MALE2000": 52,
+        "FEMALE2000": 64,
+        "POP2008": 145,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072115020,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12006,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.95663500000535,
+          -7.270820000342667
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12006,
+        "CU_NAME": "IKUMDI 3",
+        "CU_NO": "021",
+        "GEOCODE": "12072115021",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "15",
+        "WARD_NAME": "IKUMDI",
+        "LATITUDE": -7.243202,
+        "LONGITUDE": 145.908938,
+        "REGHH": 30,
+        "TOTPOP2000": 128,
+        "MALE2000": 63,
+        "FEMALE2000": 65,
+        "POP2008": 160,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072115021,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9590150000423,
+          -7.268919999957973
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12007,
+        "CU_NAME": "IKUMDI 2",
+        "CU_NO": "022",
+        "GEOCODE": "12072115022",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "21",
+        "WARD_NO": "15",
+        "WARD_NAME": "IKUMDI",
+        "LATITUDE": -7.241883,
+        "LONGITUDE": 145.912041,
+        "REGHH": 43,
+        "TOTPOP2000": 231,
+        "MALE2000": 118,
+        "FEMALE2000": 113,
+        "POP2008": 288,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072115022,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

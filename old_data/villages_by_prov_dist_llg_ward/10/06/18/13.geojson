@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14943,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.94628599959924,
+          -6.10969200028552
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14943,
+        "CU_NAME": "MINKAULI",
+        "CU_NO": "001",
+        "GEOCODE": "10061813001",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "13",
+        "WARD_NAME": "DIGAKANE",
+        "LATITUDE": -6.111104,
+        "LONGITUDE": 144.945236,
+        "REGHH": 40,
+        "TOTPOP2000": 203,
+        "MALE2000": 103,
+        "FEMALE2000": 100,
+        "POP2008": 235,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061813001,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14944,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.94420199972262,
+          -6.1035720004474
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14944,
+        "CU_NAME": "NEW CAMP",
+        "CU_NO": "002",
+        "GEOCODE": "10061813002",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "13",
+        "WARD_NAME": "DIGAKANE",
+        "LATITUDE": -6.104982,
+        "LONGITUDE": 144.943152,
+        "REGHH": 10,
+        "TOTPOP2000": 35,
+        "MALE2000": 16,
+        "FEMALE2000": 19,
+        "POP2008": 43,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061813002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96034899970664,
+          -6.104406000236679
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14945,
+        "CU_NAME": "MEGIN",
+        "CU_NO": "003",
+        "GEOCODE": "10061813003",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "13",
+        "WARD_NAME": "DIGAKANE",
+        "LATITUDE": -6.105818,
+        "LONGITUDE": 144.959299,
+        "REGHH": 33,
+        "TOTPOP2000": 134,
+        "MALE2000": 75,
+        "FEMALE2000": 59,
+        "POP2008": 155,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061813003,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

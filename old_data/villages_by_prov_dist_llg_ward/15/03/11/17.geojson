@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18823,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.15940199960266,
+          -4.824721999920314
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18823,
+        "CU_NAME": "ATENSIKIN",
+        "CU_NO": "017",
+        "GEOCODE": "15031117017",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "17",
+        "WARD_NAME": "ATENSIKIN",
+        "LATITUDE": -4.826113,
+        "LONGITUDE": 141.158307,
+        "REGHH": 16,
+        "TOTPOP2000": 153,
+        "MALE2000": 80,
+        "FEMALE2000": 73,
+        "POP2008": 185,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031117017,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

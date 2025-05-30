@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16899,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.63497600024232,
+          -5.657066999742199
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16899,
+        "CU_NAME": "ONGOLMOL",
+        "CU_NO": "011",
+        "GEOCODE": "09040626011",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "26",
+        "WARD_NAME": "ONGOLMOL",
+        "LATITUDE": -5.656968,
+        "LONGITUDE": 144.627322,
+        "REGHH": 82,
+        "TOTPOP2000": 405,
+        "MALE2000": 214,
+        "FEMALE2000": 191,
+        "POP2008": 493,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040626011,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16900,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6265179996061,
+          -5.652994999919258
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16900,
+        "CU_NAME": "KILPANG",
+        "CU_NO": "012",
+        "GEOCODE": "09040626012",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "26",
+        "WARD_NAME": "ONGOLMOL",
+        "LATITUDE": -5.653931,
+        "LONGITUDE": 144.626856,
+        "REGHH": 39,
+        "TOTPOP2000": 175,
+        "MALE2000": 91,
+        "FEMALE2000": 84,
+        "POP2008": 213,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040626012,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

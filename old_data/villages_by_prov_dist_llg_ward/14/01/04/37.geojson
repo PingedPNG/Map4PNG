@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6281,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.70915100021853,
+          -4.757679000085716
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6281,
+        "CU_NAME": "BIGARU",
+        "CU_NO": "001",
+        "GEOCODE": "14010437001",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "37",
+        "WARD_NAME": "NIKSEK/PAKA",
+        "LATITUDE": -4.751837,
+        "LONGITUDE": 142.712116,
+        "REGHH": 8,
+        "TOTPOP2000": 47,
+        "MALE2000": 19,
+        "FEMALE2000": 28,
+        "POP2008": 55,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010437001,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6282,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.53971700003956,
+          -4.695235000095124
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6282,
+        "CU_NAME": "NIKSEK",
+        "CU_NO": "002",
+        "GEOCODE": "14010437002",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "37",
+        "WARD_NAME": "NIKSEK/PAKA",
+        "LATITUDE": -4.696824,
+        "LONGITUDE": 142.538469,
+        "REGHH": 72,
+        "TOTPOP2000": 353,
+        "MALE2000": 189,
+        "FEMALE2000": 164,
+        "POP2008": 420,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010437002,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.54969599977062,
+          -4.700735000120119
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6283,
+        "CU_NAME": "SIFE",
+        "CU_NO": "003",
+        "GEOCODE": "14010437003",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "37",
+        "WARD_NAME": "NIKSEK/PAKA",
+        "LATITUDE": -4.698244,
+        "LONGITUDE": 142.546403,
+        "REGHH": 20,
+        "TOTPOP2000": 89,
+        "MALE2000": 45,
+        "FEMALE2000": 44,
+        "POP2008": 105,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010437003,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

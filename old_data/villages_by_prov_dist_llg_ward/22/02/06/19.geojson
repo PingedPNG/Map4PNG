@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16889,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4462259996302,
+          -5.357946000407537
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16889,
+        "CU_NAME": "TSENDIAP",
+        "CU_NO": "014",
+        "GEOCODE": "09040619014",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "19",
+        "WARD_NAME": "TSENDIAP",
+        "LATITUDE": -5.359951,
+        "LONGITUDE": 144.445485,
+        "REGHH": 44,
+        "TOTPOP2000": 176,
+        "MALE2000": 105,
+        "FEMALE2000": 71,
+        "POP2008": 214,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040619014,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16890,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.45239599997547,
+          -5.363887000084958
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16890,
+        "CU_NAME": "SIMENEK",
+        "CU_NO": "015",
+        "GEOCODE": "09040619015",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "19",
+        "WARD_NAME": "TSENDIAP",
+        "LATITUDE": -5.36482,
+        "LONGITUDE": 144.452732,
+        "REGHH": 47,
+        "TOTPOP2000": 176,
+        "MALE2000": 92,
+        "FEMALE2000": 84,
+        "POP2008": 214,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040619015,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16891,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.439730999586,
+          -5.366906999958019
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16891,
+        "CU_NAME": "TSENDIAP B/COLL",
+        "CU_NO": "401",
+        "GEOCODE": "09040619401",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "19",
+        "WARD_NAME": "TSENDIAP",
+        "LATITUDE": -5.36784,
+        "LONGITUDE": 144.440068,
+        "REGHH": 38,
+        "TOTPOP2000": 165,
+        "MALE2000": 89,
+        "FEMALE2000": 76,
+        "POP2008": 201,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040619401,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

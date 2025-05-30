@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16391,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.42773300027784,
+          -5.697105999841995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16391,
+        "CU_NAME": "MUKAPENGA",
+        "CU_NO": "032",
+        "GEOCODE": "09020334032",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "34",
+        "WARD_NAME": "NUNGA 1",
+        "LATITUDE": -5.697504,
+        "LONGITUDE": 144.428072,
+        "REGHH": 28,
+        "TOTPOP2000": 97,
+        "MALE2000": 42,
+        "FEMALE2000": 55,
+        "POP2008": 119,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020334032,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16392,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.42666599963627,
+          -5.6946629995977105
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16392,
+        "CU_NAME": "KOTDONG",
+        "CU_NO": "033",
+        "GEOCODE": "09020334033",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "34",
+        "WARD_NAME": "NUNGA 1",
+        "LATITUDE": -5.696143,
+        "LONGITUDE": 144.428342,
+        "REGHH": 46,
+        "TOTPOP2000": 193,
+        "MALE2000": 99,
+        "FEMALE2000": 94,
+        "POP2008": 235,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020334033,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16393,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4285389996752,
+          -5.693511000432295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16393,
+        "CU_NAME": "MARARONG",
+        "CU_NO": "034",
+        "GEOCODE": "09020334034",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "34",
+        "WARD_NAME": "NUNGA 1",
+        "LATITUDE": -5.695523,
+        "LONGITUDE": 144.428871,
+        "REGHH": 34,
+        "TOTPOP2000": 151,
+        "MALE2000": 62,
+        "FEMALE2000": 89,
+        "POP2008": 183,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020334034,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16394,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.42981700015446,
+          -5.69399600031511
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16394,
+        "CU_NAME": "PUELENTY",
+        "CU_NO": "035",
+        "GEOCODE": "09020334035",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "34",
+        "WARD_NAME": "NUNGA 1",
+        "LATITUDE": -5.696004,
+        "LONGITUDE": 144.429343,
+        "REGHH": 36,
+        "TOTPOP2000": 134,
+        "MALE2000": 66,
+        "FEMALE2000": 68,
+        "POP2008": 164,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020334035,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16395,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4292530002258,
+          -5.6984539999521076
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16395,
+        "CU_NAME": "RULNA",
+        "CU_NO": "036",
+        "GEOCODE": "09020334036",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "34",
+        "WARD_NAME": "NUNGA 1",
+        "LATITUDE": -5.69939,
+        "LONGITUDE": 144.429589,
+        "REGHH": 38,
+        "TOTPOP2000": 158,
+        "MALE2000": 81,
+        "FEMALE2000": 77,
+        "POP2008": 192,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020334036,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

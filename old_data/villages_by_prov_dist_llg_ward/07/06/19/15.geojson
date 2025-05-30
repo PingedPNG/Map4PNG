@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21034,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.51502999993465,
+          -6.049001000195972
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21034,
+        "CU_NAME": "PAREP",
+        "CU_NO": "001",
+        "GEOCODE": "07061915001",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "15",
+        "WARD_NAME": "KEMA",
+        "LATITUDE": -6.052769,
+        "LONGITUDE": 143.514873,
+        "REGHH": 48,
+        "TOTPOP2000": 286,
+        "MALE2000": 150,
+        "FEMALE2000": 136,
+        "POP2008": 398,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061915001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21035,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.51507900039564,
+          -6.047550999878695
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21035,
+        "CU_NAME": "TAREP",
+        "CU_NO": "002",
+        "GEOCODE": "07061915002",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "15",
+        "WARD_NAME": "KEMA",
+        "LATITUDE": -6.052769,
+        "LONGITUDE": 143.514873,
+        "REGHH": 53,
+        "TOTPOP2000": 278,
+        "MALE2000": 144,
+        "FEMALE2000": 134,
+        "POP2008": 387,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061915002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21036,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5129280001272,
+          -6.048263000337158
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21036,
+        "CU_NAME": "TOPA",
+        "CU_NO": "003",
+        "GEOCODE": "07061915003",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "15",
+        "WARD_NAME": "KEMA",
+        "LATITUDE": -6.052769,
+        "LONGITUDE": 143.514873,
+        "REGHH": 49,
+        "TOTPOP2000": 276,
+        "MALE2000": 160,
+        "FEMALE2000": 116,
+        "POP2008": 384,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061915003,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

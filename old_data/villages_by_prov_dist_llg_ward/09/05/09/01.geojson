@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17068,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1699869997003,
+          -5.613963000392118
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17068,
+        "CU_NAME": "POKOTAPUGL",
+        "CU_NO": "001",
+        "GEOCODE": "09050901001",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "01",
+        "WARD_NAME": "POKOTAPUGL",
+        "LATITUDE": -5.614899,
+        "LONGITUDE": 144.17032,
+        "REGHH": 146,
+        "TOTPOP2000": 574,
+        "MALE2000": 282,
+        "FEMALE2000": 292,
+        "POP2008": 699,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050901001,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17069,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.176828000412,
+          -5.6094710000865575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17069,
+        "CU_NAME": "KOMBOLOPA HIGH SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "09050901401",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "01",
+        "WARD_NAME": "POKOTAPUGL",
+        "LATITUDE": -5.610407,
+        "LONGITUDE": 144.177161,
+        "REGHH": 7,
+        "TOTPOP2000": 26,
+        "MALE2000": 14,
+        "FEMALE2000": 12,
+        "POP2008": 34,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050901401,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

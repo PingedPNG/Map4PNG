@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8018,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.80338700001016,
+          -4.332785000427407
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8018,
+        "CU_NAME": "ABEGINI",
+        "CU_NO": "001",
+        "GEOCODE": "13010322001",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "22",
+        "WARD_NAME": "ABEGINI",
+        "LATITUDE": -4.33069,
+        "LONGITUDE": 144.804536,
+        "REGHH": 57,
+        "TOTPOP2000": 261,
+        "MALE2000": 137,
+        "FEMALE2000": 124,
+        "POP2008": 322,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010322001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8019,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.81282199983548,
+          -4.320618999667033
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8019,
+        "CU_NAME": "IKEMEN",
+        "CU_NO": "019",
+        "GEOCODE": "13010322019",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "22",
+        "WARD_NAME": "ABEGINI",
+        "LATITUDE": -4.32201,
+        "LONGITUDE": 144.811773,
+        "REGHH": 58,
+        "TOTPOP2000": 339,
+        "MALE2000": 171,
+        "FEMALE2000": 168,
+        "POP2008": 419,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010322019,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8020,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.79123699998763,
+          -4.326363000152298
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8020,
+        "CU_NAME": "ZUM",
+        "CU_NO": "020",
+        "GEOCODE": "13010322020",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "22",
+        "WARD_NAME": "ABEGINI",
+        "LATITUDE": -4.327754,
+        "LONGITUDE": 144.790188,
+        "REGHH": 32,
+        "TOTPOP2000": 190,
+        "MALE2000": 98,
+        "FEMALE2000": 92,
+        "POP2008": 235,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010322020,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

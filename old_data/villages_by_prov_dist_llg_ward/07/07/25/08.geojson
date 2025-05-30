@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21311,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.44399200023065,
+          -6.132219000406508
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21311,
+        "CU_NAME": "PUNIP WASIPA",
+        "CU_NO": "001",
+        "GEOCODE": "07072508001",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "08",
+        "WARD_NAME": "SOI'L 2",
+        "LATITUDE": -6.137086,
+        "LONGITUDE": 143.444891,
+        "REGHH": 43,
+        "TOTPOP2000": 310,
+        "MALE2000": 156,
+        "FEMALE2000": 154,
+        "POP2008": 431,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072508001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21312,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.44481999974323,
+          -6.131799999969985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21312,
+        "CU_NAME": "DIPI ONDOA",
+        "CU_NO": "002",
+        "GEOCODE": "07072508002",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "08",
+        "WARD_NAME": "SOI'L 2",
+        "LATITUDE": -6.137086,
+        "LONGITUDE": 143.444891,
+        "REGHH": 42,
+        "TOTPOP2000": 255,
+        "MALE2000": 125,
+        "FEMALE2000": 130,
+        "POP2008": 355,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072508002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21313,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.44537500015622,
+          -6.132143999645848
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21313,
+        "CU_NAME": "MALAIPA",
+        "CU_NO": "003",
+        "GEOCODE": "07072508003",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "08",
+        "WARD_NAME": "SOI'L 2",
+        "LATITUDE": -6.137086,
+        "LONGITUDE": 143.444891,
+        "REGHH": 37,
+        "TOTPOP2000": 239,
+        "MALE2000": 119,
+        "FEMALE2000": 120,
+        "POP2008": 331,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072508003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21314,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4439259998851,
+          -6.132981999619517
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21314,
+        "CU_NAME": "MILA",
+        "CU_NO": "004",
+        "GEOCODE": "07072508004",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "08",
+        "WARD_NAME": "SOI'L 2",
+        "LATITUDE": -6.137086,
+        "LONGITUDE": 143.444891,
+        "REGHH": 36,
+        "TOTPOP2000": 195,
+        "MALE2000": 101,
+        "FEMALE2000": 94,
+        "POP2008": 272,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072508004,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

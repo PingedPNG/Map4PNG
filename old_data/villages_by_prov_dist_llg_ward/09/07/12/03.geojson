@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17461,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.10060099973646,
+          -5.830078000299409
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17461,
+        "CU_NAME": "MUGU",
+        "CU_NO": "025",
+        "GEOCODE": "09071203025",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "03",
+        "WARD_NAME": "MUGU",
+        "LATITUDE": -5.831016,
+        "LONGITUDE": 144.100932,
+        "REGHH": 55,
+        "TOTPOP2000": 219,
+        "MALE2000": 109,
+        "FEMALE2000": 110,
+        "POP2008": 267,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071203025,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17462,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.11723899988,
+          -5.836254000022052
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17462,
+        "CU_NAME": "TAPOLGA",
+        "CU_NO": "026",
+        "GEOCODE": "09071203026",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "03",
+        "WARD_NAME": "MUGU",
+        "LATITUDE": -5.837192,
+        "LONGITUDE": 144.117572,
+        "REGHH": 41,
+        "TOTPOP2000": 177,
+        "MALE2000": 83,
+        "FEMALE2000": 94,
+        "POP2008": 216,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071203026,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17463,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.11171299955538,
+          -5.83123299960323
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17463,
+        "CU_NAME": "KAPIL",
+        "CU_NO": "027",
+        "GEOCODE": "09071203027",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "03",
+        "WARD_NAME": "MUGU",
+        "LATITUDE": -5.832171,
+        "LONGITUDE": 144.112046,
+        "REGHH": 83,
+        "TOTPOP2000": 320,
+        "MALE2000": 153,
+        "FEMALE2000": 167,
+        "POP2008": 389,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071203027,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

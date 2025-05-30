@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9452,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.33691799986582,
+          -2.074606000066808
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9452,
+        "CU_NAME": "LONIU",
+        "CU_NO": "002",
+        "GEOCODE": "16010701002",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "07",
+        "WARD_NO": "01",
+        "WARD_NAME": "LONIU",
+        "LATITUDE": -2.072938,
+        "LONGITUDE": 147.338489,
+        "REGHH": 73,
+        "TOTPOP2000": 433,
+        "MALE2000": 219,
+        "FEMALE2000": 214,
+        "POP2008": 531,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010701002,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

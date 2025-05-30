@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8573,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.244248000345,
+          -4.800006999623292
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8573,
+        "CU_NAME": "ARIMTAU",
+        "CU_NO": "001",
+        "GEOCODE": "13030824001",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "24",
+        "WARD_NAME": "WARD 24",
+        "LATITUDE": -4.801404,
+        "LONGITUDE": 145.243204,
+        "REGHH": 33,
+        "TOTPOP2000": 195,
+        "MALE2000": 108,
+        "FEMALE2000": 87,
+        "POP2008": 241,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030824001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8574,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.24116000003403,
+          -4.787361000110025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8574,
+        "CU_NAME": "MEGILAN 1",
+        "CU_NO": "006",
+        "GEOCODE": "13030824006",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "24",
+        "WARD_NAME": "WARD 24",
+        "LATITUDE": -4.792658,
+        "LONGITUDE": 145.244336,
+        "REGHH": 14,
+        "TOTPOP2000": 112,
+        "MALE2000": 62,
+        "FEMALE2000": 50,
+        "POP2008": 138,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030824006,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8575,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4081899999686,
+          -4.866791000104513
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8575,
+        "CU_NAME": "MEGILAN 2",
+        "CU_NO": "007",
+        "GEOCODE": "13030824007",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "24",
+        "WARD_NAME": "WARD 24",
+        "LATITUDE": -4.875595,
+        "LONGITUDE": 145.399022,
+        "REGHH": 18,
+        "TOTPOP2000": 114,
+        "MALE2000": 59,
+        "FEMALE2000": 55,
+        "POP2008": 140,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030824007,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8576,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.23567599984756,
+          -4.820919999957994
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8576,
+        "CU_NAME": "SIRAUSI",
+        "CU_NO": "010",
+        "GEOCODE": "13030824010",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "24",
+        "WARD_NAME": "WARD 24",
+        "LATITUDE": -4.818807,
+        "LONGITUDE": 145.244863,
+        "REGHH": 21,
+        "TOTPOP2000": 152,
+        "MALE2000": 80,
+        "FEMALE2000": 72,
+        "POP2008": 188,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030824010,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

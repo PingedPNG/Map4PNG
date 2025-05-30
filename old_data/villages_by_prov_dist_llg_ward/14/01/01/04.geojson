@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5990,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.69430800011423,
+          -4.191784000231394
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5990,
+        "CU_NAME": "BAGLAM",
+        "CU_NO": "001",
+        "GEOCODE": "14010104001",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "04",
+        "WARD_NAME": "BAGLAM",
+        "LATITUDE": -4.193369,
+        "LONGITUDE": 142.693064,
+        "REGHH": 44,
+        "TOTPOP2000": 233,
+        "MALE2000": 126,
+        "FEMALE2000": 107,
+        "POP2008": 277,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010104001,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5991,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.68745399970237,
+          -4.16586800030791
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5991,
+        "CU_NAME": "MINO",
+        "CU_NO": "004",
+        "GEOCODE": "14010104004",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "04",
+        "WARD_NAME": "BAGLAM",
+        "LATITUDE": -4.167451,
+        "LONGITUDE": 142.68621,
+        "REGHH": 53,
+        "TOTPOP2000": 297,
+        "MALE2000": 136,
+        "FEMALE2000": 161,
+        "POP2008": 354,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010104004,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5992,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.70616099993026,
+          -4.20442500041338
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5992,
+        "CU_NAME": "LAT",
+        "CU_NO": "009",
+        "GEOCODE": "14010104009",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "04",
+        "WARD_NAME": "BAGLAM",
+        "LATITUDE": -4.209186,
+        "LONGITUDE": 142.706685,
+        "REGHH": 8,
+        "TOTPOP2000": 42,
+        "MALE2000": 15,
+        "FEMALE2000": 27,
+        "POP2008": 50,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010104009,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5993,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.73105799962707,
+          -4.18963400000905
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5993,
+        "CU_NAME": "GURKA",
+        "CU_NO": "010",
+        "GEOCODE": "14010104010",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "04",
+        "WARD_NAME": "BAGLAM",
+        "LATITUDE": -4.191561,
+        "LONGITUDE": 142.734743,
+        "REGHH": 8,
+        "TOTPOP2000": 45,
+        "MALE2000": 27,
+        "FEMALE2000": 18,
+        "POP2008": 53,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010104010,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

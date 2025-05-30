@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.00482100028898,
+          -7.1075009997712755
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7814,
+        "CU_NAME": "KAIAM 1&2",
+        "CU_NO": "003",
+        "GEOCODE": "02021009003",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "KAIAM",
+        "LATITUDE": -7.098295,
+        "LONGITUDE": 143.993432,
+        "REGHH": 40,
+        "TOTPOP2000": 245,
+        "MALE2000": 133,
+        "FEMALE2000": 112,
+        "POP2008": 301,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021009003,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.77394000023094,
+          -6.972074000314819
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7815,
+        "CU_NAME": "SIAWITI",
+        "CU_NO": "006",
+        "GEOCODE": "02021009006",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "KAIAM",
+        "LATITUDE": -6.969812,
+        "LONGITUDE": 143.770151,
+        "REGHH": 10,
+        "TOTPOP2000": 44,
+        "MALE2000": 23,
+        "FEMALE2000": 21,
+        "POP2008": 52,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021009006,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

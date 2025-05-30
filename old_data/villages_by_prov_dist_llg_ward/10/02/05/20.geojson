@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8492449995572,
+          -6.263425000363441
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14145,
+        "CU_NAME": "NONDRI",
+        "CU_NO": "011",
+        "GEOCODE": "10020520011",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "SA TOBOKU",
+        "LATITUDE": -6.264837,
+        "LONGITUDE": 144.848193,
+        "REGHH": 93,
+        "TOTPOP2000": 377,
+        "MALE2000": 206,
+        "FEMALE2000": 171,
+        "POP2008": 435,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020520011,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.85321299997997,
+          -6.2936559996246615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14146,
+        "CU_NAME": "GOMBA",
+        "CU_NO": "012",
+        "GEOCODE": "10020520012",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "SA TOBOKU",
+        "LATITUDE": -6.295068,
+        "LONGITUDE": 144.852161,
+        "REGHH": 50,
+        "TOTPOP2000": 239,
+        "MALE2000": 134,
+        "FEMALE2000": 105,
+        "POP2008": 276,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020520012,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.82672599980515,
+          -6.256363000252236
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14147,
+        "CU_NAME": "TALBAKUL KIRUWAI",
+        "CU_NO": "013",
+        "GEOCODE": "10020520013",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "SA TOBOKU",
+        "LATITUDE": -6.257775,
+        "LONGITUDE": 144.825674,
+        "REGHH": 32,
+        "TOTPOP2000": 139,
+        "MALE2000": 81,
+        "FEMALE2000": 58,
+        "POP2008": 163,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020520013,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1522,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5657500000625,
+          -8.537410000271223
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1522,
+        "CU_NAME": "VEIFA'A",
+        "CU_NO": "004",
+        "GEOCODE": "03031002004",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "VEIFA'A",
+        "LATITUDE": -8.538849,
+        "LONGITUDE": 146.564715,
+        "REGHH": 329,
+        "TOTPOP2000": 1868,
+        "MALE2000": 968,
+        "FEMALE2000": 900,
+        "POP2008": 2240,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031002004,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1523,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.56261200014376,
+          -8.541066999842144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1523,
+        "CU_NAME": "VEIFA'A CATHOLIC MISSION",
+        "CU_NO": "501",
+        "GEOCODE": "03031002501",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "VEIFA'A",
+        "LATITUDE": -8.542506,
+        "LONGITUDE": 146.561577,
+        "REGHH": 0,
+        "TOTPOP2000": 73,
+        "MALE2000": 29,
+        "FEMALE2000": 44,
+        "POP2008": 89,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031002501,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

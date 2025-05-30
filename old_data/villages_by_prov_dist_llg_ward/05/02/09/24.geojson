@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9962,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.3953898399692,
+          -10.780567275559292
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9962,
+        "CU_NAME": "NULIA",
+        "CU_NO": "005",
+        "GEOCODE": "05020924005",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "24",
+        "WARD_NAME": "PANAPOMPOM",
+        "LATITUDE": -10.780386,
+        "LONGITUDE": 152.39566,
+        "REGHH": 32,
+        "TOTPOP2000": 162,
+        "MALE2000": 74,
+        "FEMALE2000": 88,
+        "POP2008": 197,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020924005,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9963,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.39944083702505,
+          -10.753904211510132
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9963,
+        "CU_NAME": "GALOWAWAISANA",
+        "CU_NO": "006",
+        "GEOCODE": "05020924006",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "24",
+        "WARD_NAME": "PANAPOMPOM",
+        "LATITUDE": -10.754291,
+        "LONGITUDE": 152.398163,
+        "REGHH": 32,
+        "TOTPOP2000": 134,
+        "MALE2000": 71,
+        "FEMALE2000": 63,
+        "POP2008": 164,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020924006,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9964,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.40550599980213,
+          -10.760159999983955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9964,
+        "CU_NAME": "PANAEWAU",
+        "CU_NO": "007",
+        "GEOCODE": "05020924007",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "24",
+        "WARD_NAME": "PANAPOMPOM",
+        "LATITUDE": -10.761639,
+        "LONGITUDE": 152.404549,
+        "REGHH": 23,
+        "TOTPOP2000": 114,
+        "MALE2000": 57,
+        "FEMALE2000": 57,
+        "POP2008": 138,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020924007,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

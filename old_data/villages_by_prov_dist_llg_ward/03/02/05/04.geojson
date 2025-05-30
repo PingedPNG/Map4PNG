@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.06621599986852,
+          -8.254010000161315
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1113,
+        "CU_NAME": "KERAU",
+        "CU_NO": "009",
+        "GEOCODE": "03020504009",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "KERAU",
+        "LATITUDE": -8.255448,
+        "LONGITUDE": 147.065189,
+        "REGHH": 28,
+        "TOTPOP2000": 97,
+        "MALE2000": 45,
+        "FEMALE2000": 52,
+        "POP2008": 115,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020504009,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0587360002662,
+          -8.23048900006728
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1114,
+        "CU_NAME": "LUMIOTO",
+        "CU_NO": "017",
+        "GEOCODE": "03020504017",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "KERAU",
+        "LATITUDE": -8.231926,
+        "LONGITUDE": 147.057709,
+        "REGHH": 33,
+        "TOTPOP2000": 98,
+        "MALE2000": 49,
+        "FEMALE2000": 49,
+        "POP2008": 116,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020504017,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.06353899962517,
+          -8.201129999649709
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1115,
+        "CU_NAME": "KANITATA",
+        "CU_NO": "018",
+        "GEOCODE": "03020504018",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "KERAU",
+        "LATITUDE": -8.202567,
+        "LONGITUDE": 147.062512,
+        "REGHH": 5,
+        "TOTPOP2000": 20,
+        "MALE2000": 10,
+        "FEMALE2000": 10,
+        "POP2008": 20,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020504018,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.05285000042727,
+          -8.171607999809282
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1116,
+        "CU_NAME": "OMORITU",
+        "CU_NO": "019",
+        "GEOCODE": "03020504019",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "KERAU",
+        "LATITUDE": -8.173045,
+        "LONGITUDE": 147.051823,
+        "REGHH": 27,
+        "TOTPOP2000": 169,
+        "MALE2000": 84,
+        "FEMALE2000": 85,
+        "POP2008": 202,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020504019,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0614929997023,
+          -8.138134000283856
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1117,
+        "CU_NAME": "KUPUTAIVA",
+        "CU_NO": "020",
+        "GEOCODE": "03020504020",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "KERAU",
+        "LATITUDE": -8.13957,
+        "LONGITUDE": 147.060466,
+        "REGHH": 5,
+        "TOTPOP2000": 32,
+        "MALE2000": 19,
+        "FEMALE2000": 13,
+        "POP2008": 40,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020504020,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0652399998262,
+          -8.300768999889385
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1118,
+        "CU_NAME": "OROROGAIVARA",
+        "CU_NO": "021",
+        "GEOCODE": "03020504021",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "KERAU",
+        "LATITUDE": -8.302207,
+        "LONGITUDE": 147.064213,
+        "REGHH": 30,
+        "TOTPOP2000": 90,
+        "MALE2000": 44,
+        "FEMALE2000": 46,
+        "POP2008": 106,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020504021,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.07073200038155,
+          -8.273307999764313
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1119,
+        "CU_NAME": "KUNIM",
+        "CU_NO": "022",
+        "GEOCODE": "03020504022",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "KERAU",
+        "LATITUDE": -8.274746,
+        "LONGITUDE": 147.069705,
+        "REGHH": 25,
+        "TOTPOP2000": 76,
+        "MALE2000": 37,
+        "FEMALE2000": 39,
+        "POP2008": 92,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020504022,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.12274400043532,
+          -8.201377000248328
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1120,
+        "CU_NAME": "TAPINA",
+        "CU_NO": "023",
+        "GEOCODE": "03020504023",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "KERAU",
+        "LATITUDE": -8.202814,
+        "LONGITUDE": 147.121718,
+        "REGHH": 16,
+        "TOTPOP2000": 128,
+        "MALE2000": 58,
+        "FEMALE2000": 70,
+        "POP2008": 152,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020504023,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.11656599972116,
+          -8.193489999863573
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1121,
+        "CU_NAME": "KILETE",
+        "CU_NO": "024",
+        "GEOCODE": "03020504024",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "KERAU",
+        "LATITUDE": -8.190454,
+        "LONGITUDE": 147.113743,
+        "REGHH": 25,
+        "TOTPOP2000": 137,
+        "MALE2000": 64,
+        "FEMALE2000": 73,
+        "POP2008": 163,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020504024,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1122,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.11077599981263,
+          -8.249897000246335
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1122,
+        "CU_NAME": "ILAI",
+        "CU_NO": "025",
+        "GEOCODE": "03020504025",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "KERAU",
+        "LATITUDE": -8.251335,
+        "LONGITUDE": 147.10975,
+        "REGHH": 37,
+        "TOTPOP2000": 109,
+        "MALE2000": 57,
+        "FEMALE2000": 52,
+        "POP2008": 133,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020504025,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

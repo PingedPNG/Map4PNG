@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9055,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.63534700006403,
+          -4.816620999559461
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9055,
+        "CU_NAME": "BASKEN",
+        "CU_NO": "002",
+        "GEOCODE": "13051409002",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD 9",
+        "LATITUDE": -4.820523,
+        "LONGITUDE": 145.637856,
+        "REGHH": 128,
+        "TOTPOP2000": 743,
+        "MALE2000": 387,
+        "FEMALE2000": 356,
+        "POP2008": 920,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051409002,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

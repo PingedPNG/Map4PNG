@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5883639996989,
+          -5.9540399998460884
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11283,
+        "CU_NAME": "NIAN",
+        "CU_NO": "960",
+        "GEOCODE": "12041410960",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "10",
+        "WARD_NAME": "NOKOPO",
+        "LATITUDE": -5.954903,
+        "LONGITUDE": 146.59175,
+        "REGHH": 66,
+        "TOTPOP2000": 386,
+        "MALE2000": 181,
+        "FEMALE2000": 205,
+        "POP2008": 481,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041410960,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5999329999081,
+          -5.958753999597377
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11284,
+        "CU_NAME": "NOKOPO",
+        "CU_NO": "961",
+        "GEOCODE": "12041410961",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "10",
+        "WARD_NAME": "NOKOPO",
+        "LATITUDE": -5.956589,
+        "LONGITUDE": 146.59521,
+        "REGHH": 70,
+        "TOTPOP2000": 327,
+        "MALE2000": 145,
+        "FEMALE2000": 182,
+        "POP2008": 408,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041410961,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.60388599963926,
+          -5.9391379997188665
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11285,
+        "CU_NAME": "DUWI",
+        "CU_NO": "962",
+        "GEOCODE": "12041410962",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "10",
+        "WARD_NAME": "NOKOPO",
+        "LATITUDE": -5.94055,
+        "LONGITUDE": 146.602858,
+        "REGHH": 17,
+        "TOTPOP2000": 92,
+        "MALE2000": 50,
+        "FEMALE2000": 42,
+        "POP2008": 116,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041410962,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

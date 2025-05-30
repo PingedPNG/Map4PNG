@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7035,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.00403700030733,
+          -3.945924000092475
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7035,
+        "CU_NAME": "JAMA NO 1",
+        "CU_NO": "005",
+        "GEOCODE": "14051903005",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "19",
+        "WARD_NO": "03",
+        "WARD_NAME": "JAMA NO 1",
+        "LATITUDE": -3.951596,
+        "LONGITUDE": 142.999757,
+        "REGHH": 48,
+        "TOTPOP2000": 339,
+        "MALE2000": 160,
+        "FEMALE2000": 179,
+        "POP2008": 403,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14051903005,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

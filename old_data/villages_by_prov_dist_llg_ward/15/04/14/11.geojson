@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18990,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.33975399964743,
+          -4.04014499959203
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18990,
+        "CU_NAME": "AMTO 1",
+        "CU_NO": "001",
+        "GEOCODE": "15041411001",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "11",
+        "WARD_NAME": "AMTO",
+        "LATITUDE": -4.052936,
+        "LONGITUDE": 141.328446,
+        "REGHH": 31,
+        "TOTPOP2000": 191,
+        "MALE2000": 100,
+        "FEMALE2000": 91,
+        "POP2008": 231,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041411001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18991,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3450599997193,
+          -4.085533999994084
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18991,
+        "CU_NAME": "AMTO 2",
+        "CU_NO": "009",
+        "GEOCODE": "15041411009",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "11",
+        "WARD_NAME": "AMTO",
+        "LATITUDE": -4.086918,
+        "LONGITUDE": 141.343969,
+        "REGHH": 15,
+        "TOTPOP2000": 114,
+        "MALE2000": 58,
+        "FEMALE2000": 56,
+        "POP2008": 138,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041411009,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

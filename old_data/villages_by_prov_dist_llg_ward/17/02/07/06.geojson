@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12845,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.05873099973587,
+          -4.5296320003164965
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12845,
+        "CU_NAME": "BAKUM",
+        "CU_NO": "002",
+        "GEOCODE": "17020706002",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "BAKUM",
+        "LATITUDE": -4.531036,
+        "LONGITUDE": 153.057798,
+        "REGHH": 44,
+        "TOTPOP2000": 246,
+        "MALE2000": 130,
+        "FEMALE2000": 116,
+        "POP2008": 309,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020706002,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12846,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.05063499960556,
+          -4.526136000076292
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12846,
+        "CU_NAME": "SILUR PATROL POST/HEALTH/SCH.",
+        "CU_NO": "401",
+        "GEOCODE": "17020706401",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "BAKUM",
+        "LATITUDE": -4.527243,
+        "LONGITUDE": 153.05059,
+        "REGHH": 6,
+        "TOTPOP2000": 29,
+        "MALE2000": 17,
+        "FEMALE2000": 12,
+        "POP2008": 37,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020706401,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

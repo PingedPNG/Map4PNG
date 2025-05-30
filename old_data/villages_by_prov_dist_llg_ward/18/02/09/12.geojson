@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4768,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.18687299978922,
+          -4.321025000403381
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4768,
+        "CU_NAME": "VUNAULUL",
+        "CU_NO": "012",
+        "GEOCODE": "18020912012",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "VUNAULUL",
+        "LATITUDE": -4.322426,
+        "LONGITUDE": 152.185927,
+        "REGHH": 127,
+        "TOTPOP2000": 719,
+        "MALE2000": 371,
+        "FEMALE2000": 348,
+        "POP2008": 875,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020912012,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

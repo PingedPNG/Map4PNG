@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9762,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.06123899997988,
+          -10.419197000141423
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9762,
+        "CU_NAME": "BOROWAI",
+        "CU_NO": "006",
+        "GEOCODE": "05010527006",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "27",
+        "WARD_NAME": "BOROWAI",
+        "LATITUDE": -10.41762,
+        "LONGITUDE": 150.058129,
+        "REGHH": 37,
+        "TOTPOP2000": 258,
+        "MALE2000": 152,
+        "FEMALE2000": 106,
+        "POP2008": 314,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010527006,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9763,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.02489300021182,
+          -10.393716999639764
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9763,
+        "CU_NAME": "MBI CAMP",
+        "CU_NO": "401",
+        "GEOCODE": "05010527401",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "27",
+        "WARD_NAME": "BOROWAI",
+        "LATITUDE": -10.394668,
+        "LONGITUDE": 150.024971,
+        "REGHH": 44,
+        "TOTPOP2000": 190,
+        "MALE2000": 128,
+        "FEMALE2000": 62,
+        "POP2008": 231,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010527401,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9764,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.0601490000763,
+          -10.410825999919894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9764,
+        "CU_NAME": "MBE NURSERY",
+        "CU_NO": "402",
+        "GEOCODE": "05010527402",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "27",
+        "WARD_NAME": "BOROWAI",
+        "LATITUDE": -10.411357,
+        "LONGITUDE": 150.058774,
+        "REGHH": 0,
+        "TOTPOP2000": 85,
+        "MALE2000": 76,
+        "FEMALE2000": 9,
+        "POP2008": 101,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010527402,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

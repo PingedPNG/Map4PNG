@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17951,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.23368399981678,
+          -5.715280999818219
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17951,
+        "CU_NAME": "BAGAI",
+        "CU_NO": "004",
+        "GEOCODE": "19010510004",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "ARIA NO. 1",
+        "LATITUDE": -5.7147,
+        "LONGITUDE": 149.232,
+        "REGHH": 18,
+        "TOTPOP2000": 105,
+        "MALE2000": 50,
+        "FEMALE2000": 55,
+        "POP2008": 139,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010510004,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17952,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.20499199958113,
+          -5.7224260001597145
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17952,
+        "CU_NAME": "ROVOS",
+        "CU_NO": "022",
+        "GEOCODE": "19010510022",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "ARIA NO. 1",
+        "LATITUDE": -5.72384,
+        "LONGITUDE": 149.204,
+        "REGHH": 23,
+        "TOTPOP2000": 119,
+        "MALE2000": 61,
+        "FEMALE2000": 58,
+        "POP2008": 156,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010510022,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17953,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.20999199993093,
+          -5.723326000294605
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17953,
+        "CU_NAME": "TAVELE",
+        "CU_NO": "029",
+        "GEOCODE": "19010510029",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "ARIA NO. 1",
+        "LATITUDE": -5.72474,
+        "LONGITUDE": 149.209,
+        "REGHH": 12,
+        "TOTPOP2000": 78,
+        "MALE2000": 43,
+        "FEMALE2000": 35,
+        "POP2008": 102,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010510029,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17954,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.194991999781,
+          -5.777894999554519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17954,
+        "CU_NAME": "MATAGIAU",
+        "CU_NO": "030",
+        "GEOCODE": "19010510030",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "ARIA NO. 1",
+        "LATITUDE": -5.77931,
+        "LONGITUDE": 149.194,
+        "REGHH": 31,
+        "TOTPOP2000": 134,
+        "MALE2000": 61,
+        "FEMALE2000": 73,
+        "POP2008": 177,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010510030,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17955,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.21099200018068,
+          -5.728505999951892
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17955,
+        "CU_NAME": "PARAVATNE",
+        "CU_NO": "036",
+        "GEOCODE": "19010510036",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "ARIA NO. 1",
+        "LATITUDE": -5.72992,
+        "LONGITUDE": 149.21,
+        "REGHH": 20,
+        "TOTPOP2000": 90,
+        "MALE2000": 54,
+        "FEMALE2000": 36,
+        "POP2008": 118,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010510036,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17956,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2149910002346,
+          -5.724006000176701
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17956,
+        "CU_NAME": "ARIA VANU CAMP 2",
+        "CU_NO": "501",
+        "GEOCODE": "19010510501",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "ARIA NO. 1",
+        "LATITUDE": -5.72542,
+        "LONGITUDE": 149.214,
+        "REGHH": 42,
+        "TOTPOP2000": 201,
+        "MALE2000": 107,
+        "FEMALE2000": 94,
+        "POP2008": 265,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010510501,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

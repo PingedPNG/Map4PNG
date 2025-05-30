@@ -1,0 +1,357 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13483,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.99151300002495,
+          -8.941371999618013
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13483,
+        "CU_NAME": "ASISI",
+        "CU_NO": "005",
+        "GEOCODE": "06020517005",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "ASILSIL",
+        "LATITUDE": -8.942819,
+        "LONGITUDE": 147.990497,
+        "REGHH": 28,
+        "TOTPOP2000": 184,
+        "MALE2000": 101,
+        "FEMALE2000": 83,
+        "POP2008": 228,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020517005,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13484,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0179570000156,
+          -8.979632000416416
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13484,
+        "CU_NAME": "SIRORATA",
+        "CU_NO": "032",
+        "GEOCODE": "06020517032",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "ASILSIL",
+        "LATITUDE": -8.981079,
+        "LONGITUDE": 148.016941,
+        "REGHH": 34,
+        "TOTPOP2000": 195,
+        "MALE2000": 93,
+        "FEMALE2000": 102,
+        "POP2008": 241,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020517032,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13485,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0136959995708,
+          -8.987811999923792
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13485,
+        "CU_NAME": "SIAWA",
+        "CU_NO": "033",
+        "GEOCODE": "06020517033",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "ASILSIL",
+        "LATITUDE": -8.98926,
+        "LONGITUDE": 148.01268,
+        "REGHH": 13,
+        "TOTPOP2000": 57,
+        "MALE2000": 26,
+        "FEMALE2000": 31,
+        "POP2008": 73,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020517033,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13486,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.02439600017533,
+          -8.989405999687108
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13486,
+        "CU_NAME": "KURU",
+        "CU_NO": "034",
+        "GEOCODE": "06020517034",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "ASILSIL",
+        "LATITUDE": -8.990854,
+        "LONGITUDE": 148.02338,
+        "REGHH": 6,
+        "TOTPOP2000": 21,
+        "MALE2000": 10,
+        "FEMALE2000": 11,
+        "POP2008": 29,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020517034,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13487,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.00720000037973,
+          -8.968636999697708
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13487,
+        "CU_NAME": "IFOIN",
+        "CU_NO": "035",
+        "GEOCODE": "06020517035",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "ASILSIL",
+        "LATITUDE": -8.970084,
+        "LONGITUDE": 148.006184,
+        "REGHH": 3,
+        "TOTPOP2000": 19,
+        "MALE2000": 9,
+        "FEMALE2000": 10,
+        "POP2008": 27,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020517035,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13488,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.00429599956078,
+          -8.99179500013912
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13488,
+        "CU_NAME": "SANGATA",
+        "CU_NO": "036",
+        "GEOCODE": "06020517036",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "ASILSIL",
+        "LATITUDE": -9.00277,
+        "LONGITUDE": 147.998521,
+        "REGHH": 1,
+        "TOTPOP2000": 13,
+        "MALE2000": 8,
+        "FEMALE2000": 5,
+        "POP2008": 13,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020517036,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13489,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.07720800024913,
+          -8.98965600042402
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13489,
+        "CU_NAME": "WARANGOTA",
+        "CU_NO": "037",
+        "GEOCODE": "06020517037",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "ASILSIL",
+        "LATITUDE": -8.9926,
+        "LONGITUDE": 148.064972,
+        "REGHH": 1,
+        "TOTPOP2000": 8,
+        "MALE2000": 6,
+        "FEMALE2000": 2,
+        "POP2008": 8,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020517037,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13490,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.06029800015267,
+          -8.993119000041759
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13490,
+        "CU_NAME": "SIEWATUMO",
+        "CU_NO": "038",
+        "GEOCODE": "06020517038",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "ASILSIL",
+        "LATITUDE": -9.00007,
+        "LONGITUDE": 148.054514,
+        "REGHH": 1,
+        "TOTPOP2000": 11,
+        "MALE2000": 7,
+        "FEMALE2000": 4,
+        "POP2008": 11,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020517038,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.00789199991596,
+          -9.019978000284425
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13491,
+        "CU_NAME": "SIWARI",
+        "CU_NO": "039",
+        "GEOCODE": "06020517039",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "ASILSIL",
+        "LATITUDE": -9.02566,
+        "LONGITUDE": 147.994177,
+        "REGHH": 4,
+        "TOTPOP2000": 14,
+        "MALE2000": 7,
+        "FEMALE2000": 7,
+        "POP2008": 14,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020517039,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13492,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.03781100007768,
+          -8.983068999734485
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13492,
+        "CU_NAME": "HOMAPE",
+        "CU_NO": "040",
+        "GEOCODE": "06020517040",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "ASILSIL",
+        "LATITUDE": -8.992746,
+        "LONGITUDE": 148.038107,
+        "REGHH": 6,
+        "TOTPOP2000": 36,
+        "MALE2000": 16,
+        "FEMALE2000": 20,
+        "POP2008": 44,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020517040,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13493,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.03677499996638,
+          -8.97330299993348
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13493,
+        "CU_NAME": "FOEKO",
+        "CU_NO": "041",
+        "GEOCODE": "06020517041",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "ASILSIL",
+        "LATITUDE": -8.983863,
+        "LONGITUDE": 148.048115,
+        "REGHH": 6,
+        "TOTPOP2000": 42,
+        "MALE2000": 25,
+        "FEMALE2000": 17,
+        "POP2008": 50,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020517041,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

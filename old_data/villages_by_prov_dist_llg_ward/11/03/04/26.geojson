@@ -1,0 +1,549 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29627,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.53719784010832,
+          -6.266672009805347
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29627,
+        "CU_NAME": "TIRAE NO 2",
+        "CU_NO": "008",
+        "GEOCODE": "11030426008",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "26",
+        "WARD_NAME": "FORE",
+        "LATITUDE": -6.266672,
+        "LONGITUDE": 145.537198,
+        "REGHH": 18,
+        "TOTPOP2000": 66,
+        "MALE2000": 35,
+        "FEMALE2000": 31,
+        "POP2008": 79,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29628,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.55986883967523,
+          -6.3267802204308055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29628,
+        "CU_NAME": "MURIRE",
+        "CU_NO": "028",
+        "GEOCODE": "11030426028",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "26",
+        "WARD_NAME": "FORE",
+        "LATITUDE": -6.32678,
+        "LONGITUDE": 145.559869,
+        "REGHH": 31,
+        "TOTPOP2000": 136,
+        "MALE2000": 64,
+        "FEMALE2000": 72,
+        "POP2008": 160,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29629,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.55536055984203,
+          -6.348836250092802
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29629,
+        "CU_NAME": "KAHETO",
+        "CU_NO": "039",
+        "GEOCODE": "11030426039",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "26",
+        "WARD_NAME": "FORE",
+        "LATITUDE": -6.348836,
+        "LONGITUDE": 145.555361,
+        "REGHH": 36,
+        "TOTPOP2000": 130,
+        "MALE2000": 71,
+        "FEMALE2000": 59,
+        "POP2008": 154,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29630,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.53695772022263,
+          -6.299782919745894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29630,
+        "CU_NAME": "FUIFANOTE",
+        "CU_NO": "048",
+        "GEOCODE": "11030426048",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "26",
+        "WARD_NAME": "FORE",
+        "LATITUDE": -6.299783,
+        "LONGITUDE": 145.536958,
+        "REGHH": 8,
+        "TOTPOP2000": 40,
+        "MALE2000": 18,
+        "FEMALE2000": 22,
+        "POP2008": 48,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29631,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.55820492032092,
+          -6.341166989964563
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29631,
+        "CU_NAME": "LPSOPMTE",
+        "CU_NO": "049",
+        "GEOCODE": "11030426049",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "26",
+        "WARD_NAME": "FORE",
+        "LATITUDE": -6.341167,
+        "LONGITUDE": 145.558205,
+        "REGHH": 36,
+        "TOTPOP2000": 136,
+        "MALE2000": 66,
+        "FEMALE2000": 70,
+        "POP2008": 160,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29632,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5336111603268,
+          -6.2904660296835
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29632,
+        "CU_NAME": "NORTH",
+        "CU_NO": "050",
+        "GEOCODE": "11030426050",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "26",
+        "WARD_NAME": "FORE",
+        "LATITUDE": -6.290466,
+        "LONGITUDE": 145.533611,
+        "REGHH": 40,
+        "TOTPOP2000": 205,
+        "MALE2000": 92,
+        "FEMALE2000": 113,
+        "POP2008": 245,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29633,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.54309320009122,
+          -6.287916869867615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29633,
+        "CU_NAME": "TANEX",
+        "CU_NO": "051",
+        "GEOCODE": "11030426051",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "26",
+        "WARD_NAME": "FORE",
+        "LATITUDE": -6.287917,
+        "LONGITUDE": 145.543093,
+        "REGHH": 56,
+        "TOTPOP2000": 253,
+        "MALE2000": 123,
+        "FEMALE2000": 130,
+        "POP2008": 301,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29634,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5353225998582,
+          -6.2798447701200075
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29634,
+        "CU_NAME": "TIMOMU",
+        "CU_NO": "052",
+        "GEOCODE": "11030426052",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "26",
+        "WARD_NAME": "FORE",
+        "LATITUDE": -6.279845,
+        "LONGITUDE": 145.535323,
+        "REGHH": 16,
+        "TOTPOP2000": 69,
+        "MALE2000": 37,
+        "FEMALE2000": 32,
+        "POP2008": 85,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29635,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.51368444018487,
+          -6.278955120282546
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29635,
+        "CU_NAME": "HOMPEYE",
+        "CU_NO": "053",
+        "GEOCODE": "11030426053",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "26",
+        "WARD_NAME": "FORE",
+        "LATITUDE": -6.278955,
+        "LONGITUDE": 145.513684,
+        "REGHH": 19,
+        "TOTPOP2000": 69,
+        "MALE2000": 32,
+        "FEMALE2000": 37,
+        "POP2008": 85,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29636,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.54542383993828,
+          -6.258318030152907
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29636,
+        "CU_NAME": "WESAN",
+        "CU_NO": "054",
+        "GEOCODE": "11030426054",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "26",
+        "WARD_NAME": "FORE",
+        "LATITUDE": -6.258318,
+        "LONGITUDE": 145.545424,
+        "REGHH": 13,
+        "TOTPOP2000": 47,
+        "MALE2000": 23,
+        "FEMALE2000": 24,
+        "POP2008": 55,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29637,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.49738147977155,
+          -6.284615490112742
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29637,
+        "CU_NAME": "KARAGONA",
+        "CU_NO": "055",
+        "GEOCODE": "11030426055",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "26",
+        "WARD_NAME": "FORE",
+        "LATITUDE": -6.284615,
+        "LONGITUDE": 145.497381,
+        "REGHH": 12,
+        "TOTPOP2000": 44,
+        "MALE2000": 22,
+        "FEMALE2000": 22,
+        "POP2008": 52,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29638,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.53415080031925,
+          -6.272509680077633
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29638,
+        "CU_NAME": "KAREKARYATE",
+        "CU_NO": "056",
+        "GEOCODE": "11030426056",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "26",
+        "WARD_NAME": "FORE",
+        "LATITUDE": -6.27251,
+        "LONGITUDE": 145.534151,
+        "REGHH": 16,
+        "TOTPOP2000": 68,
+        "MALE2000": 23,
+        "FEMALE2000": 45,
+        "POP2008": 83,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29639,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.51453835995744,
+          -6.25564295985464
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29639,
+        "CU_NAME": "KITRONI",
+        "CU_NO": "057",
+        "GEOCODE": "11030426057",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "26",
+        "WARD_NAME": "FORE",
+        "LATITUDE": -6.255643,
+        "LONGITUDE": 145.514538,
+        "REGHH": 37,
+        "TOTPOP2000": 155,
+        "MALE2000": 73,
+        "FEMALE2000": 82,
+        "POP2008": 185,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29640,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5242468400197,
+          -6.280328969606217
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29640,
+        "CU_NAME": "RANA",
+        "CU_NO": "058",
+        "GEOCODE": "11030426058",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "26",
+        "WARD_NAME": "FORE",
+        "LATITUDE": -6.280329,
+        "LONGITUDE": 145.524247,
+        "REGHH": 23,
+        "TOTPOP2000": 121,
+        "MALE2000": 56,
+        "FEMALE2000": 65,
+        "POP2008": 145,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29641,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.53414071981842,
+          -6.256321920120456
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29641,
+        "CU_NAME": "WARO/MAYARE/HOMYA/AVAYA",
+        "CU_NO": "059",
+        "GEOCODE": "11030426059",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "26",
+        "WARD_NAME": "FORE",
+        "LATITUDE": -6.256322,
+        "LONGITUDE": 145.534141,
+        "REGHH": 25,
+        "TOTPOP2000": 75,
+        "MALE2000": 41,
+        "FEMALE2000": 34,
+        "POP2008": 91,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29642,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.56453516006968,
+          -6.331041089574569
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29642,
+        "CU_NAME": "FORE FOUR SQUARE CHURCH",
+        "CU_NO": "401",
+        "GEOCODE": "11030426401",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "26",
+        "WARD_NAME": "FORE",
+        "LATITUDE": -6.331041,
+        "LONGITUDE": 145.564535,
+        "REGHH": 9,
+        "TOTPOP2000": 34,
+        "MALE2000": 18,
+        "FEMALE2000": 16,
+        "POP2008": 42,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29643,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.55269583984125,
+          -6.344569979620815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29643,
+        "CU_NAME": "FAYANTINA COMM SCH",
+        "CU_NO": "402",
+        "GEOCODE": "11030426402",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "26",
+        "WARD_NAME": "FORE",
+        "LATITUDE": -6.34457,
+        "LONGITUDE": 145.552696,
+        "REGHH": 3,
+        "TOTPOP2000": 9,
+        "MALE2000": 6,
+        "FEMALE2000": 3,
+        "POP2008": 9,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

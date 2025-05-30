@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20793,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6792219995957,
+          -5.696596999751705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20793,
+        "CU_NAME": "KARUA",
+        "CU_NO": "001",
+        "GEOCODE": "07051615001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "16",
+        "WARD_NO": "15",
+        "WARD_NAME": "EREIBA 1",
+        "LATITUDE": -5.70107,
+        "LONGITUDE": 142.677292,
+        "REGHH": 124,
+        "TOTPOP2000": 482,
+        "MALE2000": 246,
+        "FEMALE2000": 236,
+        "POP2008": 670,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051615001,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

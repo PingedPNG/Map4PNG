@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18141,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.5389720000578,
+          -5.462197000191338
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18141,
+        "CU_NAME": "GAVUVU",
+        "CU_NO": "007",
+        "GEOCODE": "19020807007",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "07",
+        "WARD_NAME": "KAGAGU",
+        "LATITUDE": -5.46361,
+        "LONGITUDE": 150.538,
+        "REGHH": 69,
+        "TOTPOP2000": 392,
+        "MALE2000": 212,
+        "FEMALE2000": 180,
+        "POP2008": 516,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020807007,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.5259720004076,
+          -5.476047000368737
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18142,
+        "CU_NAME": "GULE",
+        "CU_NO": "009",
+        "GEOCODE": "19020807009",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "07",
+        "WARD_NAME": "KAGAGU",
+        "LATITUDE": -5.47746,
+        "LONGITUDE": 150.525,
+        "REGHH": 58,
+        "TOTPOP2000": 455,
+        "MALE2000": 232,
+        "FEMALE2000": 223,
+        "POP2008": 599,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020807009,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.56497200025763,
+          -5.471276999833606
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18143,
+        "CU_NAME": "KARAPI",
+        "CU_NO": "013",
+        "GEOCODE": "19020807013",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "07",
+        "WARD_NAME": "KAGAGU",
+        "LATITUDE": -5.47269,
+        "LONGITUDE": 150.564,
+        "REGHH": 111,
+        "TOTPOP2000": 746,
+        "MALE2000": 415,
+        "FEMALE2000": 331,
+        "POP2008": 982,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020807013,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.53058399995166,
+          -5.455063000357143
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18144,
+        "CU_NAME": "MALALIA  MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "19020807401",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "07",
+        "WARD_NAME": "KAGAGU",
+        "LATITUDE": -5.45969,
+        "LONGITUDE": 150.53,
+        "REGHH": 9,
+        "TOTPOP2000": 79,
+        "MALE2000": 37,
+        "FEMALE2000": 42,
+        "POP2008": 103,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020807401,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

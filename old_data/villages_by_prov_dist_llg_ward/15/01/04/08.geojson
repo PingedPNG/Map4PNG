@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18462,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.01615800009165,
+          -3.4051870002797955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18462,
+        "CU_NAME": "AMAITEM",
+        "CU_NO": "001",
+        "GEOCODE": "15010408001",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "KARAITEM",
+        "LATITUDE": -3.406564,
+        "LONGITUDE": 142.015075,
+        "REGHH": 29,
+        "TOTPOP2000": 126,
+        "MALE2000": 64,
+        "FEMALE2000": 62,
+        "POP2008": 151,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010408001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18463,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0093819996796,
+          -3.4034460000328295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18463,
+        "CU_NAME": "KARAITEM",
+        "CU_NO": "006",
+        "GEOCODE": "15010408006",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "KARAITEM",
+        "LATITUDE": -3.404823,
+        "LONGITUDE": 142.008299,
+        "REGHH": 43,
+        "TOTPOP2000": 239,
+        "MALE2000": 111,
+        "FEMALE2000": 128,
+        "POP2008": 289,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010408006,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18464,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.03003899989994,
+          -3.372349000406018
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18464,
+        "CU_NAME": "MAIWETEM",
+        "CU_NO": "009",
+        "GEOCODE": "15010408009",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "KARAITEM",
+        "LATITUDE": -3.373726,
+        "LONGITUDE": 142.028957,
+        "REGHH": 27,
+        "TOTPOP2000": 136,
+        "MALE2000": 67,
+        "FEMALE2000": 69,
+        "POP2008": 164,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010408009,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18465,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.00623400019902,
+          -3.402849000381025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18465,
+        "CU_NAME": "PAI",
+        "CU_NO": "015",
+        "GEOCODE": "15010408015",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "KARAITEM",
+        "LATITUDE": -3.404226,
+        "LONGITUDE": 142.005151,
+        "REGHH": 26,
+        "TOTPOP2000": 146,
+        "MALE2000": 75,
+        "FEMALE2000": 71,
+        "POP2008": 178,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010408015,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18466,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.02463799994382,
+          -3.419232999603196
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18466,
+        "CU_NAME": "TOFUNGU",
+        "CU_NO": "022",
+        "GEOCODE": "15010408022",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "KARAITEM",
+        "LATITUDE": -3.420611,
+        "LONGITUDE": 142.023555,
+        "REGHH": 16,
+        "TOTPOP2000": 98,
+        "MALE2000": 51,
+        "FEMALE2000": 47,
+        "POP2008": 118,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010408022,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18467,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.00238199972955,
+          -3.378188999922372
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18467,
+        "CU_NAME": "WAI'ELI",
+        "CU_NO": "026",
+        "GEOCODE": "15010408026",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "KARAITEM",
+        "LATITUDE": -3.385293,
+        "LONGITUDE": 142.005381,
+        "REGHH": 12,
+        "TOTPOP2000": 57,
+        "MALE2000": 33,
+        "FEMALE2000": 24,
+        "POP2008": 67,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010408026,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

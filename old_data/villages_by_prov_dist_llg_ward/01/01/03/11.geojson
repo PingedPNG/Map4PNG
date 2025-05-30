@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82360099998618,
+          -7.980957999711848
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15116,
+        "CU_NAME": "KAWITO MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "01010311401",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "KAWITO",
+        "LATITUDE": -7.982382,
+        "LONGITUDE": 142.82252,
+        "REGHH": 9,
+        "TOTPOP2000": 50,
+        "MALE2000": 29,
+        "FEMALE2000": 21,
+        "POP2008": 66,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010311401,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

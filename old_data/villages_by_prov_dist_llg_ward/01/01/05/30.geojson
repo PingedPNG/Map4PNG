@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15276,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1752520000798,
+          -6.199187000379709
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15276,
+        "CU_NAME": "WODIOBI",
+        "CU_NO": "001",
+        "GEOCODE": "01010530001",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "30",
+        "WARD_NAME": "WANBI",
+        "LATITUDE": -6.196274,
+        "LONGITUDE": 142.1621,
+        "REGHH": 12,
+        "TOTPOP2000": 56,
+        "MALE2000": 28,
+        "FEMALE2000": 28,
+        "POP2008": 72,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010530001,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0728229997817,
+          -6.174557000405173
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15277,
+        "CU_NAME": "WANBI",
+        "CU_NO": "002",
+        "GEOCODE": "01010530002",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "30",
+        "WARD_NAME": "WANBI",
+        "LATITUDE": -6.123802,
+        "LONGITUDE": 142.073397,
+        "REGHH": 23,
+        "TOTPOP2000": 111,
+        "MALE2000": 58,
+        "FEMALE2000": 53,
+        "POP2008": 144,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010530002,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15278,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.17409899996892,
+          -6.225128999703543
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15278,
+        "CU_NAME": "TIBIYABI",
+        "CU_NO": "011",
+        "GEOCODE": "01010530011",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "30",
+        "WARD_NAME": "WANBI",
+        "LATITUDE": -6.226535,
+        "LONGITUDE": 142.173014,
+        "REGHH": 21,
+        "TOTPOP2000": 86,
+        "MALE2000": 47,
+        "FEMALE2000": 39,
+        "POP2008": 111,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010530011,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

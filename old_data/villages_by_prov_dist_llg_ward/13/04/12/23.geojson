@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8843,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.23320499991087,
+          -5.751495999840472
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8843,
+        "CU_NAME": "GUHUNGO",
+        "CU_NO": "011",
+        "GEOCODE": "13041223011",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "23",
+        "WARD_NAME": "WARD 23",
+        "LATITUDE": -5.752905,
+        "LONGITUDE": 146.232172,
+        "REGHH": 38,
+        "TOTPOP2000": 161,
+        "MALE2000": 78,
+        "FEMALE2000": 83,
+        "POP2008": 199,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041223011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8844,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2784710000367,
+          -5.740135000230055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8844,
+        "CU_NAME": "MATOKO",
+        "CU_NO": "019",
+        "GEOCODE": "13041223019",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "23",
+        "WARD_NAME": "WARD 23",
+        "LATITUDE": -5.7347,
+        "LONGITUDE": 146.274223,
+        "REGHH": 75,
+        "TOTPOP2000": 342,
+        "MALE2000": 158,
+        "FEMALE2000": 184,
+        "POP2008": 423,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041223019,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

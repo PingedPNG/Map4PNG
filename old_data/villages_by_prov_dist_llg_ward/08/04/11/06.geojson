@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5766,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64295399962748,
+          -5.445102999703636
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5766,
+        "CU_NAME": "NANDI",
+        "CU_NO": "006",
+        "GEOCODE": "08041106006",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "NANDI",
+        "LATITUDE": -5.446504,
+        "LONGITUDE": 143.641888,
+        "REGHH": 99,
+        "TOTPOP2000": 501,
+        "MALE2000": 252,
+        "FEMALE2000": 249,
+        "POP2008": 630,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041106006,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5767,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64554400035536,
+          -5.442447000428672
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5767,
+        "CU_NAME": "TOKAKAMAS",
+        "CU_NO": "007",
+        "GEOCODE": "08041106007",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "NANDI",
+        "LATITUDE": -5.443848,
+        "LONGITUDE": 143.644478,
+        "REGHH": 69,
+        "TOTPOP2000": 344,
+        "MALE2000": 186,
+        "FEMALE2000": 158,
+        "POP2008": 433,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041106007,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5768,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63667000032035,
+          -5.448336000406073
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5768,
+        "CU_NAME": "ITAIMANDA",
+        "CU_NO": "008",
+        "GEOCODE": "08041106008",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "NANDI",
+        "LATITUDE": -5.449737,
+        "LONGITUDE": 143.635604,
+        "REGHH": 55,
+        "TOTPOP2000": 244,
+        "MALE2000": 133,
+        "FEMALE2000": 111,
+        "POP2008": 306,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041106008,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

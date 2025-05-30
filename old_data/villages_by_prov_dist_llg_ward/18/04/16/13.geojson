@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.18371900003194,
+          -4.242905999712093
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5146,
+        "CU_NAME": "MATUPIT SIKUT SETTLEMENT",
+        "CU_NO": "501",
+        "GEOCODE": "18041613501",
+        "PROV_KEY": "18",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "13",
+        "WARD_NAME": "MATUPIT 5",
+        "LATITUDE": -4.244307,
+        "LONGITUDE": 152.182773,
+        "REGHH": 182,
+        "TOTPOP2000": 928,
+        "MALE2000": 481,
+        "FEMALE2000": 447,
+        "POP2008": 1131,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18041613501,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.22158699984027,
+          -4.21925299982604
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5147,
+        "CU_NAME": "ULAMATIS",
+        "CU_NO": "502",
+        "GEOCODE": "18041613502",
+        "PROV_KEY": "18",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "13",
+        "WARD_NAME": "MATUPIT 5",
+        "LATITUDE": -4.220652,
+        "LONGITUDE": 152.220642,
+        "REGHH": 29,
+        "TOTPOP2000": 167,
+        "MALE2000": 80,
+        "FEMALE2000": 87,
+        "POP2008": 203,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18041613502,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

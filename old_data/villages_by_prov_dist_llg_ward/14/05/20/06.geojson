@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7081,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.09176499985495,
+          -4.117829000008271
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7081,
+        "CU_NAME": "NIAUGANGE",
+        "CU_NO": "001",
+        "GEOCODE": "14052006001",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "20",
+        "WARD_NO": "06",
+        "WARD_NAME": "NIAUGANGE",
+        "LATITUDE": -4.119412,
+        "LONGITUDE": 143.090526,
+        "REGHH": 50,
+        "TOTPOP2000": 223,
+        "MALE2000": 111,
+        "FEMALE2000": 112,
+        "POP2008": 265,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052006001,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

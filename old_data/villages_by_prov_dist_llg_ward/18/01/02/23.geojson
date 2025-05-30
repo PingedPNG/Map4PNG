@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4509,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.06969900030867,
+          -4.478405999637118
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4509,
+        "CU_NAME": "AWUNGI",
+        "CU_NO": "021",
+        "GEOCODE": "18010223021",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "23",
+        "WARD_NAME": "AWUNGI",
+        "LATITUDE": -4.478789,
+        "LONGITUDE": 152.067231,
+        "REGHH": 13,
+        "TOTPOP2000": 57,
+        "MALE2000": 36,
+        "FEMALE2000": 21,
+        "POP2008": 69,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010223021,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4510,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.0689530000809,
+          -4.475704000039514
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4510,
+        "CU_NAME": "SENMAGI SETTLEMENT",
+        "CU_NO": "544",
+        "GEOCODE": "18010223544",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "23",
+        "WARD_NAME": "AWUNGI",
+        "LATITUDE": -4.478951,
+        "LONGITUDE": 152.067461,
+        "REGHH": 22,
+        "TOTPOP2000": 118,
+        "MALE2000": 72,
+        "FEMALE2000": 46,
+        "POP2008": 142,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010223544,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

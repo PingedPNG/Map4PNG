@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7875,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.07867200001283,
+          -4.567513999871153
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7875,
+        "CU_NAME": "MUGUMAT 2",
+        "CU_NO": "009",
+        "GEOCODE": "13010118009",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "MUGUMAT",
+        "LATITUDE": -4.568908,
+        "LONGITUDE": 145.077626,
+        "REGHH": 14,
+        "TOTPOP2000": 98,
+        "MALE2000": 55,
+        "FEMALE2000": 43,
+        "POP2008": 122,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010118009,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

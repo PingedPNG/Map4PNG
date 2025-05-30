@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11844,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.32257799977492,
+          -7.339188000126057
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11844,
+        "CU_NAME": "OKANAIWA",
+        "CU_NO": "012",
+        "GEOCODE": "12072007012",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "07",
+        "WARD_NAME": "OKANAIWA",
+        "LATITUDE": -7.340614,
+        "LONGITUDE": 146.321543,
+        "REGHH": 139,
+        "TOTPOP2000": 702,
+        "MALE2000": 347,
+        "FEMALE2000": 355,
+        "POP2008": 876,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072007012,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11845,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.29995599976962,
+          -7.3480109996078795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11845,
+        "CU_NAME": "KANAKAIMANGA",
+        "CU_NO": "018",
+        "GEOCODE": "12072007018",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "07",
+        "WARD_NAME": "OKANAIWA",
+        "LATITUDE": -7.349437,
+        "LONGITUDE": 146.298921,
+        "REGHH": 51,
+        "TOTPOP2000": 272,
+        "MALE2000": 140,
+        "FEMALE2000": 132,
+        "POP2008": 340,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072007018,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11846,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.32753900012483,
+          -7.356995000219058
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11846,
+        "CU_NAME": "PAIWINI",
+        "CU_NO": "027",
+        "GEOCODE": "12072007027",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "07",
+        "WARD_NAME": "OKANAIWA",
+        "LATITUDE": -7.358423,
+        "LONGITUDE": 146.326504,
+        "REGHH": 110,
+        "TOTPOP2000": 586,
+        "MALE2000": 291,
+        "FEMALE2000": 295,
+        "POP2008": 730,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072007027,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10513,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.58981099987784,
+          -7.146319000221638
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10513,
+        "CU_NAME": "LATEP",
+        "CU_NO": "011",
+        "GEOCODE": "12010312011",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "MALANGTA",
+        "LATITUDE": -7.147744,
+        "LONGITUDE": 146.58878,
+        "REGHH": 121,
+        "TOTPOP2000": 672,
+        "MALE2000": 345,
+        "FEMALE2000": 327,
+        "POP2008": 838,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010312011,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10514,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5970829997807,
+          -7.134872000242581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10514,
+        "CU_NAME": "LEKLU",
+        "CU_NO": "012",
+        "GEOCODE": "12010312012",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "12",
+        "WARD_NAME": "MALANGTA",
+        "LATITUDE": -7.136297,
+        "LONGITUDE": 146.596052,
+        "REGHH": 143,
+        "TOTPOP2000": 812,
+        "MALE2000": 432,
+        "FEMALE2000": 380,
+        "POP2008": 1013,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010312012,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

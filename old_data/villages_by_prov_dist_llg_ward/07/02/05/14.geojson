@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9333739997104,
+          -6.189776999908588
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19533,
+        "CU_NAME": "LEPORA",
+        "CU_NO": "014",
+        "GEOCODE": "07020514014",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "14",
+        "WARD_NAME": "LEPORA",
+        "LATITUDE": -6.194267,
+        "LONGITUDE": 143.933101,
+        "REGHH": 48,
+        "TOTPOP2000": 215,
+        "MALE2000": 107,
+        "FEMALE2000": 108,
+        "POP2008": 299,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020514014,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19534,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.93179199960116,
+          -6.189617999770803
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19534,
+        "CU_NAME": "KALEKEMBO",
+        "CU_NO": "015",
+        "GEOCODE": "07020514015",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "14",
+        "WARD_NAME": "LEPORA",
+        "LATITUDE": -6.194267,
+        "LONGITUDE": 143.933101,
+        "REGHH": 31,
+        "TOTPOP2000": 163,
+        "MALE2000": 102,
+        "FEMALE2000": 61,
+        "POP2008": 226,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020514015,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19535,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.93373700026245,
+          -6.189300000394667
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19535,
+        "CU_NAME": "KOAPENA",
+        "CU_NO": "016",
+        "GEOCODE": "07020514016",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "14",
+        "WARD_NAME": "LEPORA",
+        "LATITUDE": -6.194267,
+        "LONGITUDE": 143.933101,
+        "REGHH": 12,
+        "TOTPOP2000": 54,
+        "MALE2000": 28,
+        "FEMALE2000": 26,
+        "POP2008": 75,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020514016,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19536,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.93281199987393,
+          -6.188791000304377
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19536,
+        "CU_NAME": "ONOKOMBU/PAKORE",
+        "CU_NO": "017",
+        "GEOCODE": "07020514017",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "14",
+        "WARD_NAME": "LEPORA",
+        "LATITUDE": -6.194267,
+        "LONGITUDE": 143.933101,
+        "REGHH": 22,
+        "TOTPOP2000": 118,
+        "MALE2000": 67,
+        "FEMALE2000": 51,
+        "POP2008": 164,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020514017,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

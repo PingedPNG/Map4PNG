@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6671,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.00936100031004,
+          -3.6481720000377322
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6671,
+        "CU_NAME": "GWELIKUM 1",
+        "CU_NO": "005",
+        "GEOCODE": "14031213005",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "13",
+        "WARD_NAME": "GWELIKUM 1",
+        "LATITUDE": -3.64975,
+        "LONGITUDE": 143.008121,
+        "REGHH": 106,
+        "TOTPOP2000": 550,
+        "MALE2000": 272,
+        "FEMALE2000": 278,
+        "POP2008": 654,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031213005,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6672,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0113359996567,
+          -3.6521439997457605
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6672,
+        "CU_NAME": "GWELIKUM 2",
+        "CU_NO": "006",
+        "GEOCODE": "14031213006",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "13",
+        "WARD_NAME": "GWELIKUM 1",
+        "LATITUDE": -3.653722,
+        "LONGITUDE": 143.010096,
+        "REGHH": 97,
+        "TOTPOP2000": 498,
+        "MALE2000": 247,
+        "FEMALE2000": 251,
+        "POP2008": 592,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031213006,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.03301500024213,
+          -3.662026000399578
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6673,
+        "CU_NAME": "NERIKIM",
+        "CU_NO": "009",
+        "GEOCODE": "14031213009",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "13",
+        "WARD_NAME": "GWELIKUM 1",
+        "LATITUDE": -3.663604,
+        "LONGITUDE": 143.031774,
+        "REGHH": 90,
+        "TOTPOP2000": 420,
+        "MALE2000": 202,
+        "FEMALE2000": 218,
+        "POP2008": 500,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031213009,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

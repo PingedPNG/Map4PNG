@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7825,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.27125500041802,
+          -7.4574500003172375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7825,
+        "CU_NAME": "DOIBO",
+        "CU_NO": "005",
+        "GEOCODE": "02021015005",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "15",
+        "WARD_NAME": "DOIBO",
+        "LATITUDE": -7.45766,
+        "LONGITUDE": 144.271731,
+        "REGHH": 12,
+        "TOTPOP2000": 72,
+        "MALE2000": 32,
+        "FEMALE2000": 40,
+        "POP2008": 88,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021015005,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7826,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2523360003063,
+          -7.4715510003783265
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7826,
+        "CU_NAME": "BABEIO",
+        "CU_NO": "013",
+        "GEOCODE": "02021015013",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "15",
+        "WARD_NAME": "DOIBO",
+        "LATITUDE": -7.468419,
+        "LONGITUDE": 144.255894,
+        "REGHH": 26,
+        "TOTPOP2000": 135,
+        "MALE2000": 64,
+        "FEMALE2000": 71,
+        "POP2008": 167,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021015013,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.25332600009494,
+          -7.475587000339772
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7827,
+        "CU_NAME": "VEIRU",
+        "CU_NO": "014",
+        "GEOCODE": "02021015014",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "15",
+        "WARD_NAME": "DOIBO",
+        "LATITUDE": -7.470922,
+        "LONGITUDE": 144.255976,
+        "REGHH": 8,
+        "TOTPOP2000": 74,
+        "MALE2000": 36,
+        "FEMALE2000": 38,
+        "POP2008": 90,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021015014,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

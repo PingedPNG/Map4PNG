@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14632,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0960199996233,
+          -5.846541999613521
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14632,
+        "CU_NAME": "PUGLANGIL",
+        "CU_NO": "003",
+        "GEOCODE": "10051402003",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "02",
+        "WARD_NAME": "MAGLAUK/KOMKANE 1",
+        "LATITUDE": -5.84795,
+        "LONGITUDE": 145.094972,
+        "REGHH": 86,
+        "TOTPOP2000": 366,
+        "MALE2000": 195,
+        "FEMALE2000": 171,
+        "POP2008": 422,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051402003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14633,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.09026999976072,
+          -5.8636010002858825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14633,
+        "CU_NAME": "KAKAGL 1",
+        "CU_NO": "004",
+        "GEOCODE": "10051402004",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "02",
+        "WARD_NAME": "MAGLAUK/KOMKANE 1",
+        "LATITUDE": -5.865009,
+        "LONGITUDE": 145.089222,
+        "REGHH": 33,
+        "TOTPOP2000": 133,
+        "MALE2000": 69,
+        "FEMALE2000": 64,
+        "POP2008": 154,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051402004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14634,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0784869995755,
+          -5.878871000296385
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14634,
+        "CU_NAME": "GORO",
+        "CU_NO": "005",
+        "GEOCODE": "10051402005",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "02",
+        "WARD_NAME": "MAGLAUK/KOMKANE 1",
+        "LATITUDE": -5.88166,
+        "LONGITUDE": 145.076744,
+        "REGHH": 43,
+        "TOTPOP2000": 199,
+        "MALE2000": 106,
+        "FEMALE2000": 93,
+        "POP2008": 231,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051402005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14635,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.07424600005288,
+          -5.882570000005444
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14635,
+        "CU_NAME": "AGLMUGL",
+        "CU_NO": "006",
+        "GEOCODE": "10051402006",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "02",
+        "WARD_NAME": "MAGLAUK/KOMKANE 1",
+        "LATITUDE": -5.883978,
+        "LONGITUDE": 145.073198,
+        "REGHH": 26,
+        "TOTPOP2000": 114,
+        "MALE2000": 61,
+        "FEMALE2000": 53,
+        "POP2008": 130,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051402006,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

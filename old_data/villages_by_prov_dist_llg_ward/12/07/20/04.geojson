@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11824,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.24234999985265,
+          -7.325492999901996
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11824,
+        "CU_NAME": "ANGAPENA",
+        "CU_NO": "001",
+        "GEOCODE": "12072004001",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "04",
+        "WARD_NAME": "ANGEWANGA",
+        "LATITUDE": -7.326919,
+        "LONGITUDE": 146.241314,
+        "REGHH": 40,
+        "TOTPOP2000": 187,
+        "MALE2000": 104,
+        "FEMALE2000": 83,
+        "POP2008": 233,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072004001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11825,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.24029000018345,
+          -7.330989999788585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11825,
+        "CU_NAME": "HAWANA",
+        "CU_NO": "003",
+        "GEOCODE": "12072004003",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "04",
+        "WARD_NAME": "ANGEWANGA",
+        "LATITUDE": -7.332416,
+        "LONGITUDE": 146.239254,
+        "REGHH": 44,
+        "TOTPOP2000": 208,
+        "MALE2000": 113,
+        "FEMALE2000": 95,
+        "POP2008": 259,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072004003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11826,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.25791399993125,
+          -7.3141439999456
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11826,
+        "CU_NAME": "ANGEWANGA",
+        "CU_NO": "022",
+        "GEOCODE": "12072004022",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "04",
+        "WARD_NAME": "ANGEWANGA",
+        "LATITUDE": -7.31557,
+        "LONGITUDE": 146.256878,
+        "REGHH": 154,
+        "TOTPOP2000": 834,
+        "MALE2000": 439,
+        "FEMALE2000": 395,
+        "POP2008": 1040,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072004022,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.25997799978495,
+          -7.327101000310847
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11827,
+        "CU_NAME": "PINAMANGA",
+        "CU_NO": "029",
+        "GEOCODE": "12072004029",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "04",
+        "WARD_NAME": "ANGEWANGA",
+        "LATITUDE": -7.328527,
+        "LONGITUDE": 146.258942,
+        "REGHH": 66,
+        "TOTPOP2000": 304,
+        "MALE2000": 156,
+        "FEMALE2000": 148,
+        "POP2008": 380,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072004029,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11828,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.26122100044893,
+          -7.341132999887975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11828,
+        "CU_NAME": "TITAWEWE",
+        "CU_NO": "030",
+        "GEOCODE": "12072004030",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "04",
+        "WARD_NAME": "ANGEWANGA",
+        "LATITUDE": -7.342559,
+        "LONGITUDE": 146.260185,
+        "REGHH": 37,
+        "TOTPOP2000": 171,
+        "MALE2000": 80,
+        "FEMALE2000": 91,
+        "POP2008": 213,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072004030,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

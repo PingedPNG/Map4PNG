@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2950169997348,
+          -4.695259000302599
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9146,
+        "CU_NAME": "HINIHON",
+        "CU_NO": "001",
+        "GEOCODE": "13051431001",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "31",
+        "WARD_NAME": "WARD 31",
+        "LATITUDE": -4.700736,
+        "LONGITUDE": 145.286641,
+        "REGHH": 19,
+        "TOTPOP2000": 274,
+        "MALE2000": 151,
+        "FEMALE2000": 123,
+        "POP2008": 339,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051431001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.31134499997188,
+          -4.73584699963925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9147,
+        "CU_NAME": "HENENGAWE",
+        "CU_NO": "002",
+        "GEOCODE": "13051431002",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "31",
+        "WARD_NAME": "WARD 31",
+        "LATITUDE": -4.737243,
+        "LONGITUDE": 145.310302,
+        "REGHH": 19,
+        "TOTPOP2000": 338,
+        "MALE2000": 176,
+        "FEMALE2000": 162,
+        "POP2008": 418,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051431002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27592599978516,
+          -4.700386000213712
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9148,
+        "CU_NAME": "MESKOR",
+        "CU_NO": "005",
+        "GEOCODE": "13051431005",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "31",
+        "WARD_NAME": "WARD 31",
+        "LATITUDE": -4.701782,
+        "LONGITUDE": 145.274882,
+        "REGHH": 13,
+        "TOTPOP2000": 247,
+        "MALE2000": 124,
+        "FEMALE2000": 123,
+        "POP2008": 306,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051431005,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

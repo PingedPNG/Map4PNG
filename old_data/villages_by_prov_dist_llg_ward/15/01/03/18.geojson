@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18425,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.90137999958733,
+          -3.096613000289665
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18425,
+        "CU_NAME": "MORI",
+        "CU_NO": "017",
+        "GEOCODE": "15010318017",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "18",
+        "WARD_NAME": "MORI",
+        "LATITUDE": -3.099433,
+        "LONGITUDE": 141.906073,
+        "REGHH": 36,
+        "TOTPOP2000": 222,
+        "MALE2000": 113,
+        "FEMALE2000": 109,
+        "POP2008": 268,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010318017,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18426,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.85951799995576,
+          -3.108647000358758
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18426,
+        "CU_NAME": "SAVAMUI",
+        "CU_NO": "026",
+        "GEOCODE": "15010318026",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "18",
+        "WARD_NAME": "MORI",
+        "LATITUDE": -3.110021,
+        "LONGITUDE": 141.858434,
+        "REGHH": 18,
+        "TOTPOP2000": 115,
+        "MALE2000": 59,
+        "FEMALE2000": 56,
+        "POP2008": 139,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010318026,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

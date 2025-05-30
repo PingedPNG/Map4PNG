@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11011,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.94972000017788,
+          -6.8786139999360785
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11011,
+        "CU_NAME": "LABUTALE",
+        "CU_NO": "011",
+        "GEOCODE": "12031106011",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "LABUTALE",
+        "LATITUDE": -6.87921,
+        "LONGITUDE": 146.951178,
+        "REGHH": 64,
+        "TOTPOP2000": 344,
+        "MALE2000": 161,
+        "FEMALE2000": 183,
+        "POP2008": 429,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031106011,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11012,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.94809900006885,
+          -6.88437300021377
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11012,
+        "CU_NAME": "WAUS BUANG",
+        "CU_NO": "012",
+        "GEOCODE": "12031106012",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "LABUTALE",
+        "LATITUDE": -6.87921,
+        "LONGITUDE": 146.951178,
+        "REGHH": 25,
+        "TOTPOP2000": 188,
+        "MALE2000": 92,
+        "FEMALE2000": 96,
+        "POP2008": 234,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031106012,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

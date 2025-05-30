@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6495,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.33100600032674,
+          -3.974143000099332
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6495,
+        "CU_NAME": "BIN",
+        "CU_NO": "001",
+        "GEOCODE": "14020812001",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "12",
+        "WARD_NAME": "BIN",
+        "LATITUDE": -3.975726,
+        "LONGITUDE": 144.329782,
+        "REGHH": 99,
+        "TOTPOP2000": 748,
+        "MALE2000": 365,
+        "FEMALE2000": 383,
+        "POP2008": 890,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020812001,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

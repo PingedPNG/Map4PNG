@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20824,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.72988600043868,
+          -5.817877999769848
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20824,
+        "CU_NAME": "KOMA",
+        "CU_NO": "001",
+        "GEOCODE": "07051623001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "16",
+        "WARD_NO": "23",
+        "WARD_NAME": "IALUBA 1",
+        "LATITUDE": -5.822164,
+        "LONGITUDE": 142.729278,
+        "REGHH": 138,
+        "TOTPOP2000": 463,
+        "MALE2000": 233,
+        "FEMALE2000": 230,
+        "POP2008": 643,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051623001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20825,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.72919900023373,
+          -5.819835000085163
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20825,
+        "CU_NAME": "PINA",
+        "CU_NO": "002",
+        "GEOCODE": "07051623002",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "16",
+        "WARD_NO": "23",
+        "WARD_NAME": "IALUBA 1",
+        "LATITUDE": -5.822164,
+        "LONGITUDE": 142.729278,
+        "REGHH": 16,
+        "TOTPOP2000": 66,
+        "MALE2000": 28,
+        "FEMALE2000": 38,
+        "POP2008": 92,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051623002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20826,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.73326399973382,
+          -5.8150669996422835
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20826,
+        "CU_NAME": "WITA",
+        "CU_NO": "003",
+        "GEOCODE": "07051623003",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "16",
+        "WARD_NO": "23",
+        "WARD_NAME": "IALUBA 1",
+        "LATITUDE": -5.822164,
+        "LONGITUDE": 142.729278,
+        "REGHH": 10,
+        "TOTPOP2000": 32,
+        "MALE2000": 22,
+        "FEMALE2000": 10,
+        "POP2008": 44,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051623003,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

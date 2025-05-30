@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17056,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1299279995776,
+          -5.793988999792475
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17056,
+        "CU_NAME": "WAKANOM",
+        "CU_NO": "008",
+        "GEOCODE": "09050842008",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "42",
+        "WARD_NAME": "TONDOMONG.3",
+        "LATITUDE": -5.794927,
+        "LONGITUDE": 144.13026,
+        "REGHH": 165,
+        "TOTPOP2000": 867,
+        "MALE2000": 448,
+        "FEMALE2000": 419,
+        "POP2008": 1057,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050842008,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

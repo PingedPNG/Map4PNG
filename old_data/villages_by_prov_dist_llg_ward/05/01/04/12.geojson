@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9693,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.43056300008243,
+          -10.21339400003302
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9693,
+        "CU_NAME": "GUGA",
+        "CU_NO": "005",
+        "GEOCODE": "05010412005",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "12",
+        "WARD_NAME": "GUGA",
+        "LATITUDE": -10.21337,
+        "LONGITUDE": 150.429578,
+        "REGHH": 73,
+        "TOTPOP2000": 419,
+        "MALE2000": 214,
+        "FEMALE2000": 205,
+        "POP2008": 510,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010412005,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18326,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82467099986684,
+          -3.4460139998461727
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18326,
+        "CU_NAME": "LABUAIN",
+        "CU_NO": "007",
+        "GEOCODE": "15010122007",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "22",
+        "WARD_NAME": "LABUAIN",
+        "LATITUDE": -3.447393,
+        "LONGITUDE": 142.823598,
+        "REGHH": 44,
+        "TOTPOP2000": 267,
+        "MALE2000": 142,
+        "FEMALE2000": 125,
+        "POP2008": 323,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010122007,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18327,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.79295899975807,
+          -3.428820000142821
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18327,
+        "CU_NAME": "MIHET",
+        "CU_NO": "011",
+        "GEOCODE": "15010122011",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "22",
+        "WARD_NAME": "LABUAIN",
+        "LATITUDE": -3.428687,
+        "LONGITUDE": 142.795378,
+        "REGHH": 11,
+        "TOTPOP2000": 97,
+        "MALE2000": 55,
+        "FEMALE2000": 42,
+        "POP2008": 117,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010122011,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18328,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.88354699989418,
+          -3.456716999689718
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18328,
+        "CU_NAME": "ARUK",
+        "CU_NO": "028",
+        "GEOCODE": "15010122028",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "22",
+        "WARD_NAME": "LABUAIN",
+        "LATITUDE": -3.455081,
+        "LONGITUDE": 142.884965,
+        "REGHH": 10,
+        "TOTPOP2000": 78,
+        "MALE2000": 41,
+        "FEMALE2000": 37,
+        "POP2008": 94,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010122028,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

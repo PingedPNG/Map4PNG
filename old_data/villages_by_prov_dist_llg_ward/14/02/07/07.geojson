@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6411,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.16424500020662,
+          -4.547795999785535
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6411,
+        "CU_NAME": "PUSYTEN",
+        "CU_NO": "018",
+        "GEOCODE": "14020707018",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "07",
+        "WARD_NAME": "PUSYTEN",
+        "LATITUDE": -4.553511,
+        "LONGITUDE": 144.152871,
+        "REGHH": 39,
+        "TOTPOP2000": 276,
+        "MALE2000": 140,
+        "FEMALE2000": 136,
+        "POP2008": 328,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020707018,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

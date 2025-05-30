@@ -1,0 +1,773 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29657,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.55285532021696,
+          -6.293799810213045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29657,
+        "CU_NAME": "ABIHIRONTE",
+        "CU_NO": "001",
+        "GEOCODE": "11030428001",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.2938,
+        "LONGITUDE": 145.552855,
+        "REGHH": 28,
+        "TOTPOP2000": 100,
+        "MALE2000": 49,
+        "FEMALE2000": 51,
+        "POP2008": 117,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29658,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5481119602988,
+          -6.3043721097849925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29658,
+        "CU_NAME": "KAFEGORUGA",
+        "CU_NO": "022",
+        "GEOCODE": "11030428022",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.304372,
+        "LONGITUDE": 145.548112,
+        "REGHH": 35,
+        "TOTPOP2000": 132,
+        "MALE2000": 63,
+        "FEMALE2000": 69,
+        "POP2008": 156,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29659,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5671390400347,
+          -6.321246029980273
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29659,
+        "CU_NAME": "KARAFU",
+        "CU_NO": "024",
+        "GEOCODE": "11030428024",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.321246,
+        "LONGITUDE": 145.567139,
+        "REGHH": 43,
+        "TOTPOP2000": 167,
+        "MALE2000": 84,
+        "FEMALE2000": 83,
+        "POP2008": 199,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29660,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.61467235964176,
+          -6.255515970185854
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29660,
+        "CU_NAME": "BANANA BLOCK",
+        "CU_NO": "031",
+        "GEOCODE": "11030428031",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.255516,
+        "LONGITUDE": 145.614672,
+        "REGHH": 25,
+        "TOTPOP2000": 102,
+        "MALE2000": 55,
+        "FEMALE2000": 47,
+        "POP2008": 120,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29661,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.61320284043882,
+          -6.254604000074494
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29661,
+        "CU_NAME": "KIHIRONKA",
+        "CU_NO": "055",
+        "GEOCODE": "11030428055",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.254604,
+        "LONGITUDE": 145.613203,
+        "REGHH": 9,
+        "TOTPOP2000": 34,
+        "MALE2000": 21,
+        "FEMALE2000": 13,
+        "POP2008": 42,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29662,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.60530696014814,
+          -6.255601019971039
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29662,
+        "CU_NAME": "KORATARE",
+        "CU_NO": "056",
+        "GEOCODE": "11030428056",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.255601,
+        "LONGITUDE": 145.605307,
+        "REGHH": 23,
+        "TOTPOP2000": 115,
+        "MALE2000": 58,
+        "FEMALE2000": 57,
+        "POP2008": 139,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29663,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.61189891969946,
+          -6.248385809557419
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29663,
+        "CU_NAME": "KRINIKA",
+        "CU_NO": "057",
+        "GEOCODE": "11030428057",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.248386,
+        "LONGITUDE": 145.611899,
+        "REGHH": 4,
+        "TOTPOP2000": 16,
+        "MALE2000": 10,
+        "FEMALE2000": 6,
+        "POP2008": 16,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29664,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6129069203182,
+          -6.254510039806462
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29664,
+        "CU_NAME": "KRUFUFAVENTE",
+        "CU_NO": "058",
+        "GEOCODE": "11030428058",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.25451,
+        "LONGITUDE": 145.612907,
+        "REGHH": 17,
+        "TOTPOP2000": 53,
+        "MALE2000": 24,
+        "FEMALE2000": 29,
+        "POP2008": 61,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29665,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.54136483981551,
+          -6.237475019556484
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29665,
+        "CU_NAME": "LAMPOMU",
+        "CU_NO": "059",
+        "GEOCODE": "11030428059",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.237475,
+        "LONGITUDE": 145.541365,
+        "REGHH": 10,
+        "TOTPOP2000": 25,
+        "MALE2000": 14,
+        "FEMALE2000": 11,
+        "POP2008": 33,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29666,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.61284895991162,
+          -6.254805959927069
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29666,
+        "CU_NAME": "NASERE",
+        "CU_NO": "060",
+        "GEOCODE": "11030428060",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.254806,
+        "LONGITUDE": 145.612849,
+        "REGHH": 30,
+        "TOTPOP2000": 112,
+        "MALE2000": 52,
+        "FEMALE2000": 60,
+        "POP2008": 135,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29667,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.61392931998216,
+          -6.255570690335048
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29667,
+        "CU_NAME": "POROPI",
+        "CU_NO": "061",
+        "GEOCODE": "11030428061",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.255571,
+        "LONGITUDE": 145.613929,
+        "REGHH": 10,
+        "TOTPOP2000": 46,
+        "MALE2000": 30,
+        "FEMALE2000": 16,
+        "POP2008": 54,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29668,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.61301491990275,
+          -6.25501403966615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29668,
+        "CU_NAME": "RIHINETY",
+        "CU_NO": "062",
+        "GEOCODE": "11030428062",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.255014,
+        "LONGITUDE": 145.613015,
+        "REGHH": 13,
+        "TOTPOP2000": 45,
+        "MALE2000": 25,
+        "FEMALE2000": 20,
+        "POP2008": 53,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29669,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.61182007973298,
+          -6.254538479966811
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29669,
+        "CU_NAME": "SAIYANONO",
+        "CU_NO": "063",
+        "GEOCODE": "11030428063",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.254538,
+        "LONGITUDE": 145.61182,
+        "REGHH": 12,
+        "TOTPOP2000": 42,
+        "MALE2000": 18,
+        "FEMALE2000": 24,
+        "POP2008": 50,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29670,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6122178795515,
+          -6.255237870131566
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29670,
+        "CU_NAME": "SUEHETE",
+        "CU_NO": "064",
+        "GEOCODE": "11030428064",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.255238,
+        "LONGITUDE": 145.612218,
+        "REGHH": 9,
+        "TOTPOP2000": 46,
+        "MALE2000": 23,
+        "FEMALE2000": 23,
+        "POP2008": 54,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29671,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58037011958538,
+          -6.266709720177403
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29671,
+        "CU_NAME": "TUPUNTE",
+        "CU_NO": "065",
+        "GEOCODE": "11030428065",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.26671,
+        "LONGITUDE": 145.58037,
+        "REGHH": 12,
+        "TOTPOP2000": 53,
+        "MALE2000": 30,
+        "FEMALE2000": 23,
+        "POP2008": 61,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29672,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5618956399719,
+          -6.269996789919844
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29672,
+        "CU_NAME": "UNIKA",
+        "CU_NO": "066",
+        "GEOCODE": "11030428066",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.269997,
+        "LONGITUDE": 145.561896,
+        "REGHH": 42,
+        "TOTPOP2000": 184,
+        "MALE2000": 94,
+        "FEMALE2000": 90,
+        "POP2008": 218,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.61293499985038,
+          -6.254675999797485
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29673,
+        "CU_NAME": "IZAZVE",
+        "CU_NO": "068",
+        "GEOCODE": "11030428068",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.254676,
+        "LONGITUDE": 145.612935,
+        "REGHH": 34,
+        "TOTPOP2000": 130,
+        "MALE2000": 66,
+        "FEMALE2000": 64,
+        "POP2008": 154,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29674,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6102583998054,
+          -6.2462615398381445
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29674,
+        "CU_NAME": "KAGOPAMU",
+        "CU_NO": "069",
+        "GEOCODE": "11030428069",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.246262,
+        "LONGITUDE": 145.610258,
+        "REGHH": 18,
+        "TOTPOP2000": 73,
+        "MALE2000": 37,
+        "FEMALE2000": 36,
+        "POP2008": 89,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29675,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6144624803593,
+          -6.254501400019535
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29675,
+        "CU_NAME": "LABRINOSAGA",
+        "CU_NO": "070",
+        "GEOCODE": "11030428070",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.254501,
+        "LONGITUDE": 145.614462,
+        "REGHH": 25,
+        "TOTPOP2000": 88,
+        "MALE2000": 45,
+        "FEMALE2000": 43,
+        "POP2008": 104,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29676,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6133659199013,
+          -6.255885419776234
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29676,
+        "CU_NAME": "LUFATE",
+        "CU_NO": "071",
+        "GEOCODE": "11030428071",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.255885,
+        "LONGITUDE": 145.613366,
+        "REGHH": 14,
+        "TOTPOP2000": 55,
+        "MALE2000": 28,
+        "FEMALE2000": 27,
+        "POP2008": 63,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6124760002673,
+          -6.255682020109077
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29677,
+        "CU_NAME": "SIVIRENTE",
+        "CU_NO": "072",
+        "GEOCODE": "11030428072",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.255682,
+        "LONGITUDE": 145.612476,
+        "REGHH": 28,
+        "TOTPOP2000": 116,
+        "MALE2000": 63,
+        "FEMALE2000": 53,
+        "POP2008": 140,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29678,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6095405600489,
+          -6.253712729658673
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29678,
+        "CU_NAME": "UPARE",
+        "CU_NO": "074",
+        "GEOCODE": "11030428074",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.253713,
+        "LONGITUDE": 145.609541,
+        "REGHH": 24,
+        "TOTPOP2000": 82,
+        "MALE2000": 40,
+        "FEMALE2000": 42,
+        "POP2008": 98,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29679,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.612412279703,
+          -6.244135289811709
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29679,
+        "CU_NAME": "YUYUTE",
+        "CU_NO": "075",
+        "GEOCODE": "11030428075",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.244135,
+        "LONGITUDE": 145.612412,
+        "REGHH": 71,
+        "TOTPOP2000": 301,
+        "MALE2000": 157,
+        "FEMALE2000": 144,
+        "POP2008": 359,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29680,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.61708544034082,
+          -6.242058899998199
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29680,
+        "CU_NAME": "KAFIRO",
+        "CU_NO": "076",
+        "GEOCODE": "11030428076",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "NUMUYAGAVE",
+        "LATITUDE": -6.242059,
+        "LONGITUDE": 145.617085,
+        "REGHH": 35,
+        "TOTPOP2000": 172,
+        "MALE2000": 92,
+        "FEMALE2000": 80,
+        "POP2008": 204,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

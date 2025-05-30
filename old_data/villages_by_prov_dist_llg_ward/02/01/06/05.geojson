@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7608,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.53113700017252,
+          -7.83053600033611
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7608,
+        "CU_NAME": "KAKORO",
+        "CU_NO": "002",
+        "GEOCODE": "02010605002",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "KAKORO",
+        "LATITUDE": -7.839231,
+        "LONGITUDE": 146.530096,
+        "REGHH": 13,
+        "TOTPOP2000": 76,
+        "MALE2000": 39,
+        "FEMALE2000": 37,
+        "POP2008": 92,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010605002,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7609,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.52322000020297,
+          -7.835058000226468
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7609,
+        "CU_NAME": "MIRIMAS",
+        "CU_NO": "004",
+        "GEOCODE": "02010605004",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "KAKORO",
+        "LATITUDE": -7.843032,
+        "LONGITUDE": 146.527277,
+        "REGHH": 22,
+        "TOTPOP2000": 95,
+        "MALE2000": 55,
+        "FEMALE2000": 40,
+        "POP2008": 118,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010605004,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7610,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.50288300035027,
+          -7.795001000195953
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7610,
+        "CU_NAME": "IRUKI",
+        "CU_NO": "006",
+        "GEOCODE": "02010605006",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "KAKORO",
+        "LATITUDE": -7.787905,
+        "LONGITUDE": 146.518079,
+        "REGHH": 25,
+        "TOTPOP2000": 123,
+        "MALE2000": 75,
+        "FEMALE2000": 48,
+        "POP2008": 151,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010605006,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.52593500040007,
+          -7.801765000054672
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7611,
+        "CU_NAME": "BUNDI CAMP",
+        "CU_NO": "007",
+        "GEOCODE": "02010605007",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "KAKORO",
+        "LATITUDE": -7.806856,
+        "LONGITUDE": 146.521838,
+        "REGHH": 8,
+        "TOTPOP2000": 55,
+        "MALE2000": 35,
+        "FEMALE2000": 20,
+        "POP2008": 68,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010605007,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7612,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5361809998533,
+          -7.765619999663215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7612,
+        "CU_NAME": "POYANG",
+        "CU_NO": "008",
+        "GEOCODE": "02010605008",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "KAKORO",
+        "LATITUDE": -7.729698,
+        "LONGITUDE": 146.535166,
+        "REGHH": 11,
+        "TOTPOP2000": 73,
+        "MALE2000": 46,
+        "FEMALE2000": 27,
+        "POP2008": 89,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010605008,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7613,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.51363799989383,
+          -7.759710999662843
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7613,
+        "CU_NAME": "MERI CAMP",
+        "CU_NO": "009",
+        "GEOCODE": "02010605009",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "KAKORO",
+        "LATITUDE": -7.773353,
+        "LONGITUDE": 146.515345,
+        "REGHH": 2,
+        "TOTPOP2000": 17,
+        "MALE2000": 9,
+        "FEMALE2000": 8,
+        "POP2008": 17,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010605009,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

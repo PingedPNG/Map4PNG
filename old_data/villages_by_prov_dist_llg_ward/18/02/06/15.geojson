@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4664,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.35196800042297,
+          -4.416658000266466
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4664,
+        "CU_NAME": "BILUR",
+        "CU_NO": "012",
+        "GEOCODE": "18020615012",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "BILUR",
+        "LATITUDE": -4.418994,
+        "LONGITUDE": 152.353347,
+        "REGHH": 39,
+        "TOTPOP2000": 224,
+        "MALE2000": 111,
+        "FEMALE2000": 113,
+        "POP2008": 274,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020615012,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4665,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.36356800026306,
+          -4.405327000240845
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4665,
+        "CU_NAME": "KARU",
+        "CU_NO": "016",
+        "GEOCODE": "18020615016",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "BILUR",
+        "LATITUDE": -4.406729,
+        "LONGITUDE": 152.362625,
+        "REGHH": 32,
+        "TOTPOP2000": 237,
+        "MALE2000": 121,
+        "FEMALE2000": 116,
+        "POP2008": 289,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020615016,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

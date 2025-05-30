@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17607,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.11690000043473,
+          -5.953946000007875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17607,
+        "CU_NAME": "KOBUKA",
+        "CU_NO": "006",
+        "GEOCODE": "09071310006",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "10",
+        "WARD_NAME": "KOBUKA",
+        "LATITUDE": -5.954885,
+        "LONGITUDE": 144.117231,
+        "REGHH": 211,
+        "TOTPOP2000": 872,
+        "MALE2000": 448,
+        "FEMALE2000": 424,
+        "POP2008": 1062,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071310006,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

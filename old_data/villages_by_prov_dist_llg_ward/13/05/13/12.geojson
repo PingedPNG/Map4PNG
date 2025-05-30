@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8948,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.00837600015234,
+          -4.555664000193417
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8948,
+        "CU_NAME": "KAUL 1",
+        "CU_NO": "008",
+        "GEOCODE": "13051312008",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD 12",
+        "LATITUDE": -4.557059,
+        "LONGITUDE": 146.007342,
+        "REGHH": 116,
+        "TOTPOP2000": 662,
+        "MALE2000": 320,
+        "FEMALE2000": 342,
+        "POP2008": 819,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051312008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8949,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0100809996385,
+          -4.554264000383284
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8949,
+        "CU_NAME": "KAUL 2",
+        "CU_NO": "009",
+        "GEOCODE": "13051312009",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD 12",
+        "LATITUDE": -4.555659,
+        "LONGITUDE": 146.009047,
+        "REGHH": 75,
+        "TOTPOP2000": 483,
+        "MALE2000": 243,
+        "FEMALE2000": 240,
+        "POP2008": 597,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051312009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8950,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.01303199992697,
+          -4.553387999556492
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8950,
+        "CU_NAME": "DOR COMM. SCHOOL",
+        "CU_NO": "402",
+        "GEOCODE": "13051312402",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD 12",
+        "LATITUDE": -4.554783,
+        "LONGITUDE": 146.011998,
+        "REGHH": 5,
+        "TOTPOP2000": 35,
+        "MALE2000": 14,
+        "FEMALE2000": 21,
+        "POP2008": 43,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051312402,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

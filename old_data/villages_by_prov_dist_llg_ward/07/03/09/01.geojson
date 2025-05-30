@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19854,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8741570001455,
+          -6.500599000143723
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19854,
+        "CU_NAME": "ALOPEA",
+        "CU_NO": "001",
+        "GEOCODE": "07030901001",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "01",
+        "WARD_NAME": "ALOPEA",
+        "LATITUDE": -6.510005,
+        "LONGITUDE": 143.874765,
+        "REGHH": 13,
+        "TOTPOP2000": 84,
+        "MALE2000": 43,
+        "FEMALE2000": 41,
+        "POP2008": 118,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030901001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19855,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.90601499979243,
+          -6.45448799972138
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19855,
+        "CU_NAME": "PULI",
+        "CU_NO": "003",
+        "GEOCODE": "07030901003",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "01",
+        "WARD_NAME": "ALOPEA",
+        "LATITUDE": -6.459664,
+        "LONGITUDE": 143.903027,
+        "REGHH": 77,
+        "TOTPOP2000": 358,
+        "MALE2000": 189,
+        "FEMALE2000": 169,
+        "POP2008": 497,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030901003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19856,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.89991099979284,
+          -6.453012000003753
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19856,
+        "CU_NAME": "WAPI",
+        "CU_NO": "007",
+        "GEOCODE": "07030901007",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "01",
+        "WARD_NAME": "ALOPEA",
+        "LATITUDE": -6.459664,
+        "LONGITUDE": 143.903027,
+        "REGHH": 74,
+        "TOTPOP2000": 450,
+        "MALE2000": 218,
+        "FEMALE2000": 232,
+        "POP2008": 625,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030901007,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19857,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.90326099959555,
+          -6.451782999985426
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19857,
+        "CU_NAME": "POMBOROI",
+        "CU_NO": "008",
+        "GEOCODE": "07030901008",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "01",
+        "WARD_NAME": "ALOPEA",
+        "LATITUDE": -6.459664,
+        "LONGITUDE": 143.903027,
+        "REGHH": 33,
+        "TOTPOP2000": 159,
+        "MALE2000": 85,
+        "FEMALE2000": 74,
+        "POP2008": 222,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030901008,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

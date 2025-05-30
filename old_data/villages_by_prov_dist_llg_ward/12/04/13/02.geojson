@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11197,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2970739997653,
+          -6.169258999802935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11197,
+        "CU_NAME": "MANGAM",
+        "CU_NO": "013",
+        "GEOCODE": "12041302013",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "02",
+        "WARD_NAME": "MALANDUM",
+        "LATITUDE": -6.170675,
+        "LONGITUDE": 147.296055,
+        "REGHH": 46,
+        "TOTPOP2000": 290,
+        "MALE2000": 140,
+        "FEMALE2000": 150,
+        "POP2008": 362,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041302013,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11198,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3150290003881,
+          -6.170690000143338
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11198,
+        "CU_NAME": "MALANDUM",
+        "CU_NO": "014",
+        "GEOCODE": "12041302014",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "02",
+        "WARD_NAME": "MALANDUM",
+        "LATITUDE": -6.168582,
+        "LONGITUDE": 147.31602,
+        "REGHH": 75,
+        "TOTPOP2000": 478,
+        "MALE2000": 245,
+        "FEMALE2000": 233,
+        "POP2008": 596,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041302014,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11199,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3331650003645,
+          -6.177311999748952
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11199,
+        "CU_NAME": "NIMBA",
+        "CU_NO": "015",
+        "GEOCODE": "12041302015",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "02",
+        "WARD_NAME": "MALANDUM",
+        "LATITUDE": -6.178728,
+        "LONGITUDE": 147.332146,
+        "REGHH": 32,
+        "TOTPOP2000": 226,
+        "MALE2000": 105,
+        "FEMALE2000": 121,
+        "POP2008": 281,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041302015,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11200,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.30511600010334,
+          -6.170445999683068
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11200,
+        "CU_NAME": "QENZO",
+        "CU_NO": "016",
+        "GEOCODE": "12041302016",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "02",
+        "WARD_NAME": "MALANDUM",
+        "LATITUDE": -6.171862,
+        "LONGITUDE": 147.304097,
+        "REGHH": 29,
+        "TOTPOP2000": 171,
+        "MALE2000": 82,
+        "FEMALE2000": 89,
+        "POP2008": 213,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041302016,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11201,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.29929499966454,
+          -6.171075999957395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11201,
+        "CU_NAME": "ANDINDIN",
+        "CU_NO": "017",
+        "GEOCODE": "12041302017",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "02",
+        "WARD_NAME": "MALANDUM",
+        "LATITUDE": -6.172492,
+        "LONGITUDE": 147.298276,
+        "REGHH": 22,
+        "TOTPOP2000": 140,
+        "MALE2000": 74,
+        "FEMALE2000": 66,
+        "POP2008": 174,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041302017,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

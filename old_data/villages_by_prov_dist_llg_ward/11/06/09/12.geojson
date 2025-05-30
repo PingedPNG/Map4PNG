@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7793867599911,
+          -7.028612999590223
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30345,
+        "CU_NAME": "ASINAVE",
+        "CU_NO": "001",
+        "GEOCODE": "11060912001",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "ASINAVE",
+        "LATITUDE": -7.028613,
+        "LONGITUDE": 145.779387,
+        "REGHH": 85,
+        "TOTPOP2000": 357,
+        "MALE2000": 190,
+        "FEMALE2000": 167,
+        "POP2008": 425,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

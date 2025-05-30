@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18494,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.49369700021646,
+          -3.690962000196123
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18494,
+        "CU_NAME": "MANSUKU",
+        "CU_NO": "007",
+        "GEOCODE": "15020503007",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "03",
+        "WARD_NAME": "MANSUKU",
+        "LATITUDE": -3.692343,
+        "LONGITUDE": 142.49262,
+        "REGHH": 121,
+        "TOTPOP2000": 594,
+        "MALE2000": 269,
+        "FEMALE2000": 325,
+        "POP2008": 718,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020503007,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18495,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.49819199976105,
+          -3.6818059997470414
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18495,
+        "CU_NAME": "WATI CATHOLIC MISSI",
+        "CU_NO": "401",
+        "GEOCODE": "15020503401",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "03",
+        "WARD_NAME": "MANSUKU",
+        "LATITUDE": -3.687754,
+        "LONGITUDE": 142.493151,
+        "REGHH": 7,
+        "TOTPOP2000": 45,
+        "MALE2000": 22,
+        "FEMALE2000": 23,
+        "POP2008": 53,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020503401,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

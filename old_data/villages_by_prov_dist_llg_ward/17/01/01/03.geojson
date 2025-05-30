@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12377,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.54328999973382,
+          -1.445271000156481
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12377,
+        "CU_NAME": "LOLIENG",
+        "CU_NO": "010",
+        "GEOCODE": "17010103010",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "LOLIENG",
+        "LATITUDE": -1.44663,
+        "LONGITUDE": 149.542308,
+        "REGHH": 32,
+        "TOTPOP2000": 141,
+        "MALE2000": 64,
+        "FEMALE2000": 77,
+        "POP2008": 177,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010103010,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12378,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.56540899992547,
+          -1.4659220001001927
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12378,
+        "CU_NAME": "MALAKAT",
+        "CU_NO": "012",
+        "GEOCODE": "17010103012",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "LOLIENG",
+        "LATITUDE": -1.463232,
+        "LONGITUDE": 149.559749,
+        "REGHH": 14,
+        "TOTPOP2000": 80,
+        "MALE2000": 37,
+        "FEMALE2000": 43,
+        "POP2008": 100,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010103012,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12379,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.59672699985117,
+          -1.495694999824309
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12379,
+        "CU_NAME": "TARAIRAI",
+        "CU_NO": "028",
+        "GEOCODE": "17010103028",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "LOLIENG",
+        "LATITUDE": -1.497055,
+        "LONGITUDE": 149.595746,
+        "REGHH": 8,
+        "TOTPOP2000": 34,
+        "MALE2000": 13,
+        "FEMALE2000": 21,
+        "POP2008": 42,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010103028,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12380,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.58384000001604,
+          -1.4868619998813415
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12380,
+        "CU_NAME": "BANGALU",
+        "CU_NO": "032",
+        "GEOCODE": "17010103032",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "LOLIENG",
+        "LATITUDE": -1.488222,
+        "LONGITUDE": 149.582858,
+        "REGHH": 25,
+        "TOTPOP2000": 124,
+        "MALE2000": 59,
+        "FEMALE2000": 65,
+        "POP2008": 156,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010103032,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12381,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.61299199988093,
+          -1.5038730001388103
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12381,
+        "CU_NAME": "ALUMUI",
+        "CU_NO": "503",
+        "GEOCODE": "17010103503",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "LOLIENG",
+        "LATITUDE": -1.505233,
+        "LONGITUDE": 149.612011,
+        "REGHH": 4,
+        "TOTPOP2000": 34,
+        "MALE2000": 16,
+        "FEMALE2000": 18,
+        "POP2008": 42,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010103503,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

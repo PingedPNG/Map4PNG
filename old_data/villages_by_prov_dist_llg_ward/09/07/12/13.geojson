@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17488,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.05616500011467,
+          -5.845205000010708
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17488,
+        "CU_NAME": "OAMULG",
+        "CU_NO": "034",
+        "GEOCODE": "09071213034",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "13",
+        "WARD_NAME": "TSINSIBAI 4",
+        "LATITUDE": -5.847484,
+        "LONGITUDE": 144.055684,
+        "REGHH": 28,
+        "TOTPOP2000": 127,
+        "MALE2000": 57,
+        "FEMALE2000": 70,
+        "POP2008": 154,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071213034,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17489,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.05401399984623,
+          -5.845463000217251
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17489,
+        "CU_NAME": "KONDIS",
+        "CU_NO": "035",
+        "GEOCODE": "09071213035",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "13",
+        "WARD_NAME": "TSINSIBAI 4",
+        "LATITUDE": -5.847484,
+        "LONGITUDE": 144.055684,
+        "REGHH": 25,
+        "TOTPOP2000": 126,
+        "MALE2000": 70,
+        "FEMALE2000": 56,
+        "POP2008": 153,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071213035,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17490,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.05830299978368,
+          -5.851859000192633
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17490,
+        "CU_NAME": "KUMBAPULG",
+        "CU_NO": "036",
+        "GEOCODE": "09071213036",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "13",
+        "WARD_NAME": "TSINSIBAI 4",
+        "LATITUDE": -5.852797,
+        "LONGITUDE": 144.058635,
+        "REGHH": 33,
+        "TOTPOP2000": 135,
+        "MALE2000": 70,
+        "FEMALE2000": 65,
+        "POP2008": 165,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071213036,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

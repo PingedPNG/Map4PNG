@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11602,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.08395399967742,
+          -6.159357000025466
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11602,
+        "CU_NAME": "RAGINAM",
+        "CU_NO": "007",
+        "GEOCODE": "12061807007",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "07",
+        "WARD_NAME": "RAGINAM",
+        "LATITUDE": -6.16077,
+        "LONGITUDE": 146.082919,
+        "REGHH": 78,
+        "TOTPOP2000": 469,
+        "MALE2000": 249,
+        "FEMALE2000": 220,
+        "POP2008": 584,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061807007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11603,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.11946499961016,
+          -6.146579999867072
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11603,
+        "CU_NAME": "URAMGUZUN",
+        "CU_NO": "008",
+        "GEOCODE": "12061807008",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "07",
+        "WARD_NAME": "RAGINAM",
+        "LATITUDE": -6.147993,
+        "LONGITUDE": 146.11843,
+        "REGHH": 12,
+        "TOTPOP2000": 59,
+        "MALE2000": 30,
+        "FEMALE2000": 29,
+        "POP2008": 75,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061807008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1100079996695,
+          -6.159160999980145
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11604,
+        "CU_NAME": "RAGIZUMANG",
+        "CU_NO": "009",
+        "GEOCODE": "12061807009",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "07",
+        "WARD_NAME": "RAGINAM",
+        "LATITUDE": -6.160339,
+        "LONGITUDE": 146.107353,
+        "REGHH": 90,
+        "TOTPOP2000": 460,
+        "MALE2000": 245,
+        "FEMALE2000": 215,
+        "POP2008": 574,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061807009,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11605,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.10676700039687,
+          -6.159154999703446
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11605,
+        "CU_NAME": "YUNG CREEK CAMP",
+        "CU_NO": "401",
+        "GEOCODE": "12061807401",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "07",
+        "WARD_NAME": "RAGINAM",
+        "LATITUDE": -6.160339,
+        "LONGITUDE": 146.107353,
+        "REGHH": 10,
+        "TOTPOP2000": 42,
+        "MALE2000": 27,
+        "FEMALE2000": 15,
+        "POP2008": 50,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061807401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

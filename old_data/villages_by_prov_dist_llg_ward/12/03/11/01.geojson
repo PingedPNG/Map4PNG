@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10995,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6778979997929,
+          -6.658235000344916
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10995,
+        "CU_NAME": "MARE",
+        "CU_NO": "013",
+        "GEOCODE": "12031101013",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "MARE",
+        "LATITUDE": -6.658412,
+        "LONGITUDE": 146.682269,
+        "REGHH": 157,
+        "TOTPOP2000": 1023,
+        "MALE2000": 503,
+        "FEMALE2000": 520,
+        "POP2008": 1276,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031101013,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10996,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.74065799996674,
+          -6.6179529998310045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10996,
+        "CU_NAME": "GENSIAN",
+        "CU_NO": "024",
+        "GEOCODE": "12031101024",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "MARE",
+        "LATITUDE": -6.620847,
+        "LONGITUDE": 146.742574,
+        "REGHH": 17,
+        "TOTPOP2000": 94,
+        "MALE2000": 46,
+        "FEMALE2000": 48,
+        "POP2008": 118,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031101024,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

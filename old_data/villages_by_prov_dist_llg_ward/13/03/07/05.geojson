@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8402,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.66900099999623,
+          -4.905129000003285
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8402,
+        "CU_NAME": "MOIBU",
+        "CU_NO": "027",
+        "GEOCODE": "13030705027",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARD 5",
+        "LATITUDE": -4.907399,
+        "LONGITUDE": 144.668207,
+        "REGHH": 29,
+        "TOTPOP2000": 171,
+        "MALE2000": 87,
+        "FEMALE2000": 84,
+        "POP2008": 212,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030705027,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8403,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.64470400008963,
+          -4.912916000273128
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8403,
+        "CU_NAME": "NAMBABU",
+        "CU_NO": "030",
+        "GEOCODE": "13030705030",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARD 5",
+        "LATITUDE": -4.914313,
+        "LONGITUDE": 144.643652,
+        "REGHH": 14,
+        "TOTPOP2000": 94,
+        "MALE2000": 50,
+        "FEMALE2000": 44,
+        "POP2008": 118,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030705030,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8404,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.71316499966508,
+          -4.920436999967535
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8404,
+        "CU_NAME": "WREBU",
+        "CU_NO": "036",
+        "GEOCODE": "13030705036",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARD 5",
+        "LATITUDE": -4.921834,
+        "LONGITUDE": 144.712114,
+        "REGHH": 45,
+        "TOTPOP2000": 286,
+        "MALE2000": 142,
+        "FEMALE2000": 144,
+        "POP2008": 354,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030705036,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8405,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6550679995886,
+          -4.901303999879644
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8405,
+        "CU_NAME": "BANGROBU",
+        "CU_NO": "037",
+        "GEOCODE": "13030705037",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "WARD 5",
+        "LATITUDE": -4.902701,
+        "LONGITUDE": 144.654016,
+        "REGHH": 11,
+        "TOTPOP2000": 71,
+        "MALE2000": 40,
+        "FEMALE2000": 31,
+        "POP2008": 87,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030705037,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

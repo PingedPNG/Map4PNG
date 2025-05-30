@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.12950099967145,
+          -6.375097999772834
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19133,
+        "CU_NAME": "KUMIANE",
+        "CU_NO": "010",
+        "GEOCODE": "07010111010",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "11",
+        "WARD_NAME": "KUMIANE",
+        "LATITUDE": -6.379485,
+        "LONGITUDE": 144.130342,
+        "REGHH": 48,
+        "TOTPOP2000": 211,
+        "MALE2000": 96,
+        "FEMALE2000": 115,
+        "POP2008": 293,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010111010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1308469996893,
+          -6.372813999666278
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19134,
+        "CU_NAME": "PONDIALIBU",
+        "CU_NO": "011",
+        "GEOCODE": "07010111011",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "11",
+        "WARD_NAME": "KUMIANE",
+        "LATITUDE": -6.379485,
+        "LONGITUDE": 144.130342,
+        "REGHH": 22,
+        "TOTPOP2000": 90,
+        "MALE2000": 42,
+        "FEMALE2000": 48,
+        "POP2008": 125,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010111011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.13060700031292,
+          -6.377522000040244
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19135,
+        "CU_NAME": "KUMIANE COMM. SCH",
+        "CU_NO": "401",
+        "GEOCODE": "07010111401",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "11",
+        "WARD_NAME": "KUMIANE",
+        "LATITUDE": -6.379485,
+        "LONGITUDE": 144.130342,
+        "REGHH": 4,
+        "TOTPOP2000": 16,
+        "MALE2000": 7,
+        "FEMALE2000": 9,
+        "POP2008": 24,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010111401,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

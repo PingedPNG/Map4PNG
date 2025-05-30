@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9787,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.2558863669624,
+          -10.697754334494903
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9787,
+        "CU_NAME": "SUAU ISLAND",
+        "CU_NO": "027",
+        "GEOCODE": "05010606027",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "SUAU ISLAND",
+        "LATITUDE": -10.697022,
+        "LONGITUDE": 150.255772,
+        "REGHH": 49,
+        "TOTPOP2000": 252,
+        "MALE2000": 137,
+        "FEMALE2000": 115,
+        "POP2008": 306,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010606027,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9788,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.241198999934,
+          -10.71530900011021
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9788,
+        "CU_NAME": "POUWAELO",
+        "CU_NO": "028",
+        "GEOCODE": "05010606028",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "SUAU ISLAND",
+        "LATITUDE": -10.71446,
+        "LONGITUDE": 150.240966,
+        "REGHH": 35,
+        "TOTPOP2000": 174,
+        "MALE2000": 94,
+        "FEMALE2000": 80,
+        "POP2008": 212,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010606028,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

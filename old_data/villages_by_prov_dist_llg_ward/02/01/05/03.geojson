@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7540,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8937399999012,
+          -7.484861999981263
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7540,
+        "CU_NAME": "AKEWA",
+        "CU_NO": "001",
+        "GEOCODE": "02010503001",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "03",
+        "WARD_NAME": "MANIMANGO",
+        "LATITUDE": -7.486289,
+        "LONGITUDE": 145.892699,
+        "REGHH": 51,
+        "TOTPOP2000": 264,
+        "MALE2000": 135,
+        "FEMALE2000": 129,
+        "POP2008": 324,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010503001,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7541,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9168469997893,
+          -7.454780000396681
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7541,
+        "CU_NAME": "MANIMANGO",
+        "CU_NO": "010",
+        "GEOCODE": "02010503010",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "03",
+        "WARD_NAME": "MANIMANGO",
+        "LATITUDE": -7.457672,
+        "LONGITUDE": 145.920895,
+        "REGHH": 29,
+        "TOTPOP2000": 268,
+        "MALE2000": 139,
+        "FEMALE2000": 129,
+        "POP2008": 329,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010503010,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8909790002807,
+          -7.466685999958884
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7542,
+        "CU_NAME": "YEKA",
+        "CU_NO": "011",
+        "GEOCODE": "02010503011",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "03",
+        "WARD_NAME": "MANIMANGO",
+        "LATITUDE": -7.468113,
+        "LONGITUDE": 145.889938,
+        "REGHH": 156,
+        "TOTPOP2000": 971,
+        "MALE2000": 504,
+        "FEMALE2000": 467,
+        "POP2008": 1192,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010503011,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

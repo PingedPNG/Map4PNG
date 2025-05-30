@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5230,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4693260002947,
+          -5.730878999666061
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5230,
+        "CU_NAME": "MURIP",
+        "CU_NO": "003",
+        "GEOCODE": "08010123003",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "23",
+        "WARD_NAME": "MURIP",
+        "LATITUDE": -5.732283,
+        "LONGITUDE": 143.468258,
+        "REGHH": 96,
+        "TOTPOP2000": 627,
+        "MALE2000": 340,
+        "FEMALE2000": 287,
+        "POP2008": 788,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010123003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5231,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4877380004085,
+          -5.699337000202377
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5231,
+        "CU_NAME": "KYAKAU",
+        "CU_NO": "004",
+        "GEOCODE": "08010123004",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "23",
+        "WARD_NAME": "MURIP",
+        "LATITUDE": -5.700741,
+        "LONGITUDE": 143.48667,
+        "REGHH": 69,
+        "TOTPOP2000": 349,
+        "MALE2000": 190,
+        "FEMALE2000": 159,
+        "POP2008": 438,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010123004,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4955069998482,
+          -5.696104000399259
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5232,
+        "CU_NAME": "KALAN",
+        "CU_NO": "005",
+        "GEOCODE": "08010123005",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "23",
+        "WARD_NAME": "MURIP",
+        "LATITUDE": -5.697509,
+        "LONGITUDE": 143.494439,
+        "REGHH": 51,
+        "TOTPOP2000": 340,
+        "MALE2000": 188,
+        "FEMALE2000": 152,
+        "POP2008": 427,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010123005,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4788580000967,
+          -5.729771999877869
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5233,
+        "CU_NAME": "TAKENAME",
+        "CU_NO": "006",
+        "GEOCODE": "08010123006",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "23",
+        "WARD_NAME": "MURIP",
+        "LATITUDE": -5.72672,
+        "LONGITUDE": 143.472861,
+        "REGHH": 44,
+        "TOTPOP2000": 218,
+        "MALE2000": 106,
+        "FEMALE2000": 112,
+        "POP2008": 273,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010123006,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

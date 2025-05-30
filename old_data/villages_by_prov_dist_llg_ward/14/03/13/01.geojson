@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6688,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1322469996993,
+          -3.693673000208719
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6688,
+        "CU_NAME": "KOMBIKUM 1",
+        "CU_NO": "004",
+        "GEOCODE": "14031301004",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMBIKUM",
+        "LATITUDE": -3.695252,
+        "LONGITUDE": 143.131009,
+        "REGHH": 101,
+        "TOTPOP2000": 499,
+        "MALE2000": 247,
+        "FEMALE2000": 252,
+        "POP2008": 593,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031301004,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6689,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1454909998099,
+          -3.7096090003550444
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6689,
+        "CU_NAME": "KOMBIKUM 2",
+        "CU_NO": "005",
+        "GEOCODE": "14031301005",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMBIKUM",
+        "LATITUDE": -3.711188,
+        "LONGITUDE": 143.144253,
+        "REGHH": 59,
+        "TOTPOP2000": 302,
+        "MALE2000": 150,
+        "FEMALE2000": 152,
+        "POP2008": 360,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031301005,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6690,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.15458099991326,
+          -3.7197779998547844
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6690,
+        "CU_NAME": "KOMBIKUM 3",
+        "CU_NO": "022",
+        "GEOCODE": "14031301022",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "01",
+        "WARD_NAME": "KOMBIKUM",
+        "LATITUDE": -3.721357,
+        "LONGITUDE": 143.153343,
+        "REGHH": 54,
+        "TOTPOP2000": 267,
+        "MALE2000": 131,
+        "FEMALE2000": 136,
+        "POP2008": 318,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031301022,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

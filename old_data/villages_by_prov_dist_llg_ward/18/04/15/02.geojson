@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1384509998138,
+          -4.192935000250031
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5106,
+        "CU_NAME": "PILAPILA",
+        "CU_NO": "002",
+        "GEOCODE": "18041502002",
+        "PROV_KEY": "18",
+        "DIST_NO": "04",
+        "LLG_NO": "15",
+        "WARD_NO": "02",
+        "WARD_NAME": "PILAPILA",
+        "LATITUDE": -4.194334,
+        "LONGITUDE": 152.137505,
+        "REGHH": 153,
+        "TOTPOP2000": 736,
+        "MALE2000": 363,
+        "FEMALE2000": 373,
+        "POP2008": 896,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18041502002,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

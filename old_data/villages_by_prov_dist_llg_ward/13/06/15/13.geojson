@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9169,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2469410004269,
+          -5.716098999768974
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9169,
+        "CU_NAME": "KOBUM",
+        "CU_NO": "001",
+        "GEOCODE": "13061513001",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "13",
+        "WARD_NAME": "WARD 13",
+        "LATITUDE": -5.720372,
+        "LONGITUDE": 145.239403,
+        "REGHH": 7,
+        "TOTPOP2000": 37,
+        "MALE2000": 22,
+        "FEMALE2000": 15,
+        "POP2008": 45,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061513001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9170,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.28467899963618,
+          -5.703019000026757
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9170,
+        "CU_NAME": "DAURI",
+        "CU_NO": "002",
+        "GEOCODE": "13061513002",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "13",
+        "WARD_NAME": "WARD 13",
+        "LATITUDE": -5.705461,
+        "LONGITUDE": 145.267783,
+        "REGHH": 31,
+        "TOTPOP2000": 124,
+        "MALE2000": 70,
+        "FEMALE2000": 54,
+        "POP2008": 154,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061513002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9171,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.23699200028068,
+          -5.71594499986179
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9171,
+        "CU_NAME": "AIMAMBO",
+        "CU_NO": "003",
+        "GEOCODE": "13061513003",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "13",
+        "WARD_NAME": "WARD 13",
+        "LATITUDE": -5.716612,
+        "LONGITUDE": 145.229825,
+        "REGHH": 9,
+        "TOTPOP2000": 41,
+        "MALE2000": 21,
+        "FEMALE2000": 20,
+        "POP2008": 49,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061513003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9172,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26894299971968,
+          -5.751767999793287
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9172,
+        "CU_NAME": "KUMI",
+        "CU_NO": "004",
+        "GEOCODE": "13061513004",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "13",
+        "WARD_NAME": "WARD 13",
+        "LATITUDE": -5.753175,
+        "LONGITUDE": 145.267898,
+        "REGHH": 6,
+        "TOTPOP2000": 28,
+        "MALE2000": 16,
+        "FEMALE2000": 12,
+        "POP2008": 36,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061513004,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

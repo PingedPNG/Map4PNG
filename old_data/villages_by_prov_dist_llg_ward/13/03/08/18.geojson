@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.88978400023154,
+          -4.841782999785551
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8551,
+        "CU_NAME": "ARAGNAM",
+        "CU_NO": "002",
+        "GEOCODE": "13030818002",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "18",
+        "WARD_NAME": "WARD 18",
+        "LATITUDE": -4.839304,
+        "LONGITUDE": 144.892976,
+        "REGHH": 18,
+        "TOTPOP2000": 119,
+        "MALE2000": 55,
+        "FEMALE2000": 64,
+        "POP2008": 147,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030818002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9077199999781,
+          -4.824070999576918
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8552,
+        "CU_NAME": "INDAWAIA",
+        "CU_NO": "006",
+        "GEOCODE": "13030818006",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "18",
+        "WARD_NAME": "WARD 18",
+        "LATITUDE": -4.822295,
+        "LONGITUDE": 144.9095,
+        "REGHH": 14,
+        "TOTPOP2000": 97,
+        "MALE2000": 46,
+        "FEMALE2000": 51,
+        "POP2008": 121,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030818006,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8553,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9496710001166,
+          -4.868558999797983
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8553,
+        "CU_NAME": "AWANZY",
+        "CU_NO": "007",
+        "GEOCODE": "13030818007",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "18",
+        "WARD_NAME": "WARD 18",
+        "LATITUDE": -4.856737,
+        "LONGITUDE": 144.924971,
+        "REGHH": 9,
+        "TOTPOP2000": 43,
+        "MALE2000": 17,
+        "FEMALE2000": 26,
+        "POP2008": 51,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030818007,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

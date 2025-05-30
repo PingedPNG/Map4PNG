@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17553,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.05952999970975,
+          -5.9949129997351065
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17553,
+        "CU_NAME": "BONGA",
+        "CU_NO": "003",
+        "GEOCODE": "09071241003",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "41",
+        "WARD_NAME": "BONGA.1",
+        "LATITUDE": -5.995854,
+        "LONGITUDE": 144.059862,
+        "REGHH": 32,
+        "TOTPOP2000": 152,
+        "MALE2000": 82,
+        "FEMALE2000": 70,
+        "POP2008": 184,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071241003,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17554,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.05500699977324,
+          -5.986770000135323
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17554,
+        "CU_NAME": "MANDA",
+        "CU_NO": "004",
+        "GEOCODE": "09071241004",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "41",
+        "WARD_NAME": "BONGA.1",
+        "LATITUDE": -5.987711,
+        "LONGITUDE": 144.055339,
+        "REGHH": 42,
+        "TOTPOP2000": 203,
+        "MALE2000": 102,
+        "FEMALE2000": 101,
+        "POP2008": 247,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071241004,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17555,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.02541400025598,
+          -5.999908999900356
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17555,
+        "CU_NAME": "KUL",
+        "CU_NO": "005",
+        "GEOCODE": "09071241005",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "41",
+        "WARD_NAME": "BONGA.1",
+        "LATITUDE": -6.00085,
+        "LONGITUDE": 144.025745,
+        "REGHH": 29,
+        "TOTPOP2000": 155,
+        "MALE2000": 77,
+        "FEMALE2000": 78,
+        "POP2008": 188,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071241005,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

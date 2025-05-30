@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20439,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3118140004159,
+          -5.845599000193658
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20439,
+        "CU_NAME": "LIULIU",
+        "CU_NO": "004",
+        "GEOCODE": "07041331004",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "31",
+        "WARD_NAME": "LIULIU",
+        "LATITUDE": -5.837069,
+        "LONGITUDE": 143.310209,
+        "REGHH": 136,
+        "TOTPOP2000": 874,
+        "MALE2000": 462,
+        "FEMALE2000": 412,
+        "POP2008": 1215,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041331004,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20440,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3125510002285,
+          -5.833805000400389
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20440,
+        "CU_NAME": "JANOTE",
+        "CU_NO": "005",
+        "GEOCODE": "07041331005",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "31",
+        "WARD_NAME": "LIULIU",
+        "LATITUDE": -5.836227,
+        "LONGITUDE": 143.311902,
+        "REGHH": 60,
+        "TOTPOP2000": 577,
+        "MALE2000": 307,
+        "FEMALE2000": 270,
+        "POP2008": 801,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041331005,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20441,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.31803500041497,
+          -5.8387000004046286
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20441,
+        "CU_NAME": "PIANGOLI",
+        "CU_NO": "006",
+        "GEOCODE": "07041331006",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "31",
+        "WARD_NAME": "LIULIU",
+        "LATITUDE": -5.835666,
+        "LONGITUDE": 143.311902,
+        "REGHH": 84,
+        "TOTPOP2000": 541,
+        "MALE2000": 279,
+        "FEMALE2000": 262,
+        "POP2008": 753,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041331006,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

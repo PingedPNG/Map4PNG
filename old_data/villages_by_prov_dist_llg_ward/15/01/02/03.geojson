@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18358,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.97322200039503,
+          -3.6747899999584774
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18358,
+        "CU_NAME": "GILIAUTO",
+        "CU_NO": "003",
+        "GEOCODE": "15010203003",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "YIKLAU",
+        "LATITUDE": -3.672874,
+        "LONGITUDE": 141.96979,
+        "REGHH": 20,
+        "TOTPOP2000": 112,
+        "MALE2000": 62,
+        "FEMALE2000": 50,
+        "POP2008": 136,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010203003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18359,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.95889899998895,
+          -3.6964440002903416
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18359,
+        "CU_NAME": "WOKIEN",
+        "CU_NO": "012",
+        "GEOCODE": "15010203012",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "YIKLAU",
+        "LATITUDE": -3.697824,
+        "LONGITUDE": 141.957815,
+        "REGHH": 25,
+        "TOTPOP2000": 154,
+        "MALE2000": 88,
+        "FEMALE2000": 66,
+        "POP2008": 186,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010203012,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18360,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.92316000033384,
+          -3.6803880000061326
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18360,
+        "CU_NAME": "YIKLAU",
+        "CU_NO": "013",
+        "GEOCODE": "15010203013",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "YIKLAU",
+        "LATITUDE": -3.678344,
+        "LONGITUDE": 141.925477,
+        "REGHH": 71,
+        "TOTPOP2000": 430,
+        "MALE2000": 215,
+        "FEMALE2000": 215,
+        "POP2008": 520,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010203013,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

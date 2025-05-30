@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3548739996354,
+          -9.592195000299
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1236,
+        "CU_NAME": "BARAKAU",
+        "CU_NO": "001",
+        "GEOCODE": "03030708001",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "08",
+        "WARD_NAME": "BARAKAU",
+        "LATITUDE": -9.591866,
+        "LONGITUDE": 147.353485,
+        "REGHH": 147,
+        "TOTPOP2000": 1366,
+        "MALE2000": 723,
+        "FEMALE2000": 643,
+        "POP2008": 1638,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030708001,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1237,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3225750003361,
+          -9.491493999648299
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1237,
+        "CU_NAME": "KEREKADI",
+        "CU_NO": "005",
+        "GEOCODE": "03030708005",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "08",
+        "WARD_NAME": "BARAKAU",
+        "LATITUDE": -9.492945,
+        "LONGITUDE": 147.321548,
+        "REGHH": 14,
+        "TOTPOP2000": 116,
+        "MALE2000": 58,
+        "FEMALE2000": 58,
+        "POP2008": 140,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030708005,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1238,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.34993999963137,
+          -9.532093000391626
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1238,
+        "CU_NAME": "RABUKA",
+        "CU_NO": "006",
+        "GEOCODE": "03030708006",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "08",
+        "WARD_NAME": "BARAKAU",
+        "LATITUDE": -9.533544,
+        "LONGITUDE": 147.348913,
+        "REGHH": 22,
+        "TOTPOP2000": 116,
+        "MALE2000": 63,
+        "FEMALE2000": 53,
+        "POP2008": 140,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030708006,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19872,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8114879996715,
+          -6.413921999600575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19872,
+        "CU_NAME": "KIRA",
+        "CU_NO": "006",
+        "GEOCODE": "07030906006",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "06",
+        "WARD_NAME": "KIRA",
+        "LATITUDE": -6.416203,
+        "LONGITUDE": 143.813905,
+        "REGHH": 66,
+        "TOTPOP2000": 315,
+        "MALE2000": 166,
+        "FEMALE2000": 149,
+        "POP2008": 438,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030906006,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.80972400016253,
+          -6.412759999973957
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19873,
+        "CU_NAME": "SUIYAPU",
+        "CU_NO": "011",
+        "GEOCODE": "07030906011",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "06",
+        "WARD_NAME": "KIRA",
+        "LATITUDE": -6.416203,
+        "LONGITUDE": 143.813905,
+        "REGHH": 29,
+        "TOTPOP2000": 160,
+        "MALE2000": 82,
+        "FEMALE2000": 78,
+        "POP2008": 223,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030906011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19874,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.81146799964858,
+          -6.410211000237439
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19874,
+        "CU_NAME": "ALIYARI",
+        "CU_NO": "012",
+        "GEOCODE": "07030906012",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "06",
+        "WARD_NAME": "KIRA",
+        "LATITUDE": -6.416203,
+        "LONGITUDE": 143.813905,
+        "REGHH": 43,
+        "TOTPOP2000": 195,
+        "MALE2000": 105,
+        "FEMALE2000": 90,
+        "POP2008": 272,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030906012,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19875,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.81576600000096,
+          -6.410969000119223
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19875,
+        "CU_NAME": "NEKEALOMA",
+        "CU_NO": "013",
+        "GEOCODE": "07030906013",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "06",
+        "WARD_NAME": "KIRA",
+        "LATITUDE": -6.416203,
+        "LONGITUDE": 143.813905,
+        "REGHH": 14,
+        "TOTPOP2000": 75,
+        "MALE2000": 35,
+        "FEMALE2000": 40,
+        "POP2008": 104,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030906013,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19876,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.81439000039825,
+          -6.409219000356529
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19876,
+        "CU_NAME": "RAKERE",
+        "CU_NO": "014",
+        "GEOCODE": "07030906014",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "06",
+        "WARD_NAME": "KIRA",
+        "LATITUDE": -6.416203,
+        "LONGITUDE": 143.813905,
+        "REGHH": 14,
+        "TOTPOP2000": 72,
+        "MALE2000": 37,
+        "FEMALE2000": 35,
+        "POP2008": 100,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030906014,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

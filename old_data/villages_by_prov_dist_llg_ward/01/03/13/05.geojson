@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15632,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.74422900016827,
+          -8.673119000141696
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15632,
+        "CU_NAME": "MATA",
+        "CU_NO": "006",
+        "GEOCODE": "01031305006",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "05",
+        "WARD_NAME": "GARAITA",
+        "LATITUDE": -8.674546,
+        "LONGITUDE": 141.743133,
+        "REGHH": 38,
+        "TOTPOP2000": 177,
+        "MALE2000": 97,
+        "FEMALE2000": 80,
+        "POP2008": 229,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031305006,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15633,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.71596599993097,
+          -8.598084999622984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15633,
+        "CU_NAME": "GARAITA",
+        "CU_NO": "007",
+        "GEOCODE": "01031305007",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "05",
+        "WARD_NAME": "GARAITA",
+        "LATITUDE": -8.599511,
+        "LONGITUDE": 141.714869,
+        "REGHH": 76,
+        "TOTPOP2000": 427,
+        "MALE2000": 202,
+        "FEMALE2000": 225,
+        "POP2008": 555,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031305007,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15634,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.73467200011282,
+          -8.614943000019366
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15634,
+        "CU_NAME": "DARAVA",
+        "CU_NO": "017",
+        "GEOCODE": "01031305017",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "05",
+        "WARD_NAME": "GARAITA",
+        "LATITUDE": -8.61637,
+        "LONGITUDE": 141.733576,
+        "REGHH": 42,
+        "TOTPOP2000": 219,
+        "MALE2000": 107,
+        "FEMALE2000": 112,
+        "POP2008": 283,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031305017,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15635,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.67560000004005,
+          -8.695527000170898
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15635,
+        "CU_NAME": "KWAKE SETTLEMENT",
+        "CU_NO": "018",
+        "GEOCODE": "01031305018",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "05",
+        "WARD_NAME": "GARAITA",
+        "LATITUDE": -8.696954,
+        "LONGITUDE": 141.674503,
+        "REGHH": 4,
+        "TOTPOP2000": 28,
+        "MALE2000": 16,
+        "FEMALE2000": 12,
+        "POP2008": 36,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031305018,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

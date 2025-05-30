@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15575,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.33934900035615,
+          -8.687767000246822
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15575,
+        "CU_NAME": "DAWARE",
+        "CU_NO": "003",
+        "GEOCODE": "01031204003",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "04",
+        "WARD_NAME": "SUI",
+        "LATITUDE": -8.689199,
+        "LONGITUDE": 143.338272,
+        "REGHH": 26,
+        "TOTPOP2000": 165,
+        "MALE2000": 93,
+        "FEMALE2000": 72,
+        "POP2008": 214,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031204003,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15576,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.40244599988307,
+          -8.820559999644217
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15576,
+        "CU_NAME": "SUI",
+        "CU_NO": "013",
+        "GEOCODE": "01031204013",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "04",
+        "WARD_NAME": "SUI",
+        "LATITUDE": -8.811635,
+        "LONGITUDE": 143.404272,
+        "REGHH": 61,
+        "TOTPOP2000": 402,
+        "MALE2000": 219,
+        "FEMALE2000": 183,
+        "POP2008": 522,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031204013,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

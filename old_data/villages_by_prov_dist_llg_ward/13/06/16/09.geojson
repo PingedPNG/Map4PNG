@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9221,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5658310004004,
+          -5.820596000105297
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9221,
+        "CU_NAME": "ALIVETI",
+        "CU_NO": "001",
+        "GEOCODE": "13061609001",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "09",
+        "WARD_NAME": "ALIVETI",
+        "LATITUDE": -5.822005,
+        "LONGITUDE": 145.564789,
+        "REGHH": 13,
+        "TOTPOP2000": 74,
+        "MALE2000": 45,
+        "FEMALE2000": 29,
+        "POP2008": 90,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061609001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9222,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5363299997298,
+          -5.786760000073912
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9222,
+        "CU_NAME": "KORIGEI",
+        "CU_NO": "008",
+        "GEOCODE": "13061609008",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "09",
+        "WARD_NAME": "ALIVETI",
+        "LATITUDE": -5.788168,
+        "LONGITUDE": 145.535288,
+        "REGHH": 22,
+        "TOTPOP2000": 124,
+        "MALE2000": 66,
+        "FEMALE2000": 58,
+        "POP2008": 154,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061609008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.54582300043114,
+          -5.781505999702063
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9223,
+        "CU_NAME": "WAIMERIBA",
+        "CU_NO": "023",
+        "GEOCODE": "13061609023",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "09",
+        "WARD_NAME": "ALIVETI",
+        "LATITUDE": -5.780927,
+        "LONGITUDE": 145.544245,
+        "REGHH": 14,
+        "TOTPOP2000": 74,
+        "MALE2000": 35,
+        "FEMALE2000": 39,
+        "POP2008": 90,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061609023,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5765649998749,
+          -5.851140000310693
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9224,
+        "CU_NAME": "MARIA",
+        "CU_NO": "024",
+        "GEOCODE": "13061609024",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "09",
+        "WARD_NAME": "ALIVETI",
+        "LATITUDE": -5.852549,
+        "LONGITUDE": 145.575523,
+        "REGHH": 29,
+        "TOTPOP2000": 115,
+        "MALE2000": 61,
+        "FEMALE2000": 54,
+        "POP2008": 142,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061609024,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

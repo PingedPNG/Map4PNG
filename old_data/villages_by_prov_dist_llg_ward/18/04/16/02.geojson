@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.2064749999214,
+          -4.199517999855743
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5129,
+        "CU_NAME": "NODUP",
+        "CU_NO": "004",
+        "GEOCODE": "18041602004",
+        "PROV_KEY": "18",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "02",
+        "WARD_NAME": "NODUP",
+        "LATITUDE": -4.199055,
+        "LONGITUDE": 152.208318,
+        "REGHH": 35,
+        "TOTPOP2000": 180,
+        "MALE2000": 110,
+        "FEMALE2000": 70,
+        "POP2008": 219,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18041602004,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.21073100013564,
+          -4.205166000410543
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5130,
+        "CU_NAME": "NODUP GELAGELA SETT.",
+        "CU_NO": "501",
+        "GEOCODE": "18041602501",
+        "PROV_KEY": "18",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "02",
+        "WARD_NAME": "NODUP",
+        "LATITUDE": -4.199491,
+        "LONGITUDE": 152.208672,
+        "REGHH": 122,
+        "TOTPOP2000": 665,
+        "MALE2000": 335,
+        "FEMALE2000": 330,
+        "POP2008": 810,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18041602501,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

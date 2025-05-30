@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71699300012688,
+          -5.99524299966464
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21129,
+        "CU_NAME": "BIROP 3",
+        "CU_NO": "001",
+        "GEOCODE": "07062111001",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "21",
+        "WARD_NO": "11",
+        "WARD_NAME": "BIROP 3",
+        "LATITUDE": -5.999486,
+        "LONGITUDE": 143.717269,
+        "REGHH": 181,
+        "TOTPOP2000": 1025,
+        "MALE2000": 527,
+        "FEMALE2000": 498,
+        "POP2008": 1425,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7062111001,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

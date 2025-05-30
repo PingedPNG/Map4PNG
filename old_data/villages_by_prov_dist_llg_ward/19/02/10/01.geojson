@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18190,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.46502869551796,
+          -5.724659999759126
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18190,
+        "CU_NAME": "RU/MOPILI",
+        "CU_NO": "001",
+        "GEOCODE": "19021001001",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "GAMAPOLI",
+        "LATITUDE": -5.72812,
+        "LONGITUDE": 150.465,
+        "REGHH": 57,
+        "TOTPOP2000": 293,
+        "MALE2000": 177,
+        "FEMALE2000": 116,
+        "POP2008": 386,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19021001001,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18191,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.40616600006092,
+          -5.656385999814006
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18191,
+        "CU_NAME": "GALAI 02 SETTLEMENT",
+        "CU_NO": "504",
+        "GEOCODE": "19021001504",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "GAMAPOLI",
+        "LATITUDE": -5.6566,
+        "LONGITUDE": 150.406,
+        "REGHH": 143,
+        "TOTPOP2000": 866,
+        "MALE2000": 463,
+        "FEMALE2000": 403,
+        "POP2008": 1140,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19021001504,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18192,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4409739999502,
+          -5.6801339995843705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18192,
+        "CU_NAME": "MALALIMI (DIV. 1 & 2)",
+        "CU_NO": "518",
+        "GEOCODE": "19021001518",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "01",
+        "WARD_NAME": "GAMAPOLI",
+        "LATITUDE": -5.68155,
+        "LONGITUDE": 150.44,
+        "REGHH": 244,
+        "TOTPOP2000": 933,
+        "MALE2000": 571,
+        "FEMALE2000": 362,
+        "POP2008": 1229,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19021001518,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

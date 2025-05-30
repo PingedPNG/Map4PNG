@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18782,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.87321100008762,
+          -4.962033999969094
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18782,
+        "CU_NAME": "FUMENAVIP",
+        "CU_NO": "005",
+        "GEOCODE": "15031024005",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "24",
+        "WARD_NAME": "FUMENAVIP",
+        "LATITUDE": -4.963427,
+        "LONGITUDE": 141.872125,
+        "REGHH": 5,
+        "TOTPOP2000": 46,
+        "MALE2000": 25,
+        "FEMALE2000": 21,
+        "POP2008": 54,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031024005,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18783,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.9035630004322,
+          -4.9767509996588615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18783,
+        "CU_NAME": "TAVELDAN",
+        "CU_NO": "006",
+        "GEOCODE": "15031024006",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "24",
+        "WARD_NAME": "FUMENAVIP",
+        "LATITUDE": -4.974602,
+        "LONGITUDE": 141.906703,
+        "REGHH": 13,
+        "TOTPOP2000": 92,
+        "MALE2000": 52,
+        "FEMALE2000": 40,
+        "POP2008": 109,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031024006,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

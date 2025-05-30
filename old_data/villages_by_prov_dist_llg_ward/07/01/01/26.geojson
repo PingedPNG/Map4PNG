@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.01877800000477,
+          -6.352000000299711
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19185,
+        "CU_NAME": "MONDADA",
+        "CU_NO": "020",
+        "GEOCODE": "07010126020",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "26",
+        "WARD_NAME": "MONDADA",
+        "LATITUDE": -6.354066,
+        "LONGITUDE": 144.025008,
+        "REGHH": 39,
+        "TOTPOP2000": 239,
+        "MALE2000": 124,
+        "FEMALE2000": 115,
+        "POP2008": 331,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010126020,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19186,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0237960002853,
+          -6.347597999647917
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19186,
+        "CU_NAME": "LURANE",
+        "CU_NO": "021",
+        "GEOCODE": "07010126021",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "26",
+        "WARD_NAME": "MONDADA",
+        "LATITUDE": -6.354066,
+        "LONGITUDE": 144.025008,
+        "REGHH": 14,
+        "TOTPOP2000": 89,
+        "MALE2000": 44,
+        "FEMALE2000": 45,
+        "POP2008": 124,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010126021,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19187,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0245639997289,
+          -6.3497639997087845
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19187,
+        "CU_NAME": "YOMONOU",
+        "CU_NO": "022",
+        "GEOCODE": "07010126022",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "26",
+        "WARD_NAME": "MONDADA",
+        "LATITUDE": -6.354066,
+        "LONGITUDE": 144.025008,
+        "REGHH": 49,
+        "TOTPOP2000": 235,
+        "MALE2000": 109,
+        "FEMALE2000": 126,
+        "POP2008": 327,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010126022,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.01904699981924,
+          -6.349408000378844
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19188,
+        "CU_NAME": "POUKA",
+        "CU_NO": "023",
+        "GEOCODE": "07010126023",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "26",
+        "WARD_NAME": "MONDADA",
+        "LATITUDE": -6.354066,
+        "LONGITUDE": 144.025008,
+        "REGHH": 47,
+        "TOTPOP2000": 202,
+        "MALE2000": 95,
+        "FEMALE2000": 107,
+        "POP2008": 280,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010126023,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

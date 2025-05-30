@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30351,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6641446400631,
+          -7.019536859838183
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30351,
+        "CU_NAME": "BINAGORE",
+        "CU_NO": "002",
+        "GEOCODE": "11060914002",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "MALARI",
+        "LATITUDE": -7.019537,
+        "LONGITUDE": 145.664145,
+        "REGHH": 5,
+        "TOTPOP2000": 30,
+        "MALE2000": 14,
+        "FEMALE2000": 16,
+        "POP2008": 38,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30352,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.66500719962266,
+          -7.009546499871021
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30352,
+        "CU_NAME": "KOAMBILKA",
+        "CU_NO": "003",
+        "GEOCODE": "11060914003",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "MALARI",
+        "LATITUDE": -7.009547,
+        "LONGITUDE": 145.665007,
+        "REGHH": 12,
+        "TOTPOP2000": 61,
+        "MALE2000": 34,
+        "FEMALE2000": 27,
+        "POP2008": 69,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30353,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.66698612001346,
+          -7.014819959773263
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30353,
+        "CU_NAME": "DALAGARI",
+        "CU_NO": "004",
+        "GEOCODE": "11060914004",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "MALARI",
+        "LATITUDE": -7.01482,
+        "LONGITUDE": 145.666986,
+        "REGHH": 4,
+        "TOTPOP2000": 18,
+        "MALE2000": 8,
+        "FEMALE2000": 10,
+        "POP2008": 18,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30354,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.66109327993104,
+          -7.019435249936805
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30354,
+        "CU_NAME": "YANDE",
+        "CU_NO": "005",
+        "GEOCODE": "11060914005",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "MALARI",
+        "LATITUDE": -7.019435,
+        "LONGITUDE": 145.661093,
+        "REGHH": 12,
+        "TOTPOP2000": 47,
+        "MALE2000": 20,
+        "FEMALE2000": 27,
+        "POP2008": 55,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30355,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6655198401686,
+          -7.01748387038424
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30355,
+        "CU_NAME": "KALKWABINI",
+        "CU_NO": "006",
+        "GEOCODE": "11060914006",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "MALARI",
+        "LATITUDE": -7.017484,
+        "LONGITUDE": 145.66552,
+        "REGHH": 21,
+        "TOTPOP2000": 85,
+        "MALE2000": 44,
+        "FEMALE2000": 41,
+        "POP2008": 101,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30356,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.66906403957387,
+          -7.023621960085336
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30356,
+        "CU_NAME": "YAVANARI",
+        "CU_NO": "007",
+        "GEOCODE": "11060914007",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "MALARI",
+        "LATITUDE": -7.023622,
+        "LONGITUDE": 145.669064,
+        "REGHH": 3,
+        "TOTPOP2000": 19,
+        "MALE2000": 10,
+        "FEMALE2000": 9,
+        "POP2008": 19,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17091,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0939759999925,
+          -5.503510999732782
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17091,
+        "CU_NAME": "DALAPANA.1",
+        "CU_NO": "001",
+        "GEOCODE": "09050922001",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "22",
+        "WARD_NAME": "DALAPANA.1",
+        "LATITUDE": -5.504446,
+        "LONGITUDE": 144.094308,
+        "REGHH": 90,
+        "TOTPOP2000": 367,
+        "MALE2000": 171,
+        "FEMALE2000": 196,
+        "POP2008": 447,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050922001,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

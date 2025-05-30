@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10770,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.54173100018556,
+          -6.4227839999815615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10770,
+        "CU_NAME": "AFONG",
+        "CU_NO": "001",
+        "GEOCODE": "12020624001",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "24",
+        "WARD_NAME": "HOMONENG",
+        "LATITUDE": -6.424203,
+        "LONGITUDE": 147.540715,
+        "REGHH": 16,
+        "TOTPOP2000": 76,
+        "MALE2000": 36,
+        "FEMALE2000": 40,
+        "POP2008": 93,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020624001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10771,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.55889800044247,
+          -6.416831999796898
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10771,
+        "CU_NAME": "SILEMANA",
+        "CU_NO": "025",
+        "GEOCODE": "12020624025",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "24",
+        "WARD_NAME": "HOMONENG",
+        "LATITUDE": -6.422281,
+        "LONGITUDE": 147.554867,
+        "REGHH": 41,
+        "TOTPOP2000": 232,
+        "MALE2000": 112,
+        "FEMALE2000": 120,
+        "POP2008": 289,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020624025,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10772,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.55156999975577,
+          -6.420452000359489
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10772,
+        "CU_NAME": "JOAGGENG C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "12020624401",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "24",
+        "WARD_NAME": "HOMONENG",
+        "LATITUDE": -6.421871,
+        "LONGITUDE": 147.550554,
+        "REGHH": 4,
+        "TOTPOP2000": 22,
+        "MALE2000": 10,
+        "FEMALE2000": 12,
+        "POP2008": 30,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020624401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20362,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3411560000494,
+          -5.926165000414414
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20362,
+        "CU_NAME": "UGU",
+        "CU_NO": "017",
+        "GEOCODE": "07041316017",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "16",
+        "WARD_NAME": "UGU 1",
+        "LATITUDE": -5.930716,
+        "LONGITUDE": 143.340742,
+        "REGHH": 7,
+        "TOTPOP2000": 55,
+        "MALE2000": 15,
+        "FEMALE2000": 40,
+        "POP2008": 76,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041316017,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20363,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.33744299969476,
+          -5.929122000080213
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20363,
+        "CU_NAME": "MANDIYA",
+        "CU_NO": "018",
+        "GEOCODE": "07041316018",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "16",
+        "WARD_NAME": "UGU 1",
+        "LATITUDE": -5.930716,
+        "LONGITUDE": 143.340742,
+        "REGHH": 15,
+        "TOTPOP2000": 101,
+        "MALE2000": 62,
+        "FEMALE2000": 39,
+        "POP2008": 140,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041316018,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20364,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.34106300025735,
+          -5.922816999804638
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20364,
+        "CU_NAME": "MALIA",
+        "CU_NO": "019",
+        "GEOCODE": "07041316019",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "16",
+        "WARD_NAME": "UGU 1",
+        "LATITUDE": -5.930716,
+        "LONGITUDE": 143.340742,
+        "REGHH": 28,
+        "TOTPOP2000": 162,
+        "MALE2000": 88,
+        "FEMALE2000": 74,
+        "POP2008": 225,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041316019,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20365,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.33398899959275,
+          -5.926905000365423
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20365,
+        "CU_NAME": "UPIYA",
+        "CU_NO": "020",
+        "GEOCODE": "07041316020",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "16",
+        "WARD_NAME": "UGU 1",
+        "LATITUDE": -5.930716,
+        "LONGITUDE": 143.340742,
+        "REGHH": 19,
+        "TOTPOP2000": 94,
+        "MALE2000": 47,
+        "FEMALE2000": 47,
+        "POP2008": 130,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041316020,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20366,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3382300000145,
+          -5.923641000032092
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20366,
+        "CU_NAME": "MANGOPA",
+        "CU_NO": "021",
+        "GEOCODE": "07041316021",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "16",
+        "WARD_NAME": "UGU 1",
+        "LATITUDE": -5.930716,
+        "LONGITUDE": 143.340742,
+        "REGHH": 24,
+        "TOTPOP2000": 208,
+        "MALE2000": 110,
+        "FEMALE2000": 98,
+        "POP2008": 289,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041316021,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

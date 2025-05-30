@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9537,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.19970799982445,
+          -2.209870000100352
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9537,
+        "CU_NAME": "NAUNA",
+        "CU_NO": "009",
+        "GEOCODE": "16011204009",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "12",
+        "WARD_NO": "04",
+        "WARD_NAME": "NAUNA",
+        "LATITUDE": -2.211239,
+        "LONGITUDE": 148.198706,
+        "REGHH": 62,
+        "TOTPOP2000": 360,
+        "MALE2000": 195,
+        "FEMALE2000": 165,
+        "POP2008": 442,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16011204009,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9462,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.36725200027968,
+          -2.0402199998530364
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9462,
+        "CU_NAME": "LOMBRUM",
+        "CU_NO": "001",
+        "GEOCODE": "16010781001",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "07",
+        "WARD_NO": "81",
+        "WARD_NAME": "LOMBRUM N.BASE",
+        "LATITUDE": -2.042096,
+        "LONGITUDE": 147.366577,
+        "REGHH": 27,
+        "TOTPOP2000": 151,
+        "MALE2000": 89,
+        "FEMALE2000": 62,
+        "POP2008": 185,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010781001,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9463,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3665490002362,
+          -2.042873999935125
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9463,
+        "CU_NAME": "LOMBRUM",
+        "CU_NO": "002",
+        "GEOCODE": "16010781002",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "07",
+        "WARD_NO": "81",
+        "WARD_NAME": "LOMBRUM N.BASE",
+        "LATITUDE": -2.04424,
+        "LONGITUDE": 147.365536,
+        "REGHH": 49,
+        "TOTPOP2000": 266,
+        "MALE2000": 154,
+        "FEMALE2000": 112,
+        "POP2008": 326,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010781002,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9464,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.36510100001124,
+          -2.0443200000678985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9464,
+        "CU_NAME": "UPPER/LOWER PARADISE",
+        "CU_NO": "003",
+        "GEOCODE": "16010781003",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "07",
+        "WARD_NO": "81",
+        "WARD_NAME": "LOMBRUM N.BASE",
+        "LATITUDE": -2.045686,
+        "LONGITUDE": 147.364088,
+        "REGHH": 62,
+        "TOTPOP2000": 418,
+        "MALE2000": 225,
+        "FEMALE2000": 193,
+        "POP2008": 513,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010781003,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9465,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3638360001314,
+          -2.04594699955436
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9465,
+        "CU_NAME": "PARADISE NATIVE VILL.",
+        "CU_NO": "006",
+        "GEOCODE": "16010781006",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "07",
+        "WARD_NO": "81",
+        "WARD_NAME": "LOMBRUM N.BASE",
+        "LATITUDE": -2.047313,
+        "LONGITUDE": 147.362823,
+        "REGHH": 57,
+        "TOTPOP2000": 316,
+        "MALE2000": 183,
+        "FEMALE2000": 133,
+        "POP2008": 388,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010781006,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9466,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.36772300041616,
+          -2.0459919998309033
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9466,
+        "CU_NAME": "NATIVE VILLAGE",
+        "CU_NO": "007",
+        "GEOCODE": "16010781007",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "07",
+        "WARD_NO": "81",
+        "WARD_NAME": "LOMBRUM N.BASE",
+        "LATITUDE": -2.047358,
+        "LONGITUDE": 147.36671,
+        "REGHH": 37,
+        "TOTPOP2000": 187,
+        "MALE2000": 102,
+        "FEMALE2000": 85,
+        "POP2008": 230,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010781007,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

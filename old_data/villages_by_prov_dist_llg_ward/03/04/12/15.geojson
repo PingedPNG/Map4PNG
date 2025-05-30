@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1675,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.72433099957607,
+          -10.090332999768066
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1675,
+        "CU_NAME": "ALEWAI",
+        "CU_NO": "002",
+        "GEOCODE": "03041215002",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "15",
+        "WARD_NAME": "IRUPARA",
+        "LATITUDE": -10.087747,
+        "LONGITUDE": 147.723299,
+        "REGHH": 21,
+        "TOTPOP2000": 184,
+        "MALE2000": 99,
+        "FEMALE2000": 85,
+        "POP2008": 221,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041215002,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1676,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.71895599991956,
+          -10.07729200002575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1676,
+        "CU_NAME": "IRUPARA",
+        "CU_NO": "042",
+        "GEOCODE": "03041215042",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "15",
+        "WARD_NAME": "IRUPARA",
+        "LATITUDE": -10.078749,
+        "LONGITUDE": 147.717933,
+        "REGHH": 73,
+        "TOTPOP2000": 418,
+        "MALE2000": 219,
+        "FEMALE2000": 199,
+        "POP2008": 502,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041215042,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

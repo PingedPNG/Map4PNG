@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20838,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.80978000024686,
+          -5.815798000077621
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20838,
+        "CU_NAME": "HOMA",
+        "CU_NO": "001",
+        "GEOCODE": "07051701001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "01",
+        "WARD_NAME": "MAGARA 1",
+        "LATITUDE": -5.820041,
+        "LONGITUDE": 142.810041,
+        "REGHH": 50,
+        "TOTPOP2000": 372,
+        "MALE2000": 177,
+        "FEMALE2000": 195,
+        "POP2008": 517,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051701001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20839,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.81796399993868,
+          -5.812118000345379
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20839,
+        "CU_NAME": "PELA",
+        "CU_NO": "002",
+        "GEOCODE": "07051701002",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "01",
+        "WARD_NAME": "MAGARA 1",
+        "LATITUDE": -5.820041,
+        "LONGITUDE": 142.810041,
+        "REGHH": 40,
+        "TOTPOP2000": 242,
+        "MALE2000": 116,
+        "FEMALE2000": 126,
+        "POP2008": 338,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051701002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20840,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.80247899990593,
+          -5.811255000118138
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20840,
+        "CU_NAME": "MINIPA",
+        "CU_NO": "003",
+        "GEOCODE": "07051701003",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "01",
+        "WARD_NAME": "MAGARA 1",
+        "LATITUDE": -5.820041,
+        "LONGITUDE": 142.810041,
+        "REGHH": 13,
+        "TOTPOP2000": 65,
+        "MALE2000": 29,
+        "FEMALE2000": 36,
+        "POP2008": 90,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051701003,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20841,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.81248499998287,
+          -5.807570000155351
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20841,
+        "CU_NAME": "TAGABUA",
+        "CU_NO": "004",
+        "GEOCODE": "07051701004",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "01",
+        "WARD_NAME": "MAGARA 1",
+        "LATITUDE": -5.820041,
+        "LONGITUDE": 142.810041,
+        "REGHH": 39,
+        "TOTPOP2000": 255,
+        "MALE2000": 121,
+        "FEMALE2000": 134,
+        "POP2008": 355,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051701004,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

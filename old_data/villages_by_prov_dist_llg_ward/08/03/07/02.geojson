@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5642,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.23693799998875,
+          -5.332158000091567
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5642,
+        "CU_NAME": "WALYA",
+        "CU_NO": "007",
+        "GEOCODE": "08030702007",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "WALYA",
+        "LATITUDE": -5.329027,
+        "LONGITUDE": 143.235851,
+        "REGHH": 121,
+        "TOTPOP2000": 850,
+        "MALE2000": 436,
+        "FEMALE2000": 414,
+        "POP2008": 1068,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030702007,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

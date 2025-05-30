@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12077,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.17249699973684,
+          -6.678595000358939
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12077,
+        "CU_NAME": "ALUKI",
+        "CU_NO": "001",
+        "GEOCODE": "12082311001",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "23",
+        "WARD_NO": "11",
+        "WARD_NAME": "APO",
+        "LATITUDE": -6.680016,
+        "LONGITUDE": 147.171475,
+        "REGHH": 55,
+        "TOTPOP2000": 249,
+        "MALE2000": 127,
+        "FEMALE2000": 122,
+        "POP2008": 310,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082311001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12078,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.14720699990323,
+          -6.692415000052165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12078,
+        "CU_NAME": "APO",
+        "CU_NO": "002",
+        "GEOCODE": "12082311002",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "23",
+        "WARD_NO": "11",
+        "WARD_NAME": "APO",
+        "LATITUDE": -6.694339,
+        "LONGITUDE": 147.147443,
+        "REGHH": 67,
+        "TOTPOP2000": 358,
+        "MALE2000": 179,
+        "FEMALE2000": 179,
+        "POP2008": 447,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082311002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12079,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.13711700044928,
+          -6.691736000216167
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12079,
+        "CU_NAME": "SINGAUA C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "12082311401",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "23",
+        "WARD_NO": "11",
+        "WARD_NAME": "APO",
+        "LATITUDE": -6.693157,
+        "LONGITUDE": 147.136095,
+        "REGHH": 2,
+        "TOTPOP2000": 8,
+        "MALE2000": 4,
+        "FEMALE2000": 4,
+        "POP2008": 8,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082311401,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12080,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.12831099995276,
+          -6.7050920000957035
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12080,
+        "CU_NAME": "SINGAUA PLNT",
+        "CU_NO": "501",
+        "GEOCODE": "12082311501",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "23",
+        "WARD_NO": "11",
+        "WARD_NAME": "APO",
+        "LATITUDE": -6.706513,
+        "LONGITUDE": 147.127288,
+        "REGHH": 15,
+        "TOTPOP2000": 70,
+        "MALE2000": 46,
+        "FEMALE2000": 24,
+        "POP2008": 86,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082311501,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8021,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.79532100036397,
+          -4.351567999663416
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8021,
+        "CU_NAME": "ADUI",
+        "CU_NO": "003",
+        "GEOCODE": "13010323003",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "DINAM ADUI",
+        "LATITUDE": -4.352959,
+        "LONGITUDE": 144.794272,
+        "REGHH": 58,
+        "TOTPOP2000": 261,
+        "MALE2000": 140,
+        "FEMALE2000": 121,
+        "POP2008": 322,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010323003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8022,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8053559999795,
+          -4.340453999752242
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8022,
+        "CU_NAME": "DINAM",
+        "CU_NO": "013",
+        "GEOCODE": "13010323013",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "DINAM ADUI",
+        "LATITUDE": -4.342257,
+        "LONGITUDE": 144.802918,
+        "REGHH": 27,
+        "TOTPOP2000": 186,
+        "MALE2000": 97,
+        "FEMALE2000": 89,
+        "POP2008": 230,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010323013,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8023,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.80304999975772,
+          -4.34557600033213
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8023,
+        "CU_NAME": "WAREKAM",
+        "CU_NO": "034",
+        "GEOCODE": "13010323034",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "DINAM ADUI",
+        "LATITUDE": -4.346967,
+        "LONGITUDE": 144.802001,
+        "REGHH": 66,
+        "TOTPOP2000": 308,
+        "MALE2000": 160,
+        "FEMALE2000": 148,
+        "POP2008": 382,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010323034,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8024,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8067850002276,
+          -4.3431140001109725
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8024,
+        "CU_NAME": "KUM",
+        "CU_NO": "035",
+        "GEOCODE": "13010323035",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "DINAM ADUI",
+        "LATITUDE": -4.344505,
+        "LONGITUDE": 144.805736,
+        "REGHH": 61,
+        "TOTPOP2000": 288,
+        "MALE2000": 147,
+        "FEMALE2000": 141,
+        "POP2008": 356,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010323035,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8025,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.80097700038834,
+          -4.340782999635678
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8025,
+        "CU_NAME": "DINAM C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "13010323401",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "23",
+        "WARD_NAME": "DINAM ADUI",
+        "LATITUDE": -4.342183,
+        "LONGITUDE": 144.803152,
+        "REGHH": 2,
+        "TOTPOP2000": 11,
+        "MALE2000": 6,
+        "FEMALE2000": 5,
+        "POP2008": 11,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010323401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

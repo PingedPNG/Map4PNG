@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9514,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9816339997094,
+          -2.2279789997310218
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9514,
+        "CU_NAME": "CHEKAL",
+        "CU_NO": "001",
+        "GEOCODE": "16011008001",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "JEKAL",
+        "LATITUDE": -2.190865,
+        "LONGITUDE": 147.010509,
+        "REGHH": 31,
+        "TOTPOP2000": 194,
+        "MALE2000": 93,
+        "FEMALE2000": 101,
+        "POP2008": 238,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16011008001,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

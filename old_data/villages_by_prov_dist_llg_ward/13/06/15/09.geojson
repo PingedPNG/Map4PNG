@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9160,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.10023499974545,
+          -5.6329160002731555
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9160,
+        "CU_NAME": "BAUI",
+        "CU_NO": "002",
+        "GEOCODE": "13061509002",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD 9",
+        "LATITUDE": -5.634322,
+        "LONGITUDE": 145.099188,
+        "REGHH": 8,
+        "TOTPOP2000": 39,
+        "MALE2000": 26,
+        "FEMALE2000": 13,
+        "POP2008": 47,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061509002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9161,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.08484699968938,
+          -5.6362979997528555
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9161,
+        "CU_NAME": "MARUM",
+        "CU_NO": "019",
+        "GEOCODE": "13061509019",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "09",
+        "WARD_NAME": "WARD 9",
+        "LATITUDE": -5.637704,
+        "LONGITUDE": 145.083799,
+        "REGHH": 49,
+        "TOTPOP2000": 278,
+        "MALE2000": 149,
+        "FEMALE2000": 129,
+        "POP2008": 345,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061509019,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

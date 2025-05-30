@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18414,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.22722800027202,
+          -3.1232870000949333
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18414,
+        "CU_NAME": "AINDRIN",
+        "CU_NO": "001",
+        "GEOCODE": "15010309001",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "TANYAPIN",
+        "LATITUDE": -3.124662,
+        "LONGITUDE": 142.226148,
+        "REGHH": 106,
+        "TOTPOP2000": 750,
+        "MALE2000": 384,
+        "FEMALE2000": 366,
+        "POP2008": 906,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010309001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18415,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.21558999957892,
+          -3.1214709999866272
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18415,
+        "CU_NAME": "TANYAPIN",
+        "CU_NO": "029",
+        "GEOCODE": "15010309029",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "TANYAPIN",
+        "LATITUDE": -3.122646,
+        "LONGITUDE": 142.215831,
+        "REGHH": 57,
+        "TOTPOP2000": 380,
+        "MALE2000": 186,
+        "FEMALE2000": 194,
+        "POP2008": 460,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010309029,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

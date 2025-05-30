@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6052,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.93165599982456,
+          -4.108508000044139
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6052,
+        "CU_NAME": "AVATIP",
+        "CU_NO": "001",
+        "GEOCODE": "14010129001",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "29",
+        "WARD_NAME": "AVATIP",
+        "LATITUDE": -4.116231,
+        "LONGITUDE": 142.924329,
+        "REGHH": 219,
+        "TOTPOP2000": 956,
+        "MALE2000": 468,
+        "FEMALE2000": 488,
+        "POP2008": 1136,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010129001,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

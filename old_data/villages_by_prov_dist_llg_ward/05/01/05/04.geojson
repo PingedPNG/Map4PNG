@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9706,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.41405000030738,
+          -10.29904399998054
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9706,
+        "CU_NAME": "RABE",
+        "CU_NO": "012",
+        "GEOCODE": "05010504012",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "RABE",
+        "LATITUDE": -10.300512,
+        "LONGITUDE": 150.413065,
+        "REGHH": 131,
+        "TOTPOP2000": 727,
+        "MALE2000": 365,
+        "FEMALE2000": 362,
+        "POP2008": 887,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010504012,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9707,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.41405000030738,
+          -10.29904399998054
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9707,
+        "CU_NAME": "RABE P/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "05010504401",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "RABE",
+        "LATITUDE": -10.300512,
+        "LONGITUDE": 150.413065,
+        "REGHH": 5,
+        "TOTPOP2000": 31,
+        "MALE2000": 13,
+        "FEMALE2000": 18,
+        "POP2008": 39,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010504401,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9708,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4160340000691,
+          -10.302070000130357
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9708,
+        "CU_NAME": "NAWAE CAMP",
+        "CU_NO": "402",
+        "GEOCODE": "05010504402",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "RABE",
+        "LATITUDE": -10.303538,
+        "LONGITUDE": 150.415049,
+        "REGHH": 12,
+        "TOTPOP2000": 78,
+        "MALE2000": 46,
+        "FEMALE2000": 32,
+        "POP2008": 94,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010504402,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9709,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.40191500007722,
+          -10.296988999642565
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9709,
+        "CU_NAME": "DIWILA SIL",
+        "CU_NO": "403",
+        "GEOCODE": "05010504403",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "04",
+        "WARD_NAME": "RABE",
+        "LATITUDE": -10.298457,
+        "LONGITUDE": 150.40093,
+        "REGHH": 2,
+        "TOTPOP2000": 6,
+        "MALE2000": 4,
+        "FEMALE2000": 2,
+        "POP2008": 6,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010504403,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17030,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.20273700001258,
+          -5.7585309996059095
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17030,
+        "CU_NAME": "MINIMP",
+        "CU_NO": "037",
+        "GEOCODE": "09050826037",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "26",
+        "WARD_NAME": "MINIMP",
+        "LATITUDE": -5.759467,
+        "LONGITUDE": 144.20307,
+        "REGHH": 101,
+        "TOTPOP2000": 391,
+        "MALE2000": 184,
+        "FEMALE2000": 207,
+        "POP2008": 477,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050826037,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

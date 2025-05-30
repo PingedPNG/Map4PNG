@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.38897599994255,
+          -5.807980000176826
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15869,
+        "CU_NAME": "AVI  1",
+        "CU_NO": "001",
+        "GEOCODE": "09010124001",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "24",
+        "WARD_NAME": "AVI  1",
+        "LATITUDE": -5.808456,
+        "LONGITUDE": 144.388969,
+        "REGHH": 100,
+        "TOTPOP2000": 582,
+        "MALE2000": 301,
+        "FEMALE2000": 281,
+        "POP2008": 709,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010124001,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15870,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.38760000033983,
+          -5.807744000085506
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15870,
+        "CU_NAME": "OBEN ROAD",
+        "CU_NO": "002",
+        "GEOCODE": "09010124002",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "24",
+        "WARD_NAME": "AVI  1",
+        "LATITUDE": -5.808456,
+        "LONGITUDE": 144.388969,
+        "REGHH": 47,
+        "TOTPOP2000": 217,
+        "MALE2000": 109,
+        "FEMALE2000": 108,
+        "POP2008": 264,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010124002,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15871,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3898780001697,
+          -5.80650100032085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15871,
+        "CU_NAME": "AVI C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "09010124401",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "24",
+        "WARD_NAME": "AVI  1",
+        "LATITUDE": -5.807438,
+        "LONGITUDE": 144.390213,
+        "REGHH": 54,
+        "TOTPOP2000": 309,
+        "MALE2000": 167,
+        "FEMALE2000": 142,
+        "POP2008": 377,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010124401,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

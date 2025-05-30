@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7798,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5884459995833,
+          -7.261073999665314
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7798,
+        "CU_NAME": "KOMAIO",
+        "CU_NO": "003",
+        "GEOCODE": "02021003003",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "KOMAIO",
+        "LATITUDE": -7.270442,
+        "LONGITUDE": 143.597166,
+        "REGHH": 34,
+        "TOTPOP2000": 202,
+        "MALE2000": 106,
+        "FEMALE2000": 96,
+        "POP2008": 248,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021003003,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7799,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.51278891187883,
+          -7.15969921074992
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7799,
+        "CU_NAME": "FAIA",
+        "CU_NO": "007",
+        "GEOCODE": "02021003007",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "KOMAIO",
+        "LATITUDE": -7.158287,
+        "LONGITUDE": 143.51183,
+        "REGHH": 11,
+        "TOTPOP2000": 80,
+        "MALE2000": 44,
+        "FEMALE2000": 36,
+        "POP2008": 96,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021003007,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7800,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.61304099974245,
+          -7.2939769998386055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7800,
+        "CU_NAME": "SARAGI",
+        "CU_NO": "009",
+        "GEOCODE": "02021003009",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "KOMAIO",
+        "LATITUDE": -7.292816,
+        "LONGITUDE": 143.612336,
+        "REGHH": 4,
+        "TOTPOP2000": 14,
+        "MALE2000": 8,
+        "FEMALE2000": 6,
+        "POP2008": 14,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021003009,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7801,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63186499996982,
+          -7.293433999979072
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7801,
+        "CU_NAME": "SOROBO",
+        "CU_NO": "011",
+        "GEOCODE": "02021003011",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "03",
+        "WARD_NAME": "KOMAIO",
+        "LATITUDE": -7.29314,
+        "LONGITUDE": 143.632016,
+        "REGHH": 10,
+        "TOTPOP2000": 54,
+        "MALE2000": 29,
+        "FEMALE2000": 25,
+        "POP2008": 66,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021003011,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

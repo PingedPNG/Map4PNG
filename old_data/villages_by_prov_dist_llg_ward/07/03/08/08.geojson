@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19792,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.00181300007,
+          -6.635367999833306
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19792,
+        "CU_NAME": "TIAPILI",
+        "CU_NO": "001",
+        "GEOCODE": "07030808001",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "TIAPILI",
+        "LATITUDE": -6.641752,
+        "LONGITUDE": 144.004663,
+        "REGHH": 46,
+        "TOTPOP2000": 200,
+        "MALE2000": 95,
+        "FEMALE2000": 105,
+        "POP2008": 277,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030808001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19793,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.00826599997595,
+          -6.636270000060392
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19793,
+        "CU_NAME": "WALU",
+        "CU_NO": "002",
+        "GEOCODE": "07030808002",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "TIAPILI",
+        "LATITUDE": -6.641752,
+        "LONGITUDE": 144.004663,
+        "REGHH": 23,
+        "TOTPOP2000": 130,
+        "MALE2000": 63,
+        "FEMALE2000": 67,
+        "POP2008": 180,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030808002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19794,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.00331500008724,
+          -6.639393000186772
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19794,
+        "CU_NAME": "KIRI",
+        "CU_NO": "003",
+        "GEOCODE": "07030808003",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "TIAPILI",
+        "LATITUDE": -6.641752,
+        "LONGITUDE": 144.004663,
+        "REGHH": 7,
+        "TOTPOP2000": 36,
+        "MALE2000": 15,
+        "FEMALE2000": 21,
+        "POP2008": 52,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030808003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19795,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0067399997513,
+          -6.633917000369252
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19795,
+        "CU_NAME": "KAMBALEME",
+        "CU_NO": "004",
+        "GEOCODE": "07030808004",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "TIAPILI",
+        "LATITUDE": -6.641752,
+        "LONGITUDE": 144.004663,
+        "REGHH": 3,
+        "TOTPOP2000": 18,
+        "MALE2000": 9,
+        "FEMALE2000": 9,
+        "POP2008": 26,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030808004,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

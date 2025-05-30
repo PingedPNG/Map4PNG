@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13246,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.35585499970853,
+          -9.054445999783013
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13246,
+        "CU_NAME": "KWENO",
+        "CU_NO": "017",
+        "GEOCODE": "06010306017",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "KOWENA",
+        "LATITUDE": -9.055895,
+        "LONGITUDE": 148.354844,
+        "REGHH": 91,
+        "TOTPOP2000": 567,
+        "MALE2000": 303,
+        "FEMALE2000": 264,
+        "POP2008": 701,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010306017,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13247,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.36610300015343,
+          -9.073340999687332
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13247,
+        "CU_NAME": "SILA",
+        "CU_NO": "024",
+        "GEOCODE": "06010306024",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "KOWENA",
+        "LATITUDE": -9.0722,
+        "LONGITUDE": 148.367678,
+        "REGHH": 33,
+        "TOTPOP2000": 181,
+        "MALE2000": 87,
+        "FEMALE2000": 94,
+        "POP2008": 224,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010306024,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13248,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3597700003853,
+          -9.026770999681844
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13248,
+        "CU_NAME": "YUMARA",
+        "CU_NO": "025",
+        "GEOCODE": "06010306025",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "KOWENA",
+        "LATITUDE": -9.02163,
+        "LONGITUDE": 148.323252,
+        "REGHH": 3,
+        "TOTPOP2000": 16,
+        "MALE2000": 11,
+        "FEMALE2000": 5,
+        "POP2008": 16,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010306025,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13249,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.37637800004472,
+          -9.07056300018229
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13249,
+        "CU_NAME": "SAKARINA MISS. STATION",
+        "CU_NO": "404",
+        "GEOCODE": "06010306404",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "KOWENA",
+        "LATITUDE": -9.068803,
+        "LONGITUDE": 148.370811,
+        "REGHH": 9,
+        "TOTPOP2000": 48,
+        "MALE2000": 22,
+        "FEMALE2000": 26,
+        "POP2008": 56,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010306404,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

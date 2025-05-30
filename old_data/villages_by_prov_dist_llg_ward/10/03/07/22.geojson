@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6372800003718,
+          -6.628681999974276
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14258,
+        "CU_NAME": "DOBU",
+        "CU_NO": "006",
+        "GEOCODE": "10030722006",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "22",
+        "WARD_NAME": "DOBEA",
+        "LATITUDE": -6.630097,
+        "LONGITUDE": 144.636225,
+        "REGHH": 26,
+        "TOTPOP2000": 149,
+        "MALE2000": 77,
+        "FEMALE2000": 72,
+        "POP2008": 173,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030722006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.72509100014963,
+          -6.508415999998363
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14259,
+        "CU_NAME": "BUNUBIRI",
+        "CU_NO": "007",
+        "GEOCODE": "10030722007",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "22",
+        "WARD_NAME": "DOBEA",
+        "LATITUDE": -6.50983,
+        "LONGITUDE": 144.724037,
+        "REGHH": 23,
+        "TOTPOP2000": 119,
+        "MALE2000": 60,
+        "FEMALE2000": 59,
+        "POP2008": 135,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030722007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.61064100038197,
+          -6.6234669996023285
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14260,
+        "CU_NAME": "GOMIA",
+        "CU_NO": "008",
+        "GEOCODE": "10030722008",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "22",
+        "WARD_NAME": "DOBEA",
+        "LATITUDE": -6.623023,
+        "LONGITUDE": 144.616211,
+        "REGHH": 24,
+        "TOTPOP2000": 161,
+        "MALE2000": 74,
+        "FEMALE2000": 87,
+        "POP2008": 185,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030722008,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

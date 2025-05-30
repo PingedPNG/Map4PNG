@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17561,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9918880001312,
+          -5.936949000395998
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17561,
+        "CU_NAME": "ANDOMANDA",
+        "CU_NO": "015",
+        "GEOCODE": "09071244015",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "44",
+        "WARD_NAME": "KIRIPIA.1",
+        "LATITUDE": -5.937889,
+        "LONGITUDE": 143.992219,
+        "REGHH": 42,
+        "TOTPOP2000": 161,
+        "MALE2000": 68,
+        "FEMALE2000": 93,
+        "POP2008": 196,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071244015,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17562,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.990245999953,
+          -5.942183999891654
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17562,
+        "CU_NAME": "KILIWAKUL",
+        "CU_NO": "016",
+        "GEOCODE": "09071244016",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "44",
+        "WARD_NAME": "KIRIPIA.1",
+        "LATITUDE": -5.943124,
+        "LONGITUDE": 143.990577,
+        "REGHH": 55,
+        "TOTPOP2000": 249,
+        "MALE2000": 115,
+        "FEMALE2000": 134,
+        "POP2008": 303,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071244016,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17563,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.98842000028287,
+          -5.934473999575346
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17563,
+        "CU_NAME": "MOKA",
+        "CU_NO": "017",
+        "GEOCODE": "09071244017",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "44",
+        "WARD_NAME": "KIRIPIA.1",
+        "LATITUDE": -5.935414,
+        "LONGITUDE": 143.988751,
+        "REGHH": 40,
+        "TOTPOP2000": 176,
+        "MALE2000": 82,
+        "FEMALE2000": 94,
+        "POP2008": 214,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071244017,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

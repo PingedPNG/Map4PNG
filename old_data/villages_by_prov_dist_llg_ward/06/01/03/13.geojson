@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13275,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.27346900009434,
+          -9.16483200009668
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13275,
+        "CU_NAME": "KOKORO",
+        "CU_NO": "014",
+        "GEOCODE": "06010313014",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "13",
+        "WARD_NAME": "KOKORO",
+        "LATITUDE": -9.166282,
+        "LONGITUDE": 148.272456,
+        "REGHH": 26,
+        "TOTPOP2000": 130,
+        "MALE2000": 75,
+        "FEMALE2000": 55,
+        "POP2008": 162,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010313014,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13276,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.26188700018497,
+          -9.193773000123826
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13276,
+        "CU_NAME": "KUAI",
+        "CU_NO": "016",
+        "GEOCODE": "06010313016",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "13",
+        "WARD_NAME": "KOKORO",
+        "LATITUDE": -9.195223,
+        "LONGITUDE": 148.260874,
+        "REGHH": 24,
+        "TOTPOP2000": 147,
+        "MALE2000": 82,
+        "FEMALE2000": 65,
+        "POP2008": 182,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010313016,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2788200004427,
+          -9.151511000032599
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13277,
+        "CU_NAME": "SEREPUNA",
+        "CU_NO": "047",
+        "GEOCODE": "06010313047",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "13",
+        "WARD_NAME": "KOKORO",
+        "LATITUDE": -9.155557,
+        "LONGITUDE": 148.273272,
+        "REGHH": 21,
+        "TOTPOP2000": 134,
+        "MALE2000": 70,
+        "FEMALE2000": 64,
+        "POP2008": 166,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010313047,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13278,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.23160999970185,
+          -9.210168999899395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13278,
+        "CU_NAME": "NIZUI",
+        "CU_NO": "048",
+        "GEOCODE": "06010313048",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "13",
+        "WARD_NAME": "KOKORO",
+        "LATITUDE": -9.19774,
+        "LONGITUDE": 148.224357,
+        "REGHH": 7,
+        "TOTPOP2000": 28,
+        "MALE2000": 16,
+        "FEMALE2000": 12,
+        "POP2008": 36,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010313048,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13279,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2321039999997,
+          -9.202686000158735
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13279,
+        "CU_NAME": "NIBAEBA",
+        "CU_NO": "049",
+        "GEOCODE": "06010313049",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "13",
+        "WARD_NAME": "KOKORO",
+        "LATITUDE": -9.18706,
+        "LONGITUDE": 148.226675,
+        "REGHH": 10,
+        "TOTPOP2000": 46,
+        "MALE2000": 22,
+        "FEMALE2000": 24,
+        "POP2008": 54,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010313049,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13280,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2318170002544,
+          -9.18844599998289
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13280,
+        "CU_NAME": "BUABUFU",
+        "CU_NO": "050",
+        "GEOCODE": "06010313050",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "13",
+        "WARD_NAME": "KOKORO",
+        "LATITUDE": -9.176,
+        "LONGITUDE": 148.22938,
+        "REGHH": 9,
+        "TOTPOP2000": 42,
+        "MALE2000": 19,
+        "FEMALE2000": 23,
+        "POP2008": 50,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010313050,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13281,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2102419999684,
+          -9.151462999617706
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13281,
+        "CU_NAME": "SIRIAFE",
+        "CU_NO": "060",
+        "GEOCODE": "06010313060",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "13",
+        "WARD_NAME": "KOKORO",
+        "LATITUDE": -9.15425,
+        "LONGITUDE": 148.218176,
+        "REGHH": 2,
+        "TOTPOP2000": 14,
+        "MALE2000": 7,
+        "FEMALE2000": 7,
+        "POP2008": 14,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010313060,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

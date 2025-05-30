@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14575,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.85065399978237,
+          -5.9866809996283905
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14575,
+        "CU_NAME": "KERENGA",
+        "CU_NO": "001",
+        "GEOCODE": "10041206001",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "ENDUGLA NANGINKU",
+        "LATITUDE": -5.98809,
+        "LONGITUDE": 144.849603,
+        "REGHH": 86,
+        "TOTPOP2000": 594,
+        "MALE2000": 310,
+        "FEMALE2000": 284,
+        "POP2008": 685,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041206001,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14576,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.82888100025798,
+          -5.984825000373405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14576,
+        "CU_NAME": "GAWALE",
+        "CU_NO": "002",
+        "GEOCODE": "10041206002",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "ENDUGLA NANGINKU",
+        "LATITUDE": -5.986234,
+        "LONGITUDE": 144.827829,
+        "REGHH": 50,
+        "TOTPOP2000": 295,
+        "MALE2000": 153,
+        "FEMALE2000": 142,
+        "POP2008": 340,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041206002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14577,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.82283999956644,
+          -5.968456000044341
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14577,
+        "CU_NAME": "GURUMUGL",
+        "CU_NO": "003",
+        "GEOCODE": "10041206003",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "ENDUGLA NANGINKU",
+        "LATITUDE": -5.969865,
+        "LONGITUDE": 144.821788,
+        "REGHH": 62,
+        "TOTPOP2000": 577,
+        "MALE2000": 305,
+        "FEMALE2000": 272,
+        "POP2008": 666,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041206003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14578,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.83247100033645,
+          -5.989684999662984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14578,
+        "CU_NAME": "DIMBAI",
+        "CU_NO": "004",
+        "GEOCODE": "10041206004",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "ENDUGLA NANGINKU",
+        "LATITUDE": -5.991094,
+        "LONGITUDE": 144.831419,
+        "REGHH": 25,
+        "TOTPOP2000": 130,
+        "MALE2000": 68,
+        "FEMALE2000": 62,
+        "POP2008": 149,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041206004,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

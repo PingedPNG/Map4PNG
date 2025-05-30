@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7620,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.16062200000533,
+          -8.161641999778396
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7620,
+        "CU_NAME": "HEAVALA",
+        "CU_NO": "002",
+        "GEOCODE": "02010607002",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "HEAVALA",
+        "LATITUDE": -8.163076,
+        "LONGITUDE": 146.159583,
+        "REGHH": 209,
+        "TOTPOP2000": 1506,
+        "MALE2000": 760,
+        "FEMALE2000": 746,
+        "POP2008": 1848,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010607002,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7621,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1650310000806,
+          -8.17865099994367
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7621,
+        "CU_NAME": "LALAFURU",
+        "CU_NO": "003",
+        "GEOCODE": "02010607003",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "HEAVALA",
+        "LATITUDE": -8.178211,
+        "LONGITUDE": 146.163996,
+        "REGHH": 63,
+        "TOTPOP2000": 353,
+        "MALE2000": 178,
+        "FEMALE2000": 175,
+        "POP2008": 433,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010607003,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7622,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.19205399979228,
+          -8.168194999799368
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7622,
+        "CU_NAME": "TERAPO",
+        "CU_NO": "006",
+        "GEOCODE": "02010607006",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "HEAVALA",
+        "LATITUDE": -8.169629,
+        "LONGITUDE": 146.191015,
+        "REGHH": 135,
+        "TOTPOP2000": 876,
+        "MALE2000": 462,
+        "FEMALE2000": 414,
+        "POP2008": 1076,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010607006,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

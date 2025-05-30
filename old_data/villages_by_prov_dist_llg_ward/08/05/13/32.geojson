@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5941,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9445230003363,
+          -5.7541819995995525
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5941,
+        "CU_NAME": "NANAI",
+        "CU_NO": "001",
+        "GEOCODE": "08051332001",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "32",
+        "WARD_NAME": "NANAI",
+        "LATITUDE": -5.754223,
+        "LONGITUDE": 143.94747,
+        "REGHH": 162,
+        "TOTPOP2000": 1076,
+        "MALE2000": 542,
+        "FEMALE2000": 534,
+        "POP2008": 1352,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051332001,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

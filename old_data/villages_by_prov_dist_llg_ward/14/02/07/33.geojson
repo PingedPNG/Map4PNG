@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6457,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.15545799968697,
+          -4.726016999584829
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6457,
+        "CU_NAME": "LIKAN",
+        "CU_NO": "043",
+        "GEOCODE": "14020733043",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "33",
+        "WARD_NAME": "LIKAN",
+        "LATITUDE": -4.727608,
+        "LONGITUDE": 144.154231,
+        "REGHH": 44,
+        "TOTPOP2000": 272,
+        "MALE2000": 149,
+        "FEMALE2000": 123,
+        "POP2008": 324,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020733043,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

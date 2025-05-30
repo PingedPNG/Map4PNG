@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6378,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.33253600003638,
+          -4.389028999588618
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6378,
+        "CU_NAME": "MAMARI",
+        "CU_NO": "010",
+        "GEOCODE": "14020620010",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "20",
+        "WARD_NAME": "MAMARI",
+        "LATITUDE": -4.388502,
+        "LONGITUDE": 143.329533,
+        "REGHH": 29,
+        "TOTPOP2000": 171,
+        "MALE2000": 91,
+        "FEMALE2000": 80,
+        "POP2008": 203,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020620010,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6379,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.23164499961706,
+          -4.39189300036162
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6379,
+        "CU_NAME": "BALIWEI",
+        "CU_NO": "022",
+        "GEOCODE": "14020620022",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "20",
+        "WARD_NAME": "MAMARI",
+        "LATITUDE": -4.393479,
+        "LONGITUDE": 143.230407,
+        "REGHH": 8,
+        "TOTPOP2000": 56,
+        "MALE2000": 29,
+        "FEMALE2000": 27,
+        "POP2008": 64,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020620022,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

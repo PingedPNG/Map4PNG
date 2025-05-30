@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5423,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6213200002179,
+          -5.374464000413241
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5423,
+        "CU_NAME": "KUPIN",
+        "CU_NO": "003",
+        "GEOCODE": "08020319003",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "19",
+        "WARD_NAME": "KUPIN",
+        "LATITUDE": -5.375864,
+        "LONGITUDE": 143.620254,
+        "REGHH": 42,
+        "TOTPOP2000": 213,
+        "MALE2000": 104,
+        "FEMALE2000": 109,
+        "POP2008": 268,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020319003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5424,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6312490003412,
+          -5.3617040001394685
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5424,
+        "CU_NAME": "MULILAMA",
+        "CU_NO": "004",
+        "GEOCODE": "08020319004",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "19",
+        "WARD_NAME": "KUPIN",
+        "LATITUDE": -5.363104,
+        "LONGITUDE": 143.630183,
+        "REGHH": 38,
+        "TOTPOP2000": 208,
+        "MALE2000": 98,
+        "FEMALE2000": 110,
+        "POP2008": 261,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020319004,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5425,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60448199984444,
+          -5.373407000232817
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5425,
+        "CU_NAME": "WEIPIS",
+        "CU_NO": "005",
+        "GEOCODE": "08020319005",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "19",
+        "WARD_NAME": "KUPIN",
+        "LATITUDE": -5.374807,
+        "LONGITUDE": 143.603416,
+        "REGHH": 33,
+        "TOTPOP2000": 195,
+        "MALE2000": 87,
+        "FEMALE2000": 108,
+        "POP2008": 246,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020319005,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5426,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63935600007937,
+          -5.352684999712892
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5426,
+        "CU_NAME": "NAIEPELAM",
+        "CU_NO": "006",
+        "GEOCODE": "08020319006",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "19",
+        "WARD_NAME": "KUPIN",
+        "LATITUDE": -5.356107,
+        "LONGITUDE": 143.636291,
+        "REGHH": 43,
+        "TOTPOP2000": 198,
+        "MALE2000": 104,
+        "FEMALE2000": 94,
+        "POP2008": 249,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020319006,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

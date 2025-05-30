@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18959,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2931689998495,
+          -3.105053000095836
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18959,
+        "CU_NAME": "WARAMAIYU",
+        "CU_NO": "004",
+        "GEOCODE": "15041324004",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "24",
+        "WARD_NAME": "SUMUMINI",
+        "LATITUDE": -3.106426,
+        "LONGITUDE": 141.292078,
+        "REGHH": 22,
+        "TOTPOP2000": 153,
+        "MALE2000": 81,
+        "FEMALE2000": 72,
+        "POP2008": 185,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041324004,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18960,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.38016099963045,
+          -3.091327000240824
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18960,
+        "CU_NAME": "SUMUMINI",
+        "CU_NO": "006",
+        "GEOCODE": "15041324006",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "24",
+        "WARD_NAME": "SUMUMINI",
+        "LATITUDE": -3.0927,
+        "LONGITUDE": 141.379071,
+        "REGHH": 31,
+        "TOTPOP2000": 223,
+        "MALE2000": 116,
+        "FEMALE2000": 107,
+        "POP2008": 269,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041324006,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18961,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.4559170001695,
+          -3.0083240000525393
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18961,
+        "CU_NAME": "YOU'O",
+        "CU_NO": "007",
+        "GEOCODE": "15041324007",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "24",
+        "WARD_NAME": "SUMUMINI",
+        "LATITUDE": -3.014885,
+        "LONGITUDE": 141.445924,
+        "REGHH": 20,
+        "TOTPOP2000": 130,
+        "MALE2000": 70,
+        "FEMALE2000": 60,
+        "POP2008": 156,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041324007,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

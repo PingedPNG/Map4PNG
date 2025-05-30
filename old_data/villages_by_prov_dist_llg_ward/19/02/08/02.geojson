@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.34018399969193,
+          -5.509738000008667
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18117,
+        "CU_NAME": "BANAULE",
+        "CU_NO": "001",
+        "GEOCODE": "19020802001",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "KWALAKESI",
+        "LATITUDE": -5.51194,
+        "LONGITUDE": 150.336,
+        "REGHH": 130,
+        "TOTPOP2000": 796,
+        "MALE2000": 428,
+        "FEMALE2000": 368,
+        "POP2008": 1048,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020802001,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.37697400015008,
+          -5.479506999848127
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18118,
+        "CU_NAME": "KWALAKESI",
+        "CU_NO": "015",
+        "GEOCODE": "19020802015",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "KWALAKESI",
+        "LATITUDE": -5.48092,
+        "LONGITUDE": 150.376,
+        "REGHH": 107,
+        "TOTPOP2000": 714,
+        "MALE2000": 376,
+        "FEMALE2000": 338,
+        "POP2008": 942,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020802015,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3919740002999,
+          -5.4808570000504915
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18119,
+        "CU_NAME": "GAVUVU MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "19020802401",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "KWALAKESI",
+        "LATITUDE": -5.48227,
+        "LONGITUDE": 150.391,
+        "REGHH": 46,
+        "TOTPOP2000": 581,
+        "MALE2000": 304,
+        "FEMALE2000": 277,
+        "POP2008": 765,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020802401,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3357840000316,
+          -5.5328150003119845
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18120,
+        "CU_NAME": "DAMI RESEARCH",
+        "CU_NO": "503",
+        "GEOCODE": "19020802503",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "KWALAKESI",
+        "LATITUDE": -5.53502,
+        "LONGITUDE": 150.332,
+        "REGHH": 140,
+        "TOTPOP2000": 635,
+        "MALE2000": 349,
+        "FEMALE2000": 286,
+        "POP2008": 836,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020802503,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.32797499964659,
+          -5.521017000334268
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18121,
+        "CU_NAME": "DAMI FORESTRY",
+        "CU_NO": "504",
+        "GEOCODE": "19020802504",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "KWALAKESI",
+        "LATITUDE": -5.52243,
+        "LONGITUDE": 150.327,
+        "REGHH": 17,
+        "TOTPOP2000": 105,
+        "MALE2000": 61,
+        "FEMALE2000": 44,
+        "POP2008": 139,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020802504,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

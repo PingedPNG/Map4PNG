@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5680,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.99365399993223,
+          -5.47603499981534
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5680,
+        "CU_NAME": "ANDITA",
+        "CU_NO": "001",
+        "GEOCODE": "08030809001",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "09",
+        "WARD_NAME": "ANDITA",
+        "LATITUDE": -5.479444,
+        "LONGITUDE": 142.994093,
+        "REGHH": 38,
+        "TOTPOP2000": 313,
+        "MALE2000": 157,
+        "FEMALE2000": 156,
+        "POP2008": 393,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030809001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5681,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.96585999973922,
+          -5.4732010004257745
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5681,
+        "CU_NAME": "YAWAIA",
+        "CU_NO": "002",
+        "GEOCODE": "08030809002",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "09",
+        "WARD_NAME": "ANDITA",
+        "LATITUDE": -5.481715,
+        "LONGITUDE": 142.980878,
+        "REGHH": 16,
+        "TOTPOP2000": 100,
+        "MALE2000": 44,
+        "FEMALE2000": 56,
+        "POP2008": 125,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030809002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

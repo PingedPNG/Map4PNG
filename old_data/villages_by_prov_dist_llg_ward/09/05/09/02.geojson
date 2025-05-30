@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17070,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.17587699972387,
+          -5.600999999750115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17070,
+        "CU_NAME": "MANJIP (KINGARINGA)",
+        "CU_NO": "012",
+        "GEOCODE": "09050902012",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "MANJIP",
+        "LATITUDE": -5.601936,
+        "LONGITUDE": 144.17621,
+        "REGHH": 137,
+        "TOTPOP2000": 620,
+        "MALE2000": 329,
+        "FEMALE2000": 291,
+        "POP2008": 756,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050902012,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

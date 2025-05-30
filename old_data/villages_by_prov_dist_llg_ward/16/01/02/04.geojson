@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9364,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.51447999955235,
+          -1.412994000073013
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9364,
+        "CU_NAME": "LIOT",
+        "CU_NO": "004",
+        "GEOCODE": "16010204004",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "LIOT",
+        "LATITUDE": -1.408394,
+        "LONGITUDE": 144.511746,
+        "REGHH": 14,
+        "TOTPOP2000": 68,
+        "MALE2000": 34,
+        "FEMALE2000": 34,
+        "POP2008": 84,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010204004,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

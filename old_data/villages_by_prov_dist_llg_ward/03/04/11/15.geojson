@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1613,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.72432100001424,
+          -9.82728500020255
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1613,
+        "CU_NAME": "SAROAKEINA",
+        "CU_NO": "073",
+        "GEOCODE": "03041115073",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "15",
+        "WARD_NAME": "SAROAKEINA",
+        "LATITUDE": -9.82874,
+        "LONGITUDE": 147.723299,
+        "REGHH": 67,
+        "TOTPOP2000": 494,
+        "MALE2000": 242,
+        "FEMALE2000": 252,
+        "POP2008": 592,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041115073,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1614,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.73036599999102,
+          -9.832445999882964
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1614,
+        "CU_NAME": "BORIGERE",
+        "CU_NO": "091",
+        "GEOCODE": "03041115091",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "15",
+        "WARD_NAME": "SAROAKEINA",
+        "LATITUDE": -9.833974,
+        "LONGITUDE": 147.729296,
+        "REGHH": 12,
+        "TOTPOP2000": 80,
+        "MALE2000": 41,
+        "FEMALE2000": 39,
+        "POP2008": 96,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041115091,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1615,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.73175900037768,
+          -9.82259799989771
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1615,
+        "CU_NAME": "POLIGOLO PLANTATION",
+        "CU_NO": "401",
+        "GEOCODE": "03041115401",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "15",
+        "WARD_NAME": "SAROAKEINA",
+        "LATITUDE": -9.824053,
+        "LONGITUDE": 147.730737,
+        "REGHH": 14,
+        "TOTPOP2000": 109,
+        "MALE2000": 60,
+        "FEMALE2000": 49,
+        "POP2008": 133,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041115401,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

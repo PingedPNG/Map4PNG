@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 931,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.01242500031356,
+          -10.143239999726177
+        ]
+      },
+      "properties": {
+        "OBJECTID": 931,
+        "CU_NAME": "KINIKALANA",
+        "CU_NO": "026",
+        "GEOCODE": "03010202026",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "PELAGAI",
+        "LATITUDE": -10.144699,
+        "LONGITUDE": 148.011406,
+        "REGHH": 18,
+        "TOTPOP2000": 80,
+        "MALE2000": 31,
+        "FEMALE2000": 49,
+        "POP2008": 96,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010202026,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 932,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0104199995834,
+          -10.14674500038143
+        ]
+      },
+      "properties": {
+        "OBJECTID": 932,
+        "CU_NAME": "PELAGAI",
+        "CU_NO": "037",
+        "GEOCODE": "03010202037",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "PELAGAI",
+        "LATITUDE": -10.148204,
+        "LONGITUDE": 148.009401,
+        "REGHH": 103,
+        "TOTPOP2000": 552,
+        "MALE2000": 262,
+        "FEMALE2000": 290,
+        "POP2008": 663,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010202037,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 933,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.00888099965846,
+          -10.150211000137517
+        ]
+      },
+      "properties": {
+        "OBJECTID": 933,
+        "CU_NAME": "WAPAGAI",
+        "CU_NO": "046",
+        "GEOCODE": "03010202046",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "PELAGAI",
+        "LATITUDE": -10.151668,
+        "LONGITUDE": 148.008448,
+        "REGHH": 33,
+        "TOTPOP2000": 190,
+        "MALE2000": 91,
+        "FEMALE2000": 99,
+        "POP2008": 228,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010202046,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 897,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.34061399993618,
+          -10.297936000146251
+        ]
+      },
+      "properties": {
+        "OBJECTID": 897,
+        "CU_NAME": "KURERE/ASIARO",
+        "CU_NO": "027",
+        "GEOCODE": "03010107027",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "BARAUORO",
+        "LATITUDE": -10.29956,
+        "LONGITUDE": 149.342576,
+        "REGHH": 71,
+        "TOTPOP2000": 421,
+        "MALE2000": 220,
+        "FEMALE2000": 201,
+        "POP2008": 505,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010107027,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 898,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3171259995653,
+          -10.290003000338174
+        ]
+      },
+      "properties": {
+        "OBJECTID": 898,
+        "CU_NAME": "BARAUORO",
+        "CU_NO": "029",
+        "GEOCODE": "03010107029",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "BARAUORO",
+        "LATITUDE": -10.291467,
+        "LONGITUDE": 149.316125,
+        "REGHH": 16,
+        "TOTPOP2000": 92,
+        "MALE2000": 50,
+        "FEMALE2000": 42,
+        "POP2008": 108,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010107029,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 899,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.33883599978162,
+          -10.30101700013438
+        ]
+      },
+      "properties": {
+        "OBJECTID": 899,
+        "CU_NAME": "IRUNA STATION",
+        "CU_NO": "407",
+        "GEOCODE": "03010107407",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "BARAUORO",
+        "LATITUDE": -10.301883,
+        "LONGITUDE": 149.338012,
+        "REGHH": 11,
+        "TOTPOP2000": 93,
+        "MALE2000": 45,
+        "FEMALE2000": 48,
+        "POP2008": 109,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010107407,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 900,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.31591999970829,
+          -10.234408999675566
+        ]
+      },
+      "properties": {
+        "OBJECTID": 900,
+        "CU_NAME": "BAILEBO DPI STATION",
+        "CU_NO": "502",
+        "GEOCODE": "03010107502",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "BARAUORO",
+        "LATITUDE": -10.235873,
+        "LONGITUDE": 149.314919,
+        "REGHH": 93,
+        "TOTPOP2000": 572,
+        "MALE2000": 290,
+        "FEMALE2000": 282,
+        "POP2008": 685,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010107502,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.33978300028525,
+          -10.296633000312681
+        ]
+      },
+      "properties": {
+        "OBJECTID": 901,
+        "CU_NAME": "MAGARIDA GOVT. STATION",
+        "CU_NO": "503",
+        "GEOCODE": "03010107503",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "07",
+        "WARD_NAME": "BARAUORO",
+        "LATITUDE": -10.297435,
+        "LONGITUDE": 149.338535,
+        "REGHH": 21,
+        "TOTPOP2000": 130,
+        "MALE2000": 61,
+        "FEMALE2000": 69,
+        "POP2008": 154,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010107503,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

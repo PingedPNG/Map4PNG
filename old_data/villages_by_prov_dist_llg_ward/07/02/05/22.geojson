@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19566,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0187549998434,
+          -6.229323999802716
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19566,
+        "CU_NAME": "MARAL",
+        "CU_NO": "015",
+        "GEOCODE": "07020522015",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "MARAL",
+        "LATITUDE": -6.231558,
+        "LONGITUDE": 144.018596,
+        "REGHH": 42,
+        "TOTPOP2000": 211,
+        "MALE2000": 97,
+        "FEMALE2000": 114,
+        "POP2008": 293,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020522015,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19567,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.01658999982874,
+          -6.227610999947615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19567,
+        "CU_NAME": "KONJOPENA MONGONOMU",
+        "CU_NO": "016",
+        "GEOCODE": "07020522016",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "MARAL",
+        "LATITUDE": -6.231558,
+        "LONGITUDE": 144.018596,
+        "REGHH": 34,
+        "TOTPOP2000": 195,
+        "MALE2000": 97,
+        "FEMALE2000": 98,
+        "POP2008": 272,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020522016,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19568,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0167239997129,
+          -6.225885000392395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19568,
+        "CU_NAME": "MOKAPOI",
+        "CU_NO": "017",
+        "GEOCODE": "07020522017",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "MARAL",
+        "LATITUDE": -6.231558,
+        "LONGITUDE": 144.018596,
+        "REGHH": 20,
+        "TOTPOP2000": 131,
+        "MALE2000": 65,
+        "FEMALE2000": 66,
+        "POP2008": 183,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020522017,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19569,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.01844099975244,
+          -6.2245809996134085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19569,
+        "CU_NAME": "POPE",
+        "CU_NO": "018",
+        "GEOCODE": "07020522018",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "MARAL",
+        "LATITUDE": -6.231558,
+        "LONGITUDE": 144.018596,
+        "REGHH": 32,
+        "TOTPOP2000": 193,
+        "MALE2000": 91,
+        "FEMALE2000": 102,
+        "POP2008": 268,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020522018,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19570,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.01899199998093,
+          -6.226882999650684
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19570,
+        "CU_NAME": "TILIPUNGE",
+        "CU_NO": "019",
+        "GEOCODE": "07020522019",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "MARAL",
+        "LATITUDE": -6.231558,
+        "LONGITUDE": 144.018596,
+        "REGHH": 18,
+        "TOTPOP2000": 83,
+        "MALE2000": 46,
+        "FEMALE2000": 37,
+        "POP2008": 115,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020522019,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

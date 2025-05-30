@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18417,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1336059996172,
+          -3.185634000108962
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18417,
+        "CU_NAME": "NENGIAN",
+        "CU_NO": "010",
+        "GEOCODE": "15010311010",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "NENGIAN",
+        "LATITUDE": -3.187009,
+        "LONGITUDE": 142.132525,
+        "REGHH": 47,
+        "TOTPOP2000": 351,
+        "MALE2000": 182,
+        "FEMALE2000": 169,
+        "POP2008": 424,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010311010,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

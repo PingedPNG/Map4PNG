@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9486,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.06184799988534,
+          -2.107488000171031
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9486,
+        "CU_NAME": "KAWALIAP",
+        "CU_NO": "014",
+        "GEOCODE": "16010902014",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "KAWALIAP",
+        "LATITUDE": -2.106118,
+        "LONGITUDE": 147.060722,
+        "REGHH": 66,
+        "TOTPOP2000": 320,
+        "MALE2000": 165,
+        "FEMALE2000": 155,
+        "POP2008": 393,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010902014,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

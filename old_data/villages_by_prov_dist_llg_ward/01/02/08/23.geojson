@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15462,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.13735500003327,
+          -5.940465999806008
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15462,
+        "CU_NAME": "KWIAPAE",
+        "CU_NO": "012",
+        "GEOCODE": "01020823012",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "23",
+        "WARD_NAME": "MIAMRAE",
+        "LATITUDE": -5.941867,
+        "LONGITUDE": 141.136258,
+        "REGHH": 39,
+        "TOTPOP2000": 241,
+        "MALE2000": 128,
+        "FEMALE2000": 113,
+        "POP2008": 312,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020823012,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15463,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.13233299956835,
+          -5.963508000293928
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15463,
+        "CU_NAME": "BIGE",
+        "CU_NO": "013",
+        "GEOCODE": "01020823013",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "23",
+        "WARD_NAME": "MIAMRAE",
+        "LATITUDE": -5.96491,
+        "LONGITUDE": 141.131236,
+        "REGHH": 23,
+        "TOTPOP2000": 137,
+        "MALE2000": 66,
+        "FEMALE2000": 71,
+        "POP2008": 179,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020823013,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15464,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.16810399979977,
+          -5.931132000141645
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15464,
+        "CU_NAME": "MIAHRAE",
+        "CU_NO": "014",
+        "GEOCODE": "01020823014",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "23",
+        "WARD_NAME": "MIAMRAE",
+        "LATITUDE": -5.932533,
+        "LONGITUDE": 141.167007,
+        "REGHH": 46,
+        "TOTPOP2000": 215,
+        "MALE2000": 108,
+        "FEMALE2000": 107,
+        "POP2008": 279,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020823014,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15465,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.18073799965907,
+          -5.917712000008748
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15465,
+        "CU_NAME": "SENAMRAE",
+        "CU_NO": "018",
+        "GEOCODE": "01020823018",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "23",
+        "WARD_NAME": "MIAMRAE",
+        "LATITUDE": -5.919113,
+        "LONGITUDE": 141.179642,
+        "REGHH": 49,
+        "TOTPOP2000": 293,
+        "MALE2000": 155,
+        "FEMALE2000": 138,
+        "POP2008": 380,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020823018,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

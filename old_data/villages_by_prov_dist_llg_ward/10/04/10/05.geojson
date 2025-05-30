@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14400,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.88783899957025,
+          -5.920255000367945
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14400,
+        "CU_NAME": "KAMBAGE",
+        "CU_NO": "002",
+        "GEOCODE": "10041005002",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KAMBANG",
+        "LATITUDE": -5.921663,
+        "LONGITUDE": 144.886788,
+        "REGHH": 58,
+        "TOTPOP2000": 218,
+        "MALE2000": 111,
+        "FEMALE2000": 107,
+        "POP2008": 250,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041005002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14401,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.89228599959927,
+          -5.922750000312192
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14401,
+        "CU_NAME": "BAGLE",
+        "CU_NO": "003",
+        "GEOCODE": "10041005003",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KAMBANG",
+        "LATITUDE": -5.92448,
+        "LONGITUDE": 144.891417,
+        "REGHH": 37,
+        "TOTPOP2000": 178,
+        "MALE2000": 96,
+        "FEMALE2000": 82,
+        "POP2008": 204,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041005003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14402,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.86744099960254,
+          -5.920048999861422
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14402,
+        "CU_NAME": "GANBUGL",
+        "CU_NO": "004",
+        "GEOCODE": "10041005004",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KAMBANG",
+        "LATITUDE": -5.921457,
+        "LONGITUDE": 144.86639,
+        "REGHH": 84,
+        "TOTPOP2000": 416,
+        "MALE2000": 209,
+        "FEMALE2000": 207,
+        "POP2008": 479,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041005004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14403,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.89236799978346,
+          -5.924479000005817
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14403,
+        "CU_NAME": "BAGLE C/S",
+        "CU_NO": "401",
+        "GEOCODE": "10041005401",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "KAMBANG",
+        "LATITUDE": -5.92448,
+        "LONGITUDE": 144.891417,
+        "REGHH": 3,
+        "TOTPOP2000": 15,
+        "MALE2000": 6,
+        "FEMALE2000": 9,
+        "POP2008": 15,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041005401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

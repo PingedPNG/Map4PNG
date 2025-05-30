@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18693,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.79353200030164,
+          -3.8826290004279826
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18693,
+        "CU_NAME": "EDWAKI STATION",
+        "CU_NO": "501",
+        "GEOCODE": "15030815501",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "15",
+        "WARD_NAME": "EDWAKI",
+        "LATITUDE": -3.886863,
+        "LONGITUDE": 141.791313,
+        "REGHH": 20,
+        "TOTPOP2000": 126,
+        "MALE2000": 65,
+        "FEMALE2000": 61,
+        "POP2008": 151,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030815501,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

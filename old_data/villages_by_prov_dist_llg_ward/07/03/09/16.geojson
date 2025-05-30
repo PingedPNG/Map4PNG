@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.87391599982357,
+          -6.398744000235354
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19912,
+        "CU_NAME": "KUMBIANDA",
+        "CU_NO": "007",
+        "GEOCODE": "07030916007",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "16",
+        "WARD_NAME": "ROGOMA",
+        "LATITUDE": -6.395729,
+        "LONGITUDE": 143.873618,
+        "REGHH": 21,
+        "TOTPOP2000": 87,
+        "MALE2000": 46,
+        "FEMALE2000": 41,
+        "POP2008": 121,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030916007,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19913,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8846080000592,
+          -6.390074999761396
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19913,
+        "CU_NAME": "REGARE",
+        "CU_NO": "008",
+        "GEOCODE": "07030916008",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "16",
+        "WARD_NAME": "ROGOMA",
+        "LATITUDE": -6.395729,
+        "LONGITUDE": 143.873618,
+        "REGHH": 19,
+        "TOTPOP2000": 75,
+        "MALE2000": 39,
+        "FEMALE2000": 36,
+        "POP2008": 104,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030916008,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19914,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.87517100014156,
+          -6.383132999788074
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19914,
+        "CU_NAME": "YANDA",
+        "CU_NO": "009",
+        "GEOCODE": "07030916009",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "16",
+        "WARD_NAME": "ROGOMA",
+        "LATITUDE": -6.395729,
+        "LONGITUDE": 143.873618,
+        "REGHH": 62,
+        "TOTPOP2000": 294,
+        "MALE2000": 143,
+        "FEMALE2000": 151,
+        "POP2008": 408,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030916009,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19915,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.87436299975275,
+          -6.389838999670076
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19915,
+        "CU_NAME": "KUNU",
+        "CU_NO": "010",
+        "GEOCODE": "07030916010",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "16",
+        "WARD_NAME": "ROGOMA",
+        "LATITUDE": -6.395729,
+        "LONGITUDE": 143.873618,
+        "REGHH": 22,
+        "TOTPOP2000": 99,
+        "MALE2000": 45,
+        "FEMALE2000": 54,
+        "POP2008": 137,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030916010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19916,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.87922099984928,
+          -6.386876999773676
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19916,
+        "CU_NAME": "ROGOMA",
+        "CU_NO": "015",
+        "GEOCODE": "07030916015",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "16",
+        "WARD_NAME": "ROGOMA",
+        "LATITUDE": -6.395729,
+        "LONGITUDE": 143.873618,
+        "REGHH": 61,
+        "TOTPOP2000": 401,
+        "MALE2000": 202,
+        "FEMALE2000": 199,
+        "POP2008": 559,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030916015,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

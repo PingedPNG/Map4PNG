@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16908,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.71485500025813,
+          -5.665786999870079
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16908,
+        "CU_NAME": "MANEMP",
+        "CU_NO": "009",
+        "GEOCODE": "09040629009",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "29",
+        "WARD_NAME": "MANEMP",
+        "LATITUDE": -5.666722,
+        "LONGITUDE": 144.715195,
+        "REGHH": 76,
+        "TOTPOP2000": 324,
+        "MALE2000": 172,
+        "FEMALE2000": 152,
+        "POP2008": 394,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040629009,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16909,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.70377900030064,
+          -5.6612480000950995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16909,
+        "CU_NAME": "WARAMAMBOL",
+        "CU_NO": "010",
+        "GEOCODE": "09040629010",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "29",
+        "WARD_NAME": "MANEMP",
+        "LATITUDE": -5.662183,
+        "LONGITUDE": 144.704118,
+        "REGHH": 41,
+        "TOTPOP2000": 187,
+        "MALE2000": 102,
+        "FEMALE2000": 85,
+        "POP2008": 228,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040629010,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16910,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6954340003789,
+          -5.670221000198978
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16910,
+        "CU_NAME": "GULKA",
+        "CU_NO": "011",
+        "GEOCODE": "09040629011",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "29",
+        "WARD_NAME": "MANEMP",
+        "LATITUDE": -5.671156,
+        "LONGITUDE": 144.695773,
+        "REGHH": 55,
+        "TOTPOP2000": 274,
+        "MALE2000": 138,
+        "FEMALE2000": 136,
+        "POP2008": 334,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040629011,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

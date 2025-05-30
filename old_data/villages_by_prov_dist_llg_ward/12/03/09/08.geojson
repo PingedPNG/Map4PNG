@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10911,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.57984599969325,
+          -7.760170000145365
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10911,
+        "CU_NAME": "MOU VILLAGE",
+        "CU_NO": "010",
+        "GEOCODE": "12030908010",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "08",
+        "WARD_NAME": "MOU",
+        "LATITUDE": -7.761709,
+        "LONGITUDE": 147.579355,
+        "REGHH": 54,
+        "TOTPOP2000": 303,
+        "MALE2000": 164,
+        "FEMALE2000": 139,
+        "POP2008": 377,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030908010,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.57986799980836,
+          -7.768205000160606
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10912,
+        "CU_NAME": "MOPI BASE",
+        "CU_NO": "011",
+        "GEOCODE": "12030908011",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "08",
+        "WARD_NAME": "MOU",
+        "LATITUDE": -7.769639,
+        "LONGITUDE": 147.578849,
+        "REGHH": 26,
+        "TOTPOP2000": 118,
+        "MALE2000": 53,
+        "FEMALE2000": 65,
+        "POP2008": 147,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030908011,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

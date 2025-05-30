@@ -1,0 +1,261 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.91103599961173,
+          -8.320668000227954
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1105,
+        "CU_NAME": "LAMANAIPA",
+        "CU_NO": "002",
+        "GEOCODE": "03020503002",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "03",
+        "WARD_NAME": "SOPU",
+        "LATITUDE": -8.322106,
+        "LONGITUDE": 146.910007,
+        "REGHH": 28,
+        "TOTPOP2000": 112,
+        "MALE2000": 55,
+        "FEMALE2000": 57,
+        "POP2008": 136,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020503002,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1510200003728,
+          -8.314350000252261
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1106,
+        "CU_NAME": "IVEIYAVA",
+        "CU_NO": "007",
+        "GEOCODE": "03020503007",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "03",
+        "WARD_NAME": "SOPU",
+        "LATITUDE": -8.315788,
+        "LONGITUDE": 147.149994,
+        "REGHH": 29,
+        "TOTPOP2000": 108,
+        "MALE2000": 55,
+        "FEMALE2000": 53,
+        "POP2008": 131,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020503007,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1791420004031,
+          -8.270138000168515
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1107,
+        "CU_NAME": "LOLEAVA",
+        "CU_NO": "016",
+        "GEOCODE": "03020503016",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "03",
+        "WARD_NAME": "SOPU",
+        "LATITUDE": -8.271576,
+        "LONGITUDE": 147.178117,
+        "REGHH": 62,
+        "TOTPOP2000": 258,
+        "MALE2000": 141,
+        "FEMALE2000": 117,
+        "POP2008": 309,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020503016,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.16919400030292,
+          -8.305483999686771
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1108,
+        "CU_NAME": "SOPU NO. 1",
+        "CU_NO": "023",
+        "GEOCODE": "03020503023",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "03",
+        "WARD_NAME": "SOPU",
+        "LATITUDE": -8.306922,
+        "LONGITUDE": 147.168168,
+        "REGHH": 86,
+        "TOTPOP2000": 336,
+        "MALE2000": 175,
+        "FEMALE2000": 161,
+        "POP2008": 403,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020503023,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1424590003826,
+          -8.23668099962839
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1109,
+        "CU_NAME": "KILEIPI",
+        "CU_NO": "024",
+        "GEOCODE": "03020503024",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "03",
+        "WARD_NAME": "SOPU",
+        "LATITUDE": -8.238119,
+        "LONGITUDE": 147.141433,
+        "REGHH": 34,
+        "TOTPOP2000": 136,
+        "MALE2000": 67,
+        "FEMALE2000": 69,
+        "POP2008": 162,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020503024,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.14481200007378,
+          -8.263006000426515
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1110,
+        "CU_NAME": "MALAVA",
+        "CU_NO": "025",
+        "GEOCODE": "03020503025",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "03",
+        "WARD_NAME": "SOPU",
+        "LATITUDE": -8.264444,
+        "LONGITUDE": 147.143786,
+        "REGHH": 44,
+        "TOTPOP2000": 152,
+        "MALE2000": 76,
+        "FEMALE2000": 76,
+        "POP2008": 183,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020503025,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.13205099975391,
+          -8.282184999937726
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1111,
+        "CU_NAME": "GANE",
+        "CU_NO": "026",
+        "GEOCODE": "03020503026",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "03",
+        "WARD_NAME": "SOPU",
+        "LATITUDE": -8.283623,
+        "LONGITUDE": 147.131025,
+        "REGHH": 31,
+        "TOTPOP2000": 108,
+        "MALE2000": 55,
+        "FEMALE2000": 53,
+        "POP2008": 131,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020503026,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.11055599955978,
+          -8.229419000186681
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1112,
+        "CU_NAME": "KIORIVI",
+        "CU_NO": "027",
+        "GEOCODE": "03020503027",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "03",
+        "WARD_NAME": "SOPU",
+        "LATITUDE": -8.230856,
+        "LONGITUDE": 147.10953,
+        "REGHH": 16,
+        "TOTPOP2000": 83,
+        "MALE2000": 39,
+        "FEMALE2000": 44,
+        "POP2008": 99,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020503027,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

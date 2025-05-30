@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1036300003243,
+          -6.184802999858505
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11175,
+        "CU_NAME": "ONGAKEI",
+        "CU_NO": "025",
+        "GEOCODE": "12041212025",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "12",
+        "WARD_NAME": "ONGAKEI",
+        "LATITUDE": -6.182695,
+        "LONGITUDE": 147.105122,
+        "REGHH": 89,
+        "TOTPOP2000": 456,
+        "MALE2000": 226,
+        "FEMALE2000": 230,
+        "POP2008": 568,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041212025,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11176,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.09615199991492,
+          -6.174924000242356
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11176,
+        "CU_NAME": "GEWENAN",
+        "CU_NO": "026",
+        "GEOCODE": "12041212026",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "12",
+        "WARD_NAME": "ONGAKEI",
+        "LATITUDE": -6.176339,
+        "LONGITUDE": 147.09513,
+        "REGHH": 24,
+        "TOTPOP2000": 118,
+        "MALE2000": 67,
+        "FEMALE2000": 51,
+        "POP2008": 147,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041212026,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11177,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1132030002184,
+          -6.168470000290256
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11177,
+        "CU_NAME": "TUMUN",
+        "CU_NO": "033",
+        "GEOCODE": "12041212033",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "12",
+        "WARD_NAME": "ONGAKEI",
+        "LATITUDE": -6.169885,
+        "LONGITUDE": 147.112181,
+        "REGHH": 74,
+        "TOTPOP2000": 323,
+        "MALE2000": 158,
+        "FEMALE2000": 165,
+        "POP2008": 403,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041212033,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11178,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1018799996623,
+          -6.157606000216674
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11178,
+        "CU_NAME": "GOTOWON",
+        "CU_NO": "034",
+        "GEOCODE": "12041212034",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "12",
+        "WARD_NAME": "ONGAKEI",
+        "LATITUDE": -6.159021,
+        "LONGITUDE": 147.100858,
+        "REGHH": 38,
+        "TOTPOP2000": 197,
+        "MALE2000": 90,
+        "FEMALE2000": 107,
+        "POP2008": 247,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041212034,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

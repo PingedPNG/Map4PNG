@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20271,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8431369997728,
+          -5.993156999695714
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20271,
+        "CU_NAME": "TALI/ANGU",
+        "CU_NO": "001",
+        "GEOCODE": "07041213001",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "13",
+        "WARD_NAME": "TALI/ANGU",
+        "LATITUDE": -5.995768,
+        "LONGITUDE": 142.841429,
+        "REGHH": 28,
+        "TOTPOP2000": 162,
+        "MALE2000": 80,
+        "FEMALE2000": 82,
+        "POP2008": 225,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041213001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20272,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8382249998839,
+          -5.9925169998596175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20272,
+        "CU_NAME": "KAROBI",
+        "CU_NO": "002",
+        "GEOCODE": "07041213002",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "13",
+        "WARD_NAME": "TALI/ANGU",
+        "LATITUDE": -5.995768,
+        "LONGITUDE": 142.841429,
+        "REGHH": 26,
+        "TOTPOP2000": 176,
+        "MALE2000": 86,
+        "FEMALE2000": 90,
+        "POP2008": 244,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041213002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20273,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8422340003989,
+          -5.98893600019619
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20273,
+        "CU_NAME": "TIPAKUA",
+        "CU_NO": "003",
+        "GEOCODE": "07041213003",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "13",
+        "WARD_NAME": "TALI/ANGU",
+        "LATITUDE": -5.995768,
+        "LONGITUDE": 142.841429,
+        "REGHH": 30,
+        "TOTPOP2000": 227,
+        "MALE2000": 125,
+        "FEMALE2000": 102,
+        "POP2008": 316,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041213003,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

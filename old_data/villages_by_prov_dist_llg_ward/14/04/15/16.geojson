@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6833,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8027099995669,
+          -3.661150999618883
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6833,
+        "CU_NAME": "BUNGAIN",
+        "CU_NO": "001",
+        "GEOCODE": "14041516001",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "15",
+        "WARD_NO": "16",
+        "WARD_NAME": "BUNGAIN",
+        "LATITUDE": -3.661359,
+        "LONGITUDE": 143.800008,
+        "REGHH": 96,
+        "TOTPOP2000": 463,
+        "MALE2000": 229,
+        "FEMALE2000": 234,
+        "POP2008": 551,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041516001,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

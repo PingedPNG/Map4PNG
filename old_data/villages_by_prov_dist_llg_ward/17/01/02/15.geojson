@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12463,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.22953299974824,
+          -2.6718430000543663
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12463,
+        "CU_NAME": "VAIKEB",
+        "CU_NO": "001",
+        "GEOCODE": "17010215001",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "15",
+        "WARD_NAME": "TIOPUTUK",
+        "LATITUDE": -2.673219,
+        "LONGITUDE": 150.22856,
+        "REGHH": 43,
+        "TOTPOP2000": 240,
+        "MALE2000": 114,
+        "FEMALE2000": 126,
+        "POP2008": 301,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010215001,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12464,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.21335400008707,
+          -2.6617379999087234
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12464,
+        "CU_NAME": "METEVOE",
+        "CU_NO": "012",
+        "GEOCODE": "17010215012",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "15",
+        "WARD_NAME": "TIOPUTUK",
+        "LATITUDE": -2.664454,
+        "LONGITUDE": 150.209027,
+        "REGHH": 62,
+        "TOTPOP2000": 349,
+        "MALE2000": 184,
+        "FEMALE2000": 165,
+        "POP2008": 438,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010215012,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12465,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.19029000038324,
+          -2.670317999875749
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12465,
+        "CU_NAME": "TIOPUTUK / MATSALEM",
+        "CU_NO": "021",
+        "GEOCODE": "17010215021",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "15",
+        "WARD_NAME": "TIOPUTUK",
+        "LATITUDE": -2.671694,
+        "LONGITUDE": 150.189316,
+        "REGHH": 68,
+        "TOTPOP2000": 371,
+        "MALE2000": 184,
+        "FEMALE2000": 187,
+        "POP2008": 466,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010215021,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12466,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.21045899968317,
+          -2.654440999752296
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12466,
+        "CU_NAME": "NEITANGALUS",
+        "CU_NO": "024",
+        "GEOCODE": "17010215024",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "15",
+        "WARD_NAME": "TIOPUTUK",
+        "LATITUDE": -2.655817,
+        "LONGITUDE": 150.209486,
+        "REGHH": 14,
+        "TOTPOP2000": 84,
+        "MALE2000": 43,
+        "FEMALE2000": 41,
+        "POP2008": 106,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010215024,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

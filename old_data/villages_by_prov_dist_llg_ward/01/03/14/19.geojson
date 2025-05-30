@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15739,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7714970001865,
+          -8.757287000094948
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15739,
+        "CU_NAME": "WIM",
+        "CU_NO": "032",
+        "GEOCODE": "01031419032",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "19",
+        "WARD_NAME": "WIM",
+        "LATITUDE": -8.759591,
+        "LONGITUDE": 142.768248,
+        "REGHH": 59,
+        "TOTPOP2000": 260,
+        "MALE2000": 119,
+        "FEMALE2000": 141,
+        "POP2008": 337,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031419032,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15740,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.73411999963832,
+          -8.748193999853186
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15740,
+        "CU_NAME": "KANER HAMLET",
+        "CU_NO": "033",
+        "GEOCODE": "01031419033",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "19",
+        "WARD_NAME": "WIM",
+        "LATITUDE": -8.749625,
+        "LONGITUDE": 142.733035,
+        "REGHH": 7,
+        "TOTPOP2000": 32,
+        "MALE2000": 15,
+        "FEMALE2000": 17,
+        "POP2008": 40,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031419033,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15741,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.74279100020453,
+          -8.7426509996439
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15741,
+        "CU_NAME": "RAROGE COMM. SCH",
+        "CU_NO": "034",
+        "GEOCODE": "01031419034",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "19",
+        "WARD_NAME": "WIM",
+        "LATITUDE": -8.744081,
+        "LONGITUDE": 142.741706,
+        "REGHH": 7,
+        "TOTPOP2000": 43,
+        "MALE2000": 15,
+        "FEMALE2000": 28,
+        "POP2008": 56,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031419034,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

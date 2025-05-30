@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14363,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.00734499957218,
+          -6.276770999781775
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14363,
+        "CU_NAME": "YURIBOL",
+        "CU_NO": "003",
+        "GEOCODE": "10030917003",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "17",
+        "WARD_NAME": "YURIBOL",
+        "LATITUDE": -6.278183,
+        "LONGITUDE": 145.006295,
+        "REGHH": 49,
+        "TOTPOP2000": 253,
+        "MALE2000": 135,
+        "FEMALE2000": 118,
+        "POP2008": 293,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030917003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14364,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.00051500026711,
+          -6.2781700004451295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14364,
+        "CU_NAME": "SAINA/TOWN GAN",
+        "CU_NO": "004",
+        "GEOCODE": "10030917004",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "17",
+        "WARD_NAME": "YURIBOL",
+        "LATITUDE": -6.279814,
+        "LONGITUDE": 144.998963,
+        "REGHH": 55,
+        "TOTPOP2000": 258,
+        "MALE2000": 132,
+        "FEMALE2000": 126,
+        "POP2008": 298,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030917004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14365,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.01351299982514,
+          -6.274361000159956
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14365,
+        "CU_NAME": "KILAU STATION",
+        "CU_NO": "401",
+        "GEOCODE": "10030917401",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "17",
+        "WARD_NAME": "YURIBOL",
+        "LATITUDE": -6.275773,
+        "LONGITUDE": 145.012463,
+        "REGHH": 9,
+        "TOTPOP2000": 47,
+        "MALE2000": 29,
+        "FEMALE2000": 18,
+        "POP2008": 55,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030917401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

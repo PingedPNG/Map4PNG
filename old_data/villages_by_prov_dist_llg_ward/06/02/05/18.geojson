@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13494,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.00182099963945,
+          -8.906080999938126
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13494,
+        "CU_NAME": "WARINA",
+        "CU_NO": "001",
+        "GEOCODE": "06020518001",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "18",
+        "WARD_NAME": "SAIROPE",
+        "LATITUDE": -8.907528,
+        "LONGITUDE": 148.000805,
+        "REGHH": 15,
+        "TOTPOP2000": 99,
+        "MALE2000": 47,
+        "FEMALE2000": 52,
+        "POP2008": 123,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020518001,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13495,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.01532500004873,
+          -8.916548999736506
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13495,
+        "CU_NAME": "AMBARAKOWARI",
+        "CU_NO": "002",
+        "GEOCODE": "06020518002",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "18",
+        "WARD_NAME": "SAIROPE",
+        "LATITUDE": -8.917996,
+        "LONGITUDE": 148.014309,
+        "REGHH": 10,
+        "TOTPOP2000": 61,
+        "MALE2000": 24,
+        "FEMALE2000": 37,
+        "POP2008": 77,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020518002,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.02628099986828,
+          -8.918117000099414
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13496,
+        "CU_NAME": "FAMBE",
+        "CU_NO": "003",
+        "GEOCODE": "06020518003",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "18",
+        "WARD_NAME": "SAIROPE",
+        "LATITUDE": -8.919564,
+        "LONGITUDE": 148.025266,
+        "REGHH": 23,
+        "TOTPOP2000": 119,
+        "MALE2000": 54,
+        "FEMALE2000": 65,
+        "POP2008": 147,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020518003,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13497,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.04235700017546,
+          -8.919639000139682
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13497,
+        "CU_NAME": "SAIROPE",
+        "CU_NO": "029",
+        "GEOCODE": "06020518029",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "18",
+        "WARD_NAME": "SAIROPE",
+        "LATITUDE": -8.921077,
+        "LONGITUDE": 148.044425,
+        "REGHH": 62,
+        "TOTPOP2000": 382,
+        "MALE2000": 188,
+        "FEMALE2000": 194,
+        "POP2008": 472,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020518029,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.04674900036616,
+          -8.901519000001826
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13498,
+        "CU_NAME": "SOMARA",
+        "CU_NO": "030",
+        "GEOCODE": "06020518030",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "18",
+        "WARD_NAME": "SAIROPE",
+        "LATITUDE": -8.902966,
+        "LONGITUDE": 148.045734,
+        "REGHH": 17,
+        "TOTPOP2000": 122,
+        "MALE2000": 57,
+        "FEMALE2000": 65,
+        "POP2008": 151,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020518030,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9671,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.92263899988995,
+          -10.144615000182057
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9671,
+        "CU_NAME": "KARAGAUTU",
+        "CU_NO": "016",
+        "GEOCODE": "05010324016",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "24",
+        "WARD_NAME": "KARAGAUTU",
+        "LATITUDE": -10.14765,
+        "LONGITUDE": 149.916738,
+        "REGHH": 43,
+        "TOTPOP2000": 283,
+        "MALE2000": 147,
+        "FEMALE2000": 136,
+        "POP2008": 344,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010324016,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9672,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.88613500003032,
+          -10.10781099997763
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9672,
+        "CU_NAME": "MANIAUNA",
+        "CU_NO": "017",
+        "GEOCODE": "05010324017",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "24",
+        "WARD_NAME": "KARAGAUTU",
+        "LATITUDE": -10.102128,
+        "LONGITUDE": 149.881113,
+        "REGHH": 39,
+        "TOTPOP2000": 176,
+        "MALE2000": 93,
+        "FEMALE2000": 83,
+        "POP2008": 214,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010324017,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

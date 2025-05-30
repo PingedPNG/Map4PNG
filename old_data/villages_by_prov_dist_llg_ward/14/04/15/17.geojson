@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6834,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7940509995541,
+          -3.7082980001525243
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6834,
+        "CU_NAME": "SINAMBLAI 1",
+        "CU_NO": "022",
+        "GEOCODE": "14041517022",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "15",
+        "WARD_NO": "17",
+        "WARD_NAME": "SINAMBLAI 1",
+        "LATITUDE": -3.709878,
+        "LONGITUDE": 143.792821,
+        "REGHH": 26,
+        "TOTPOP2000": 160,
+        "MALE2000": 88,
+        "FEMALE2000": 72,
+        "POP2008": 192,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041517022,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6835,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.810772999974,
+          -3.669932999907985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6835,
+        "CU_NAME": "SINAMBLAI 2",
+        "CU_NO": "023",
+        "GEOCODE": "14041517023",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "15",
+        "WARD_NO": "17",
+        "WARD_NAME": "SINAMBLAI 1",
+        "LATITUDE": -3.671512,
+        "LONGITUDE": 143.809543,
+        "REGHH": 22,
+        "TOTPOP2000": 109,
+        "MALE2000": 53,
+        "FEMALE2000": 56,
+        "POP2008": 130,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041517023,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6836,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.82677899975113,
+          -3.6755309999556403
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6836,
+        "CU_NAME": "TAUL",
+        "CU_NO": "024",
+        "GEOCODE": "14041517024",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "15",
+        "WARD_NO": "17",
+        "WARD_NAME": "SINAMBLAI 1",
+        "LATITUDE": -3.672792,
+        "LONGITUDE": 143.825355,
+        "REGHH": 40,
+        "TOTPOP2000": 169,
+        "MALE2000": 81,
+        "FEMALE2000": 88,
+        "POP2008": 201,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041517024,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

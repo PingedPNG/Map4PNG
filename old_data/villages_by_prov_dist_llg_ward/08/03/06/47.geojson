@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5627,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.55144200004838,
+          -5.405811999923799
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5627,
+        "CU_NAME": "WATALI",
+        "CU_NO": "001",
+        "GEOCODE": "08030647001",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "47",
+        "WARD_NAME": "WATALI",
+        "LATITUDE": -5.407213,
+        "LONGITUDE": 143.550375,
+        "REGHH": 108,
+        "TOTPOP2000": 647,
+        "MALE2000": 353,
+        "FEMALE2000": 294,
+        "POP2008": 813,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030647001,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

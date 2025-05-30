@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15055,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.24788300020032,
+          -7.844350999798735
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15055,
+        "CU_NAME": "GAGORO - MATAKAIA",
+        "CU_NO": "004",
+        "GEOCODE": "01010206004",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "GAGORO",
+        "LATITUDE": -7.845775,
+        "LONGITUDE": 143.246807,
+        "REGHH": 18,
+        "TOTPOP2000": 125,
+        "MALE2000": 64,
+        "FEMALE2000": 61,
+        "POP2008": 162,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010206004,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

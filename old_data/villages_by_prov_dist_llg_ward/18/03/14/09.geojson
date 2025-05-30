@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5041,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.46050900039018,
+          -5.630792000350482
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5041,
+        "CU_NAME": "PORO",
+        "CU_NO": "013",
+        "GEOCODE": "18031409013",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "09",
+        "WARD_NAME": "PROR/SALEL",
+        "LATITUDE": -5.628656,
+        "LONGITUDE": 151.460566,
+        "REGHH": 17,
+        "TOTPOP2000": 109,
+        "MALE2000": 51,
+        "FEMALE2000": 58,
+        "POP2008": 133,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031409013,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5042,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.46209599983058,
+          -5.629440000055922
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5042,
+        "CU_NAME": "SALEL",
+        "CU_NO": "014",
+        "GEOCODE": "18031409014",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "09",
+        "WARD_NAME": "PROR/SALEL",
+        "LATITUDE": -5.629424,
+        "LONGITUDE": 151.462575,
+        "REGHH": 10,
+        "TOTPOP2000": 102,
+        "MALE2000": 50,
+        "FEMALE2000": 52,
+        "POP2008": 126,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031409014,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5043,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.4574349998254,
+          -5.631372000117665
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5043,
+        "CU_NAME": "LATA / TONAMUSU",
+        "CU_NO": "015",
+        "GEOCODE": "18031409015",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "09",
+        "WARD_NAME": "PROR/SALEL",
+        "LATITUDE": -5.630925,
+        "LONGITUDE": 151.456481,
+        "REGHH": 4,
+        "TOTPOP2000": 25,
+        "MALE2000": 11,
+        "FEMALE2000": 14,
+        "POP2008": 33,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031409015,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

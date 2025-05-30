@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.82774772028108,
+          -6.614244989814381
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30232,
+        "CU_NAME": "BI'API'ARATA",
+        "CU_NO": "005",
+        "GEOCODE": "11060810005",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "10",
+        "WARD_NAME": "BI'API'ARATA",
+        "LATITUDE": -6.614245,
+        "LONGITUDE": 145.827748,
+        "REGHH": 17,
+        "TOTPOP2000": 85,
+        "MALE2000": 40,
+        "FEMALE2000": 45,
+        "POP2008": 101,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.82762244022354,
+          -6.606315000037171
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30233,
+        "CU_NAME": "LOPAVERA",
+        "CU_NO": "006",
+        "GEOCODE": "11060810006",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "10",
+        "WARD_NAME": "BI'API'ARATA",
+        "LATITUDE": -6.606315,
+        "LONGITUDE": 145.827622,
+        "REGHH": 6,
+        "TOTPOP2000": 24,
+        "MALE2000": 11,
+        "FEMALE2000": 13,
+        "POP2008": 32,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8279338403745,
+          -6.596862479619688
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30234,
+        "CU_NAME": "ONAKOAUPA",
+        "CU_NO": "007",
+        "GEOCODE": "11060810007",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "10",
+        "WARD_NAME": "BI'API'ARATA",
+        "LATITUDE": -6.596862,
+        "LONGITUDE": 145.827934,
+        "REGHH": 25,
+        "TOTPOP2000": 116,
+        "MALE2000": 61,
+        "FEMALE2000": 55,
+        "POP2008": 140,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

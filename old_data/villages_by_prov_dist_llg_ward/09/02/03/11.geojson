@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.29935899961822,
+          -5.714188999822454
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16258,
+        "CU_NAME": "MOKA",
+        "CU_NO": "026",
+        "GEOCODE": "09020311026",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "MOKA",
+        "LATITUDE": -5.715125,
+        "LONGITUDE": 144.299693,
+        "REGHH": 56,
+        "TOTPOP2000": 253,
+        "MALE2000": 117,
+        "FEMALE2000": 136,
+        "POP2008": 308,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020311026,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.29913099989574,
+          -5.715955000322936
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16259,
+        "CU_NAME": "ULGNA",
+        "CU_NO": "027",
+        "GEOCODE": "09020311027",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "MOKA",
+        "LATITUDE": -5.716891,
+        "LONGITUDE": 144.299465,
+        "REGHH": 54,
+        "TOTPOP2000": 221,
+        "MALE2000": 107,
+        "FEMALE2000": 114,
+        "POP2008": 270,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020311027,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.30205499983845,
+          -5.712839999666187
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16260,
+        "CU_NAME": "MOKA KUU",
+        "CU_NO": "028",
+        "GEOCODE": "09020311028",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "MOKA",
+        "LATITUDE": -5.713776,
+        "LONGITUDE": 144.302389,
+        "REGHH": 80,
+        "TOTPOP2000": 309,
+        "MALE2000": 163,
+        "FEMALE2000": 146,
+        "POP2008": 377,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020311028,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2989660003807,
+          -5.718315000336929
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16261,
+        "CU_NAME": "MOKA SWAMP",
+        "CU_NO": "029",
+        "GEOCODE": "09020311029",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "MOKA",
+        "LATITUDE": -5.719251,
+        "LONGITUDE": 144.2993,
+        "REGHH": 30,
+        "TOTPOP2000": 110,
+        "MALE2000": 52,
+        "FEMALE2000": 58,
+        "POP2008": 134,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020311029,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

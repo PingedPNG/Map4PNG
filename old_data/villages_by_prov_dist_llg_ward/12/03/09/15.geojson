@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10928,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.64030900006037,
+          -7.857932000161611
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10928,
+        "CU_NAME": "AINSE",
+        "CU_NO": "001",
+        "GEOCODE": "12030915001",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "15",
+        "WARD_NAME": "AINSE",
+        "LATITUDE": -7.859367,
+        "LONGITUDE": 147.639291,
+        "REGHH": 113,
+        "TOTPOP2000": 547,
+        "MALE2000": 285,
+        "FEMALE2000": 262,
+        "POP2008": 683,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030915001,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

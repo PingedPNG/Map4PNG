@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10797,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.71906400040336,
+          -6.456593999713277
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10797,
+        "CU_NAME": "BORINGBONENG",
+        "CU_NO": "006",
+        "GEOCODE": "12020703006",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "03",
+        "WARD_NAME": "BORINGBONENG",
+        "LATITUDE": -6.458014,
+        "LONGITUDE": 147.71805,
+        "REGHH": 50,
+        "TOTPOP2000": 268,
+        "MALE2000": 142,
+        "FEMALE2000": 126,
+        "POP2008": 335,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020703006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10798,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6927009996515,
+          -6.44413199969199
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10798,
+        "CU_NAME": "NANDUO",
+        "CU_NO": "032",
+        "GEOCODE": "12020703032",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "03",
+        "WARD_NAME": "BORINGBONENG",
+        "LATITUDE": -6.445552,
+        "LONGITUDE": 147.691687,
+        "REGHH": 74,
+        "TOTPOP2000": 412,
+        "MALE2000": 220,
+        "FEMALE2000": 192,
+        "POP2008": 515,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020703032,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10799,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.72483100015063,
+          -6.476754000396738
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10799,
+        "CU_NAME": "SILILIO",
+        "CU_NO": "035",
+        "GEOCODE": "12020703035",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "03",
+        "WARD_NAME": "BORINGBONENG",
+        "LATITUDE": -6.478174,
+        "LONGITUDE": 147.723817,
+        "REGHH": 37,
+        "TOTPOP2000": 200,
+        "MALE2000": 107,
+        "FEMALE2000": 93,
+        "POP2008": 250,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020703035,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10800,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.70110899978056,
+          -6.467736000016316
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10800,
+        "CU_NAME": "SOSONINKO",
+        "CU_NO": "037",
+        "GEOCODE": "12020703037",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "03",
+        "WARD_NAME": "BORINGBONENG",
+        "LATITUDE": -6.469156,
+        "LONGITUDE": 147.700095,
+        "REGHH": 51,
+        "TOTPOP2000": 285,
+        "MALE2000": 145,
+        "FEMALE2000": 140,
+        "POP2008": 355,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020703037,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

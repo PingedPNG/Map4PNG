@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15600,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.50512900020328,
+          -8.624033000122836
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15600,
+        "CU_NAME": "IASA",
+        "CU_NO": "008",
+        "GEOCODE": "01031218008",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "18",
+        "WARD_NAME": "SAMARI",
+        "LATITUDE": -8.625465,
+        "LONGITUDE": 143.504054,
+        "REGHH": 26,
+        "TOTPOP2000": 220,
+        "MALE2000": 102,
+        "FEMALE2000": 118,
+        "POP2008": 285,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031218008,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15601,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63772400036237,
+          -8.65136199955657
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15601,
+        "CU_NAME": "OROMOSAPUO",
+        "CU_NO": "015",
+        "GEOCODE": "01031218015",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "18",
+        "WARD_NAME": "SAMARI",
+        "LATITUDE": -8.648764,
+        "LONGITUDE": 143.638641,
+        "REGHH": 27,
+        "TOTPOP2000": 205,
+        "MALE2000": 98,
+        "FEMALE2000": 107,
+        "POP2008": 265,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031218015,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15602,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.61623300035274,
+          -8.695571000401287
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15602,
+        "CU_NAME": "SAMARI",
+        "CU_NO": "018",
+        "GEOCODE": "01031218018",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "18",
+        "WARD_NAME": "SAMARI",
+        "LATITUDE": -8.700733,
+        "LONGITUDE": 143.615297,
+        "REGHH": 36,
+        "TOTPOP2000": 298,
+        "MALE2000": 138,
+        "FEMALE2000": 160,
+        "POP2008": 386,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031218018,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15603,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62675099975888,
+          -8.702814999912277
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15603,
+        "CU_NAME": "SAMARI COMMUNITY SCHOOL",
+        "CU_NO": "019",
+        "GEOCODE": "01031218019",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "18",
+        "WARD_NAME": "SAMARI",
+        "LATITUDE": -8.711993,
+        "LONGITUDE": 143.62661,
+        "REGHH": 3,
+        "TOTPOP2000": 24,
+        "MALE2000": 9,
+        "FEMALE2000": 15,
+        "POP2008": 32,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031218019,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.61770900007036,
+          -8.70471800043532
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15604,
+        "CU_NAME": "SAMARI HEALTH CENTRE",
+        "CU_NO": "020",
+        "GEOCODE": "01031218020",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "18",
+        "WARD_NAME": "SAMARI",
+        "LATITUDE": -8.711993,
+        "LONGITUDE": 143.61479,
+        "REGHH": 1,
+        "TOTPOP2000": 4,
+        "MALE2000": 4,
+        "FEMALE2000": 0,
+        "POP2008": 4,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031218020,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15605,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.58926799971846,
+          -8.660909000050253
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15605,
+        "CU_NAME": "SAGUANE",
+        "CU_NO": "027",
+        "GEOCODE": "01031218027",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "18",
+        "WARD_NAME": "SAMARI",
+        "LATITUDE": -8.662341,
+        "LONGITUDE": 143.588194,
+        "REGHH": 1,
+        "TOTPOP2000": 6,
+        "MALE2000": 4,
+        "FEMALE2000": 2,
+        "POP2008": 6,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031218027,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8038,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9038050002007,
+          -4.425657999816792
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8038,
+        "CU_NAME": "BEIAMP",
+        "CU_NO": "003",
+        "GEOCODE": "13010329003",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "29",
+        "WARD_NAME": "GIAR WAZAMB",
+        "LATITUDE": -4.42705,
+        "LONGITUDE": 144.902757,
+        "REGHH": 116,
+        "TOTPOP2000": 588,
+        "MALE2000": 287,
+        "FEMALE2000": 301,
+        "POP2008": 728,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010329003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8039,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.92503399981933,
+          -4.41501500004216
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8039,
+        "CU_NAME": "GIAR",
+        "CU_NO": "005",
+        "GEOCODE": "13010329005",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "29",
+        "WARD_NAME": "GIAR WAZAMB",
+        "LATITUDE": -4.416407,
+        "LONGITUDE": 144.923986,
+        "REGHH": 58,
+        "TOTPOP2000": 296,
+        "MALE2000": 155,
+        "FEMALE2000": 141,
+        "POP2008": 366,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010329005,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8040,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.91618199989944,
+          -4.422256000314121
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8040,
+        "CU_NAME": "WAZAMB",
+        "CU_NO": "008",
+        "GEOCODE": "13010329008",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "29",
+        "WARD_NAME": "GIAR WAZAMB",
+        "LATITUDE": -4.419976,
+        "LONGITUDE": 144.913483,
+        "REGHH": 32,
+        "TOTPOP2000": 181,
+        "MALE2000": 93,
+        "FEMALE2000": 88,
+        "POP2008": 224,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010329008,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7837,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.00617000024533,
+          -4.389367999933199
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7837,
+        "CU_NAME": "DONGKANAM",
+        "CU_NO": "001",
+        "GEOCODE": "13010102001",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "02",
+        "WARD_NAME": "DAGUI",
+        "LATITUDE": -4.391119,
+        "LONGITUDE": 145.002574,
+        "REGHH": 26,
+        "TOTPOP2000": 144,
+        "MALE2000": 75,
+        "FEMALE2000": 69,
+        "POP2008": 178,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010102001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7838,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.01184400020054,
+          -4.336516999859612
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7838,
+        "CU_NAME": "DAGUI",
+        "CU_NO": "009",
+        "GEOCODE": "13010102009",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "02",
+        "WARD_NAME": "DAGUI",
+        "LATITUDE": -4.33668,
+        "LONGITUDE": 145.011208,
+        "REGHH": 7,
+        "TOTPOP2000": 36,
+        "MALE2000": 17,
+        "FEMALE2000": 19,
+        "POP2008": 44,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010102009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7839,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.00777399957053,
+          -4.333179999757135
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7839,
+        "CU_NAME": "LILAU",
+        "CU_NO": "013",
+        "GEOCODE": "13010102013",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "02",
+        "WARD_NAME": "DAGUI",
+        "LATITUDE": -4.333281,
+        "LONGITUDE": 145.00845,
+        "REGHH": 30,
+        "TOTPOP2000": 171,
+        "MALE2000": 88,
+        "FEMALE2000": 83,
+        "POP2008": 212,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010102013,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7840,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99889200006578,
+          -4.362990000288221
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7840,
+        "CU_NAME": "KONGWAN",
+        "CU_NO": "014",
+        "GEOCODE": "13010102014",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "02",
+        "WARD_NAME": "DAGUI",
+        "LATITUDE": -4.368296,
+        "LONGITUDE": 144.994121,
+        "REGHH": 12,
+        "TOTPOP2000": 107,
+        "MALE2000": 57,
+        "FEMALE2000": 50,
+        "POP2008": 131,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010102014,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7841,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.00151999984814,
+          -4.349042000088161
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7841,
+        "CU_NAME": "SAWAT",
+        "CU_NO": "015",
+        "GEOCODE": "13010102015",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "02",
+        "WARD_NAME": "DAGUI",
+        "LATITUDE": -4.350433,
+        "LONGITUDE": 145.000473,
+        "REGHH": 12,
+        "TOTPOP2000": 79,
+        "MALE2000": 37,
+        "FEMALE2000": 42,
+        "POP2008": 96,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010102015,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7768,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.44700068353484,
+          -7.948189004818687
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7768,
+        "CU_NAME": "AIVAU",
+        "CU_NO": "001",
+        "GEOCODE": "02020916001",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "16",
+        "WARD_NAME": "KOIALAHU",
+        "LATITUDE": -7.946925,
+        "LONGITUDE": 145.446986,
+        "REGHH": 50,
+        "TOTPOP2000": 260,
+        "MALE2000": 128,
+        "FEMALE2000": 132,
+        "POP2008": 319,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020916001,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7769,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.45470534097876,
+          -7.94796822125636
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7769,
+        "CU_NAME": "KOIALAHU",
+        "CU_NO": "012",
+        "GEOCODE": "02020916012",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "16",
+        "WARD_NAME": "KOIALAHU",
+        "LATITUDE": -7.948328,
+        "LONGITUDE": 145.454174,
+        "REGHH": 53,
+        "TOTPOP2000": 364,
+        "MALE2000": 183,
+        "FEMALE2000": 181,
+        "POP2008": 446,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020916012,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7770,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4955588597536,
+          -7.9446421964801175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7770,
+        "CU_NAME": "KEAKEA",
+        "CU_NO": "013",
+        "GEOCODE": "02020916013",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "16",
+        "WARD_NAME": "KOIALAHU",
+        "LATITUDE": -7.946338,
+        "LONGITUDE": 145.483573,
+        "REGHH": 35,
+        "TOTPOP2000": 295,
+        "MALE2000": 147,
+        "FEMALE2000": 148,
+        "POP2008": 363,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020916013,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7771,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.48385012018696,
+          -7.943751117619911
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7771,
+        "CU_NAME": "EPEMIAVO",
+        "CU_NO": "014",
+        "GEOCODE": "02020916014",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "16",
+        "WARD_NAME": "KOIALAHU",
+        "LATITUDE": -7.940605,
+        "LONGITUDE": 145.48439,
+        "REGHH": 23,
+        "TOTPOP2000": 146,
+        "MALE2000": 74,
+        "FEMALE2000": 72,
+        "POP2008": 179,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020916014,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

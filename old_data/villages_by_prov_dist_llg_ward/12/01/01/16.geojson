@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10368,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6187319998819,
+          -6.965763999808701
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10368,
+        "CU_NAME": "PAMALABUS-2",
+        "CU_NO": "001",
+        "GEOCODE": "12010116001",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "16",
+        "WARD_NAME": "ZENAG",
+        "LATITUDE": -6.967187,
+        "LONGITUDE": 146.617702,
+        "REGHH": 89,
+        "TOTPOP2000": 437,
+        "MALE2000": 215,
+        "FEMALE2000": 222,
+        "POP2008": 545,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010116001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10369,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5995460000479,
+          -6.947600000339719
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10369,
+        "CU_NAME": "ZENAG",
+        "CU_NO": "018",
+        "GEOCODE": "12010116018",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "16",
+        "WARD_NAME": "ZENAG",
+        "LATITUDE": -6.949023,
+        "LONGITUDE": 146.598516,
+        "REGHH": 159,
+        "TOTPOP2000": 818,
+        "MALE2000": 428,
+        "FEMALE2000": 390,
+        "POP2008": 1021,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010116018,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10370,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6142089999455,
+          -6.945811999723958
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10370,
+        "CU_NAME": "ZENAG NEW TOWN",
+        "CU_NO": "402",
+        "GEOCODE": "12010116402",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "16",
+        "WARD_NAME": "ZENAG",
+        "LATITUDE": -6.947235,
+        "LONGITUDE": 146.613179,
+        "REGHH": 28,
+        "TOTPOP2000": 126,
+        "MALE2000": 76,
+        "FEMALE2000": 50,
+        "POP2008": 158,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010116402,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10371,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6137379998089,
+          -6.927613999586356
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10371,
+        "CU_NAME": "ZENAG FARM",
+        "CU_NO": "502",
+        "GEOCODE": "12010116502",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "16",
+        "WARD_NAME": "ZENAG",
+        "LATITUDE": -6.929037,
+        "LONGITUDE": 146.612708,
+        "REGHH": 171,
+        "TOTPOP2000": 921,
+        "MALE2000": 507,
+        "FEMALE2000": 414,
+        "POP2008": 1149,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010116502,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

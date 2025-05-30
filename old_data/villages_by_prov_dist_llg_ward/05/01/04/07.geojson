@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9688,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.52225499986844,
+          -10.232138000168504
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9688,
+        "CU_NAME": "AWAIAMA",
+        "CU_NO": "001",
+        "GEOCODE": "05010407001",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "AWAIAMA",
+        "LATITUDE": -10.232326,
+        "LONGITUDE": 150.522171,
+        "REGHH": 71,
+        "TOTPOP2000": 358,
+        "MALE2000": 203,
+        "FEMALE2000": 155,
+        "POP2008": 436,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010407001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

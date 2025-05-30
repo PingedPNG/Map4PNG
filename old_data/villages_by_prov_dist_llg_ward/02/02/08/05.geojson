@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7681,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2284090003751,
+          -7.226569000259133
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7681,
+        "CU_NAME": "KABARAU",
+        "CU_NO": "002",
+        "GEOCODE": "02020805002",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "KABARAU",
+        "LATITUDE": -7.22475,
+        "LONGITUDE": 144.227204,
+        "REGHH": 27,
+        "TOTPOP2000": 170,
+        "MALE2000": 83,
+        "FEMALE2000": 87,
+        "POP2008": 209,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020805002,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7682,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.19407299976922,
+          -7.262148999776457
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7682,
+        "CU_NAME": "WAIRA",
+        "CU_NO": "006",
+        "GEOCODE": "02020805006",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "KABARAU",
+        "LATITUDE": -7.26357,
+        "LONGITUDE": 144.193011,
+        "REGHH": 12,
+        "TOTPOP2000": 75,
+        "MALE2000": 37,
+        "FEMALE2000": 38,
+        "POP2008": 91,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020805006,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7683,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.19286199968155,
+          -7.28782100013899
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7683,
+        "CU_NAME": "MIDDLE TOWN",
+        "CU_NO": "007",
+        "GEOCODE": "02020805007",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "KABARAU",
+        "LATITUDE": -7.289242,
+        "LONGITUDE": 144.191799,
+        "REGHH": 2,
+        "TOTPOP2000": 11,
+        "MALE2000": 4,
+        "FEMALE2000": 7,
+        "POP2008": 11,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020805007,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

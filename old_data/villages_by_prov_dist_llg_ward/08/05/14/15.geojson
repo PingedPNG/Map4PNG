@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5977,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.84500899956572,
+          -5.711256000364074
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5977,
+        "CU_NAME": "WANIMAS",
+        "CU_NO": "001",
+        "GEOCODE": "08051415001",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "15",
+        "WARD_NAME": "WANIMAS",
+        "LATITUDE": -5.71266,
+        "LONGITUDE": 143.843945,
+        "REGHH": 117,
+        "TOTPOP2000": 633,
+        "MALE2000": 335,
+        "FEMALE2000": 298,
+        "POP2008": 795,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051415001,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

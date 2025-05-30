@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7256380001936,
+          -5.3314099997716085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9309,
+        "CU_NAME": "AMBISIBA",
+        "CU_NO": "009",
+        "GEOCODE": "13061636009",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "36",
+        "WARD_NAME": "AMBISIBA",
+        "LATITUDE": -5.336869,
+        "LONGITUDE": 144.719487,
+        "REGHH": 85,
+        "TOTPOP2000": 408,
+        "MALE2000": 208,
+        "FEMALE2000": 200,
+        "POP2008": 505,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061636009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9310,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7340290004381,
+          -5.319462000071212
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9310,
+        "CU_NAME": "KOMARAGA",
+        "CU_NO": "010",
+        "GEOCODE": "13061636010",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "36",
+        "WARD_NAME": "AMBISIBA",
+        "LATITUDE": -5.320864,
+        "LONGITUDE": 144.732977,
+        "REGHH": 88,
+        "TOTPOP2000": 438,
+        "MALE2000": 202,
+        "FEMALE2000": 236,
+        "POP2008": 542,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061636010,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4620,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.16765300018585,
+          -4.3670729997191415
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4620,
+        "CU_NAME": "TAGITAGI NO.1",
+        "CU_NO": "001",
+        "GEOCODE": "18010517001",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "TAGITAGI NO.1",
+        "LATITUDE": -4.368474,
+        "LONGITUDE": 152.166707,
+        "REGHH": 174,
+        "TOTPOP2000": 1116,
+        "MALE2000": 576,
+        "FEMALE2000": 540,
+        "POP2008": 1360,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010517001,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

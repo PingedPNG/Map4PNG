@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5866,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.545564999725,
+          -5.134555000412888
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5866,
+        "CU_NAME": "KAIYAMATOK",
+        "CU_NO": "003",
+        "GEOCODE": "08041206003",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAIYAMATOK",
+        "LATITUDE": -5.138047,
+        "LONGITUDE": 143.55085,
+        "REGHH": 101,
+        "TOTPOP2000": 603,
+        "MALE2000": 345,
+        "FEMALE2000": 258,
+        "POP2008": 758,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041206003,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

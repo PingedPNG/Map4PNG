@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9163,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.16933900019478,
+          -5.687708999970312
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9163,
+        "CU_NAME": "BOGAI",
+        "CU_NO": "003",
+        "GEOCODE": "13061511003",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -5.689115,
+        "LONGITUDE": 145.168292,
+        "REGHH": 10,
+        "TOTPOP2000": 56,
+        "MALE2000": 34,
+        "FEMALE2000": 22,
+        "POP2008": 72,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061511003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9164,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.14272000022788,
+          -5.664135000130102
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9164,
+        "CU_NAME": "GUIEBI",
+        "CU_NO": "013",
+        "GEOCODE": "13061511013",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "11",
+        "WARD_NAME": "WARD 11",
+        "LATITUDE": -5.665541,
+        "LONGITUDE": 145.141673,
+        "REGHH": 17,
+        "TOTPOP2000": 147,
+        "MALE2000": 77,
+        "FEMALE2000": 70,
+        "POP2008": 182,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061511013,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

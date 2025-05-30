@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4764,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.20809800012262,
+          -4.32912900000332
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4764,
+        "CU_NAME": "RANGUNA",
+        "CU_NO": "008",
+        "GEOCODE": "18020908008",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "08",
+        "WARD_NAME": "RANGUNA",
+        "LATITUDE": -4.33053,
+        "LONGITUDE": 152.207153,
+        "REGHH": 96,
+        "TOTPOP2000": 633,
+        "MALE2000": 336,
+        "FEMALE2000": 297,
+        "POP2008": 771,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020908008,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

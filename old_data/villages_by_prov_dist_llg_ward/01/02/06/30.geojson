@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15344,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.6129379998888,
+          -5.759277999879771
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15344,
+        "CU_NAME": "TAMIFEN",
+        "CU_NO": "009",
+        "GEOCODE": "01020630009",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "30",
+        "WARD_NAME": "TAMIFEN",
+        "LATITUDE": -5.760233,
+        "LONGITUDE": 141.614932,
+        "REGHH": 13,
+        "TOTPOP2000": 76,
+        "MALE2000": 39,
+        "FEMALE2000": 37,
+        "POP2008": 100,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020630009,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.72043199993686,
+          -5.748053000245704
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15345,
+        "CU_NAME": "HUPEN",
+        "CU_NO": "010",
+        "GEOCODE": "01020630010",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "30",
+        "WARD_NAME": "TAMIFEN",
+        "LATITUDE": -5.749454,
+        "LONGITUDE": 141.719342,
+        "REGHH": 6,
+        "TOTPOP2000": 30,
+        "MALE2000": 12,
+        "FEMALE2000": 18,
+        "POP2008": 38,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020630010,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

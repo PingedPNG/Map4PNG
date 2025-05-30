@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15430,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.31565499987846,
+          -5.719865999915896
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15430,
+        "CU_NAME": "HAWANAI",
+        "CU_NO": "003",
+        "GEOCODE": "01020816003",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "HAWENAI",
+        "LATITUDE": -5.721263,
+        "LONGITUDE": 141.318989,
+        "REGHH": 33,
+        "TOTPOP2000": 192,
+        "MALE2000": 103,
+        "FEMALE2000": 89,
+        "POP2008": 249,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020816003,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15431,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.32941100021753,
+          -5.707321999710473
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15431,
+        "CU_NAME": "KMENAI",
+        "CU_NO": "004",
+        "GEOCODE": "01020816004",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "HAWENAI",
+        "LATITUDE": -5.717594,
+        "LONGITUDE": 141.32537,
+        "REGHH": 36,
+        "TOTPOP2000": 185,
+        "MALE2000": 95,
+        "FEMALE2000": 90,
+        "POP2008": 240,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020816004,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15432,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.30925499971852,
+          -5.721488000071076
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15432,
+        "CU_NAME": "HOSOMRAE",
+        "CU_NO": "007",
+        "GEOCODE": "01020816007",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "HAWENAI",
+        "LATITUDE": -5.725839,
+        "LONGITUDE": 141.318495,
+        "REGHH": 9,
+        "TOTPOP2000": 53,
+        "MALE2000": 32,
+        "FEMALE2000": 21,
+        "POP2008": 69,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020816007,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15433,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.31569399987825,
+          -5.710586000043804
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15433,
+        "CU_NAME": "MOMTINAI",
+        "CU_NO": "023",
+        "GEOCODE": "01020816023",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "HAWENAI",
+        "LATITUDE": -5.715524,
+        "LONGITUDE": 141.313013,
+        "REGHH": 13,
+        "TOTPOP2000": 68,
+        "MALE2000": 38,
+        "FEMALE2000": 30,
+        "POP2008": 88,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020816023,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15434,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.3095030003633,
+          -5.725510000286249
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15434,
+        "CU_NAME": "SURINE",
+        "CU_NO": "024",
+        "GEOCODE": "01020816024",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "HAWENAI",
+        "LATITUDE": -5.733983,
+        "LONGITUDE": 141.309293,
+        "REGHH": 39,
+        "TOTPOP2000": 213,
+        "MALE2000": 108,
+        "FEMALE2000": 105,
+        "POP2008": 276,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020816024,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10287,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0922320000069,
+          -10.035936000346112
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10287,
+        "CU_NAME": "MWATEBU",
+        "CU_NO": "018",
+        "GEOCODE": "05041603018",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "16",
+        "WARD_NO": "03",
+        "WARD_NAME": "MWATEBU",
+        "LATITUDE": -10.03556,
+        "LONGITUDE": 151.097717,
+        "REGHH": 56,
+        "TOTPOP2000": 274,
+        "MALE2000": 132,
+        "FEMALE2000": 142,
+        "POP2008": 334,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041603018,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

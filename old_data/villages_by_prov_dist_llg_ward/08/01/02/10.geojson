@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5297,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.41401700018446,
+          -5.709715000346932
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5297,
+        "CU_NAME": "SIRINDAK",
+        "CU_NO": "001",
+        "GEOCODE": "08010210001",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "10",
+        "WARD_NAME": "SIRINDAK",
+        "LATITUDE": -5.71112,
+        "LONGITUDE": 143.412948,
+        "REGHH": 49,
+        "TOTPOP2000": 345,
+        "MALE2000": 179,
+        "FEMALE2000": 166,
+        "POP2008": 434,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010210001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3704290000984,
+          -5.698013000299682
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5298,
+        "CU_NAME": "YUMBIRIP",
+        "CU_NO": "002",
+        "GEOCODE": "08010210002",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "10",
+        "WARD_NAME": "SIRINDAK",
+        "LATITUDE": -5.702965,
+        "LONGITUDE": 143.377408,
+        "REGHH": 18,
+        "TOTPOP2000": 122,
+        "MALE2000": 65,
+        "FEMALE2000": 57,
+        "POP2008": 154,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010210002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5299,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.41052800026705,
+          -5.7201800000069625
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5299,
+        "CU_NAME": "AIEN",
+        "CU_NO": "003",
+        "GEOCODE": "08010210003",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "10",
+        "WARD_NAME": "SIRINDAK",
+        "LATITUDE": -5.721584,
+        "LONGITUDE": 143.409459,
+        "REGHH": 69,
+        "TOTPOP2000": 432,
+        "MALE2000": 196,
+        "FEMALE2000": 236,
+        "POP2008": 543,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010210003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5300,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.40293199981204,
+          -5.72773899965506
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5300,
+        "CU_NAME": "MAIP",
+        "CU_NO": "004",
+        "GEOCODE": "08010210004",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "10",
+        "WARD_NAME": "SIRINDAK",
+        "LATITUDE": -5.729143,
+        "LONGITUDE": 143.401863,
+        "REGHH": 17,
+        "TOTPOP2000": 108,
+        "MALE2000": 57,
+        "FEMALE2000": 51,
+        "POP2008": 135,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010210004,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5301,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.37187100004667,
+          -5.702586999890059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5301,
+        "CU_NAME": "MINJIP",
+        "CU_NO": "005",
+        "GEOCODE": "08010210005",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "10",
+        "WARD_NAME": "SIRINDAK",
+        "LATITUDE": -5.70399,
+        "LONGITUDE": 143.370801,
+        "REGHH": 21,
+        "TOTPOP2000": 145,
+        "MALE2000": 64,
+        "FEMALE2000": 81,
+        "POP2008": 182,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010210005,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5302,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.37375299960127,
+          -5.670892999712123
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5302,
+        "CU_NAME": "KAIPUTIN",
+        "CU_NO": "006",
+        "GEOCODE": "08010210006",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "10",
+        "WARD_NAME": "SIRINDAK",
+        "LATITUDE": -5.672296,
+        "LONGITUDE": 143.372684,
+        "REGHH": 23,
+        "TOTPOP2000": 155,
+        "MALE2000": 78,
+        "FEMALE2000": 77,
+        "POP2008": 194,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010210006,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

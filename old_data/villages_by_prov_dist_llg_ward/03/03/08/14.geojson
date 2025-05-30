@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1362,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7753499999027,
+          -9.046893000411615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1362,
+        "CU_NAME": "HISIU",
+        "CU_NO": "001",
+        "GEOCODE": "03030814001",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "14",
+        "WARD_NAME": "HISIU",
+        "LATITUDE": -9.048338,
+        "LONGITUDE": 146.774317,
+        "REGHH": 197,
+        "TOTPOP2000": 1404,
+        "MALE2000": 718,
+        "FEMALE2000": 686,
+        "POP2008": 1684,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030814001,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1363,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.80176700044683,
+          -9.04762499999373
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1363,
+        "CU_NAME": "AROA PLANTATION",
+        "CU_NO": "502",
+        "GEOCODE": "03030814502",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "14",
+        "WARD_NAME": "HISIU",
+        "LATITUDE": -9.04907,
+        "LONGITUDE": 146.800734,
+        "REGHH": 13,
+        "TOTPOP2000": 60,
+        "MALE2000": 33,
+        "FEMALE2000": 27,
+        "POP2008": 70,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030814502,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1364,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.77935500023318,
+          -9.051282999610692
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1364,
+        "CU_NAME": "HISIU BEACH ESTATE",
+        "CU_NO": "503",
+        "GEOCODE": "03030814503",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "14",
+        "WARD_NAME": "HISIU",
+        "LATITUDE": -9.052728,
+        "LONGITUDE": 146.778322,
+        "REGHH": 15,
+        "TOTPOP2000": 113,
+        "MALE2000": 67,
+        "FEMALE2000": 46,
+        "POP2008": 137,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030814503,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1365,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8178500001775,
+          -9.01699100013451
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1365,
+        "CU_NAME": "AGEVAIRU",
+        "CU_NO": "504",
+        "GEOCODE": "03030814504",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "14",
+        "WARD_NAME": "HISIU",
+        "LATITUDE": -9.018436,
+        "LONGITUDE": 146.816818,
+        "REGHH": 19,
+        "TOTPOP2000": 123,
+        "MALE2000": 75,
+        "FEMALE2000": 48,
+        "POP2008": 147,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030814504,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

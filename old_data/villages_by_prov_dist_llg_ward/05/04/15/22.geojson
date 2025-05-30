@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.84766010872715,
+          -9.697534955873493
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10267,
+        "CU_NAME": "BWAIOWA",
+        "CU_NO": "003",
+        "GEOCODE": "05041522003",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "22",
+        "WARD_NAME": "BWAIOWA",
+        "LATITUDE": -9.698109,
+        "LONGITUDE": 150.847806,
+        "REGHH": 152,
+        "TOTPOP2000": 686,
+        "MALE2000": 328,
+        "FEMALE2000": 358,
+        "POP2008": 835,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041522003,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

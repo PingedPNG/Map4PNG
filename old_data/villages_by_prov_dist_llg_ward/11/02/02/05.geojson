@@ -1,0 +1,933 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 28880,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.36964880005212,
+          -6.129474390031021
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28880,
+        "CU_NAME": "NOINEGA",
+        "CU_NO": "009",
+        "GEOCODE": "11020205009",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.129474,
+        "LONGITUDE": 145.369649,
+        "REGHH": 55,
+        "TOTPOP2000": 213,
+        "MALE2000": 102,
+        "FEMALE2000": 111,
+        "POP2008": 253,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28881,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3777048801761,
+          -6.146127630086028
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28881,
+        "CU_NAME": "MAKIYUKA",
+        "CU_NO": "024",
+        "GEOCODE": "11020205024",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.146128,
+        "LONGITUDE": 145.377705,
+        "REGHH": 32,
+        "TOTPOP2000": 128,
+        "MALE2000": 63,
+        "FEMALE2000": 65,
+        "POP2008": 152,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28882,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.37742587990056,
+          -6.1233951600585215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28882,
+        "CU_NAME": "GOMOTAHALOKA",
+        "CU_NO": "043",
+        "GEOCODE": "11020205043",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.123395,
+        "LONGITUDE": 145.377426,
+        "REGHH": 46,
+        "TOTPOP2000": 176,
+        "MALE2000": 100,
+        "FEMALE2000": 76,
+        "POP2008": 208,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28883,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.37108411983638,
+          -6.110766000350566
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28883,
+        "CU_NAME": "KAFANA",
+        "CU_NO": "044",
+        "GEOCODE": "11020205044",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.110766,
+        "LONGITUDE": 145.371084,
+        "REGHH": 61,
+        "TOTPOP2000": 235,
+        "MALE2000": 117,
+        "FEMALE2000": 118,
+        "POP2008": 280,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28884,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.34552339978518,
+          -6.12421137035841
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28884,
+        "CU_NAME": "OTOHATO",
+        "CU_NO": "045",
+        "GEOCODE": "11020205045",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.124211,
+        "LONGITUDE": 145.345523,
+        "REGHH": 47,
+        "TOTPOP2000": 119,
+        "MALE2000": 64,
+        "FEMALE2000": 55,
+        "POP2008": 143,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28885,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.37771460004876,
+          -6.125420790337159
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28885,
+        "CU_NAME": "MATEGA",
+        "CU_NO": "046",
+        "GEOCODE": "11020205046",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.125421,
+        "LONGITUDE": 145.377715,
+        "REGHH": 37,
+        "TOTPOP2000": 115,
+        "MALE2000": 61,
+        "FEMALE2000": 54,
+        "POP2008": 139,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28886,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.37003939989847,
+          -6.12517337964772
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28886,
+        "CU_NAME": "MURU",
+        "CU_NO": "047",
+        "GEOCODE": "11020205047",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.125173,
+        "LONGITUDE": 145.370039,
+        "REGHH": 42,
+        "TOTPOP2000": 137,
+        "MALE2000": 73,
+        "FEMALE2000": 64,
+        "POP2008": 161,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28887,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3659479999003,
+          -6.119288010233447
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28887,
+        "CU_NAME": "GUMONOUKA",
+        "CU_NO": "048",
+        "GEOCODE": "11020205048",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.119288,
+        "LONGITUDE": 145.365948,
+        "REGHH": 16,
+        "TOTPOP2000": 65,
+        "MALE2000": 35,
+        "FEMALE2000": 30,
+        "POP2008": 77,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.31572691966164,
+          -6.032428559730192
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28888,
+        "CU_NAME": "HUMILAVEKA",
+        "CU_NO": "049",
+        "GEOCODE": "11020205049",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.032429,
+        "LONGITUDE": 145.315727,
+        "REGHH": 14,
+        "TOTPOP2000": 75,
+        "MALE2000": 37,
+        "FEMALE2000": 38,
+        "POP2008": 91,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28889,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.36834523994094,
+          -6.1199201697799595
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28889,
+        "CU_NAME": "NAMAUKA",
+        "CU_NO": "050",
+        "GEOCODE": "11020205050",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.11992,
+        "LONGITUDE": 145.368345,
+        "REGHH": 55,
+        "TOTPOP2000": 189,
+        "MALE2000": 102,
+        "FEMALE2000": 87,
+        "POP2008": 225,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28890,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3588016397839,
+          -6.1218605704089555
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28890,
+        "CU_NAME": "GIHUZATE",
+        "CU_NO": "051",
+        "GEOCODE": "11020205051",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.121861,
+        "LONGITUDE": 145.358802,
+        "REGHH": 24,
+        "TOTPOP2000": 79,
+        "MALE2000": 46,
+        "FEMALE2000": 33,
+        "POP2008": 95,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28891,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.35566496006993,
+          -6.134688269847743
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28891,
+        "CU_NAME": "GRAUN BRUK",
+        "CU_NO": "052",
+        "GEOCODE": "11020205052",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.134688,
+        "LONGITUDE": 145.355665,
+        "REGHH": 51,
+        "TOTPOP2000": 172,
+        "MALE2000": 93,
+        "FEMALE2000": 79,
+        "POP2008": 204,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28892,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3746031202379,
+          -6.132371039791622
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28892,
+        "CU_NAME": "LAHAMOGONA",
+        "CU_NO": "053",
+        "GEOCODE": "11020205053",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.132371,
+        "LONGITUDE": 145.374603,
+        "REGHH": 65,
+        "TOTPOP2000": 256,
+        "MALE2000": 134,
+        "FEMALE2000": 122,
+        "POP2008": 305,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28893,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.365089040327,
+          -6.137375040325821
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28893,
+        "CU_NAME": "FESPAID",
+        "CU_NO": "054",
+        "GEOCODE": "11020205054",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.137375,
+        "LONGITUDE": 145.365089,
+        "REGHH": 62,
+        "TOTPOP2000": 223,
+        "MALE2000": 132,
+        "FEMALE2000": 91,
+        "POP2008": 265,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28894,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3789457998089,
+          -6.127317000079415
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28894,
+        "CU_NAME": "GAHAMUNALOKA",
+        "CU_NO": "055",
+        "GEOCODE": "11020205055",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.127317,
+        "LONGITUDE": 145.378946,
+        "REGHH": 21,
+        "TOTPOP2000": 63,
+        "MALE2000": 36,
+        "FEMALE2000": 27,
+        "POP2008": 73,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28895,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.36357776020554,
+          -6.123096540173151
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28895,
+        "CU_NAME": "LAHAMOGONA",
+        "CU_NO": "056",
+        "GEOCODE": "11020205056",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.123097,
+        "LONGITUDE": 145.363578,
+        "REGHH": 11,
+        "TOTPOP2000": 30,
+        "MALE2000": 20,
+        "FEMALE2000": 10,
+        "POP2008": 38,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28896,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3673023204458,
+          -6.128136539669526
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28896,
+        "CU_NAME": "LUPOHAKA",
+        "CU_NO": "057",
+        "GEOCODE": "11020205057",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.128137,
+        "LONGITUDE": 145.367302,
+        "REGHH": 7,
+        "TOTPOP2000": 26,
+        "MALE2000": 14,
+        "FEMALE2000": 12,
+        "POP2008": 34,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28897,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.35891971986928,
+          -6.137321310330151
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28897,
+        "CU_NAME": "WAIVEGA",
+        "CU_NO": "058",
+        "GEOCODE": "11020205058",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.137321,
+        "LONGITUDE": 145.35892,
+        "REGHH": 35,
+        "TOTPOP2000": 171,
+        "MALE2000": 80,
+        "FEMALE2000": 91,
+        "POP2008": 203,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28898,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.36983275997397,
+          -6.127195409940157
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28898,
+        "CU_NAME": "BUSH FIRE",
+        "CU_NO": "059",
+        "GEOCODE": "11020205059",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.127195,
+        "LONGITUDE": 145.369833,
+        "REGHH": 23,
+        "TOTPOP2000": 103,
+        "MALE2000": 53,
+        "FEMALE2000": 50,
+        "POP2008": 121,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28899,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.37420603987687,
+          -6.121203749653262
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28899,
+        "CU_NAME": "GEIRAMETOGA",
+        "CU_NO": "060",
+        "GEOCODE": "11020205060",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.121204,
+        "LONGITUDE": 145.374206,
+        "REGHH": 37,
+        "TOTPOP2000": 159,
+        "MALE2000": 80,
+        "FEMALE2000": 79,
+        "POP2008": 190,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28900,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3818607201962,
+          -6.1346842202005405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28900,
+        "CU_NAME": "GREEN CONNER",
+        "CU_NO": "061",
+        "GEOCODE": "11020205061",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.134684,
+        "LONGITUDE": 145.381861,
+        "REGHH": 20,
+        "TOTPOP2000": 67,
+        "MALE2000": 34,
+        "FEMALE2000": 33,
+        "POP2008": 81,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3673408402077,
+          -6.1325724600509375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28901,
+        "CU_NAME": "NEW CAMP",
+        "CU_NO": "062",
+        "GEOCODE": "11020205062",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.132572,
+        "LONGITUDE": 145.367341,
+        "REGHH": 15,
+        "TOTPOP2000": 73,
+        "MALE2000": 32,
+        "FEMALE2000": 41,
+        "POP2008": 89,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.36819619979485,
+          -6.128149409867319
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28902,
+        "CU_NAME": "VENEMETOKA",
+        "CU_NO": "064",
+        "GEOCODE": "11020205064",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.128149,
+        "LONGITUDE": 145.368196,
+        "REGHH": 22,
+        "TOTPOP2000": 91,
+        "MALE2000": 47,
+        "FEMALE2000": 44,
+        "POP2008": 107,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28903,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.37375100000872,
+          -6.12446066962417
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28903,
+        "CU_NAME": "YAHINOSE",
+        "CU_NO": "065",
+        "GEOCODE": "11020205065",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.124461,
+        "LONGITUDE": 145.373751,
+        "REGHH": 11,
+        "TOTPOP2000": 54,
+        "MALE2000": 25,
+        "FEMALE2000": 29,
+        "POP2008": 62,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28904,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3621928402274,
+          -6.131467800298708
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28904,
+        "CU_NAME": "KAMUKA",
+        "CU_NO": "066",
+        "GEOCODE": "11020205066",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.131468,
+        "LONGITUDE": 145.362193,
+        "REGHH": 23,
+        "TOTPOP2000": 84,
+        "MALE2000": 39,
+        "FEMALE2000": 45,
+        "POP2008": 100,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28905,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.38034295956004,
+          -6.139555290144472
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28905,
+        "CU_NAME": "IZAGURETO",
+        "CU_NO": "067",
+        "GEOCODE": "11020205067",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.139555,
+        "LONGITUDE": 145.380343,
+        "REGHH": 11,
+        "TOTPOP2000": 37,
+        "MALE2000": 18,
+        "FEMALE2000": 19,
+        "POP2008": 45,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28906,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3711460399578,
+          -6.125987429775989
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28906,
+        "CU_NAME": "FAMAUKA",
+        "CU_NO": "068",
+        "GEOCODE": "11020205068",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.125987,
+        "LONGITUDE": 145.371146,
+        "REGHH": 49,
+        "TOTPOP2000": 214,
+        "MALE2000": 116,
+        "FEMALE2000": 98,
+        "POP2008": 254,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28907,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.33472556013658,
+          -6.0939263704055975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28907,
+        "CU_NAME": "LAPEIGU STATION",
+        "CU_NO": "401",
+        "GEOCODE": "11020205401",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.093926,
+        "LONGITUDE": 145.334726,
+        "REGHH": 38,
+        "TOTPOP2000": 173,
+        "MALE2000": 93,
+        "FEMALE2000": 80,
+        "POP2008": 205,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28908,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.37162015984256,
+          -6.120204029991953
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28908,
+        "CU_NAME": "INAIVEGA PLTN",
+        "CU_NO": "403",
+        "GEOCODE": "11020205403",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "FIMITO",
+        "LATITUDE": -6.120204,
+        "LONGITUDE": 145.37162,
+        "REGHH": 14,
+        "TOTPOP2000": 66,
+        "MALE2000": 34,
+        "FEMALE2000": 32,
+        "POP2008": 79,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

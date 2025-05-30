@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.41671771964707,
+          -6.598795860140797
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30604,
+        "CU_NAME": "AMURAISA",
+        "CU_NO": "008",
+        "GEOCODE": "11071025008",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "25",
+        "WARD_NAME": "AMURAISA",
+        "LATITUDE": -6.598796,
+        "LONGITUDE": 145.416718,
+        "REGHH": 115,
+        "TOTPOP2000": 547,
+        "MALE2000": 263,
+        "FEMALE2000": 284,
+        "POP2008": 651,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30605,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4577688797301,
+          -6.576719309748285
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30605,
+        "CU_NAME": "AROWARAISA",
+        "CU_NO": "012",
+        "GEOCODE": "11071025012",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "25",
+        "WARD_NAME": "AMURAISA",
+        "LATITUDE": -6.576719,
+        "LONGITUDE": 145.457769,
+        "REGHH": 63,
+        "TOTPOP2000": 260,
+        "MALE2000": 124,
+        "FEMALE2000": 136,
+        "POP2008": 310,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30606,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.44707147996485,
+          -6.583700610095036
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30606,
+        "CU_NAME": "KEMO",
+        "CU_NO": "016",
+        "GEOCODE": "11071025016",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "25",
+        "WARD_NAME": "AMURAISA",
+        "LATITUDE": -6.583701,
+        "LONGITUDE": 145.447071,
+        "REGHH": 95,
+        "TOTPOP2000": 403,
+        "MALE2000": 198,
+        "FEMALE2000": 205,
+        "POP2008": 479,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30607,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.45482192009558,
+          -6.5565279901745726
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30607,
+        "CU_NAME": "HEPAVINA",
+        "CU_NO": "021",
+        "GEOCODE": "11071025021",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "25",
+        "WARD_NAME": "AMURAISA",
+        "LATITUDE": -6.556528,
+        "LONGITUDE": 145.454822,
+        "REGHH": 91,
+        "TOTPOP2000": 399,
+        "MALE2000": 204,
+        "FEMALE2000": 195,
+        "POP2008": 475,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30608,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.42440804009902,
+          -6.591789269958781
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30608,
+        "CU_NAME": "FORETU",
+        "CU_NO": "023",
+        "GEOCODE": "11071025023",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "25",
+        "WARD_NAME": "AMURAISA",
+        "LATITUDE": -6.591789,
+        "LONGITUDE": 145.424408,
+        "REGHH": 57,
+        "TOTPOP2000": 250,
+        "MALE2000": 131,
+        "FEMALE2000": 119,
+        "POP2008": 298,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30609,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.41621696004472,
+          -6.559902990230739
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30609,
+        "CU_NAME": "YAGASA",
+        "CU_NO": "040",
+        "GEOCODE": "11071025040",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "25",
+        "WARD_NAME": "AMURAISA",
+        "LATITUDE": -6.559903,
+        "LONGITUDE": 145.416217,
+        "REGHH": 34,
+        "TOTPOP2000": 141,
+        "MALE2000": 74,
+        "FEMALE2000": 67,
+        "POP2008": 166,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

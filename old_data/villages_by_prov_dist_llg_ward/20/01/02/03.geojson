@@ -1,0 +1,613 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.7457730004237,
+          -5.774467999798333
+        ]
+      },
+      "properties": {
+        "OBJECTID": 78,
+        "CU_NAME": "TOSIAVI",
+        "CU_NO": "001",
+        "GEOCODE": "20010203001",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.785036,
+        "LONGITUDE": 154.75067,
+        "REGHH": 30,
+        "TOTPOP2000": 198,
+        "MALE2000": 105,
+        "FEMALE2000": 93,
+        "POP2008": 222,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.73090800020407,
+          -5.762742999589705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 79,
+        "CU_NAME": "SIKEO",
+        "CU_NO": "002",
+        "GEOCODE": "20010203002",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.764167,
+        "LONGITUDE": 154.73,
+        "REGHH": 32,
+        "TOTPOP2000": 196,
+        "MALE2000": 100,
+        "FEMALE2000": 96,
+        "POP2008": 220,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.7476590001628,
+          -5.779915000077153
+        ]
+      },
+      "properties": {
+        "OBJECTID": 80,
+        "CU_NAME": "MAPISI",
+        "CU_NO": "003",
+        "GEOCODE": "20010203003",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.784444,
+        "LONGITUDE": 154.756389,
+        "REGHH": 46,
+        "TOTPOP2000": 256,
+        "MALE2000": 123,
+        "FEMALE2000": 133,
+        "POP2008": 288,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.7566070000131,
+          -5.793510000186302
+        ]
+      },
+      "properties": {
+        "OBJECTID": 81,
+        "CU_NAME": "KOATOROI",
+        "CU_NO": "004",
+        "GEOCODE": "20010203004",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.786389,
+        "LONGITUDE": 154.753056,
+        "REGHH": 30,
+        "TOTPOP2000": 159,
+        "MALE2000": 80,
+        "FEMALE2000": 79,
+        "POP2008": 179,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.7643019996376,
+          -5.780894000257831
+        ]
+      },
+      "properties": {
+        "OBJECTID": 82,
+        "CU_NAME": "KEPUI",
+        "CU_NO": "005",
+        "GEOCODE": "20010203005",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.786667,
+        "LONGITUDE": 154.760278,
+        "REGHH": 39,
+        "TOTPOP2000": 225,
+        "MALE2000": 118,
+        "FEMALE2000": 107,
+        "POP2008": 254,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.7888040000047,
+          -5.790943999665785
+        ]
+      },
+      "properties": {
+        "OBJECTID": 83,
+        "CU_NAME": "UBUIOPEI",
+        "CU_NO": "006",
+        "GEOCODE": "20010203006",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.79,
+        "LONGITUDE": 154.774167,
+        "REGHH": 38,
+        "TOTPOP2000": 233,
+        "MALE2000": 107,
+        "FEMALE2000": 126,
+        "POP2008": 264,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203006,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.77510200035715,
+          -5.774820999889187
+        ]
+      },
+      "properties": {
+        "OBJECTID": 84,
+        "CU_NAME": "KOPAEI",
+        "CU_NO": "007",
+        "GEOCODE": "20010203007",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.776245,
+        "LONGITUDE": 154.774194,
+        "REGHH": 43,
+        "TOTPOP2000": 301,
+        "MALE2000": 172,
+        "FEMALE2000": 129,
+        "POP2008": 341,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203007,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.78479699958189,
+          -5.807743000039352
+        ]
+      },
+      "properties": {
+        "OBJECTID": 85,
+        "CU_NAME": "TOHEI",
+        "CU_NO": "008",
+        "GEOCODE": "20010203008",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.809167,
+        "LONGITUDE": 154.783889,
+        "REGHH": 46,
+        "TOTPOP2000": 222,
+        "MALE2000": 117,
+        "FEMALE2000": 105,
+        "POP2008": 250,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203008,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.74087000005056,
+          -5.824787000019967
+        ]
+      },
+      "properties": {
+        "OBJECTID": 86,
+        "CU_NAME": "SISIAPAI",
+        "CU_NO": "009",
+        "GEOCODE": "20010203009",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.826211,
+        "LONGITUDE": 154.739962,
+        "REGHH": 57,
+        "TOTPOP2000": 287,
+        "MALE2000": 149,
+        "FEMALE2000": 138,
+        "POP2008": 323,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203009,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.7564639997139,
+          -5.842741999743453
+        ]
+      },
+      "properties": {
+        "OBJECTID": 87,
+        "CU_NAME": "ASITOKI",
+        "CU_NO": "010",
+        "GEOCODE": "20010203010",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.844167,
+        "LONGITUDE": 154.755556,
+        "REGHH": 59,
+        "TOTPOP2000": 278,
+        "MALE2000": 163,
+        "FEMALE2000": 115,
+        "POP2008": 312,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203010,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.75590800015414,
+          -5.844130999945662
+        ]
+      },
+      "properties": {
+        "OBJECTID": 88,
+        "CU_NAME": "KEAKARA",
+        "CU_NO": "011",
+        "GEOCODE": "20010203011",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.845556,
+        "LONGITUDE": 154.755,
+        "REGHH": 64,
+        "TOTPOP2000": 287,
+        "MALE2000": 152,
+        "FEMALE2000": 135,
+        "POP2008": 323,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203011,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.79701600008843,
+          -5.87705200004973
+        ]
+      },
+      "properties": {
+        "OBJECTID": 89,
+        "CU_NAME": "KAVIKI",
+        "CU_NO": "012",
+        "GEOCODE": "20010203012",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.878477,
+        "LONGITUDE": 154.796107,
+        "REGHH": 52,
+        "TOTPOP2000": 240,
+        "MALE2000": 122,
+        "FEMALE2000": 118,
+        "POP2008": 272,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203012,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.8220180001307,
+          -5.864685999958908
+        ]
+      },
+      "properties": {
+        "OBJECTID": 90,
+        "CU_NAME": "ASITAPAI",
+        "CU_NO": "013",
+        "GEOCODE": "20010203013",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.866111,
+        "LONGITUDE": 154.821111,
+        "REGHH": 50,
+        "TOTPOP2000": 233,
+        "MALE2000": 120,
+        "FEMALE2000": 113,
+        "POP2008": 264,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203013,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.74642700000607,
+          -5.93399199983088
+        ]
+      },
+      "properties": {
+        "OBJECTID": 91,
+        "CU_NAME": "AMUN",
+        "CU_NO": "014",
+        "GEOCODE": "20010203014",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.932222,
+        "LONGITUDE": 154.741389,
+        "REGHH": 29,
+        "TOTPOP2000": 169,
+        "MALE2000": 90,
+        "FEMALE2000": 79,
+        "POP2008": 193,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203014,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.78131499998733,
+          -5.922154999853319
+        ]
+      },
+      "properties": {
+        "OBJECTID": 92,
+        "CU_NAME": "BETARAIO",
+        "CU_NO": "015",
+        "GEOCODE": "20010203015",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.92178,
+        "LONGITUDE": 154.77033,
+        "REGHH": 69,
+        "TOTPOP2000": 351,
+        "MALE2000": 187,
+        "FEMALE2000": 164,
+        "POP2008": 395,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203015,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.83458399955202,
+          -5.886468999944327
+        ]
+      },
+      "properties": {
+        "OBJECTID": 93,
+        "CU_NAME": "AUKEI",
+        "CU_NO": "016",
+        "GEOCODE": "20010203016",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.886082,
+        "LONGITUDE": 154.827262,
+        "REGHH": 30,
+        "TOTPOP2000": 116,
+        "MALE2000": 55,
+        "FEMALE2000": 61,
+        "POP2008": 132,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203016,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.799928000377,
+          -5.934102999553716
+        ]
+      },
+      "properties": {
+        "OBJECTID": 94,
+        "CU_NAME": "KAUPAITAI",
+        "CU_NO": "017",
+        "GEOCODE": "20010203017",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.935529,
+        "LONGITUDE": 154.79902,
+        "REGHH": 30,
+        "TOTPOP2000": 123,
+        "MALE2000": 62,
+        "FEMALE2000": 61,
+        "POP2008": 139,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203017,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.75056800031302,
+          -5.786778000004631
+        ]
+      },
+      "properties": {
+        "OBJECTID": 95,
+        "CU_NAME": "KUNUA GOVT. STN",
+        "CU_NO": "402",
+        "GEOCODE": "20010203402",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.78486,
+        "LONGITUDE": 154.750696,
+        "REGHH": 6,
+        "TOTPOP2000": 29,
+        "MALE2000": 17,
+        "FEMALE2000": 12,
+        "POP2008": 29,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203402,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.7486439997209,
+          -5.8393200002178105
+        ]
+      },
+      "properties": {
+        "OBJECTID": 96,
+        "CU_NAME": "SIPAI H.S.C",
+        "CU_NO": "405",
+        "GEOCODE": "20010203405",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "RAPOIS",
+        "LATITUDE": -5.840745,
+        "LONGITUDE": 154.747736,
+        "REGHH": 8,
+        "TOTPOP2000": 63,
+        "MALE2000": 29,
+        "FEMALE2000": 34,
+        "POP2008": 71,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010203405,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19983,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.78001099960807,
+          -6.375337000002503
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19983,
+        "CU_NAME": "PIRA",
+        "CU_NO": "008",
+        "GEOCODE": "07030930008",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "30",
+        "WARD_NAME": "PIRA",
+        "LATITUDE": -6.379443,
+        "LONGITUDE": 143.778773,
+        "REGHH": 22,
+        "TOTPOP2000": 115,
+        "MALE2000": 58,
+        "FEMALE2000": 57,
+        "POP2008": 159,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030930008,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19984,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.77912900030321,
+          -6.3739330000079235
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19984,
+        "CU_NAME": "KANDA",
+        "CU_NO": "009",
+        "GEOCODE": "07030930009",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "30",
+        "WARD_NAME": "PIRA",
+        "LATITUDE": -6.379443,
+        "LONGITUDE": 143.778773,
+        "REGHH": 20,
+        "TOTPOP2000": 95,
+        "MALE2000": 56,
+        "FEMALE2000": 39,
+        "POP2008": 131,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030930009,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19985,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.77631099985285,
+          -6.375040999842213
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19985,
+        "CU_NAME": "ONDERE",
+        "CU_NO": "010",
+        "GEOCODE": "07030930010",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "30",
+        "WARD_NAME": "PIRA",
+        "LATITUDE": -6.379443,
+        "LONGITUDE": 143.778773,
+        "REGHH": 51,
+        "TOTPOP2000": 229,
+        "MALE2000": 108,
+        "FEMALE2000": 121,
+        "POP2008": 318,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030930010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19986,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.77667899973608,
+          -6.376575000435878
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19986,
+        "CU_NAME": "URIRI",
+        "CU_NO": "011",
+        "GEOCODE": "07030930011",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "30",
+        "WARD_NAME": "PIRA",
+        "LATITUDE": -6.379443,
+        "LONGITUDE": 143.778773,
+        "REGHH": 12,
+        "TOTPOP2000": 61,
+        "MALE2000": 33,
+        "FEMALE2000": 28,
+        "POP2008": 85,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030930011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19987,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.77620600040666,
+          -6.373382999825537
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19987,
+        "CU_NAME": "RAKE",
+        "CU_NO": "012",
+        "GEOCODE": "07030930012",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "30",
+        "WARD_NAME": "PIRA",
+        "LATITUDE": -6.379443,
+        "LONGITUDE": 143.778773,
+        "REGHH": 28,
+        "TOTPOP2000": 151,
+        "MALE2000": 78,
+        "FEMALE2000": 73,
+        "POP2008": 209,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030930012,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19988,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.77805500023817,
+          -6.3783939997832135
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19988,
+        "CU_NAME": "OGEAPA",
+        "CU_NO": "013",
+        "GEOCODE": "07030930013",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "30",
+        "WARD_NAME": "PIRA",
+        "LATITUDE": -6.379443,
+        "LONGITUDE": 143.778773,
+        "REGHH": 8,
+        "TOTPOP2000": 40,
+        "MALE2000": 25,
+        "FEMALE2000": 15,
+        "POP2008": 56,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030930013,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

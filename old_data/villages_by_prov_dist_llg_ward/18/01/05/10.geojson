@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4609,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1465189995522,
+          -4.347613999886164
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4609,
+        "CU_NAME": "VUNAKABI",
+        "CU_NO": "010",
+        "GEOCODE": "18010510010",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "VUNAKABI",
+        "LATITUDE": -4.349015,
+        "LONGITUDE": 152.145573,
+        "REGHH": 62,
+        "TOTPOP2000": 498,
+        "MALE2000": 262,
+        "FEMALE2000": 236,
+        "POP2008": 606,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010510010,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

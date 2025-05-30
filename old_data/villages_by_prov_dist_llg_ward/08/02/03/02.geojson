@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5373,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7468490000814,
+          -5.474988000096062
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5373,
+        "CU_NAME": "RAKAPOS",
+        "CU_NO": "001",
+        "GEOCODE": "08020302001",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "RAKAPOS",
+        "LATITUDE": -5.47639,
+        "LONGITUDE": 143.745785,
+        "REGHH": 88,
+        "TOTPOP2000": 471,
+        "MALE2000": 243,
+        "FEMALE2000": 228,
+        "POP2008": 592,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020302001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5374,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.74555599980965,
+          -5.466185999783988
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5374,
+        "CU_NAME": "TAKAWAS",
+        "CU_NO": "002",
+        "GEOCODE": "08020302002",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "RAKAPOS",
+        "LATITUDE": -5.467588,
+        "LONGITUDE": 143.744492,
+        "REGHH": 40,
+        "TOTPOP2000": 194,
+        "MALE2000": 103,
+        "FEMALE2000": 91,
+        "POP2008": 244,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020302002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5375,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.76187100034645,
+          -5.447584999947765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5375,
+        "CU_NAME": "WAMBUP",
+        "CU_NO": "003",
+        "GEOCODE": "08020302003",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "RAKAPOS",
+        "LATITUDE": -5.448986,
+        "LONGITUDE": 143.760807,
+        "REGHH": 52,
+        "TOTPOP2000": 250,
+        "MALE2000": 128,
+        "FEMALE2000": 122,
+        "POP2008": 314,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020302003,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

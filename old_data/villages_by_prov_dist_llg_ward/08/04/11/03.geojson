@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.56053200015174,
+          -5.411772999624191
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5755,
+        "CU_NAME": "TAMBITANIS",
+        "CU_NO": "002",
+        "GEOCODE": "08041103002",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "03",
+        "WARD_NAME": "TAMBITANIS",
+        "LATITUDE": -5.413189,
+        "LONGITUDE": 143.55595,
+        "REGHH": 36,
+        "TOTPOP2000": 287,
+        "MALE2000": 148,
+        "FEMALE2000": 139,
+        "POP2008": 361,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041103002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5756,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.55924200001834,
+          -5.396338000098581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5756,
+        "CU_NAME": "KULEILAM",
+        "CU_NO": "003",
+        "GEOCODE": "08041103003",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "03",
+        "WARD_NAME": "TAMBITANIS",
+        "LATITUDE": -5.397739,
+        "LONGITUDE": 143.558175,
+        "REGHH": 29,
+        "TOTPOP2000": 224,
+        "MALE2000": 119,
+        "FEMALE2000": 105,
+        "POP2008": 281,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041103003,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

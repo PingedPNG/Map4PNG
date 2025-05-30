@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13931,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.07197599969265,
+          -6.207275000141124
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13931,
+        "CU_NAME": "GIRIU",
+        "CU_NO": "001",
+        "GEOCODE": "10010208001",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "GIRIU NO.2",
+        "LATITUDE": -6.208687,
+        "LONGITUDE": 145.070927,
+        "REGHH": 34,
+        "TOTPOP2000": 173,
+        "MALE2000": 88,
+        "FEMALE2000": 85,
+        "POP2008": 197,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010208001,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13932,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.08721800021056,
+          -6.192819999942969
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13932,
+        "CU_NAME": "MAI CITY",
+        "CU_NO": "002",
+        "GEOCODE": "10010208002",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "GIRIU NO.2",
+        "LATITUDE": -6.194232,
+        "LONGITUDE": 145.086169,
+        "REGHH": 73,
+        "TOTPOP2000": 282,
+        "MALE2000": 155,
+        "FEMALE2000": 127,
+        "POP2008": 325,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010208002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13933,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.06447600006743,
+          -6.197749999762607
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13933,
+        "CU_NAME": "GUNSIKE",
+        "CU_NO": "003",
+        "GEOCODE": "10010208003",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "GIRIU NO.2",
+        "LATITUDE": -6.199162,
+        "LONGITUDE": 145.063427,
+        "REGHH": 92,
+        "TOTPOP2000": 461,
+        "MALE2000": 249,
+        "FEMALE2000": 212,
+        "POP2008": 531,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010208003,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

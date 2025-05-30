@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13962,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.18375300030084,
+          -6.3037340003238
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13962,
+        "CU_NAME": "KURAL",
+        "CU_NO": "008",
+        "GEOCODE": "10010216008",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "16",
+        "WARD_NAME": "KARAWERI NO.2",
+        "LATITUDE": -6.305147,
+        "LONGITUDE": 145.182705,
+        "REGHH": 94,
+        "TOTPOP2000": 392,
+        "MALE2000": 202,
+        "FEMALE2000": 190,
+        "POP2008": 452,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010216008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13963,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1876710002166,
+          -6.307890000423129
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13963,
+        "CU_NAME": "MANKAMUNSUGA",
+        "CU_NO": "009",
+        "GEOCODE": "10010216009",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "16",
+        "WARD_NAME": "KARAWERI NO.2",
+        "LATITUDE": -6.309303,
+        "LONGITUDE": 145.186623,
+        "REGHH": 119,
+        "TOTPOP2000": 438,
+        "MALE2000": 236,
+        "FEMALE2000": 202,
+        "POP2008": 505,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010216009,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13964,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.18627599973763,
+          -6.286395000229049
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13964,
+        "CU_NAME": "MUMERENDI",
+        "CU_NO": "010",
+        "GEOCODE": "10010216010",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "16",
+        "WARD_NAME": "KARAWERI NO.2",
+        "LATITUDE": -6.287808,
+        "LONGITUDE": 145.185228,
+        "REGHH": 25,
+        "TOTPOP2000": 88,
+        "MALE2000": 39,
+        "FEMALE2000": 49,
+        "POP2008": 104,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010216010,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

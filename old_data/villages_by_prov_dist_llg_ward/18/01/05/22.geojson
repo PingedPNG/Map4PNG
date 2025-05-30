@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4628,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1759060003617,
+          -4.423520000147846
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4628,
+        "CU_NAME": "WAIRIKI NO.4",
+        "CU_NO": "007",
+        "GEOCODE": "18010522007",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "WAIRIKI NO.4",
+        "LATITUDE": -4.424922,
+        "LONGITUDE": 152.17496,
+        "REGHH": 135,
+        "TOTPOP2000": 748,
+        "MALE2000": 384,
+        "FEMALE2000": 364,
+        "POP2008": 912,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010522007,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

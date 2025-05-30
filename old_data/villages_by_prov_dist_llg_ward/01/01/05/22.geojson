@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15257,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.26871899988203,
+          -6.390768000242986
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15257,
+        "CU_NAME": "YEHEBI",
+        "CU_NO": "001",
+        "GEOCODE": "01010522001",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "KUKUDOBI",
+        "LATITUDE": -6.393934,
+        "LONGITUDE": 142.271611,
+        "REGHH": 31,
+        "TOTPOP2000": 138,
+        "MALE2000": 76,
+        "FEMALE2000": 62,
+        "POP2008": 180,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010522001,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.23332099976437,
+          -6.300418000290449
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15258,
+        "CU_NAME": "GASUME",
+        "CU_NO": "002",
+        "GEOCODE": "01010522002",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "KUKUDOBI",
+        "LATITUDE": -6.301825,
+        "LONGITUDE": 142.232236,
+        "REGHH": 24,
+        "TOTPOP2000": 121,
+        "MALE2000": 71,
+        "FEMALE2000": 50,
+        "POP2008": 157,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010522002,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1731409998573,
+          -6.347543999855645
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15259,
+        "CU_NAME": "KUKUDOBI",
+        "CU_NO": "007",
+        "GEOCODE": "01010522007",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "KUKUDOBI",
+        "LATITUDE": -6.346734,
+        "LONGITUDE": 142.175139,
+        "REGHH": 17,
+        "TOTPOP2000": 84,
+        "MALE2000": 52,
+        "FEMALE2000": 32,
+        "POP2008": 108,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010522007,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

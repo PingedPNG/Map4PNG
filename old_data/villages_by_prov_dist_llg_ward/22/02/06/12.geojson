@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16881,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.56655699990574,
+          -5.417231000410311
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16881,
+        "CU_NAME": "KANDABIAMP",
+        "CU_NO": "004",
+        "GEOCODE": "09040612004",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "KANDABIAMP",
+        "LATITUDE": -5.418165,
+        "LONGITUDE": 144.566894,
+        "REGHH": 100,
+        "TOTPOP2000": 537,
+        "MALE2000": 262,
+        "FEMALE2000": 275,
+        "POP2008": 654,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040612004,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4720,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.27012799990734,
+          -4.398037000407214
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4720,
+        "CU_NAME": "RAMALE",
+        "CU_NO": "012",
+        "GEOCODE": "18020810012",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "10",
+        "WARD_NAME": "RAMALE",
+        "LATITUDE": -4.399439,
+        "LONGITUDE": 152.269183,
+        "REGHH": 75,
+        "TOTPOP2000": 484,
+        "MALE2000": 243,
+        "FEMALE2000": 241,
+        "POP2008": 589,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020810012,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21594,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.57795999985422,
+          -6.258880000311706
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21594,
+        "CU_NAME": "KESU",
+        "CU_NO": "003",
+        "GEOCODE": "07072606003",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "06",
+        "WARD_NAME": "UNDU KOPA",
+        "LATITUDE": -6.26256,
+        "LONGITUDE": 143.576221,
+        "REGHH": 10,
+        "TOTPOP2000": 37,
+        "MALE2000": 23,
+        "FEMALE2000": 14,
+        "POP2008": 53,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072606003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21595,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5754370004173,
+          -6.257094999834351
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21595,
+        "CU_NAME": "KENDA",
+        "CU_NO": "004",
+        "GEOCODE": "07072606004",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "06",
+        "WARD_NAME": "UNDU KOPA",
+        "LATITUDE": -6.26256,
+        "LONGITUDE": 143.576221,
+        "REGHH": 12,
+        "TOTPOP2000": 70,
+        "MALE2000": 28,
+        "FEMALE2000": 42,
+        "POP2008": 97,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072606004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21596,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.57939000014846,
+          -6.257651000293379
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21596,
+        "CU_NAME": "WAPIP",
+        "CU_NO": "005",
+        "GEOCODE": "07072606005",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "06",
+        "WARD_NAME": "UNDU KOPA",
+        "LATITUDE": -6.26256,
+        "LONGITUDE": 143.576221,
+        "REGHH": 15,
+        "TOTPOP2000": 82,
+        "MALE2000": 38,
+        "FEMALE2000": 44,
+        "POP2008": 114,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072606005,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21597,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.57917900031066,
+          -6.2585149996674545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21597,
+        "CU_NAME": "MESPAM",
+        "CU_NO": "006",
+        "GEOCODE": "07072606006",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "06",
+        "WARD_NAME": "UNDU KOPA",
+        "LATITUDE": -6.26256,
+        "LONGITUDE": 143.576221,
+        "REGHH": 9,
+        "TOTPOP2000": 57,
+        "MALE2000": 32,
+        "FEMALE2000": 25,
+        "POP2008": 79,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072606006,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21598,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5767620003661,
+          -6.25856200003625
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21598,
+        "CU_NAME": "KASARANA",
+        "CU_NO": "007",
+        "GEOCODE": "07072606007",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "06",
+        "WARD_NAME": "UNDU KOPA",
+        "LATITUDE": -6.26256,
+        "LONGITUDE": 143.576221,
+        "REGHH": 17,
+        "TOTPOP2000": 82,
+        "MALE2000": 39,
+        "FEMALE2000": 43,
+        "POP2008": 114,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072606007,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21599,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.57752200034008,
+          -6.257588000086116
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21599,
+        "CU_NAME": "UNDU",
+        "CU_NO": "008",
+        "GEOCODE": "07072606008",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "06",
+        "WARD_NAME": "UNDU KOPA",
+        "LATITUDE": -6.26256,
+        "LONGITUDE": 143.576221,
+        "REGHH": 34,
+        "TOTPOP2000": 157,
+        "MALE2000": 81,
+        "FEMALE2000": 76,
+        "POP2008": 218,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072606008,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21600,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5783839996219,
+          -6.257512000178622
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21600,
+        "CU_NAME": "SEPA",
+        "CU_NO": "010",
+        "GEOCODE": "07072606010",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "06",
+        "WARD_NAME": "UNDU KOPA",
+        "LATITUDE": -6.26256,
+        "LONGITUDE": 143.576221,
+        "REGHH": 14,
+        "TOTPOP2000": 73,
+        "MALE2000": 36,
+        "FEMALE2000": 37,
+        "POP2008": 101,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072606010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21601,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.57531700027937,
+          -6.259070000080385
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21601,
+        "CU_NAME": "KOPA",
+        "CU_NO": "011",
+        "GEOCODE": "07072606011",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "06",
+        "WARD_NAME": "UNDU KOPA",
+        "LATITUDE": -6.26256,
+        "LONGITUDE": 143.576221,
+        "REGHH": 27,
+        "TOTPOP2000": 127,
+        "MALE2000": 63,
+        "FEMALE2000": 64,
+        "POP2008": 177,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072606011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21602,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.57630099979133,
+          -6.257451000063554
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21602,
+        "CU_NAME": "KUPUL",
+        "CU_NO": "012",
+        "GEOCODE": "07072606012",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "06",
+        "WARD_NAME": "UNDU KOPA",
+        "LATITUDE": -6.26256,
+        "LONGITUDE": 143.576221,
+        "REGHH": 2,
+        "TOTPOP2000": 8,
+        "MALE2000": 4,
+        "FEMALE2000": 4,
+        "POP2008": 8,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072606012,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21603,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.57716099988033,
+          -6.257159000087711
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21603,
+        "CU_NAME": "ANDOL",
+        "CU_NO": "013",
+        "GEOCODE": "07072606013",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "06",
+        "WARD_NAME": "UNDU KOPA",
+        "LATITUDE": -6.26256,
+        "LONGITUDE": 143.576221,
+        "REGHH": 3,
+        "TOTPOP2000": 9,
+        "MALE2000": 3,
+        "FEMALE2000": 6,
+        "POP2008": 9,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072606013,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5750810001881,
+          -6.257815999808486
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21604,
+        "CU_NAME": "WEPI",
+        "CU_NO": "014",
+        "GEOCODE": "07072606014",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "06",
+        "WARD_NAME": "UNDU KOPA",
+        "LATITUDE": -6.26256,
+        "LONGITUDE": 143.576221,
+        "REGHH": 3,
+        "TOTPOP2000": 16,
+        "MALE2000": 9,
+        "FEMALE2000": 7,
+        "POP2008": 24,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072606014,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21605,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5759370000925,
+          -6.256661999651499
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21605,
+        "CU_NAME": "ETONIPA",
+        "CU_NO": "015",
+        "GEOCODE": "07072606015",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "06",
+        "WARD_NAME": "UNDU KOPA",
+        "LATITUDE": -6.26256,
+        "LONGITUDE": 143.576221,
+        "REGHH": 4,
+        "TOTPOP2000": 22,
+        "MALE2000": 10,
+        "FEMALE2000": 12,
+        "POP2008": 30,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072606015,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21606,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.57566400009364,
+          -6.259538000078578
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21606,
+        "CU_NAME": "MONOUTI/SUPAN",
+        "CU_NO": "098",
+        "GEOCODE": "07072606098",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "06",
+        "WARD_NAME": "UNDU KOPA",
+        "LATITUDE": -6.26256,
+        "LONGITUDE": 143.576221,
+        "REGHH": 21,
+        "TOTPOP2000": 113,
+        "MALE2000": 50,
+        "FEMALE2000": 63,
+        "POP2008": 157,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072606098,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

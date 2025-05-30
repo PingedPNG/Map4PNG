@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18826,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.13447600036716,
+          -4.910054999638476
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18826,
+        "CU_NAME": "BUSULMIN",
+        "CU_NO": "005",
+        "GEOCODE": "15031120005",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "20",
+        "WARD_NAME": "BUSULMIN",
+        "LATITUDE": -4.918288,
+        "LONGITUDE": 141.142478,
+        "REGHH": 15,
+        "TOTPOP2000": 87,
+        "MALE2000": 41,
+        "FEMALE2000": 46,
+        "POP2008": 103,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031120005,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.15337400040983,
+          -4.909990000238281
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18827,
+        "CU_NAME": "YENDUM",
+        "CU_NO": "006",
+        "GEOCODE": "15031120006",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "20",
+        "WARD_NAME": "BUSULMIN",
+        "LATITUDE": -4.918226,
+        "LONGITUDE": 141.142048,
+        "REGHH": 11,
+        "TOTPOP2000": 45,
+        "MALE2000": 22,
+        "FEMALE2000": 23,
+        "POP2008": 53,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031120006,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18828,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.16101999957334,
+          -4.913614000086
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18828,
+        "CU_NAME": "OKTULBIL",
+        "CU_NO": "007",
+        "GEOCODE": "15031120007",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "20",
+        "WARD_NAME": "BUSULMIN",
+        "LATITUDE": -4.919571,
+        "LONGITUDE": 141.145146,
+        "REGHH": 15,
+        "TOTPOP2000": 76,
+        "MALE2000": 35,
+        "FEMALE2000": 41,
+        "POP2008": 92,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031120007,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18829,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.15044600028273,
+          -4.924566999767194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18829,
+        "CU_NAME": "IMALBIL",
+        "CU_NO": "008",
+        "GEOCODE": "15031120008",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "20",
+        "WARD_NAME": "BUSULMIN",
+        "LATITUDE": -4.917978,
+        "LONGITUDE": 141.142527,
+        "REGHH": 21,
+        "TOTPOP2000": 142,
+        "MALE2000": 60,
+        "FEMALE2000": 82,
+        "POP2008": 172,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031120008,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18830,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.13931699967986,
+          -4.896981000172957
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18830,
+        "CU_NAME": "BONGMABIL",
+        "CU_NO": "009",
+        "GEOCODE": "15031120009",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "20",
+        "WARD_NAME": "BUSULMIN",
+        "LATITUDE": -4.889887,
+        "LONGITUDE": 141.148555,
+        "REGHH": 12,
+        "TOTPOP2000": 65,
+        "MALE2000": 33,
+        "FEMALE2000": 32,
+        "POP2008": 81,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031120009,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

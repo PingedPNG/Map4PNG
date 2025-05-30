@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.08442699960642,
+          -4.124643000374135
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5184,
+        "CU_NAME": "VUNAKABAI",
+        "CU_NO": "006",
+        "GEOCODE": "18041805006",
+        "PROV_KEY": "18",
+        "DIST_NO": "04",
+        "LLG_NO": "18",
+        "WARD_NO": "05",
+        "WARD_NAME": "VUNAKABAI",
+        "LATITUDE": -4.126041,
+        "LONGITUDE": 152.08348,
+        "REGHH": 42,
+        "TOTPOP2000": 214,
+        "MALE2000": 117,
+        "FEMALE2000": 97,
+        "POP2008": 260,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18041805006,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

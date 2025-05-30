@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5394,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.69478899961268,
+          -5.4215340000939705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5394,
+        "CU_NAME": "KASI",
+        "CU_NO": "002",
+        "GEOCODE": "08020309002",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "KASI",
+        "LATITUDE": -5.424449,
+        "LONGITUDE": 143.692727,
+        "REGHH": 48,
+        "TOTPOP2000": 214,
+        "MALE2000": 115,
+        "FEMALE2000": 99,
+        "POP2008": 269,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020309002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5395,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.69792899962374,
+          -5.423361999856354
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5395,
+        "CU_NAME": "YUKUMANDA",
+        "CU_NO": "003",
+        "GEOCODE": "08020309003",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "KASI",
+        "LATITUDE": -5.424763,
+        "LONGITUDE": 143.696864,
+        "REGHH": 49,
+        "TOTPOP2000": 265,
+        "MALE2000": 136,
+        "FEMALE2000": 129,
+        "POP2008": 333,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020309003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5396,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.68786200033117,
+          -5.420134000283838
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5396,
+        "CU_NAME": "ISAMANDA",
+        "CU_NO": "004",
+        "GEOCODE": "08020309004",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "KASI",
+        "LATITUDE": -5.421535,
+        "LONGITUDE": 143.686797,
+        "REGHH": 65,
+        "TOTPOP2000": 326,
+        "MALE2000": 186,
+        "FEMALE2000": 140,
+        "POP2008": 410,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020309004,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

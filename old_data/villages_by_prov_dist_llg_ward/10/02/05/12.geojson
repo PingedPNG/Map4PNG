@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.92004800011523,
+          -6.187641000331837
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14126,
+        "CU_NAME": "GUMINE STN",
+        "CU_NO": "401",
+        "GEOCODE": "10020512401",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "12",
+        "WARD_NAME": "GUMINE STN",
+        "LATITUDE": -6.189052,
+        "LONGITUDE": 144.918997,
+        "REGHH": 39,
+        "TOTPOP2000": 245,
+        "MALE2000": 127,
+        "FEMALE2000": 118,
+        "POP2008": 283,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020512401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

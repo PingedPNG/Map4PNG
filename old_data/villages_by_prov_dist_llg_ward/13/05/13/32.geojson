@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9017,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89865099974395,
+          -4.592472999729125
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9017,
+        "CU_NAME": "MARANGIS",
+        "CU_NO": "022",
+        "GEOCODE": "13051332022",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "32",
+        "WARD_NAME": "WARD 32",
+        "LATITUDE": -4.59387,
+        "LONGITUDE": 145.897616,
+        "REGHH": 110,
+        "TOTPOP2000": 606,
+        "MALE2000": 312,
+        "FEMALE2000": 294,
+        "POP2008": 750,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051332022,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9018,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91978999970877,
+          -4.610850000027426
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9018,
+        "CU_NAME": "MOM 1, 2 & 3",
+        "CU_NO": "024",
+        "GEOCODE": "13051332024",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "32",
+        "WARD_NAME": "WARD 32",
+        "LATITUDE": -4.612246,
+        "LONGITUDE": 145.918755,
+        "REGHH": 130,
+        "TOTPOP2000": 774,
+        "MALE2000": 412,
+        "FEMALE2000": 362,
+        "POP2008": 958,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051332024,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9019,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.894224999784,
+          -4.62039400038276
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9019,
+        "CU_NAME": "KULKUL PLTN.",
+        "CU_NO": "507",
+        "GEOCODE": "13051332507",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "32",
+        "WARD_NAME": "WARD 32",
+        "LATITUDE": -4.62179,
+        "LONGITUDE": 145.89319,
+        "REGHH": 21,
+        "TOTPOP2000": 260,
+        "MALE2000": 179,
+        "FEMALE2000": 81,
+        "POP2008": 321,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051332507,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9020,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89478400038138,
+          -4.608387999806325
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9020,
+        "CU_NAME": "MARANGIS PLTN.",
+        "CU_NO": "508",
+        "GEOCODE": "13051332508",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "32",
+        "WARD_NAME": "WARD 32",
+        "LATITUDE": -4.609784,
+        "LONGITUDE": 145.893749,
+        "REGHH": 28,
+        "TOTPOP2000": 143,
+        "MALE2000": 78,
+        "FEMALE2000": 65,
+        "POP2008": 177,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051332508,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.14322799997228,
+          -10.039395999825501
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10285,
+        "CU_NAME": "KELOLOGEA",
+        "CU_NO": "010",
+        "GEOCODE": "05041601010",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "16",
+        "WARD_NO": "01",
+        "WARD_NAME": "KELOLOGEA",
+        "LATITUDE": -10.035683,
+        "LONGITUDE": 151.146283,
+        "REGHH": 128,
+        "TOTPOP2000": 649,
+        "MALE2000": 349,
+        "FEMALE2000": 300,
+        "POP2008": 790,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041601010,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

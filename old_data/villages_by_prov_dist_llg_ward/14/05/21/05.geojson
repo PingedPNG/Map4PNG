@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.98551200037855,
+          -3.74472199992033
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7120,
+        "CU_NAME": "GATIKUM",
+        "CU_NO": "001",
+        "GEOCODE": "14052105001",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "21",
+        "WARD_NO": "05",
+        "WARD_NAME": "BAPANDU",
+        "LATITUDE": -3.746301,
+        "LONGITUDE": 142.984272,
+        "REGHH": 39,
+        "TOTPOP2000": 199,
+        "MALE2000": 113,
+        "FEMALE2000": 86,
+        "POP2008": 237,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052105001,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.96352700007105,
+          -3.727996000215171
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7121,
+        "CU_NAME": "BAPANDU",
+        "CU_NO": "003",
+        "GEOCODE": "14052105003",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "21",
+        "WARD_NO": "05",
+        "WARD_NAME": "BAPANDU",
+        "LATITUDE": -3.729575,
+        "LONGITUDE": 142.962285,
+        "REGHH": 102,
+        "TOTPOP2000": 435,
+        "MALE2000": 215,
+        "FEMALE2000": 220,
+        "POP2008": 518,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052105003,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

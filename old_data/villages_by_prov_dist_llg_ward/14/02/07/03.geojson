@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6402,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.12604200023816,
+          -4.288783000135311
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6402,
+        "CU_NAME": "KAMBOT 2",
+        "CU_NO": "008",
+        "GEOCODE": "14020703008",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "03",
+        "WARD_NAME": "KAMBOT",
+        "LATITUDE": -4.290346,
+        "LONGITUDE": 144.130911,
+        "REGHH": 26,
+        "TOTPOP2000": 157,
+        "MALE2000": 70,
+        "FEMALE2000": 87,
+        "POP2008": 188,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020703008,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

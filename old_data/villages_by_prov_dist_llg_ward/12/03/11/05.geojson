@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11005,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.86797999977728,
+          -6.702461000174992
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11005,
+        "CU_NAME": "PUSEKA",
+        "CU_NO": "001",
+        "GEOCODE": "12031105001",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MARKHAM BRIDGE",
+        "LATITUDE": -6.703882,
+        "LONGITUDE": 146.866954,
+        "REGHH": 48,
+        "TOTPOP2000": 265,
+        "MALE2000": 157,
+        "FEMALE2000": 108,
+        "POP2008": 331,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031105001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11006,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.85702600004993,
+          -6.686286999845095
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11006,
+        "CU_NAME": "JANSAM",
+        "CU_NO": "002",
+        "GEOCODE": "12031105002",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MARKHAM BRIDGE",
+        "LATITUDE": -6.687708,
+        "LONGITUDE": 146.856,
+        "REGHH": 14,
+        "TOTPOP2000": 77,
+        "MALE2000": 42,
+        "FEMALE2000": 35,
+        "POP2008": 94,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031105002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8892949997645,
+          -6.689675999647591
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11007,
+        "CU_NAME": "YASUA",
+        "CU_NO": "003",
+        "GEOCODE": "12031105003",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MARKHAM BRIDGE",
+        "LATITUDE": -6.691097,
+        "LONGITUDE": 146.891592,
+        "REGHH": 35,
+        "TOTPOP2000": 194,
+        "MALE2000": 110,
+        "FEMALE2000": 84,
+        "POP2008": 242,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031105003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.88941900008683,
+          -6.736389999998437
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11008,
+        "CU_NAME": "PILE",
+        "CU_NO": "004",
+        "GEOCODE": "12031105004",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MARKHAM BRIDGE",
+        "LATITUDE": -6.737811,
+        "LONGITUDE": 146.888393,
+        "REGHH": 13,
+        "TOTPOP2000": 61,
+        "MALE2000": 34,
+        "FEMALE2000": 27,
+        "POP2008": 77,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031105004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11009,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.84130800006426,
+          -6.684879999712166
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11009,
+        "CU_NAME": "POTSI/BUANG",
+        "CU_NO": "439",
+        "GEOCODE": "12031105439",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MARKHAM BRIDGE",
+        "LATITUDE": -6.6863,
+        "LONGITUDE": 146.840282,
+        "REGHH": 45,
+        "TOTPOP2000": 248,
+        "MALE2000": 146,
+        "FEMALE2000": 102,
+        "POP2008": 309,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031105439,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11010,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.88926099999526,
+          -6.6941770003681995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11010,
+        "CU_NAME": "MARKHAM BRIDGE (LUPU)",
+        "CU_NO": "513",
+        "GEOCODE": "12031105513",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "MARKHAM BRIDGE",
+        "LATITUDE": -6.693107,
+        "LONGITUDE": 146.890312,
+        "REGHH": 21,
+        "TOTPOP2000": 130,
+        "MALE2000": 64,
+        "FEMALE2000": 66,
+        "POP2008": 162,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031105513,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

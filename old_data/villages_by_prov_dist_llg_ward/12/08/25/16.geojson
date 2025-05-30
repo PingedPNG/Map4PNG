@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12199,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.80593800033853,
+          -6.438914000081013
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12199,
+        "CU_NAME": "POPOF",
+        "CU_NO": "022",
+        "GEOCODE": "12082516022",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "25",
+        "WARD_NO": "16",
+        "WARD_NAME": "POPOF",
+        "LATITUDE": -6.438745,
+        "LONGITUDE": 146.805971,
+        "REGHH": 12,
+        "TOTPOP2000": 63,
+        "MALE2000": 31,
+        "FEMALE2000": 32,
+        "POP2008": 79,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082516022,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12200,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.80858199995942,
+          -6.444208999645582
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12200,
+        "CU_NAME": "KOGAGULENG",
+        "CU_NO": "023",
+        "GEOCODE": "12082516023",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "25",
+        "WARD_NO": "16",
+        "WARD_NAME": "POPOF",
+        "LATITUDE": -6.438745,
+        "LONGITUDE": 146.805971,
+        "REGHH": 14,
+        "TOTPOP2000": 69,
+        "MALE2000": 34,
+        "FEMALE2000": 35,
+        "POP2008": 85,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082516023,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12201,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.85402800029203,
+          -6.461783999831653
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12201,
+        "CU_NAME": "NAMBUT",
+        "CU_NO": "024",
+        "GEOCODE": "12082516024",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "25",
+        "WARD_NO": "16",
+        "WARD_NAME": "POPOF",
+        "LATITUDE": -6.463202,
+        "LONGITUDE": 146.853002,
+        "REGHH": 18,
+        "TOTPOP2000": 90,
+        "MALE2000": 44,
+        "FEMALE2000": 46,
+        "POP2008": 114,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082516024,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12202,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.79591000014648,
+          -6.44709100034936
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12202,
+        "CU_NAME": "GUFIN",
+        "CU_NO": "025",
+        "GEOCODE": "12082516025",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "25",
+        "WARD_NO": "16",
+        "WARD_NAME": "POPOF",
+        "LATITUDE": -6.448509,
+        "LONGITUDE": 146.794884,
+        "REGHH": 22,
+        "TOTPOP2000": 139,
+        "MALE2000": 71,
+        "FEMALE2000": 68,
+        "POP2008": 173,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082516025,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

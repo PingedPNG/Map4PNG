@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9189,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.46293800028855,
+          -5.79384100016199
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9189,
+        "CU_NAME": "TERI",
+        "CU_NO": "013",
+        "GEOCODE": "13061519013",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "19",
+        "WARD_NAME": "WARD 19",
+        "LATITUDE": -5.795249,
+        "LONGITUDE": 145.461895,
+        "REGHH": 36,
+        "TOTPOP2000": 176,
+        "MALE2000": 92,
+        "FEMALE2000": 84,
+        "POP2008": 218,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061519013,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9190,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.40164899960166,
+          -5.7823930001367785
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9190,
+        "CU_NAME": "TAUYA",
+        "CU_NO": "028",
+        "GEOCODE": "13061519028",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "19",
+        "WARD_NAME": "WARD 19",
+        "LATITUDE": -5.783801,
+        "LONGITUDE": 145.400605,
+        "REGHH": 36,
+        "TOTPOP2000": 215,
+        "MALE2000": 112,
+        "FEMALE2000": 103,
+        "POP2008": 266,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061519028,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

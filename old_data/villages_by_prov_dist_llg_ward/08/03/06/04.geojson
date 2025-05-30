@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5553,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5447580002816,
+          -5.542736000066327
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5553,
+        "CU_NAME": "PORGERAS",
+        "CU_NO": "006",
+        "GEOCODE": "08030604006",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "PORGERAS",
+        "LATITUDE": -5.542611,
+        "LONGITUDE": 143.547702,
+        "REGHH": 164,
+        "TOTPOP2000": 970,
+        "MALE2000": 483,
+        "FEMALE2000": 487,
+        "POP2008": 1219,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030604006,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5554,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.55354800004022,
+          -5.526902000127166
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5554,
+        "CU_NAME": "KAINDAN",
+        "CU_NO": "007",
+        "GEOCODE": "08030604007",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "PORGERAS",
+        "LATITUDE": -5.529954,
+        "LONGITUDE": 143.549871,
+        "REGHH": 58,
+        "TOTPOP2000": 330,
+        "MALE2000": 157,
+        "FEMALE2000": 173,
+        "POP2008": 415,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030604007,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5555,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.55162400034737,
+          -5.534986999750174
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5555,
+        "CU_NAME": "AIS",
+        "CU_NO": "008",
+        "GEOCODE": "08030604008",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "PORGERAS",
+        "LATITUDE": -5.536389,
+        "LONGITUDE": 143.550557,
+        "REGHH": 51,
+        "TOTPOP2000": 286,
+        "MALE2000": 139,
+        "FEMALE2000": 147,
+        "POP2008": 360,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030604008,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15487,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.74940399959496,
+          -5.531246999949019
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15487,
+        "CU_NAME": "BIANGABIP",
+        "CU_NO": "002",
+        "GEOCODE": "01020910002",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "10",
+        "WARD_NAME": "BIANGABIP",
+        "LATITUDE": -5.526741,
+        "LONGITUDE": 141.742406,
+        "REGHH": 35,
+        "TOTPOP2000": 274,
+        "MALE2000": 143,
+        "FEMALE2000": 131,
+        "POP2008": 355,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020910002,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15488,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.72742000023288,
+          -5.634592000220607
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15488,
+        "CU_NAME": "SWETIGIN",
+        "CU_NO": "007",
+        "GEOCODE": "01020910007",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "10",
+        "WARD_NAME": "BIANGABIP",
+        "LATITUDE": -5.635992,
+        "LONGITUDE": 141.726331,
+        "REGHH": 7,
+        "TOTPOP2000": 69,
+        "MALE2000": 37,
+        "FEMALE2000": 32,
+        "POP2008": 89,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020910007,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

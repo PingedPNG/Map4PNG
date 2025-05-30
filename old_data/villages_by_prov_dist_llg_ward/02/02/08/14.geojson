@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7716,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.75361199969404,
+          -7.437504999655971
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7716,
+        "CU_NAME": "AIMEI",
+        "CU_NO": "001",
+        "GEOCODE": "02020814001",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "14",
+        "WARD_NAME": "NAHOROMERE",
+        "LATITUDE": -7.4372,
+        "LONGITUDE": 144.753259,
+        "REGHH": 17,
+        "TOTPOP2000": 137,
+        "MALE2000": 73,
+        "FEMALE2000": 64,
+        "POP2008": 169,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020814001,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7717,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.74768599980916,
+          -7.450055000138093
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7717,
+        "CU_NAME": "GIGORI",
+        "CU_NO": "004",
+        "GEOCODE": "02020814004",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "14",
+        "WARD_NAME": "NAHOROMERE",
+        "LATITUDE": -7.448205,
+        "LONGITUDE": 144.750118,
+        "REGHH": 21,
+        "TOTPOP2000": 120,
+        "MALE2000": 66,
+        "FEMALE2000": 54,
+        "POP2008": 147,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020814004,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7718,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.72976399980882,
+          -7.442265999775998
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7718,
+        "CU_NAME": "IMEIA",
+        "CU_NO": "006",
+        "GEOCODE": "02020814006",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "14",
+        "WARD_NAME": "NAHOROMERE",
+        "LATITUDE": -7.442833,
+        "LONGITUDE": 144.730622,
+        "REGHH": 18,
+        "TOTPOP2000": 120,
+        "MALE2000": 61,
+        "FEMALE2000": 59,
+        "POP2008": 147,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020814006,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7719,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.75751799995578,
+          -7.40588800033089
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7719,
+        "CU_NAME": "NAHOROMERE",
+        "CU_NO": "007",
+        "GEOCODE": "02020814007",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "14",
+        "WARD_NAME": "NAHOROMERE",
+        "LATITUDE": -7.407311,
+        "LONGITUDE": 144.756462,
+        "REGHH": 19,
+        "TOTPOP2000": 127,
+        "MALE2000": 64,
+        "FEMALE2000": 63,
+        "POP2008": 156,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020814007,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7720,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.75642399986782,
+          -7.440285000152585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7720,
+        "CU_NAME": "VAIAMU",
+        "CU_NO": "008",
+        "GEOCODE": "02020814008",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "14",
+        "WARD_NAME": "NAHOROMERE",
+        "LATITUDE": -7.431211,
+        "LONGITUDE": 144.769481,
+        "REGHH": 8,
+        "TOTPOP2000": 53,
+        "MALE2000": 25,
+        "FEMALE2000": 28,
+        "POP2008": 64,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020814008,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

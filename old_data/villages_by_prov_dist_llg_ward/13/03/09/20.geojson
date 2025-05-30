@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8616,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5821749997765,
+          -5.335630000124354
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8616,
+        "CU_NAME": "KUMBRUF (008)",
+        "CU_NO": "008",
+        "GEOCODE": "13030920008",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "20",
+        "WARD_NAME": "KUMBRUF",
+        "LATITUDE": -5.337032,
+        "LONGITUDE": 144.581121,
+        "REGHH": 218,
+        "TOTPOP2000": 1357,
+        "MALE2000": 707,
+        "FEMALE2000": 650,
+        "POP2008": 1681,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030920008,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

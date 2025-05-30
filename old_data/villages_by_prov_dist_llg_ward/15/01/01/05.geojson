@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18278,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.3981899998687,
+          -3.123364000048525
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18278,
+        "CU_NAME": "TUMELEO ISLAND",
+        "CU_NO": "004",
+        "GEOCODE": "15010105004",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "TUMELEO ISLAND",
+        "LATITUDE": -3.126188,
+        "LONGITUDE": 142.398558,
+        "REGHH": 70,
+        "TOTPOP2000": 487,
+        "MALE2000": 243,
+        "FEMALE2000": 244,
+        "POP2008": 589,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010105004,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18279,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.37633200002188,
+          -3.1513629998025294
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18279,
+        "CU_NAME": "TARAU POINT",
+        "CU_NO": "006",
+        "GEOCODE": "15010105006",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "TUMELEO ISLAND",
+        "LATITUDE": -3.152376,
+        "LONGITUDE": 142.375309,
+        "REGHH": 44,
+        "TOTPOP2000": 306,
+        "MALE2000": 148,
+        "FEMALE2000": 158,
+        "POP2008": 370,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010105006,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

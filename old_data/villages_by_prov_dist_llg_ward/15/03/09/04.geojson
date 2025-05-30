@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18698,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1192870002949,
+          -5.191146000287631
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18698,
+        "CU_NAME": "KUIVA",
+        "CU_NO": "004",
+        "GEOCODE": "15030904004",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "04",
+        "WARD_NAME": "KUIVA",
+        "LATITUDE": -5.192542,
+        "LONGITUDE": 142.118203,
+        "REGHH": 36,
+        "TOTPOP2000": 165,
+        "MALE2000": 88,
+        "FEMALE2000": 77,
+        "POP2008": 199,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030904004,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

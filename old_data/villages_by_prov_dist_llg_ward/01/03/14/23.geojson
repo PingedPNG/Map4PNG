@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15748,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.03944199984846,
+          -9.05929600041003
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15748,
+        "CU_NAME": "BOZE",
+        "CU_NO": "003",
+        "GEOCODE": "01031423003",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "23",
+        "WARD_NAME": "BOZE",
+        "LATITUDE": -9.06073,
+        "LONGITUDE": 143.03836,
+        "REGHH": 59,
+        "TOTPOP2000": 324,
+        "MALE2000": 169,
+        "FEMALE2000": 155,
+        "POP2008": 420,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031423003,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

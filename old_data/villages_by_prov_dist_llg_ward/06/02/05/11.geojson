@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13465,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.91382100013914,
+          -8.911160000333723
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13465,
+        "CU_NAME": "HANJIRI",
+        "CU_NO": "013",
+        "GEOCODE": "06020511013",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "HANJIRI",
+        "LATITUDE": -8.916699,
+        "LONGITUDE": 147.91076,
+        "REGHH": 45,
+        "TOTPOP2000": 245,
+        "MALE2000": 133,
+        "FEMALE2000": 112,
+        "POP2008": 304,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020511013,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13466,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.8589749997965,
+          -8.957373000063853
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13466,
+        "CU_NAME": "MAJU",
+        "CU_NO": "014",
+        "GEOCODE": "06020511014",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "HANJIRI",
+        "LATITUDE": -8.95882,
+        "LONGITUDE": 147.857957,
+        "REGHH": 11,
+        "TOTPOP2000": 52,
+        "MALE2000": 29,
+        "FEMALE2000": 23,
+        "POP2008": 64,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020511014,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13467,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.9282330001529,
+          -8.922008999715501
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13467,
+        "CU_NAME": "INGI",
+        "CU_NO": "015",
+        "GEOCODE": "06020511015",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "HANJIRI",
+        "LATITUDE": -8.926424,
+        "LONGITUDE": 147.926753,
+        "REGHH": 14,
+        "TOTPOP2000": 69,
+        "MALE2000": 35,
+        "FEMALE2000": 34,
+        "POP2008": 85,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020511015,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13468,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.8689199997582,
+          -8.967192999657186
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13468,
+        "CU_NAME": "IFAFU",
+        "CU_NO": "016",
+        "GEOCODE": "06020511016",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "HANJIRI",
+        "LATITUDE": -8.96864,
+        "LONGITUDE": 147.867902,
+        "REGHH": 6,
+        "TOTPOP2000": 34,
+        "MALE2000": 22,
+        "FEMALE2000": 12,
+        "POP2008": 42,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020511016,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

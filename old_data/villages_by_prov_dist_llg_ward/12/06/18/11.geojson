@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11623,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.20287200044254,
+          -6.226649999697656
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11623,
+        "CU_NAME": "NGARUTZANIANG",
+        "CU_NO": "009",
+        "GEOCODE": "12061811009",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "11",
+        "WARD_NAME": "NGARUTZANIANG",
+        "LATITUDE": -6.228064,
+        "LONGITUDE": 146.201838,
+        "REGHH": 86,
+        "TOTPOP2000": 425,
+        "MALE2000": 225,
+        "FEMALE2000": 200,
+        "POP2008": 530,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061811009,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11624,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.20112700001107,
+          -6.216041999738422
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11624,
+        "CU_NAME": "WARUS",
+        "CU_NO": "017",
+        "GEOCODE": "12061811017",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "11",
+        "WARD_NAME": "NGARUTZANIANG",
+        "LATITUDE": -6.217456,
+        "LONGITUDE": 146.200093,
+        "REGHH": 29,
+        "TOTPOP2000": 195,
+        "MALE2000": 96,
+        "FEMALE2000": 99,
+        "POP2008": 243,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061811017,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11625,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1992180001107,
+          -6.229798000077608
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11625,
+        "CU_NAME": "UMI VOC/CENTRE",
+        "CU_NO": "401",
+        "GEOCODE": "12061811401",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "11",
+        "WARD_NAME": "NGARUTZANIANG",
+        "LATITUDE": -6.231212,
+        "LONGITUDE": 146.198184,
+        "REGHH": 3,
+        "TOTPOP2000": 16,
+        "MALE2000": 7,
+        "FEMALE2000": 9,
+        "POP2008": 16,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061811401,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11626,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.20499300022686,
+          -6.228467999898214
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11626,
+        "CU_NAME": "YAFATS (WORKS) CAMP",
+        "CU_NO": "501",
+        "GEOCODE": "12061811501",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "11",
+        "WARD_NAME": "NGARUTZANIANG",
+        "LATITUDE": -6.229882,
+        "LONGITUDE": 146.203959,
+        "REGHH": 2,
+        "TOTPOP2000": 14,
+        "MALE2000": 5,
+        "FEMALE2000": 9,
+        "POP2008": 14,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061811501,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

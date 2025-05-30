@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12651,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.28234600036774,
+          -3.500338000398358
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12651,
+        "CU_NAME": "BELIK",
+        "CU_NO": "002",
+        "GEOCODE": "17020507002",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "07",
+        "WARD_NAME": "LOLOBA",
+        "LATITUDE": -3.500928,
+        "LONGITUDE": 152.282598,
+        "REGHH": 58,
+        "TOTPOP2000": 300,
+        "MALE2000": 166,
+        "FEMALE2000": 134,
+        "POP2008": 377,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020507002,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12652,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.32251200002884,
+          -3.5190730001187944
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12652,
+        "CU_NAME": "KOLONOBOI / AID POST",
+        "CU_NO": "007",
+        "GEOCODE": "17020507007",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "07",
+        "WARD_NAME": "LOLOBA",
+        "LATITUDE": -3.514389,
+        "LONGITUDE": 152.318887,
+        "REGHH": 47,
+        "TOTPOP2000": 255,
+        "MALE2000": 135,
+        "FEMALE2000": 120,
+        "POP2008": 321,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020507007,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12653,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.26226000039878,
+          -3.487563000332159
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12653,
+        "CU_NAME": "LOLOBA",
+        "CU_NO": "008",
+        "GEOCODE": "17020507008",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "07",
+        "WARD_NAME": "LOLOBA",
+        "LATITUDE": -3.488952,
+        "LONGITUDE": 152.261316,
+        "REGHH": 47,
+        "TOTPOP2000": 218,
+        "MALE2000": 115,
+        "FEMALE2000": 103,
+        "POP2008": 273,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020507008,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12654,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.2942069996534,
+          -3.502883999996527
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12654,
+        "CU_NAME": "BELIK PLANTATION",
+        "CU_NO": "501",
+        "GEOCODE": "17020507501",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "07",
+        "WARD_NAME": "LOLOBA",
+        "LATITUDE": -3.504274,
+        "LONGITUDE": 152.293264,
+        "REGHH": 30,
+        "TOTPOP2000": 116,
+        "MALE2000": 76,
+        "FEMALE2000": 40,
+        "POP2008": 146,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020507501,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12655,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.3102700002604,
+          -3.511887999731357
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12655,
+        "CU_NAME": "LERU PLANTATION",
+        "CU_NO": "510",
+        "GEOCODE": "17020507510",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "07",
+        "WARD_NAME": "LOLOBA",
+        "LATITUDE": -3.513278,
+        "LONGITUDE": 152.309327,
+        "REGHH": 2,
+        "TOTPOP2000": 8,
+        "MALE2000": 4,
+        "FEMALE2000": 4,
+        "POP2008": 8,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020507510,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

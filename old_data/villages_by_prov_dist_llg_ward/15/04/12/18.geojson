@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.43733999964138,
+          -3.5665359999363773
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18902,
+        "CU_NAME": "BAIBERI",
+        "CU_NO": "003",
+        "GEOCODE": "15041218003",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "18",
+        "WARD_NAME": "KWOMTARI",
+        "LATITUDE": -3.559881,
+        "LONGITUDE": 141.440743,
+        "REGHH": 15,
+        "TOTPOP2000": 94,
+        "MALE2000": 48,
+        "FEMALE2000": 46,
+        "POP2008": 112,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041218003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18903,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.36266799962857,
+          -3.594705000335466
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18903,
+        "CU_NAME": "KWOMTARI",
+        "CU_NO": "009",
+        "GEOCODE": "15041218009",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "18",
+        "WARD_NAME": "KWOMTARI",
+        "LATITUDE": -3.596084,
+        "LONGITUDE": 141.361577,
+        "REGHH": 16,
+        "TOTPOP2000": 86,
+        "MALE2000": 54,
+        "FEMALE2000": 32,
+        "POP2008": 102,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041218009,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18904,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.39447599966775,
+          -3.600859999988984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18904,
+        "CU_NAME": "MANGO",
+        "CU_NO": "010",
+        "GEOCODE": "15041218010",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "18",
+        "WARD_NAME": "KWOMTARI",
+        "LATITUDE": -3.602239,
+        "LONGITUDE": 141.393386,
+        "REGHH": 13,
+        "TOTPOP2000": 76,
+        "MALE2000": 43,
+        "FEMALE2000": 33,
+        "POP2008": 92,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041218010,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18905,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.46579399969335,
+          -3.516464000313306
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18905,
+        "CU_NAME": "YENABI",
+        "CU_NO": "019",
+        "GEOCODE": "15041218019",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "18",
+        "WARD_NAME": "KWOMTARI",
+        "LATITUDE": -3.517842,
+        "LONGITUDE": 141.464705,
+        "REGHH": 22,
+        "TOTPOP2000": 129,
+        "MALE2000": 74,
+        "FEMALE2000": 55,
+        "POP2008": 155,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041218019,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18603,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.3691380001187,
+          -3.6495830003551077
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18603,
+        "CU_NAME": "WANIWOMOKA",
+        "CU_NO": "012",
+        "GEOCODE": "15020618012",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "18",
+        "WARD_NAME": "YEMEREBA",
+        "LATITUDE": -3.650963,
+        "LONGITUDE": 142.368059,
+        "REGHH": 82,
+        "TOTPOP2000": 362,
+        "MALE2000": 183,
+        "FEMALE2000": 179,
+        "POP2008": 438,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020618012,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.3381419997536,
+          -3.677000000249791
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18604,
+        "CU_NAME": "YEMEREBA",
+        "CU_NO": "015",
+        "GEOCODE": "15020618015",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "18",
+        "WARD_NAME": "YEMEREBA",
+        "LATITUDE": -3.678381,
+        "LONGITUDE": 142.337063,
+        "REGHH": 70,
+        "TOTPOP2000": 307,
+        "MALE2000": 156,
+        "FEMALE2000": 151,
+        "POP2008": 371,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020618015,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

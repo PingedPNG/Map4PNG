@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.91813200039155,
+          -8.393155000203024
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1144,
+        "CU_NAME": "BOLUBOLU",
+        "CU_NO": "001",
+        "GEOCODE": "03020508001",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "PILITU 1",
+        "LATITUDE": -8.39862,
+        "LONGITUDE": 146.918,
+        "REGHH": 17,
+        "TOTPOP2000": 63,
+        "MALE2000": 38,
+        "FEMALE2000": 25,
+        "POP2008": 76,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020508001,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.94902899978854,
+          -8.362551999974755
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1145,
+        "CU_NAME": "LAMINA",
+        "CU_NO": "002",
+        "GEOCODE": "03020508002",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "PILITU 1",
+        "LATITUDE": -8.36399,
+        "LONGITUDE": 146.948,
+        "REGHH": 25,
+        "TOTPOP2000": 140,
+        "MALE2000": 76,
+        "FEMALE2000": 64,
+        "POP2008": 167,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020508002,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.93209400033788,
+          -8.343568999609602
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1146,
+        "CU_NAME": "LOTUAVA",
+        "CU_NO": "006",
+        "GEOCODE": "03020508006",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "PILITU 1",
+        "LATITUDE": -8.356637,
+        "LONGITUDE": 146.920281,
+        "REGHH": 41,
+        "TOTPOP2000": 162,
+        "MALE2000": 91,
+        "FEMALE2000": 71,
+        "POP2008": 194,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020508006,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.93324200021823,
+          -8.397973000253728
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1147,
+        "CU_NAME": "OPORE",
+        "CU_NO": "008",
+        "GEOCODE": "03020508008",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "PILITU 1",
+        "LATITUDE": -8.399412,
+        "LONGITUDE": 146.932213,
+        "REGHH": 30,
+        "TOTPOP2000": 131,
+        "MALE2000": 67,
+        "FEMALE2000": 64,
+        "POP2008": 155,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020508008,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9472810001181,
+          -8.36437100022141
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1148,
+        "CU_NAME": "PORUAIVI",
+        "CU_NO": "013",
+        "GEOCODE": "03020508013",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "PILITU 1",
+        "LATITUDE": -8.365809,
+        "LONGITUDE": 146.946252,
+        "REGHH": 15,
+        "TOTPOP2000": 88,
+        "MALE2000": 47,
+        "FEMALE2000": 41,
+        "POP2008": 104,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020508013,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

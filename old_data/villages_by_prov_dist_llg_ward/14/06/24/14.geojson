@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7287,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4838170003543,
+          -3.71873600036605
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7287,
+        "CU_NAME": "NIUMINDOGUM",
+        "CU_NO": "021",
+        "GEOCODE": "14062414021",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "24",
+        "WARD_NO": "14",
+        "WARD_NAME": "NIUMINDOGUM",
+        "LATITUDE": -3.720315,
+        "LONGITUDE": 143.482583,
+        "REGHH": 134,
+        "TOTPOP2000": 663,
+        "MALE2000": 327,
+        "FEMALE2000": 336,
+        "POP2008": 790,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062414021,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10707,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.49376799979348,
+          -6.53840399974473
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10707,
+        "CU_NAME": "BURANG",
+        "CU_NO": "007",
+        "GEOCODE": "12020609007",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "WAMOKI",
+        "LATITUDE": -6.534515,
+        "LONGITUDE": 147.491628,
+        "REGHH": 15,
+        "TOTPOP2000": 69,
+        "MALE2000": 41,
+        "FEMALE2000": 28,
+        "POP2008": 85,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020609007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10708,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5030650004495,
+          -6.531000000049914
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10708,
+        "CU_NAME": "WAMOKI",
+        "CU_NO": "016",
+        "GEOCODE": "12020609016",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "WAMOKI",
+        "LATITUDE": -6.53242,
+        "LONGITUDE": 147.502048,
+        "REGHH": 56,
+        "TOTPOP2000": 234,
+        "MALE2000": 122,
+        "FEMALE2000": 112,
+        "POP2008": 293,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020609016,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10709,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4830910002495,
+          -6.499341999733474
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10709,
+        "CU_NAME": "GABO",
+        "CU_NO": "018",
+        "GEOCODE": "12020609018",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "WAMOKI",
+        "LATITUDE": -6.500762,
+        "LONGITUDE": 147.482074,
+        "REGHH": 27,
+        "TOTPOP2000": 105,
+        "MALE2000": 49,
+        "FEMALE2000": 56,
+        "POP2008": 130,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020609018,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10710,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.49617400013005,
+          -6.502031999677001
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10710,
+        "CU_NAME": "SONGONG",
+        "CU_NO": "019",
+        "GEOCODE": "12020609019",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "09",
+        "WARD_NAME": "WAMOKI",
+        "LATITUDE": -6.499818,
+        "LONGITUDE": 147.496271,
+        "REGHH": 57,
+        "TOTPOP2000": 222,
+        "MALE2000": 112,
+        "FEMALE2000": 110,
+        "POP2008": 277,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020609019,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

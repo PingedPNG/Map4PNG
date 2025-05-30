@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5550,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.59620799959953,
+          -5.544873999735273
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5550,
+        "CU_NAME": "TUPANGUS",
+        "CU_NO": "008",
+        "GEOCODE": "08030603008",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "TUPANGUS",
+        "LATITUDE": -5.546276,
+        "LONGITUDE": 143.595142,
+        "REGHH": 124,
+        "TOTPOP2000": 525,
+        "MALE2000": 249,
+        "FEMALE2000": 276,
+        "POP2008": 661,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030603008,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.59404699976926,
+          -5.536145000091608
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5551,
+        "CU_NAME": "PUMAS",
+        "CU_NO": "009",
+        "GEOCODE": "08030603009",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "TUPANGUS",
+        "LATITUDE": -5.537547,
+        "LONGITUDE": 143.592981,
+        "REGHH": 51,
+        "TOTPOP2000": 241,
+        "MALE2000": 134,
+        "FEMALE2000": 107,
+        "POP2008": 303,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030603009,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.55929999999512,
+          -5.569394000033014
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5552,
+        "CU_NAME": "AIPI",
+        "CU_NO": "010",
+        "GEOCODE": "08030603010",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "TUPANGUS",
+        "LATITUDE": -5.570796,
+        "LONGITUDE": 143.558233,
+        "REGHH": 51,
+        "TOTPOP2000": 241,
+        "MALE2000": 124,
+        "FEMALE2000": 117,
+        "POP2008": 303,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030603010,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

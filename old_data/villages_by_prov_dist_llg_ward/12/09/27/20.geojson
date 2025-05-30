@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12319,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.05505899957325,
+          -5.41262700033576
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12319,
+        "CU_NAME": "SAKAR",
+        "CU_NO": "028",
+        "GEOCODE": "12092720028",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "27",
+        "WARD_NO": "20",
+        "WARD_NAME": "MOVI",
+        "LATITUDE": -5.42176,
+        "LONGITUDE": 148.05288,
+        "REGHH": 70,
+        "TOTPOP2000": 419,
+        "MALE2000": 217,
+        "FEMALE2000": 202,
+        "POP2008": 522,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092720028,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

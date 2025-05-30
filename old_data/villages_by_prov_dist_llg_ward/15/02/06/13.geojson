@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18592,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.3196149997325,
+          -3.5312200000029748
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18592,
+        "CU_NAME": "YERESI",
+        "CU_NO": "018",
+        "GEOCODE": "15020613018",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "13",
+        "WARD_NAME": "YERESI",
+        "LATITUDE": -3.543126,
+        "LONGITUDE": 142.326042,
+        "REGHH": 104,
+        "TOTPOP2000": 522,
+        "MALE2000": 271,
+        "FEMALE2000": 251,
+        "POP2008": 631,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020613018,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

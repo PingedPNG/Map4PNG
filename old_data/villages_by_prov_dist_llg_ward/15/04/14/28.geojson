@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19018,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.13938700020992,
+          -3.8372299995647836
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19018,
+        "CU_NAME": "AUIYA 1",
+        "CU_NO": "001",
+        "GEOCODE": "15041428001",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "28",
+        "WARD_NAME": "AUIYA 1",
+        "LATITUDE": -3.838611,
+        "LONGITUDE": 141.138294,
+        "REGHH": 9,
+        "TOTPOP2000": 47,
+        "MALE2000": 22,
+        "FEMALE2000": 25,
+        "POP2008": 55,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041428001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19019,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.08708600031878,
+          -3.8558959997005786
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19019,
+        "CU_NAME": "AUIYA 2",
+        "CU_NO": "002",
+        "GEOCODE": "15041428002",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "28",
+        "WARD_NAME": "AUIYA 1",
+        "LATITUDE": -3.857277,
+        "LONGITUDE": 141.085992,
+        "REGHH": 21,
+        "TOTPOP2000": 117,
+        "MALE2000": 57,
+        "FEMALE2000": 60,
+        "POP2008": 141,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041428002,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19020,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.14920499971106,
+          -3.852820999989092
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19020,
+        "CU_NAME": "USARI",
+        "CU_NO": "011",
+        "GEOCODE": "15041428011",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "28",
+        "WARD_NAME": "AUIYA 1",
+        "LATITUDE": -3.854202,
+        "LONGITUDE": 141.148112,
+        "REGHH": 10,
+        "TOTPOP2000": 58,
+        "MALE2000": 29,
+        "FEMALE2000": 29,
+        "POP2008": 69,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041428011,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

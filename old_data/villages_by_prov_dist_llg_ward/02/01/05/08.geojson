@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.79686999965088,
+          -7.495385999664109
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7551,
+        "CU_NAME": "PIO",
+        "CU_NO": "006",
+        "GEOCODE": "02010508006",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "PIO",
+        "LATITUDE": -7.504143,
+        "LONGITUDE": 145.795808,
+        "REGHH": 96,
+        "TOTPOP2000": 415,
+        "MALE2000": 234,
+        "FEMALE2000": 181,
+        "POP2008": 510,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010508006,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.80872599960526,
+          -7.554767999643445
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7552,
+        "CU_NAME": "WAGI",
+        "CU_NO": "008",
+        "GEOCODE": "02010508008",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "PIO",
+        "LATITUDE": -7.550993,
+        "LONGITUDE": 145.807,
+        "REGHH": 51,
+        "TOTPOP2000": 256,
+        "MALE2000": 132,
+        "FEMALE2000": 124,
+        "POP2008": 315,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010508008,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

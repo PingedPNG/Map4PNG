@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12752,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.60671699968987,
+          -3.027883000000429
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12752,
+        "CU_NAME": "LANGENIA",
+        "CU_NO": "021",
+        "GEOCODE": "17020606021",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "TANDIS",
+        "LATITUDE": -3.026185,
+        "LONGITUDE": 151.606052,
+        "REGHH": 70,
+        "TOTPOP2000": 387,
+        "MALE2000": 209,
+        "FEMALE2000": 178,
+        "POP2008": 487,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020606021,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12753,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.58612099958452,
+          -3.022936000296113
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12753,
+        "CU_NAME": "LIEDAN",
+        "CU_NO": "028",
+        "GEOCODE": "17020606028",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "TANDIS",
+        "LATITUDE": -3.021238,
+        "LONGITUDE": 151.585456,
+        "REGHH": 25,
+        "TOTPOP2000": 115,
+        "MALE2000": 62,
+        "FEMALE2000": 53,
+        "POP2008": 145,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020606028,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12754,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.57708600021886,
+          -3.018189999968456
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12754,
+        "CU_NAME": "LIBBA",
+        "CU_NO": "029",
+        "GEOCODE": "17020606029",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "TANDIS",
+        "LATITUDE": -3.018145,
+        "LONGITUDE": 151.578902,
+        "REGHH": 49,
+        "TOTPOP2000": 282,
+        "MALE2000": 144,
+        "FEMALE2000": 138,
+        "POP2008": 354,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020606029,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.57056800001328,
+          -3.0082549995685213
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12755,
+        "CU_NAME": "TANDIS",
+        "CU_NO": "040",
+        "GEOCODE": "17020606040",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "TANDIS",
+        "LATITUDE": -3.006557,
+        "LONGITUDE": 151.569902,
+        "REGHH": 46,
+        "TOTPOP2000": 266,
+        "MALE2000": 140,
+        "FEMALE2000": 126,
+        "POP2008": 334,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020606040,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12756,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.5562489997916,
+          -2.9996349995555533
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12756,
+        "CU_NAME": "BOLEGILA PLANTATION",
+        "CU_NO": "501",
+        "GEOCODE": "17020606501",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "TANDIS",
+        "LATITUDE": -2.997937,
+        "LONGITUDE": 151.555583,
+        "REGHH": 18,
+        "TOTPOP2000": 93,
+        "MALE2000": 63,
+        "FEMALE2000": 30,
+        "POP2008": 117,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020606501,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

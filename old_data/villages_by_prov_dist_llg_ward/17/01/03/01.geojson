@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12488,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.61392500043848,
+          -2.6559110000925443
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12488,
+        "CU_NAME": "BANGATAN & UTUKUL ISLANDS'",
+        "CU_NO": "003",
+        "GEOCODE": "17010301003",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "01",
+        "WARD_NAME": "ENANG",
+        "LATITUDE": -2.657287,
+        "LONGITUDE": 150.612958,
+        "REGHH": 28,
+        "TOTPOP2000": 131,
+        "MALE2000": 58,
+        "FEMALE2000": 73,
+        "POP2008": 164,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010301003,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12489,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4924220000753,
+          -2.657930999715802
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12489,
+        "CU_NAME": "ENANG",
+        "CU_NO": "005",
+        "GEOCODE": "17010301005",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "01",
+        "WARD_NAME": "ENANG",
+        "LATITUDE": -2.66065,
+        "LONGITUDE": 150.488769,
+        "REGHH": 40,
+        "TOTPOP2000": 203,
+        "MALE2000": 106,
+        "FEMALE2000": 97,
+        "POP2008": 255,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010301005,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12490,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.5675939997633,
+          -2.6298849995930027
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12490,
+        "CU_NAME": "TUGALOP/KULINUS/PATIMAIAN IS",
+        "CU_NO": "025",
+        "GEOCODE": "17010301025",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "01",
+        "WARD_NAME": "ENANG",
+        "LATITUDE": -2.631261,
+        "LONGITUDE": 150.566626,
+        "REGHH": 71,
+        "TOTPOP2000": 352,
+        "MALE2000": 178,
+        "FEMALE2000": 174,
+        "POP2008": 441,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010301025,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.51113999991117,
+          -2.663403000248195
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12491,
+        "CU_NAME": "UPUAS/LIMUS IS",
+        "CU_NO": "026",
+        "GEOCODE": "17010301026",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "01",
+        "WARD_NAME": "ENANG",
+        "LATITUDE": -2.664482,
+        "LONGITUDE": 150.509643,
+        "REGHH": 27,
+        "TOTPOP2000": 136,
+        "MALE2000": 76,
+        "FEMALE2000": 60,
+        "POP2008": 171,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010301026,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

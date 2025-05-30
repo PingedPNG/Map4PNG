@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9651,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.6039730003538,
+          -9.953360000063924
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9651,
+        "CU_NAME": "BONENEPI",
+        "CU_NO": "004",
+        "GEOCODE": "05010316004",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "16",
+        "WARD_NAME": "IKARA",
+        "LATITUDE": -9.954822,
+        "LONGITUDE": 149.602977,
+        "REGHH": 29,
+        "TOTPOP2000": 185,
+        "MALE2000": 88,
+        "FEMALE2000": 97,
+        "POP2008": 225,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010316004,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9652,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.63059599960582,
+          -9.978528999713546
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9652,
+        "CU_NAME": "IKARA",
+        "CU_NO": "014",
+        "GEOCODE": "05010316014",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "16",
+        "WARD_NAME": "IKARA",
+        "LATITUDE": -9.975564,
+        "LONGITUDE": 149.631275,
+        "REGHH": 26,
+        "TOTPOP2000": 108,
+        "MALE2000": 52,
+        "FEMALE2000": 56,
+        "POP2008": 132,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010316014,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9653,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.6449640002885,
+          -9.985981999869352
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9653,
+        "CU_NAME": "BAUDUMA",
+        "CU_NO": "024",
+        "GEOCODE": "05010316024",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "16",
+        "WARD_NAME": "IKARA",
+        "LATITUDE": -9.987444,
+        "LONGITUDE": 149.643969,
+        "REGHH": 5,
+        "TOTPOP2000": 29,
+        "MALE2000": 13,
+        "FEMALE2000": 16,
+        "POP2008": 37,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010316024,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9654,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.62603000038428,
+          -9.969736999862619
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9654,
+        "CU_NAME": "MAIYABU",
+        "CU_NO": "026",
+        "GEOCODE": "05010316026",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "16",
+        "WARD_NAME": "IKARA",
+        "LATITUDE": -9.972844,
+        "LONGITUDE": 149.627869,
+        "REGHH": 12,
+        "TOTPOP2000": 62,
+        "MALE2000": 32,
+        "FEMALE2000": 30,
+        "POP2008": 78,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010316026,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9655,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.6373610004099,
+          -9.964933999604341
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9655,
+        "CU_NAME": "ONU",
+        "CU_NO": "027",
+        "GEOCODE": "05010316027",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "16",
+        "WARD_NAME": "IKARA",
+        "LATITUDE": -9.973165,
+        "LONGITUDE": 149.631711,
+        "REGHH": 22,
+        "TOTPOP2000": 114,
+        "MALE2000": 59,
+        "FEMALE2000": 55,
+        "POP2008": 138,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010316027,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10242,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.42945999957942,
+          -9.41698199981937
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10242,
+        "CU_NAME": "KALOKALO",
+        "CU_NO": "014",
+        "GEOCODE": "05041423014",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "14",
+        "WARD_NO": "23",
+        "WARD_NAME": "KALOKALO",
+        "LATITUDE": -9.413578,
+        "LONGITUDE": 150.431541,
+        "REGHH": 264,
+        "TOTPOP2000": 1381,
+        "MALE2000": 736,
+        "FEMALE2000": 645,
+        "POP2008": 1682,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041423014,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

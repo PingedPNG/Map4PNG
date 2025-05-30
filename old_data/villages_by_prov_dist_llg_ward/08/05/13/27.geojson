@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5930,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.92146800014814,
+          -5.665971000261379
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5930,
+        "CU_NAME": "YARAMANDA",
+        "CU_NO": "005",
+        "GEOCODE": "08051327005",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "27",
+        "WARD_NAME": "YARAMANDA",
+        "LATITUDE": -5.667375,
+        "LONGITUDE": 143.920405,
+        "REGHH": 128,
+        "TOTPOP2000": 926,
+        "MALE2000": 437,
+        "FEMALE2000": 489,
+        "POP2008": 1164,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051327005,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

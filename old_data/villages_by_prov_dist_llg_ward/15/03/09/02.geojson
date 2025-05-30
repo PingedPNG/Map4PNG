@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18695,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.17698299986557,
+          -5.213533000247708
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18695,
+        "CU_NAME": "BETIANAP",
+        "CU_NO": "002",
+        "GEOCODE": "15030902002",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "BETIANAP",
+        "LATITUDE": -5.214929,
+        "LONGITUDE": 142.1759,
+        "REGHH": 68,
+        "TOTPOP2000": 408,
+        "MALE2000": 197,
+        "FEMALE2000": 211,
+        "POP2008": 494,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030902002,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18696,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.17248900036714,
+          -5.222586000443528
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18696,
+        "CU_NAME": "WAULUP",
+        "CU_NO": "010",
+        "GEOCODE": "15030902010",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "BETIANAP",
+        "LATITUDE": -5.223982,
+        "LONGITUDE": 142.171406,
+        "REGHH": 56,
+        "TOTPOP2000": 343,
+        "MALE2000": 172,
+        "FEMALE2000": 171,
+        "POP2008": 414,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030902010,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

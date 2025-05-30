@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14170,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.916541000267,
+          -6.076499000228637
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14170,
+        "CU_NAME": "GULBOPE",
+        "CU_NO": "005",
+        "GEOCODE": "10020607005",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "KARILMARIL",
+        "LATITUDE": -6.077909,
+        "LONGITUDE": 144.91549,
+        "REGHH": 57,
+        "TOTPOP2000": 248,
+        "MALE2000": 123,
+        "FEMALE2000": 125,
+        "POP2008": 287,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020607005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14171,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.90473199978203,
+          -6.07300400003453
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14171,
+        "CU_NAME": "DIPMINE",
+        "CU_NO": "006",
+        "GEOCODE": "10020607006",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "KARILMARIL",
+        "LATITUDE": -6.074414,
+        "LONGITUDE": 144.903681,
+        "REGHH": 160,
+        "TOTPOP2000": 1002,
+        "MALE2000": 561,
+        "FEMALE2000": 441,
+        "POP2008": 1155,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020607006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14172,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.91702900028815,
+          -6.073452000009752
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14172,
+        "CU_NAME": "SIMINKOLI",
+        "CU_NO": "007",
+        "GEOCODE": "10020607007",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "KARILMARIL",
+        "LATITUDE": -6.074862,
+        "LONGITUDE": 144.915978,
+        "REGHH": 53,
+        "TOTPOP2000": 204,
+        "MALE2000": 103,
+        "FEMALE2000": 101,
+        "POP2008": 236,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020607007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14173,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.92369600017037,
+          -6.06766300014732
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14173,
+        "CU_NAME": "GALMA/KOLMA",
+        "CU_NO": "008",
+        "GEOCODE": "10020607008",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "KARILMARIL",
+        "LATITUDE": -6.069073,
+        "LONGITUDE": 144.922644,
+        "REGHH": 24,
+        "TOTPOP2000": 101,
+        "MALE2000": 50,
+        "FEMALE2000": 51,
+        "POP2008": 117,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020607008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.91902999993465,
+          -6.079287000194881
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14174,
+        "CU_NAME": "IRAULAKULE",
+        "CU_NO": "009",
+        "GEOCODE": "10020607009",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "KARILMARIL",
+        "LATITUDE": -6.080697,
+        "LONGITUDE": 144.917979,
+        "REGHH": 72,
+        "TOTPOP2000": 348,
+        "MALE2000": 180,
+        "FEMALE2000": 168,
+        "POP2008": 401,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020607009,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.92000900011533,
+          -6.077166000410557
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14175,
+        "CU_NAME": "KARILMARIL STN",
+        "CU_NO": "401",
+        "GEOCODE": "10020607401",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "KARILMARIL",
+        "LATITUDE": -6.078576,
+        "LONGITUDE": 144.918958,
+        "REGHH": 13,
+        "TOTPOP2000": 53,
+        "MALE2000": 32,
+        "FEMALE2000": 21,
+        "POP2008": 61,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020607401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

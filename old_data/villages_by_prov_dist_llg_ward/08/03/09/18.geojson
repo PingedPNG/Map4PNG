@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5729,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.16394099987735,
+          -5.375512000178617
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5729,
+        "CU_NAME": "TAIPOKO",
+        "CU_NO": "010",
+        "GEOCODE": "08030918010",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "18",
+        "WARD_NAME": "TAIPOKO",
+        "LATITUDE": -5.368768,
+        "LONGITUDE": 143.154641,
+        "REGHH": 65,
+        "TOTPOP2000": 441,
+        "MALE2000": 242,
+        "FEMALE2000": 199,
+        "POP2008": 555,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030918010,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5730,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.14785099982385,
+          -5.400512000128629
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5730,
+        "CU_NAME": "TAMAKALE",
+        "CU_NO": "012",
+        "GEOCODE": "08030918012",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "18",
+        "WARD_NAME": "TAIPOKO",
+        "LATITUDE": -5.401912,
+        "LONGITUDE": 143.146779,
+        "REGHH": 13,
+        "TOTPOP2000": 67,
+        "MALE2000": 28,
+        "FEMALE2000": 39,
+        "POP2008": 83,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030918012,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

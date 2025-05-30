@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4699,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.4381410002071,
+          -4.174519999997926
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4699,
+        "CU_NAME": "KUMAINA",
+        "CU_NO": "014",
+        "GEOCODE": "18020708014",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "08",
+        "WARD_NAME": "KUMAINA",
+        "LATITUDE": -4.175919,
+        "LONGITUDE": 152.437199,
+        "REGHH": 32,
+        "TOTPOP2000": 164,
+        "MALE2000": 87,
+        "FEMALE2000": 77,
+        "POP2008": 199,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020708014,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4700,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.4165550003131,
+          -4.160173000283692
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4700,
+        "CU_NAME": "NAKUKUR NO.1",
+        "CU_NO": "015",
+        "GEOCODE": "18020708015",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "08",
+        "WARD_NAME": "KUMAINA",
+        "LATITUDE": -4.161572,
+        "LONGITUDE": 152.415613,
+        "REGHH": 182,
+        "TOTPOP2000": 911,
+        "MALE2000": 470,
+        "FEMALE2000": 441,
+        "POP2008": 1110,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020708015,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

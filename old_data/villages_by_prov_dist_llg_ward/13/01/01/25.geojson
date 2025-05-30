@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7900,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.34573699956297,
+          -4.493701999947291
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7900,
+        "CU_NAME": "AKETA",
+        "CU_NO": "002",
+        "GEOCODE": "13010125002",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "25",
+        "WARD_NAME": "AKETA",
+        "LATITUDE": -4.496816,
+        "LONGITUDE": 145.341679,
+        "REGHH": 51,
+        "TOTPOP2000": 292,
+        "MALE2000": 150,
+        "FEMALE2000": 142,
+        "POP2008": 362,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010125002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3322279998224,
+          -4.502834000188898
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7901,
+        "CU_NAME": "YAIPAMER",
+        "CU_NO": "033",
+        "GEOCODE": "13010125033",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "25",
+        "WARD_NAME": "AKETA",
+        "LATITUDE": -4.504228,
+        "LONGITUDE": 145.331185,
+        "REGHH": 38,
+        "TOTPOP2000": 228,
+        "MALE2000": 122,
+        "FEMALE2000": 106,
+        "POP2008": 281,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010125033,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

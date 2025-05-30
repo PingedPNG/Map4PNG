@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4876,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.95568900014734,
+          -4.9829800000269415
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4876,
+        "CU_NAME": "LAMARAIN",
+        "CU_NO": "003",
+        "GEOCODE": "18031101003",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "LAMARAIN",
+        "LATITUDE": -4.984389,
+        "LONGITUDE": 151.954739,
+        "REGHH": 12,
+        "TOTPOP2000": 70,
+        "MALE2000": 41,
+        "FEMALE2000": 29,
+        "POP2008": 86,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031101003,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4877,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.95347799980993,
+          -4.9846240002973445
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4877,
+        "CU_NAME": "PLONGEL",
+        "CU_NO": "004",
+        "GEOCODE": "18031101004",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "LAMARAIN",
+        "LATITUDE": -4.986033,
+        "LONGITUDE": 151.952528,
+        "REGHH": 8,
+        "TOTPOP2000": 52,
+        "MALE2000": 30,
+        "FEMALE2000": 22,
+        "POP2008": 60,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031101004,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4878,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9524259998601,
+          -4.98790399956988
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4878,
+        "CU_NAME": "MENSUAL",
+        "CU_NO": "007",
+        "GEOCODE": "18031101007",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "LAMARAIN",
+        "LATITUDE": -4.989313,
+        "LONGITUDE": 151.951476,
+        "REGHH": 15,
+        "TOTPOP2000": 107,
+        "MALE2000": 52,
+        "FEMALE2000": 55,
+        "POP2008": 131,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031101007,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4879,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.95001500019214,
+          -4.996695000273974
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4879,
+        "CU_NAME": "PSINGPUN ELEMENTRY",
+        "CU_NO": "008",
+        "GEOCODE": "18031101008",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "LAMARAIN",
+        "LATITUDE": -4.998104,
+        "LONGITUDE": 151.949065,
+        "REGHH": 9,
+        "TOTPOP2000": 53,
+        "MALE2000": 32,
+        "FEMALE2000": 21,
+        "POP2008": 61,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031101008,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4880,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9478310002006,
+          -5.009243999810678
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4880,
+        "CU_NAME": "SIPALNGAN",
+        "CU_NO": "009",
+        "GEOCODE": "18031101009",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "LAMARAIN",
+        "LATITUDE": -5.010653,
+        "LONGITUDE": 151.946881,
+        "REGHH": 7,
+        "TOTPOP2000": 41,
+        "MALE2000": 20,
+        "FEMALE2000": 21,
+        "POP2008": 49,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031101009,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4881,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.94801199955418,
+          -5.003976999738711
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4881,
+        "CU_NAME": "LUVAI",
+        "CU_NO": "010",
+        "GEOCODE": "18031101010",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "LAMARAIN",
+        "LATITUDE": -5.006322,
+        "LONGITUDE": 151.949385,
+        "REGHH": 11,
+        "TOTPOP2000": 88,
+        "MALE2000": 48,
+        "FEMALE2000": 40,
+        "POP2008": 105,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031101010,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4882,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.99744200014823,
+          -4.969257000310279
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4882,
+        "CU_NAME": "WIDE BAY LOGGING",
+        "CU_NO": "406",
+        "GEOCODE": "18031101406",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "01",
+        "WARD_NAME": "LAMARAIN",
+        "LATITUDE": -4.970666,
+        "LONGITUDE": 151.996493,
+        "REGHH": 4,
+        "TOTPOP2000": 49,
+        "MALE2000": 40,
+        "FEMALE2000": 9,
+        "POP2008": 57,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031101406,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

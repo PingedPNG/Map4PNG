@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.50177799985488,
+          -5.479474000124981
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18136,
+        "CU_NAME": "RIKAU",
+        "CU_NO": "024",
+        "GEOCODE": "19020806024",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "06",
+        "WARD_NAME": "RIKAU/SIKI",
+        "LATITUDE": -5.4829,
+        "LONGITUDE": 150.502,
+        "REGHH": 91,
+        "TOTPOP2000": 580,
+        "MALE2000": 316,
+        "FEMALE2000": 264,
+        "POP2008": 764,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020806024,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4259689995697,
+          -5.50219400015294
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18137,
+        "CU_NAME": "VAISISI",
+        "CU_NO": "031",
+        "GEOCODE": "19020806031",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "06",
+        "WARD_NAME": "RIKAU/SIKI",
+        "LATITUDE": -5.50159,
+        "LONGITUDE": 150.423,
+        "REGHH": 83,
+        "TOTPOP2000": 547,
+        "MALE2000": 276,
+        "FEMALE2000": 271,
+        "POP2008": 721,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020806031,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4219739997004,
+          -5.483127000410718
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18138,
+        "CU_NAME": "LAVILELO SETTLEMENT",
+        "CU_NO": "509",
+        "GEOCODE": "19020806509",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "06",
+        "WARD_NAME": "RIKAU/SIKI",
+        "LATITUDE": -5.48454,
+        "LONGITUDE": 150.421,
+        "REGHH": 39,
+        "TOTPOP2000": 295,
+        "MALE2000": 169,
+        "FEMALE2000": 126,
+        "POP2008": 388,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020806509,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.46497299960436,
+          -5.476466999952038
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18139,
+        "CU_NAME": "TABA RIKAU SETTLEMENT",
+        "CU_NO": "514",
+        "GEOCODE": "19020806514",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "06",
+        "WARD_NAME": "RIKAU/SIKI",
+        "LATITUDE": -5.47788,
+        "LONGITUDE": 150.464,
+        "REGHH": 63,
+        "TOTPOP2000": 555,
+        "MALE2000": 292,
+        "FEMALE2000": 263,
+        "POP2008": 731,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020806514,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.43796899986955,
+          -5.4791179998957205
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18140,
+        "CU_NAME": "SIKI SETTLEMENT",
+        "CU_NO": "516",
+        "GEOCODE": "19020806516",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "06",
+        "WARD_NAME": "RIKAU/SIKI",
+        "LATITUDE": -5.48054,
+        "LONGITUDE": 150.439,
+        "REGHH": 66,
+        "TOTPOP2000": 617,
+        "MALE2000": 342,
+        "FEMALE2000": 275,
+        "POP2008": 814,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020806516,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

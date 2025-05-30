@@ -1,0 +1,933 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30956,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.29132503991877,
+          -6.25900320023743
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30956,
+        "CU_NAME": "WARA RAM",
+        "CU_NO": "011",
+        "GEOCODE": "11081116011",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.259003,
+        "LONGITUDE": 145.291325,
+        "REGHH": 14,
+        "TOTPOP2000": 48,
+        "MALE2000": 24,
+        "FEMALE2000": 24,
+        "POP2008": 56,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30957,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2617499602925,
+          -6.2092179899182725
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30957,
+        "CU_NAME": "FUMATO",
+        "CU_NO": "024",
+        "GEOCODE": "11081116024",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.209218,
+        "LONGITUDE": 145.26175,
+        "REGHH": 43,
+        "TOTPOP2000": 146,
+        "MALE2000": 71,
+        "FEMALE2000": 75,
+        "POP2008": 173,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30958,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27437587974316,
+          -6.24974013010285
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30958,
+        "CU_NAME": "KAMEKU",
+        "CU_NO": "029",
+        "GEOCODE": "11081116029",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.24974,
+        "LONGITUDE": 145.274376,
+        "REGHH": 39,
+        "TOTPOP2000": 132,
+        "MALE2000": 75,
+        "FEMALE2000": 57,
+        "POP2008": 156,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30959,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27792547957733,
+          -6.249022740007376
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30959,
+        "CU_NAME": "NUNUA",
+        "CU_NO": "030",
+        "GEOCODE": "11081116030",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.249023,
+        "LONGITUDE": 145.277925,
+        "REGHH": 26,
+        "TOTPOP2000": 97,
+        "MALE2000": 56,
+        "FEMALE2000": 41,
+        "POP2008": 113,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30960,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2769470001041,
+          -6.258524490213006
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30960,
+        "CU_NAME": "KOROLIME",
+        "CU_NO": "035",
+        "GEOCODE": "11081116035",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.258524,
+        "LONGITUDE": 145.276947,
+        "REGHH": 15,
+        "TOTPOP2000": 53,
+        "MALE2000": 26,
+        "FEMALE2000": 27,
+        "POP2008": 61,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30961,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.29361428037475,
+          -6.226357139969991
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30961,
+        "CU_NAME": "KUI",
+        "CU_NO": "036",
+        "GEOCODE": "11081116036",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.226357,
+        "LONGITUDE": 145.293614,
+        "REGHH": 42,
+        "TOTPOP2000": 143,
+        "MALE2000": 73,
+        "FEMALE2000": 70,
+        "POP2008": 169,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30962,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.28457971987825,
+          -6.211256490394646
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30962,
+        "CU_NAME": "MADA KILA",
+        "CU_NO": "037",
+        "GEOCODE": "11081116037",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.211256,
+        "LONGITUDE": 145.28458,
+        "REGHH": 17,
+        "TOTPOP2000": 43,
+        "MALE2000": 15,
+        "FEMALE2000": 28,
+        "POP2008": 51,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30963,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27299599956575,
+          -6.238348020244871
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30963,
+        "CU_NAME": "ENGENAI",
+        "CU_NO": "038",
+        "GEOCODE": "11081116038",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.238348,
+        "LONGITUDE": 145.272996,
+        "REGHH": 11,
+        "TOTPOP2000": 36,
+        "MALE2000": 21,
+        "FEMALE2000": 15,
+        "POP2008": 44,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30964,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.30210955970847,
+          -6.23876300970511
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30964,
+        "CU_NAME": "FUMITO",
+        "CU_NO": "039",
+        "GEOCODE": "11081116039",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.238763,
+        "LONGITUDE": 145.30211,
+        "REGHH": 47,
+        "TOTPOP2000": 173,
+        "MALE2000": 89,
+        "FEMALE2000": 84,
+        "POP2008": 205,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30965,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.29957155957993,
+          -6.244373159593579
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30965,
+        "CU_NAME": "AKETO",
+        "CU_NO": "040",
+        "GEOCODE": "11081116040",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.244373,
+        "LONGITUDE": 145.299572,
+        "REGHH": 29,
+        "TOTPOP2000": 110,
+        "MALE2000": 56,
+        "FEMALE2000": 54,
+        "POP2008": 132,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30966,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.28602404007745,
+          -6.250466159985251
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30966,
+        "CU_NAME": "FOKU",
+        "CU_NO": "041",
+        "GEOCODE": "11081116041",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.250466,
+        "LONGITUDE": 145.286024,
+        "REGHH": 20,
+        "TOTPOP2000": 80,
+        "MALE2000": 48,
+        "FEMALE2000": 32,
+        "POP2008": 96,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30967,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2672266399975,
+          -6.244677629568912
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30967,
+        "CU_NAME": "SESEPARO",
+        "CU_NO": "042",
+        "GEOCODE": "11081116042",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.244678,
+        "LONGITUDE": 145.267227,
+        "REGHH": 30,
+        "TOTPOP2000": 92,
+        "MALE2000": 51,
+        "FEMALE2000": 41,
+        "POP2008": 108,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30968,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3233074400864,
+          -6.22448379009478
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30968,
+        "CU_NAME": "IYAPONA",
+        "CU_NO": "043",
+        "GEOCODE": "11081116043",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.224484,
+        "LONGITUDE": 145.323307,
+        "REGHH": 43,
+        "TOTPOP2000": 173,
+        "MALE2000": 86,
+        "FEMALE2000": 87,
+        "POP2008": 205,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30969,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.31947415990464,
+          -6.2229139200413215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30969,
+        "CU_NAME": "HIBO",
+        "CU_NO": "044",
+        "GEOCODE": "11081116044",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.222914,
+        "LONGITUDE": 145.319474,
+        "REGHH": 32,
+        "TOTPOP2000": 136,
+        "MALE2000": 74,
+        "FEMALE2000": 62,
+        "POP2008": 160,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30970,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.30345163958157,
+          -6.220568880249573
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30970,
+        "CU_NAME": "ROT KONA",
+        "CU_NO": "045",
+        "GEOCODE": "11081116045",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.220569,
+        "LONGITUDE": 145.303452,
+        "REGHH": 19,
+        "TOTPOP2000": 72,
+        "MALE2000": 34,
+        "FEMALE2000": 38,
+        "POP2008": 88,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30971,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.28121120033666,
+          -6.277184099766316
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30971,
+        "CU_NAME": "LOGEFARO",
+        "CU_NO": "046",
+        "GEOCODE": "11081116046",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.277184,
+        "LONGITUDE": 145.281211,
+        "REGHH": 24,
+        "TOTPOP2000": 86,
+        "MALE2000": 44,
+        "FEMALE2000": 42,
+        "POP2008": 102,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30972,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27651859995353,
+          -6.202704149976512
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30972,
+        "CU_NAME": "KOLOBALO",
+        "CU_NO": "047",
+        "GEOCODE": "11081116047",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.202704,
+        "LONGITUDE": 145.276519,
+        "REGHH": 37,
+        "TOTPOP2000": 123,
+        "MALE2000": 56,
+        "FEMALE2000": 67,
+        "POP2008": 147,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30973,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26004284020496,
+          -6.212618640437881
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30973,
+        "CU_NAME": "MIKALUTARO",
+        "CU_NO": "048",
+        "GEOCODE": "11081116048",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.212619,
+        "LONGITUDE": 145.260043,
+        "REGHH": 43,
+        "TOTPOP2000": 143,
+        "MALE2000": 78,
+        "FEMALE2000": 65,
+        "POP2008": 169,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30974,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27065276021676,
+          -6.2357903096749965
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30974,
+        "CU_NAME": "LODOPULO",
+        "CU_NO": "049",
+        "GEOCODE": "11081116049",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.23579,
+        "LONGITUDE": 145.270653,
+        "REGHH": 11,
+        "TOTPOP2000": 46,
+        "MALE2000": 24,
+        "FEMALE2000": 22,
+        "POP2008": 54,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30975,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27445723961,
+          -6.239708820405667
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30975,
+        "CU_NAME": "KIARA FUMITO",
+        "CU_NO": "050",
+        "GEOCODE": "11081116050",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.239709,
+        "LONGITUDE": 145.274457,
+        "REGHH": 23,
+        "TOTPOP2000": 105,
+        "MALE2000": 55,
+        "FEMALE2000": 50,
+        "POP2008": 124,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.308834000189,
+          -6.213934350389934
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30976,
+        "CU_NAME": "ORUNUA",
+        "CU_NO": "051",
+        "GEOCODE": "11081116051",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.213934,
+        "LONGITUDE": 145.308834,
+        "REGHH": 26,
+        "TOTPOP2000": 104,
+        "MALE2000": 57,
+        "FEMALE2000": 47,
+        "POP2008": 123,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30977,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26902808008185,
+          -6.232726889634193
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30977,
+        "CU_NAME": "LODOPULO",
+        "CU_NO": "052",
+        "GEOCODE": "11081116052",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.232727,
+        "LONGITUDE": 145.269028,
+        "REGHH": 19,
+        "TOTPOP2000": 69,
+        "MALE2000": 36,
+        "FEMALE2000": 33,
+        "POP2008": 85,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30978,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.28796624024983,
+          -6.206620409704101
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30978,
+        "CU_NAME": "KETA",
+        "CU_NO": "053",
+        "GEOCODE": "11081116053",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.20662,
+        "LONGITUDE": 145.287966,
+        "REGHH": 68,
+        "TOTPOP2000": 272,
+        "MALE2000": 143,
+        "FEMALE2000": 129,
+        "POP2008": 324,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30979,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2606454804046,
+          -6.217063199706843
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30979,
+        "CU_NAME": "KUWARO",
+        "CU_NO": "054",
+        "GEOCODE": "11081116054",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.217063,
+        "LONGITUDE": 145.260645,
+        "REGHH": 34,
+        "TOTPOP2000": 135,
+        "MALE2000": 59,
+        "FEMALE2000": 76,
+        "POP2008": 159,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30980,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2736818000751,
+          -6.245638289875103
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30980,
+        "CU_NAME": "MARIKU",
+        "CU_NO": "055",
+        "GEOCODE": "11081116055",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.245638,
+        "LONGITUDE": 145.273682,
+        "REGHH": 37,
+        "TOTPOP2000": 147,
+        "MALE2000": 72,
+        "FEMALE2000": 75,
+        "POP2008": 174,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30981,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.27032047960654,
+          -6.240366720347822
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30981,
+        "CU_NAME": "MOIYA",
+        "CU_NO": "056",
+        "GEOCODE": "11081116056",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.240367,
+        "LONGITUDE": 145.27032,
+        "REGHH": 38,
+        "TOTPOP2000": 124,
+        "MALE2000": 61,
+        "FEMALE2000": 63,
+        "POP2008": 148,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30982,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26313704044207,
+          -6.232046760249716
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30982,
+        "CU_NAME": "ASINORO",
+        "CU_NO": "057",
+        "GEOCODE": "11081116057",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.232047,
+        "LONGITUDE": 145.263137,
+        "REGHH": 22,
+        "TOTPOP2000": 75,
+        "MALE2000": 35,
+        "FEMALE2000": 40,
+        "POP2008": 91,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30983,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.26686916038352,
+          -6.228189540115125
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30983,
+        "CU_NAME": "NAMIRO",
+        "CU_NO": "058",
+        "GEOCODE": "11081116058",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.22819,
+        "LONGITUDE": 145.266869,
+        "REGHH": 14,
+        "TOTPOP2000": 59,
+        "MALE2000": 28,
+        "FEMALE2000": 31,
+        "POP2008": 67,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30984,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.28865599957476,
+          -6.210729899565138
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30984,
+        "CU_NAME": "EVAKU",
+        "CU_NO": "059",
+        "GEOCODE": "11081116059",
+        "PROV_KEY": "11",
+        "DIST_NO": "08",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "WANDO",
+        "LATITUDE": -6.21073,
+        "LONGITUDE": 145.288656,
+        "REGHH": 22,
+        "TOTPOP2000": 62,
+        "MALE2000": 27,
+        "FEMALE2000": 35,
+        "POP2008": 71,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

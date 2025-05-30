@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11798,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.50017000024536,
+          -6.308637999843768
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11798,
+        "CU_NAME": "TEMBON",
+        "CU_NO": "003",
+        "GEOCODE": "12061919003",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "19",
+        "WARD_NAME": "SOM",
+        "LATITUDE": -6.310054,
+        "LONGITUDE": 146.49914,
+        "REGHH": 16,
+        "TOTPOP2000": 72,
+        "MALE2000": 39,
+        "FEMALE2000": 33,
+        "POP2008": 88,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061919003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11799,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.50617400013004,
+          -6.28355699975566
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11799,
+        "CU_NAME": "PAPUAI",
+        "CU_NO": "004",
+        "GEOCODE": "12061919004",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "19",
+        "WARD_NAME": "SOM",
+        "LATITUDE": -6.284972,
+        "LONGITUDE": 146.505144,
+        "REGHH": 10,
+        "TOTPOP2000": 44,
+        "MALE2000": 21,
+        "FEMALE2000": 23,
+        "POP2008": 52,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061919004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11800,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.48400000009997,
+          -6.3195409999171375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11800,
+        "CU_NAME": "SIRASIRA",
+        "CU_NO": "006",
+        "GEOCODE": "12061919006",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "19",
+        "WARD_NAME": "SOM",
+        "LATITUDE": -6.320957,
+        "LONGITUDE": 146.48297,
+        "REGHH": 41,
+        "TOTPOP2000": 229,
+        "MALE2000": 115,
+        "FEMALE2000": 114,
+        "POP2008": 286,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061919006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11801,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.51183500038508,
+          -6.32587000040013
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11801,
+        "CU_NAME": "SOM",
+        "CU_NO": "007",
+        "GEOCODE": "12061919007",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "19",
+        "WARD_NAME": "SOM",
+        "LATITUDE": -6.323791,
+        "LONGITUDE": 146.507495,
+        "REGHH": 37,
+        "TOTPOP2000": 171,
+        "MALE2000": 90,
+        "FEMALE2000": 81,
+        "POP2008": 213,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061919007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11802,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.48124900004143,
+          -6.321002999888492
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11802,
+        "CU_NAME": "YIM",
+        "CU_NO": "008",
+        "GEOCODE": "12061919008",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "19",
+        "WARD_NAME": "SOM",
+        "LATITUDE": -6.322419,
+        "LONGITUDE": 146.480219,
+        "REGHH": 30,
+        "TOTPOP2000": 148,
+        "MALE2000": 76,
+        "FEMALE2000": 72,
+        "POP2008": 184,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061919008,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

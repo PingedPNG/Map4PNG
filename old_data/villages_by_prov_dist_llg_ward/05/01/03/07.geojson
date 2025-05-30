@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9627,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.96109499983447,
+          -10.072973999650344
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9627,
+        "CU_NAME": "VIDIA",
+        "CU_NO": "010",
+        "GEOCODE": "05010307010",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "VIDIA",
+        "LATITUDE": -10.070002,
+        "LONGITUDE": 149.957356,
+        "REGHH": 50,
+        "TOTPOP2000": 277,
+        "MALE2000": 127,
+        "FEMALE2000": 150,
+        "POP2008": 337,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010307010,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9628,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.92104400008066,
+          -10.05665499982831
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9628,
+        "CU_NAME": "BAIWAPA",
+        "CU_NO": "014",
+        "GEOCODE": "05010307014",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "VIDIA",
+        "LATITUDE": -10.057217,
+        "LONGITUDE": 149.923192,
+        "REGHH": 40,
+        "TOTPOP2000": 234,
+        "MALE2000": 109,
+        "FEMALE2000": 125,
+        "POP2008": 285,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010307014,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

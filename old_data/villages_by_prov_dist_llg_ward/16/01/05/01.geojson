@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9402,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.17941699959488,
+          -1.9920610003148909
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9402,
+        "CU_NAME": "MALABANG",
+        "CU_NO": "006",
+        "GEOCODE": "16010501006",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "01",
+        "WARD_NAME": "MALABANG",
+        "LATITUDE": -1.990934,
+        "LONGITUDE": 147.179371,
+        "REGHH": 12,
+        "TOTPOP2000": 83,
+        "MALE2000": 47,
+        "FEMALE2000": 36,
+        "POP2008": 100,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010501006,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

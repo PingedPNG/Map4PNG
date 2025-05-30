@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14330,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99325900020278,
+          -6.227029000088237
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14330,
+        "CU_NAME": "DIRIMA 2",
+        "CU_NO": "001",
+        "GEOCODE": "10030903001",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "DIRIMA",
+        "LATITUDE": -6.228441,
+        "LONGITUDE": 144.992209,
+        "REGHH": 50,
+        "TOTPOP2000": 354,
+        "MALE2000": 184,
+        "FEMALE2000": 170,
+        "POP2008": 408,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030903001,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14331,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99761399958652,
+          -6.224857999796825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14331,
+        "CU_NAME": "AREGIGI",
+        "CU_NO": "002",
+        "GEOCODE": "10030903002",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "DIRIMA",
+        "LATITUDE": -6.22627,
+        "LONGITUDE": 144.996564,
+        "REGHH": 26,
+        "TOTPOP2000": 132,
+        "MALE2000": 64,
+        "FEMALE2000": 68,
+        "POP2008": 152,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030903002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14332,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9971390001648,
+          -6.220134999630488
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14332,
+        "CU_NAME": "MOMA",
+        "CU_NO": "003",
+        "GEOCODE": "10030903003",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "DIRIMA",
+        "LATITUDE": -6.221547,
+        "LONGITUDE": 144.996089,
+        "REGHH": 48,
+        "TOTPOP2000": 272,
+        "MALE2000": 143,
+        "FEMALE2000": 129,
+        "POP2008": 313,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030903003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14333,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99163600000145,
+          -6.232588000136047
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14333,
+        "CU_NAME": "DOLIBA HIGH SCH",
+        "CU_NO": "401",
+        "GEOCODE": "10030903401",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "DIRIMA",
+        "LATITUDE": -6.234,
+        "LONGITUDE": 144.990586,
+        "REGHH": 2,
+        "TOTPOP2000": 9,
+        "MALE2000": 5,
+        "FEMALE2000": 4,
+        "POP2008": 9,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030903401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

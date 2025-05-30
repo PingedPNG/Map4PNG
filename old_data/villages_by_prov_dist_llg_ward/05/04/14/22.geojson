@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10241,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.55788699998516,
+          -9.364980000226808
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10241,
+        "CU_NAME": "DIDIAU",
+        "CU_NO": "004",
+        "GEOCODE": "05041422004",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "14",
+        "WARD_NO": "22",
+        "WARD_NAME": "DIDIAU",
+        "LATITUDE": -9.366438,
+        "LONGITUDE": 150.556907,
+        "REGHH": 122,
+        "TOTPOP2000": 701,
+        "MALE2000": 387,
+        "FEMALE2000": 314,
+        "POP2008": 854,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041422004,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

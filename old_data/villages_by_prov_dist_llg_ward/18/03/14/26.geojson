@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5077,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.07452299993656,
+          -5.7374709996868205
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5077,
+        "CU_NAME": "PELING",
+        "CU_NO": "013",
+        "GEOCODE": "18031426013",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "26",
+        "WARD_NAME": "PELING",
+        "LATITUDE": -5.738888,
+        "LONGITUDE": 151.073559,
+        "REGHH": 30,
+        "TOTPOP2000": 177,
+        "MALE2000": 95,
+        "FEMALE2000": 82,
+        "POP2008": 216,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031426013,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

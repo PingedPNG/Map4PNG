@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9593,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.39317400008008,
+          -9.93061599982849
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9593,
+        "CU_NAME": "PAYAWA",
+        "CU_NO": "013",
+        "GEOCODE": "05010206013",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "PAYAWA",
+        "LATITUDE": -9.932077,
+        "LONGITUDE": 149.392175,
+        "REGHH": 80,
+        "TOTPOP2000": 521,
+        "MALE2000": 253,
+        "FEMALE2000": 268,
+        "POP2008": 634,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010206013,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9594,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.39411200016878,
+          -9.924142999899459
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9594,
+        "CU_NAME": "AGAUN GOVT. STATION",
+        "CU_NO": "501",
+        "GEOCODE": "05010206501",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "PAYAWA",
+        "LATITUDE": -9.930796,
+        "LONGITUDE": 149.38776,
+        "REGHH": 20,
+        "TOTPOP2000": 124,
+        "MALE2000": 52,
+        "FEMALE2000": 72,
+        "POP2008": 150,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010206501,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9595,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4184310001906,
+          -9.958466999952066
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9595,
+        "CU_NAME": "DOGON",
+        "CU_NO": "901",
+        "GEOCODE": "05010206901",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "PAYAWA",
+        "LATITUDE": -9.96452,
+        "LONGITUDE": 149.421965,
+        "REGHH": 7,
+        "TOTPOP2000": 55,
+        "MALE2000": 27,
+        "FEMALE2000": 28,
+        "POP2008": 65,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010206901,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9642,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.83601499999236,
+          -9.967752000054702
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9642,
+        "CU_NAME": "NAKARA//++",
+        "CU_NO": "006",
+        "GEOCODE": "05010311006",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "NAKARA",
+        "LATITUDE": -9.969215,
+        "LONGITUDE": 149.835022,
+        "REGHH": 30,
+        "TOTPOP2000": 139,
+        "MALE2000": 84,
+        "FEMALE2000": 55,
+        "POP2008": 170,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010311006,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9643,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.82539899966412,
+          -9.952816000158236
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9643,
+        "CU_NAME": "KIVIKIVIVI",
+        "CU_NO": "007",
+        "GEOCODE": "05010311007",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "NAKARA",
+        "LATITUDE": -9.954279,
+        "LONGITUDE": 149.824406,
+        "REGHH": 39,
+        "TOTPOP2000": 205,
+        "MALE2000": 103,
+        "FEMALE2000": 102,
+        "POP2008": 249,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010311007,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9644,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.84056600032068,
+          -9.972972999804028
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9644,
+        "CU_NAME": "KAPUTU",
+        "CU_NO": "008",
+        "GEOCODE": "05010311008",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "NAKARA",
+        "LATITUDE": -9.974645,
+        "LONGITUDE": 149.842085,
+        "REGHH": 7,
+        "TOTPOP2000": 34,
+        "MALE2000": 18,
+        "FEMALE2000": 16,
+        "POP2008": 42,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010311008,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9645,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.83105000035732,
+          -9.975704999885807
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9645,
+        "CU_NAME": "RABARABA GOVT. STN",
+        "CU_NO": "502",
+        "GEOCODE": "05010311502",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "11",
+        "WARD_NAME": "NAKARA",
+        "LATITUDE": -9.969568,
+        "LONGITUDE": 149.838088,
+        "REGHH": 64,
+        "TOTPOP2000": 365,
+        "MALE2000": 182,
+        "FEMALE2000": 183,
+        "POP2008": 445,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010311502,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

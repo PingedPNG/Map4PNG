@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.81662000001302,
+          -7.985576000432047
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15115,
+        "CU_NAME": "AKETA",
+        "CU_NO": "002",
+        "GEOCODE": "01010310002",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "AKETA",
+        "LATITUDE": -7.987,
+        "LONGITUDE": 142.815538,
+        "REGHH": 93,
+        "TOTPOP2000": 559,
+        "MALE2000": 265,
+        "FEMALE2000": 294,
+        "POP2008": 724,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010310002,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14959,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9637380004085,
+          -6.160625000043694
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14959,
+        "CU_NAME": "AIBA-AIWA",
+        "CU_NO": "003",
+        "GEOCODE": "10061818003",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "18",
+        "WARD_NAME": "SEGIMA",
+        "LATITUDE": -6.162036,
+        "LONGITUDE": 144.962688,
+        "REGHH": 57,
+        "TOTPOP2000": 220,
+        "MALE2000": 120,
+        "FEMALE2000": 100,
+        "POP2008": 252,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061818003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14960,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96388099980834,
+          -6.167283000410066
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14960,
+        "CU_NAME": "GII",
+        "CU_NO": "004",
+        "GEOCODE": "10061818004",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "18",
+        "WARD_NAME": "SEGIMA",
+        "LATITUDE": -6.168694,
+        "LONGITUDE": 144.962831,
+        "REGHH": 34,
+        "TOTPOP2000": 147,
+        "MALE2000": 77,
+        "FEMALE2000": 70,
+        "POP2008": 171,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061818004,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

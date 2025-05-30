@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10343,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6423160001833,
+          -6.768856999850641
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10343,
+        "CU_NAME": "WARABUNG",
+        "CU_NO": "002",
+        "GEOCODE": "12010110002",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "TIMINI",
+        "LATITUDE": -6.770278,
+        "LONGITUDE": 146.641287,
+        "REGHH": 34,
+        "TOTPOP2000": 199,
+        "MALE2000": 101,
+        "FEMALE2000": 98,
+        "POP2008": 249,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010110002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10344,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6637260000549,
+          -6.7874890002171355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10344,
+        "CU_NAME": "APERE",
+        "CU_NO": "003",
+        "GEOCODE": "12010110003",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "TIMINI",
+        "LATITUDE": -6.788911,
+        "LONGITUDE": 146.665194,
+        "REGHH": 59,
+        "TOTPOP2000": 271,
+        "MALE2000": 155,
+        "FEMALE2000": 116,
+        "POP2008": 338,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010110003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.63479599963568,
+          -6.798857000150406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10345,
+        "CU_NAME": "TIMINI",
+        "CU_NO": "015",
+        "GEOCODE": "12010110015",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "TIMINI",
+        "LATITUDE": -6.800279,
+        "LONGITUDE": 146.636085,
+        "REGHH": 134,
+        "TOTPOP2000": 699,
+        "MALE2000": 374,
+        "FEMALE2000": 325,
+        "POP2008": 872,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010110015,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10346,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6306229996518,
+          -6.799780000446617
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10346,
+        "CU_NAME": "TIMINI C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "12010110401",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "TIMINI",
+        "LATITUDE": -6.800279,
+        "LONGITUDE": 146.636085,
+        "REGHH": 5,
+        "TOTPOP2000": 23,
+        "MALE2000": 11,
+        "FEMALE2000": 12,
+        "POP2008": 31,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010110401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

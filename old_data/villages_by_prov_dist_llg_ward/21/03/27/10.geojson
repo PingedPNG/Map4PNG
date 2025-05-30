@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21780,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.87942799970244,
+          -5.859077000303273
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21780,
+        "CU_NAME": "TINDIMA",
+        "CU_NO": "007",
+        "GEOCODE": "07082710007",
+        "PROV_KEY": "21",
+        "DIST_NO": "3",
+        "LLG_NO": "27",
+        "WARD_NO": "10",
+        "WARD_NAME": "TINDIMA",
+        "LATITUDE": -5.863321,
+        "LONGITUDE": 142.87969,
+        "REGHH": 162,
+        "TOTPOP2000": 842,
+        "MALE2000": 438,
+        "FEMALE2000": 404,
+        "POP2008": 1169,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7082710007,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

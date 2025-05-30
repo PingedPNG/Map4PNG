@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20328,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3455569997558,
+          -5.989607999709392
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20328,
+        "CU_NAME": "TUYA",
+        "CU_NO": "008",
+        "GEOCODE": "07041309008",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "09",
+        "WARD_NAME": "TUYA",
+        "LATITUDE": -6.001191,
+        "LONGITUDE": 143.337663,
+        "REGHH": 21,
+        "TOTPOP2000": 128,
+        "MALE2000": 70,
+        "FEMALE2000": 58,
+        "POP2008": 178,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041309008,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20329,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.34562700028584,
+          -6.006041000291873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20329,
+        "CU_NAME": "TONGOMA",
+        "CU_NO": "009",
+        "GEOCODE": "07041309009",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "09",
+        "WARD_NAME": "TUYA",
+        "LATITUDE": -6.001191,
+        "LONGITUDE": 143.337663,
+        "REGHH": 24,
+        "TOTPOP2000": 133,
+        "MALE2000": 66,
+        "FEMALE2000": 67,
+        "POP2008": 185,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041309009,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20330,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.32917699981874,
+          -5.992416999744705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20330,
+        "CU_NAME": "TAPURALE",
+        "CU_NO": "010",
+        "GEOCODE": "07041309010",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "09",
+        "WARD_NAME": "TUYA",
+        "LATITUDE": -6.001191,
+        "LONGITUDE": 143.337663,
+        "REGHH": 28,
+        "TOTPOP2000": 133,
+        "MALE2000": 62,
+        "FEMALE2000": 71,
+        "POP2008": 185,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041309010,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20331,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.33287100019652,
+          -6.00426999956079
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20331,
+        "CU_NAME": "HINALO",
+        "CU_NO": "011",
+        "GEOCODE": "07041309011",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "09",
+        "WARD_NAME": "TUYA",
+        "LATITUDE": -6.001191,
+        "LONGITUDE": 143.337663,
+        "REGHH": 26,
+        "TOTPOP2000": 150,
+        "MALE2000": 69,
+        "FEMALE2000": 81,
+        "POP2008": 208,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041309011,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20332,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.33734999990259,
+          -5.986905000065633
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20332,
+        "CU_NAME": "POKOLIPI",
+        "CU_NO": "012",
+        "GEOCODE": "07041309012",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "09",
+        "WARD_NAME": "TUYA",
+        "LATITUDE": -6.001191,
+        "LONGITUDE": 143.337663,
+        "REGHH": 23,
+        "TOTPOP2000": 135,
+        "MALE2000": 79,
+        "FEMALE2000": 56,
+        "POP2008": 188,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041309012,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

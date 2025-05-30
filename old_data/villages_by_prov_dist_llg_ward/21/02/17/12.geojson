@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20882,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7474090000254,
+          -5.7161819999992645
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20882,
+        "CU_NAME": "PANDU",
+        "CU_NO": "008",
+        "GEOCODE": "07051712008",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "12",
+        "WARD_NAME": "PANDU",
+        "LATITUDE": -5.720424,
+        "LONGITUDE": 142.74767,
+        "REGHH": 110,
+        "TOTPOP2000": 718,
+        "MALE2000": 335,
+        "FEMALE2000": 383,
+        "POP2008": 998,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051712008,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15846,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.42677500016623,
+          -5.8064489997215105
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15846,
+        "CU_NAME": "KINDENG BLOCK ROAD 1",
+        "CU_NO": "018",
+        "GEOCODE": "09010120018",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "20",
+        "WARD_NAME": "KINDENG 1",
+        "LATITUDE": -5.807386,
+        "LONGITUDE": 144.427112,
+        "REGHH": 89,
+        "TOTPOP2000": 507,
+        "MALE2000": 255,
+        "FEMALE2000": 252,
+        "POP2008": 618,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010120018,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15847,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.4387460000279,
+          -5.791655000078151
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15847,
+        "CU_NAME": "KINDENG BLOCK ROAD 2",
+        "CU_NO": "401",
+        "GEOCODE": "09010120401",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "20",
+        "WARD_NAME": "KINDENG 1",
+        "LATITUDE": -5.792592,
+        "LONGITUDE": 144.439083,
+        "REGHH": 97,
+        "TOTPOP2000": 577,
+        "MALE2000": 296,
+        "FEMALE2000": 281,
+        "POP2008": 703,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010120401,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15848,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.44495999970434,
+          -5.7921559997994905
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15848,
+        "CU_NAME": "KINDENG FACTORY",
+        "CU_NO": "402",
+        "GEOCODE": "09010120402",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "20",
+        "WARD_NAME": "KINDENG 1",
+        "LATITUDE": -5.793093,
+        "LONGITUDE": 144.445296,
+        "REGHH": 89,
+        "TOTPOP2000": 422,
+        "MALE2000": 237,
+        "FEMALE2000": 185,
+        "POP2008": 515,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010120402,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15849,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.45115700039537,
+          -5.788148000229967
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15849,
+        "CU_NAME": "KINDENG TEA",
+        "CU_NO": "403",
+        "GEOCODE": "09010120403",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "20",
+        "WARD_NAME": "KINDENG 1",
+        "LATITUDE": -5.789085,
+        "LONGITUDE": 144.451493,
+        "REGHH": 64,
+        "TOTPOP2000": 440,
+        "MALE2000": 259,
+        "FEMALE2000": 181,
+        "POP2008": 536,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010120403,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15850,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.44539099979488,
+          -5.794980999673328
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15850,
+        "CU_NAME": "KINDENG DPI",
+        "CU_NO": "404",
+        "GEOCODE": "09010120404",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "20",
+        "WARD_NAME": "KINDENG 1",
+        "LATITUDE": -5.795918,
+        "LONGITUDE": 144.445727,
+        "REGHH": 27,
+        "TOTPOP2000": 147,
+        "MALE2000": 77,
+        "FEMALE2000": 70,
+        "POP2008": 179,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010120404,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

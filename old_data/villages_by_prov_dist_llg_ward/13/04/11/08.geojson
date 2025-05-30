@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8707,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.94909799957304,
+          -5.882226000329581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8707,
+        "CU_NAME": "NININGO",
+        "CU_NO": "018",
+        "GEOCODE": "13041108018",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "08",
+        "WARD_NAME": "WARD 8",
+        "LATITUDE": -5.873568,
+        "LONGITUDE": 145.944344,
+        "REGHH": 54,
+        "TOTPOP2000": 577,
+        "MALE2000": 305,
+        "FEMALE2000": 272,
+        "POP2008": 714,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041108018,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8708,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9289090002502,
+          -5.8483589997679815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8708,
+        "CU_NAME": "SAPOKARE",
+        "CU_NO": "019",
+        "GEOCODE": "13041108019",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "08",
+        "WARD_NAME": "WARD 8",
+        "LATITUDE": -5.849769,
+        "LONGITUDE": 145.927872,
+        "REGHH": 14,
+        "TOTPOP2000": 117,
+        "MALE2000": 56,
+        "FEMALE2000": 61,
+        "POP2008": 144,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041108019,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

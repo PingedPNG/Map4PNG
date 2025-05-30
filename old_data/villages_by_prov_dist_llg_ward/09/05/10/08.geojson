@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.03558399980182,
+          -5.5610100001113665
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17144,
+        "CU_NAME": "PINAPAISA.1",
+        "CU_NO": "007",
+        "GEOCODE": "09051008007",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "PINAPAISA.1",
+        "LATITUDE": -5.561665,
+        "LONGITUDE": 144.033768,
+        "REGHH": 30,
+        "TOTPOP2000": 143,
+        "MALE2000": 66,
+        "FEMALE2000": 77,
+        "POP2008": 175,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051008007,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.01875799998174,
+          -5.547661999701461
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17145,
+        "CU_NAME": "YAMBANAGA",
+        "CU_NO": "008",
+        "GEOCODE": "09051008008",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "PINAPAISA.1",
+        "LATITUDE": -5.547352,
+        "LONGITUDE": 144.01894,
+        "REGHH": 23,
+        "TOTPOP2000": 102,
+        "MALE2000": 53,
+        "FEMALE2000": 49,
+        "POP2008": 126,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051008008,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.03559400026302,
+          -5.559126999611294
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17146,
+        "CU_NAME": "ALIGAPETA",
+        "CU_NO": "009",
+        "GEOCODE": "09051008009",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "PINAPAISA.1",
+        "LATITUDE": -5.561665,
+        "LONGITUDE": 144.033768,
+        "REGHH": 46,
+        "TOTPOP2000": 189,
+        "MALE2000": 103,
+        "FEMALE2000": 86,
+        "POP2008": 230,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051008009,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.03082699986624,
+          -5.560334000413718
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17147,
+        "CU_NAME": "YOMO",
+        "CU_NO": "010",
+        "GEOCODE": "09051008010",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "PINAPAISA.1",
+        "LATITUDE": -5.561665,
+        "LONGITUDE": 144.033768,
+        "REGHH": 16,
+        "TOTPOP2000": 75,
+        "MALE2000": 47,
+        "FEMALE2000": 28,
+        "POP2008": 91,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051008010,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

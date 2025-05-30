@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9722,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.59643799981393,
+          -10.342827000065938
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9722,
+        "CU_NAME": "WATUNOU",
+        "CU_NO": "015",
+        "GEOCODE": "05010510015",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "WATUNOU",
+        "LATITUDE": -10.344296,
+        "LONGITUDE": 150.595455,
+        "REGHH": 51,
+        "TOTPOP2000": 239,
+        "MALE2000": 138,
+        "FEMALE2000": 101,
+        "POP2008": 291,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010510015,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5056,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2235309997559,
+          -5.73391600032312
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5056,
+        "CU_NAME": "SERENGUNA",
+        "CU_NO": "024",
+        "GEOCODE": "18031417024",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "17",
+        "WARD_NAME": "SERENGUNA",
+        "LATITUDE": -5.741849,
+        "LONGITUDE": 151.219757,
+        "REGHH": 22,
+        "TOTPOP2000": 103,
+        "MALE2000": 50,
+        "FEMALE2000": 53,
+        "POP2008": 127,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031417024,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5057,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.215530999556,
+          -5.726816000258168
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5057,
+        "CU_NAME": "KULONTO",
+        "CU_NO": "025",
+        "GEOCODE": "18031417025",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "17",
+        "WARD_NAME": "SERENGUNA",
+        "LATITUDE": -5.728233,
+        "LONGITUDE": 151.214569,
+        "REGHH": 5,
+        "TOTPOP2000": 29,
+        "MALE2000": 15,
+        "FEMALE2000": 14,
+        "POP2008": 37,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031417025,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5058,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.23363900003983,
+          -5.737615000032179
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5058,
+        "CU_NAME": "ULO",
+        "CU_NO": "026",
+        "GEOCODE": "18031417026",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "17",
+        "WARD_NAME": "SERENGUNA",
+        "LATITUDE": -5.747696,
+        "LONGITUDE": 151.229764,
+        "REGHH": 13,
+        "TOTPOP2000": 56,
+        "MALE2000": 30,
+        "FEMALE2000": 26,
+        "POP2008": 67,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031417026,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5059,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.24412000043776,
+          -5.77315799964191
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5059,
+        "CU_NAME": "MANANE ENO",
+        "CU_NO": "027",
+        "GEOCODE": "18031417027",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "17",
+        "WARD_NAME": "SERENGUNA",
+        "LATITUDE": -5.758644,
+        "LONGITUDE": 151.232383,
+        "REGHH": 14,
+        "TOTPOP2000": 73,
+        "MALE2000": 41,
+        "FEMALE2000": 32,
+        "POP2008": 89,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031417027,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5060,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.99487099959697,
+          -5.835480000301743
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5060,
+        "CU_NAME": "MATAVANG",
+        "CU_NO": "048",
+        "GEOCODE": "18031417048",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "17",
+        "WARD_NAME": "SERENGUNA",
+        "LATITUDE": -5.836898,
+        "LONGITUDE": 150.993905,
+        "REGHH": 5,
+        "TOTPOP2000": 19,
+        "MALE2000": 8,
+        "FEMALE2000": 11,
+        "POP2008": 19,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031417048,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

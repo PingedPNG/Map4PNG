@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1550,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.42255000008254,
+          -8.450890999819762
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1550,
+        "CU_NAME": "WAIKA SETTLEMENT",
+        "CU_NO": "403",
+        "GEOCODE": "03031015403",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "15",
+        "WARD_NAME": "APANAIPI",
+        "LATITUDE": -8.452329,
+        "LONGITUDE": 146.421514,
+        "REGHH": 12,
+        "TOTPOP2000": 57,
+        "MALE2000": 32,
+        "FEMALE2000": 25,
+        "POP2008": 65,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031015403,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.39661099999773,
+          -8.411650999693848
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1551,
+        "CU_NAME": "KOABA SETTLEMENT",
+        "CU_NO": "407",
+        "GEOCODE": "03031015407",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "15",
+        "WARD_NAME": "APANAIPI",
+        "LATITUDE": -8.413088,
+        "LONGITUDE": 146.395575,
+        "REGHH": 49,
+        "TOTPOP2000": 255,
+        "MALE2000": 132,
+        "FEMALE2000": 123,
+        "POP2008": 306,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031015407,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.3924569999906,
+          -8.411816000108274
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1552,
+        "CU_NAME": "APANAIPI",
+        "CU_NO": "901",
+        "GEOCODE": "03031015901",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "15",
+        "WARD_NAME": "APANAIPI",
+        "LATITUDE": -8.413253,
+        "LONGITUDE": 146.39142,
+        "REGHH": 123,
+        "TOTPOP2000": 659,
+        "MALE2000": 331,
+        "FEMALE2000": 328,
+        "POP2008": 791,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031015901,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1553,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.3950900000035,
+          -8.417081000088046
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1553,
+        "CU_NAME": "POBA ABALA",
+        "CU_NO": "904",
+        "GEOCODE": "03031015904",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "15",
+        "WARD_NAME": "APANAIPI",
+        "LATITUDE": -8.418518,
+        "LONGITUDE": 146.394053,
+        "REGHH": 17,
+        "TOTPOP2000": 89,
+        "MALE2000": 50,
+        "FEMALE2000": 39,
+        "POP2008": 105,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031015904,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1554,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.39063399955944,
+          -8.344328999583638
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1554,
+        "CU_NAME": "ALIKA",
+        "CU_NO": "905",
+        "GEOCODE": "03031015905",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "15",
+        "WARD_NAME": "APANAIPI",
+        "LATITUDE": -8.345766,
+        "LONGITUDE": 146.389598,
+        "REGHH": 6,
+        "TOTPOP2000": 29,
+        "MALE2000": 16,
+        "FEMALE2000": 13,
+        "POP2008": 37,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031015905,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

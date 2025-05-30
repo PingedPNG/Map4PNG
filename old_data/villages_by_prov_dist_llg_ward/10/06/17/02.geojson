@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14847,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.03172999993956,
+          -6.088609000205167
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14847,
+        "CU_NAME": "GOLAIGOLAI",
+        "CU_NO": "006",
+        "GEOCODE": "10061702006",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "02",
+        "WARD_NAME": "GILMAI/AREBIL",
+        "LATITUDE": -6.090019,
+        "LONGITUDE": 145.030681,
+        "REGHH": 31,
+        "TOTPOP2000": 140,
+        "MALE2000": 76,
+        "FEMALE2000": 64,
+        "POP2008": 164,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061702006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14848,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.02483200019674,
+          -6.0995389997249845
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14848,
+        "CU_NAME": "KENWAI",
+        "CU_NO": "007",
+        "GEOCODE": "10061702007",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "02",
+        "WARD_NAME": "GILMAI/AREBIL",
+        "LATITUDE": -6.10095,
+        "LONGITUDE": 145.023783,
+        "REGHH": 26,
+        "TOTPOP2000": 133,
+        "MALE2000": 64,
+        "FEMALE2000": 69,
+        "POP2008": 154,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061702007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14849,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0313280002871,
+          -6.116933999704258
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14849,
+        "CU_NAME": "ALGAN",
+        "CU_NO": "008",
+        "GEOCODE": "10061702008",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "02",
+        "WARD_NAME": "GILMAI/AREBIL",
+        "LATITUDE": -6.118345,
+        "LONGITUDE": 145.030279,
+        "REGHH": 37,
+        "TOTPOP2000": 128,
+        "MALE2000": 62,
+        "FEMALE2000": 66,
+        "POP2008": 146,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061702008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14850,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.02825399972232,
+          -6.112886000088793
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14850,
+        "CU_NAME": "KOROWAI",
+        "CU_NO": "009",
+        "GEOCODE": "10061702009",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "02",
+        "WARD_NAME": "GILMAI/AREBIL",
+        "LATITUDE": -6.114297,
+        "LONGITUDE": 145.027205,
+        "REGHH": 38,
+        "TOTPOP2000": 161,
+        "MALE2000": 91,
+        "FEMALE2000": 70,
+        "POP2008": 185,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061702009,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

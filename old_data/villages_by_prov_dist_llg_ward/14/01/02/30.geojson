@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6167,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.80606199966167,
+          -3.6549169999195783
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6167,
+        "CU_NAME": "MOSENG",
+        "CU_NO": "009",
+        "GEOCODE": "14010230009",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "30",
+        "WARD_NAME": "MOSENG",
+        "LATITUDE": -3.656495,
+        "LONGITUDE": 142.80482,
+        "REGHH": 96,
+        "TOTPOP2000": 413,
+        "MALE2000": 216,
+        "FEMALE2000": 197,
+        "POP2008": 491,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010230009,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

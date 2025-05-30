@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6913,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63562399974785,
+          -3.702226999876075
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6913,
+        "CU_NAME": "PALIAMA",
+        "CU_NO": "012",
+        "GEOCODE": "14041704012",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "17",
+        "WARD_NO": "04",
+        "WARD_NAME": "PALIAMA",
+        "LATITUDE": -3.703806,
+        "LONGITUDE": 143.634392,
+        "REGHH": 73,
+        "TOTPOP2000": 354,
+        "MALE2000": 180,
+        "FEMALE2000": 174,
+        "POP2008": 421,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041704012,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

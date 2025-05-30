@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14702,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.02114800028005,
+          -5.931858000346381
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14702,
+        "CU_NAME": "MAINAKE 1",
+        "CU_NO": "003",
+        "GEOCODE": "10051501003",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "KEWANDEKU/MAINAGLE",
+        "LATITUDE": -5.933267,
+        "LONGITUDE": 145.020099,
+        "REGHH": 30,
+        "TOTPOP2000": 125,
+        "MALE2000": 63,
+        "FEMALE2000": 62,
+        "POP2008": 142,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051501003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14703,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.01947100028644,
+          -5.928141999853381
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14703,
+        "CU_NAME": "ARMBAPENE",
+        "CU_NO": "004",
+        "GEOCODE": "10051501004",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "KEWANDEKU/MAINAGLE",
+        "LATITUDE": -5.929551,
+        "LONGITUDE": 145.018422,
+        "REGHH": 30,
+        "TOTPOP2000": 125,
+        "MALE2000": 63,
+        "FEMALE2000": 62,
+        "POP2008": 142,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051501004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14704,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.02770200034706,
+          -5.937696999816637
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14704,
+        "CU_NAME": "NOLKUMA BUNO 1",
+        "CU_NO": "005",
+        "GEOCODE": "10051501005",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "KEWANDEKU/MAINAGLE",
+        "LATITUDE": -5.939106,
+        "LONGITUDE": 145.026653,
+        "REGHH": 79,
+        "TOTPOP2000": 349,
+        "MALE2000": 168,
+        "FEMALE2000": 181,
+        "POP2008": 402,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051501005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14705,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0170520002497,
+          -5.9027970001813515
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14705,
+        "CU_NAME": "GUGULME",
+        "CU_NO": "006",
+        "GEOCODE": "10051501006",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "KEWANDEKU/MAINAGLE",
+        "LATITUDE": -5.904204,
+        "LONGITUDE": 145.016003,
+        "REGHH": 36,
+        "TOTPOP2000": 130,
+        "MALE2000": 66,
+        "FEMALE2000": 64,
+        "POP2008": 149,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051501006,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

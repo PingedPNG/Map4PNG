@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.98049899992895,
+          -4.901274000294848
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8542,
+        "CU_NAME": "KAIBUGU",
+        "CU_NO": "008",
+        "GEOCODE": "13030815008",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "15",
+        "WARD_NAME": "WARD 15",
+        "LATITUDE": -4.902672,
+        "LONGITUDE": 144.979451,
+        "REGHH": 23,
+        "TOTPOP2000": 143,
+        "MALE2000": 77,
+        "FEMALE2000": 66,
+        "POP2008": 177,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030815008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8543,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.943243999611,
+          -4.916500000074905
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8543,
+        "CU_NAME": "MRANGET",
+        "CU_NO": "012",
+        "GEOCODE": "13030815012",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "15",
+        "WARD_NAME": "WARD 15",
+        "LATITUDE": -4.917898,
+        "LONGITUDE": 144.942196,
+        "REGHH": 25,
+        "TOTPOP2000": 158,
+        "MALE2000": 91,
+        "FEMALE2000": 67,
+        "POP2008": 195,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030815012,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8544,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8991690004491,
+          -4.9325419997134645
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8544,
+        "CU_NAME": "TEVARI",
+        "CU_NO": "016",
+        "GEOCODE": "13030815016",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "15",
+        "WARD_NAME": "WARD 15",
+        "LATITUDE": -4.934182,
+        "LONGITUDE": 144.896723,
+        "REGHH": 21,
+        "TOTPOP2000": 104,
+        "MALE2000": 51,
+        "FEMALE2000": 53,
+        "POP2008": 128,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030815016,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

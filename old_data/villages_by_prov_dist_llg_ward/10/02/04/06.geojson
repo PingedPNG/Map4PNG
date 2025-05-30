@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14072,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.85364300002448,
+          -6.155551999924796
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14072,
+        "CU_NAME": "DIA",
+        "CU_NO": "007",
+        "GEOCODE": "10020406007",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "06",
+        "WARD_NAME": "DIA",
+        "LATITUDE": -6.156963,
+        "LONGITUDE": 144.852591,
+        "REGHH": 43,
+        "TOTPOP2000": 185,
+        "MALE2000": 100,
+        "FEMALE2000": 85,
+        "POP2008": 213,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020406007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14073,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.83355700005552,
+          -6.141231999657009
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14073,
+        "CU_NAME": "DEKAWE (DEKAUL)",
+        "CU_NO": "008",
+        "GEOCODE": "10020406008",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "06",
+        "WARD_NAME": "DIA",
+        "LATITUDE": -6.142643,
+        "LONGITUDE": 144.832505,
+        "REGHH": 53,
+        "TOTPOP2000": 242,
+        "MALE2000": 135,
+        "FEMALE2000": 107,
+        "POP2008": 280,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020406008,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

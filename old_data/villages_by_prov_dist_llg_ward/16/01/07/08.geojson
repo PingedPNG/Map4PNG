@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9461,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.40046200022118,
+          -2.003386000063813
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9461,
+        "CU_NAME": "MOKORENG",
+        "CU_NO": "003",
+        "GEOCODE": "16010708003",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "07",
+        "WARD_NO": "08",
+        "WARD_NAME": "MOKARENG",
+        "LATITUDE": -2.001139,
+        "LONGITUDE": 147.398112,
+        "REGHH": 41,
+        "TOTPOP2000": 216,
+        "MALE2000": 110,
+        "FEMALE2000": 106,
+        "POP2008": 266,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010708003,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

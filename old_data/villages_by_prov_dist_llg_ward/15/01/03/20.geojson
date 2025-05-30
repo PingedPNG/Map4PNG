@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18428,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.9465220002902,
+          -3.0698180003004154
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18428,
+        "CU_NAME": "SUMO",
+        "CU_NO": "028",
+        "GEOCODE": "15010320028",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "SUMO",
+        "LATITUDE": -3.071192,
+        "LONGITUDE": 141.945439,
+        "REGHH": 65,
+        "TOTPOP2000": 553,
+        "MALE2000": 314,
+        "FEMALE2000": 239,
+        "POP2008": 669,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010320028,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17570,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.00367300040875,
+          -5.963024999603988
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17570,
+        "CU_NAME": "TAMAL (KABO)",
+        "CU_NO": "008",
+        "GEOCODE": "09071247008",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "47",
+        "WARD_NAME": "TAMAL",
+        "LATITUDE": -5.963965,
+        "LONGITUDE": 144.004004,
+        "REGHH": 108,
+        "TOTPOP2000": 492,
+        "MALE2000": 238,
+        "FEMALE2000": 254,
+        "POP2008": 600,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071247008,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17571,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9987350002201,
+          -5.955826000369598
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17571,
+        "CU_NAME": "WENDA",
+        "CU_NO": "009",
+        "GEOCODE": "09071247009",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "47",
+        "WARD_NAME": "TAMAL",
+        "LATITUDE": -5.956766,
+        "LONGITUDE": 143.999066,
+        "REGHH": 43,
+        "TOTPOP2000": 222,
+        "MALE2000": 111,
+        "FEMALE2000": 111,
+        "POP2008": 271,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071247009,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17572,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.00970699987818,
+          -5.964897999642915
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17572,
+        "CU_NAME": "PANIE",
+        "CU_NO": "010",
+        "GEOCODE": "09071247010",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "47",
+        "WARD_NAME": "TAMAL",
+        "LATITUDE": -5.965838,
+        "LONGITUDE": 144.010038,
+        "REGHH": 63,
+        "TOTPOP2000": 266,
+        "MALE2000": 143,
+        "FEMALE2000": 123,
+        "POP2008": 325,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071247010,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17573,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.03310299960378,
+          -5.974547000343762
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17573,
+        "CU_NAME": "WAKALE",
+        "CU_NO": "011",
+        "GEOCODE": "09071247011",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "47",
+        "WARD_NAME": "TAMAL",
+        "LATITUDE": -5.975486,
+        "LONGITUDE": 144.033433,
+        "REGHH": 55,
+        "TOTPOP2000": 220,
+        "MALE2000": 117,
+        "FEMALE2000": 103,
+        "POP2008": 268,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071247011,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

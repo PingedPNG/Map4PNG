@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4871,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6774980001327,
+          -5.291640000385655
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4871,
+        "CU_NAME": "LALIKA",
+        "CU_NO": "021",
+        "GEOCODE": "18031033021",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "33",
+        "WARD_NAME": "GELIOI",
+        "LATITUDE": -5.293053,
+        "LONGITUDE": 151.676543,
+        "REGHH": 17,
+        "TOTPOP2000": 71,
+        "MALE2000": 41,
+        "FEMALE2000": 30,
+        "POP2008": 87,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031033021,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4872,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.67771700033938,
+          -5.286272000152621
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4872,
+        "CU_NAME": "GELIOI",
+        "CU_NO": "023",
+        "GEOCODE": "18031033023",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "33",
+        "WARD_NAME": "GELIOI",
+        "LATITUDE": -5.290482,
+        "LONGITUDE": 151.676756,
+        "REGHH": 12,
+        "TOTPOP2000": 65,
+        "MALE2000": 30,
+        "FEMALE2000": 35,
+        "POP2008": 81,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031033023,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.69076999973572,
+          -5.267229999764652
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4873,
+        "CU_NAME": "MONGO",
+        "CU_NO": "024",
+        "GEOCODE": "18031033024",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "33",
+        "WARD_NAME": "GELIOI",
+        "LATITUDE": -5.268642,
+        "LONGITUDE": 151.689815,
+        "REGHH": 15,
+        "TOTPOP2000": 77,
+        "MALE2000": 42,
+        "FEMALE2000": 35,
+        "POP2008": 93,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031033024,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4874,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6950680000882,
+          -5.19796499998472
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4874,
+        "CU_NAME": "ORA",
+        "CU_NO": "025",
+        "GEOCODE": "18031033025",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "33",
+        "WARD_NAME": "GELIOI",
+        "LATITUDE": -5.194652,
+        "LONGITUDE": 151.695538,
+        "REGHH": 23,
+        "TOTPOP2000": 102,
+        "MALE2000": 53,
+        "FEMALE2000": 49,
+        "POP2008": 126,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031033025,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4875,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.66722100014908,
+          -5.287400000009939
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4875,
+        "CU_NAME": "LAMPURU",
+        "CU_NO": "026",
+        "GEOCODE": "18031033026",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "33",
+        "WARD_NAME": "GELIOI",
+        "LATITUDE": -5.286955,
+        "LONGITUDE": 151.66906,
+        "REGHH": 24,
+        "TOTPOP2000": 110,
+        "MALE2000": 52,
+        "FEMALE2000": 58,
+        "POP2008": 134,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031033026,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

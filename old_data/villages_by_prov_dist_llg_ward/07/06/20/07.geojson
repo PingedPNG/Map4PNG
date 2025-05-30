@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21081,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.66626499992992,
+          -6.131361000409811
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21081,
+        "CU_NAME": "UMBIMI",
+        "CU_NO": "013",
+        "GEOCODE": "07062007013",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "20",
+        "WARD_NO": "07",
+        "WARD_NAME": "WAKWAK/UMBIMI",
+        "LATITUDE": -6.135605,
+        "LONGITUDE": 143.666541,
+        "REGHH": 96,
+        "TOTPOP2000": 601,
+        "MALE2000": 287,
+        "FEMALE2000": 314,
+        "POP2008": 835,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7062007013,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21082,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.66243499957568,
+          -6.127904000169451
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21082,
+        "CU_NAME": "WAKWAK",
+        "CU_NO": "018",
+        "GEOCODE": "07062007018",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "20",
+        "WARD_NO": "07",
+        "WARD_NAME": "WAKWAK",
+        "LATITUDE": -6.132148,
+        "LONGITUDE": 143.662711,
+        "REGHH": 130,
+        "TOTPOP2000": 861,
+        "MALE2000": 426,
+        "FEMALE2000": 435,
+        "POP2008": 1196,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7062007018,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

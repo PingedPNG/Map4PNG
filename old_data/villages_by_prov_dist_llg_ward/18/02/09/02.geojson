@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4758,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1808140000661,
+          -4.311104999795873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4758,
+        "CU_NAME": "BITATITA",
+        "CU_NO": "002",
+        "GEOCODE": "18020902002",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "BITATITA",
+        "LATITUDE": -4.312505,
+        "LONGITUDE": 152.179868,
+        "REGHH": 41,
+        "TOTPOP2000": 241,
+        "MALE2000": 127,
+        "FEMALE2000": 114,
+        "POP2008": 293,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020902002,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

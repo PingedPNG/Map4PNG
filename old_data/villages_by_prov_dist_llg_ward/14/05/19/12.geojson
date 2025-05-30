@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7046,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.07612299977666,
+          -4.023604000324326
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7046,
+        "CU_NAME": "WERMAN",
+        "CU_NO": "019",
+        "GEOCODE": "14051912019",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "19",
+        "WARD_NO": "12",
+        "WARD_NAME": "WERMAN",
+        "LATITUDE": -4.02464,
+        "LONGITUDE": 143.078894,
+        "REGHH": 72,
+        "TOTPOP2000": 341,
+        "MALE2000": 175,
+        "FEMALE2000": 166,
+        "POP2008": 407,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14051912019,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

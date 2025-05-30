@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4785,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.4538910000697,
+          -5.550197999737861
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4785,
+        "CU_NAME": "BAIEN (WEST)",
+        "CU_NO": "009",
+        "GEOCODE": "18031004009",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "BAIEN (WEST)",
+        "LATITUDE": -5.549235,
+        "LONGITUDE": 151.455397,
+        "REGHH": 27,
+        "TOTPOP2000": 164,
+        "MALE2000": 74,
+        "FEMALE2000": 90,
+        "POP2008": 199,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031004009,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

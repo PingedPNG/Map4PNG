@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15332,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1608079996895,
+          -5.9822969998066355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15332,
+        "CU_NAME": "KONKONDA",
+        "CU_NO": "007",
+        "GEOCODE": "01020623007",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "KONKONDA",
+        "LATITUDE": -5.983699,
+        "LONGITUDE": 141.159711,
+        "REGHH": 24,
+        "TOTPOP2000": 122,
+        "MALE2000": 72,
+        "FEMALE2000": 50,
+        "POP2008": 158,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020623007,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

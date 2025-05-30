@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.43199700036132,
+          -6.336105000245539
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15232,
+        "CU_NAME": "GOGOYEBI",
+        "CU_NO": "016",
+        "GEOCODE": "01010511016",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "FUMA",
+        "LATITUDE": -6.337513,
+        "LONGITUDE": 142.430915,
+        "REGHH": 68,
+        "TOTPOP2000": 336,
+        "MALE2000": 163,
+        "FEMALE2000": 173,
+        "POP2008": 435,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010511016,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5937360000164,
+          -6.446352999591227
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15233,
+        "CU_NAME": "BANISO",
+        "CU_NO": "043",
+        "GEOCODE": "01010511043",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "FUMA",
+        "LATITUDE": -6.447762,
+        "LONGITUDE": 142.592655,
+        "REGHH": 9,
+        "TOTPOP2000": 63,
+        "MALE2000": 31,
+        "FEMALE2000": 32,
+        "POP2008": 80,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010511043,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.56260999995163,
+          -6.463925999685102
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15234,
+        "CU_NAME": "TULISI",
+        "CU_NO": "044",
+        "GEOCODE": "01010511044",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "FUMA",
+        "LATITUDE": -6.465335,
+        "LONGITUDE": 142.561529,
+        "REGHH": 24,
+        "TOTPOP2000": 159,
+        "MALE2000": 86,
+        "FEMALE2000": 73,
+        "POP2008": 206,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010511044,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4515629997327,
+          -6.38357400033982
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15235,
+        "CU_NAME": "FUMA STATION",
+        "CU_NO": "402",
+        "GEOCODE": "01010511402",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "FUMA",
+        "LATITUDE": -6.392392,
+        "LONGITUDE": 142.443115,
+        "REGHH": 8,
+        "TOTPOP2000": 41,
+        "MALE2000": 19,
+        "FEMALE2000": 22,
+        "POP2008": 52,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010511402,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

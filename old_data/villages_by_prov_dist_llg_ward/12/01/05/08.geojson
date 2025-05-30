@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10630,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.820307000168,
+          -7.2798810000081176
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10630,
+        "CU_NAME": "SINEI",
+        "CU_NO": "401",
+        "GEOCODE": "12010508401",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "BITOI",
+        "LATITUDE": -7.284074,
+        "LONGITUDE": 146.810836,
+        "REGHH": 24,
+        "TOTPOP2000": 170,
+        "MALE2000": 103,
+        "FEMALE2000": 67,
+        "POP2008": 212,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010508401,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10631,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.85590599966224,
+          -7.271827000016003
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10631,
+        "CU_NAME": "BITOI MINERS",
+        "CU_NO": "402",
+        "GEOCODE": "12010508402",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "BITOI",
+        "LATITUDE": -7.288172,
+        "LONGITUDE": 146.814348,
+        "REGHH": 17,
+        "TOTPOP2000": 105,
+        "MALE2000": 65,
+        "FEMALE2000": 40,
+        "POP2008": 130,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010508402,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10632,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.83019600024534,
+          -7.2885139997212605
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10632,
+        "CU_NAME": "BADDAM",
+        "CU_NO": "403",
+        "GEOCODE": "12010508403",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "BITOI",
+        "LATITUDE": -7.293909,
+        "LONGITUDE": 146.813728,
+        "REGHH": 12,
+        "TOTPOP2000": 78,
+        "MALE2000": 47,
+        "FEMALE2000": 31,
+        "POP2008": 96,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010508403,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10633,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.80789799989282,
+          -7.291673999755233
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10633,
+        "CU_NAME": "NEW CAMP",
+        "CU_NO": "404",
+        "GEOCODE": "12010508404",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "BITOI",
+        "LATITUDE": -7.301286,
+        "LONGITUDE": 146.809597,
+        "REGHH": 4,
+        "TOTPOP2000": 44,
+        "MALE2000": 31,
+        "FEMALE2000": 13,
+        "POP2008": 52,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010508404,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

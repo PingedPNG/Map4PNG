@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9846,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6320669997923,
+          -10.613961000199936
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9846,
+        "CU_NAME": "KWATO ISLAND",
+        "CU_NO": "001",
+        "GEOCODE": "05020804001",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "KWATO",
+        "LATITUDE": -10.612988,
+        "LONGITUDE": 150.630829,
+        "REGHH": 14,
+        "TOTPOP2000": 71,
+        "MALE2000": 41,
+        "FEMALE2000": 30,
+        "POP2008": 87,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020804001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9847,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.63129800030254,
+          -10.618934000203922
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9847,
+        "CU_NAME": "LOGEA KAI",
+        "CU_NO": "002",
+        "GEOCODE": "05020804002",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "KWATO",
+        "LATITUDE": -10.618147,
+        "LONGITUDE": 150.63079,
+        "REGHH": 56,
+        "TOTPOP2000": 334,
+        "MALE2000": 184,
+        "FEMALE2000": 150,
+        "POP2008": 407,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020804002,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

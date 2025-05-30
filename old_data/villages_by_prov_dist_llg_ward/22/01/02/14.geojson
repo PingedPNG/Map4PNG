@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16013,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6568059996972,
+          -5.886481999644502
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16013,
+        "CU_NAME": "TOMBIL 1",
+        "CU_NO": "021",
+        "GEOCODE": "09010214021",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "TOMBIL 1",
+        "LATITUDE": -5.888498,
+        "LONGITUDE": 144.657408,
+        "REGHH": 55,
+        "TOTPOP2000": 302,
+        "MALE2000": 150,
+        "FEMALE2000": 152,
+        "POP2008": 369,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010214021,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16014,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.64249099966003,
+          -5.884033000022896
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16014,
+        "CU_NAME": "MILTIP 1",
+        "CU_NO": "022",
+        "GEOCODE": "09010214022",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "TOMBIL 1",
+        "LATITUDE": -5.884972,
+        "LONGITUDE": 144.642829,
+        "REGHH": 44,
+        "TOTPOP2000": 258,
+        "MALE2000": 138,
+        "FEMALE2000": 120,
+        "POP2008": 314,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010214022,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16015,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.65894300021932,
+          -5.889450999863698
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16015,
+        "CU_NAME": "NOL",
+        "CU_NO": "023",
+        "GEOCODE": "09010214023",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "TOMBIL 1",
+        "LATITUDE": -5.888498,
+        "LONGITUDE": 144.657408,
+        "REGHH": 37,
+        "TOTPOP2000": 174,
+        "MALE2000": 88,
+        "FEMALE2000": 86,
+        "POP2008": 212,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010214023,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16016,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.65641799979096,
+          -5.868421000428782
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16016,
+        "CU_NAME": "KUPGA",
+        "CU_NO": "024",
+        "GEOCODE": "09010214024",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "TOMBIL 1",
+        "LATITUDE": -5.869358,
+        "LONGITUDE": 144.656756,
+        "REGHH": 22,
+        "TOTPOP2000": 103,
+        "MALE2000": 55,
+        "FEMALE2000": 48,
+        "POP2008": 127,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010214024,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16017,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.64748899991753,
+          -5.880838000173526
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16017,
+        "CU_NAME": "DAMNE",
+        "CU_NO": "025",
+        "GEOCODE": "09010214025",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "TOMBIL 1",
+        "LATITUDE": -5.881777,
+        "LONGITUDE": 144.647827,
+        "REGHH": 16,
+        "TOTPOP2000": 74,
+        "MALE2000": 38,
+        "FEMALE2000": 36,
+        "POP2008": 90,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010214025,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16018,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.65484400005062,
+          -5.894313000144791
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16018,
+        "CU_NAME": "DAMWARAKNGA",
+        "CU_NO": "026",
+        "GEOCODE": "09010214026",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "TOMBIL 1",
+        "LATITUDE": -5.895252,
+        "LONGITUDE": 144.655182,
+        "REGHH": 34,
+        "TOTPOP2000": 110,
+        "MALE2000": 57,
+        "FEMALE2000": 53,
+        "POP2008": 134,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010214026,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16019,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.65067900043562,
+          -5.8980200002228
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16019,
+        "CU_NAME": "JIMBINKOI",
+        "CU_NO": "027",
+        "GEOCODE": "09010214027",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "TOMBIL 1",
+        "LATITUDE": -5.898959,
+        "LONGITUDE": 144.651017,
+        "REGHH": 49,
+        "TOTPOP2000": 223,
+        "MALE2000": 117,
+        "FEMALE2000": 106,
+        "POP2008": 272,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010214027,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16020,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6461850000378,
+          -5.901495000393879
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16020,
+        "CU_NAME": "TOK",
+        "CU_NO": "028",
+        "GEOCODE": "09010214028",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "TOMBIL 1",
+        "LATITUDE": -5.902434,
+        "LONGITUDE": 144.646523,
+        "REGHH": 15,
+        "TOTPOP2000": 55,
+        "MALE2000": 23,
+        "FEMALE2000": 32,
+        "POP2008": 65,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010214028,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16021,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.64252300023634,
+          -5.903665999786028
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16021,
+        "CU_NAME": "KAWIL",
+        "CU_NO": "029",
+        "GEOCODE": "09010214029",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "TOMBIL 1",
+        "LATITUDE": -5.904605,
+        "LONGITUDE": 144.642861,
+        "REGHH": 43,
+        "TOTPOP2000": 183,
+        "MALE2000": 91,
+        "FEMALE2000": 92,
+        "POP2008": 223,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010214029,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16022,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.65438200032906,
+          -5.866964999834806
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16022,
+        "CU_NAME": "KUKPA",
+        "CU_NO": "030",
+        "GEOCODE": "09010214030",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "TOMBIL 1",
+        "LATITUDE": -5.867902,
+        "LONGITUDE": 144.65472,
+        "REGHH": 61,
+        "TOTPOP2000": 245,
+        "MALE2000": 123,
+        "FEMALE2000": 122,
+        "POP2008": 298,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010214030,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16023,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.63907899969615,
+          -5.889585999794008
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16023,
+        "CU_NAME": "MILTIP 2",
+        "CU_NO": "031",
+        "GEOCODE": "09010214031",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "TOMBIL 1",
+        "LATITUDE": -5.890525,
+        "LONGITUDE": 144.639417,
+        "REGHH": 43,
+        "TOTPOP2000": 186,
+        "MALE2000": 89,
+        "FEMALE2000": 97,
+        "POP2008": 227,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010214031,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16024,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.64415099976884,
+          -5.879577999624928
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16024,
+        "CU_NAME": "KUGARK C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "09010214401",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "TOMBIL 1",
+        "LATITUDE": -5.880517,
+        "LONGITUDE": 144.644489,
+        "REGHH": 8,
+        "TOTPOP2000": 40,
+        "MALE2000": 19,
+        "FEMALE2000": 21,
+        "POP2008": 48,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010214401,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16025,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6534929998022,
+          -5.88943900020962
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16025,
+        "CU_NAME": "TOMBIL V/CENTRE",
+        "CU_NO": "402",
+        "GEOCODE": "09010214402",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "TOMBIL 1",
+        "LATITUDE": -5.890378,
+        "LONGITUDE": 144.653831,
+        "REGHH": 3,
+        "TOTPOP2000": 18,
+        "MALE2000": 8,
+        "FEMALE2000": 10,
+        "POP2008": 18,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010214402,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16026,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.64417700006857,
+          -5.880331000175488
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16026,
+        "CU_NAME": "KUGARK V/C (GIRLS)",
+        "CU_NO": "403",
+        "GEOCODE": "09010214403",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "TOMBIL 1",
+        "LATITUDE": -5.88127,
+        "LONGITUDE": 144.644515,
+        "REGHH": 2,
+        "TOTPOP2000": 29,
+        "MALE2000": 0,
+        "FEMALE2000": 29,
+        "POP2008": 37,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010214403,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16027,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.64193500010026,
+          -5.878914999627511
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16027,
+        "CU_NAME": "KUGARK EBC MISSION",
+        "CU_NO": "404",
+        "GEOCODE": "09010214404",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "TOMBIL 1",
+        "LATITUDE": -5.879854,
+        "LONGITUDE": 144.642273,
+        "REGHH": 16,
+        "TOTPOP2000": 68,
+        "MALE2000": 31,
+        "FEMALE2000": 37,
+        "POP2008": 84,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010214404,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

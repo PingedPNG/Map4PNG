@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9550,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4779710002615,
+          -9.601459000332568
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9550,
+        "CU_NAME": "BAI'AWA",
+        "CU_NO": "002",
+        "GEOCODE": "05010101002",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "BAI'AWA",
+        "LATITUDE": -9.606252,
+        "LONGITUDE": 149.473926,
+        "REGHH": 35,
+        "TOTPOP2000": 202,
+        "MALE2000": 94,
+        "FEMALE2000": 108,
+        "POP2008": 246,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010101002,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

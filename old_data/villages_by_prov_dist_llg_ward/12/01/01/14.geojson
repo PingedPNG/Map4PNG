@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10362,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6118089998855,
+          -6.917769999785605
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10362,
+        "CU_NAME": "PARAKRIS",
+        "CU_NO": "013",
+        "GEOCODE": "12010114013",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "14",
+        "WARD_NAME": "PARAKRIS",
+        "LATITUDE": -6.919194,
+        "LONGITUDE": 146.610779,
+        "REGHH": 126,
+        "TOTPOP2000": 757,
+        "MALE2000": 389,
+        "FEMALE2000": 368,
+        "POP2008": 944,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010114013,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

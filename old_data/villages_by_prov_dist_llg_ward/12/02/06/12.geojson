@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10718,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.42905400034192,
+          -6.467641000132005
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10718,
+        "CU_NAME": "TIRIRING",
+        "CU_NO": "002",
+        "GEOCODE": "12020612002",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "MINDIK",
+        "LATITUDE": -6.46906,
+        "LONGITUDE": 147.428036,
+        "REGHH": 55,
+        "TOTPOP2000": 263,
+        "MALE2000": 126,
+        "FEMALE2000": 137,
+        "POP2008": 328,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020612002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10719,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.42641299996,
+          -6.4571530003106545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10719,
+        "CU_NAME": "MINDIK",
+        "CU_NO": "009",
+        "GEOCODE": "12020612009",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "MINDIK",
+        "LATITUDE": -6.457056,
+        "LONGITUDE": 147.431935,
+        "REGHH": 89,
+        "TOTPOP2000": 393,
+        "MALE2000": 173,
+        "FEMALE2000": 220,
+        "POP2008": 490,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020612009,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

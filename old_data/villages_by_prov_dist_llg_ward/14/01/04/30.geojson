@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1893110000027,
+          -4.59119800028742
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6266,
+        "CU_NAME": "LARIASO",
+        "CU_NO": "004",
+        "GEOCODE": "14010430004",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "30",
+        "WARD_NAME": "LARIASO",
+        "LATITUDE": -4.590652,
+        "LONGITUDE": 142.195102,
+        "REGHH": 15,
+        "TOTPOP2000": 66,
+        "MALE2000": 37,
+        "FEMALE2000": 29,
+        "POP2008": 79,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010430004,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

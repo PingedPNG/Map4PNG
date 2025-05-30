@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2676759998476,
+          -9.165019999773108
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13128,
+        "CU_NAME": "KABUBU",
+        "CU_NO": "023",
+        "GEOCODE": "06010209023",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "GIRIWA",
+        "LATITUDE": -9.166473,
+        "LONGITUDE": 149.268796,
+        "REGHH": 15,
+        "TOTPOP2000": 106,
+        "MALE2000": 55,
+        "FEMALE2000": 51,
+        "POP2008": 130,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010209023,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.25934799981042,
+          -9.183515000117097
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13129,
+        "CU_NAME": "MARASA",
+        "CU_NO": "040",
+        "GEOCODE": "06010209040",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "GIRIWA",
+        "LATITUDE": -9.184178,
+        "LONGITUDE": 149.258344,
+        "REGHH": 32,
+        "TOTPOP2000": 221,
+        "MALE2000": 107,
+        "FEMALE2000": 114,
+        "POP2008": 273,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010209040,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.31475900012776,
+          -9.092736000166212
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13130,
+        "CU_NAME": "FANEBARA",
+        "CU_NO": "077",
+        "GEOCODE": "06010209077",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "GIRIWA",
+        "LATITUDE": -9.094188,
+        "LONGITUDE": 149.313761,
+        "REGHH": 13,
+        "TOTPOP2000": 76,
+        "MALE2000": 40,
+        "FEMALE2000": 36,
+        "POP2008": 92,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010209077,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2718079997395,
+          -9.164271000306371
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13131,
+        "CU_NAME": "ITONOMOTA",
+        "CU_NO": "078",
+        "GEOCODE": "06010209078",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "GIRIWA",
+        "LATITUDE": -9.166046,
+        "LONGITUDE": 149.269859,
+        "REGHH": 5,
+        "TOTPOP2000": 26,
+        "MALE2000": 12,
+        "FEMALE2000": 14,
+        "POP2008": 34,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010209078,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.25982200008525,
+          -9.177966999677267
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13132,
+        "CU_NAME": "TOMOMON",
+        "CU_NO": "080",
+        "GEOCODE": "06010209080",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "GIRIWA",
+        "LATITUDE": -9.178459,
+        "LONGITUDE": 149.26104,
+        "REGHH": 3,
+        "TOTPOP2000": 21,
+        "MALE2000": 8,
+        "FEMALE2000": 13,
+        "POP2008": 29,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010209080,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.32090300017342,
+          -9.143727999947203
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13133,
+        "CU_NAME": "KIRAKIRA",
+        "CU_NO": "081",
+        "GEOCODE": "06010209081",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "GIRIWA",
+        "LATITUDE": -9.144222,
+        "LONGITUDE": 149.321805,
+        "REGHH": 9,
+        "TOTPOP2000": 58,
+        "MALE2000": 29,
+        "FEMALE2000": 29,
+        "POP2008": 74,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010209081,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

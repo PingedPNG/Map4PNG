@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9676,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.98248299959084,
+          -10.167919000161703
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9676,
+        "CU_NAME": "GADOVISU",
+        "CU_NO": "010",
+        "GEOCODE": "05010327010",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "27",
+        "WARD_NAME": "GADOVISU",
+        "LATITUDE": -10.171846,
+        "LONGITUDE": 149.985547,
+        "REGHH": 73,
+        "TOTPOP2000": 433,
+        "MALE2000": 222,
+        "FEMALE2000": 211,
+        "POP2008": 528,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010327010,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

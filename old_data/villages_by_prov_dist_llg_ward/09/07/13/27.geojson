@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17637,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.18550500035553,
+          -5.951416000248173
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17637,
+        "CU_NAME": "PUNGANJIPUP 1",
+        "CU_NO": "015",
+        "GEOCODE": "09071327015",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "27",
+        "WARD_NAME": "PUNGANJIPUP",
+        "LATITUDE": -5.951634,
+        "LONGITUDE": 144.188482,
+        "REGHH": 93,
+        "TOTPOP2000": 429,
+        "MALE2000": 204,
+        "FEMALE2000": 225,
+        "POP2008": 523,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071327015,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17638,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.18654699984427,
+          -5.948483999936627
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17638,
+        "CU_NAME": "PUNGANJIPUP 2",
+        "CU_NO": "016",
+        "GEOCODE": "09071327016",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "27",
+        "WARD_NAME": "PUNGANJIPUP",
+        "LATITUDE": -5.951634,
+        "LONGITUDE": 144.188482,
+        "REGHH": 98,
+        "TOTPOP2000": 476,
+        "MALE2000": 224,
+        "FEMALE2000": 252,
+        "POP2008": 580,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071327016,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17639,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.18831200029865,
+          -5.9476110001475035
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17639,
+        "CU_NAME": "OPRAL",
+        "CU_NO": "017",
+        "GEOCODE": "09071327017",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "27",
+        "WARD_NAME": "PUNGANJIPUP",
+        "LATITUDE": -5.951634,
+        "LONGITUDE": 144.188482,
+        "REGHH": 52,
+        "TOTPOP2000": 240,
+        "MALE2000": 122,
+        "FEMALE2000": 118,
+        "POP2008": 292,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071327017,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

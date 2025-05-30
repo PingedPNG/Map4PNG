@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9582,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.46084199995835,
+          -9.682195000298975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9582,
+        "CU_NAME": "BOROVIA",
+        "CU_NO": "008",
+        "GEOCODE": "05010122008",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "22",
+        "WARD_NAME": "BOROVIA",
+        "LATITUDE": -9.683654,
+        "LONGITUDE": 149.459845,
+        "REGHH": 28,
+        "TOTPOP2000": 178,
+        "MALE2000": 76,
+        "FEMALE2000": 102,
+        "POP2008": 217,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010122008,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

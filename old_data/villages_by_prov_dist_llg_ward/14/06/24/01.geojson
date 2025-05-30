@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.36035100029846,
+          -3.6981630004220847
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7261,
+        "CU_NAME": "KININIEN",
+        "CU_NO": "007",
+        "GEOCODE": "14062401007",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "24",
+        "WARD_NO": "01",
+        "WARD_NAME": "KININIEN",
+        "LATITUDE": -3.699742,
+        "LONGITUDE": 143.359114,
+        "REGHH": 33,
+        "TOTPOP2000": 237,
+        "MALE2000": 106,
+        "FEMALE2000": 131,
+        "POP2008": 282,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062401007,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.36090499976603,
+          -3.709556999755705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7262,
+        "CU_NAME": "SUFONDUO",
+        "CU_NO": "016",
+        "GEOCODE": "14062401016",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "24",
+        "WARD_NO": "01",
+        "WARD_NAME": "KININIEN",
+        "LATITUDE": -3.711136,
+        "LONGITUDE": 143.359668,
+        "REGHH": 45,
+        "TOTPOP2000": 230,
+        "MALE2000": 119,
+        "FEMALE2000": 111,
+        "POP2008": 274,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062401016,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3621099995769,
+          -3.720742000243092
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7263,
+        "CU_NAME": "KUSAMBUK PRI/SCH",
+        "CU_NO": "017",
+        "GEOCODE": "14062401017",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "24",
+        "WARD_NO": "01",
+        "WARD_NAME": "KININIEN",
+        "LATITUDE": -3.722321,
+        "LONGITUDE": 143.360873,
+        "REGHH": 4,
+        "TOTPOP2000": 17,
+        "MALE2000": 11,
+        "FEMALE2000": 6,
+        "POP2008": 17,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062401017,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7264,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3540740004148,
+          -3.68135499963347
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7264,
+        "CU_NAME": "YEKEMBOLE 1",
+        "CU_NO": "019",
+        "GEOCODE": "14062401019",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "24",
+        "WARD_NO": "01",
+        "WARD_NAME": "KININIEN",
+        "LATITUDE": -3.682934,
+        "LONGITUDE": 143.352837,
+        "REGHH": 61,
+        "TOTPOP2000": 319,
+        "MALE2000": 153,
+        "FEMALE2000": 166,
+        "POP2008": 379,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062401019,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

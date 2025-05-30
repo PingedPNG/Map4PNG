@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5889,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.97387799966998,
+          -5.610026999646266
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5889,
+        "CU_NAME": "YUK",
+        "CU_NO": "008",
+        "GEOCODE": "08051307008",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "YUK",
+        "LATITUDE": -5.611432,
+        "LONGITUDE": 143.972816,
+        "REGHH": 143,
+        "TOTPOP2000": 702,
+        "MALE2000": 374,
+        "FEMALE2000": 328,
+        "POP2008": 882,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051307008,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

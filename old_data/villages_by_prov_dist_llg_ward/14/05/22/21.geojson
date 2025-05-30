@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7193,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.974141000307,
+          -3.7902189999068696
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7193,
+        "CU_NAME": "WABINDUGUM",
+        "CU_NO": "019",
+        "GEOCODE": "14052221019",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "22",
+        "WARD_NO": "21",
+        "WARD_NAME": "WAMBISA",
+        "LATITUDE": -3.791799,
+        "LONGITUDE": 142.972901,
+        "REGHH": 57,
+        "TOTPOP2000": 225,
+        "MALE2000": 102,
+        "FEMALE2000": 123,
+        "POP2008": 268,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052221019,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7194,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.98097299970425,
+          -3.7949579999117304
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7194,
+        "CU_NAME": "WAMBISA 1",
+        "CU_NO": "020",
+        "GEOCODE": "14052221020",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "22",
+        "WARD_NO": "21",
+        "WARD_NAME": "WAMBISA",
+        "LATITUDE": -3.796541,
+        "LONGITUDE": 142.978667,
+        "REGHH": 73,
+        "TOTPOP2000": 388,
+        "MALE2000": 190,
+        "FEMALE2000": 198,
+        "POP2008": 463,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052221020,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7195,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.98055300012095,
+          -3.796912000088696
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7195,
+        "CU_NAME": "WAMBISA 2",
+        "CU_NO": "021",
+        "GEOCODE": "14052221021",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "22",
+        "WARD_NO": "21",
+        "WARD_NAME": "WAMBISA",
+        "LATITUDE": -3.796534,
+        "LONGITUDE": 142.978651,
+        "REGHH": 100,
+        "TOTPOP2000": 480,
+        "MALE2000": 239,
+        "FEMALE2000": 241,
+        "POP2008": 572,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052221021,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7196,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.97841899973707,
+          -3.7960600003686977
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7196,
+        "CU_NAME": "WAMBISA C/SCH",
+        "CU_NO": "405",
+        "GEOCODE": "14052221405",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "22",
+        "WARD_NO": "21",
+        "WARD_NAME": "WAMBISA",
+        "LATITUDE": -3.796534,
+        "LONGITUDE": 142.978651,
+        "REGHH": 2,
+        "TOTPOP2000": 12,
+        "MALE2000": 8,
+        "FEMALE2000": 4,
+        "POP2008": 12,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052221405,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7197,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.98025199973006,
+          -3.792255000268028
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7197,
+        "CU_NAME": "WAMBISA SHC",
+        "CU_NO": "406",
+        "GEOCODE": "14052221406",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "22",
+        "WARD_NO": "21",
+        "WARD_NAME": "WAMBISA",
+        "LATITUDE": -3.796541,
+        "LONGITUDE": 142.978667,
+        "REGHH": 5,
+        "TOTPOP2000": 18,
+        "MALE2000": 7,
+        "FEMALE2000": 11,
+        "POP2008": 18,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052221406,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30577,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52062523956317,
+          -6.480791459957857
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30577,
+        "CU_NAME": "TARABO - MOKE",
+        "CU_NO": "028",
+        "GEOCODE": "11071020028",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "20",
+        "WARD_NAME": "TARABO",
+        "LATITUDE": -6.480791,
+        "LONGITUDE": 145.520625,
+        "REGHH": 94,
+        "TOTPOP2000": 376,
+        "MALE2000": 185,
+        "FEMALE2000": 191,
+        "POP2008": 447,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30578,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.54776096030014,
+          -6.449532210043401
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30578,
+        "CU_NAME": "UVAMI",
+        "CU_NO": "032",
+        "GEOCODE": "11071020032",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "20",
+        "WARD_NAME": "TARABO",
+        "LATITUDE": -6.449532,
+        "LONGITUDE": 145.547761,
+        "REGHH": 45,
+        "TOTPOP2000": 189,
+        "MALE2000": 92,
+        "FEMALE2000": 97,
+        "POP2008": 225,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30579,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5297681602724,
+          -6.468645960142908
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30579,
+        "CU_NAME": "TARABO NO 2",
+        "CU_NO": "033",
+        "GEOCODE": "11071020033",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "20",
+        "WARD_NAME": "TARABO",
+        "LATITUDE": -6.468646,
+        "LONGITUDE": 145.529768,
+        "REGHH": 59,
+        "TOTPOP2000": 294,
+        "MALE2000": 153,
+        "FEMALE2000": 141,
+        "POP2008": 350,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30580,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50555060018007,
+          -6.464425410304386
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30580,
+        "CU_NAME": "TARABO NO 3",
+        "CU_NO": "034",
+        "GEOCODE": "11071020034",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "20",
+        "WARD_NAME": "TARABO",
+        "LATITUDE": -6.464425,
+        "LONGITUDE": 145.505551,
+        "REGHH": 54,
+        "TOTPOP2000": 226,
+        "MALE2000": 106,
+        "FEMALE2000": 120,
+        "POP2008": 269,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30581,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50320663957484,
+          -6.439118669590869
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30581,
+        "CU_NAME": "KETA",
+        "CU_NO": "035",
+        "GEOCODE": "11071020035",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "20",
+        "WARD_NAME": "TARABO",
+        "LATITUDE": -6.439119,
+        "LONGITUDE": 145.503207,
+        "REGHH": 55,
+        "TOTPOP2000": 200,
+        "MALE2000": 103,
+        "FEMALE2000": 97,
+        "POP2008": 238,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30582,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50483599978168,
+          -6.451561440308183
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30582,
+        "CU_NAME": "MAPEGA",
+        "CU_NO": "036",
+        "GEOCODE": "11071020036",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "20",
+        "WARD_NAME": "TARABO",
+        "LATITUDE": -6.451561,
+        "LONGITUDE": 145.504836,
+        "REGHH": 89,
+        "TOTPOP2000": 295,
+        "MALE2000": 150,
+        "FEMALE2000": 145,
+        "POP2008": 351,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30583,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5245002797642,
+          -6.485596739997504
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30583,
+        "CU_NAME": "KARIPAGA",
+        "CU_NO": "037",
+        "GEOCODE": "11071020037",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "20",
+        "WARD_NAME": "TARABO",
+        "LATITUDE": -6.485597,
+        "LONGITUDE": 145.5245,
+        "REGHH": 80,
+        "TOTPOP2000": 349,
+        "MALE2000": 181,
+        "FEMALE2000": 168,
+        "POP2008": 416,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30584,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5049699196262,
+          -6.479278200428553
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30584,
+        "CU_NAME": "HILATI",
+        "CU_NO": "038",
+        "GEOCODE": "11071020038",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "20",
+        "WARD_NAME": "TARABO",
+        "LATITUDE": -6.479278,
+        "LONGITUDE": 145.50497,
+        "REGHH": 67,
+        "TOTPOP2000": 262,
+        "MALE2000": 135,
+        "FEMALE2000": 127,
+        "POP2008": 312,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30585,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52832635997356,
+          -6.460234559677133
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30585,
+        "CU_NAME": "IFINAMAGA",
+        "CU_NO": "039",
+        "GEOCODE": "11071020039",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "20",
+        "WARD_NAME": "TARABO",
+        "LATITUDE": -6.460235,
+        "LONGITUDE": 145.528326,
+        "REGHH": 25,
+        "TOTPOP2000": 92,
+        "MALE2000": 48,
+        "FEMALE2000": 44,
+        "POP2008": 108,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30586,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5392901596132,
+          -6.455709719727736
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30586,
+        "CU_NAME": "KOMITAGA",
+        "CU_NO": "040",
+        "GEOCODE": "11071020040",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "20",
+        "WARD_NAME": "TARABO",
+        "LATITUDE": -6.45571,
+        "LONGITUDE": 145.53929,
+        "REGHH": 15,
+        "TOTPOP2000": 72,
+        "MALE2000": 31,
+        "FEMALE2000": 41,
+        "POP2008": 88,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30587,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.522608840026,
+          -6.457824989931282
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30587,
+        "CU_NAME": "LUTHRAN MISSION",
+        "CU_NO": "402",
+        "GEOCODE": "11071020402",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "20",
+        "WARD_NAME": "TARABO",
+        "LATITUDE": -6.457825,
+        "LONGITUDE": 145.522609,
+        "REGHH": 40,
+        "TOTPOP2000": 185,
+        "MALE2000": 82,
+        "FEMALE2000": 103,
+        "POP2008": 220,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

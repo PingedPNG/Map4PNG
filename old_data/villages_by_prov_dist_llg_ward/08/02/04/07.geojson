@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5459,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.92748100044787,
+          -5.407982000169113
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5459,
+        "CU_NAME": "KIPILIMANDA",
+        "CU_NO": "001",
+        "GEOCODE": "08020407001",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "KIPILIMANDA",
+        "LATITUDE": -5.409383,
+        "LONGITUDE": 143.926419,
+        "REGHH": 65,
+        "TOTPOP2000": 343,
+        "MALE2000": 170,
+        "FEMALE2000": 173,
+        "POP2008": 431,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020407001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5460,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.90303099978087,
+          -5.392120999884185
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5460,
+        "CU_NAME": "KUMBARES",
+        "CU_NO": "002",
+        "GEOCODE": "08020407002",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "KIPILIMANDA",
+        "LATITUDE": -5.393522,
+        "LONGITUDE": 143.901969,
+        "REGHH": 32,
+        "TOTPOP2000": 175,
+        "MALE2000": 98,
+        "FEMALE2000": 77,
+        "POP2008": 220,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020407002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5461,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.91314600038766,
+          -5.41863799964392
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5461,
+        "CU_NAME": "TOLEKOS",
+        "CU_NO": "003",
+        "GEOCODE": "08020407003",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "KIPILIMANDA",
+        "LATITUDE": -5.420039,
+        "LONGITUDE": 143.912084,
+        "REGHH": 20,
+        "TOTPOP2000": 115,
+        "MALE2000": 63,
+        "FEMALE2000": 52,
+        "POP2008": 145,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020407003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5462,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.91964399967094,
+          -5.4152129999799286
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5462,
+        "CU_NAME": "ALUKUPAIS",
+        "CU_NO": "004",
+        "GEOCODE": "08020407004",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "KIPILIMANDA",
+        "LATITUDE": -5.416614,
+        "LONGITUDE": 143.918582,
+        "REGHH": 46,
+        "TOTPOP2000": 239,
+        "MALE2000": 123,
+        "FEMALE2000": 116,
+        "POP2008": 300,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020407004,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

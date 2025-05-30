@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14810,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.91748100044788,
+          -5.9800379999537085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14810,
+        "CU_NAME": "YUAGLE",
+        "CU_NO": "005",
+        "GEOCODE": "10051609005",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "09",
+        "WARD_NAME": "YUAGLE/MINDIMA CAMP",
+        "LATITUDE": -5.981447,
+        "LONGITUDE": 144.916431,
+        "REGHH": 93,
+        "TOTPOP2000": 411,
+        "MALE2000": 192,
+        "FEMALE2000": 219,
+        "POP2008": 474,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051609005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14811,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.90903200022672,
+          -5.991944000415231
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14811,
+        "CU_NAME": "MENGAGLE",
+        "CU_NO": "006",
+        "GEOCODE": "10051609006",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "09",
+        "WARD_NAME": "YUAGLE/MINDIMA CAMP",
+        "LATITUDE": -5.993353,
+        "LONGITUDE": 144.907981,
+        "REGHH": 79,
+        "TOTPOP2000": 414,
+        "MALE2000": 189,
+        "FEMALE2000": 225,
+        "POP2008": 477,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051609006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9241149997075,
+          -5.981104999695958
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14812,
+        "CU_NAME": "OUNA",
+        "CU_NO": "007",
+        "GEOCODE": "10051609007",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "09",
+        "WARD_NAME": "YUAGLE/MINDIMA CAMP",
+        "LATITUDE": -5.982514,
+        "LONGITUDE": 144.923065,
+        "REGHH": 106,
+        "TOTPOP2000": 456,
+        "MALE2000": 239,
+        "FEMALE2000": 217,
+        "POP2008": 525,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051609007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.91604599992297,
+          -5.983385999664108
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14813,
+        "CU_NAME": "DAMAR",
+        "CU_NO": "008",
+        "GEOCODE": "10051609008",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "09",
+        "WARD_NAME": "YUAGLE/MINDIMA CAMP",
+        "LATITUDE": -5.984795,
+        "LONGITUDE": 144.914996,
+        "REGHH": 53,
+        "TOTPOP2000": 240,
+        "MALE2000": 125,
+        "FEMALE2000": 115,
+        "POP2008": 277,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051609008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.91082099998926,
+          -5.991341999633505
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14814,
+        "CU_NAME": "KEKEMBA",
+        "CU_NO": "009",
+        "GEOCODE": "10051609009",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "09",
+        "WARD_NAME": "YUAGLE/MINDIMA CAMP",
+        "LATITUDE": -5.992751,
+        "LONGITUDE": 144.90977,
+        "REGHH": 21,
+        "TOTPOP2000": 98,
+        "MALE2000": 52,
+        "FEMALE2000": 46,
+        "POP2008": 114,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051609009,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

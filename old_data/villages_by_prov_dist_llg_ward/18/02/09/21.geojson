@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4777,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.15775299960137,
+          -4.317696999816633
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4777,
+        "CU_NAME": "TALAKUA",
+        "CU_NO": "021",
+        "GEOCODE": "18020921021",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "21",
+        "WARD_NAME": "TALAKUA",
+        "LATITUDE": -4.319097,
+        "LONGITUDE": 152.156807,
+        "REGHH": 53,
+        "TOTPOP2000": 285,
+        "MALE2000": 143,
+        "FEMALE2000": 142,
+        "POP2008": 346,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020921021,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

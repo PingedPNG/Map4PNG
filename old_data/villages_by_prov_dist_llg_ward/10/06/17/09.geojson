@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14880,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.03952100039396,
+          -6.07576499965495
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14880,
+        "CU_NAME": "DUMUN(KAGMA)",
+        "CU_NO": "003",
+        "GEOCODE": "10061709003",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "09",
+        "WARD_NAME": "YALEMESI",
+        "LATITUDE": -6.077175,
+        "LONGITUDE": 145.038472,
+        "REGHH": 90,
+        "TOTPOP2000": 386,
+        "MALE2000": 204,
+        "FEMALE2000": 182,
+        "POP2008": 445,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061709003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14881,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.04423300005294,
+          -6.072824999873774
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14881,
+        "CU_NAME": "OBIL",
+        "CU_NO": "004",
+        "GEOCODE": "10061709004",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "09",
+        "WARD_NAME": "YALEMESI",
+        "LATITUDE": -6.074235,
+        "LONGITUDE": 145.043184,
+        "REGHH": 89,
+        "TOTPOP2000": 327,
+        "MALE2000": 174,
+        "FEMALE2000": 153,
+        "POP2008": 377,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061709004,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

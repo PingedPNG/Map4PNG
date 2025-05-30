@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6312,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4543480002601,
+          -4.283544999601986
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6312,
+        "CU_NAME": "ANGRIMAN",
+        "CU_NO": "002",
+        "GEOCODE": "14020524002",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "24",
+        "WARD_NAME": "ANGRIMAN",
+        "LATITUDE": -4.285132,
+        "LONGITUDE": 143.453113,
+        "REGHH": 42,
+        "TOTPOP2000": 274,
+        "MALE2000": 145,
+        "FEMALE2000": 129,
+        "POP2008": 326,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020524002,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

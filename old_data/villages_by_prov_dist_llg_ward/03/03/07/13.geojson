@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1255,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0834780000098,
+          -9.055547000193883
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1255,
+        "CU_NAME": "AKUKU",
+        "CU_NO": "001",
+        "GEOCODE": "03030713001",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "AKUKU",
+        "LATITUDE": -9.056993,
+        "LONGITUDE": 147.082449,
+        "REGHH": 26,
+        "TOTPOP2000": 243,
+        "MALE2000": 129,
+        "FEMALE2000": 114,
+        "POP2008": 292,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030713001,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1256,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.08306099966546,
+          -9.05153300034766
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1256,
+        "CU_NAME": "VEIMAURI SETTLEMENT",
+        "CU_NO": "405",
+        "GEOCODE": "03030713405",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "AKUKU",
+        "LATITUDE": -9.052979,
+        "LONGITUDE": 147.082032,
+        "REGHH": 33,
+        "TOTPOP2000": 202,
+        "MALE2000": 112,
+        "FEMALE2000": 90,
+        "POP2008": 242,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030713405,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1257,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0976630003472,
+          -9.0530639999036
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1257,
+        "CU_NAME": "KURIVA/ONONGE BLOCK",
+        "CU_NO": "426",
+        "GEOCODE": "03030713426",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "AKUKU",
+        "LATITUDE": -9.05451,
+        "LONGITUDE": 147.096634,
+        "REGHH": 51,
+        "TOTPOP2000": 371,
+        "MALE2000": 193,
+        "FEMALE2000": 178,
+        "POP2008": 446,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030713426,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.12699300032682,
+          -9.088012999999876
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1258,
+        "CU_NAME": "LALAKU SETTLEMENT",
+        "CU_NO": "427",
+        "GEOCODE": "03030713427",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "AKUKU",
+        "LATITUDE": -9.089459,
+        "LONGITUDE": 147.125965,
+        "REGHH": 10,
+        "TOTPOP2000": 72,
+        "MALE2000": 41,
+        "FEMALE2000": 31,
+        "POP2008": 88,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030713427,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.119105999942,
+          -9.06770999991653
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1259,
+        "CU_NAME": "KURIVA BLOCKS",
+        "CU_NO": "503",
+        "GEOCODE": "03030713503",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "AKUKU",
+        "LATITUDE": -9.069156,
+        "LONGITUDE": 147.118078,
+        "REGHH": 34,
+        "TOTPOP2000": 163,
+        "MALE2000": 84,
+        "FEMALE2000": 79,
+        "POP2008": 195,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030713503,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.07129200012582,
+          -9.079088000310946
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1260,
+        "CU_NAME": "AMATA",
+        "CU_NO": "509",
+        "GEOCODE": "03030713509",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "13",
+        "WARD_NAME": "AKUKU",
+        "LATITUDE": -9.080534,
+        "LONGITUDE": 147.070263,
+        "REGHH": 12,
+        "TOTPOP2000": 60,
+        "MALE2000": 36,
+        "FEMALE2000": 24,
+        "POP2008": 70,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030713509,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

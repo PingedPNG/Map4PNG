@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15506,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.22701699973481,
+          -5.276185999983852
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15506,
+        "CU_NAME": "WANGBIN",
+        "CU_NO": "007",
+        "GEOCODE": "01021005007",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "05",
+        "WARD_NAME": "WANGBIN",
+        "LATITUDE": -5.279214,
+        "LONGITUDE": 141.230421,
+        "REGHH": 42,
+        "TOTPOP2000": 422,
+        "MALE2000": 233,
+        "FEMALE2000": 189,
+        "POP2008": 546,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1021005007,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

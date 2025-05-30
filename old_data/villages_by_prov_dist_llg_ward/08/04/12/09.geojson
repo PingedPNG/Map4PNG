@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.52553599968667,
+          -5.107437999963679
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5869,
+        "CU_NAME": "ILYA",
+        "CU_NO": "002",
+        "GEOCODE": "08041209002",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "09",
+        "WARD_NAME": "ILYA",
+        "LATITUDE": -5.115251,
+        "LONGITUDE": 143.53169,
+        "REGHH": 39,
+        "TOTPOP2000": 197,
+        "MALE2000": 102,
+        "FEMALE2000": 95,
+        "POP2008": 248,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041209002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

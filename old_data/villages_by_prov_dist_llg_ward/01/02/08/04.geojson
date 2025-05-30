@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15392,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0555589997481,
+          -5.565012000303511
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15392,
+        "CU_NAME": "HUKIM",
+        "CU_NO": "013",
+        "GEOCODE": "01020804013",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "HUKIM",
+        "LATITUDE": -5.560497,
+        "LONGITUDE": 141.048559,
+        "REGHH": 55,
+        "TOTPOP2000": 236,
+        "MALE2000": 127,
+        "FEMALE2000": 109,
+        "POP2008": 306,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020804013,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15393,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.05742500036354,
+          -5.587971999707975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15393,
+        "CU_NAME": "MINIPON",
+        "CU_NO": "018",
+        "GEOCODE": "01020804018",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "04",
+        "WARD_NAME": "HUKIM",
+        "LATITUDE": -5.58937,
+        "LONGITUDE": 141.056328,
+        "REGHH": 21,
+        "TOTPOP2000": 151,
+        "MALE2000": 80,
+        "FEMALE2000": 71,
+        "POP2008": 195,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020804018,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

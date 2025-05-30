@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4517,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.63033999999107,
+          -4.571950000292247
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4517,
+        "CU_NAME": "KANAKO",
+        "CU_NO": "027",
+        "GEOCODE": "18010301027",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "01",
+        "WARD_NAME": "PONIAR/KANAKO WARD",
+        "LATITUDE": -4.573353,
+        "LONGITUDE": 151.629386,
+        "REGHH": 31,
+        "TOTPOP2000": 210,
+        "MALE2000": 118,
+        "FEMALE2000": 92,
+        "POP2008": 255,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010301027,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

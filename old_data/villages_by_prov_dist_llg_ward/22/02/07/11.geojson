@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16960,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.85291000039626,
+          -5.6382879997913165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16960,
+        "CU_NAME": "DUNGO",
+        "CU_NO": "017",
+        "GEOCODE": "09040711017",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "11",
+        "WARD_NAME": "DUNGO",
+        "LATITUDE": -5.637042,
+        "LONGITUDE": 144.852948,
+        "REGHH": 70,
+        "TOTPOP2000": 353,
+        "MALE2000": 204,
+        "FEMALE2000": 149,
+        "POP2008": 429,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040711017,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16961,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.85057099955202,
+          -5.637684999862813
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16961,
+        "CU_NAME": "KILWA DUNGO",
+        "CU_NO": "018",
+        "GEOCODE": "09040711018",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "11",
+        "WARD_NAME": "DUNGO",
+        "LATITUDE": -5.637042,
+        "LONGITUDE": 144.852948,
+        "REGHH": 16,
+        "TOTPOP2000": 98,
+        "MALE2000": 62,
+        "FEMALE2000": 36,
+        "POP2008": 120,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040711018,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

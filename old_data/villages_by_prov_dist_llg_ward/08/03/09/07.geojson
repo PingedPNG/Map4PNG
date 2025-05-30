@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5711,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.1586919997361,
+          -5.454303000383106
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5711,
+        "CU_NAME": "PALAIPAKA",
+        "CU_NO": "005",
+        "GEOCODE": "08030907005",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "07",
+        "WARD_NAME": "PALAIPAKA",
+        "LATITUDE": -5.455703,
+        "LONGITUDE": 143.15762,
+        "REGHH": 96,
+        "TOTPOP2000": 586,
+        "MALE2000": 302,
+        "FEMALE2000": 284,
+        "POP2008": 737,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030907005,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5712,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.15371500044694,
+          -5.4628479996354145
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5712,
+        "CU_NAME": "ARITENE",
+        "CU_NO": "006",
+        "GEOCODE": "08030907006",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "07",
+        "WARD_NAME": "PALAIPAKA",
+        "LATITUDE": -5.464249,
+        "LONGITUDE": 143.152643,
+        "REGHH": 170,
+        "TOTPOP2000": 1178,
+        "MALE2000": 603,
+        "FEMALE2000": 575,
+        "POP2008": 1480,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030907006,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.14978987070606,
+          -5.4623950623822
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22250,
+        "CU_NAME": "Paiam",
+        "CU_NO": "2",
+        "GEOCODE": "2",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "07",
+        "WARD_NAME": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": null,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

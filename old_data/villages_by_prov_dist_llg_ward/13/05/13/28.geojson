@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8846360000514,
+          -4.6922330001527826
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9002,
+        "CU_NAME": "MANGAR 1",
+        "CU_NO": "018",
+        "GEOCODE": "13051328018",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "28",
+        "WARD_NAME": "WARD 28",
+        "LATITUDE": -4.69363,
+        "LONGITUDE": 145.8836,
+        "REGHH": 80,
+        "TOTPOP2000": 476,
+        "MALE2000": 266,
+        "FEMALE2000": 210,
+        "POP2008": 589,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051328018,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.88384400040036,
+          -4.671558000001653
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9003,
+        "CU_NAME": "MANGAR 2",
+        "CU_NO": "019",
+        "GEOCODE": "13051328019",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "28",
+        "WARD_NAME": "WARD 28",
+        "LATITUDE": -4.672954,
+        "LONGITUDE": 145.882808,
+        "REGHH": 43,
+        "TOTPOP2000": 267,
+        "MALE2000": 139,
+        "FEMALE2000": 128,
+        "POP2008": 330,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051328019,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.88479600023527,
+          -4.681558999847937
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9004,
+        "CU_NAME": "WOKILON PLANTATION",
+        "CU_NO": "507",
+        "GEOCODE": "13051328507",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "28",
+        "WARD_NAME": "WARD 28",
+        "LATITUDE": -4.682957,
+        "LONGITUDE": 145.88376,
+        "REGHH": 11,
+        "TOTPOP2000": 57,
+        "MALE2000": 35,
+        "FEMALE2000": 22,
+        "POP2008": 73,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051328507,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

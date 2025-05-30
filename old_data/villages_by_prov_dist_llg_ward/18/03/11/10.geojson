@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.08942800000227,
+          -5.421722999816552
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4901,
+        "CU_NAME": "BAIN VILLAGE",
+        "CU_NO": "019",
+        "GEOCODE": "18031110019",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "10",
+        "WARD_NAME": "BAIN",
+        "LATITUDE": -5.423138,
+        "LONGITUDE": 152.088479,
+        "REGHH": 51,
+        "TOTPOP2000": 324,
+        "MALE2000": 175,
+        "FEMALE2000": 149,
+        "POP2008": 394,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031110019,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

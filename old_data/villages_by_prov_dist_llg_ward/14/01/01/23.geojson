@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6039,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.69863600005147,
+          -4.227176000072291
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6039,
+        "CU_NAME": "PRUGANAWI",
+        "CU_NO": "002",
+        "GEOCODE": "14010123002",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "23",
+        "WARD_NAME": "PRUGANAWI",
+        "LATITUDE": -4.22876,
+        "LONGITUDE": 142.697392,
+        "REGHH": 43,
+        "TOTPOP2000": 197,
+        "MALE2000": 97,
+        "FEMALE2000": 100,
+        "POP2008": 235,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010123002,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6040,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.83925799985684,
+          -4.256115000007185
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6040,
+        "CU_NAME": "KAMANJAU",
+        "CU_NO": "012",
+        "GEOCODE": "14010123012",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "23",
+        "WARD_NAME": "PRUGANAWI",
+        "LATITUDE": -4.257699,
+        "LONGITUDE": 142.838014,
+        "REGHH": 7,
+        "TOTPOP2000": 46,
+        "MALE2000": 25,
+        "FEMALE2000": 21,
+        "POP2008": 54,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010123012,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11160,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.06477600001244,
+          -6.11740799997915
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11160,
+        "CU_NAME": "KULUNG",
+        "CU_NO": "019",
+        "GEOCODE": "12041208019",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "08",
+        "WARD_NAME": "TAKOP",
+        "LATITUDE": -6.118823,
+        "LONGITUDE": 147.063754,
+        "REGHH": 24,
+        "TOTPOP2000": 100,
+        "MALE2000": 46,
+        "FEMALE2000": 54,
+        "POP2008": 124,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041208019,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11161,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.07543100034047,
+          -6.138990999734801
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11161,
+        "CU_NAME": "TAKOP",
+        "CU_NO": "031",
+        "GEOCODE": "12041208031",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "08",
+        "WARD_NAME": "TAKOP",
+        "LATITUDE": -6.140406,
+        "LONGITUDE": 147.074409,
+        "REGHH": 55,
+        "TOTPOP2000": 258,
+        "MALE2000": 125,
+        "FEMALE2000": 133,
+        "POP2008": 322,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041208031,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11162,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.06894099962744,
+          -6.1431259997650045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11162,
+        "CU_NAME": "NAWO",
+        "CU_NO": "032",
+        "GEOCODE": "12041208032",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "08",
+        "WARD_NAME": "TAKOP",
+        "LATITUDE": -6.144541,
+        "LONGITUDE": 147.067919,
+        "REGHH": 40,
+        "TOTPOP2000": 185,
+        "MALE2000": 82,
+        "FEMALE2000": 103,
+        "POP2008": 230,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041208032,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11163,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.05050600025174,
+          -6.11039600037509
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11163,
+        "CU_NAME": "KEINGE",
+        "CU_NO": "033",
+        "GEOCODE": "12041208033",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "08",
+        "WARD_NAME": "TAKOP",
+        "LATITUDE": -6.111811,
+        "LONGITUDE": 147.049484,
+        "REGHH": 11,
+        "TOTPOP2000": 42,
+        "MALE2000": 19,
+        "FEMALE2000": 23,
+        "POP2008": 50,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041208033,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11164,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.05234699971436,
+          -6.114400999806264
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11164,
+        "CU_NAME": "BOTUMON",
+        "CU_NO": "034",
+        "GEOCODE": "12041208034",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "08",
+        "WARD_NAME": "TAKOP",
+        "LATITUDE": -6.115816,
+        "LONGITUDE": 147.051325,
+        "REGHH": 31,
+        "TOTPOP2000": 163,
+        "MALE2000": 90,
+        "FEMALE2000": 73,
+        "POP2008": 204,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041208034,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

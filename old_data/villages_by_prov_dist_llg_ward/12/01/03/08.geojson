@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10492,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.54389300026185,
+          -7.273280999618407
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10492,
+        "CU_NAME": "ELOWA CREEK",
+        "CU_NO": "003",
+        "GEOCODE": "12010308003",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "NAUTI AID POST",
+        "LATITUDE": -7.274707,
+        "LONGITUDE": 146.542861,
+        "REGHH": 33,
+        "TOTPOP2000": 234,
+        "MALE2000": 135,
+        "FEMALE2000": 99,
+        "POP2008": 293,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010308003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10493,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.54676200036613,
+          -7.3247449995820375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10493,
+        "CU_NAME": "MINAVA",
+        "CU_NO": "006",
+        "GEOCODE": "12010308006",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "NAUTI AID POST1",
+        "LATITUDE": -7.326172,
+        "LONGITUDE": 146.54573,
+        "REGHH": 31,
+        "TOTPOP2000": 160,
+        "MALE2000": 87,
+        "FEMALE2000": 73,
+        "POP2008": 199,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010308006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10494,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.53182200028516,
+          -7.293109000280083
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10494,
+        "CU_NAME": "TONTOMEA",
+        "CU_NO": "019",
+        "GEOCODE": "12010308019",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "NAUTI AID POST",
+        "LATITUDE": -7.294535,
+        "LONGITUDE": 146.53079,
+        "REGHH": 35,
+        "TOTPOP2000": 193,
+        "MALE2000": 100,
+        "FEMALE2000": 93,
+        "POP2008": 241,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010308019,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10495,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5145169999596,
+          -7.294397000321283
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10495,
+        "CU_NAME": "YOKUA",
+        "CU_NO": "024",
+        "GEOCODE": "12010308024",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "NAUTI AID POST",
+        "LATITUDE": -7.295823,
+        "LONGITUDE": 146.513485,
+        "REGHH": 39,
+        "TOTPOP2000": 198,
+        "MALE2000": 105,
+        "FEMALE2000": 93,
+        "POP2008": 248,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010308024,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5378559997547,
+          -7.284301999737465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10496,
+        "CU_NAME": "NAUTI 1",
+        "CU_NO": "025",
+        "GEOCODE": "12010308025",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "NAUTI AID POST",
+        "LATITUDE": -7.289566,
+        "LONGITUDE": 146.539613,
+        "REGHH": 95,
+        "TOTPOP2000": 469,
+        "MALE2000": 245,
+        "FEMALE2000": 224,
+        "POP2008": 584,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010308025,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10497,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.54739299978712,
+          -7.278799999620219
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10497,
+        "CU_NAME": "NAUTI 2",
+        "CU_NO": "026",
+        "GEOCODE": "12010308026",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "NAUTI AID POST",
+        "LATITUDE": -7.280226,
+        "LONGITUDE": 146.546361,
+        "REGHH": 24,
+        "TOTPOP2000": 140,
+        "MALE2000": 81,
+        "FEMALE2000": 59,
+        "POP2008": 174,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010308026,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12881,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.31199200033063,
+          -3.3753860001637577
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12881,
+        "CU_NAME": "ANSAVE",
+        "CU_NO": "004",
+        "GEOCODE": "17020802004",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "FONLI",
+        "LATITUDE": -3.376775,
+        "LONGITUDE": 153.311063,
+        "REGHH": 50,
+        "TOTPOP2000": 324,
+        "MALE2000": 168,
+        "FEMALE2000": 156,
+        "POP2008": 407,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020802004,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12882,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3197579996321,
+          -3.372533999944096
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12882,
+        "CU_NAME": "FONLI",
+        "CU_NO": "009",
+        "GEOCODE": "17020802009",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "FONLI",
+        "LATITUDE": -3.373923,
+        "LONGITUDE": 153.318831,
+        "REGHH": 73,
+        "TOTPOP2000": 447,
+        "MALE2000": 225,
+        "FEMALE2000": 222,
+        "POP2008": 562,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020802009,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12883,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.33105900007286,
+          -3.382825999720069
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12883,
+        "CU_NAME": "TAUBIE",
+        "CU_NO": "018",
+        "GEOCODE": "17020802018",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "FONLI",
+        "LATITUDE": -3.384215,
+        "LONGITUDE": 153.330132,
+        "REGHH": 62,
+        "TOTPOP2000": 377,
+        "MALE2000": 171,
+        "FEMALE2000": 206,
+        "POP2008": 474,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020802018,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

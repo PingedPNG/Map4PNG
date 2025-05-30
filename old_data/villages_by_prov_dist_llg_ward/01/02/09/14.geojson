@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15495,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.95156900010932,
+          -5.448900000334675
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15495,
+        "CU_NAME": "SAGANABIP",
+        "CU_NO": "006",
+        "GEOCODE": "01020914006",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "SAGANABIP",
+        "LATITUDE": -5.450298,
+        "LONGITUDE": 141.950483,
+        "REGHH": 40,
+        "TOTPOP2000": 170,
+        "MALE2000": 82,
+        "FEMALE2000": 88,
+        "POP2008": 221,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020914006,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

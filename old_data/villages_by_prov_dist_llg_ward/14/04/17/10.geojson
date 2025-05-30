@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6917,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.66382699991618,
+          -3.590222999591731
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6917,
+        "CU_NAME": "MAGON",
+        "CU_NO": "637",
+        "GEOCODE": "14041710637",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "17",
+        "WARD_NO": "10",
+        "WARD_NAME": "MAGON",
+        "LATITUDE": -3.591801,
+        "LONGITUDE": 143.662595,
+        "REGHH": 38,
+        "TOTPOP2000": 231,
+        "MALE2000": 115,
+        "FEMALE2000": 116,
+        "POP2008": 275,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041710637,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

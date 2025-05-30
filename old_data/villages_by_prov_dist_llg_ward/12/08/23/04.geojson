@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12066,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4772040003644,
+          -6.7336199999629684
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12066,
+        "CU_NAME": "BUSONG",
+        "CU_NO": "009",
+        "GEOCODE": "12082304009",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "23",
+        "WARD_NO": "04",
+        "WARD_NAME": "EE'C",
+        "LATITUDE": -6.735042,
+        "LONGITUDE": 147.476186,
+        "REGHH": 48,
+        "TOTPOP2000": 292,
+        "MALE2000": 153,
+        "FEMALE2000": 139,
+        "POP2008": 364,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082304009,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12067,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4933250000488,
+          -6.737354000386745
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12067,
+        "CU_NAME": "EE'C",
+        "CU_NO": "010",
+        "GEOCODE": "12082304010",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "23",
+        "WARD_NO": "04",
+        "WARD_NAME": "EE'C",
+        "LATITUDE": -6.738776,
+        "LONGITUDE": 147.492307,
+        "REGHH": 28,
+        "TOTPOP2000": 152,
+        "MALE2000": 80,
+        "FEMALE2000": 72,
+        "POP2008": 189,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082304010,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

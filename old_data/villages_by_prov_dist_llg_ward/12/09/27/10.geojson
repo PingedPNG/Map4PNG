@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12296,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.88766099975544,
+          -5.7364829999904146
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12296,
+        "CU_NAME": "SALABORAN",
+        "CU_NO": "029",
+        "GEOCODE": "12092710029",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "27",
+        "WARD_NO": "10",
+        "WARD_NAME": "BUNSIL",
+        "LATITUDE": -5.737895,
+        "LONGITUDE": 147.886651,
+        "REGHH": 39,
+        "TOTPOP2000": 215,
+        "MALE2000": 113,
+        "FEMALE2000": 102,
+        "POP2008": 268,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092710029,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12297,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.89976000012393,
+          -5.748948000150051
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12297,
+        "CU_NAME": "ANDRAI",
+        "CU_NO": "030",
+        "GEOCODE": "12092710030",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "27",
+        "WARD_NO": "10",
+        "WARD_NAME": "BUNSIL",
+        "LATITUDE": -5.74622,
+        "LONGITUDE": 147.898744,
+        "REGHH": 29,
+        "TOTPOP2000": 148,
+        "MALE2000": 86,
+        "FEMALE2000": 62,
+        "POP2008": 184,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092710030,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.88100300028827,
+          -5.710712999605221
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12298,
+        "CU_NAME": "BUNSIL STATION",
+        "CU_NO": "505",
+        "GEOCODE": "12092710505",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "27",
+        "WARD_NO": "10",
+        "WARD_NAME": "BUNSIL",
+        "LATITUDE": -5.714862,
+        "LONGITUDE": 147.895154,
+        "REGHH": 73,
+        "TOTPOP2000": 456,
+        "MALE2000": 231,
+        "FEMALE2000": 225,
+        "POP2008": 568,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092710505,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

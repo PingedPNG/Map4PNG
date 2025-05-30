@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5684,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.78797300005397,
+          -5.213256000064291
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5684,
+        "CU_NAME": "PAPAKE",
+        "CU_NO": "004",
+        "GEOCODE": "08030812004",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "12",
+        "WARD_NAME": "PAPAKE",
+        "LATITUDE": -5.240856,
+        "LONGITUDE": 142.764723,
+        "REGHH": 38,
+        "TOTPOP2000": 238,
+        "MALE2000": 141,
+        "FEMALE2000": 97,
+        "POP2008": 299,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030812004,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5685,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7681450002916,
+          -5.194365000344419
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5685,
+        "CU_NAME": "SEMETI",
+        "CU_NO": "005",
+        "GEOCODE": "08030812005",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "12",
+        "WARD_NAME": "PAPAKE",
+        "LATITUDE": -5.215465,
+        "LONGITUDE": 142.759535,
+        "REGHH": 17,
+        "TOTPOP2000": 91,
+        "MALE2000": 52,
+        "FEMALE2000": 39,
+        "POP2008": 115,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030812005,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5686,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.75921200023367,
+          -5.175993000276719
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5686,
+        "CU_NAME": "PAUTEKE",
+        "CU_NO": "006",
+        "GEOCODE": "08030812006",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "12",
+        "WARD_NAME": "PAPAKE",
+        "LATITUDE": -5.191365,
+        "LONGITUDE": 142.755644,
+        "REGHH": 12,
+        "TOTPOP2000": 95,
+        "MALE2000": 50,
+        "FEMALE2000": 45,
+        "POP2008": 119,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030812006,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5687,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.84348999986366,
+          -5.296344999721896
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5687,
+        "CU_NAME": "BALIA",
+        "CU_NO": "007",
+        "GEOCODE": "08030812007",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "12",
+        "WARD_NAME": "PAPAKE",
+        "LATITUDE": -5.300281,
+        "LONGITUDE": 142.843055,
+        "REGHH": 16,
+        "TOTPOP2000": 133,
+        "MALE2000": 71,
+        "FEMALE2000": 62,
+        "POP2008": 167,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030812007,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

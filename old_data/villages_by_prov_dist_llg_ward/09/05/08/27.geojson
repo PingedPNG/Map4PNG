@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17031,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.23949099970991,
+          -5.740712999904986
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17031,
+        "CU_NAME": "KOIBUGA.1",
+        "CU_NO": "041",
+        "GEOCODE": "09050827041",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "27",
+        "WARD_NAME": "KOIBUGA.1",
+        "LATITUDE": -5.741359,
+        "LONGITUDE": 144.238561,
+        "REGHH": 59,
+        "TOTPOP2000": 249,
+        "MALE2000": 130,
+        "FEMALE2000": 119,
+        "POP2008": 303,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050827041,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17032,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.18947700006356,
+          -5.6439209996543696
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17032,
+        "CU_NAME": "BAPOLGA",
+        "CU_NO": "043",
+        "GEOCODE": "09050827043",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "27",
+        "WARD_NAME": "KOIBUGA.1",
+        "LATITUDE": -5.644857,
+        "LONGITUDE": 144.18981,
+        "REGHH": 99,
+        "TOTPOP2000": 524,
+        "MALE2000": 264,
+        "FEMALE2000": 260,
+        "POP2008": 638,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050827043,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17033,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.23503800030358,
+          -5.751644000370277
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17033,
+        "CU_NAME": "PAGLUM HIGH SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "09050827401",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": "27",
+        "WARD_NAME": "KOIBUGA.1",
+        "LATITUDE": -5.750431,
+        "LONGITUDE": 144.235918,
+        "REGHH": 12,
+        "TOTPOP2000": 49,
+        "MALE2000": 33,
+        "FEMALE2000": 16,
+        "POP2008": 57,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050827401,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

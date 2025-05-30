@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10078,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.44382599977018,
+          -9.55383400023885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10078,
+        "CU_NAME": "NASIKWABU",
+        "CU_NO": "001",
+        "GEOCODE": "05021117001",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "11",
+        "WARD_NO": "17",
+        "WARD_NAME": "ALCESTER",
+        "LATITUDE": -9.552588,
+        "LONGITUDE": 152.441224,
+        "REGHH": 21,
+        "TOTPOP2000": 93,
+        "MALE2000": 42,
+        "FEMALE2000": 51,
+        "POP2008": 113,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021117001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

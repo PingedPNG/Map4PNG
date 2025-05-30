@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19838,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9546729998591,
+          -6.724005999976896
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19838,
+        "CU_NAME": "PANDAPI",
+        "CU_NO": "001",
+        "GEOCODE": "07030824001",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "24",
+        "WARD_NAME": "PAWABI 2",
+        "LATITUDE": -6.72989,
+        "LONGITUDE": 143.95612,
+        "REGHH": 14,
+        "TOTPOP2000": 74,
+        "MALE2000": 32,
+        "FEMALE2000": 42,
+        "POP2008": 102,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030824001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19839,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9511409997574,
+          -6.724302000137129
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19839,
+        "CU_NAME": "HOKI",
+        "CU_NO": "002",
+        "GEOCODE": "07030824002",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "24",
+        "WARD_NAME": "PAWABI 2",
+        "LATITUDE": -6.72989,
+        "LONGITUDE": 143.95612,
+        "REGHH": 22,
+        "TOTPOP2000": 114,
+        "MALE2000": 55,
+        "FEMALE2000": 59,
+        "POP2008": 158,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030824002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19840,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.95776700044678,
+          -6.721918999961815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19840,
+        "CU_NAME": "HAWERE",
+        "CU_NO": "003",
+        "GEOCODE": "07030824003",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "24",
+        "WARD_NAME": "PAWABI 2",
+        "LATITUDE": -6.72989,
+        "LONGITUDE": 143.95612,
+        "REGHH": 34,
+        "TOTPOP2000": 163,
+        "MALE2000": 78,
+        "FEMALE2000": 85,
+        "POP2008": 226,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030824003,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

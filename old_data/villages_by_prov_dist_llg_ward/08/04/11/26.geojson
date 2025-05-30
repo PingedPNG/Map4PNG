@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5835,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7937570003853,
+          -5.534201000375845
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5835,
+        "CU_NAME": "IMI",
+        "CU_NO": "002",
+        "GEOCODE": "08041126002",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "26",
+        "WARD_NAME": "IMI",
+        "LATITUDE": -5.535603,
+        "LONGITUDE": 143.792693,
+        "REGHH": 114,
+        "TOTPOP2000": 550,
+        "MALE2000": 294,
+        "FEMALE2000": 256,
+        "POP2008": 690,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041126002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5836,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.78416399956905,
+          -5.560665000389406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5836,
+        "CU_NAME": "MAKAPAUMANDA",
+        "CU_NO": "003",
+        "GEOCODE": "08041126003",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "26",
+        "WARD_NAME": "IMI",
+        "LATITUDE": -5.561815,
+        "LONGITUDE": 143.785518,
+        "REGHH": 155,
+        "TOTPOP2000": 891,
+        "MALE2000": 463,
+        "FEMALE2000": 428,
+        "POP2008": 1121,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041126003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5837,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.78021700011448,
+          -5.534142000352972
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5837,
+        "CU_NAME": "NAPUTES",
+        "CU_NO": "004",
+        "GEOCODE": "08041126004",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "26",
+        "WARD_NAME": "IMI",
+        "LATITUDE": -5.535544,
+        "LONGITUDE": 143.779153,
+        "REGHH": 100,
+        "TOTPOP2000": 461,
+        "MALE2000": 252,
+        "FEMALE2000": 209,
+        "POP2008": 579,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041126004,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5838,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.79633899984503,
+          -5.539697000216336
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5838,
+        "CU_NAME": "WATEPITU",
+        "CU_NO": "005",
+        "GEOCODE": "08041126005",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "26",
+        "WARD_NAME": "IMI",
+        "LATITUDE": -5.541099,
+        "LONGITUDE": 143.795275,
+        "REGHH": 103,
+        "TOTPOP2000": 453,
+        "MALE2000": 225,
+        "FEMALE2000": 228,
+        "POP2008": 570,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041126005,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

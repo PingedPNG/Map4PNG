@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.46566699983225,
+          -6.064322999906494
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12214,
+        "CU_NAME": "EZANKO",
+        "CU_NO": "004",
+        "GEOCODE": "12092602004",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "02",
+        "WARD_NAME": "KUMUKIO",
+        "LATITUDE": -6.065738,
+        "LONGITUDE": 147.46465,
+        "REGHH": 21,
+        "TOTPOP2000": 133,
+        "MALE2000": 74,
+        "FEMALE2000": 59,
+        "POP2008": 166,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092602004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4514719999329,
+          -6.054176999668755
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12215,
+        "CU_NAME": "KINALAKNGA",
+        "CU_NO": "014",
+        "GEOCODE": "12092602014",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "02",
+        "WARD_NAME": "KUMUKIO",
+        "LATITUDE": -6.055592,
+        "LONGITUDE": 147.450455,
+        "REGHH": 48,
+        "TOTPOP2000": 303,
+        "MALE2000": 153,
+        "FEMALE2000": 150,
+        "POP2008": 377,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092602014,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.41058000006706,
+          -6.0362559997145695
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12216,
+        "CU_NAME": "KUMUKIO",
+        "CU_NO": "017",
+        "GEOCODE": "12092602017",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "02",
+        "WARD_NAME": "KUMUKIO",
+        "LATITUDE": -6.039547,
+        "LONGITUDE": 147.407379,
+        "REGHH": 153,
+        "TOTPOP2000": 1017,
+        "MALE2000": 527,
+        "FEMALE2000": 490,
+        "POP2008": 1269,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092602017,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

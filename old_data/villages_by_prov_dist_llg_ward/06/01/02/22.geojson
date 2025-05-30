@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.7546330001129,
+          -9.441590999724838
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13218,
+        "CU_NAME": "EMBESA",
+        "CU_NO": "006",
+        "GEOCODE": "06010222006",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "22",
+        "WARD_NAME": "EMBESA",
+        "LATITUDE": -9.451136,
+        "LONGITUDE": 148.761342,
+        "REGHH": 45,
+        "TOTPOP2000": 249,
+        "MALE2000": 129,
+        "FEMALE2000": 120,
+        "POP2008": 308,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010222006,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13219,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.66559400036294,
+          -9.369729999839592
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13219,
+        "CU_NAME": "KAKASA",
+        "CU_NO": "019",
+        "GEOCODE": "06010222019",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "22",
+        "WARD_NAME": "EMBESA",
+        "LATITUDE": -9.36557,
+        "LONGITUDE": 148.669676,
+        "REGHH": 9,
+        "TOTPOP2000": 44,
+        "MALE2000": 21,
+        "FEMALE2000": 23,
+        "POP2008": 52,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010222019,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13220,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.8334760000174,
+          -9.439849000331037
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13220,
+        "CU_NAME": "TARUMA",
+        "CU_NO": "028",
+        "GEOCODE": "06010222028",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "22",
+        "WARD_NAME": "EMBESA",
+        "LATITUDE": -9.441303,
+        "LONGITUDE": 148.83247,
+        "REGHH": 9,
+        "TOTPOP2000": 57,
+        "MALE2000": 28,
+        "FEMALE2000": 29,
+        "POP2008": 73,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010222028,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13221,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.87232600014488,
+          -9.388353999837193
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13221,
+        "CU_NAME": "MUSASA",
+        "CU_NO": "029",
+        "GEOCODE": "06010222029",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "22",
+        "WARD_NAME": "EMBESA",
+        "LATITUDE": -9.386743,
+        "LONGITUDE": 148.874374,
+        "REGHH": 12,
+        "TOTPOP2000": 94,
+        "MALE2000": 48,
+        "FEMALE2000": 46,
+        "POP2008": 118,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010222029,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

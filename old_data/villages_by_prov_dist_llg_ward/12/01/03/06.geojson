@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10485,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.46080999998162,
+          -7.268006000076809
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10485,
+        "CU_NAME": "SAPANDA (HAMANAOHAWAI..)",
+        "CU_NO": "001",
+        "GEOCODE": "12010306001",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "SAPANDA",
+        "LATITUDE": -7.269432,
+        "LONGITUDE": 146.459777,
+        "REGHH": 103,
+        "TOTPOP2000": 528,
+        "MALE2000": 273,
+        "FEMALE2000": 255,
+        "POP2008": 659,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010306001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10486,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4974889998175,
+          -7.289556000109258
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10486,
+        "CU_NAME": "KAUMANGA",
+        "CU_NO": "009",
+        "GEOCODE": "12010306009",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "SAPANDA",
+        "LATITUDE": -7.288194,
+        "LONGITUDE": 146.497856,
+        "REGHH": 38,
+        "TOTPOP2000": 181,
+        "MALE2000": 101,
+        "FEMALE2000": 80,
+        "POP2008": 225,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010306009,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10487,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.49436999987563,
+          -7.2716180002704505
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10487,
+        "CU_NAME": "WANDINI",
+        "CU_NO": "022",
+        "GEOCODE": "12010306022",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "SAPANDA",
+        "LATITUDE": -7.273044,
+        "LONGITUDE": 146.493338,
+        "REGHH": 15,
+        "TOTPOP2000": 74,
+        "MALE2000": 45,
+        "FEMALE2000": 29,
+        "POP2008": 90,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010306022,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

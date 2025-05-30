@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14207,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.78268100022808,
+          -6.500216999614793
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14207,
+        "CU_NAME": "MEIYO",
+        "CU_NO": "004",
+        "GEOCODE": "10030705004",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "KARIMUI STATION 1",
+        "LATITUDE": -6.501631,
+        "LONGITUDE": 144.781628,
+        "REGHH": 47,
+        "TOTPOP2000": 267,
+        "MALE2000": 140,
+        "FEMALE2000": 127,
+        "POP2008": 307,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030705004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14208,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8250990003187,
+          -6.469718999731981
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14208,
+        "CU_NAME": "SOLIDA",
+        "CU_NO": "005",
+        "GEOCODE": "10030705005",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "KARIMUI STATION 1",
+        "LATITUDE": -6.471133,
+        "LONGITUDE": 144.824046,
+        "REGHH": 27,
+        "TOTPOP2000": 113,
+        "MALE2000": 58,
+        "FEMALE2000": 55,
+        "POP2008": 129,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030705005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14209,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.82900699977324,
+          -6.494033000422576
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14209,
+        "CU_NAME": "KARIMUI STATION",
+        "CU_NO": "401",
+        "GEOCODE": "10030705401",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "05",
+        "WARD_NAME": "KARIMUI STATION 1",
+        "LATITUDE": -6.495447,
+        "LONGITUDE": 144.827954,
+        "REGHH": 32,
+        "TOTPOP2000": 177,
+        "MALE2000": 102,
+        "FEMALE2000": 75,
+        "POP2008": 203,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030705401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

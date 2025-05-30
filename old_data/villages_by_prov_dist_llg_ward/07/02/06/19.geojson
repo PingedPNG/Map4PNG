@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0547889996127,
+          -6.156838999919842
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19611,
+        "CU_NAME": "KIME",
+        "CU_NO": "001",
+        "GEOCODE": "07020619001",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "19",
+        "WARD_NAME": "TUKUPANGI",
+        "LATITUDE": -6.165248,
+        "LONGITUDE": 144.047893,
+        "REGHH": 110,
+        "TOTPOP2000": 572,
+        "MALE2000": 292,
+        "FEMALE2000": 280,
+        "POP2008": 794,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020619001,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

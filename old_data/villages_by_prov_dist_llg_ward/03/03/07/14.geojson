@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.22858099961354,
+          -9.359834000338822
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1261,
+        "CU_NAME": "LALOKI HOSPITAL",
+        "CU_NO": "415",
+        "GEOCODE": "03030714415",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "LALOKI",
+        "LATITUDE": -9.361283,
+        "LONGITUDE": 147.227553,
+        "REGHH": 34,
+        "TOTPOP2000": 262,
+        "MALE2000": 161,
+        "FEMALE2000": 101,
+        "POP2008": 314,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030714415,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.22748300024034,
+          -9.369905999861942
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1262,
+        "CU_NAME": "LALOKI SETTLEMENT",
+        "CU_NO": "416",
+        "GEOCODE": "03030714416",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "LALOKI",
+        "LATITUDE": -9.371355,
+        "LONGITUDE": 147.226455,
+        "REGHH": 23,
+        "TOTPOP2000": 157,
+        "MALE2000": 81,
+        "FEMALE2000": 76,
+        "POP2008": 189,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030714416,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.26784299985468,
+          -9.361281999664527
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1263,
+        "CU_NAME": "KEREAVA MUSA SETTLEMENT",
+        "CU_NO": "418",
+        "GEOCODE": "03030714418",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "LALOKI",
+        "LATITUDE": -9.362731,
+        "LONGITUDE": 147.266816,
+        "REGHH": 20,
+        "TOTPOP2000": 155,
+        "MALE2000": 92,
+        "FEMALE2000": 63,
+        "POP2008": 187,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030714418,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1264,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.26904599957334,
+          -9.362844999796835
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1264,
+        "CU_NAME": "KEREAVA FANIMA SETTLEMENT",
+        "CU_NO": "419",
+        "GEOCODE": "03030714419",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "LALOKI",
+        "LATITUDE": -9.364294,
+        "LONGITUDE": 147.268019,
+        "REGHH": 19,
+        "TOTPOP2000": 91,
+        "MALE2000": 52,
+        "FEMALE2000": 39,
+        "POP2008": 107,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030714419,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.27345999987915,
+          -9.348167000106912
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1265,
+        "CU_NAME": "GOLDIE SETTLEMENT",
+        "CU_NO": "420",
+        "GEOCODE": "03030714420",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "LALOKI",
+        "LATITUDE": -9.349616,
+        "LONGITUDE": 147.272433,
+        "REGHH": 74,
+        "TOTPOP2000": 404,
+        "MALE2000": 209,
+        "FEMALE2000": 195,
+        "POP2008": 484,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030714420,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.23084899988146,
+          -9.364912999835042
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1266,
+        "CU_NAME": "BISOGO SETTLEMENT",
+        "CU_NO": "429",
+        "GEOCODE": "03030714429",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "LALOKI",
+        "LATITUDE": -9.366362,
+        "LONGITUDE": 147.229821,
+        "REGHH": 75,
+        "TOTPOP2000": 613,
+        "MALE2000": 341,
+        "FEMALE2000": 272,
+        "POP2008": 735,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030714429,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.25431400009109,
+          -9.371126000364598
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1267,
+        "CU_NAME": "LALOKI DPI STATION",
+        "CU_NO": "507",
+        "GEOCODE": "03030714507",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "LALOKI",
+        "LATITUDE": -9.372575,
+        "LONGITUDE": 147.253285,
+        "REGHH": 39,
+        "TOTPOP2000": 230,
+        "MALE2000": 115,
+        "FEMALE2000": 115,
+        "POP2008": 276,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030714507,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

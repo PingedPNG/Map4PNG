@@ -1,0 +1,261 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10423,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.88350299976366,
+          -7.783640999732313
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10423,
+        "CU_NAME": "PATORO",
+        "CU_NO": "001",
+        "GEOCODE": "12010209001",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "KASANGARE",
+        "LATITUDE": -7.785073,
+        "LONGITUDE": 146.882475,
+        "REGHH": 23,
+        "TOTPOP2000": 135,
+        "MALE2000": 64,
+        "FEMALE2000": 71,
+        "POP2008": 168,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010209001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10424,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.84586399972386,
+          -7.806143999645826
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10424,
+        "CU_NAME": "KOIARO",
+        "CU_NO": "002",
+        "GEOCODE": "12010209002",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "KASANGARE",
+        "LATITUDE": -7.807576,
+        "LONGITUDE": 146.844835,
+        "REGHH": 40,
+        "TOTPOP2000": 316,
+        "MALE2000": 156,
+        "FEMALE2000": 160,
+        "POP2008": 394,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010209002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10425,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.86998699970036,
+          -7.801117999895723
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10425,
+        "CU_NAME": "KAMARE",
+        "CU_NO": "003",
+        "GEOCODE": "12010209003",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "KASANGARE",
+        "LATITUDE": -7.80255,
+        "LONGITUDE": 146.868957,
+        "REGHH": 24,
+        "TOTPOP2000": 120,
+        "MALE2000": 56,
+        "FEMALE2000": 64,
+        "POP2008": 150,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010209003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10426,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8794829996408,
+          -7.771001999642522
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10426,
+        "CU_NAME": "KASANGARE 1 & 2",
+        "CU_NO": "004",
+        "GEOCODE": "12010209004",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "KASANGARE",
+        "LATITUDE": -7.772434,
+        "LONGITUDE": 146.878455,
+        "REGHH": 42,
+        "TOTPOP2000": 248,
+        "MALE2000": 127,
+        "FEMALE2000": 121,
+        "POP2008": 309,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010209004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10427,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.87606600034576,
+          -7.764434999875277
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10427,
+        "CU_NAME": "YAPU",
+        "CU_NO": "006",
+        "GEOCODE": "12010209006",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "KASANGARE",
+        "LATITUDE": -7.765867,
+        "LONGITUDE": 146.875038,
+        "REGHH": 22,
+        "TOTPOP2000": 151,
+        "MALE2000": 73,
+        "FEMALE2000": 78,
+        "POP2008": 188,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010209006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10428,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.881448000325,
+          -7.755957000115416
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10428,
+        "CU_NAME": "KAUKORO",
+        "CU_NO": "007",
+        "GEOCODE": "12010209007",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "KASANGARE",
+        "LATITUDE": -7.757389,
+        "LONGITUDE": 146.88042,
+        "REGHH": 12,
+        "TOTPOP2000": 87,
+        "MALE2000": 42,
+        "FEMALE2000": 45,
+        "POP2008": 109,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010209007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10429,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8581879996765,
+          -7.786362000206111
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10429,
+        "CU_NAME": "NGUZI",
+        "CU_NO": "008",
+        "GEOCODE": "12010209008",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "KASANGARE",
+        "LATITUDE": -7.787794,
+        "LONGITUDE": 146.857159,
+        "REGHH": 43,
+        "TOTPOP2000": 271,
+        "MALE2000": 146,
+        "FEMALE2000": 125,
+        "POP2008": 338,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010209008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10430,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8749880000962,
+          -7.776202000222099
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10430,
+        "CU_NAME": "SABA",
+        "CU_NO": "009",
+        "GEOCODE": "12010209009",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "09",
+        "WARD_NAME": "KASANGARE",
+        "LATITUDE": -7.777634,
+        "LONGITUDE": 146.87396,
+        "REGHH": 19,
+        "TOTPOP2000": 106,
+        "MALE2000": 49,
+        "FEMALE2000": 57,
+        "POP2008": 131,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010209009,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21796,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.87990900030024,
+          -5.794535999836455
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21796,
+        "CU_NAME": "MUNIMA",
+        "CU_NO": "004",
+        "GEOCODE": "07082805004",
+        "PROV_KEY": "21",
+        "DIST_NO": "3",
+        "LLG_NO": "28",
+        "WARD_NO": "05",
+        "WARD_NAME": "MUNIMA",
+        "LATITUDE": -5.798779,
+        "LONGITUDE": 142.880171,
+        "REGHH": 97,
+        "TOTPOP2000": 638,
+        "MALE2000": 348,
+        "FEMALE2000": 290,
+        "POP2008": 887,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7082805004,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

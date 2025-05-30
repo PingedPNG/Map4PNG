@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10375,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.59987099974694,
+          -7.042722000020262
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10375,
+        "CU_NAME": "BANGULUM",
+        "CU_NO": "001",
+        "GEOCODE": "12010118001",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "SAMBIO",
+        "LATITUDE": -7.044146,
+        "LONGITUDE": 146.598841,
+        "REGHH": 136,
+        "TOTPOP2000": 615,
+        "MALE2000": 322,
+        "FEMALE2000": 293,
+        "POP2008": 767,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010118001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10376,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5888060002967,
+          -7.0611740001799035
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10376,
+        "CU_NAME": "SAMBIO",
+        "CU_NO": "010",
+        "GEOCODE": "12010118010",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "18",
+        "WARD_NAME": "SAMBIO",
+        "LATITUDE": -7.062598,
+        "LONGITUDE": 146.587775,
+        "REGHH": 186,
+        "TOTPOP2000": 865,
+        "MALE2000": 482,
+        "FEMALE2000": 383,
+        "POP2008": 1079,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010118010,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

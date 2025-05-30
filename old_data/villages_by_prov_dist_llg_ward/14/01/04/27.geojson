@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.37711099997273,
+          -4.521626999886109
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6260,
+        "CU_NAME": "HANASI",
+        "CU_NO": "002",
+        "GEOCODE": "14010427002",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "27",
+        "WARD_NAME": "HANASI",
+        "LATITUDE": -4.523215,
+        "LONGITUDE": 142.375861,
+        "REGHH": 17,
+        "TOTPOP2000": 73,
+        "MALE2000": 38,
+        "FEMALE2000": 35,
+        "POP2008": 89,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010427002,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.3445199997982,
+          -4.549755000193045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6261,
+        "CU_NAME": "SAURINAPI",
+        "CU_NO": "012",
+        "GEOCODE": "14010427012",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "27",
+        "WARD_NAME": "HANASI",
+        "LATITUDE": -4.551342,
+        "LONGITUDE": 142.343271,
+        "REGHH": 16,
+        "TOTPOP2000": 54,
+        "MALE2000": 33,
+        "FEMALE2000": 21,
+        "POP2008": 62,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010427012,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.36033299966823,
+          -4.563781000392794
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6262,
+        "CU_NAME": "PATANAPI",
+        "CU_NO": "017",
+        "GEOCODE": "14010427017",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "27",
+        "WARD_NAME": "HANASI",
+        "LATITUDE": -4.565368,
+        "LONGITUDE": 142.359083,
+        "REGHH": 7,
+        "TOTPOP2000": 39,
+        "MALE2000": 18,
+        "FEMALE2000": 21,
+        "POP2008": 47,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010427017,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

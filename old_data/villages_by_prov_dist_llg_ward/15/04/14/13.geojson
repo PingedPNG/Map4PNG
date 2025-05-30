@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18993,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.26459000032833,
+          -4.135420000032923
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18993,
+        "CU_NAME": "IDAM 1",
+        "CU_NO": "002",
+        "GEOCODE": "15041413002",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "13",
+        "WARD_NAME": "IDAM 1",
+        "LATITUDE": -4.144055,
+        "LONGITUDE": 141.256335,
+        "REGHH": 83,
+        "TOTPOP2000": 552,
+        "MALE2000": 258,
+        "FEMALE2000": 294,
+        "POP2008": 668,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041413002,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

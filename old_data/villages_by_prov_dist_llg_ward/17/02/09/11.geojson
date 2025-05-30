@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12947,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.59130400007962,
+          -3.0403579997218344
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12947,
+        "CU_NAME": "TZUEN/SINABEL/POTMOLMOL",
+        "CU_NO": "026",
+        "GEOCODE": "17020911026",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "11",
+        "WARD_NAME": "KUNAIE",
+        "LATITUDE": -3.041741,
+        "LONGITUDE": 152.590366,
+        "REGHH": 106,
+        "TOTPOP2000": 586,
+        "MALE2000": 300,
+        "FEMALE2000": 286,
+        "POP2008": 737,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020911026,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12948,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.63040199995237,
+          -3.032985999704067
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12948,
+        "CU_NAME": "KUNAIE NO. 1",
+        "CU_NO": "033",
+        "GEOCODE": "17020911033",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "11",
+        "WARD_NAME": "KUNAIE",
+        "LATITUDE": -3.033776,
+        "LONGITUDE": 152.63035,
+        "REGHH": 76,
+        "TOTPOP2000": 445,
+        "MALE2000": 232,
+        "FEMALE2000": 213,
+        "POP2008": 559,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020911033,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12949,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.63614799963057,
+          -3.0400249996539515
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12949,
+        "CU_NAME": "SUNANIO",
+        "CU_NO": "034",
+        "GEOCODE": "17020911034",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "11",
+        "WARD_NAME": "KUNAIE",
+        "LATITUDE": -3.041408,
+        "LONGITUDE": 152.63521,
+        "REGHH": 62,
+        "TOTPOP2000": 389,
+        "MALE2000": 217,
+        "FEMALE2000": 172,
+        "POP2008": 489,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020911034,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12950,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.6352010000262,
+          -3.0471210004337763
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12950,
+        "CU_NAME": "KUL",
+        "CU_NO": "035",
+        "GEOCODE": "17020911035",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "11",
+        "WARD_NAME": "KUNAIE",
+        "LATITUDE": -3.048504,
+        "LONGITUDE": 152.634263,
+        "REGHH": 68,
+        "TOTPOP2000": 433,
+        "MALE2000": 262,
+        "FEMALE2000": 171,
+        "POP2008": 545,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020911035,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

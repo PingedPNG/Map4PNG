@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15086,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7690430001344,
+          -7.8661559998994335
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15086,
+        "CU_NAME": "AIRUA",
+        "CU_NO": "001",
+        "GEOCODE": "01010217001",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "17",
+        "WARD_NAME": "UKUSI",
+        "LATITUDE": -7.867581,
+        "LONGITUDE": 143.767974,
+        "REGHH": 1,
+        "TOTPOP2000": 15,
+        "MALE2000": 9,
+        "FEMALE2000": 6,
+        "POP2008": 15,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010217001,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15087,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7807019999974,
+          -7.838163000422071
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15087,
+        "CU_NAME": "BINOURI",
+        "CU_NO": "002",
+        "GEOCODE": "01010217002",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "17",
+        "WARD_NAME": "UKUSI",
+        "LATITUDE": -7.844307,
+        "LONGITUDE": 143.762746,
+        "REGHH": 5,
+        "TOTPOP2000": 54,
+        "MALE2000": 28,
+        "FEMALE2000": 26,
+        "POP2008": 70,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010217002,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15088,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.72899499961966,
+          -7.802896000050339
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15088,
+        "CU_NAME": "KOPERAMIO",
+        "CU_NO": "007",
+        "GEOCODE": "01010217007",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "17",
+        "WARD_NAME": "UKUSI",
+        "LATITUDE": -7.830844,
+        "LONGITUDE": 143.740897,
+        "REGHH": 7,
+        "TOTPOP2000": 48,
+        "MALE2000": 27,
+        "FEMALE2000": 21,
+        "POP2008": 64,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010217007,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15089,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.68356500002483,
+          -7.81156100033985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15089,
+        "CU_NAME": "UKUSI",
+        "CU_NO": "010",
+        "GEOCODE": "01010217010",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "17",
+        "WARD_NAME": "UKUSI",
+        "LATITUDE": -7.812986,
+        "LONGITUDE": 143.682495,
+        "REGHH": 15,
+        "TOTPOP2000": 68,
+        "MALE2000": 35,
+        "FEMALE2000": 33,
+        "POP2008": 88,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010217010,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

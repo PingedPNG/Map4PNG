@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21228,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.72773099998574,
+          -6.257842000108155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21228,
+        "CU_NAME": "FILISADO",
+        "CU_NO": "001",
+        "GEOCODE": "07072305001",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "05",
+        "WARD_NAME": "FILISADO",
+        "LATITUDE": -6.28927,
+        "LONGITUDE": 142.638822,
+        "REGHH": 28,
+        "TOTPOP2000": 125,
+        "MALE2000": 68,
+        "FEMALE2000": 57,
+        "POP2008": 173,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072305001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.70058600004393,
+          -6.248660000258781
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21229,
+        "CU_NAME": "IGIWA",
+        "CU_NO": "005",
+        "GEOCODE": "07072305005",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "05",
+        "WARD_NAME": "FILISADO",
+        "LATITUDE": -6.283761,
+        "LONGITUDE": 142.635407,
+        "REGHH": 14,
+        "TOTPOP2000": 57,
+        "MALE2000": 31,
+        "FEMALE2000": 26,
+        "POP2008": 79,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072305005,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21230,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7079759999924,
+          -6.265554999663436
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21230,
+        "CU_NAME": "MODOA (DAUBA)",
+        "CU_NO": "008",
+        "GEOCODE": "07072305008",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "05",
+        "WARD_NAME": "FILISADO",
+        "LATITUDE": -6.286303,
+        "LONGITUDE": 142.6337,
+        "REGHH": 17,
+        "TOTPOP2000": 94,
+        "MALE2000": 51,
+        "FEMALE2000": 43,
+        "POP2008": 130,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072305008,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

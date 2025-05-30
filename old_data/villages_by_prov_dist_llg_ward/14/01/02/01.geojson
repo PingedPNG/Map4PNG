@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6059,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7496339596396,
+          -3.588381000083018
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6059,
+        "CU_NAME": "MUSINGWIK",
+        "CU_NO": "013",
+        "GEOCODE": "14010201013",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "01",
+        "WARD_NAME": "TUMAM",
+        "LATITUDE": -3.588897,
+        "LONGITUDE": 142.749257,
+        "REGHH": 48,
+        "TOTPOP2000": 229,
+        "MALE2000": 116,
+        "FEMALE2000": 113,
+        "POP2008": 272,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010201013,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6060,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.75653900017483,
+          -3.597476000417032
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6060,
+        "CU_NAME": "NYAMBOLEI",
+        "CU_NO": "016",
+        "GEOCODE": "14010201016",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "01",
+        "WARD_NAME": "TUMAM",
+        "LATITUDE": -3.599053,
+        "LONGITUDE": 142.755296,
+        "REGHH": 52,
+        "TOTPOP2000": 195,
+        "MALE2000": 92,
+        "FEMALE2000": 103,
+        "POP2008": 232,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010201016,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6061,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.75188108034763,
+          -3.5958909597
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6061,
+        "CU_NAME": "TUMAM",
+        "CU_NO": "019",
+        "GEOCODE": "14010201019",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "01",
+        "WARD_NAME": "TUMAM",
+        "LATITUDE": -3.593473,
+        "LONGITUDE": 142.750091,
+        "REGHH": 86,
+        "TOTPOP2000": 291,
+        "MALE2000": 138,
+        "FEMALE2000": 153,
+        "POP2008": 346,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010201019,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6062,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7887299998896,
+          -3.5979640004381963
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6062,
+        "CU_NAME": "MOIHUR",
+        "CU_NO": "021",
+        "GEOCODE": "14010201021",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "01",
+        "WARD_NAME": "TUMAM",
+        "LATITUDE": -3.599541,
+        "LONGITUDE": 142.787486,
+        "REGHH": 20,
+        "TOTPOP2000": 58,
+        "MALE2000": 27,
+        "FEMALE2000": 31,
+        "POP2008": 66,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010201021,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

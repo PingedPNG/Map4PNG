@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13012,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.48553300024787,
+          -8.872375999652604
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13012,
+        "CU_NAME": "BABERADA / NATATU",
+        "CU_NO": "002",
+        "GEOCODE": "06010108002",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "BABERADA",
+        "LATITUDE": -8.870661,
+        "LONGITUDE": 148.485781,
+        "REGHH": 74,
+        "TOTPOP2000": 476,
+        "MALE2000": 247,
+        "FEMALE2000": 229,
+        "POP2008": 589,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010108002,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13013,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.48419399965337,
+          -8.863546999894083
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13013,
+        "CU_NAME": "BUSEGA",
+        "CU_NO": "012",
+        "GEOCODE": "06010108012",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "BABERADA",
+        "LATITUDE": -8.864996,
+        "LONGITUDE": 148.483185,
+        "REGHH": 38,
+        "TOTPOP2000": 236,
+        "MALE2000": 125,
+        "FEMALE2000": 111,
+        "POP2008": 292,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010108012,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13014,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.4831510001186,
+          -8.867370999971627
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13014,
+        "CU_NAME": "ARUGASUSU",
+        "CU_NO": "052",
+        "GEOCODE": "06010108052",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "BABERADA",
+        "LATITUDE": -8.868806,
+        "LONGITUDE": 148.485317,
+        "REGHH": 12,
+        "TOTPOP2000": 72,
+        "MALE2000": 35,
+        "FEMALE2000": 37,
+        "POP2008": 88,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010108052,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13015,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.47847100013666,
+          -8.864995000119109
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13015,
+        "CU_NAME": "ERORO C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "06010108401",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "BABERADA",
+        "LATITUDE": -8.866444,
+        "LONGITUDE": 148.477462,
+        "REGHH": 8,
+        "TOTPOP2000": 46,
+        "MALE2000": 21,
+        "FEMALE2000": 25,
+        "POP2008": 54,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010108401,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

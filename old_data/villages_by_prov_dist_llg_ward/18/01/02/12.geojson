@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4483,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.94359199987093,
+          -4.3765909997747485
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4483,
+        "CU_NAME": "VUNAPALADING NO.2",
+        "CU_NO": "533",
+        "GEOCODE": "18010212533",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "VUNAPALADING NO.2",
+        "LATITUDE": -4.377992,
+        "LONGITUDE": 151.942643,
+        "REGHH": 82,
+        "TOTPOP2000": 452,
+        "MALE2000": 252,
+        "FEMALE2000": 200,
+        "POP2008": 550,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010212533,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

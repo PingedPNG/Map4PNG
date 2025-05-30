@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.86089700039633,
+          -8.069368000133068
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15127,
+        "CU_NAME": "YAU",
+        "CU_NO": "016",
+        "GEOCODE": "01010317016",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "17",
+        "WARD_NAME": "YAU",
+        "LATITUDE": -8.070793,
+        "LONGITUDE": 142.859816,
+        "REGHH": 84,
+        "TOTPOP2000": 498,
+        "MALE2000": 266,
+        "FEMALE2000": 232,
+        "POP2008": 646,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010317016,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

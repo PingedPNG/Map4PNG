@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5361,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.45963799959407,
+          -5.852135000329952
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5361,
+        "CU_NAME": "WAIPI",
+        "CU_NO": "001",
+        "GEOCODE": "08010222001",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "22",
+        "WARD_NAME": "WAIPI",
+        "LATITUDE": -5.85354,
+        "LONGITUDE": 143.458569,
+        "REGHH": 37,
+        "TOTPOP2000": 189,
+        "MALE2000": 91,
+        "FEMALE2000": 98,
+        "POP2008": 237,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010222001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5362,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.46483900021974,
+          -5.851630000424109
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5362,
+        "CU_NAME": "PULUMIPAK",
+        "CU_NO": "002",
+        "GEOCODE": "08010222002",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "22",
+        "WARD_NAME": "WAIPI",
+        "LATITUDE": -5.853035,
+        "LONGITUDE": 143.46377,
+        "REGHH": 56,
+        "TOTPOP2000": 374,
+        "MALE2000": 183,
+        "FEMALE2000": 191,
+        "POP2008": 469,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010222002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5363,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4565249999289,
+          -5.848484000136466
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5363,
+        "CU_NAME": "TAKIPAK",
+        "CU_NO": "003",
+        "GEOCODE": "08010222003",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "22",
+        "WARD_NAME": "WAIPI",
+        "LATITUDE": -5.849889,
+        "LONGITUDE": 143.455456,
+        "REGHH": 27,
+        "TOTPOP2000": 166,
+        "MALE2000": 78,
+        "FEMALE2000": 88,
+        "POP2008": 209,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010222003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5364,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.44561400038583,
+          -5.84942899964858
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5364,
+        "CU_NAME": "MALAPAU",
+        "CU_NO": "004",
+        "GEOCODE": "08010222004",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "22",
+        "WARD_NAME": "WAIPI",
+        "LATITUDE": -5.849199,
+        "LONGITUDE": 143.450166,
+        "REGHH": 38,
+        "TOTPOP2000": 221,
+        "MALE2000": 107,
+        "FEMALE2000": 114,
+        "POP2008": 278,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010222004,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

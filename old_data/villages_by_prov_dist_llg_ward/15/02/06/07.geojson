@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18569,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.54017000024533,
+          -3.4556859998090204
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18569,
+        "CU_NAME": "SUMAMBUN",
+        "CU_NO": "008",
+        "GEOCODE": "15020607008",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "SUMAMBUM",
+        "LATITUDE": -3.457063,
+        "LONGITUDE": 142.539094,
+        "REGHH": 35,
+        "TOTPOP2000": 176,
+        "MALE2000": 95,
+        "FEMALE2000": 81,
+        "POP2008": 213,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020607008,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18570,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.53329000043323,
+          -3.4538729998390068
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18570,
+        "CU_NAME": "YINUNGEN",
+        "CU_NO": "019",
+        "GEOCODE": "15020607019",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "SUMAMBUM",
+        "LATITUDE": -3.455251,
+        "LONGITUDE": 142.532214,
+        "REGHH": 20,
+        "TOTPOP2000": 92,
+        "MALE2000": 54,
+        "FEMALE2000": 38,
+        "POP2008": 109,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020607019,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18571,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.52208499992287,
+          -3.422952000234602
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18571,
+        "CU_NAME": "BARKOP",
+        "CU_NO": "020",
+        "GEOCODE": "15020607020",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "SUMAMBUM",
+        "LATITUDE": -3.42433,
+        "LONGITUDE": 142.521008,
+        "REGHH": 8,
+        "TOTPOP2000": 51,
+        "MALE2000": 26,
+        "FEMALE2000": 25,
+        "POP2008": 59,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020607020,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18572,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5247830002353,
+          -3.4511480000800816
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18572,
+        "CU_NAME": "ANIPO",
+        "CU_NO": "021",
+        "GEOCODE": "15020607021",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "SUMAMBUM",
+        "LATITUDE": -3.452526,
+        "LONGITUDE": 142.523706,
+        "REGHH": 23,
+        "TOTPOP2000": 142,
+        "MALE2000": 71,
+        "FEMALE2000": 71,
+        "POP2008": 172,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020607021,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

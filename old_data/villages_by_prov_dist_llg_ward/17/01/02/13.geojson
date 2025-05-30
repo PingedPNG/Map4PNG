@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12450,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.09007000033034,
+          -2.5771369997726765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12450,
+        "CU_NAME": "VAUNGUNG",
+        "CU_NO": "002",
+        "GEOCODE": "17010213002",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "13",
+        "WARD_NAME": "KONE",
+        "LATITUDE": -2.578807,
+        "LONGITUDE": 150.088652,
+        "REGHH": 60,
+        "TOTPOP2000": 262,
+        "MALE2000": 143,
+        "FEMALE2000": 119,
+        "POP2008": 330,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010213002,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12451,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.03726499968002,
+          -2.4925179997058535
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12451,
+        "CU_NAME": "VELEWALA / KONE",
+        "CU_NO": "003",
+        "GEOCODE": "17010213003",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "13",
+        "WARD_NAME": "KONE",
+        "LATITUDE": -2.493892,
+        "LONGITUDE": 150.036289,
+        "REGHH": 30,
+        "TOTPOP2000": 171,
+        "MALE2000": 87,
+        "FEMALE2000": 84,
+        "POP2008": 215,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010213003,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12452,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.09855100022855,
+          -2.5604389995601196
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12452,
+        "CU_NAME": "VUTELUNG",
+        "CU_NO": "004",
+        "GEOCODE": "17010213004",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "13",
+        "WARD_NAME": "KONE",
+        "LATITUDE": -2.561814,
+        "LONGITUDE": 150.097576,
+        "REGHH": 35,
+        "TOTPOP2000": 218,
+        "MALE2000": 112,
+        "FEMALE2000": 106,
+        "POP2008": 273,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010213004,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12453,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.02959400026293,
+          -2.4925009998212317
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12453,
+        "CU_NAME": "METEMULAI",
+        "CU_NO": "006",
+        "GEOCODE": "17010213006",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "13",
+        "WARD_NAME": "KONE",
+        "LATITUDE": -2.493875,
+        "LONGITUDE": 150.028618,
+        "REGHH": 23,
+        "TOTPOP2000": 118,
+        "MALE2000": 58,
+        "FEMALE2000": 60,
+        "POP2008": 149,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010213006,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12454,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.05698499985795,
+          -2.5326539997822124
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12454,
+        "CU_NAME": "TUKULIOTONGO / KATANGA",
+        "CU_NO": "014",
+        "GEOCODE": "17010213014",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "13",
+        "WARD_NAME": "KONE",
+        "LATITUDE": -2.533253,
+        "LONGITUDE": 150.053844,
+        "REGHH": 32,
+        "TOTPOP2000": 164,
+        "MALE2000": 82,
+        "FEMALE2000": 82,
+        "POP2008": 206,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010213014,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12455,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.09855100022855,
+          -2.5604389995601196
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12455,
+        "CU_NAME": "TUTUILA",
+        "CU_NO": "015",
+        "GEOCODE": "17010213015",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "13",
+        "WARD_NAME": "KONE",
+        "LATITUDE": -2.561814,
+        "LONGITUDE": 150.097576,
+        "REGHH": 37,
+        "TOTPOP2000": 171,
+        "MALE2000": 93,
+        "FEMALE2000": 78,
+        "POP2008": 215,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010213015,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

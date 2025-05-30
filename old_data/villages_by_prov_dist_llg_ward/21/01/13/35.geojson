@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20457,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.37716499956514,
+          -5.986681999674488
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20457,
+        "CU_NAME": "KEME",
+        "CU_NO": "003",
+        "GEOCODE": "07041335003",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "35",
+        "WARD_NAME": "KEME",
+        "LATITUDE": -5.987681,
+        "LONGITUDE": 143.376307,
+        "REGHH": 39,
+        "TOTPOP2000": 216,
+        "MALE2000": 116,
+        "FEMALE2000": 100,
+        "POP2008": 300,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041335003,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20458,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.37568699975532,
+          -5.985116000303151
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20458,
+        "CU_NAME": "TAMULAME",
+        "CU_NO": "004",
+        "GEOCODE": "07041335004",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "35",
+        "WARD_NAME": "KEME",
+        "LATITUDE": -5.987681,
+        "LONGITUDE": 143.376307,
+        "REGHH": 23,
+        "TOTPOP2000": 122,
+        "MALE2000": 65,
+        "FEMALE2000": 57,
+        "POP2008": 170,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041335004,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20459,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.37400100024604,
+          -5.981770999831724
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20459,
+        "CU_NAME": "HUPIPI",
+        "CU_NO": "005",
+        "GEOCODE": "07041335005",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "35",
+        "WARD_NAME": "KEME",
+        "LATITUDE": -5.987681,
+        "LONGITUDE": 143.376307,
+        "REGHH": 10,
+        "TOTPOP2000": 57,
+        "MALE2000": 24,
+        "FEMALE2000": 33,
+        "POP2008": 79,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041335005,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20460,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3761379998689,
+          -5.983537000332262
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20460,
+        "CU_NAME": "ANALI",
+        "CU_NO": "006",
+        "GEOCODE": "07041335006",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "35",
+        "WARD_NAME": "KEME",
+        "LATITUDE": -5.987681,
+        "LONGITUDE": 143.376307,
+        "REGHH": 14,
+        "TOTPOP2000": 90,
+        "MALE2000": 55,
+        "FEMALE2000": 35,
+        "POP2008": 125,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041335006,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

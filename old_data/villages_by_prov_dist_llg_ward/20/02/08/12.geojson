@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 493,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.50886500011973,
+          -6.379140000010921
+        ]
+      },
+      "properties": {
+        "OBJECTID": 493,
+        "CU_NAME": "DETOSI",
+        "CU_NO": "003",
+        "GEOCODE": "20020812003",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "12",
+        "WARD_NAME": "IORO 1",
+        "LATITUDE": -6.380573,
+        "LONGITUDE": 155.507968,
+        "REGHH": 25,
+        "TOTPOP2000": 133,
+        "MALE2000": 69,
+        "FEMALE2000": 64,
+        "POP2008": 149,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020812003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 494,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.51516099998025,
+          -6.364560000343715
+        ]
+      },
+      "properties": {
+        "OBJECTID": 494,
+        "CU_NAME": "PANKA'A",
+        "CU_NO": "005",
+        "GEOCODE": "20020812005",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "12",
+        "WARD_NAME": "IORO 1",
+        "LATITUDE": -6.365993,
+        "LONGITUDE": 155.514264,
+        "REGHH": 68,
+        "TOTPOP2000": 354,
+        "MALE2000": 183,
+        "FEMALE2000": 171,
+        "POP2008": 399,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020812005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 495,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.5233750001562,
+          -6.376338000298404
+        ]
+      },
+      "properties": {
+        "OBJECTID": 495,
+        "CU_NAME": "KOUVINAU",
+        "CU_NO": "010",
+        "GEOCODE": "20020812010",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "12",
+        "WARD_NAME": "IORO 1",
+        "LATITUDE": -6.377771,
+        "LONGITUDE": 155.522478,
+        "REGHH": 24,
+        "TOTPOP2000": 106,
+        "MALE2000": 48,
+        "FEMALE2000": 58,
+        "POP2008": 122,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020812010,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.52539499977945,
+          -6.372036999807676
+        ]
+      },
+      "properties": {
+        "OBJECTID": 496,
+        "CU_NAME": "KUSIOKO",
+        "CU_NO": "011",
+        "GEOCODE": "20020812011",
+        "PROV_KEY": "20",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "12",
+        "WARD_NAME": "IORO 1",
+        "LATITUDE": -6.37347,
+        "LONGITUDE": 155.524498,
+        "REGHH": 24,
+        "TOTPOP2000": 148,
+        "MALE2000": 74,
+        "FEMALE2000": 74,
+        "POP2008": 164,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20020812011,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

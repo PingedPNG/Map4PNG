@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9732,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.38137699994866,
+          -10.313647999855277
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9732,
+        "CU_NAME": "WAEMA",
+        "CU_NO": "013",
+        "GEOCODE": "05010513013",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "13",
+        "WARD_NAME": "WAEMA",
+        "LATITUDE": -10.315116,
+        "LONGITUDE": 150.380391,
+        "REGHH": 192,
+        "TOTPOP2000": 1023,
+        "MALE2000": 526,
+        "FEMALE2000": 497,
+        "POP2008": 1247,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010513013,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

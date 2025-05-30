@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9272,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.46081100022752,
+          -5.396566999867105
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9272,
+        "CU_NAME": "ENSORU",
+        "CU_NO": "010",
+        "GEOCODE": "13061624010",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "24",
+        "WARD_NAME": "KOINEGUL",
+        "LATITUDE": -5.397971,
+        "LONGITUDE": 145.459769,
+        "REGHH": 12,
+        "TOTPOP2000": 77,
+        "MALE2000": 41,
+        "FEMALE2000": 36,
+        "POP2008": 93,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061624010,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9273,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.45288499984292,
+          -5.395367000286797
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9273,
+        "CU_NAME": "SAI",
+        "CU_NO": "018",
+        "GEOCODE": "13061624018",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "24",
+        "WARD_NAME": "KOINEGUL",
+        "LATITUDE": -5.392783,
+        "LONGITUDE": 145.455478,
+        "REGHH": 18,
+        "TOTPOP2000": 112,
+        "MALE2000": 58,
+        "FEMALE2000": 54,
+        "POP2008": 138,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061624018,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9274,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4359270002309,
+          -5.402285000052643
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9274,
+        "CU_NAME": "URIRAI",
+        "CU_NO": "020",
+        "GEOCODE": "13061624020",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "24",
+        "WARD_NAME": "KOINEGUL",
+        "LATITUDE": -5.403689,
+        "LONGITUDE": 145.434884,
+        "REGHH": 22,
+        "TOTPOP2000": 155,
+        "MALE2000": 73,
+        "FEMALE2000": 82,
+        "POP2008": 192,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061624020,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9275,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.44717600007243,
+          -5.386997000111421
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9275,
+        "CU_NAME": "KONENGUL",
+        "CU_NO": "021",
+        "GEOCODE": "13061624021",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "24",
+        "WARD_NAME": "KOINEGUL",
+        "LATITUDE": -5.388401,
+        "LONGITUDE": 145.446134,
+        "REGHH": 12,
+        "TOTPOP2000": 94,
+        "MALE2000": 48,
+        "FEMALE2000": 46,
+        "POP2008": 118,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061624021,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

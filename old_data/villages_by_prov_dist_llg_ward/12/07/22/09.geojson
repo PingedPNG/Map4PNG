@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12035,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.09368100037796,
+          -7.199087000064935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12035,
+        "CU_NAME": "HAZOI",
+        "CU_NO": "014",
+        "GEOCODE": "12072209014",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "09",
+        "WARD_NAME": "MABUKAPU",
+        "LATITUDE": -7.200511,
+        "LONGITUDE": 146.092643,
+        "REGHH": 74,
+        "TOTPOP2000": 336,
+        "MALE2000": 168,
+        "FEMALE2000": 168,
+        "POP2008": 419,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072209014,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12036,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0854799999022,
+          -7.199930000269262
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12036,
+        "CU_NAME": "HETKOTA",
+        "CU_NO": "015",
+        "GEOCODE": "12072209015",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "09",
+        "WARD_NAME": "MABUKAPU",
+        "LATITUDE": -7.201354,
+        "LONGITUDE": 146.084442,
+        "REGHH": 64,
+        "TOTPOP2000": 305,
+        "MALE2000": 154,
+        "FEMALE2000": 151,
+        "POP2008": 381,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072209015,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12037,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.10526500037952,
+          -7.187029999834579
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12037,
+        "CU_NAME": "MABUKAPU",
+        "CU_NO": "016",
+        "GEOCODE": "12072209016",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "09",
+        "WARD_NAME": "MABUKAPU",
+        "LATITUDE": -7.188454,
+        "LONGITUDE": 146.104228,
+        "REGHH": 24,
+        "TOTPOP2000": 132,
+        "MALE2000": 73,
+        "FEMALE2000": 59,
+        "POP2008": 164,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072209016,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17989,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1819620001462,
+          -4.884799999620213
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17989,
+        "CU_NAME": "POIPOI",
+        "CU_NO": "012",
+        "GEOCODE": "19020605012",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "LOLOBAU",
+        "LATITUDE": -4.88587,
+        "LONGITUDE": 151.181,
+        "REGHH": 19,
+        "TOTPOP2000": 97,
+        "MALE2000": 55,
+        "FEMALE2000": 42,
+        "POP2008": 127,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020605012,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17990,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.13176200001635,
+          -4.931267000271816
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17990,
+        "CU_NAME": "POTOU",
+        "CU_NO": "013",
+        "GEOCODE": "19020605013",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "LOLOBAU",
+        "LATITUDE": -4.930263,
+        "LONGITUDE": 151.130807,
+        "REGHH": 72,
+        "TOTPOP2000": 449,
+        "MALE2000": 243,
+        "FEMALE2000": 206,
+        "POP2008": 591,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020605013,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17991,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.22481300041966,
+          -4.932745000081638
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17991,
+        "CU_NAME": "AU-AULU",
+        "CU_NO": "015",
+        "GEOCODE": "19020605015",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "LOLOBAU",
+        "LATITUDE": -4.934152,
+        "LONGITUDE": 151.223852,
+        "REGHH": 6,
+        "TOTPOP2000": 37,
+        "MALE2000": 22,
+        "FEMALE2000": 15,
+        "POP2008": 47,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020605015,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17992,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20781399981627,
+          -4.945923999892614
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17992,
+        "CU_NAME": "VILUVILU",
+        "CU_NO": "024",
+        "GEOCODE": "19020605024",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "LOLOBAU",
+        "LATITUDE": -4.947331,
+        "LONGITUDE": 151.206853,
+        "REGHH": 19,
+        "TOTPOP2000": 88,
+        "MALE2000": 50,
+        "FEMALE2000": 38,
+        "POP2008": 115,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020605024,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17993,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.12510899988047,
+          -4.924355999929389
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17993,
+        "CU_NAME": "LOLOBAU PLANTATION",
+        "CU_NO": "505",
+        "GEOCODE": "19020605505",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "LOLOBAU",
+        "LATITUDE": -4.925763,
+        "LONGITUDE": 151.124147,
+        "REGHH": 35,
+        "TOTPOP2000": 86,
+        "MALE2000": 58,
+        "FEMALE2000": 28,
+        "POP2008": 113,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020605505,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

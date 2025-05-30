@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12061,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.57521425103687,
+          -6.745461128728039
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12061,
+        "CU_NAME": "TAMIGIDU",
+        "CU_NO": "012",
+        "GEOCODE": "12082301012",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "23",
+        "WARD_NO": "01",
+        "WARD_NAME": "TAMIGIDU",
+        "LATITUDE": -6.745282,
+        "LONGITUDE": 147.573935,
+        "REGHH": 113,
+        "TOTPOP2000": 567,
+        "MALE2000": 261,
+        "FEMALE2000": 306,
+        "POP2008": 707,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082301012,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12062,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.57344600043268,
+          -6.7138419998083805
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12062,
+        "CU_NAME": "OLOGIDU",
+        "CU_NO": "014",
+        "GEOCODE": "12082301014",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "23",
+        "WARD_NO": "01",
+        "WARD_NAME": "TAMIGIDU",
+        "LATITUDE": -6.715264,
+        "LONGITUDE": 147.57243,
+        "REGHH": 65,
+        "TOTPOP2000": 317,
+        "MALE2000": 168,
+        "FEMALE2000": 149,
+        "POP2008": 395,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082301014,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18658,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.26465999975926,
+          -3.5411950004488517
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18658,
+        "CU_NAME": "NINGIL 1",
+        "CU_NO": "010",
+        "GEOCODE": "15020720010",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "20",
+        "WARD_NAME": "NINGIL",
+        "LATITUDE": -3.539731,
+        "LONGITUDE": 142.257903,
+        "REGHH": 169,
+        "TOTPOP2000": 919,
+        "MALE2000": 436,
+        "FEMALE2000": 483,
+        "POP2008": 1111,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020720010,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18659,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.25879299989708,
+          -3.531444999586995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18659,
+        "CU_NAME": "NINGIL C/MISS",
+        "CU_NO": "401",
+        "GEOCODE": "15020720401",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "20",
+        "WARD_NAME": "NINGIL",
+        "LATITUDE": -3.537956,
+        "LONGITUDE": 142.256586,
+        "REGHH": 6,
+        "TOTPOP2000": 33,
+        "MALE2000": 14,
+        "FEMALE2000": 19,
+        "POP2008": 41,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020720401,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

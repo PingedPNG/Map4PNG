@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7321,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.39383899957022,
+          -3.859946000307616
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7321,
+        "CU_NAME": "BIMA 1",
+        "CU_NO": "004",
+        "GEOCODE": "14062509004",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "25",
+        "WARD_NO": "09",
+        "WARD_NAME": "MINDOGUM",
+        "LATITUDE": -3.865079,
+        "LONGITUDE": 143.390597,
+        "REGHH": 44,
+        "TOTPOP2000": 179,
+        "MALE2000": 83,
+        "FEMALE2000": 96,
+        "POP2008": 212,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062509004,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7322,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.44671699998958,
+          -3.868711999858874
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7322,
+        "CU_NAME": "MINDOGUM",
+        "CU_NO": "022",
+        "GEOCODE": "14062509022",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "25",
+        "WARD_NO": "09",
+        "WARD_NAME": "MINDOGUM",
+        "LATITUDE": -3.863981,
+        "LONGITUDE": 143.447784,
+        "REGHH": 29,
+        "TOTPOP2000": 134,
+        "MALE2000": 73,
+        "FEMALE2000": 61,
+        "POP2008": 158,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062509022,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7323,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.40718699998013,
+          -3.893527000270808
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7323,
+        "CU_NAME": "BIMA 2",
+        "CU_NO": "050",
+        "GEOCODE": "14062509050",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "25",
+        "WARD_NO": "09",
+        "WARD_NAME": "MINDOGUM",
+        "LATITUDE": -3.895108,
+        "LONGITUDE": 143.405952,
+        "REGHH": 35,
+        "TOTPOP2000": 162,
+        "MALE2000": 77,
+        "FEMALE2000": 85,
+        "POP2008": 194,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062509050,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.40464599971313,
+          -3.880777999604959
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7324,
+        "CU_NAME": "BIMA 3",
+        "CU_NO": "053",
+        "GEOCODE": "14062509053",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "25",
+        "WARD_NO": "09",
+        "WARD_NAME": "MINDOGUM",
+        "LATITUDE": -3.882359,
+        "LONGITUDE": 143.403411,
+        "REGHH": 25,
+        "TOTPOP2000": 105,
+        "MALE2000": 54,
+        "FEMALE2000": 51,
+        "POP2008": 124,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062509053,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

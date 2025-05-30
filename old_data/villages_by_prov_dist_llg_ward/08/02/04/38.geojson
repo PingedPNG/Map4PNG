@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5523,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0517770001086,
+          -5.309809000085238
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5523,
+        "CU_NAME": "MAKALE",
+        "CU_NO": "001",
+        "GEOCODE": "08020438001",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "38",
+        "WARD_NAME": "MAKALE",
+        "LATITUDE": -5.311208,
+        "LONGITUDE": 144.050717,
+        "REGHH": 29,
+        "TOTPOP2000": 169,
+        "MALE2000": 85,
+        "FEMALE2000": 84,
+        "POP2008": 212,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020438001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5524,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.056604999721,
+          -5.298233999599347
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5524,
+        "CU_NAME": "PARAKALAM",
+        "CU_NO": "002",
+        "GEOCODE": "08020438002",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "38",
+        "WARD_NAME": "MAKALE",
+        "LATITUDE": -5.287977,
+        "LONGITUDE": 144.059946,
+        "REGHH": 33,
+        "TOTPOP2000": 175,
+        "MALE2000": 97,
+        "FEMALE2000": 78,
+        "POP2008": 220,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020438002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

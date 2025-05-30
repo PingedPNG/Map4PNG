@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20254,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82456699956742,
+          -6.089086999765186
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20254,
+        "CU_NAME": "PAMI",
+        "CU_NO": "001",
+        "GEOCODE": "07041205001",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "PAMI",
+        "LATITUDE": -6.093987,
+        "LONGITUDE": 142.825486,
+        "REGHH": 60,
+        "TOTPOP2000": 316,
+        "MALE2000": 156,
+        "FEMALE2000": 160,
+        "POP2008": 439,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041205001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20255,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.82750400010957,
+          -6.086451999660028
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20255,
+        "CU_NAME": "BAYA",
+        "CU_NO": "002",
+        "GEOCODE": "07041205002",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "PAMI",
+        "LATITUDE": -6.093987,
+        "LONGITUDE": 142.825486,
+        "REGHH": 29,
+        "TOTPOP2000": 124,
+        "MALE2000": 66,
+        "FEMALE2000": 58,
+        "POP2008": 172,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041205002,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

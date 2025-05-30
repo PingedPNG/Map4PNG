@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4518,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.73710899988055,
+          -4.655770000385189
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4518,
+        "CU_NAME": "MOBILIM",
+        "CU_NO": "026",
+        "GEOCODE": "18010302026",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "MOBILIM",
+        "LATITUDE": -4.657174,
+        "LONGITUDE": 151.736156,
+        "REGHH": 29,
+        "TOTPOP2000": 175,
+        "MALE2000": 98,
+        "FEMALE2000": 77,
+        "POP2008": 213,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010302026,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4519,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.68577399957053,
+          -4.709506999948019
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4519,
+        "CU_NAME": "TORIU PLANTATION",
+        "CU_NO": "528",
+        "GEOCODE": "18010302528",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "MOBILIM",
+        "LATITUDE": -4.710912,
+        "LONGITUDE": 151.68482,
+        "REGHH": 6,
+        "TOTPOP2000": 32,
+        "MALE2000": 20,
+        "FEMALE2000": 12,
+        "POP2008": 40,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010302528,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

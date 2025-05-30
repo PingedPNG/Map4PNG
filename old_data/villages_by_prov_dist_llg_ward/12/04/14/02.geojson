@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8044479999753,
+          -6.134981000073026
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11260,
+        "CU_NAME": "MUP",
+        "CU_NO": "009",
+        "GEOCODE": "12041402009",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "02",
+        "WARD_NAME": "SUGAN",
+        "LATITUDE": -6.136395,
+        "LONGITUDE": 146.803422,
+        "REGHH": 35,
+        "TOTPOP2000": 217,
+        "MALE2000": 115,
+        "FEMALE2000": 102,
+        "POP2008": 270,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041402009,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.75203000008446,
+          -6.111402000002272
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11261,
+        "CU_NAME": "SINDAMON",
+        "CU_NO": "011",
+        "GEOCODE": "12041402011",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "02",
+        "WARD_NAME": "SUGAN",
+        "LATITUDE": -6.112816,
+        "LONGITUDE": 146.751004,
+        "REGHH": 22,
+        "TOTPOP2000": 89,
+        "MALE2000": 43,
+        "FEMALE2000": 46,
+        "POP2008": 112,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041402011,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.78756900040912,
+          -6.093937000392202
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11262,
+        "CU_NAME": "SUGAN",
+        "CU_NO": "012",
+        "GEOCODE": "12041402012",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "02",
+        "WARD_NAME": "SUGAN",
+        "LATITUDE": -6.0985,
+        "LONGITUDE": 146.782501,
+        "REGHH": 33,
+        "TOTPOP2000": 163,
+        "MALE2000": 91,
+        "FEMALE2000": 72,
+        "POP2008": 204,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041402012,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8509759998426,
+          -6.155643999670815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11263,
+        "CU_NAME": "BOIT",
+        "CU_NO": "013",
+        "GEOCODE": "12041402013",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "02",
+        "WARD_NAME": "SUGAN",
+        "LATITUDE": -6.157059,
+        "LONGITUDE": 146.849951,
+        "REGHH": 10,
+        "TOTPOP2000": 53,
+        "MALE2000": 23,
+        "FEMALE2000": 30,
+        "POP2008": 68,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041402013,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

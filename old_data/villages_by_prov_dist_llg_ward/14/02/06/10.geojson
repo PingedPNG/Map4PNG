@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6353,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.58035200044458,
+          -4.753816000008328
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6353,
+        "CU_NAME": "AWIM",
+        "CU_NO": "002",
+        "GEOCODE": "14020610002",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "10",
+        "WARD_NAME": "AWIM",
+        "LATITUDE": -4.753283,
+        "LONGITUDE": 143.580166,
+        "REGHH": 23,
+        "TOTPOP2000": 142,
+        "MALE2000": 79,
+        "FEMALE2000": 63,
+        "POP2008": 168,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020610002,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6354,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.56507400006512,
+          -4.725937000392207
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6354,
+        "CU_NAME": "WAMBRUMAS",
+        "CU_NO": "006",
+        "GEOCODE": "14020610006",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "10",
+        "WARD_NAME": "AWIM",
+        "LATITUDE": -4.726468,
+        "LONGITUDE": 143.564188,
+        "REGHH": 12,
+        "TOTPOP2000": 66,
+        "MALE2000": 35,
+        "FEMALE2000": 31,
+        "POP2008": 79,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020610006,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

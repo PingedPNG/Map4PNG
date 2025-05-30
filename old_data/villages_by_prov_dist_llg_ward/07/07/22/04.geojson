@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21153,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.52746399956402,
+          -6.5009760004419945
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21153,
+        "CU_NAME": "IRAKAI (ASUMU)",
+        "CU_NO": "016",
+        "GEOCODE": "07072204016",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "04",
+        "WARD_NAME": "IRAKAI",
+        "LATITUDE": -6.503784,
+        "LONGITUDE": 143.529533,
+        "REGHH": 13,
+        "TOTPOP2000": 53,
+        "MALE2000": 24,
+        "FEMALE2000": 29,
+        "POP2008": 73,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072204016,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21154,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.54241300005992,
+          -6.493788999962305
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21154,
+        "CU_NAME": "OROKANA",
+        "CU_NO": "017",
+        "GEOCODE": "07072204017",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "04",
+        "WARD_NAME": "IRAKAI",
+        "LATITUDE": -6.503784,
+        "LONGITUDE": 143.529533,
+        "REGHH": 12,
+        "TOTPOP2000": 93,
+        "MALE2000": 49,
+        "FEMALE2000": 44,
+        "POP2008": 129,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072204017,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.53330299993354,
+          -6.497283000110315
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21155,
+        "CU_NAME": "MAGI",
+        "CU_NO": "018",
+        "GEOCODE": "07072204018",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "04",
+        "WARD_NAME": "IRAKAI",
+        "LATITUDE": -6.503784,
+        "LONGITUDE": 143.529533,
+        "REGHH": 28,
+        "TOTPOP2000": 178,
+        "MALE2000": 89,
+        "FEMALE2000": 89,
+        "POP2008": 247,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072204018,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.52661800012072,
+          -6.494081999984246
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21156,
+        "CU_NAME": "ERA'VE",
+        "CU_NO": "019",
+        "GEOCODE": "07072204019",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "04",
+        "WARD_NAME": "IRAKAI",
+        "LATITUDE": -6.503784,
+        "LONGITUDE": 143.529533,
+        "REGHH": 19,
+        "TOTPOP2000": 99,
+        "MALE2000": 50,
+        "FEMALE2000": 49,
+        "POP2008": 137,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072204019,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21157,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.52929100017957,
+          -6.506229999914524
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21157,
+        "CU_NAME": "KAWAMA",
+        "CU_NO": "020",
+        "GEOCODE": "07072204020",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "04",
+        "WARD_NAME": "IRAKAI",
+        "LATITUDE": -6.503784,
+        "LONGITUDE": 143.529533,
+        "REGHH": 27,
+        "TOTPOP2000": 142,
+        "MALE2000": 71,
+        "FEMALE2000": 71,
+        "POP2008": 197,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072204020,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

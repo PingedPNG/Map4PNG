@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14658,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.09484700038877,
+          -5.882177999914745
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14658,
+        "CU_NAME": "GRUNIGLE/GAGAMSTNIGLE",
+        "CU_NO": "003",
+        "GEOCODE": "10051408003",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "08",
+        "WARD_NAME": "INAUGL 2",
+        "LATITUDE": -5.883586,
+        "LONGITUDE": 145.093799,
+        "REGHH": 53,
+        "TOTPOP2000": 208,
+        "MALE2000": 113,
+        "FEMALE2000": 95,
+        "POP2008": 240,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051408003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14659,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0995620001862,
+          -5.878340000090873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14659,
+        "CU_NAME": "BOPLAI",
+        "CU_NO": "004",
+        "GEOCODE": "10051408004",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "08",
+        "WARD_NAME": "INAUGL 2",
+        "LATITUDE": -5.879748,
+        "LONGITUDE": 145.098514,
+        "REGHH": 24,
+        "TOTPOP2000": 117,
+        "MALE2000": 59,
+        "FEMALE2000": 58,
+        "POP2008": 133,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051408004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14660,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.11817999990717,
+          -5.856868000058114
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14660,
+        "CU_NAME": "MINMUGLO",
+        "CU_NO": "005",
+        "GEOCODE": "10051408005",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "08",
+        "WARD_NAME": "INAUGL 2",
+        "LATITUDE": -5.858291,
+        "LONGITUDE": 145.121765,
+        "REGHH": 41,
+        "TOTPOP2000": 200,
+        "MALE2000": 99,
+        "FEMALE2000": 101,
+        "POP2008": 232,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051408005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14661,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.08939900006385,
+          -5.884281999814391
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14661,
+        "CU_NAME": "GEMBOGL STN",
+        "CU_NO": "501",
+        "GEOCODE": "10051408501",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "08",
+        "WARD_NAME": "INAUGL 2",
+        "LATITUDE": -5.884998,
+        "LONGITUDE": 145.088181,
+        "REGHH": 22,
+        "TOTPOP2000": 109,
+        "MALE2000": 60,
+        "FEMALE2000": 49,
+        "POP2008": 125,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051408501,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

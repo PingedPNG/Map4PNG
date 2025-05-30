@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6035,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6418510002236,
+          -4.234501999767417
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6035,
+        "CU_NAME": "BAKU",
+        "CU_NO": "010",
+        "GEOCODE": "14010121010",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "BAKU",
+        "LATITUDE": -4.236086,
+        "LONGITUDE": 142.640606,
+        "REGHH": 45,
+        "TOTPOP2000": 237,
+        "MALE2000": 113,
+        "FEMALE2000": 124,
+        "POP2008": 282,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010121010,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6036,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.63567399955548,
+          -4.22653500019004
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6036,
+        "CU_NAME": "KUMBAWE",
+        "CU_NO": "011",
+        "GEOCODE": "14010121011",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "21",
+        "WARD_NAME": "BAKU",
+        "LATITUDE": -4.228119,
+        "LONGITUDE": 142.634429,
+        "REGHH": 28,
+        "TOTPOP2000": 154,
+        "MALE2000": 87,
+        "FEMALE2000": 67,
+        "POP2008": 184,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010121011,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

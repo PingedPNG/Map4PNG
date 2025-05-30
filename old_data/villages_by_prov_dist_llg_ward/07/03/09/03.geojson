@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19863,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.86437899979103,
+          -6.39384400000057
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19863,
+        "CU_NAME": "KAGUA STATION",
+        "CU_NO": "401",
+        "GEOCODE": "07030903401",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KAGUA STATION",
+        "LATITUDE": -6.398936,
+        "LONGITUDE": 143.857681,
+        "REGHH": 68,
+        "TOTPOP2000": 432,
+        "MALE2000": 217,
+        "FEMALE2000": 215,
+        "POP2008": 600,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030903401,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19864,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.85388999992358,
+          -6.3909440002653355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19864,
+        "CU_NAME": "KARIA CATH.MSSN",
+        "CU_NO": "402",
+        "GEOCODE": "07030903402",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KAGUA STATION",
+        "LATITUDE": -6.398937,
+        "LONGITUDE": 143.857682,
+        "REGHH": 15,
+        "TOTPOP2000": 81,
+        "MALE2000": 26,
+        "FEMALE2000": 55,
+        "POP2008": 113,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030903402,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19865,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8635930004167,
+          -6.397078999895882
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19865,
+        "CU_NAME": "KAGUA HIGH SCH",
+        "CU_NO": "403",
+        "GEOCODE": "07030903403",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "03",
+        "WARD_NAME": "KAGUA STATION",
+        "LATITUDE": -6.398938,
+        "LONGITUDE": 143.857683,
+        "REGHH": 15,
+        "TOTPOP2000": 162,
+        "MALE2000": 107,
+        "FEMALE2000": 55,
+        "POP2008": 225,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030903403,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

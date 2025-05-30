@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8754,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5113020000873,
+          -5.713084000126457
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8754,
+        "CU_NAME": "BAGEN",
+        "CU_NO": "001",
+        "GEOCODE": "13041206001",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "WARD 6",
+        "LATITUDE": -5.713054,
+        "LONGITUDE": 146.5164,
+        "REGHH": 58,
+        "TOTPOP2000": 317,
+        "MALE2000": 156,
+        "FEMALE2000": 161,
+        "POP2008": 393,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041206001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.51327900042554,
+          -5.7378449998468
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8755,
+        "CU_NAME": "DELBANGAT",
+        "CU_NO": "008",
+        "GEOCODE": "13041206008",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "WARD 6",
+        "LATITUDE": -5.734204,
+        "LONGITUDE": 146.516579,
+        "REGHH": 24,
+        "TOTPOP2000": 97,
+        "MALE2000": 41,
+        "FEMALE2000": 56,
+        "POP2008": 121,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041206008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8756,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.54540399979487,
+          -5.722517999905733
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8756,
+        "CU_NAME": "FAIGURUP",
+        "CU_NO": "009",
+        "GEOCODE": "13041206009",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "WARD 6",
+        "LATITUDE": -5.718515,
+        "LONGITUDE": 146.548524,
+        "REGHH": 45,
+        "TOTPOP2000": 199,
+        "MALE2000": 111,
+        "FEMALE2000": 88,
+        "POP2008": 246,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041206009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8757,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.55844999976773,
+          -5.714259000352513
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8757,
+        "CU_NAME": "MAMGAK",
+        "CU_NO": "022",
+        "GEOCODE": "13041206022",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "WARD 6",
+        "LATITUDE": -5.716928,
+        "LONGITUDE": 146.553458,
+        "REGHH": 47,
+        "TOTPOP2000": 283,
+        "MALE2000": 143,
+        "FEMALE2000": 140,
+        "POP2008": 351,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041206022,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8758,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.52091954250295,
+          -5.6956202559699705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8758,
+        "CU_NAME": "SUBURA",
+        "CU_NO": "033",
+        "GEOCODE": "13041206033",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "WARD 6",
+        "LATITUDE": -5.701693,
+        "LONGITUDE": 146.524935,
+        "REGHH": 44,
+        "TOTPOP2000": 266,
+        "MALE2000": 137,
+        "FEMALE2000": 129,
+        "POP2008": 329,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041206033,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.8824550001982,
+          -5.571841999608523
+        ]
+      },
+      "properties": {
+        "OBJECTID": 142,
+        "CU_NAME": "TATAKUTS",
+        "CU_NO": "001",
+        "GEOCODE": "20010306001",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "SUIR INLAND",
+        "LATITUDE": -5.573263,
+        "LONGITUDE": 154.881549,
+        "REGHH": 24,
+        "TOTPOP2000": 133,
+        "MALE2000": 71,
+        "FEMALE2000": 62,
+        "POP2008": 149,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010306001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.94034899990652,
+          -5.566079000045761
+        ]
+      },
+      "properties": {
+        "OBJECTID": 143,
+        "CU_NAME": "ARAVIA",
+        "CU_NO": "002",
+        "GEOCODE": "20010306002",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "SUIR INLAND",
+        "LATITUDE": -5.5675,
+        "LONGITUDE": 154.939444,
+        "REGHH": 73,
+        "TOTPOP2000": 370,
+        "MALE2000": 187,
+        "FEMALE2000": 183,
+        "POP2008": 418,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010306002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.93981799970095,
+          -5.566910999742788
+        ]
+      },
+      "properties": {
+        "OBJECTID": 144,
+        "CU_NAME": "NAMKERIO",
+        "CU_NO": "003",
+        "GEOCODE": "20010306003",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "SUIR INLAND",
+        "LATITUDE": -5.568332,
+        "LONGITUDE": 154.938913,
+        "REGHH": 68,
+        "TOTPOP2000": 379,
+        "MALE2000": 183,
+        "FEMALE2000": 196,
+        "POP2008": 427,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010306003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.88229500001432,
+          -5.615799999670173
+        ]
+      },
+      "properties": {
+        "OBJECTID": 145,
+        "CU_NAME": "TSITSIKO",
+        "CU_NO": "004",
+        "GEOCODE": "20010306004",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "SUIR INLAND",
+        "LATITUDE": -5.617222,
+        "LONGITUDE": 154.881389,
+        "REGHH": 21,
+        "TOTPOP2000": 116,
+        "MALE2000": 59,
+        "FEMALE2000": 57,
+        "POP2008": 132,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010306004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.88088599978914,
+          -5.6193919998409
+        ]
+      },
+      "properties": {
+        "OBJECTID": 146,
+        "CU_NAME": "ROMSIS",
+        "CU_NO": "005",
+        "GEOCODE": "20010306005",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "SUIR INLAND",
+        "LATITUDE": -5.620814,
+        "LONGITUDE": 154.87998,
+        "REGHH": 121,
+        "TOTPOP2000": 599,
+        "MALE2000": 314,
+        "FEMALE2000": 285,
+        "POP2008": 675,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010306005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.91896100015015,
+          -5.585800000269728
+        ]
+      },
+      "properties": {
+        "OBJECTID": 147,
+        "CU_NAME": "VAKUGO",
+        "CU_NO": "006",
+        "GEOCODE": "20010306006",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "SUIR INLAND",
+        "LATITUDE": -5.587222,
+        "LONGITUDE": 154.918056,
+        "REGHH": 53,
+        "TOTPOP2000": 245,
+        "MALE2000": 132,
+        "FEMALE2000": 113,
+        "POP2008": 277,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010306006,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.9394050004405,
+          -5.619054000441736
+        ]
+      },
+      "properties": {
+        "OBJECTID": 148,
+        "CU_NAME": "VOEPOAH",
+        "CU_NO": "007",
+        "GEOCODE": "20010306007",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "SUIR INLAND",
+        "LATITUDE": -5.620476,
+        "LONGITUDE": 154.9385,
+        "REGHH": 50,
+        "TOTPOP2000": 284,
+        "MALE2000": 161,
+        "FEMALE2000": 123,
+        "POP2008": 319,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010306007,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 149,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.88585699970088,
+          -5.699895999900434
+        ]
+      },
+      "properties": {
+        "OBJECTID": 149,
+        "CU_NAME": "MELALUP",
+        "CU_NO": "008",
+        "GEOCODE": "20010306008",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "SUIR INLAND",
+        "LATITUDE": -5.705278,
+        "LONGITUDE": 154.886944,
+        "REGHH": 55,
+        "TOTPOP2000": 267,
+        "MALE2000": 127,
+        "FEMALE2000": 140,
+        "POP2008": 299,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010306008,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.9117809999932,
+          -5.637213999726271
+        ]
+      },
+      "properties": {
+        "OBJECTID": 150,
+        "CU_NAME": "TAPATE",
+        "CU_NO": "009",
+        "GEOCODE": "20010306009",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "SUIR INLAND",
+        "LATITUDE": -5.651309,
+        "LONGITUDE": 154.916064,
+        "REGHH": 48,
+        "TOTPOP2000": 252,
+        "MALE2000": 133,
+        "FEMALE2000": 119,
+        "POP2008": 284,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010306009,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 151,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.84372200007033,
+          -5.545655999824476
+        ]
+      },
+      "properties": {
+        "OBJECTID": 151,
+        "CU_NAME": "ESTOSIA C/SCHOOL",
+        "CU_NO": "402",
+        "GEOCODE": "20010306402",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "SUIR INLAND",
+        "LATITUDE": -5.538889,
+        "LONGITUDE": 154.849722,
+        "REGHH": 4,
+        "TOTPOP2000": 20,
+        "MALE2000": 11,
+        "FEMALE2000": 9,
+        "POP2008": 20,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010306402,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

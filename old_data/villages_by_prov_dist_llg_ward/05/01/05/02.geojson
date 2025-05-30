@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9703,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6822209995995,
+          -10.321326999641258
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9703,
+        "CU_NAME": "DIVINAI",
+        "CU_NO": "004",
+        "GEOCODE": "05010502004",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "02",
+        "WARD_NAME": "DIVINAI",
+        "LATITUDE": -10.323165,
+        "LONGITUDE": 150.680289,
+        "REGHH": 103,
+        "TOTPOP2000": 566,
+        "MALE2000": 302,
+        "FEMALE2000": 264,
+        "POP2008": 690,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010502004,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9704,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.68131500008724,
+          -10.316852000119638
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9704,
+        "CU_NAME": "DIVINAI P/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "05010502401",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "02",
+        "WARD_NAME": "DIVINAI",
+        "LATITUDE": -10.318321,
+        "LONGITUDE": 150.680334,
+        "REGHH": 5,
+        "TOTPOP2000": 15,
+        "MALE2000": 8,
+        "FEMALE2000": 7,
+        "POP2008": 15,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010502401,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

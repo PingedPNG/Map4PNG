@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19001,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1463949996296,
+          -4.102307000067924
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19001,
+        "CU_NAME": "SOKMAYON (ISU)",
+        "CU_NO": "009",
+        "GEOCODE": "15041418009",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "18",
+        "WARD_NAME": "SOKMAYON",
+        "LATITUDE": -4.096152,
+        "LONGITUDE": 141.136852,
+        "REGHH": 27,
+        "TOTPOP2000": 258,
+        "MALE2000": 130,
+        "FEMALE2000": 128,
+        "POP2008": 311,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041418009,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

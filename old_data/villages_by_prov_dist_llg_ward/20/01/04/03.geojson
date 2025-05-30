@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 158,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.6960020002922,
+          -5.278262000390953
+        ]
+      },
+      "properties": {
+        "OBJECTID": 158,
+        "CU_NAME": "SING",
+        "CU_NO": "001",
+        "GEOCODE": "20010403001",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "HAGOGOHE",
+        "LATITUDE": -5.279679,
+        "LONGITUDE": 154.695094,
+        "REGHH": 133,
+        "TOTPOP2000": 873,
+        "MALE2000": 449,
+        "FEMALE2000": 424,
+        "POP2008": 983,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010403001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.70611399986126,
+          -5.250818000150559
+        ]
+      },
+      "properties": {
+        "OBJECTID": 159,
+        "CU_NAME": "POPOSOKO",
+        "CU_NO": "002",
+        "GEOCODE": "20010403002",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "HAGOGOHE",
+        "LATITUDE": -5.252235,
+        "LONGITUDE": 154.705206,
+        "REGHH": 58,
+        "TOTPOP2000": 379,
+        "MALE2000": 188,
+        "FEMALE2000": 191,
+        "POP2008": 427,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010403002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 160,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.70669100038947,
+          -5.237820999739313
+        ]
+      },
+      "properties": {
+        "OBJECTID": 160,
+        "CU_NAME": "SUHIN",
+        "CU_NO": "003",
+        "GEOCODE": "20010403003",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "HAGOGOHE",
+        "LATITUDE": -5.239237,
+        "LONGITUDE": 154.705783,
+        "REGHH": 122,
+        "TOTPOP2000": 776,
+        "MALE2000": 402,
+        "FEMALE2000": 374,
+        "POP2008": 875,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010403003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 161,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.70825000033733,
+          -5.225602000132142
+        ]
+      },
+      "properties": {
+        "OBJECTID": 161,
+        "CU_NAME": "GOGOHE 1",
+        "CU_NO": "004",
+        "GEOCODE": "20010403004",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "HAGOGOHE",
+        "LATITUDE": -5.227018,
+        "LONGITUDE": 154.707342,
+        "REGHH": 84,
+        "TOTPOP2000": 635,
+        "MALE2000": 325,
+        "FEMALE2000": 310,
+        "POP2008": 716,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010403004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 162,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.70792099955452,
+          -5.214645000266501
+        ]
+      },
+      "properties": {
+        "OBJECTID": 162,
+        "CU_NAME": "GOGOHE 2",
+        "CU_NO": "005",
+        "GEOCODE": "20010403005",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "HAGOGOHE",
+        "LATITUDE": -5.216061,
+        "LONGITUDE": 154.707013,
+        "REGHH": 92,
+        "TOTPOP2000": 552,
+        "MALE2000": 283,
+        "FEMALE2000": 269,
+        "POP2008": 622,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010403005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 163,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.70969599957084,
+          -5.205091000349341
+        ]
+      },
+      "properties": {
+        "OBJECTID": 163,
+        "CU_NAME": "TAHETAHE",
+        "CU_NO": "006",
+        "GEOCODE": "20010403006",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "HAGOGOHE",
+        "LATITUDE": -5.206507,
+        "LONGITUDE": 154.708788,
+        "REGHH": 109,
+        "TOTPOP2000": 625,
+        "MALE2000": 301,
+        "FEMALE2000": 324,
+        "POP2008": 704,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010403006,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 164,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.71027500019113,
+          -5.19148899991734
+        ]
+      },
+      "properties": {
+        "OBJECTID": 164,
+        "CU_NAME": "SALASA",
+        "CU_NO": "007",
+        "GEOCODE": "20010403007",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "HAGOGOHE",
+        "LATITUDE": -5.192905,
+        "LONGITUDE": 154.709367,
+        "REGHH": 37,
+        "TOTPOP2000": 241,
+        "MALE2000": 125,
+        "FEMALE2000": 116,
+        "POP2008": 273,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010403007,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.71007399991527,
+          -5.199729000393006
+        ]
+      },
+      "properties": {
+        "OBJECTID": 165,
+        "CU_NAME": "MALIS",
+        "CU_NO": "008",
+        "GEOCODE": "20010403008",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "HAGOGOHE",
+        "LATITUDE": -5.201145,
+        "LONGITUDE": 154.709166,
+        "REGHH": 34,
+        "TOTPOP2000": 215,
+        "MALE2000": 115,
+        "FEMALE2000": 100,
+        "POP2008": 240,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010403008,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 166,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.67572300041616,
+          -5.225174000179891
+        ]
+      },
+      "properties": {
+        "OBJECTID": 166,
+        "CU_NAME": "PIPISU",
+        "CU_NO": "009",
+        "GEOCODE": "20010403009",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "HAGOGOHE",
+        "LATITUDE": -5.22659,
+        "LONGITUDE": 154.674815,
+        "REGHH": 21,
+        "TOTPOP2000": 100,
+        "MALE2000": 50,
+        "FEMALE2000": 50,
+        "POP2008": 115,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010403009,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

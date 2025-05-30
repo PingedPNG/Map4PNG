@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7967,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8428539998123,
+          -4.159420999779286
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7967,
+        "CU_NAME": "NUBIA",
+        "CU_NO": "014",
+        "GEOCODE": "13010308014",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "NUBIA",
+        "LATITUDE": -4.16081,
+        "LONGITUDE": 144.841806,
+        "REGHH": 32,
+        "TOTPOP2000": 163,
+        "MALE2000": 87,
+        "FEMALE2000": 76,
+        "POP2008": 202,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010308014,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7968,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.83723399964947,
+          -4.160921999750428
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7968,
+        "CU_NAME": "SISIMANGUN",
+        "CU_NO": "021",
+        "GEOCODE": "13010308021",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "NUBIA",
+        "LATITUDE": -4.162311,
+        "LONGITUDE": 144.836185,
+        "REGHH": 23,
+        "TOTPOP2000": 121,
+        "MALE2000": 66,
+        "FEMALE2000": 55,
+        "POP2008": 150,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010308021,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7969,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.85415700034537,
+          -4.187634000408764
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7969,
+        "CU_NAME": "NUBIA PLANTATION",
+        "CU_NO": "503",
+        "GEOCODE": "13010308503",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "NUBIA",
+        "LATITUDE": -4.189023,
+        "LONGITUDE": 144.853109,
+        "REGHH": 40,
+        "TOTPOP2000": 213,
+        "MALE2000": 118,
+        "FEMALE2000": 95,
+        "POP2008": 264,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010308503,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7970,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84067400000515,
+          -4.148350000052403
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7970,
+        "CU_NAME": "BARENG PLANTATION",
+        "CU_NO": "505",
+        "GEOCODE": "13010308505",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "NUBIA",
+        "LATITUDE": -4.149739,
+        "LONGITUDE": 144.839626,
+        "REGHH": 5,
+        "TOTPOP2000": 10,
+        "MALE2000": 6,
+        "FEMALE2000": 4,
+        "POP2008": 10,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010308505,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10913,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5335770000786,
+          -7.822030000184327
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10913,
+        "CU_NAME": "ANA",
+        "CU_NO": "002",
+        "GEOCODE": "12030909002",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "ANA",
+        "LATITUDE": -7.823464,
+        "LONGITUDE": 147.532558,
+        "REGHH": 29,
+        "TOTPOP2000": 159,
+        "MALE2000": 83,
+        "FEMALE2000": 76,
+        "POP2008": 198,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030909002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10914,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.66956400017853,
+          -7.81201000036117
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10914,
+        "CU_NAME": "SAPA",
+        "CU_NO": "011",
+        "GEOCODE": "12030909011",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "ANA",
+        "LATITUDE": -7.807538,
+        "LONGITUDE": 147.668748,
+        "REGHH": 69,
+        "TOTPOP2000": 403,
+        "MALE2000": 208,
+        "FEMALE2000": 195,
+        "POP2008": 503,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030909011,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10915,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.55006300040725,
+          -7.813116000103264
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10915,
+        "CU_NAME": "POSSE",
+        "CU_NO": "012",
+        "GEOCODE": "12030909012",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "ANA",
+        "LATITUDE": -7.81455,
+        "LONGITUDE": 147.549044,
+        "REGHH": 31,
+        "TOTPOP2000": 189,
+        "MALE2000": 98,
+        "FEMALE2000": 91,
+        "POP2008": 235,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030909012,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10916,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.60671400035085,
+          -7.827467000002002
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10916,
+        "CU_NAME": "SAPPA LAGOON",
+        "CU_NO": "401",
+        "GEOCODE": "12030909401",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "ANA",
+        "LATITUDE": -7.796581,
+        "LONGITUDE": 147.637588,
+        "REGHH": 35,
+        "TOTPOP2000": 239,
+        "MALE2000": 122,
+        "FEMALE2000": 117,
+        "POP2008": 298,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030909401,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10917,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6417889999625,
+          -7.787116999949546
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10917,
+        "CU_NAME": "B.S. GAINA",
+        "CU_NO": "402",
+        "GEOCODE": "12030909402",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "ANA",
+        "LATITUDE": -7.788551,
+        "LONGITUDE": 147.640771,
+        "REGHH": 13,
+        "TOTPOP2000": 88,
+        "MALE2000": 54,
+        "FEMALE2000": 34,
+        "POP2008": 111,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030909402,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

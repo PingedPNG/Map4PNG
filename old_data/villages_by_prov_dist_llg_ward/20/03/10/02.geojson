@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 643,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.5038980003925,
+          -6.656892999612182
+        ]
+      },
+      "properties": {
+        "OBJECTID": 643,
+        "CU_NAME": "HANONG",
+        "CU_NO": "001",
+        "GEOCODE": "20031002001",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "RATAIKU",
+        "LATITUDE": -6.65833,
+        "LONGITUDE": 155.503,
+        "REGHH": 22,
+        "TOTPOP2000": 100,
+        "MALE2000": 43,
+        "FEMALE2000": 57,
+        "POP2008": 115,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031002001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 644,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.50081100012767,
+          -6.638302000237047
+        ]
+      },
+      "properties": {
+        "OBJECTID": 644,
+        "CU_NAME": "MAISUA",
+        "CU_NO": "002",
+        "GEOCODE": "20031002002",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "RATAIKU",
+        "LATITUDE": -6.64611,
+        "LONGITUDE": 155.503,
+        "REGHH": 31,
+        "TOTPOP2000": 137,
+        "MALE2000": 68,
+        "FEMALE2000": 69,
+        "POP2008": 153,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031002002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 645,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.50989700004664,
+          -6.640503000113313
+        ]
+      },
+      "properties": {
+        "OBJECTID": 645,
+        "CU_NAME": "NORONAI",
+        "CU_NO": "003",
+        "GEOCODE": "20031002003",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "RATAIKU",
+        "LATITUDE": -6.64194,
+        "LONGITUDE": 155.509,
+        "REGHH": 14,
+        "TOTPOP2000": 55,
+        "MALE2000": 27,
+        "FEMALE2000": 28,
+        "POP2008": 63,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031002003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 646,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.50897899998097,
+          -6.630294999714408
+        ]
+      },
+      "properties": {
+        "OBJECTID": 646,
+        "CU_NAME": "MOROKAIMORO",
+        "CU_NO": "004",
+        "GEOCODE": "20031002004",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "RATAIKU",
+        "LATITUDE": -6.63444,
+        "LONGITUDE": 155.509,
+        "REGHH": 47,
+        "TOTPOP2000": 214,
+        "MALE2000": 96,
+        "FEMALE2000": 118,
+        "POP2008": 239,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031002004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 647,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.51150999978677,
+          -6.633009999911508
+        ]
+      },
+      "properties": {
+        "OBJECTID": 647,
+        "CU_NAME": "MOKORINO 2",
+        "CU_NO": "005",
+        "GEOCODE": "20031002005",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "RATAIKU",
+        "LATITUDE": -6.63444,
+        "LONGITUDE": 155.512,
+        "REGHH": 45,
+        "TOTPOP2000": 180,
+        "MALE2000": 95,
+        "FEMALE2000": 85,
+        "POP2008": 204,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031002005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 648,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.5092079997495,
+          -6.635519999648238
+        ]
+      },
+      "properties": {
+        "OBJECTID": 648,
+        "CU_NAME": "MOKORINO 1",
+        "CU_NO": "006",
+        "GEOCODE": "20031002006",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "RATAIKU",
+        "LATITUDE": -6.635,
+        "LONGITUDE": 155.508,
+        "REGHH": 30,
+        "TOTPOP2000": 134,
+        "MALE2000": 75,
+        "FEMALE2000": 59,
+        "POP2008": 150,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031002006,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 649,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          155.4928980003425,
+          -6.652172999584195
+        ]
+      },
+      "properties": {
+        "OBJECTID": 649,
+        "CU_NAME": "TURUNGUNG",
+        "CU_NO": "007",
+        "GEOCODE": "20031002007",
+        "PROV_KEY": "20",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "RATAIKU",
+        "LATITUDE": -6.65361,
+        "LONGITUDE": 155.492,
+        "REGHH": 48,
+        "TOTPOP2000": 211,
+        "MALE2000": 97,
+        "FEMALE2000": 114,
+        "POP2008": 235,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20031002007,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

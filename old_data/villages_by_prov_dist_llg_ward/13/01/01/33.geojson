@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7918,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4713570000256,
+          -4.521513000024868
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7918,
+        "CU_NAME": "KORAK",
+        "CU_NO": "010",
+        "GEOCODE": "13010133010",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "33",
+        "WARD_NAME": "KORAK",
+        "LATITUDE": -4.522907,
+        "LONGITUDE": 145.470316,
+        "REGHH": 42,
+        "TOTPOP2000": 291,
+        "MALE2000": 147,
+        "FEMALE2000": 144,
+        "POP2008": 360,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010133010,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

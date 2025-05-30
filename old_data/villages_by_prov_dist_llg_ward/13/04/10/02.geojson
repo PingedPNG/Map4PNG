@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8641,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.92331400034095,
+          -5.492449000421004
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8641,
+        "CU_NAME": "ARAWOM",
+        "CU_NO": "001",
+        "GEOCODE": "13041002001",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -5.493855,
+        "LONGITUDE": 145.922278,
+        "REGHH": 21,
+        "TOTPOP2000": 127,
+        "MALE2000": 68,
+        "FEMALE2000": 59,
+        "POP2008": 158,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041002001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8642,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.84410000041476,
+          -5.6634649998098325
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8642,
+        "CU_NAME": "BANGRI",
+        "CU_NO": "003",
+        "GEOCODE": "13041002003",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -5.665692,
+        "LONGITUDE": 145.844082,
+        "REGHH": 9,
+        "TOTPOP2000": 48,
+        "MALE2000": 29,
+        "FEMALE2000": 19,
+        "POP2008": 56,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041002003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8643,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9397229998167,
+          -5.520904999665959
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8643,
+        "CU_NAME": "RIMBA",
+        "CU_NO": "004",
+        "GEOCODE": "13041002004",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -5.519066,
+        "LONGITUDE": 145.953019,
+        "REGHH": 46,
+        "TOTPOP2000": 274,
+        "MALE2000": 160,
+        "FEMALE2000": 114,
+        "POP2008": 339,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041002004,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8644,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.92495599961978,
+          -5.496430999690858
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8644,
+        "CU_NAME": "MARAKUM",
+        "CU_NO": "009",
+        "GEOCODE": "13041002009",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -5.497837,
+        "LONGITUDE": 145.92392,
+        "REGHH": 42,
+        "TOTPOP2000": 265,
+        "MALE2000": 145,
+        "FEMALE2000": 120,
+        "POP2008": 328,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041002009,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

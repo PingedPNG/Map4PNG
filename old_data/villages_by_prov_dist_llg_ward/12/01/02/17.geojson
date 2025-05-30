@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10453,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.35316700005706,
+          -7.996668000227999
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10453,
+        "CU_NAME": "TARI",
+        "CU_NO": "002",
+        "GEOCODE": "12010217002",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "17",
+        "WARD_NAME": "BIAWARIA",
+        "LATITUDE": -7.998104,
+        "LONGITUDE": 147.352145,
+        "REGHH": 18,
+        "TOTPOP2000": 93,
+        "MALE2000": 49,
+        "FEMALE2000": 44,
+        "POP2008": 117,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010217002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10454,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3279419996237,
+          -7.958095000284004
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10454,
+        "CU_NAME": "MUKERI",
+        "CU_NO": "003",
+        "GEOCODE": "12010217003",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "17",
+        "WARD_NAME": "BIAWARIA",
+        "LATITUDE": -7.975624,
+        "LONGITUDE": 147.349275,
+        "REGHH": 10,
+        "TOTPOP2000": 54,
+        "MALE2000": 24,
+        "FEMALE2000": 30,
+        "POP2008": 70,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010217003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10455,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.33570899987046,
+          -7.996657999766853
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10455,
+        "CU_NAME": "BAKERI",
+        "CU_NO": "004",
+        "GEOCODE": "12010217004",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "17",
+        "WARD_NAME": "BIAWARIA",
+        "LATITUDE": -7.998094,
+        "LONGITUDE": 147.334686,
+        "REGHH": 14,
+        "TOTPOP2000": 69,
+        "MALE2000": 39,
+        "FEMALE2000": 30,
+        "POP2008": 85,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010217004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10456,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.38150200001735,
+          -7.9967050001355915
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10456,
+        "CU_NAME": "TIWA",
+        "CU_NO": "901",
+        "GEOCODE": "12010217901",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "17",
+        "WARD_NAME": "BIAWARIA",
+        "LATITUDE": -7.998141,
+        "LONGITUDE": 147.38048,
+        "REGHH": 21,
+        "TOTPOP2000": 95,
+        "MALE2000": 47,
+        "FEMALE2000": 48,
+        "POP2008": 119,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010217901,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

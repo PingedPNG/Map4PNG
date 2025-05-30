@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4644,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.3098380001237,
+          -4.427231000410302
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4644,
+        "CU_NAME": "RALUBANG",
+        "CU_NO": "005",
+        "GEOCODE": "18020605005",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "05",
+        "WARD_NAME": "RALUBANG",
+        "LATITUDE": -4.428633,
+        "LONGITUDE": 152.308894,
+        "REGHH": 125,
+        "TOTPOP2000": 769,
+        "MALE2000": 399,
+        "FEMALE2000": 370,
+        "POP2008": 937,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020605005,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

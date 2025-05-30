@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16372,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.28875599988953,
+          -5.668327000090926
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16372,
+        "CU_NAME": "KOMAPANA",
+        "CU_NO": "018",
+        "GEOCODE": "09020331018",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "31",
+        "WARD_NAME": "KOMAPANA",
+        "LATITUDE": -5.669264,
+        "LONGITUDE": 144.28909,
+        "REGHH": 13,
+        "TOTPOP2000": 45,
+        "MALE2000": 21,
+        "FEMALE2000": 24,
+        "POP2008": 53,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020331018,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16373,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.30814700018402,
+          -5.630791000304384
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16373,
+        "CU_NAME": "RUT",
+        "CU_NO": "019",
+        "GEOCODE": "09020331019",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "31",
+        "WARD_NAME": "KOMAPANA",
+        "LATITUDE": -5.631726,
+        "LONGITUDE": 144.30848,
+        "REGHH": 51,
+        "TOTPOP2000": 242,
+        "MALE2000": 126,
+        "FEMALE2000": 116,
+        "POP2008": 295,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020331019,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16374,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.28910799993434,
+          -5.670611000197482
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16374,
+        "CU_NAME": "PIMB",
+        "CU_NO": "020",
+        "GEOCODE": "09020331020",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "31",
+        "WARD_NAME": "KOMAPANA",
+        "LATITUDE": -5.671548,
+        "LONGITUDE": 144.289442,
+        "REGHH": 33,
+        "TOTPOP2000": 148,
+        "MALE2000": 69,
+        "FEMALE2000": 79,
+        "POP2008": 180,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020331020,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16375,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3164629996678,
+          -5.693842999554761
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16375,
+        "CU_NAME": "WALBO",
+        "CU_NO": "021",
+        "GEOCODE": "09020331021",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "31",
+        "WARD_NAME": "KOMAPANA",
+        "LATITUDE": -5.69478,
+        "LONGITUDE": 144.316797,
+        "REGHH": 52,
+        "TOTPOP2000": 223,
+        "MALE2000": 113,
+        "FEMALE2000": 110,
+        "POP2008": 272,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020331021,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

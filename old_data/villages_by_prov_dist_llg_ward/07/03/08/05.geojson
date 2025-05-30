@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19771,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.88179199970114,
+          -6.595419000286597
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19771,
+        "CU_NAME": "IAMURUPI",
+        "CU_NO": "001",
+        "GEOCODE": "07030805001",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "IAMURUPI",
+        "LATITUDE": -6.60314,
+        "LONGITUDE": 143.886123,
+        "REGHH": 9,
+        "TOTPOP2000": 45,
+        "MALE2000": 25,
+        "FEMALE2000": 20,
+        "POP2008": 61,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030805001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19772,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.87143699971784,
+          -6.615838000323436
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19772,
+        "CU_NAME": "MONDE",
+        "CU_NO": "002",
+        "GEOCODE": "07030805002",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "IAMURUPI",
+        "LATITUDE": -6.60314,
+        "LONGITUDE": 143.886123,
+        "REGHH": 20,
+        "TOTPOP2000": 100,
+        "MALE2000": 49,
+        "FEMALE2000": 51,
+        "POP2008": 139,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030805002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19773,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.86145799998678,
+          -6.5887280001970225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19773,
+        "CU_NAME": "WALOA",
+        "CU_NO": "003",
+        "GEOCODE": "07030805003",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "IAMURUPI",
+        "LATITUDE": -6.60314,
+        "LONGITUDE": 143.886123,
+        "REGHH": 32,
+        "TOTPOP2000": 170,
+        "MALE2000": 82,
+        "FEMALE2000": 88,
+        "POP2008": 235,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030805003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19774,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.87081099962802,
+          -6.588206999553336
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19774,
+        "CU_NAME": "POPALI",
+        "CU_NO": "004",
+        "GEOCODE": "07030805004",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "IAMURUPI",
+        "LATITUDE": -6.60314,
+        "LONGITUDE": 143.886123,
+        "REGHH": 6,
+        "TOTPOP2000": 25,
+        "MALE2000": 15,
+        "FEMALE2000": 10,
+        "POP2008": 33,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030805004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19775,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.89462399969784,
+          -6.599630000224295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19775,
+        "CU_NAME": "URUPI",
+        "CU_NO": "005",
+        "GEOCODE": "07030805005",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "IAMURUPI",
+        "LATITUDE": -6.60314,
+        "LONGITUDE": 143.886123,
+        "REGHH": 25,
+        "TOTPOP2000": 106,
+        "MALE2000": 50,
+        "FEMALE2000": 56,
+        "POP2008": 147,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030805005,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

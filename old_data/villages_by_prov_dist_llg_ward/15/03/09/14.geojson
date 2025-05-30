@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18708,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.24090000033482,
+          -5.291372999764064
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18708,
+        "CU_NAME": "DUBAN",
+        "CU_NO": "003",
+        "GEOCODE": "15030914003",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "DUBAN",
+        "LATITUDE": -5.29277,
+        "LONGITUDE": 142.239817,
+        "REGHH": 36,
+        "TOTPOP2000": 211,
+        "MALE2000": 113,
+        "FEMALE2000": 98,
+        "POP2008": 255,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030914003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18709,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.25265099994374,
+          -5.26016799965339
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18709,
+        "CU_NAME": "GAUA",
+        "CU_NO": "004",
+        "GEOCODE": "15030914004",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "DUBAN",
+        "LATITUDE": -5.261565,
+        "LONGITUDE": 142.251569,
+        "REGHH": 142,
+        "TOTPOP2000": 857,
+        "MALE2000": 430,
+        "FEMALE2000": 427,
+        "POP2008": 1037,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030914004,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

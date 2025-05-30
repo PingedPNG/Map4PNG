@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5760,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63708399962695,
+          -5.442626999736206
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5760,
+        "CU_NAME": "KUBALIS",
+        "CU_NO": "004",
+        "GEOCODE": "08041105004",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "KUBALIS",
+        "LATITUDE": -5.444028,
+        "LONGITUDE": 143.636018,
+        "REGHH": 50,
+        "TOTPOP2000": 283,
+        "MALE2000": 149,
+        "FEMALE2000": 134,
+        "POP2008": 355,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041105004,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5761,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62996200034615,
+          -5.440109999676679
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5761,
+        "CU_NAME": "YAKANANDA",
+        "CU_NO": "005",
+        "GEOCODE": "08041105005",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "KUBALIS",
+        "LATITUDE": -5.441511,
+        "LONGITUDE": 143.628896,
+        "REGHH": 30,
+        "TOTPOP2000": 154,
+        "MALE2000": 74,
+        "FEMALE2000": 80,
+        "POP2008": 193,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041105005,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5762,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62206600044567,
+          -5.4365789996210765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5762,
+        "CU_NAME": "LAKOLAM 2",
+        "CU_NO": "006",
+        "GEOCODE": "08041105006",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "KUBALIS",
+        "LATITUDE": -5.43798,
+        "LONGITUDE": 143.621,
+        "REGHH": 30,
+        "TOTPOP2000": 168,
+        "MALE2000": 80,
+        "FEMALE2000": 88,
+        "POP2008": 211,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041105006,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5763,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6365219997905,
+          -5.437293000171792
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5763,
+        "CU_NAME": "PUNAMALAM",
+        "CU_NO": "007",
+        "GEOCODE": "08041105007",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "KUBALIS",
+        "LATITUDE": -5.438694,
+        "LONGITUDE": 143.635456,
+        "REGHH": 19,
+        "TOTPOP2000": 112,
+        "MALE2000": 66,
+        "FEMALE2000": 46,
+        "POP2008": 141,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041105007,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5764,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62528100031795,
+          -5.445391000394295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5764,
+        "CU_NAME": "YAGENDA",
+        "CU_NO": "008",
+        "GEOCODE": "08041105008",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "KUBALIS",
+        "LATITUDE": -5.446792,
+        "LONGITUDE": 143.624215,
+        "REGHH": 31,
+        "TOTPOP2000": 194,
+        "MALE2000": 110,
+        "FEMALE2000": 84,
+        "POP2008": 244,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041105008,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5765,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6436209998094,
+          -5.439207000302758
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5765,
+        "CU_NAME": "KEASA",
+        "CU_NO": "009",
+        "GEOCODE": "08041105009",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "05",
+        "WARD_NAME": "KUBALIS",
+        "LATITUDE": -5.440608,
+        "LONGITUDE": 143.642555,
+        "REGHH": 71,
+        "TOTPOP2000": 410,
+        "MALE2000": 206,
+        "FEMALE2000": 204,
+        "POP2008": 516,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041105009,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

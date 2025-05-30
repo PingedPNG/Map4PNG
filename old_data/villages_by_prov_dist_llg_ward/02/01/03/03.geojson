@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7478,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.04487499978143,
+          -7.421203999764714
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7478,
+        "CU_NAME": "HAMBUINI",
+        "CU_NO": "004",
+        "GEOCODE": "02010303004",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "WIMKA",
+        "LATITUDE": -7.422631,
+        "LONGITUDE": 146.043836,
+        "REGHH": 70,
+        "TOTPOP2000": 347,
+        "MALE2000": 169,
+        "FEMALE2000": 178,
+        "POP2008": 426,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010303004,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7479,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.04173599981664,
+          -7.446162999622686
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7479,
+        "CU_NAME": "WIMKA",
+        "CU_NO": "015",
+        "GEOCODE": "02010303015",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "WIMKA",
+        "LATITUDE": -7.44759,
+        "LONGITUDE": 146.040697,
+        "REGHH": 39,
+        "TOTPOP2000": 204,
+        "MALE2000": 106,
+        "FEMALE2000": 98,
+        "POP2008": 250,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010303015,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7480,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.04366499974003,
+          -7.429019000426479
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7480,
+        "CU_NAME": "WANDAVA",
+        "CU_NO": "016",
+        "GEOCODE": "02010303016",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "WIMKA",
+        "LATITUDE": -7.430446,
+        "LONGITUDE": 146.042626,
+        "REGHH": 50,
+        "TOTPOP2000": 229,
+        "MALE2000": 126,
+        "FEMALE2000": 103,
+        "POP2008": 281,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010303016,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7481,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.04804800041495,
+          -7.4166100001513655
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7481,
+        "CU_NAME": "KEFAYU",
+        "CU_NO": "017",
+        "GEOCODE": "02010303017",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "WIMKA",
+        "LATITUDE": -7.418036,
+        "LONGITUDE": 146.047009,
+        "REGHH": 29,
+        "TOTPOP2000": 134,
+        "MALE2000": 69,
+        "FEMALE2000": 65,
+        "POP2008": 165,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010303017,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7482,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.06314899982658,
+          -7.421036000111258
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7482,
+        "CU_NAME": "MEPA",
+        "CU_NO": "018",
+        "GEOCODE": "02010303018",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "03",
+        "WARD_NAME": "WIMKA",
+        "LATITUDE": -7.418346,
+        "LONGITUDE": 146.065792,
+        "REGHH": 38,
+        "TOTPOP2000": 189,
+        "MALE2000": 104,
+        "FEMALE2000": 85,
+        "POP2008": 232,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010303018,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

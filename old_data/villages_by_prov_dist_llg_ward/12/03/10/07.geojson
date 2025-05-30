@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10972,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.12321999990309,
+          -7.29008700031477
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10972,
+        "CU_NAME": "LABABIA",
+        "CU_NO": "013",
+        "GEOCODE": "12031007013",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "07",
+        "WARD_NAME": "LABABIA",
+        "LATITUDE": -7.291278,
+        "LONGITUDE": 147.123617,
+        "REGHH": 85,
+        "TOTPOP2000": 582,
+        "MALE2000": 299,
+        "FEMALE2000": 283,
+        "POP2008": 726,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031007013,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

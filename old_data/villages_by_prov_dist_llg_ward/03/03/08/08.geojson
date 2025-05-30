@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1344,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.62368599990907,
+          -8.735672999809026
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1344,
+        "CU_NAME": "BIOTOU",
+        "CU_NO": "001",
+        "GEOCODE": "03030808001",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "BIOTOU",
+        "LATITUDE": -8.737114,
+        "LONGITUDE": 146.622652,
+        "REGHH": 117,
+        "TOTPOP2000": 668,
+        "MALE2000": 354,
+        "FEMALE2000": 314,
+        "POP2008": 801,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030808001,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.65657500033603,
+          -8.757760000323685
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1345,
+        "CU_NAME": "ARAOPOKINA CAMP",
+        "CU_NO": "402",
+        "GEOCODE": "03030808402",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "08",
+        "WARD_NAME": "BIOTOU",
+        "LATITUDE": -8.759202,
+        "LONGITUDE": 146.655541,
+        "REGHH": 13,
+        "TOTPOP2000": 47,
+        "MALE2000": 23,
+        "FEMALE2000": 24,
+        "POP2008": 55,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030808402,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

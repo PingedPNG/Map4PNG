@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18439,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.8295930004167,
+          -3.3782819997144884
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18439,
+        "CU_NAME": "WONDU",
+        "CU_NO": "003",
+        "GEOCODE": "15010402003",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "02",
+        "WARD_NAME": "MOLMO",
+        "LATITUDE": -3.376645,
+        "LONGITUDE": 141.832001,
+        "REGHH": 10,
+        "TOTPOP2000": 40,
+        "MALE2000": 22,
+        "FEMALE2000": 18,
+        "POP2008": 48,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010402003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18440,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.85612499996887,
+          -3.3612179997108456
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18440,
+        "CU_NAME": "MOLMO",
+        "CU_NO": "011",
+        "GEOCODE": "15010402011",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "02",
+        "WARD_NAME": "MOLMO",
+        "LATITUDE": -3.362595,
+        "LONGITUDE": 141.855041,
+        "REGHH": 53,
+        "TOTPOP2000": 252,
+        "MALE2000": 128,
+        "FEMALE2000": 124,
+        "POP2008": 304,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010402011,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18441,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.85472400011258,
+          -3.403201999572559
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18441,
+        "CU_NAME": "SIAMA",
+        "CU_NO": "014",
+        "GEOCODE": "15010402014",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "02",
+        "WARD_NAME": "MOLMO",
+        "LATITUDE": -3.387016,
+        "LONGITUDE": 141.849627,
+        "REGHH": 11,
+        "TOTPOP2000": 54,
+        "MALE2000": 30,
+        "FEMALE2000": 24,
+        "POP2008": 62,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010402014,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

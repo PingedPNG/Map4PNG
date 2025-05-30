@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4771,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.18111699964993,
+          -4.334929000372995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4771,
+        "CU_NAME": "KUNAKUNAI",
+        "CU_NO": "015",
+        "GEOCODE": "18020915015",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "15",
+        "WARD_NAME": "KUNAKUNAI",
+        "LATITUDE": -4.33633,
+        "LONGITUDE": 152.180171,
+        "REGHH": 94,
+        "TOTPOP2000": 585,
+        "MALE2000": 313,
+        "FEMALE2000": 272,
+        "POP2008": 713,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020915015,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

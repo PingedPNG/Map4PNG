@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.31907199967316,
+          -5.618742999589699
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5258,
+        "CU_NAME": "KAREKARE",
+        "CU_NO": "006",
+        "GEOCODE": "08010202006",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "KAREKARE",
+        "LATITUDE": -5.620145,
+        "LONGITUDE": 143.318002,
+        "REGHH": 57,
+        "TOTPOP2000": 342,
+        "MALE2000": 172,
+        "FEMALE2000": 170,
+        "POP2008": 429,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010202006,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.30253699978277,
+          -5.628128999853402
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5259,
+        "CU_NAME": "LITIPAK",
+        "CU_NO": "007",
+        "GEOCODE": "08010202007",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "KAREKARE",
+        "LATITUDE": -5.62953,
+        "LONGITUDE": 143.301467,
+        "REGHH": 22,
+        "TOTPOP2000": 106,
+        "MALE2000": 62,
+        "FEMALE2000": 44,
+        "POP2008": 133,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010202007,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3229060002118,
+          -5.633656000224164
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5260,
+        "CU_NAME": "KEREGE",
+        "CU_NO": "008",
+        "GEOCODE": "08010202008",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "KAREKARE",
+        "LATITUDE": -5.635059,
+        "LONGITUDE": 143.321836,
+        "REGHH": 63,
+        "TOTPOP2000": 352,
+        "MALE2000": 202,
+        "FEMALE2000": 150,
+        "POP2008": 441,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010202008,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3009329995583,
+          -5.657581000063033
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5261,
+        "CU_NAME": "LARIPANDA",
+        "CU_NO": "009",
+        "GEOCODE": "08010202009",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "KAREKARE",
+        "LATITUDE": -5.658984,
+        "LONGITUDE": 143.299863,
+        "REGHH": 32,
+        "TOTPOP2000": 176,
+        "MALE2000": 89,
+        "FEMALE2000": 87,
+        "POP2008": 221,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010202009,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

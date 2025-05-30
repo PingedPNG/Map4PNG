@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21242,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0743570001755,
+          -6.504190000268238
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21242,
+        "CU_NAME": "FOGOMAIYU",
+        "CU_NO": "006",
+        "GEOCODE": "07072309006",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "09",
+        "WARD_NAME": "FOGOMAIYU",
+        "LATITUDE": -6.50842,
+        "LONGITUDE": 143.076889,
+        "REGHH": 48,
+        "TOTPOP2000": 271,
+        "MALE2000": 128,
+        "FEMALE2000": 143,
+        "POP2008": 376,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072309006,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21243,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0914669996024,
+          -6.512833999589361
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21243,
+        "CU_NAME": "DELESEU",
+        "CU_NO": "007",
+        "GEOCODE": "07072309007",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "09",
+        "WARD_NAME": "FOGOMAIYU",
+        "LATITUDE": -6.50842,
+        "LONGITUDE": 143.076889,
+        "REGHH": 21,
+        "TOTPOP2000": 104,
+        "MALE2000": 59,
+        "FEMALE2000": 45,
+        "POP2008": 145,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072309007,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21244,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0956950003241,
+          -6.505106000241653
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21244,
+        "CU_NAME": "SASANI",
+        "CU_NO": "019",
+        "GEOCODE": "07072309019",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "09",
+        "WARD_NAME": "FOGOMAIYU",
+        "LATITUDE": -6.50842,
+        "LONGITUDE": 143.076889,
+        "REGHH": 7,
+        "TOTPOP2000": 46,
+        "MALE2000": 23,
+        "FEMALE2000": 23,
+        "POP2008": 63,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072309019,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21245,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.08049299985214,
+          -6.508211999584091
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21245,
+        "CU_NAME": "SOWABESI",
+        "CU_NO": "020",
+        "GEOCODE": "07072309020",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "09",
+        "WARD_NAME": "FOGOMAIYU",
+        "LATITUDE": -6.50842,
+        "LONGITUDE": 143.076889,
+        "REGHH": 6,
+        "TOTPOP2000": 41,
+        "MALE2000": 19,
+        "FEMALE2000": 22,
+        "POP2008": 57,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072309020,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21246,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.08005600038416,
+          -6.500504000259355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21246,
+        "CU_NAME": "KAKADEMAIYU",
+        "CU_NO": "030",
+        "GEOCODE": "07072309030",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "09",
+        "WARD_NAME": "FOGOMAIYU",
+        "LATITUDE": -6.50842,
+        "LONGITUDE": 143.076889,
+        "REGHH": 15,
+        "TOTPOP2000": 89,
+        "MALE2000": 44,
+        "FEMALE2000": 45,
+        "POP2008": 124,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072309030,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

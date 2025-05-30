@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4566,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.0936559998246,
+          -4.197855999654621
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4566,
+        "CU_NAME": "VUNAIROTO",
+        "CU_NO": "002",
+        "GEOCODE": "18010402002",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "02",
+        "WARD_NAME": "VUNAIROTO",
+        "LATITUDE": -4.199255,
+        "LONGITUDE": 152.092709,
+        "REGHH": 201,
+        "TOTPOP2000": 1162,
+        "MALE2000": 604,
+        "FEMALE2000": 558,
+        "POP2008": 1417,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010402002,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

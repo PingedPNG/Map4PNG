@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18971,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.23109299974226,
+          -3.893007999719373
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18971,
+        "CU_NAME": "DIORU",
+        "CU_NO": "003",
+        "GEOCODE": "15041402003",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "02",
+        "WARD_NAME": "DIORU",
+        "LATITUDE": -3.89439,
+        "LONGITUDE": 141.230001,
+        "REGHH": 24,
+        "TOTPOP2000": 149,
+        "MALE2000": 80,
+        "FEMALE2000": 69,
+        "POP2008": 181,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041402003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18972,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.22428200041406,
+          -3.898629999974446
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18972,
+        "CU_NAME": "IBEIYIER",
+        "CU_NO": "004",
+        "GEOCODE": "15041402004",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "02",
+        "WARD_NAME": "DIORU",
+        "LATITUDE": -3.892474,
+        "LONGITUDE": 141.217557,
+        "REGHH": 25,
+        "TOTPOP2000": 161,
+        "MALE2000": 82,
+        "FEMALE2000": 79,
+        "POP2008": 194,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041402004,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

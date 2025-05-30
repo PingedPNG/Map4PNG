@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17084,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.10225899975308,
+          -5.567998000407329
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17084,
+        "CU_NAME": "TAPIAKAMA.2",
+        "CU_NO": "018",
+        "GEOCODE": "09050915018",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "15",
+        "WARD_NAME": "TAPIAKAMA.2",
+        "LATITUDE": -5.568933,
+        "LONGITUDE": 144.102591,
+        "REGHH": 75,
+        "TOTPOP2000": 284,
+        "MALE2000": 155,
+        "FEMALE2000": 129,
+        "POP2008": 345,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050915018,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

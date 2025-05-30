@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6650,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.10013900021477,
+          -3.6329050001655787
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6650,
+        "CU_NAME": "KLABU 2",
+        "CU_NO": "008",
+        "GEOCODE": "14031202008",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "KLABU  2",
+        "LATITUDE": -3.634483,
+        "LONGITUDE": 143.098899,
+        "REGHH": 80,
+        "TOTPOP2000": 363,
+        "MALE2000": 174,
+        "FEMALE2000": 189,
+        "POP2008": 432,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031202008,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

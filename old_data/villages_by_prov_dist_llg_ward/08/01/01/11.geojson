@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5208,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.58656500007476,
+          -5.8898939996083755
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5208,
+        "CU_NAME": "KAMBIA",
+        "CU_NO": "004",
+        "GEOCODE": "08010111004",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "11",
+        "WARD_NAME": "KAMBIA",
+        "LATITUDE": -5.891294,
+        "LONGITUDE": 143.586796,
+        "REGHH": 49,
+        "TOTPOP2000": 294,
+        "MALE2000": 151,
+        "FEMALE2000": 143,
+        "POP2008": 370,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010111004,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5209,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.59852899961368,
+          -5.892473999875165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5209,
+        "CU_NAME": "PAPALI",
+        "CU_NO": "005",
+        "GEOCODE": "08010111005",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "11",
+        "WARD_NAME": "KAMBIA",
+        "LATITUDE": -5.89388,
+        "LONGITUDE": 143.597462,
+        "REGHH": 81,
+        "TOTPOP2000": 471,
+        "MALE2000": 242,
+        "FEMALE2000": 229,
+        "POP2008": 592,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010111005,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

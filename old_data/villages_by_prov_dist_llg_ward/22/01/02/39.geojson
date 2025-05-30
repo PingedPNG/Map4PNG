@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16191,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.53268500001286,
+          -6.2237780003544
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16191,
+        "CU_NAME": "PALTI",
+        "CU_NO": "007",
+        "GEOCODE": "09010239007",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "39",
+        "WARD_NAME": "PLATI",
+        "LATITUDE": -6.224721,
+        "LONGITUDE": 144.533022,
+        "REGHH": 21,
+        "TOTPOP2000": 74,
+        "MALE2000": 33,
+        "FEMALE2000": 41,
+        "POP2008": 90,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010239007,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

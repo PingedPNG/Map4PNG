@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.05988800003126,
+          -6.543364000048541
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20104,
+        "CU_NAME": "IPAMA (WANORE)",
+        "CU_NO": "001",
+        "GEOCODE": "07031006001",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "KARANDA 2",
+        "LATITUDE": -6.539028,
+        "LONGITUDE": 144.062785,
+        "REGHH": 23,
+        "TOTPOP2000": 133,
+        "MALE2000": 62,
+        "FEMALE2000": 71,
+        "POP2008": 185,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031006001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.06109099974992,
+          -6.537418000140519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20105,
+        "CU_NAME": "RAKINE (TAKIARE)",
+        "CU_NO": "002",
+        "GEOCODE": "07031006002",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "KARANDA 2",
+        "LATITUDE": -6.539028,
+        "LONGITUDE": 144.062785,
+        "REGHH": 16,
+        "TOTPOP2000": 79,
+        "MALE2000": 42,
+        "FEMALE2000": 37,
+        "POP2008": 109,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7031006002,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

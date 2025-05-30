@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8828,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.27422899956878,
+          -5.7317039999396115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8828,
+        "CU_NAME": "MAUWERERE",
+        "CU_NO": "020",
+        "GEOCODE": "13041219020",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "19",
+        "WARD_NAME": "WARD 19",
+        "LATITUDE": -5.733113,
+        "LONGITUDE": 146.273197,
+        "REGHH": 68,
+        "TOTPOP2000": 329,
+        "MALE2000": 160,
+        "FEMALE2000": 169,
+        "POP2008": 407,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041219020,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8829,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.26332500034857,
+          -5.7275269997711575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8829,
+        "CU_NAME": "MUNIANO",
+        "CU_NO": "021",
+        "GEOCODE": "13041219021",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "19",
+        "WARD_NAME": "WARD 19",
+        "LATITUDE": -5.728936,
+        "LONGITUDE": 146.262293,
+        "REGHH": 30,
+        "TOTPOP2000": 159,
+        "MALE2000": 82,
+        "FEMALE2000": 77,
+        "POP2008": 197,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041219021,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8830,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.28608400037638,
+          -5.72638400012147
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8830,
+        "CU_NAME": "YOKEA 1",
+        "CU_NO": "044",
+        "GEOCODE": "13041219044",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "19",
+        "WARD_NAME": "WARD 19",
+        "LATITUDE": -5.727793,
+        "LONGITUDE": 146.285052,
+        "REGHH": 19,
+        "TOTPOP2000": 99,
+        "MALE2000": 40,
+        "FEMALE2000": 59,
+        "POP2008": 123,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041219044,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8831,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.3334530003558,
+          -5.721890999769755
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8831,
+        "CU_NAME": "YOKEA 2",
+        "CU_NO": "045",
+        "GEOCODE": "13041219045",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "19",
+        "WARD_NAME": "WARD 19",
+        "LATITUDE": -5.7233,
+        "LONGITUDE": 146.332422,
+        "REGHH": 25,
+        "TOTPOP2000": 127,
+        "MALE2000": 67,
+        "FEMALE2000": 60,
+        "POP2008": 158,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041219045,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

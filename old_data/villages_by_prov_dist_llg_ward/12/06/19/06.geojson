@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11731,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.45918799982644,
+          -6.123054999588533
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11731,
+        "CU_NAME": "KONGAIM",
+        "CU_NO": "001",
+        "GEOCODE": "12061906001",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "06",
+        "WARD_NAME": "YAPARINGAN",
+        "LATITUDE": -6.124469,
+        "LONGITUDE": 146.458158,
+        "REGHH": 25,
+        "TOTPOP2000": 125,
+        "MALE2000": 58,
+        "FEMALE2000": 67,
+        "POP2008": 157,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061906001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11732,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4625710002515,
+          -6.12402200011519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11732,
+        "CU_NAME": "SAPBAM",
+        "CU_NO": "002",
+        "GEOCODE": "12061906002",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "06",
+        "WARD_NAME": "YAPARINGAN",
+        "LATITUDE": -6.125436,
+        "LONGITUDE": 146.461541,
+        "REGHH": 31,
+        "TOTPOP2000": 152,
+        "MALE2000": 80,
+        "FEMALE2000": 72,
+        "POP2008": 189,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061906002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11733,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4469700002653,
+          -6.1271060002416675
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11733,
+        "CU_NAME": "ATAWAKAP",
+        "CU_NO": "003",
+        "GEOCODE": "12061906003",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "06",
+        "WARD_NAME": "YAPARINGAN",
+        "LATITUDE": -6.12852,
+        "LONGITUDE": 146.445939,
+        "REGHH": 12,
+        "TOTPOP2000": 58,
+        "MALE2000": 31,
+        "FEMALE2000": 27,
+        "POP2008": 74,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061906003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11734,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.447554000217,
+          -6.133179999757147
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11734,
+        "CU_NAME": "YAPARINGAN",
+        "CU_NO": "045",
+        "GEOCODE": "12061906045",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "06",
+        "WARD_NAME": "YAPARINGAN",
+        "LATITUDE": -6.134594,
+        "LONGITUDE": 146.446523,
+        "REGHH": 50,
+        "TOTPOP2000": 272,
+        "MALE2000": 129,
+        "FEMALE2000": 143,
+        "POP2008": 340,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061906045,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

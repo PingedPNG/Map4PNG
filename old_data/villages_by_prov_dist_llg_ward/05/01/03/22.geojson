@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9667,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.86382900020828,
+          -10.119210000441115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9667,
+        "CU_NAME": "BOWADI",
+        "CU_NO": "005",
+        "GEOCODE": "05010322005",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "22",
+        "WARD_NAME": "BOWADI",
+        "LATITUDE": -10.129698,
+        "LONGITUDE": 149.864969,
+        "REGHH": 34,
+        "TOTPOP2000": 167,
+        "MALE2000": 83,
+        "FEMALE2000": 84,
+        "POP2008": 203,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010322005,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9668,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.86007099957703,
+          -10.108873000388598
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9668,
+        "CU_NAME": "SIAKAKA",
+        "CU_NO": "006",
+        "GEOCODE": "05010322006",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "22",
+        "WARD_NAME": "BOWADI",
+        "LATITUDE": -10.110337,
+        "LONGITUDE": 149.859078,
+        "REGHH": 10,
+        "TOTPOP2000": 48,
+        "MALE2000": 26,
+        "FEMALE2000": 22,
+        "POP2008": 56,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010322006,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9669,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.86788600023874,
+          -10.141149000425969
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9669,
+        "CU_NAME": "UNANEMBA",
+        "CU_NO": "007",
+        "GEOCODE": "05010322007",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "22",
+        "WARD_NAME": "BOWADI",
+        "LATITUDE": -10.14104,
+        "LONGITUDE": 149.869736,
+        "REGHH": 15,
+        "TOTPOP2000": 60,
+        "MALE2000": 36,
+        "FEMALE2000": 24,
+        "POP2008": 75,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010322007,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

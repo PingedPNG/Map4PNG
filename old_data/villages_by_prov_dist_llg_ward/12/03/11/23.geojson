@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.53407499986145,
+          -6.411595000209047
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11106,
+        "CU_NAME": "SIARA",
+        "CU_NO": "018",
+        "GEOCODE": "12031123018",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "23",
+        "WARD_NAME": "IRUMU",
+        "LATITUDE": -6.4155,
+        "LONGITUDE": 146.530138,
+        "REGHH": 67,
+        "TOTPOP2000": 385,
+        "MALE2000": 192,
+        "FEMALE2000": 193,
+        "POP2008": 480,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031123018,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5525209997444,
+          -6.458040999892205
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11107,
+        "CU_NAME": "FAYANG",
+        "CU_NO": "019",
+        "GEOCODE": "12031123019",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "23",
+        "WARD_NAME": "IRUMU",
+        "LATITUDE": -6.459458,
+        "LONGITUDE": 146.551491,
+        "REGHH": 40,
+        "TOTPOP2000": 191,
+        "MALE2000": 97,
+        "FEMALE2000": 94,
+        "POP2008": 237,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031123019,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.53151999984823,
+          -6.435023999657801
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11108,
+        "CU_NAME": "SIFU",
+        "CU_NO": "020",
+        "GEOCODE": "12031123020",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "23",
+        "WARD_NAME": "IRUMU",
+        "LATITUDE": -6.436441,
+        "LONGITUDE": 146.53049,
+        "REGHH": 79,
+        "TOTPOP2000": 428,
+        "MALE2000": 232,
+        "FEMALE2000": 196,
+        "POP2008": 534,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031123020,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

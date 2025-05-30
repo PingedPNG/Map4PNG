@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8685,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.72901400009607,
+          -5.414542999659659
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8685,
+        "CU_NAME": "ERIMA",
+        "CU_NO": "015",
+        "GEOCODE": "13041013015",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "WARD 13",
+        "LATITUDE": -5.419642,
+        "LONGITUDE": 145.730422,
+        "REGHH": 124,
+        "TOTPOP2000": 849,
+        "MALE2000": 423,
+        "FEMALE2000": 426,
+        "POP2008": 1052,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041013015,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8686,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67218900022226,
+          -5.417212000433437
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8686,
+        "CU_NAME": "UYA",
+        "CU_NO": "016",
+        "GEOCODE": "13041013016",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "WARD 13",
+        "LATITUDE": -5.418616,
+        "LONGITUDE": 145.671149,
+        "REGHH": 64,
+        "TOTPOP2000": 389,
+        "MALE2000": 208,
+        "FEMALE2000": 181,
+        "POP2008": 482,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041013016,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

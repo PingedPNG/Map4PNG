@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10212,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.17837999973722,
+          -9.400774999766384
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10212,
+        "CU_NAME": "UTALO",
+        "CU_NO": "017",
+        "GEOCODE": "05031323017",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "23",
+        "WARD_NAME": "UTALO",
+        "LATITUDE": -9.402233,
+        "LONGITUDE": 150.177394,
+        "REGHH": 139,
+        "TOTPOP2000": 833,
+        "MALE2000": 430,
+        "FEMALE2000": 403,
+        "POP2008": 1015,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031323017,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

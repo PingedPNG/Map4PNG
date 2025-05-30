@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18409,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.12677600031225,
+          -3.0933560002791296
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18409,
+        "CU_NAME": "AROP 1",
+        "CU_NO": "006",
+        "GEOCODE": "15010306006",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "AROP 1",
+        "LATITUDE": -3.08683,
+        "LONGITUDE": 142.120379,
+        "REGHH": 201,
+        "TOTPOP2000": 1227,
+        "MALE2000": 683,
+        "FEMALE2000": 544,
+        "POP2008": 1483,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010306006,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

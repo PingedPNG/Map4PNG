@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29880,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.09326104036484,
+          -6.348500909988957
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29880,
+        "CU_NAME": "KAMBAIRA",
+        "CU_NO": "016",
+        "GEOCODE": "11040522016",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "ASA",
+        "LATITUDE": -6.348501,
+        "LONGITUDE": 146.093261,
+        "REGHH": 105,
+        "TOTPOP2000": 513,
+        "MALE2000": 271,
+        "FEMALE2000": 242,
+        "POP2008": 611,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29881,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.08028412001624,
+          -6.359220719960206
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29881,
+        "CU_NAME": "KURANGKA",
+        "CU_NO": "017",
+        "GEOCODE": "11040522017",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "ASA",
+        "LATITUDE": -6.359221,
+        "LONGITUDE": 146.080284,
+        "REGHH": 68,
+        "TOTPOP2000": 279,
+        "MALE2000": 139,
+        "FEMALE2000": 140,
+        "POP2008": 332,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29882,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.08251683988033,
+          -6.351762959692792
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29882,
+        "CU_NAME": "TUMBEDAKA",
+        "CU_NO": "026",
+        "GEOCODE": "11040522026",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "22",
+        "WARD_NAME": "ASA",
+        "LATITUDE": -6.351763,
+        "LONGITUDE": 146.082517,
+        "REGHH": 156,
+        "TOTPOP2000": 625,
+        "MALE2000": 316,
+        "FEMALE2000": 309,
+        "POP2008": 744,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

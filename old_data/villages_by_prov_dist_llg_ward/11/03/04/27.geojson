@@ -1,0 +1,421 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29644,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5853860001638,
+          -6.356002860243734
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29644,
+        "CU_NAME": "AGOMONOFI",
+        "CU_NO": "003",
+        "GEOCODE": "11030427003",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "27",
+        "WARD_NAME": "KUANA",
+        "LATITUDE": -6.356003,
+        "LONGITUDE": 145.585386,
+        "REGHH": 21,
+        "TOTPOP2000": 105,
+        "MALE2000": 55,
+        "FEMALE2000": 50,
+        "POP2008": 124,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29645,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57307580030795,
+          -6.366831120359848
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29645,
+        "CU_NAME": "AVUI",
+        "CU_NO": "021",
+        "GEOCODE": "11030427021",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "27",
+        "WARD_NAME": "KUANA",
+        "LATITUDE": -6.366831,
+        "LONGITUDE": 145.573076,
+        "REGHH": 24,
+        "TOTPOP2000": 86,
+        "MALE2000": 52,
+        "FEMALE2000": 34,
+        "POP2008": 102,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29646,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.56690647985022,
+          -6.363239759607154
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29646,
+        "CU_NAME": "KOANA",
+        "CU_NO": "025",
+        "GEOCODE": "11030427025",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "27",
+        "WARD_NAME": "KUANA",
+        "LATITUDE": -6.36324,
+        "LONGITUDE": 145.566906,
+        "REGHH": 38,
+        "TOTPOP2000": 198,
+        "MALE2000": 119,
+        "FEMALE2000": 79,
+        "POP2008": 236,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29647,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.59754247980163,
+          -6.375662550086588
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29647,
+        "CU_NAME": "TRIKU",
+        "CU_NO": "026",
+        "GEOCODE": "11030427026",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "27",
+        "WARD_NAME": "KUANA",
+        "LATITUDE": -6.375663,
+        "LONGITUDE": 145.597542,
+        "REGHH": 22,
+        "TOTPOP2000": 98,
+        "MALE2000": 49,
+        "FEMALE2000": 49,
+        "POP2008": 114,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29648,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57821119988705,
+          -6.384083670425014
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29648,
+        "CU_NAME": "JEFFERY",
+        "CU_NO": "027",
+        "GEOCODE": "11030427027",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "27",
+        "WARD_NAME": "KUANA",
+        "LATITUDE": -6.384084,
+        "LONGITUDE": 145.578211,
+        "REGHH": 32,
+        "TOTPOP2000": 190,
+        "MALE2000": 106,
+        "FEMALE2000": 84,
+        "POP2008": 226,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29649,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5845806797546,
+          -6.374939489765609
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29649,
+        "CU_NAME": "KARINTE",
+        "CU_NO": "028",
+        "GEOCODE": "11030427028",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "27",
+        "WARD_NAME": "KUANA",
+        "LATITUDE": -6.374939,
+        "LONGITUDE": 145.584581,
+        "REGHH": 25,
+        "TOTPOP2000": 126,
+        "MALE2000": 67,
+        "FEMALE2000": 59,
+        "POP2008": 150,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29650,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.60034687980476,
+          -6.375761999816405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29650,
+        "CU_NAME": "KOSAO",
+        "CU_NO": "029",
+        "GEOCODE": "11030427029",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "27",
+        "WARD_NAME": "KUANA",
+        "LATITUDE": -6.375762,
+        "LONGITUDE": 145.600347,
+        "REGHH": 32,
+        "TOTPOP2000": 140,
+        "MALE2000": 71,
+        "FEMALE2000": 69,
+        "POP2008": 165,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29651,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.59263136034906,
+          -6.382196370266229
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29651,
+        "CU_NAME": "TIRANA",
+        "CU_NO": "030",
+        "GEOCODE": "11030427030",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "27",
+        "WARD_NAME": "KUANA",
+        "LATITUDE": -6.382196,
+        "LONGITUDE": 145.592631,
+        "REGHH": 35,
+        "TOTPOP2000": 174,
+        "MALE2000": 91,
+        "FEMALE2000": 83,
+        "POP2008": 206,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29652,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58308416020589,
+          -6.376411619700434
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29652,
+        "CU_NAME": "FOSAYA",
+        "CU_NO": "031",
+        "GEOCODE": "11030427031",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "27",
+        "WARD_NAME": "KUANA",
+        "LATITUDE": -6.376412,
+        "LONGITUDE": 145.583084,
+        "REGHH": 20,
+        "TOTPOP2000": 100,
+        "MALE2000": 58,
+        "FEMALE2000": 42,
+        "POP2008": 117,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29653,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58401656021613,
+          -6.36829371028648
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29653,
+        "CU_NAME": "KRIPAKAMATE",
+        "CU_NO": "032",
+        "GEOCODE": "11030427032",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "27",
+        "WARD_NAME": "KUANA",
+        "LATITUDE": -6.368294,
+        "LONGITUDE": 145.584017,
+        "REGHH": 19,
+        "TOTPOP2000": 71,
+        "MALE2000": 35,
+        "FEMALE2000": 36,
+        "POP2008": 87,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29654,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.56443256001467,
+          -6.371918999761988
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29654,
+        "CU_NAME": "MENIVUTE",
+        "CU_NO": "033",
+        "GEOCODE": "11030427033",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "27",
+        "WARD_NAME": "KUANA",
+        "LATITUDE": -6.371919,
+        "LONGITUDE": 145.564433,
+        "REGHH": 19,
+        "TOTPOP2000": 78,
+        "MALE2000": 45,
+        "FEMALE2000": 33,
+        "POP2008": 94,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29655,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5800716795644,
+          -6.364418220424511
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29655,
+        "CU_NAME": "NAREOVOTE",
+        "CU_NO": "034",
+        "GEOCODE": "11030427034",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "27",
+        "WARD_NAME": "KUANA",
+        "LATITUDE": -6.364418,
+        "LONGITUDE": 145.580072,
+        "REGHH": 26,
+        "TOTPOP2000": 102,
+        "MALE2000": 48,
+        "FEMALE2000": 54,
+        "POP2008": 120,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29656,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.59360480002158,
+          -6.36706097988025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29656,
+        "CU_NAME": "TANEFATE",
+        "CU_NO": "035",
+        "GEOCODE": "11030427035",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "27",
+        "WARD_NAME": "KUANA",
+        "LATITUDE": -6.367061,
+        "LONGITUDE": 145.593605,
+        "REGHH": 21,
+        "TOTPOP2000": 89,
+        "MALE2000": 49,
+        "FEMALE2000": 40,
+        "POP2008": 105,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

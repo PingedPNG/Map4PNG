@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9656,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.61454400040532,
+          -9.992337999798792
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9656,
+        "CU_NAME": "TAUBADI",
+        "CU_NO": "020",
+        "GEOCODE": "05010317020",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "17",
+        "WARD_NAME": "TAUBADI",
+        "LATITUDE": -9.9938,
+        "LONGITUDE": 149.613548,
+        "REGHH": 120,
+        "TOTPOP2000": 800,
+        "MALE2000": 425,
+        "FEMALE2000": 375,
+        "POP2008": 975,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010317020,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

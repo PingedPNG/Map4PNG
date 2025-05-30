@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17617,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.23223699973778,
+          -6.146562999982393
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17617,
+        "CU_NAME": "GOMI",
+        "CU_NO": "001",
+        "GEOCODE": "09071316001",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "16",
+        "WARD_NAME": "GOMI",
+        "LATITUDE": -6.147513,
+        "LONGITUDE": 144.234003,
+        "REGHH": 76,
+        "TOTPOP2000": 367,
+        "MALE2000": 185,
+        "FEMALE2000": 182,
+        "POP2008": 447,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071316001,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

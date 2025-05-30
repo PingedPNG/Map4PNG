@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8071947202602,
+          -9.664110080016144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10262,
+        "CU_NAME": "GOMWA",
+        "CU_NO": "011",
+        "GEOCODE": "05041517011",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "17",
+        "WARD_NAME": "GOMWA",
+        "LATITUDE": -9.662071,
+        "LONGITUDE": 150.806536,
+        "REGHH": 73,
+        "TOTPOP2000": 391,
+        "MALE2000": 191,
+        "FEMALE2000": 200,
+        "POP2008": 477,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041517011,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

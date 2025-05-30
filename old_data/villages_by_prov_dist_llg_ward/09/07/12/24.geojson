@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17512,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.96501300005002,
+          -5.909488000270926
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17512,
+        "CU_NAME": "OPIAPULG 1",
+        "CU_NO": "027",
+        "GEOCODE": "09071224027",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "24",
+        "WARD_NAME": "OPIAPULG 1",
+        "LATITUDE": -5.910428,
+        "LONGITUDE": 143.965344,
+        "REGHH": 80,
+        "TOTPOP2000": 366,
+        "MALE2000": 173,
+        "FEMALE2000": 193,
+        "POP2008": 446,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071224027,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

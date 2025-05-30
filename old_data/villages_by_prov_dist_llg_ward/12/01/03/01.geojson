@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10457,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.38833499966051,
+          -7.276574000389758
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10457,
+        "CU_NAME": "NIMAKENATA",
+        "CU_NO": "008",
+        "GEOCODE": "12010301008",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "01",
+        "WARD_NAME": "MENHI",
+        "LATITUDE": -7.278,
+        "LONGITUDE": 146.387301,
+        "REGHH": 47,
+        "TOTPOP2000": 322,
+        "MALE2000": 165,
+        "FEMALE2000": 157,
+        "POP2008": 402,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010301008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10458,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.39297300040369,
+          -7.291022000265059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10458,
+        "CU_NAME": "KETO",
+        "CU_NO": "010",
+        "GEOCODE": "12010301010",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "01",
+        "WARD_NAME": "MENHI",
+        "LATITUDE": -7.292448,
+        "LONGITUDE": 146.391939,
+        "REGHH": 27,
+        "TOTPOP2000": 146,
+        "MALE2000": 77,
+        "FEMALE2000": 69,
+        "POP2008": 182,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010301010,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10459,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.3902889998376,
+          -7.283072999719138
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10459,
+        "CU_NAME": "MENHI",
+        "CU_NO": "014",
+        "GEOCODE": "12010301014",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "01",
+        "WARD_NAME": "MENHI",
+        "LATITUDE": -7.284499,
+        "LONGITUDE": 146.389255,
+        "REGHH": 73,
+        "TOTPOP2000": 436,
+        "MALE2000": 208,
+        "FEMALE2000": 228,
+        "POP2008": 544,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010301014,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10460,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.58050899989053,
+          -7.3176980001625225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10460,
+        "CU_NAME": "TAVAHANA",
+        "CU_NO": "015",
+        "GEOCODE": "12010301015",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "01",
+        "WARD_NAME": "MENHI",
+        "LATITUDE": -7.319125,
+        "LONGITUDE": 146.579478,
+        "REGHH": 10,
+        "TOTPOP2000": 49,
+        "MALE2000": 24,
+        "FEMALE2000": 25,
+        "POP2008": 60,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010301015,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10253,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.000325216036,
+          -9.919256126169216
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10253,
+        "CU_NAME": "DARUBIA",
+        "CU_NO": "002",
+        "GEOCODE": "05041508002",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "08",
+        "WARD_NAME": "DARUBIA",
+        "LATITUDE": -9.919498,
+        "LONGITUDE": 150.996708,
+        "REGHH": 80,
+        "TOTPOP2000": 438,
+        "MALE2000": 226,
+        "FEMALE2000": 212,
+        "POP2008": 533,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041508002,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

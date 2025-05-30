@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21286,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4248010001661,
+          -6.114353000290691
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21286,
+        "CU_NAME": "HOKTE",
+        "CU_NO": "001",
+        "GEOCODE": "07072503001",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "03",
+        "WARD_NAME": "HARALINJA",
+        "LATITUDE": -6.118256,
+        "LONGITUDE": 143.424241,
+        "REGHH": 22,
+        "TOTPOP2000": 144,
+        "MALE2000": 75,
+        "FEMALE2000": 69,
+        "POP2008": 200,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072503001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21287,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.42362599994,
+          -6.114635999851487
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21287,
+        "CU_NAME": "ANDA",
+        "CU_NO": "002",
+        "GEOCODE": "07072503002",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "03",
+        "WARD_NAME": "HARALINJA",
+        "LATITUDE": -6.118256,
+        "LONGITUDE": 143.424241,
+        "REGHH": 37,
+        "TOTPOP2000": 335,
+        "MALE2000": 156,
+        "FEMALE2000": 179,
+        "POP2008": 466,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072503002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21288,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4239699996159,
+          -6.114080000291722
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21288,
+        "CU_NAME": "HANAL",
+        "CU_NO": "003",
+        "GEOCODE": "07072503003",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "03",
+        "WARD_NAME": "HARALINJA",
+        "LATITUDE": -6.118256,
+        "LONGITUDE": 143.424241,
+        "REGHH": 24,
+        "TOTPOP2000": 206,
+        "MALE2000": 101,
+        "FEMALE2000": 105,
+        "POP2008": 287,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072503003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21289,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.42320800044888,
+          -6.11401399994611
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21289,
+        "CU_NAME": "MOMEA",
+        "CU_NO": "004",
+        "GEOCODE": "07072503004",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "03",
+        "WARD_NAME": "HARALINJA",
+        "LATITUDE": -6.118256,
+        "LONGITUDE": 143.424241,
+        "REGHH": 46,
+        "TOTPOP2000": 430,
+        "MALE2000": 220,
+        "FEMALE2000": 210,
+        "POP2008": 597,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072503004,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

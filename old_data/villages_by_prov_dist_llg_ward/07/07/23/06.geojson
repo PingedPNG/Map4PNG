@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21231,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.65052399998262,
+          -6.246475000221039
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21231,
+        "CU_NAME": "SASIMADO",
+        "CU_NO": "010",
+        "GEOCODE": "07072306010",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "06",
+        "WARD_NAME": "DODOMONA",
+        "LATITUDE": -6.244657,
+        "LONGITUDE": 142.641409,
+        "REGHH": 17,
+        "TOTPOP2000": 107,
+        "MALE2000": 58,
+        "FEMALE2000": 49,
+        "POP2008": 149,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072306010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.64655100022856,
+          -6.225406999933057
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21232,
+        "CU_NAME": "KEBESE",
+        "CU_NO": "011",
+        "GEOCODE": "07072306011",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "06",
+        "WARD_NAME": "DODOMONA",
+        "LATITUDE": -6.239995,
+        "LONGITUDE": 142.638422,
+        "REGHH": 14,
+        "TOTPOP2000": 85,
+        "MALE2000": 46,
+        "FEMALE2000": 39,
+        "POP2008": 119,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072306011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6347480000203,
+          -6.243800000069882
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21233,
+        "CU_NAME": "AIFA",
+        "CU_NO": "012",
+        "GEOCODE": "07072306012",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "06",
+        "WARD_NAME": "DODOMONA",
+        "LATITUDE": -6.248047,
+        "LONGITUDE": 142.635007,
+        "REGHH": 7,
+        "TOTPOP2000": 32,
+        "MALE2000": 17,
+        "FEMALE2000": 15,
+        "POP2008": 44,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072306012,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.61647604233553,
+          -6.242141424487102
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21234,
+        "CU_NAME": "DODOMONA (SHP)",
+        "CU_NO": "015",
+        "GEOCODE": "07072306015",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "06",
+        "WARD_NAME": "DODOMONA (SHP)",
+        "LATITUDE": -6.242962,
+        "LONGITUDE": 142.634581,
+        "REGHH": 40,
+        "TOTPOP2000": 239,
+        "MALE2000": 120,
+        "FEMALE2000": 119,
+        "POP2008": 331,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072306015,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

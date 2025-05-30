@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10839,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.85253799972895,
+          -6.643370000125344
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10839,
+        "CU_NAME": "BUGAIM",
+        "CU_NO": "001",
+        "GEOCODE": "12020803001",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "03",
+        "WARD_NAME": "BUGAIM",
+        "LATITUDE": -6.644792,
+        "LONGITUDE": 147.851526,
+        "REGHH": 50,
+        "TOTPOP2000": 269,
+        "MALE2000": 131,
+        "FEMALE2000": 138,
+        "POP2008": 336,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020803001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10840,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.86153299994805,
+          -6.629766999647245
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10840,
+        "CU_NAME": "GINGALA",
+        "CU_NO": "002",
+        "GEOCODE": "12020803002",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "03",
+        "WARD_NAME": "BUGAIM",
+        "LATITUDE": -6.63048,
+        "LONGITUDE": 147.86052,
+        "REGHH": 43,
+        "TOTPOP2000": 196,
+        "MALE2000": 97,
+        "FEMALE2000": 99,
+        "POP2008": 244,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020803002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10841,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.857682000424,
+          -6.637240999872176
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10841,
+        "CU_NAME": "BUKI WHARF",
+        "CU_NO": "401",
+        "GEOCODE": "12020803401",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "03",
+        "WARD_NAME": "BUGAIM",
+        "LATITUDE": -6.637871,
+        "LONGITUDE": 147.857576,
+        "REGHH": 15,
+        "TOTPOP2000": 77,
+        "MALE2000": 46,
+        "FEMALE2000": 31,
+        "POP2008": 94,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020803401,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10842,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.85688000031178,
+          -6.635702999993384
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10842,
+        "CU_NAME": "DREGERHAFFEN H/SCH",
+        "CU_NO": "502",
+        "GEOCODE": "12020803502",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "03",
+        "WARD_NAME": "BUGAIM",
+        "LATITUDE": -6.640255,
+        "LONGITUDE": 147.853373,
+        "REGHH": 22,
+        "TOTPOP2000": 111,
+        "MALE2000": 59,
+        "FEMALE2000": 52,
+        "POP2008": 138,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020803502,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12405,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.440971999858,
+          -2.524808000388873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12405,
+        "CU_NAME": "KULPETAU/ATLA",
+        "CU_NO": "005",
+        "GEOCODE": "17010202005",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "PATIAGAGA",
+        "LATITUDE": -2.526182,
+        "LONGITUDE": 150.440002,
+        "REGHH": 86,
+        "TOTPOP2000": 454,
+        "MALE2000": 229,
+        "FEMALE2000": 225,
+        "POP2008": 571,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010202005,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12406,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.42456699966738,
+          -2.562043999830678
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12406,
+        "CU_NAME": "PATIAGAGA",
+        "CU_NO": "013",
+        "GEOCODE": "17010202013",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "PATIAGAGA",
+        "LATITUDE": -2.563419,
+        "LONGITUDE": 150.423597,
+        "REGHH": 107,
+        "TOTPOP2000": 478,
+        "MALE2000": 246,
+        "FEMALE2000": 232,
+        "POP2008": 601,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010202013,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12407,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.43673999985117,
+          -2.514050999853737
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12407,
+        "CU_NAME": "SUNGANPAKANG",
+        "CU_NO": "017",
+        "GEOCODE": "17010202017",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "02",
+        "WARD_NAME": "PATIAGAGA",
+        "LATITUDE": -2.515425,
+        "LONGITUDE": 150.43577,
+        "REGHH": 51,
+        "TOTPOP2000": 253,
+        "MALE2000": 134,
+        "FEMALE2000": 119,
+        "POP2008": 318,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010202017,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20900,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.76564400007067,
+          -5.817763999908607
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20900,
+        "CU_NAME": "PI",
+        "CU_NO": "001",
+        "GEOCODE": "07051721001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "21",
+        "WARD_NAME": "EGELE 1",
+        "LATITUDE": -5.828628,
+        "LONGITUDE": 142.758034,
+        "REGHH": 30,
+        "TOTPOP2000": 333,
+        "MALE2000": 159,
+        "FEMALE2000": 174,
+        "POP2008": 464,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051721001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.75780199996234,
+          -5.83351699970973
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20901,
+        "CU_NAME": "IPIRI",
+        "CU_NO": "002",
+        "GEOCODE": "07051721002",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "21",
+        "WARD_NAME": "EGELE 1",
+        "LATITUDE": -5.828628,
+        "LONGITUDE": 142.758034,
+        "REGHH": 13,
+        "TOTPOP2000": 98,
+        "MALE2000": 50,
+        "FEMALE2000": 48,
+        "POP2008": 135,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051721002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.75233100037542,
+          -5.831708999970317
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20902,
+        "CU_NAME": "TAYANDA",
+        "CU_NO": "003",
+        "GEOCODE": "07051721003",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "21",
+        "WARD_NAME": "EGELE 1",
+        "LATITUDE": -5.828628,
+        "LONGITUDE": 142.758034,
+        "REGHH": 33,
+        "TOTPOP2000": 256,
+        "MALE2000": 129,
+        "FEMALE2000": 127,
+        "POP2008": 356,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051721003,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20903,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.76780499990093,
+          -5.828919999957975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20903,
+        "CU_NAME": "HORA",
+        "CU_NO": "004",
+        "GEOCODE": "07051721004",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "17",
+        "WARD_NO": "21",
+        "WARD_NAME": "EGELE 1",
+        "LATITUDE": -5.828628,
+        "LONGITUDE": 142.758034,
+        "REGHH": 22,
+        "TOTPOP2000": 216,
+        "MALE2000": 107,
+        "FEMALE2000": 109,
+        "POP2008": 300,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051721004,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

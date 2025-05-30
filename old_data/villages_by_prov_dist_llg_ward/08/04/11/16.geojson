@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5802,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7093839999717,
+          -5.474333999614316
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5802,
+        "CU_NAME": "AIPINAMANDA",
+        "CU_NO": "011",
+        "GEOCODE": "08041116011",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "AIPINAMANDA",
+        "LATITUDE": -5.475736,
+        "LONGITUDE": 143.708319,
+        "REGHH": 98,
+        "TOTPOP2000": 1004,
+        "MALE2000": 500,
+        "FEMALE2000": 504,
+        "POP2008": 1264,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041116011,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5803,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7256829997707,
+          -5.486158999937857
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5803,
+        "CU_NAME": "ITATEP",
+        "CU_NO": "012",
+        "GEOCODE": "08041116012",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "AIPINAMANDA",
+        "LATITUDE": -5.4892,
+        "LONGITUDE": 143.724081,
+        "REGHH": 49,
+        "TOTPOP2000": 329,
+        "MALE2000": 167,
+        "FEMALE2000": 162,
+        "POP2008": 414,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041116012,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5804,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7140219998155,
+          -5.470124999768871
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5804,
+        "CU_NAME": "TOLEM",
+        "CU_NO": "013",
+        "GEOCODE": "08041116013",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "AIPINAMANDA",
+        "LATITUDE": -5.471527,
+        "LONGITUDE": 143.712957,
+        "REGHH": 20,
+        "TOTPOP2000": 235,
+        "MALE2000": 125,
+        "FEMALE2000": 110,
+        "POP2008": 295,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041116013,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5805,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7201789995612,
+          -5.487344999771892
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5805,
+        "CU_NAME": "DIWITEGES",
+        "CU_NO": "014",
+        "GEOCODE": "08041116014",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "AIPINAMANDA",
+        "LATITUDE": -5.489342,
+        "LONGITUDE": 143.721535,
+        "REGHH": 76,
+        "TOTPOP2000": 476,
+        "MALE2000": 260,
+        "FEMALE2000": 216,
+        "POP2008": 598,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041116014,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5806,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7299050002157,
+          -5.478623999597858
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5806,
+        "CU_NAME": "MANGAPOS",
+        "CU_NO": "015",
+        "GEOCODE": "08041116015",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "AIPINAMANDA",
+        "LATITUDE": -5.479625,
+        "LONGITUDE": 143.718577,
+        "REGHH": 14,
+        "TOTPOP2000": 166,
+        "MALE2000": 91,
+        "FEMALE2000": 75,
+        "POP2008": 209,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041116015,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

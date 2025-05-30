@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19164,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.06638400012162,
+          -6.380207999799325
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19164,
+        "CU_NAME": "YUNGILI",
+        "CU_NO": "001",
+        "GEOCODE": "07010119001",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "19",
+        "WARD_NAME": "YUNGILI",
+        "LATITUDE": -6.3871,
+        "LONGITUDE": 144.068273,
+        "REGHH": 55,
+        "TOTPOP2000": 335,
+        "MALE2000": 168,
+        "FEMALE2000": 167,
+        "POP2008": 466,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010119001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19165,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0687799999971,
+          -6.383128999603628
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19165,
+        "CU_NAME": "KAMENDA",
+        "CU_NO": "002",
+        "GEOCODE": "07010119002",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "19",
+        "WARD_NAME": "YUNGILI",
+        "LATITUDE": -6.3871,
+        "LONGITUDE": 144.068273,
+        "REGHH": 16,
+        "TOTPOP2000": 104,
+        "MALE2000": 54,
+        "FEMALE2000": 50,
+        "POP2008": 145,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010119002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19166,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0647480002201,
+          -6.384144999691955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19166,
+        "CU_NAME": "LUAPINI",
+        "CU_NO": "003",
+        "GEOCODE": "07010119003",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "19",
+        "WARD_NAME": "YUNGILI",
+        "LATITUDE": -6.3871,
+        "LONGITUDE": 144.068273,
+        "REGHH": 9,
+        "TOTPOP2000": 53,
+        "MALE2000": 26,
+        "FEMALE2000": 27,
+        "POP2008": 73,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010119003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19167,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0620699999306,
+          -6.382838999720036
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19167,
+        "CU_NAME": "KAWAREKE",
+        "CU_NO": "004",
+        "GEOCODE": "07010119004",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "19",
+        "WARD_NAME": "YUNGILI",
+        "LATITUDE": -6.3871,
+        "LONGITUDE": 144.068273,
+        "REGHH": 33,
+        "TOTPOP2000": 250,
+        "MALE2000": 128,
+        "FEMALE2000": 122,
+        "POP2008": 347,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010119004,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

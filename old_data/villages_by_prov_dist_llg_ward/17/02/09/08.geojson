@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.56356399967888,
+          -3.147137000072462
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12937,
+        "CU_NAME": "SAMO NO. 1",
+        "CU_NO": "023",
+        "GEOCODE": "17020908023",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "08",
+        "WARD_NAME": "SAMO",
+        "LATITUDE": -3.148522,
+        "LONGITUDE": 152.562625,
+        "REGHH": 73,
+        "TOTPOP2000": 376,
+        "MALE2000": 200,
+        "FEMALE2000": 176,
+        "POP2008": 473,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020908023,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.5641859995843,
+          -3.1594860002786618
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12938,
+        "CU_NAME": "SAMO NO. 2",
+        "CU_NO": "024",
+        "GEOCODE": "17020908024",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "08",
+        "WARD_NAME": "SAMO",
+        "LATITUDE": -3.160871,
+        "LONGITUDE": 152.563247,
+        "REGHH": 44,
+        "TOTPOP2000": 202,
+        "MALE2000": 113,
+        "FEMALE2000": 89,
+        "POP2008": 254,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020908024,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12939,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.56887199984294,
+          -3.1653590004174816
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12939,
+        "CU_NAME": "SIANUS",
+        "CU_NO": "025",
+        "GEOCODE": "17020908025",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "08",
+        "WARD_NAME": "SAMO",
+        "LATITUDE": -3.166744,
+        "LONGITUDE": 152.567933,
+        "REGHH": 54,
+        "TOTPOP2000": 244,
+        "MALE2000": 128,
+        "FEMALE2000": 116,
+        "POP2008": 306,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020908025,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

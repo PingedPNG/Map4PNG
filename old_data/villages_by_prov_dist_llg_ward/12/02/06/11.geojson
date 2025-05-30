@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10715,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4636779998399,
+          -6.464267000121936
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10715,
+        "CU_NAME": "NAMORAK",
+        "CU_NO": "002",
+        "GEOCODE": "12020611002",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "11",
+        "WARD_NAME": "TUMNONG",
+        "LATITUDE": -6.465686,
+        "LONGITUDE": 147.462661,
+        "REGHH": 36,
+        "TOTPOP2000": 132,
+        "MALE2000": 57,
+        "FEMALE2000": 75,
+        "POP2008": 164,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020611002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10716,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.44779100015455,
+          -6.471017000234326
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10716,
+        "CU_NAME": "MAMUS",
+        "CU_NO": "003",
+        "GEOCODE": "12020611003",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "11",
+        "WARD_NAME": "TUMNONG",
+        "LATITUDE": -6.472436,
+        "LONGITUDE": 147.446773,
+        "REGHH": 61,
+        "TOTPOP2000": 317,
+        "MALE2000": 147,
+        "FEMALE2000": 170,
+        "POP2008": 395,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020611003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10717,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.43435900036764,
+          -6.473506999948029
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10717,
+        "CU_NAME": "TUMNONG",
+        "CU_NO": "015",
+        "GEOCODE": "12020611015",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "11",
+        "WARD_NAME": "TUMNONG",
+        "LATITUDE": -6.474926,
+        "LONGITUDE": 147.433341,
+        "REGHH": 46,
+        "TOTPOP2000": 278,
+        "MALE2000": 129,
+        "FEMALE2000": 149,
+        "POP2008": 346,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020611015,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

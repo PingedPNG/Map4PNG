@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18824,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.18394199992338,
+          -4.927354999733382
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18824,
+        "CU_NAME": "MONGABIP",
+        "CU_NO": "012",
+        "GEOCODE": "15031118012",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "MONGABIP",
+        "LATITUDE": -4.928747,
+        "LONGITUDE": 141.182847,
+        "REGHH": 24,
+        "TOTPOP2000": 144,
+        "MALE2000": 61,
+        "FEMALE2000": 83,
+        "POP2008": 175,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031118012,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5683,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9991669996574,
+          -5.459965999830956
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5683,
+        "CU_NAME": "MANDUKALE",
+        "CU_NO": "008",
+        "GEOCODE": "08030811008",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "11",
+        "WARD_NAME": "MANDUKALE",
+        "LATITUDE": -5.461366,
+        "LONGITUDE": 142.998093,
+        "REGHH": 68,
+        "TOTPOP2000": 439,
+        "MALE2000": 228,
+        "FEMALE2000": 211,
+        "POP2008": 552,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030811008,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.47259999969026,
+          -5.428883999996572
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18131,
+        "CU_NAME": "KOLOLO",
+        "CU_NO": "010",
+        "GEOCODE": "19020805010",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "VALOKA",
+        "LATITUDE": -5.42973,
+        "LONGITUDE": 150.472,
+        "REGHH": 44,
+        "TOTPOP2000": 335,
+        "MALE2000": 178,
+        "FEMALE2000": 157,
+        "POP2008": 441,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020805010,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4899729995543,
+          -5.436446999829116
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18132,
+        "CU_NAME": "KAVUTU",
+        "CU_NO": "012",
+        "GEOCODE": "19020805012",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "VALOKA",
+        "LATITUDE": -5.43786,
+        "LONGITUDE": 150.489,
+        "REGHH": 50,
+        "TOTPOP2000": 349,
+        "MALE2000": 174,
+        "FEMALE2000": 175,
+        "POP2008": 461,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020805012,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.46136699968736,
+          -5.432438000213494
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18133,
+        "CU_NAME": "VALOKA",
+        "CU_NO": "028",
+        "GEOCODE": "19020805028",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "VALOKA",
+        "LATITUDE": -5.43143,
+        "LONGITUDE": 150.458,
+        "REGHH": 90,
+        "TOTPOP2000": 788,
+        "MALE2000": 393,
+        "FEMALE2000": 395,
+        "POP2008": 1040,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020805028,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4549729998041,
+          -5.429666000085774
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18134,
+        "CU_NAME": "VALOKA  MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "19020805401",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "VALOKA",
+        "LATITUDE": -5.43189,
+        "LONGITUDE": 150.456,
+        "REGHH": 16,
+        "TOTPOP2000": 149,
+        "MALE2000": 61,
+        "FEMALE2000": 88,
+        "POP2008": 196,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020805401,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.5051950000493,
+          -5.440809000434967
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18135,
+        "CU_NAME": "MORAMORA TECH SCH.",
+        "CU_NO": "402",
+        "GEOCODE": "19020805402",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "VALOKA",
+        "LATITUDE": -5.442222,
+        "LONGITUDE": 150.504223,
+        "REGHH": 15,
+        "TOTPOP2000": 78,
+        "MALE2000": 39,
+        "FEMALE2000": 39,
+        "POP2008": 102,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19020805402,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

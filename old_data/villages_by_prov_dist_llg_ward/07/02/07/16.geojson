@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19683,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7748540001121,
+          -6.218454000351812
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19683,
+        "CU_NAME": "OMAI",
+        "CU_NO": "008",
+        "GEOCODE": "07020716008",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "16",
+        "WARD_NAME": "OMMAI",
+        "LATITUDE": -6.2229,
+        "LONGITUDE": 143.775147,
+        "REGHH": 42,
+        "TOTPOP2000": 249,
+        "MALE2000": 124,
+        "FEMALE2000": 125,
+        "POP2008": 345,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020716008,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19684,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.77774799957058,
+          -6.220077999699868
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19684,
+        "CU_NAME": "YAME",
+        "CU_NO": "009",
+        "GEOCODE": "07020716009",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "16",
+        "WARD_NAME": "OMMAI",
+        "LATITUDE": -6.2229,
+        "LONGITUDE": 143.775147,
+        "REGHH": 31,
+        "TOTPOP2000": 168,
+        "MALE2000": 86,
+        "FEMALE2000": 82,
+        "POP2008": 233,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020716009,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19685,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7731339999342,
+          -6.216651999989779
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19685,
+        "CU_NAME": "KANA",
+        "CU_NO": "010",
+        "GEOCODE": "07020716010",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "16",
+        "WARD_NAME": "OMMAI",
+        "LATITUDE": -6.2229,
+        "LONGITUDE": 143.775147,
+        "REGHH": 39,
+        "TOTPOP2000": 190,
+        "MALE2000": 99,
+        "FEMALE2000": 91,
+        "POP2008": 264,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020716010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19686,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.77686200008134,
+          -6.215481999994267
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19686,
+        "CU_NAME": "ILO",
+        "CU_NO": "011",
+        "GEOCODE": "07020716011",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "16",
+        "WARD_NAME": "OMMAI",
+        "LATITUDE": -6.2229,
+        "LONGITUDE": 143.775147,
+        "REGHH": 44,
+        "TOTPOP2000": 234,
+        "MALE2000": 124,
+        "FEMALE2000": 110,
+        "POP2008": 326,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020716011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19687,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7751340004338,
+          -6.214629000228115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19687,
+        "CU_NAME": "OYANGA",
+        "CU_NO": "012",
+        "GEOCODE": "07020716012",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "16",
+        "WARD_NAME": "OMMAI",
+        "LATITUDE": -6.2229,
+        "LONGITUDE": 143.775147,
+        "REGHH": 16,
+        "TOTPOP2000": 80,
+        "MALE2000": 45,
+        "FEMALE2000": 35,
+        "POP2008": 110,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020716012,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5561,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5581599995844,
+          -5.563181000402778
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5561,
+        "CU_NAME": "LANDELAM",
+        "CU_NO": "019",
+        "GEOCODE": "08030607019",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "LANDELAM",
+        "LATITUDE": -5.564583,
+        "LONGITUDE": 143.557093,
+        "REGHH": 39,
+        "TOTPOP2000": 192,
+        "MALE2000": 103,
+        "FEMALE2000": 89,
+        "POP2008": 242,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030607019,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

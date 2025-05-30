@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9906,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.75635100029854,
+          -10.631642999924452
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9906,
+        "CU_NAME": "GUNTUKA",
+        "CU_NO": "001",
+        "GEOCODE": "05020909001",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "GULEWA",
+        "LATITUDE": -10.630315,
+        "LONGITUDE": 152.75493,
+        "REGHH": 11,
+        "TOTPOP2000": 56,
+        "MALE2000": 28,
+        "FEMALE2000": 28,
+        "POP2008": 67,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020909001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9907,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.7487450002816,
+          -10.630842999904473
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9907,
+        "CU_NAME": "LAWAK",
+        "CU_NO": "002",
+        "GEOCODE": "05020909002",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "GULEWA",
+        "LATITUDE": -10.632321,
+        "LONGITUDE": 152.747794,
+        "REGHH": 43,
+        "TOTPOP2000": 222,
+        "MALE2000": 108,
+        "FEMALE2000": 114,
+        "POP2008": 271,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020909002,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9908,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.7416420000783,
+          -10.635967999723334
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9908,
+        "CU_NAME": "BOBOAGA",
+        "CU_NO": "003",
+        "GEOCODE": "05020909003",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "GULEWA",
+        "LATITUDE": -10.636526,
+        "LONGITUDE": 152.739317,
+        "REGHH": 21,
+        "TOTPOP2000": 106,
+        "MALE2000": 54,
+        "FEMALE2000": 52,
+        "POP2008": 130,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020909003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9909,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.7358940003079,
+          -10.638106000291657
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9909,
+        "CU_NAME": "HIWINA",
+        "CU_NO": "004",
+        "GEOCODE": "05020909004",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "GULEWA",
+        "LATITUDE": -10.638663,
+        "LONGITUDE": 152.733569,
+        "REGHH": 44,
+        "TOTPOP2000": 196,
+        "MALE2000": 98,
+        "FEMALE2000": 98,
+        "POP2008": 239,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020909004,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9910,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.72313800021857,
+          -10.641346000417514
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9910,
+        "CU_NAME": "KAKAMWA",
+        "CU_NO": "005",
+        "GEOCODE": "05020909005",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "GULEWA",
+        "LATITUDE": -10.642823,
+        "LONGITUDE": 152.722187,
+        "REGHH": 58,
+        "TOTPOP2000": 253,
+        "MALE2000": 129,
+        "FEMALE2000": 124,
+        "POP2008": 308,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020909005,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9911,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.71871600044312,
+          -10.641498000232502
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9911,
+        "CU_NAME": "BOGENA",
+        "CU_NO": "006",
+        "GEOCODE": "05020909006",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "09",
+        "WARD_NAME": "GULEWA",
+        "LATITUDE": -10.642976,
+        "LONGITUDE": 152.717765,
+        "REGHH": 2,
+        "TOTPOP2000": 7,
+        "MALE2000": 5,
+        "FEMALE2000": 2,
+        "POP2008": 7,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020909006,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17548,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.03715800044142,
+          -5.957894000407748
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17548,
+        "CU_NAME": "KOPINE",
+        "CU_NO": "018",
+        "GEOCODE": "09071240018",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "40",
+        "WARD_NAME": "KOPINE",
+        "LATITUDE": -5.958833,
+        "LONGITUDE": 144.037488,
+        "REGHH": 18,
+        "TOTPOP2000": 73,
+        "MALE2000": 32,
+        "FEMALE2000": 41,
+        "POP2008": 89,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071240018,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17549,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.02391999970826,
+          -5.953757000285293
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17549,
+        "CU_NAME": "OLGIAMB",
+        "CU_NO": "019",
+        "GEOCODE": "09071240019",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "40",
+        "WARD_NAME": "KOPINE",
+        "LATITUDE": -5.954697,
+        "LONGITUDE": 144.02425,
+        "REGHH": 37,
+        "TOTPOP2000": 163,
+        "MALE2000": 67,
+        "FEMALE2000": 96,
+        "POP2008": 198,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071240019,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17550,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.02380299970878,
+          -5.95911299996493
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17550,
+        "CU_NAME": "MAKARAPI",
+        "CU_NO": "020",
+        "GEOCODE": "09071240020",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "40",
+        "WARD_NAME": "KOPINE",
+        "LATITUDE": -5.960052,
+        "LONGITUDE": 144.024133,
+        "REGHH": 71,
+        "TOTPOP2000": 305,
+        "MALE2000": 154,
+        "FEMALE2000": 151,
+        "POP2008": 372,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071240020,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.05518099970345,
+          -5.987855999854446
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17551,
+        "CU_NAME": "KULPENA",
+        "CU_NO": "021",
+        "GEOCODE": "09071240021",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "40",
+        "WARD_NAME": "KOPINE",
+        "LATITUDE": -5.988797,
+        "LONGITUDE": 144.055513,
+        "REGHH": 45,
+        "TOTPOP2000": 237,
+        "MALE2000": 115,
+        "FEMALE2000": 122,
+        "POP2008": 289,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071240021,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.04873099993574,
+          -5.964317999875732
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17552,
+        "CU_NAME": "NUMUL",
+        "CU_NO": "022",
+        "GEOCODE": "09071240022",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "40",
+        "WARD_NAME": "KOPINE",
+        "LATITUDE": -5.965257,
+        "LONGITUDE": 144.049061,
+        "REGHH": 30,
+        "TOTPOP2000": 122,
+        "MALE2000": 67,
+        "FEMALE2000": 55,
+        "POP2008": 148,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071240022,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

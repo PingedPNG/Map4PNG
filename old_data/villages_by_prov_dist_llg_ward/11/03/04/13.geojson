@@ -1,0 +1,837 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29392,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6938928796527,
+          -6.087598020132475
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29392,
+        "CU_NAME": "YAMUNTANA",
+        "CU_NO": "010",
+        "GEOCODE": "11030413010",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.087598,
+        "LONGITUDE": 145.693893,
+        "REGHH": 18,
+        "TOTPOP2000": 77,
+        "MALE2000": 39,
+        "FEMALE2000": 38,
+        "POP2008": 93,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29393,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.69169615965006,
+          -6.09493320010705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29393,
+        "CU_NAME": "ROMPARE",
+        "CU_NO": "011",
+        "GEOCODE": "11030413011",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.094933,
+        "LONGITUDE": 145.691696,
+        "REGHH": 38,
+        "TOTPOP2000": 136,
+        "MALE2000": 74,
+        "FEMALE2000": 62,
+        "POP2008": 160,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29394,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67641667988596,
+          -6.111423179935741
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29394,
+        "CU_NAME": "KUYANTOA",
+        "CU_NO": "022",
+        "GEOCODE": "11030413022",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.111423,
+        "LONGITUDE": 145.676417,
+        "REGHH": 72,
+        "TOTPOP2000": 266,
+        "MALE2000": 144,
+        "FEMALE2000": 122,
+        "POP2008": 317,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29395,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6915201200576,
+          -6.094263959713942
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29395,
+        "CU_NAME": "KESO",
+        "CU_NO": "025",
+        "GEOCODE": "11030413025",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.094264,
+        "LONGITUDE": 145.69152,
+        "REGHH": 19,
+        "TOTPOP2000": 94,
+        "MALE2000": 54,
+        "FEMALE2000": 40,
+        "POP2008": 110,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29396,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.68919379965416,
+          -6.088323960082619
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29396,
+        "CU_NAME": "BEFUGONA",
+        "CU_NO": "032",
+        "GEOCODE": "11030413032",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.088324,
+        "LONGITUDE": 145.689194,
+        "REGHH": 22,
+        "TOTPOP2000": 138,
+        "MALE2000": 72,
+        "FEMALE2000": 66,
+        "POP2008": 162,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29397,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.68821784008128,
+          -6.098891039989439
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29397,
+        "CU_NAME": "TARU",
+        "CU_NO": "039",
+        "GEOCODE": "11030413039",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.098891,
+        "LONGITUDE": 145.688218,
+        "REGHH": 39,
+        "TOTPOP2000": 137,
+        "MALE2000": 65,
+        "FEMALE2000": 72,
+        "POP2008": 161,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29398,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.69272971990074,
+          -6.082666920441966
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29398,
+        "CU_NAME": "FONTOGU",
+        "CU_NO": "041",
+        "GEOCODE": "11030413041",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.082667,
+        "LONGITUDE": 145.69273,
+        "REGHH": 20,
+        "TOTPOP2000": 83,
+        "MALE2000": 40,
+        "FEMALE2000": 43,
+        "POP2008": 99,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29399,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.68648335991918,
+          -6.088750200061611
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29399,
+        "CU_NAME": "KEREGENA",
+        "CU_NO": "042",
+        "GEOCODE": "11030413042",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.08875,
+        "LONGITUDE": 145.686483,
+        "REGHH": 21,
+        "TOTPOP2000": 73,
+        "MALE2000": 36,
+        "FEMALE2000": 37,
+        "POP2008": 89,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29400,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.69602479990465,
+          -6.084310230033054
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29400,
+        "CU_NAME": "SEFETO",
+        "CU_NO": "043",
+        "GEOCODE": "11030413043",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.08431,
+        "LONGITUDE": 145.696025,
+        "REGHH": 17,
+        "TOTPOP2000": 74,
+        "MALE2000": 40,
+        "FEMALE2000": 34,
+        "POP2008": 90,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29401,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.68802847973063,
+          -6.083908199803545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29401,
+        "CU_NAME": "KONNY",
+        "CU_NO": "044",
+        "GEOCODE": "11030413044",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.083908,
+        "LONGITUDE": 145.688028,
+        "REGHH": 17,
+        "TOTPOP2000": 90,
+        "MALE2000": 43,
+        "FEMALE2000": 47,
+        "POP2008": 106,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29402,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6915629601625,
+          -6.089040990449291
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29402,
+        "CU_NAME": "KAMUROCKS",
+        "CU_NO": "045",
+        "GEOCODE": "11030413045",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.089041,
+        "LONGITUDE": 145.691563,
+        "REGHH": 25,
+        "TOTPOP2000": 103,
+        "MALE2000": 57,
+        "FEMALE2000": 46,
+        "POP2008": 121,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29403,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6978071599725,
+          -6.100230150301172
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29403,
+        "CU_NAME": "KEKOLAND",
+        "CU_NO": "046",
+        "GEOCODE": "11030413046",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.10023,
+        "LONGITUDE": 145.697807,
+        "REGHH": 16,
+        "TOTPOP2000": 73,
+        "MALE2000": 40,
+        "FEMALE2000": 33,
+        "POP2008": 89,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29404,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70704691967967,
+          -6.077226419563544
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29404,
+        "CU_NAME": "NERAGAHIROE",
+        "CU_NO": "047",
+        "GEOCODE": "11030413047",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.077226,
+        "LONGITUDE": 145.707047,
+        "REGHH": 57,
+        "TOTPOP2000": 262,
+        "MALE2000": 125,
+        "FEMALE2000": 137,
+        "POP2008": 312,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29405,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70201772014173,
+          -6.0869570400353155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29405,
+        "CU_NAME": "MENINKA",
+        "CU_NO": "048",
+        "GEOCODE": "11030413048",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.086957,
+        "LONGITUDE": 145.702018,
+        "REGHH": 8,
+        "TOTPOP2000": 42,
+        "MALE2000": 22,
+        "FEMALE2000": 20,
+        "POP2008": 50,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29406,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.68487020009968,
+          -6.082652249801413
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29406,
+        "CU_NAME": "LIFITE",
+        "CU_NO": "049",
+        "GEOCODE": "11030413049",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.082652,
+        "LONGITUDE": 145.68487,
+        "REGHH": 34,
+        "TOTPOP2000": 121,
+        "MALE2000": 62,
+        "FEMALE2000": 59,
+        "POP2008": 145,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29407,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.68204888025173,
+          -6.102795870233194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29407,
+        "CU_NAME": "HAKONTI",
+        "CU_NO": "050",
+        "GEOCODE": "11030413050",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.102796,
+        "LONGITUDE": 145.682049,
+        "REGHH": 21,
+        "TOTPOP2000": 87,
+        "MALE2000": 43,
+        "FEMALE2000": 44,
+        "POP2008": 103,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29408,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.68457427997907,
+          -6.079428270198491
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29408,
+        "CU_NAME": "WESANIFI",
+        "CU_NO": "051",
+        "GEOCODE": "11030413051",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.079428,
+        "LONGITUDE": 145.684574,
+        "REGHH": 18,
+        "TOTPOP2000": 70,
+        "MALE2000": 37,
+        "FEMALE2000": 33,
+        "POP2008": 86,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29409,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.69598592041393,
+          -6.086443049606999
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29409,
+        "CU_NAME": "SAITIA",
+        "CU_NO": "052",
+        "GEOCODE": "11030413052",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.086443,
+        "LONGITUDE": 145.695986,
+        "REGHH": 29,
+        "TOTPOP2000": 100,
+        "MALE2000": 57,
+        "FEMALE2000": 43,
+        "POP2008": 117,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29410,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7006201997625,
+          -6.082207290434042
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29410,
+        "CU_NAME": "YANKELKE",
+        "CU_NO": "053",
+        "GEOCODE": "11030413053",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.082207,
+        "LONGITUDE": 145.70062,
+        "REGHH": 24,
+        "TOTPOP2000": 91,
+        "MALE2000": 49,
+        "FEMALE2000": 42,
+        "POP2008": 107,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29411,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.69372079977518,
+          -6.097308209805988
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29411,
+        "CU_NAME": "KILAO",
+        "CU_NO": "054",
+        "GEOCODE": "11030413054",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.097308,
+        "LONGITUDE": 145.693721,
+        "REGHH": 5,
+        "TOTPOP2000": 27,
+        "MALE2000": 12,
+        "FEMALE2000": 15,
+        "POP2008": 35,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29412,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6772921995754,
+          -6.1067575798983285
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29412,
+        "CU_NAME": "SEIJOKA",
+        "CU_NO": "055",
+        "GEOCODE": "11030413055",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.106758,
+        "LONGITUDE": 145.677292,
+        "REGHH": 18,
+        "TOTPOP2000": 78,
+        "MALE2000": 38,
+        "FEMALE2000": 40,
+        "POP2008": 94,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29413,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70065007973744,
+          -6.080938200437572
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29413,
+        "CU_NAME": "NOTAPAFI",
+        "CU_NO": "056",
+        "GEOCODE": "11030413056",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.080938,
+        "LONGITUDE": 145.70065,
+        "REGHH": 19,
+        "TOTPOP2000": 85,
+        "MALE2000": 42,
+        "FEMALE2000": 43,
+        "POP2008": 101,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29414,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6859271598106,
+          -6.08480225991633
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29414,
+        "CU_NAME": "WARESAFI",
+        "CU_NO": "057",
+        "GEOCODE": "11030413057",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.084802,
+        "LONGITUDE": 145.685927,
+        "REGHH": 21,
+        "TOTPOP2000": 85,
+        "MALE2000": 43,
+        "FEMALE2000": 42,
+        "POP2008": 101,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29415,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6989627600234,
+          -6.085077750137998
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29415,
+        "CU_NAME": "KOTUGU YANE",
+        "CU_NO": "058",
+        "GEOCODE": "11030413058",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.085078,
+        "LONGITUDE": 145.698963,
+        "REGHH": 24,
+        "TOTPOP2000": 94,
+        "MALE2000": 46,
+        "FEMALE2000": 48,
+        "POP2008": 110,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29416,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70286552002779,
+          -6.072433290264087
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29416,
+        "CU_NAME": "KARAFUKA",
+        "CU_NO": "059",
+        "GEOCODE": "11030413059",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.072433,
+        "LONGITUDE": 145.702866,
+        "REGHH": 29,
+        "TOTPOP2000": 121,
+        "MALE2000": 67,
+        "FEMALE2000": 54,
+        "POP2008": 145,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29417,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7209436396373,
+          -6.134340779903027
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29417,
+        "CU_NAME": "WAGAVE COMM SCH",
+        "CU_NO": "401",
+        "GEOCODE": "11030413401",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUYAHAPA",
+        "LATITUDE": -6.134341,
+        "LONGITUDE": 145.720944,
+        "REGHH": 2,
+        "TOTPOP2000": 8,
+        "MALE2000": 6,
+        "FEMALE2000": 2,
+        "POP2008": 8,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

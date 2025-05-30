@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6297,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.92077100038148,
+          -4.099878999616067
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6297,
+        "CU_NAME": "PINANG",
+        "CU_NO": "016",
+        "GEOCODE": "14020511016",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "PINANG",
+        "LATITUDE": -4.101463,
+        "LONGITUDE": 143.919542,
+        "REGHH": 70,
+        "TOTPOP2000": 530,
+        "MALE2000": 295,
+        "FEMALE2000": 235,
+        "POP2008": 631,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020511016,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

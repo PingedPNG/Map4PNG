@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13473,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.9692810000182,
+          -8.88941400025584
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13473,
+        "CU_NAME": "HAKI 1",
+        "CU_NO": "010",
+        "GEOCODE": "06020514010",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "14",
+        "WARD_NAME": "HAMARA",
+        "LATITUDE": -8.89086,
+        "LONGITUDE": 147.968265,
+        "REGHH": 26,
+        "TOTPOP2000": 159,
+        "MALE2000": 83,
+        "FEMALE2000": 76,
+        "POP2008": 197,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020514010,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13474,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.95823599969174,
+          -8.884562000435949
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13474,
+        "CU_NAME": "HAKI 2",
+        "CU_NO": "011",
+        "GEOCODE": "06020514011",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "14",
+        "WARD_NAME": "HAMARA",
+        "LATITUDE": -8.886008,
+        "LONGITUDE": 147.95722,
+        "REGHH": 17,
+        "TOTPOP2000": 113,
+        "MALE2000": 55,
+        "FEMALE2000": 58,
+        "POP2008": 139,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020514011,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13475,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.96208099983835,
+          -8.874981000172966
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13475,
+        "CU_NAME": "HAMARA",
+        "CU_NO": "012",
+        "GEOCODE": "06020514012",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "14",
+        "WARD_NAME": "HAMARA",
+        "LATITUDE": -8.875095,
+        "LONGITUDE": 147.960106,
+        "REGHH": 27,
+        "TOTPOP2000": 165,
+        "MALE2000": 81,
+        "FEMALE2000": 84,
+        "POP2008": 204,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020514012,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13476,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.97543399957954,
+          -8.897518999901877
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13476,
+        "CU_NAME": "HOJAKI",
+        "CU_NO": "015",
+        "GEOCODE": "06020514015",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "14",
+        "WARD_NAME": "HAMARA",
+        "LATITUDE": -8.898967,
+        "LONGITUDE": 147.974418,
+        "REGHH": 25,
+        "TOTPOP2000": 135,
+        "MALE2000": 72,
+        "FEMALE2000": 63,
+        "POP2008": 167,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020514015,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

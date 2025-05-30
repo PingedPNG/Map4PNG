@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9300,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.24009699957696,
+          -5.407990999684841
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9300,
+        "CU_NAME": "BANAM",
+        "CU_NO": "002",
+        "GEOCODE": "13061633002",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "33",
+        "WARD_NAME": "MUSAK",
+        "LATITUDE": -5.413751,
+        "LONGITUDE": 145.237589,
+        "REGHH": 11,
+        "TOTPOP2000": 59,
+        "MALE2000": 34,
+        "FEMALE2000": 25,
+        "POP2008": 75,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061633002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9301,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.21171500014725,
+          -5.246667000281775
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9301,
+        "CU_NAME": "KIKIRAI",
+        "CU_NO": "012",
+        "GEOCODE": "13061633012",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "33",
+        "WARD_NAME": "MUSAK",
+        "LATITUDE": -5.248069,
+        "LONGITUDE": 145.21067,
+        "REGHH": 17,
+        "TOTPOP2000": 100,
+        "MALE2000": 58,
+        "FEMALE2000": 42,
+        "POP2008": 124,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061633012,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9302,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.24130000019488,
+          -5.334527999667387
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9302,
+        "CU_NAME": "MUSAK",
+        "CU_NO": "014",
+        "GEOCODE": "13061633014",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "33",
+        "WARD_NAME": "MUSAK",
+        "LATITUDE": -5.335931,
+        "LONGITUDE": 145.240255,
+        "REGHH": 46,
+        "TOTPOP2000": 263,
+        "MALE2000": 127,
+        "FEMALE2000": 136,
+        "POP2008": 325,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061633014,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9303,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.21811200016873,
+          -5.455357000425181
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9303,
+        "CU_NAME": "SEPU",
+        "CU_NO": "015",
+        "GEOCODE": "13061633015",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "33",
+        "WARD_NAME": "MUSAK",
+        "LATITUDE": -5.458793,
+        "LONGITUDE": 145.214516,
+        "REGHH": 14,
+        "TOTPOP2000": 107,
+        "MALE2000": 60,
+        "FEMALE2000": 47,
+        "POP2008": 131,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061633015,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9304,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.11663299961333,
+          -5.398577999974691
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9304,
+        "CU_NAME": "LAINBUAI",
+        "CU_NO": "016",
+        "GEOCODE": "13061633016",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "33",
+        "WARD_NAME": "MUSAK",
+        "LATITUDE": -5.399067,
+        "LONGITUDE": 145.116372,
+        "REGHH": 19,
+        "TOTPOP2000": 102,
+        "MALE2000": 58,
+        "FEMALE2000": 44,
+        "POP2008": 126,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061633016,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

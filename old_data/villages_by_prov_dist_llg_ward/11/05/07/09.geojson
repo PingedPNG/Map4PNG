@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30034,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.24261883978772,
+          -6.458850719784834
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30034,
+        "CU_NAME": "AMENAMO",
+        "CU_NO": "006",
+        "GEOCODE": "11050709006",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "MANE NO 1",
+        "LATITUDE": -6.458851,
+        "LONGITUDE": 145.242619,
+        "REGHH": 63,
+        "TOTPOP2000": 261,
+        "MALE2000": 136,
+        "FEMALE2000": 125,
+        "POP2008": 311,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30035,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2360016803334,
+          -6.473072430448269
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30035,
+        "CU_NAME": "RARO",
+        "CU_NO": "031",
+        "GEOCODE": "11050709031",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "MANE NO 1",
+        "LATITUDE": -6.473072,
+        "LONGITUDE": 145.236002,
+        "REGHH": 42,
+        "TOTPOP2000": 194,
+        "MALE2000": 102,
+        "FEMALE2000": 92,
+        "POP2008": 231,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30036,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2425619603663,
+          -6.483026789654559
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30036,
+        "CU_NAME": "LUKAUINAUA",
+        "CU_NO": "033",
+        "GEOCODE": "11050709033",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "MANE NO 1",
+        "LATITUDE": -6.483027,
+        "LONGITUDE": 145.242562,
+        "REGHH": 45,
+        "TOTPOP2000": 226,
+        "MALE2000": 115,
+        "FEMALE2000": 111,
+        "POP2008": 269,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30037,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.23673356030565,
+          -6.478515179631813
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30037,
+        "CU_NAME": "MUMUSI",
+        "CU_NO": "034",
+        "GEOCODE": "11050709034",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "MANE NO 1",
+        "LATITUDE": -6.478515,
+        "LONGITUDE": 145.236734,
+        "REGHH": 50,
+        "TOTPOP2000": 216,
+        "MALE2000": 110,
+        "FEMALE2000": 106,
+        "POP2008": 257,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

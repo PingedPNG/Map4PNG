@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8033,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.83362899977863,
+          -4.524884999942742
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8033,
+        "CU_NAME": "ARINGEN",
+        "CU_NO": "009",
+        "GEOCODE": "13010327009",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "27",
+        "WARD_NAME": "ARINGEN GUN",
+        "LATITUDE": -4.531598,
+        "LONGITUDE": 144.828079,
+        "REGHH": 45,
+        "TOTPOP2000": 227,
+        "MALE2000": 117,
+        "FEMALE2000": 110,
+        "POP2008": 280,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010327009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8034,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.82994099967743,
+          -4.519118000195533
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8034,
+        "CU_NAME": "BEKUN",
+        "CU_NO": "010",
+        "GEOCODE": "13010327010",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "27",
+        "WARD_NAME": "ARINGEN GUN",
+        "LATITUDE": -4.520511,
+        "LONGITUDE": 144.828892,
+        "REGHH": 32,
+        "TOTPOP2000": 216,
+        "MALE2000": 108,
+        "FEMALE2000": 108,
+        "POP2008": 267,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010327010,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8035,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7347420000433,
+          -4.489374000010059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8035,
+        "CU_NAME": "GUN NO. 1",
+        "CU_NO": "015",
+        "GEOCODE": "13010327015",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "27",
+        "WARD_NAME": "ARINGEN GUN",
+        "LATITUDE": -4.490767,
+        "LONGITUDE": 144.733692,
+        "REGHH": 42,
+        "TOTPOP2000": 250,
+        "MALE2000": 140,
+        "FEMALE2000": 110,
+        "POP2008": 310,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010327015,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

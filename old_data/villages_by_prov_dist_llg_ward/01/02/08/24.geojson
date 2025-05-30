@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15466,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.15327300024887,
+          -5.660748999566636
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15466,
+        "CU_NAME": "NINGERUM STATION & S/MENT",
+        "CU_NO": "501",
+        "GEOCODE": "01020824501",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "24",
+        "WARD_NAME": "NINGERUM STATION",
+        "LATITUDE": -5.671021,
+        "LONGITUDE": 141.141848,
+        "REGHH": 67,
+        "TOTPOP2000": 393,
+        "MALE2000": 204,
+        "FEMALE2000": 189,
+        "POP2008": 509,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020824501,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15467,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.15080999998156,
+          -5.669641000431795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15467,
+        "CU_NAME": "NINGERUM TAMARO",
+        "CU_NO": "502",
+        "GEOCODE": "01020824502",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "24",
+        "WARD_NAME": "NINGERUM STATION",
+        "LATITUDE": -5.67104,
+        "LONGITUDE": 141.149714,
+        "REGHH": 62,
+        "TOTPOP2000": 324,
+        "MALE2000": 158,
+        "FEMALE2000": 166,
+        "POP2008": 420,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020824502,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

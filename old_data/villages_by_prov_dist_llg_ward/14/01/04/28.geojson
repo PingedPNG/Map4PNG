@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.3324659997062,
+          -4.581820000392668
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6263,
+        "CU_NAME": "MOROPOTEI",
+        "CU_NO": "002",
+        "GEOCODE": "14010428002",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "MOROPOTEI",
+        "LATITUDE": -4.58544,
+        "LONGITUDE": 142.33631,
+        "REGHH": 44,
+        "TOTPOP2000": 199,
+        "MALE2000": 104,
+        "FEMALE2000": 95,
+        "POP2008": 237,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010428002,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6264,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.31274699957441,
+          -4.577275000340933
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6264,
+        "CU_NAME": "MAPUWEI",
+        "CU_NO": "007",
+        "GEOCODE": "14010428007",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "28",
+        "WARD_NAME": "MOROPOTEI",
+        "LATITUDE": -4.578862,
+        "LONGITUDE": 142.311496,
+        "REGHH": 27,
+        "TOTPOP2000": 99,
+        "MALE2000": 60,
+        "FEMALE2000": 39,
+        "POP2008": 115,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010428007,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

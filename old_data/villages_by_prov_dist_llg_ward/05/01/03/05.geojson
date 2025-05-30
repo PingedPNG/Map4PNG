@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9623,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.09020900044504,
+          -10.088417000444167
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9623,
+        "CU_NAME": "WEDAU",
+        "CU_NO": "013",
+        "GEOCODE": "05010305013",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "05",
+        "WARD_NAME": "WEDAU",
+        "LATITUDE": -10.088407,
+        "LONGITUDE": 150.086818,
+        "REGHH": 88,
+        "TOTPOP2000": 484,
+        "MALE2000": 239,
+        "FEMALE2000": 245,
+        "POP2008": 589,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010305013,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9624,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.08125700041035,
+          -10.089922999746591
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9624,
+        "CU_NAME": "DOGURA",
+        "CU_NO": "501",
+        "GEOCODE": "05010305501",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "05",
+        "WARD_NAME": "WEDAU",
+        "LATITUDE": -10.091388,
+        "LONGITUDE": 150.080268,
+        "REGHH": 32,
+        "TOTPOP2000": 133,
+        "MALE2000": 69,
+        "FEMALE2000": 64,
+        "POP2008": 162,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010305501,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

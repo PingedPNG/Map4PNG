@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12889,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.25432700039084,
+          -3.388395000229025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12889,
+        "CU_NAME": "AMPISUME",
+        "CU_NO": "002",
+        "GEOCODE": "17020805002",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "SUNGKIN",
+        "LATITUDE": -3.389784,
+        "LONGITUDE": 153.253399,
+        "REGHH": 20,
+        "TOTPOP2000": 120,
+        "MALE2000": 59,
+        "FEMALE2000": 61,
+        "POP2008": 151,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020805002,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12890,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.28152900026316,
+          -3.3800999999149894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12890,
+        "CU_NAME": "SUNMUL/AMPOTPOT",
+        "CU_NO": "003",
+        "GEOCODE": "17020805003",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "SUNGKIN",
+        "LATITUDE": -3.381489,
+        "LONGITUDE": 153.280601,
+        "REGHH": 28,
+        "TOTPOP2000": 181,
+        "MALE2000": 79,
+        "FEMALE2000": 102,
+        "POP2008": 227,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020805003,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12891,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2647790003507,
+          -3.3885789997210054
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12891,
+        "CU_NAME": "BILL",
+        "CU_NO": "007",
+        "GEOCODE": "17020805007",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "SUNGKIN",
+        "LATITUDE": -3.389968,
+        "LONGITUDE": 153.263851,
+        "REGHH": 43,
+        "TOTPOP2000": 274,
+        "MALE2000": 131,
+        "FEMALE2000": 143,
+        "POP2008": 344,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020805007,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12892,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2516740003549,
+          -3.3747769999585557
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12892,
+        "CU_NAME": "SUNGKIN",
+        "CU_NO": "017",
+        "GEOCODE": "17020805017",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "05",
+        "WARD_NAME": "SUNGKIN",
+        "LATITUDE": -3.378177,
+        "LONGITUDE": 153.250938,
+        "REGHH": 28,
+        "TOTPOP2000": 163,
+        "MALE2000": 82,
+        "FEMALE2000": 81,
+        "POP2008": 205,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020805017,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

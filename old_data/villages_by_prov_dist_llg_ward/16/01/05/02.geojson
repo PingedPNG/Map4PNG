@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9403,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.16903400011904,
+          -1.9917199998780575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9403,
+        "CU_NAME": "HORAN",
+        "CU_NO": "003",
+        "GEOCODE": "16010502003",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "02",
+        "WARD_NAME": "HORAN",
+        "LATITUDE": -1.990714,
+        "LONGITUDE": 147.174659,
+        "REGHH": 39,
+        "TOTPOP2000": 236,
+        "MALE2000": 126,
+        "FEMALE2000": 110,
+        "POP2008": 289,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010502003,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

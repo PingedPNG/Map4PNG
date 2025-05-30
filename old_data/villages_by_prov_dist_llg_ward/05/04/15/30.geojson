@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10275,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7991700003953,
+          -9.419430000294255
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10275,
+        "CU_NAME": "GAMETA",
+        "CU_NO": "009",
+        "GEOCODE": "05041530009",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "30",
+        "WARD_NAME": "GAMETA",
+        "LATITUDE": -9.42028,
+        "LONGITUDE": 150.800073,
+        "REGHH": 47,
+        "TOTPOP2000": 219,
+        "MALE2000": 101,
+        "FEMALE2000": 118,
+        "POP2008": 267,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041530009,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

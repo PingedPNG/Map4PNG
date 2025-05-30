@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6923,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.54355299957138,
+          -3.5331229996266984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6923,
+        "CU_NAME": "YARAPI",
+        "CU_NO": "027",
+        "GEOCODE": "14041717027",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "17",
+        "WARD_NO": "17",
+        "WARD_NAME": "YARAPI",
+        "LATITUDE": -3.5347,
+        "LONGITUDE": 143.54232,
+        "REGHH": 26,
+        "TOTPOP2000": 175,
+        "MALE2000": 85,
+        "FEMALE2000": 90,
+        "POP2008": 207,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041717027,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6924,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5490660001958,
+          -3.5377869997701623
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6924,
+        "CU_NAME": "KUNAI",
+        "CU_NO": "028",
+        "GEOCODE": "14041717028",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "17",
+        "WARD_NO": "17",
+        "WARD_NAME": "YARAPI",
+        "LATITUDE": -3.539366,
+        "LONGITUDE": 143.547833,
+        "REGHH": 35,
+        "TOTPOP2000": 187,
+        "MALE2000": 93,
+        "FEMALE2000": 94,
+        "POP2008": 222,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041717028,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6925,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.54002799979241,
+          -3.5308819997044907
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6925,
+        "CU_NAME": "SINGANI",
+        "CU_NO": "029",
+        "GEOCODE": "14041717029",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "17",
+        "WARD_NO": "17",
+        "WARD_NAME": "YARAPI",
+        "LATITUDE": -3.532459,
+        "LONGITUDE": 143.538795,
+        "REGHH": 18,
+        "TOTPOP2000": 89,
+        "MALE2000": 42,
+        "FEMALE2000": 47,
+        "POP2008": 105,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041717029,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20749,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.35521200003382,
+          -5.280282000014267
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20749,
+        "CU_NAME": "YOKONA",
+        "CU_NO": "012",
+        "GEOCODE": "07051519012",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "19",
+        "WARD_NAME": "YOKONA",
+        "LATITUDE": -5.292748,
+        "LONGITUDE": 142.352753,
+        "REGHH": 6,
+        "TOTPOP2000": 33,
+        "MALE2000": 16,
+        "FEMALE2000": 17,
+        "POP2008": 46,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051519012,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20750,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.35886200018126,
+          -5.284841999858372
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20750,
+        "CU_NAME": "YUMONDA",
+        "CU_NO": "013",
+        "GEOCODE": "07051519013",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "19",
+        "WARD_NAME": "YOKONA",
+        "LATITUDE": -5.292748,
+        "LONGITUDE": 142.352753,
+        "REGHH": 14,
+        "TOTPOP2000": 74,
+        "MALE2000": 39,
+        "FEMALE2000": 35,
+        "POP2008": 102,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051519013,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.35978400043132,
+          -5.290319999768144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20751,
+        "CU_NAME": "KARIAPUKA",
+        "CU_NO": "014",
+        "GEOCODE": "07051519014",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "19",
+        "WARD_NAME": "YOKONA",
+        "LATITUDE": -5.292748,
+        "LONGITUDE": 142.352753,
+        "REGHH": 9,
+        "TOTPOP2000": 55,
+        "MALE2000": 28,
+        "FEMALE2000": 27,
+        "POP2008": 76,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051519014,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20752,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.3561540003069,
+          -5.294895000303995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20752,
+        "CU_NAME": "KULI",
+        "CU_NO": "015",
+        "GEOCODE": "07051519015",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "19",
+        "WARD_NAME": "YOKONA",
+        "LATITUDE": -5.292748,
+        "LONGITUDE": 142.352753,
+        "REGHH": 19,
+        "TOTPOP2000": 82,
+        "MALE2000": 45,
+        "FEMALE2000": 37,
+        "POP2008": 114,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051519015,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

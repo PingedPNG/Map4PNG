@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7820,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.26693599999646,
+          -7.769589000132214
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7820,
+        "CU_NAME": "DOPIMA",
+        "CU_NO": "006",
+        "GEOCODE": "02021012006",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "DOPIMA",
+        "LATITUDE": -7.771015,
+        "LONGITUDE": 144.265873,
+        "REGHH": 9,
+        "TOTPOP2000": 38,
+        "MALE2000": 13,
+        "FEMALE2000": 25,
+        "POP2008": 46,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021012006,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7821,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.19266300039726,
+          -7.798460999675342
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7821,
+        "CU_NAME": "GOARE",
+        "CU_NO": "008",
+        "GEOCODE": "02021012008",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "12",
+        "WARD_NAME": "DOPIMA",
+        "LATITUDE": -7.799501,
+        "LONGITUDE": 144.191409,
+        "REGHH": 12,
+        "TOTPOP2000": 62,
+        "MALE2000": 36,
+        "FEMALE2000": 26,
+        "POP2008": 78,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2021012008,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

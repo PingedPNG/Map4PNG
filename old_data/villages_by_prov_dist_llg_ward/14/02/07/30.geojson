@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6451,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.38437900019073,
+          -4.704130000199314
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6451,
+        "CU_NAME": "KONGRUM/MINIAS",
+        "CU_NO": "008",
+        "GEOCODE": "14020730008",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "30",
+        "WARD_NAME": "MINIAS",
+        "LATITUDE": -4.708885,
+        "LONGITUDE": 144.386337,
+        "REGHH": 28,
+        "TOTPOP2000": 180,
+        "MALE2000": 95,
+        "FEMALE2000": 85,
+        "POP2008": 213,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020730008,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6452,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.43658900038213,
+          -4.681219000356521
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6452,
+        "CU_NAME": "MINIAS",
+        "CU_NO": "009",
+        "GEOCODE": "14020730009",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "30",
+        "WARD_NAME": "MINIAS",
+        "LATITUDE": -4.68281,
+        "LONGITUDE": 144.435367,
+        "REGHH": 29,
+        "TOTPOP2000": 161,
+        "MALE2000": 84,
+        "FEMALE2000": 77,
+        "POP2008": 193,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020730009,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

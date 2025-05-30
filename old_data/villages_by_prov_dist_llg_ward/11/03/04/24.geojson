@@ -1,0 +1,613 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29592,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.51446923986362,
+          -6.363112140412909
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29592,
+        "CU_NAME": "FUMIEPA",
+        "CU_NO": "011",
+        "GEOCODE": "11030424011",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.363112,
+        "LONGITUDE": 145.514469,
+        "REGHH": 17,
+        "TOTPOP2000": 61,
+        "MALE2000": 31,
+        "FEMALE2000": 30,
+        "POP2008": 69,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29593,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52771364017246,
+          -6.34818509956267
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29593,
+        "CU_NAME": "HOFARO",
+        "CU_NO": "020",
+        "GEOCODE": "11030424020",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.348185,
+        "LONGITUDE": 145.527714,
+        "REGHH": 22,
+        "TOTPOP2000": 78,
+        "MALE2000": 41,
+        "FEMALE2000": 37,
+        "POP2008": 94,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29594,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.54218383981242,
+          -6.358177980329458
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29594,
+        "CU_NAME": "KEREGARA",
+        "CU_NO": "027",
+        "GEOCODE": "11030424027",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.358178,
+        "LONGITUDE": 145.542184,
+        "REGHH": 15,
+        "TOTPOP2000": 69,
+        "MALE2000": 36,
+        "FEMALE2000": 33,
+        "POP2008": 85,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29595,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.53262907996816,
+          -6.359284890185506
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29595,
+        "CU_NAME": "FETOKAYA",
+        "CU_NO": "038",
+        "GEOCODE": "11030424038",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.359285,
+        "LONGITUDE": 145.532629,
+        "REGHH": 32,
+        "TOTPOP2000": 130,
+        "MALE2000": 68,
+        "FEMALE2000": 62,
+        "POP2008": 154,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29596,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52071703965976,
+          -6.340662540443816
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29596,
+        "CU_NAME": "UFAGA",
+        "CU_NO": "045",
+        "GEOCODE": "11030424045",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.340663,
+        "LONGITUDE": 145.520717,
+        "REGHH": 17,
+        "TOTPOP2000": 65,
+        "MALE2000": 36,
+        "FEMALE2000": 29,
+        "POP2008": 77,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29597,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52103815968337,
+          -6.347397690051309
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29597,
+        "CU_NAME": "ZAGEGE",
+        "CU_NO": "052",
+        "GEOCODE": "11030424052",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.347398,
+        "LONGITUDE": 145.521038,
+        "REGHH": 40,
+        "TOTPOP2000": 150,
+        "MALE2000": 78,
+        "FEMALE2000": 72,
+        "POP2008": 178,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29598,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50861744034262,
+          -6.339442770167636
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29598,
+        "CU_NAME": "MOSUNIVI",
+        "CU_NO": "053",
+        "GEOCODE": "11030424053",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.339443,
+        "LONGITUDE": 145.508617,
+        "REGHH": 22,
+        "TOTPOP2000": 86,
+        "MALE2000": 47,
+        "FEMALE2000": 39,
+        "POP2008": 102,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29599,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52217396026015,
+          -6.361045019911671
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29599,
+        "CU_NAME": "MANUGO",
+        "CU_NO": "054",
+        "GEOCODE": "11030424054",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.361045,
+        "LONGITUDE": 145.522174,
+        "REGHH": 38,
+        "TOTPOP2000": 153,
+        "MALE2000": 69,
+        "FEMALE2000": 84,
+        "POP2008": 182,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29600,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5312715200647,
+          -6.357616020063233
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29600,
+        "CU_NAME": "YAFATEGA",
+        "CU_NO": "055",
+        "GEOCODE": "11030424055",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.357616,
+        "LONGITUDE": 145.531272,
+        "REGHH": 38,
+        "TOTPOP2000": 154,
+        "MALE2000": 81,
+        "FEMALE2000": 73,
+        "POP2008": 184,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29601,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.51958196033922,
+          -6.363933570377924
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29601,
+        "CU_NAME": "HAYOGEKAYA",
+        "CU_NO": "056",
+        "GEOCODE": "11030424056",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.363934,
+        "LONGITUDE": 145.519582,
+        "REGHH": 31,
+        "TOTPOP2000": 133,
+        "MALE2000": 73,
+        "FEMALE2000": 60,
+        "POP2008": 157,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29602,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52405100005365,
+          -6.36320403044158
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29602,
+        "CU_NAME": "FAYAKA",
+        "CU_NO": "057",
+        "GEOCODE": "11030424057",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.363204,
+        "LONGITUDE": 145.524051,
+        "REGHH": 28,
+        "TOTPOP2000": 127,
+        "MALE2000": 55,
+        "FEMALE2000": 72,
+        "POP2008": 151,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29603,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5183140403608,
+          -6.367200390085884
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29603,
+        "CU_NAME": "AUREPI",
+        "CU_NO": "058",
+        "GEOCODE": "11030424058",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.3672,
+        "LONGITUDE": 145.518314,
+        "REGHH": 18,
+        "TOTPOP2000": 74,
+        "MALE2000": 38,
+        "FEMALE2000": 36,
+        "POP2008": 90,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52621099983787,
+          -6.3548804703573865
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29604,
+        "CU_NAME": "KOL MAUNTEN",
+        "CU_NO": "059",
+        "GEOCODE": "11030424059",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.35488,
+        "LONGITUDE": 145.526211,
+        "REGHH": 20,
+        "TOTPOP2000": 81,
+        "MALE2000": 44,
+        "FEMALE2000": 37,
+        "POP2008": 97,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29605,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.51607987978264,
+          -6.355953810320045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29605,
+        "CU_NAME": "NEKEFARO",
+        "CU_NO": "060",
+        "GEOCODE": "11030424060",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.355954,
+        "LONGITUDE": 145.51608,
+        "REGHH": 17,
+        "TOTPOP2000": 77,
+        "MALE2000": 38,
+        "FEMALE2000": 39,
+        "POP2008": 93,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29606,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52292203972047,
+          -6.367030920040861
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29606,
+        "CU_NAME": "OGUMANI",
+        "CU_NO": "061",
+        "GEOCODE": "11030424061",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.367031,
+        "LONGITUDE": 145.522922,
+        "REGHH": 26,
+        "TOTPOP2000": 127,
+        "MALE2000": 66,
+        "FEMALE2000": 61,
+        "POP2008": 151,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29607,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.525401000256,
+          -6.3615930298943795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29607,
+        "CU_NAME": "SUSAOTU",
+        "CU_NO": "062",
+        "GEOCODE": "11030424062",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.361593,
+        "LONGITUDE": 145.525401,
+        "REGHH": 12,
+        "TOTPOP2000": 56,
+        "MALE2000": 28,
+        "FEMALE2000": 28,
+        "POP2008": 64,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29608,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52911367955278,
+          -6.364089270003774
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29608,
+        "CU_NAME": "KOHOTO",
+        "CU_NO": "063",
+        "GEOCODE": "11030424063",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.364089,
+        "LONGITUDE": 145.529114,
+        "REGHH": 17,
+        "TOTPOP2000": 64,
+        "MALE2000": 34,
+        "FEMALE2000": 30,
+        "POP2008": 75,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29609,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.53833579995728,
+          -6.3628515897290185
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29609,
+        "CU_NAME": "KE'EPA NO 1",
+        "CU_NO": "064",
+        "GEOCODE": "11030424064",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.362852,
+        "LONGITUDE": 145.538336,
+        "REGHH": 15,
+        "TOTPOP2000": 54,
+        "MALE2000": 29,
+        "FEMALE2000": 25,
+        "POP2008": 62,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29610,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5275559602394,
+          -6.367780620079486
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29610,
+        "CU_NAME": "EK'EPA NO 2",
+        "CU_NO": "065",
+        "GEOCODE": "11030424065",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "24",
+        "WARD_NAME": "FAYANTINA",
+        "LATITUDE": -6.367781,
+        "LONGITUDE": 145.527556,
+        "REGHH": 29,
+        "TOTPOP2000": 115,
+        "MALE2000": 64,
+        "FEMALE2000": 51,
+        "POP2008": 139,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

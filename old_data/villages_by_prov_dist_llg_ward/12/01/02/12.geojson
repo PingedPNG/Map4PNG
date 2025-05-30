@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10439,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.15633499996034,
+          -7.882089999953507
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10439,
+        "CU_NAME": "GARAINA",
+        "CU_NO": "002",
+        "GEOCODE": "12010212002",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GARAINA",
+        "LATITUDE": -7.883524,
+        "LONGITUDE": 147.15531,
+        "REGHH": 60,
+        "TOTPOP2000": 331,
+        "MALE2000": 185,
+        "FEMALE2000": 146,
+        "POP2008": 413,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010212002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10440,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.145624999794,
+          -7.898552000074687
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10440,
+        "CU_NAME": "KASU 1 & 2",
+        "CU_NO": "004",
+        "GEOCODE": "12010212004",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "12",
+        "WARD_NAME": "GARAINA",
+        "LATITUDE": -7.899986,
+        "LONGITUDE": 147.1446,
+        "REGHH": 41,
+        "TOTPOP2000": 209,
+        "MALE2000": 109,
+        "FEMALE2000": 100,
+        "POP2008": 261,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010212004,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

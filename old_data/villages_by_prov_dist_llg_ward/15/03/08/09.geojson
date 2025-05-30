@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18678,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.70018999996864,
+          -3.7103369997527125
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18678,
+        "CU_NAME": "MANTOPAI",
+        "CU_NO": "010",
+        "GEOCODE": "15030809010",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "09",
+        "WARD_NAME": "MANTOPAI",
+        "LATITUDE": -3.708668,
+        "LONGITUDE": 141.698706,
+        "REGHH": 29,
+        "TOTPOP2000": 193,
+        "MALE2000": 87,
+        "FEMALE2000": 106,
+        "POP2008": 233,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030809010,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18679,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.73038100008318,
+          -3.6746879997513133
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18679,
+        "CU_NAME": "YAWARI",
+        "CU_NO": "017",
+        "GEOCODE": "15030809017",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "09",
+        "WARD_NAME": "MANTOPAI",
+        "LATITUDE": -3.676068,
+        "LONGITUDE": 141.729295,
+        "REGHH": 37,
+        "TOTPOP2000": 260,
+        "MALE2000": 130,
+        "FEMALE2000": 130,
+        "POP2008": 314,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030809017,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

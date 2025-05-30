@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6596,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.02615699964588,
+          -3.592913000434578
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6596,
+        "CU_NAME": "GOENGOEN",
+        "CU_NO": "005",
+        "GEOCODE": "14031010005",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "10",
+        "WARD_NAME": "GOENGOEN",
+        "LATITUDE": -3.594492,
+        "LONGITUDE": 143.024916,
+        "REGHH": 40,
+        "TOTPOP2000": 223,
+        "MALE2000": 112,
+        "FEMALE2000": 111,
+        "POP2008": 265,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031010005,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6597,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.01984900013133,
+          -3.592770000135374
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6597,
+        "CU_NAME": "MILAK",
+        "CU_NO": "011",
+        "GEOCODE": "14031010011",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "10",
+        "WARD_NAME": "GOENGOEN",
+        "LATITUDE": -3.594349,
+        "LONGITUDE": 143.018608,
+        "REGHH": 43,
+        "TOTPOP2000": 226,
+        "MALE2000": 114,
+        "FEMALE2000": 112,
+        "POP2008": 269,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031010011,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6598,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.00974700012398,
+          -3.583763000262195
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6598,
+        "CU_NAME": "WAIKUM",
+        "CU_NO": "013",
+        "GEOCODE": "14031010013",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "10",
+        "WARD_NAME": "GOENGOEN",
+        "LATITUDE": -3.58534,
+        "LONGITUDE": 143.008507,
+        "REGHH": 45,
+        "TOTPOP2000": 219,
+        "MALE2000": 116,
+        "FEMALE2000": 103,
+        "POP2008": 260,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031010013,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6599,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.02413199979208,
+          -3.5938379999237213
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6599,
+        "CU_NAME": "BAMBRA COMMUNITY SCHOOL",
+        "CU_NO": "405",
+        "GEOCODE": "14031010405",
+        "PROV_KEY": "14",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "10",
+        "WARD_NAME": "GOENGOEN",
+        "LATITUDE": -3.593631,
+        "LONGITUDE": 143.022888,
+        "REGHH": 7,
+        "TOTPOP2000": 38,
+        "MALE2000": 15,
+        "FEMALE2000": 23,
+        "POP2008": 46,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14031010405,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

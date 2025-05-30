@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13255,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2768009999662,
+          -9.118246000252668
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13255,
+        "CU_NAME": "KIARA",
+        "CU_NO": "013",
+        "GEOCODE": "06010309013",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "NATANGA",
+        "LATITUDE": -9.122288,
+        "LONGITUDE": 148.272552,
+        "REGHH": 47,
+        "TOTPOP2000": 238,
+        "MALE2000": 131,
+        "FEMALE2000": 107,
+        "POP2008": 295,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010309013,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13256,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.29203800025357,
+          -9.069288999887362
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13256,
+        "CU_NAME": "NATANGA",
+        "CU_NO": "019",
+        "GEOCODE": "06010309019",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "NATANGA",
+        "LATITUDE": -9.070738,
+        "LONGITUDE": 148.291026,
+        "REGHH": 57,
+        "TOTPOP2000": 321,
+        "MALE2000": 150,
+        "FEMALE2000": 171,
+        "POP2008": 397,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010309019,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13257,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3056399997862,
+          -9.08533999994097
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13257,
+        "CU_NAME": "JORURA",
+        "CU_NO": "039",
+        "GEOCODE": "06010309039",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "NATANGA",
+        "LATITUDE": -9.086789,
+        "LONGITUDE": 148.304628,
+        "REGHH": 43,
+        "TOTPOP2000": 232,
+        "MALE2000": 125,
+        "FEMALE2000": 107,
+        "POP2008": 287,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010309039,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.29375800043147,
+          -9.09607000013034
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13258,
+        "CU_NAME": "KAJO",
+        "CU_NO": "040",
+        "GEOCODE": "06010309040",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "NATANGA",
+        "LATITUDE": -9.09301,
+        "LONGITUDE": 148.290782,
+        "REGHH": 5,
+        "TOTPOP2000": 19,
+        "MALE2000": 10,
+        "FEMALE2000": 9,
+        "POP2008": 27,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010309040,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

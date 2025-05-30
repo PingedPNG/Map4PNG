@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15579,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8767919995512,
+          -8.319441000301879
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15579,
+        "CU_NAME": "DOUMORI",
+        "CU_NO": "006",
+        "GEOCODE": "01031206006",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "DOUMORI",
+        "LATITUDE": -8.319284,
+        "LONGITUDE": 142.885663,
+        "REGHH": 62,
+        "TOTPOP2000": 443,
+        "MALE2000": 212,
+        "FEMALE2000": 231,
+        "POP2008": 575,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031206006,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

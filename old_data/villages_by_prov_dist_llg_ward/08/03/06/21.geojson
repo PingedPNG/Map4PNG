@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5596,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.48619700039137,
+          -5.486342000283059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5596,
+        "CU_NAME": "KEMBOS",
+        "CU_NO": "030",
+        "GEOCODE": "08030621030",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "21",
+        "WARD_NAME": "KEMBOS",
+        "LATITUDE": -5.490116,
+        "LONGITUDE": 143.48478,
+        "REGHH": 82,
+        "TOTPOP2000": 545,
+        "MALE2000": 277,
+        "FEMALE2000": 268,
+        "POP2008": 685,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030621030,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5597,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.47870999956695,
+          -5.482789000112234
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5597,
+        "CU_NAME": "KAIPORES",
+        "CU_NO": "031",
+        "GEOCODE": "08030621031",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "21",
+        "WARD_NAME": "KEMBOS",
+        "LATITUDE": -5.483033,
+        "LONGITUDE": 143.478967,
+        "REGHH": 69,
+        "TOTPOP2000": 400,
+        "MALE2000": 178,
+        "FEMALE2000": 222,
+        "POP2008": 503,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030621031,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5598,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.49118500018767,
+          -5.488490000413151
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5598,
+        "CU_NAME": "KUPLAM",
+        "CU_NO": "032",
+        "GEOCODE": "08030621032",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "21",
+        "WARD_NAME": "KEMBOS",
+        "LATITUDE": -5.490755,
+        "LONGITUDE": 143.489547,
+        "REGHH": 72,
+        "TOTPOP2000": 386,
+        "MALE2000": 194,
+        "FEMALE2000": 192,
+        "POP2008": 486,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030621032,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

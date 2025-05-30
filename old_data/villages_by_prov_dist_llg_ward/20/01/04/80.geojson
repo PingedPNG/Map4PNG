@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.67968999989364,
+          -5.393050999603929
+        ]
+      },
+      "properties": {
+        "OBJECTID": 204,
+        "CU_NAME": "HUTJENA",
+        "CU_NO": "001",
+        "GEOCODE": "20010480001",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "80",
+        "WARD_NAME": "BUKA URBAN",
+        "LATITUDE": -5.39447,
+        "LONGITUDE": 154.678781,
+        "REGHH": 76,
+        "TOTPOP2000": 451,
+        "MALE2000": 248,
+        "FEMALE2000": 203,
+        "POP2008": 507,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010480001,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 205,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.6819240003923,
+          -5.4051999995802475
+        ]
+      },
+      "properties": {
+        "OBJECTID": 205,
+        "CU_NAME": "KUBU",
+        "CU_NO": "002",
+        "GEOCODE": "20010480002",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "80",
+        "WARD_NAME": "BUKA URBAN",
+        "LATITUDE": -5.406619,
+        "LONGITUDE": 154.681015,
+        "REGHH": 48,
+        "TOTPOP2000": 345,
+        "MALE2000": 176,
+        "FEMALE2000": 169,
+        "POP2008": 388,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010480002,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 206,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.67721399992627,
+          -5.4209229997965735
+        ]
+      },
+      "properties": {
+        "OBJECTID": 206,
+        "CU_NAME": "BUKA 03",
+        "CU_NO": "003",
+        "GEOCODE": "20010480003",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "80",
+        "WARD_NAME": "BUKA URBAN",
+        "LATITUDE": -5.422342,
+        "LONGITUDE": 154.676305,
+        "REGHH": 62,
+        "TOTPOP2000": 142,
+        "MALE2000": 105,
+        "FEMALE2000": 37,
+        "POP2008": 158,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010480003,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 207,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.6784330003827,
+          -5.418348999806426
+        ]
+      },
+      "properties": {
+        "OBJECTID": 207,
+        "CU_NAME": "BUKA 04",
+        "CU_NO": "004",
+        "GEOCODE": "20010480004",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "80",
+        "WARD_NAME": "BUKA URBAN",
+        "LATITUDE": -5.419768,
+        "LONGITUDE": 154.677524,
+        "REGHH": 24,
+        "TOTPOP2000": 429,
+        "MALE2000": 241,
+        "FEMALE2000": 188,
+        "POP2008": 484,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010480004,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 208,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.666950999689,
+          -5.444831999796918
+        ]
+      },
+      "properties": {
+        "OBJECTID": 208,
+        "CU_NAME": "SOHANO 1",
+        "CU_NO": "005",
+        "GEOCODE": "20010480005",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "80",
+        "WARD_NAME": "BUKA URBAN",
+        "LATITUDE": -5.444764,
+        "LONGITUDE": 154.666038,
+        "REGHH": 73,
+        "TOTPOP2000": 385,
+        "MALE2000": 200,
+        "FEMALE2000": 185,
+        "POP2008": 433,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010480005,
+        "PROVINCE": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 209,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.66668399996672,
+          -5.442300999991119
+        ]
+      },
+      "properties": {
+        "OBJECTID": 209,
+        "CU_NAME": "SOHANO 2",
+        "CU_NO": "006",
+        "GEOCODE": "20010480006",
+        "PROV_KEY": "20",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "80",
+        "WARD_NAME": "BUKA URBAN",
+        "LATITUDE": -5.44372,
+        "LONGITUDE": 154.665775,
+        "REGHH": 22,
+        "TOTPOP2000": 138,
+        "MALE2000": 67,
+        "FEMALE2000": 71,
+        "POP2008": 154,
+        "G_RATE": 1.0149999856948853,
+        "Geocode_Num": 20010480006,
+        "PROVINCE": 20
+      }
+    }
+  ]
+}

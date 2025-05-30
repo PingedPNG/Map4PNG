@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7384,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.27391600012334,
+          -3.669638999839947
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7384,
+        "CU_NAME": "NAMBARI 1 & 2",
+        "CU_NO": "006",
+        "GEOCODE": "14062621006",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "26",
+        "WARD_NO": "21",
+        "WARD_NAME": "NAMBARI",
+        "LATITUDE": -3.670712,
+        "LONGITUDE": 143.272677,
+        "REGHH": 84,
+        "TOTPOP2000": 446,
+        "MALE2000": 218,
+        "FEMALE2000": 228,
+        "POP2008": 530,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062621006,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

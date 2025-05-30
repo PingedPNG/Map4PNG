@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13477,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.9827359999665,
+          -8.898855000357912
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13477,
+        "CU_NAME": "AJEKA",
+        "CU_NO": "001",
+        "GEOCODE": "06020515001",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AJEKA",
+        "LATITUDE": -8.89825,
+        "LONGITUDE": 147.984796,
+        "REGHH": 43,
+        "TOTPOP2000": 270,
+        "MALE2000": 149,
+        "FEMALE2000": 121,
+        "POP2008": 334,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020515001,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13478,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.9941619998765,
+          -8.875584000101469
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13478,
+        "CU_NAME": "OMBISUSU",
+        "CU_NO": "023",
+        "GEOCODE": "06020515023",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AJEKA",
+        "LATITUDE": -8.87703,
+        "LONGITUDE": 147.993146,
+        "REGHH": 68,
+        "TOTPOP2000": 422,
+        "MALE2000": 228,
+        "FEMALE2000": 194,
+        "POP2008": 522,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020515023,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13479,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0225990000439,
+          -8.879398999763964
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13479,
+        "CU_NAME": "TARA",
+        "CU_NO": "039",
+        "GEOCODE": "06020515039",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "AJEKA",
+        "LATITUDE": -8.880845,
+        "LONGITUDE": 148.021584,
+        "REGHH": 32,
+        "TOTPOP2000": 190,
+        "MALE2000": 109,
+        "FEMALE2000": 81,
+        "POP2008": 235,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020515039,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

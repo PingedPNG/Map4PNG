@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7450,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.27206300040723,
+          -8.183379000340551
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7450,
+        "CU_NAME": "POPO KAISAVA",
+        "CU_NO": "005",
+        "GEOCODE": "02010204005",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "POPO",
+        "LATITUDE": -8.184814,
+        "LONGITUDE": 146.271025,
+        "REGHH": 7,
+        "TOTPOP2000": 31,
+        "MALE2000": 13,
+        "FEMALE2000": 18,
+        "POP2008": 39,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010204005,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7451,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.28150000032485,
+          -8.175705999931893
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7451,
+        "CU_NAME": "POPO LULUAPO",
+        "CU_NO": "010",
+        "GEOCODE": "02010204010",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "POPO",
+        "LATITUDE": -8.177141,
+        "LONGITUDE": 146.280463,
+        "REGHH": 70,
+        "TOTPOP2000": 390,
+        "MALE2000": 214,
+        "FEMALE2000": 176,
+        "POP2008": 479,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010204010,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7452,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.28362700038588,
+          -8.170315000436858
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7452,
+        "CU_NAME": "POPO MIKAFIRU",
+        "CU_NO": "012",
+        "GEOCODE": "02010204012",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "POPO",
+        "LATITUDE": -8.17175,
+        "LONGITUDE": 146.28259,
+        "REGHH": 66,
+        "TOTPOP2000": 471,
+        "MALE2000": 250,
+        "FEMALE2000": 221,
+        "POP2008": 579,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010204012,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7453,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.20701700003463,
+          -8.214371999668003
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7453,
+        "CU_NAME": "HURIPI",
+        "CU_NO": "013",
+        "GEOCODE": "02010204013",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "POPO",
+        "LATITUDE": -8.215807,
+        "LONGITUDE": 146.205978,
+        "REGHH": 22,
+        "TOTPOP2000": 164,
+        "MALE2000": 89,
+        "FEMALE2000": 75,
+        "POP2008": 201,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010204013,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

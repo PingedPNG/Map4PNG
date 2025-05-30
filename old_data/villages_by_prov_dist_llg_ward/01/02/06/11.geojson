@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15312,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.48070200009727,
+          -6.071733999924106
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15312,
+        "CU_NAME": "GUSIORE",
+        "CU_NO": "007",
+        "GEOCODE": "01020611007",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "11",
+        "WARD_NAME": "GUSIORE",
+        "LATITUDE": -6.079057,
+        "LONGITUDE": 141.47223,
+        "REGHH": 19,
+        "TOTPOP2000": 157,
+        "MALE2000": 72,
+        "FEMALE2000": 85,
+        "POP2008": 204,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020611007,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20516,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.64963899964016,
+          -5.521338999894908
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20516,
+        "CU_NAME": "AKIRA",
+        "CU_NO": "001",
+        "GEOCODE": "07051416001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "16",
+        "WARD_NAME": "KEWE 2 AKIRA",
+        "LATITUDE": -5.525166,
+        "LONGITUDE": 142.649629,
+        "REGHH": 37,
+        "TOTPOP2000": 201,
+        "MALE2000": 89,
+        "FEMALE2000": 112,
+        "POP2008": 279,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051416001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20517,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.65106199961167,
+          -5.5205430000593765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20517,
+        "CU_NAME": "AIYANE",
+        "CU_NO": "002",
+        "GEOCODE": "07051416002",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "16",
+        "WARD_NAME": "KEWE 2 AKIRA",
+        "LATITUDE": -5.525166,
+        "LONGITUDE": 142.649629,
+        "REGHH": 34,
+        "TOTPOP2000": 111,
+        "MALE2000": 54,
+        "FEMALE2000": 57,
+        "POP2008": 155,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051416002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20518,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.65114599988806,
+          -5.522466999752169
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20518,
+        "CU_NAME": "PATARA",
+        "CU_NO": "003",
+        "GEOCODE": "07051416003",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "16",
+        "WARD_NAME": "KEWE 2 AKIRA",
+        "LATITUDE": -5.525166,
+        "LONGITUDE": 142.649629,
+        "REGHH": 15,
+        "TOTPOP2000": 43,
+        "MALE2000": 19,
+        "FEMALE2000": 24,
+        "POP2008": 59,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051416003,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20519,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.64900099989632,
+          -5.523189999818612
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20519,
+        "CU_NAME": "MUYA",
+        "CU_NO": "004",
+        "GEOCODE": "07051416004",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "16",
+        "WARD_NAME": "KEWE 2 AKIRA",
+        "LATITUDE": -5.525166,
+        "LONGITUDE": 142.649629,
+        "REGHH": 37,
+        "TOTPOP2000": 136,
+        "MALE2000": 68,
+        "FEMALE2000": 68,
+        "POP2008": 189,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051416004,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9795,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.13940187859384,
+          -10.649450384027944
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9795,
+        "CU_NAME": "SAVAIA",
+        "CU_NO": "022",
+        "GEOCODE": "05010612022",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "SAVAIA",
+        "LATITUDE": -10.648631,
+        "LONGITUDE": 150.138162,
+        "REGHH": 47,
+        "TOTPOP2000": 258,
+        "MALE2000": 120,
+        "FEMALE2000": 138,
+        "POP2008": 314,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010612022,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11672,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.31280799978947,
+          -6.298336999652747
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11672,
+        "CU_NAME": "MAMARINGAN/UFABUFAB",
+        "CU_NO": "009",
+        "GEOCODE": "12061822009",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "22",
+        "WARD_NAME": "MAMARINGAN",
+        "LATITUDE": -6.299752,
+        "LONGITUDE": 146.311775,
+        "REGHH": 59,
+        "TOTPOP2000": 345,
+        "MALE2000": 184,
+        "FEMALE2000": 161,
+        "POP2008": 431,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061822009,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.29425400032187,
+          -6.288585999644113
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11673,
+        "CU_NAME": "BAMPINGYAFAN",
+        "CU_NO": "010",
+        "GEOCODE": "12061822010",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "22",
+        "WARD_NAME": "MAMARINGAN",
+        "LATITUDE": -6.290001,
+        "LONGITUDE": 146.293221,
+        "REGHH": 32,
+        "TOTPOP2000": 200,
+        "MALE2000": 107,
+        "FEMALE2000": 93,
+        "POP2008": 250,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061822010,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

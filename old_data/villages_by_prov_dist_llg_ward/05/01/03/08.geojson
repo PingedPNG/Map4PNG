@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9629,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.87331999991818,
+          -10.021972000307528
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9629,
+        "CU_NAME": "RADAVA",
+        "CU_NO": "007",
+        "GEOCODE": "05010308007",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "RADAVA",
+        "LATITUDE": -10.017754,
+        "LONGITUDE": 149.883393,
+        "REGHH": 51,
+        "TOTPOP2000": 301,
+        "MALE2000": 145,
+        "FEMALE2000": 156,
+        "POP2008": 368,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010308007,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9630,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.87887199964314,
+          -10.025284000156432
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9630,
+        "CU_NAME": "MEITEPANA",
+        "CU_NO": "015",
+        "GEOCODE": "05010308015",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "RADAVA",
+        "LATITUDE": -10.017184,
+        "LONGITUDE": 149.885594,
+        "REGHH": 9,
+        "TOTPOP2000": 53,
+        "MALE2000": 28,
+        "FEMALE2000": 25,
+        "POP2008": 61,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010308015,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9631,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.8842539996225,
+          -10.021691999985762
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9631,
+        "CU_NAME": "KEIBODA",
+        "CU_NO": "016",
+        "GEOCODE": "05010308016",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "RADAVA",
+        "LATITUDE": -10.017046,
+        "LONGITUDE": 149.887148,
+        "REGHH": 25,
+        "TOTPOP2000": 125,
+        "MALE2000": 61,
+        "FEMALE2000": 64,
+        "POP2008": 152,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010308016,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9632,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.89424699999915,
+          -10.026780999943128
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9632,
+        "CU_NAME": "DAGATURU",
+        "CU_NO": "017",
+        "GEOCODE": "05010308017",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "RADAVA",
+        "LATITUDE": -10.025816,
+        "LONGITUDE": 149.90005,
+        "REGHH": 18,
+        "TOTPOP2000": 99,
+        "MALE2000": 50,
+        "FEMALE2000": 49,
+        "POP2008": 122,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010308017,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9633,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.89685199962014,
+          -10.023541999863369
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9633,
+        "CU_NAME": "BOIANAI COMM. SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "05010308401",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "RADAVA",
+        "LATITUDE": -10.017483,
+        "LONGITUDE": 149.888792,
+        "REGHH": 4,
+        "TOTPOP2000": 31,
+        "MALE2000": 18,
+        "FEMALE2000": 13,
+        "POP2008": 39,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010308401,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

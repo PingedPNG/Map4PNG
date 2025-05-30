@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17893,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.75577599956284,
+          -6.0494059999868455
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17893,
+        "CU_NAME": "HULEM",
+        "CU_NO": "014",
+        "GEOCODE": "19010411014",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "NGOLU",
+        "LATITUDE": -6.05129,
+        "LONGITUDE": 149.758,
+        "REGHH": 47,
+        "TOTPOP2000": 226,
+        "MALE2000": 118,
+        "FEMALE2000": 108,
+        "POP2008": 297,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010411014,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17894,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.79098399991176,
+          -6.020540999867194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17894,
+        "CU_NAME": "IOMBON",
+        "CU_NO": "015",
+        "GEOCODE": "19010411015",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "NGOLU",
+        "LATITUDE": -6.02196,
+        "LONGITUDE": 149.79,
+        "REGHH": 42,
+        "TOTPOP2000": 206,
+        "MALE2000": 110,
+        "FEMALE2000": 96,
+        "POP2008": 271,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010411015,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17895,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.824433000083,
+          -6.018429999644695
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17895,
+        "CU_NAME": "SEIAGIT",
+        "CU_NO": "027",
+        "GEOCODE": "19010411027",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "NGOLU",
+        "LATITUDE": -6.0207,
+        "LONGITUDE": 149.814,
+        "REGHH": 8,
+        "TOTPOP2000": 50,
+        "MALE2000": 28,
+        "FEMALE2000": 22,
+        "POP2008": 66,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010411027,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17896,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.73598499970808,
+          -6.0040920003455085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17896,
+        "CU_NAME": "UMBI",
+        "CU_NO": "031",
+        "GEOCODE": "19010411031",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "NGOLU",
+        "LATITUDE": -6.00551,
+        "LONGITUDE": 149.735,
+        "REGHH": 22,
+        "TOTPOP2000": 99,
+        "MALE2000": 48,
+        "FEMALE2000": 51,
+        "POP2008": 130,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010411031,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17897,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.80798399966193,
+          -6.070890999719836
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17897,
+        "CU_NAME": "UTKIHU",
+        "CU_NO": "032",
+        "GEOCODE": "19010411032",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "11",
+        "WARD_NAME": "NGOLU",
+        "LATITUDE": -6.07231,
+        "LONGITUDE": 149.807,
+        "REGHH": 12,
+        "TOTPOP2000": 53,
+        "MALE2000": 27,
+        "FEMALE2000": 26,
+        "POP2008": 69,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010411032,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13470,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.96587899961617,
+          -8.906410999867717
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13470,
+        "CU_NAME": "HOJAVAHAMBO",
+        "CU_NO": "016",
+        "GEOCODE": "06020513016",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "13",
+        "WARD_NAME": "ILIMO",
+        "LATITUDE": -8.907858,
+        "LONGITUDE": 147.964863,
+        "REGHH": 43,
+        "TOTPOP2000": 264,
+        "MALE2000": 135,
+        "FEMALE2000": 129,
+        "POP2008": 327,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020513016,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13471,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.95207999999207,
+          -8.925624000047492
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13471,
+        "CU_NAME": "ILIMO",
+        "CU_NO": "017",
+        "GEOCODE": "06020513017",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "13",
+        "WARD_NAME": "ILIMO",
+        "LATITUDE": -8.924522,
+        "LONGITUDE": 147.949002,
+        "REGHH": 56,
+        "TOTPOP2000": 302,
+        "MALE2000": 169,
+        "FEMALE2000": 133,
+        "POP2008": 374,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020513017,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13472,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.96292600013487,
+          -8.924089000307049
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13472,
+        "CU_NAME": "PAPAKI",
+        "CU_NO": "024",
+        "GEOCODE": "06020513024",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "13",
+        "WARD_NAME": "ILIMO",
+        "LATITUDE": -8.925536,
+        "LONGITUDE": 147.96191,
+        "REGHH": 71,
+        "TOTPOP2000": 419,
+        "MALE2000": 204,
+        "FEMALE2000": 215,
+        "POP2008": 519,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020513024,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

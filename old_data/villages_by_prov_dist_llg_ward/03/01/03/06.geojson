@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 990,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.67213099964601,
+          -10.108935999696598
+        ]
+      },
+      "properties": {
+        "OBJECTID": 990,
+        "CU_NAME": "GANAI",
+        "CU_NO": "030",
+        "GEOCODE": "03010306030",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "GANAI",
+        "LATITUDE": -10.110397,
+        "LONGITUDE": 148.671121,
+        "REGHH": 40,
+        "TOTPOP2000": 265,
+        "MALE2000": 147,
+        "FEMALE2000": 118,
+        "POP2008": 318,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010306030,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 991,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.73710700038782,
+          -10.109088999557628
+        ]
+      },
+      "properties": {
+        "OBJECTID": 991,
+        "CU_NAME": "BAIBODAE",
+        "CU_NO": "048",
+        "GEOCODE": "03010306048",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "GANAI",
+        "LATITUDE": -10.112393,
+        "LONGITUDE": 148.734668,
+        "REGHH": 6,
+        "TOTPOP2000": 49,
+        "MALE2000": 28,
+        "FEMALE2000": 21,
+        "POP2008": 57,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010306048,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 992,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.74052299963682,
+          -10.076266000375597
+        ]
+      },
+      "properties": {
+        "OBJECTID": 992,
+        "CU_NAME": "BAIOBO",
+        "CU_NO": "049",
+        "GEOCODE": "03010306049",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "GANAI",
+        "LATITUDE": -10.077727,
+        "LONGITUDE": 148.739514,
+        "REGHH": 9,
+        "TOTPOP2000": 50,
+        "MALE2000": 25,
+        "FEMALE2000": 25,
+        "POP2008": 58,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010306049,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 993,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.70735699992565,
+          -10.086488999667552
+        ]
+      },
+      "properties": {
+        "OBJECTID": 993,
+        "CU_NAME": "DOBUONO",
+        "CU_NO": "050",
+        "GEOCODE": "03010306050",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "GANAI",
+        "LATITUDE": -10.081227,
+        "LONGITUDE": 148.70549,
+        "REGHH": 5,
+        "TOTPOP2000": 43,
+        "MALE2000": 24,
+        "FEMALE2000": 19,
+        "POP2008": 51,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010306050,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 994,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.61462099965945,
+          -10.067151000018612
+        ]
+      },
+      "properties": {
+        "OBJECTID": 994,
+        "CU_NAME": "GORIO",
+        "CU_NO": "051",
+        "GEOCODE": "03010306051",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "GANAI",
+        "LATITUDE": -10.068611,
+        "LONGITUDE": 148.61361,
+        "REGHH": 13,
+        "TOTPOP2000": 78,
+        "MALE2000": 39,
+        "FEMALE2000": 39,
+        "POP2008": 94,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010306051,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 995,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.6282159997686,
+          -10.078919999558309
+        ]
+      },
+      "properties": {
+        "OBJECTID": 995,
+        "CU_NAME": "GOHODAE COMM. SCHOOL",
+        "CU_NO": "418",
+        "GEOCODE": "03010306418",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "GANAI",
+        "LATITUDE": -10.086486,
+        "LONGITUDE": 148.629089,
+        "REGHH": 9,
+        "TOTPOP2000": 44,
+        "MALE2000": 22,
+        "FEMALE2000": 22,
+        "POP2008": 52,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010306418,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 996,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.73433400021395,
+          -10.101740999747278
+        ]
+      },
+      "properties": {
+        "OBJECTID": 996,
+        "CU_NAME": "BABAGUINA",
+        "CU_NO": "520",
+        "GEOCODE": "03010306520",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "GANAI",
+        "LATITUDE": -10.103202,
+        "LONGITUDE": 148.733325,
+        "REGHH": 7,
+        "TOTPOP2000": 46,
+        "MALE2000": 23,
+        "FEMALE2000": 23,
+        "POP2008": 54,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010306520,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

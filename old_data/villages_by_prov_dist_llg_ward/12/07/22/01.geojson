@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12012,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.01380000026984,
+          -7.281993000276714
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12012,
+        "CU_NAME": "ANGIA",
+        "CU_NO": "010",
+        "GEOCODE": "12072201010",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "01",
+        "WARD_NAME": "WATAMA",
+        "LATITUDE": -7.286903,
+        "LONGITUDE": 146.012404,
+        "REGHH": 41,
+        "TOTPOP2000": 210,
+        "MALE2000": 96,
+        "FEMALE2000": 114,
+        "POP2008": 262,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072201010,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12013,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.97433799979888,
+          -7.314410999667871
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12013,
+        "CU_NAME": "PEAI",
+        "CU_NO": "011",
+        "GEOCODE": "12072201011",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "01",
+        "WARD_NAME": "WATAMA",
+        "LATITUDE": -7.308809,
+        "LONGITUDE": 145.963349,
+        "REGHH": 44,
+        "TOTPOP2000": 248,
+        "MALE2000": 134,
+        "FEMALE2000": 114,
+        "POP2008": 309,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072201011,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12014,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.97059499985937,
+          -7.297943000169255
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12014,
+        "CU_NAME": "KATANGA",
+        "CU_NO": "012",
+        "GEOCODE": "12072201012",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "01",
+        "WARD_NAME": "WATAMA",
+        "LATITUDE": -7.299368,
+        "LONGITUDE": 145.969556,
+        "REGHH": 69,
+        "TOTPOP2000": 368,
+        "MALE2000": 183,
+        "FEMALE2000": 185,
+        "POP2008": 460,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072201012,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12015,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0175729997942,
+          -7.289115999603666
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12015,
+        "CU_NAME": "WATAMA",
+        "CU_NO": "030",
+        "GEOCODE": "12072201030",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "22",
+        "WARD_NO": "01",
+        "WARD_NAME": "WATAMA",
+        "LATITUDE": -7.28914,
+        "LONGITUDE": 146.013744,
+        "REGHH": 63,
+        "TOTPOP2000": 347,
+        "MALE2000": 177,
+        "FEMALE2000": 170,
+        "POP2008": 433,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072201030,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

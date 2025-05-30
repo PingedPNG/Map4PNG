@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15178,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.55121599991855,
+          -6.892001000345829
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15178,
+        "CU_NAME": "GIAKORETE",
+        "CU_NO": "013",
+        "GEOCODE": "01010408013",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "USOKOF NO 2",
+        "LATITUDE": -6.893412,
+        "LONGITUDE": 141.550122,
+        "REGHH": 8,
+        "TOTPOP2000": 44,
+        "MALE2000": 23,
+        "FEMALE2000": 21,
+        "POP2008": 58,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010408013,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

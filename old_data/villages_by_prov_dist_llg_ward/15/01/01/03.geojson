@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18273,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.3366629998976,
+          -3.1239639998386792
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18273,
+        "CU_NAME": "YAKOI",
+        "CU_NO": "005",
+        "GEOCODE": "15010103005",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "POLTULUL",
+        "LATITUDE": -3.125339,
+        "LONGITUDE": 142.335585,
+        "REGHH": 73,
+        "TOTPOP2000": 519,
+        "MALE2000": 280,
+        "FEMALE2000": 239,
+        "POP2008": 627,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010103005,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18274,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.32415499955368,
+          -3.125435000225025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18274,
+        "CU_NAME": "POLTULUL",
+        "CU_NO": "011",
+        "GEOCODE": "15010103011",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "POLTULUL",
+        "LATITUDE": -3.12681,
+        "LONGITUDE": 142.323076,
+        "REGHH": 64,
+        "TOTPOP2000": 393,
+        "MALE2000": 194,
+        "FEMALE2000": 199,
+        "POP2008": 475,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010103011,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18275,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.30026000019893,
+          -3.127189000172166
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18275,
+        "CU_NAME": "TEPIR",
+        "CU_NO": "019",
+        "GEOCODE": "15010103019",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "POLTULUL",
+        "LATITUDE": -3.128564,
+        "LONGITUDE": 142.299181,
+        "REGHH": 30,
+        "TOTPOP2000": 174,
+        "MALE2000": 94,
+        "FEMALE2000": 80,
+        "POP2008": 210,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010103019,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

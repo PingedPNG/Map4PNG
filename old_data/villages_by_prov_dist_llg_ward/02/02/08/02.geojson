@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.42016300012244,
+          -6.825405000440355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7677,
+        "CU_NAME": "TOBARE",
+        "CU_NO": "001",
+        "GEOCODE": "02020802001",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "TOBARE",
+        "LATITUDE": -6.826822,
+        "LONGITUDE": 144.419104,
+        "REGHH": 36,
+        "TOTPOP2000": 278,
+        "MALE2000": 142,
+        "FEMALE2000": 136,
+        "POP2008": 341,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020802001,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

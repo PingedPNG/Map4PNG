@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21087,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.66757600013239,
+          -6.144505999552166
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21087,
+        "CU_NAME": "KAMBIAKIPU",
+        "CU_NO": "002",
+        "GEOCODE": "07062010002",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "20",
+        "WARD_NO": "10",
+        "WARD_NAME": "KUMIN/KAMBIAKIP",
+        "LATITUDE": -6.14875,
+        "LONGITUDE": 143.667852,
+        "REGHH": 20,
+        "TOTPOP2000": 201,
+        "MALE2000": 88,
+        "FEMALE2000": 113,
+        "POP2008": 279,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7062010002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21088,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.66142799990234,
+          -6.148002999838525
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21088,
+        "CU_NAME": "KUMIN",
+        "CU_NO": "017",
+        "GEOCODE": "07062010017",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "20",
+        "WARD_NO": "10",
+        "WARD_NAME": "KUMIN/KAMBIAKIP",
+        "LATITUDE": -6.152247,
+        "LONGITUDE": 143.661704,
+        "REGHH": 74,
+        "TOTPOP2000": 399,
+        "MALE2000": 189,
+        "FEMALE2000": 210,
+        "POP2008": 554,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7062010017,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

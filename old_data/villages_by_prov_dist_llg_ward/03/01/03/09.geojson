@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.44112300002655,
+          -9.982975999742564
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1002,
+        "CU_NAME": "IANU BLOCK",
+        "CU_NO": "516",
+        "GEOCODE": "03010309516",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "IANU",
+        "LATITUDE": -9.984435,
+        "LONGITUDE": 148.44011,
+        "REGHH": 167,
+        "TOTPOP2000": 1026,
+        "MALE2000": 541,
+        "FEMALE2000": 485,
+        "POP2008": 1231,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010309516,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.43924499975697,
+          -9.970501000021102
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1003,
+        "CU_NAME": "CAPE RODNEY H/ SCHOOL",
+        "CU_NO": "526",
+        "GEOCODE": "03010309526",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "IANU",
+        "LATITUDE": -9.97196,
+        "LONGITUDE": 148.438232,
+        "REGHH": 11,
+        "TOTPOP2000": 211,
+        "MALE2000": 129,
+        "FEMALE2000": 82,
+        "POP2008": 253,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010309526,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.42854500005183,
+          -9.962491000259433
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1004,
+        "CU_NAME": "IANU STATION",
+        "CU_NO": "528",
+        "GEOCODE": "03010309528",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "IANU",
+        "LATITUDE": -9.96395,
+        "LONGITUDE": 148.427532,
+        "REGHH": 12,
+        "TOTPOP2000": 49,
+        "MALE2000": 22,
+        "FEMALE2000": 27,
+        "POP2008": 57,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010309528,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

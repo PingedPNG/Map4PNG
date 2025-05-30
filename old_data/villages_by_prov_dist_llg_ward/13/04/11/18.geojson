@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8726,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.02976099977036,
+          -5.929087000264815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8726,
+        "CU_NAME": "GONGEIA",
+        "CU_NO": "009",
+        "GEOCODE": "13041118009",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "WARD 18",
+        "LATITUDE": -5.930498,
+        "LONGITUDE": 146.028725,
+        "REGHH": 17,
+        "TOTPOP2000": 117,
+        "MALE2000": 63,
+        "FEMALE2000": 54,
+        "POP2008": 144,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041118009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8727,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.02926400023352,
+          -5.897598999694026
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8727,
+        "CU_NAME": "MORORO",
+        "CU_NO": "015",
+        "GEOCODE": "13041118015",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "WARD 18",
+        "LATITUDE": -5.893697,
+        "LONGITUDE": 146.028517,
+        "REGHH": 15,
+        "TOTPOP2000": 144,
+        "MALE2000": 64,
+        "FEMALE2000": 80,
+        "POP2008": 178,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041118015,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8728,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.01395300013087,
+          -5.891609999601769
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8728,
+        "CU_NAME": "SENEI",
+        "CU_NO": "021",
+        "GEOCODE": "13041118021",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "18",
+        "WARD_NAME": "WARD 18",
+        "LATITUDE": -5.893595,
+        "LONGITUDE": 146.021851,
+        "REGHH": 20,
+        "TOTPOP2000": 158,
+        "MALE2000": 68,
+        "FEMALE2000": 90,
+        "POP2008": 195,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041118021,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

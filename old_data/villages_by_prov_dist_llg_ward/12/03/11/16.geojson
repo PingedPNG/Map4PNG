@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11062,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.82123199965713,
+          -6.5765420003129975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11062,
+        "CU_NAME": "NASUAPUM",
+        "CU_NO": "017",
+        "GEOCODE": "12031116017",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "NASUAPUM",
+        "LATITUDE": -6.575056,
+        "LONGITUDE": 146.822698,
+        "REGHH": 163,
+        "TOTPOP2000": 983,
+        "MALE2000": 506,
+        "FEMALE2000": 477,
+        "POP2008": 1227,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031116017,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11063,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8291099996269,
+          -6.538979000180689
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11063,
+        "CU_NAME": "TAPORAN S'MENT",
+        "CU_NO": "426",
+        "GEOCODE": "12031116426",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "NASUAPUM",
+        "LATITUDE": -6.540398,
+        "LONGITUDE": 146.828084,
+        "REGHH": 25,
+        "TOTPOP2000": 129,
+        "MALE2000": 72,
+        "FEMALE2000": 57,
+        "POP2008": 161,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031116426,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11064,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.80295699956594,
+          -6.558352999691124
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11064,
+        "CU_NAME": "WANTSA S'MENT",
+        "CU_NO": "431",
+        "GEOCODE": "12031116431",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "NASUAPUM",
+        "LATITUDE": -6.559772,
+        "LONGITUDE": 146.80193,
+        "REGHH": 26,
+        "TOTPOP2000": 142,
+        "MALE2000": 83,
+        "FEMALE2000": 59,
+        "POP2008": 177,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031116431,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11065,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.81527500014124,
+          -6.5599610001000315
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11065,
+        "CU_NAME": "RAMU SUGAR RANCH",
+        "CU_NO": "465",
+        "GEOCODE": "12031116465",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "NASUAPUM",
+        "LATITUDE": -6.56138,
+        "LONGITUDE": 146.814249,
+        "REGHH": 2,
+        "TOTPOP2000": 9,
+        "MALE2000": 3,
+        "FEMALE2000": 6,
+        "POP2008": 9,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031116465,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11066,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.81334400012554,
+          -6.558662999597686
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11066,
+        "CU_NAME": "SAKSAK S'MENT",
+        "CU_NO": "466",
+        "GEOCODE": "12031116466",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "16",
+        "WARD_NAME": "NASUAPUM",
+        "LATITUDE": -6.560082,
+        "LONGITUDE": 146.812318,
+        "REGHH": 18,
+        "TOTPOP2000": 139,
+        "MALE2000": 76,
+        "FEMALE2000": 63,
+        "POP2008": 173,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031116466,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

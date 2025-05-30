@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20934,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.64308500027266,
+          -6.053240999672369
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20934,
+        "CU_NAME": "HUMBRA",
+        "CU_NO": "022",
+        "GEOCODE": "07061808022",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "08",
+        "WARD_NAME": "HUMBRA",
+        "LATITUDE": -6.056697,
+        "LONGITUDE": 143.642965,
+        "REGHH": 76,
+        "TOTPOP2000": 547,
+        "MALE2000": 277,
+        "FEMALE2000": 270,
+        "POP2008": 760,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061808022,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6409770001885,
+          -6.05516800040283
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20935,
+        "CU_NAME": "YAM",
+        "CU_NO": "023",
+        "GEOCODE": "07061808023",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "08",
+        "WARD_NAME": "HUMBRA",
+        "LATITUDE": -6.056698,
+        "LONGITUDE": 143.642966,
+        "REGHH": 45,
+        "TOTPOP2000": 306,
+        "MALE2000": 173,
+        "FEMALE2000": 133,
+        "POP2008": 425,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061808023,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5914189999869,
+          -6.072557000105405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20936,
+        "CU_NAME": "TOPA",
+        "CU_NO": "024",
+        "GEOCODE": "07061808024",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "08",
+        "WARD_NAME": "HUMBRA",
+        "LATITUDE": -6.076802,
+        "LONGITUDE": 143.591695,
+        "REGHH": 81,
+        "TOTPOP2000": 484,
+        "MALE2000": 259,
+        "FEMALE2000": 225,
+        "POP2008": 672,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061808024,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

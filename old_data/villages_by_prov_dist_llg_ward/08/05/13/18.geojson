@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5911,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.86405700023045,
+          -5.584772999674158
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5911,
+        "CU_NAME": "OPAKPOS",
+        "CU_NO": "001",
+        "GEOCODE": "08051318001",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "18",
+        "WARD_NAME": "OPAKPOS",
+        "LATITUDE": -5.586176,
+        "LONGITUDE": 143.862994,
+        "REGHH": 92,
+        "TOTPOP2000": 405,
+        "MALE2000": 221,
+        "FEMALE2000": 184,
+        "POP2008": 509,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051318001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.85367199976304,
+          -5.577368999979342
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5912,
+        "CU_NAME": "MAREMANDA",
+        "CU_NO": "002",
+        "GEOCODE": "08051318002",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "18",
+        "WARD_NAME": "OPAKPOS",
+        "LATITUDE": -5.578772,
+        "LONGITUDE": 143.852609,
+        "REGHH": 149,
+        "TOTPOP2000": 836,
+        "MALE2000": 430,
+        "FEMALE2000": 406,
+        "POP2008": 1051,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051318002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

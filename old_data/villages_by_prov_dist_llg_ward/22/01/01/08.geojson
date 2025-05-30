@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15786,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.36358499994788,
+          -5.880773999920109
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15786,
+        "CU_NAME": "KILIGA  1",
+        "CU_NO": "005",
+        "GEOCODE": "09010108005",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "KILIGA 1",
+        "LATITUDE": -5.881713,
+        "LONGITUDE": 144.363921,
+        "REGHH": 53,
+        "TOTPOP2000": 331,
+        "MALE2000": 174,
+        "FEMALE2000": 157,
+        "POP2008": 403,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010108005,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15787,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.38148900001738,
+          -5.899587999686389
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15787,
+        "CU_NAME": "KURKUR",
+        "CU_NO": "006",
+        "GEOCODE": "09010108006",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "KILIGA 1",
+        "LATITUDE": -5.900526,
+        "LONGITUDE": 144.381825,
+        "REGHH": 86,
+        "TOTPOP2000": 407,
+        "MALE2000": 224,
+        "FEMALE2000": 183,
+        "POP2008": 495,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010108006,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15788,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.38390199977755,
+          -5.90950400010945
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15788,
+        "CU_NAME": "TAPUK",
+        "CU_NO": "007",
+        "GEOCODE": "09010108007",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "KILIGA 1",
+        "LATITUDE": -5.910442,
+        "LONGITUDE": 144.384238,
+        "REGHH": 41,
+        "TOTPOP2000": 180,
+        "MALE2000": 96,
+        "FEMALE2000": 84,
+        "POP2008": 219,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010108007,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15789,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.35618599958423,
+          -5.876520999844217
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15789,
+        "CU_NAME": "KONTAINA",
+        "CU_NO": "008",
+        "GEOCODE": "09010108008",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "KILIGA 1",
+        "LATITUDE": -5.87746,
+        "LONGITUDE": 144.356522,
+        "REGHH": 60,
+        "TOTPOP2000": 361,
+        "MALE2000": 184,
+        "FEMALE2000": 177,
+        "POP2008": 439,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010108008,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3329969998117,
+          -5.919067999588435
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12324,
+        "CU_NAME": "BASAKALO",
+        "CU_NO": "001",
+        "GEOCODE": "12092803001",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "03",
+        "WARD_NAME": "SIO 1",
+        "LATITUDE": -5.91992,
+        "LONGITUDE": 147.331904,
+        "REGHH": 40,
+        "TOTPOP2000": 239,
+        "MALE2000": 120,
+        "FEMALE2000": 119,
+        "POP2008": 298,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092803001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12325,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.32361299964032,
+          -5.929517000309261
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12325,
+        "CU_NAME": "LAILO",
+        "CU_NO": "002",
+        "GEOCODE": "12092803002",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "03",
+        "WARD_NAME": "SIO 1",
+        "LATITUDE": -5.93093,
+        "LONGITUDE": 147.322595,
+        "REGHH": 70,
+        "TOTPOP2000": 470,
+        "MALE2000": 243,
+        "FEMALE2000": 227,
+        "POP2008": 587,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092803002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12326,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.29856400012852,
+          -5.932678000389387
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12326,
+        "CU_NAME": "BALAMBU",
+        "CU_NO": "003",
+        "GEOCODE": "12092803003",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "03",
+        "WARD_NAME": "SIO 1",
+        "LATITUDE": -5.933445,
+        "LONGITUDE": 147.299005,
+        "REGHH": 54,
+        "TOTPOP2000": 325,
+        "MALE2000": 162,
+        "FEMALE2000": 163,
+        "POP2008": 405,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092803003,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

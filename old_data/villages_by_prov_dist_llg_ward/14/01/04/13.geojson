@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.620231999907,
+          -4.161749000116231
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6236,
+        "CU_NAME": "AGRAMEI",
+        "CU_NO": "001",
+        "GEOCODE": "14010413001",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KAVIA",
+        "LATITUDE": -4.168992,
+        "LONGITUDE": 141.615456,
+        "REGHH": 19,
+        "TOTPOP2000": 67,
+        "MALE2000": 39,
+        "FEMALE2000": 28,
+        "POP2008": 81,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010413001,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6237,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.66419700029144,
+          -4.121855000407891
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6237,
+        "CU_NAME": "KAVIA",
+        "CU_NO": "003",
+        "GEOCODE": "14010413003",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "KAVIA",
+        "LATITUDE": -4.123436,
+        "LONGITUDE": 141.662939,
+        "REGHH": 21,
+        "TOTPOP2000": 116,
+        "MALE2000": 54,
+        "FEMALE2000": 62,
+        "POP2008": 140,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010413003,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

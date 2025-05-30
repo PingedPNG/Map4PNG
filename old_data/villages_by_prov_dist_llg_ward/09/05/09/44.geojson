@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.21244599988302,
+          -5.388641000381824
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17121,
+        "CU_NAME": "MANGI",
+        "CU_NO": "015",
+        "GEOCODE": "09050944015",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "44",
+        "WARD_NAME": "MANGI",
+        "LATITUDE": -5.389575,
+        "LONGITUDE": 144.212779,
+        "REGHH": 62,
+        "TOTPOP2000": 270,
+        "MALE2000": 132,
+        "FEMALE2000": 138,
+        "POP2008": 329,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050944015,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

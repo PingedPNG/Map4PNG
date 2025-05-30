@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7625,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1528319995972,
+          -8.06587600007731
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7625,
+        "CU_NAME": "MALALAUA",
+        "CU_NO": "001",
+        "GEOCODE": "02010683001",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "83",
+        "WARD_NAME": "MALALAUA URBAN",
+        "LATITUDE": -8.069301,
+        "LONGITUDE": 146.152467,
+        "REGHH": 50,
+        "TOTPOP2000": 306,
+        "MALE2000": 176,
+        "FEMALE2000": 130,
+        "POP2008": 376,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010683001,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7626,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.153578999871,
+          -8.070230000314211
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7626,
+        "CU_NAME": "MALALAUA",
+        "CU_NO": "002",
+        "GEOCODE": "02010683002",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "83",
+        "WARD_NAME": "MALALAUA URBAN",
+        "LATITUDE": -8.069302,
+        "LONGITUDE": 146.152468,
+        "REGHH": 33,
+        "TOTPOP2000": 212,
+        "MALE2000": 132,
+        "FEMALE2000": 80,
+        "POP2008": 261,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010683002,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7627,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1582820000143,
+          -8.0799709998617
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7627,
+        "CU_NAME": "KEKE SETTLEMENT",
+        "CU_NO": "600",
+        "GEOCODE": "02010683600",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "83",
+        "WARD_NAME": "MALALAUA URBAN",
+        "LATITUDE": -8.081403,
+        "LONGITUDE": 146.157243,
+        "REGHH": 32,
+        "TOTPOP2000": 231,
+        "MALE2000": 135,
+        "FEMALE2000": 96,
+        "POP2008": 283,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010683600,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7628,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.16460800035895,
+          -8.094512000428438
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7628,
+        "CU_NAME": "TAPALA",
+        "CU_NO": "601",
+        "GEOCODE": "02010683601",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "83",
+        "WARD_NAME": "MALALAUA URBAN",
+        "LATITUDE": -8.09311,
+        "LONGITUDE": 146.159978,
+        "REGHH": 49,
+        "TOTPOP2000": 267,
+        "MALE2000": 150,
+        "FEMALE2000": 117,
+        "POP2008": 327,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010683601,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7629,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1684979998829,
+          -8.111202000272044
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7629,
+        "CU_NAME": "UTO",
+        "CU_NO": "602",
+        "GEOCODE": "02010683602",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "83",
+        "WARD_NAME": "MALALAUA URBAN",
+        "LATITUDE": -8.113677,
+        "LONGITUDE": 146.169539,
+        "REGHH": 19,
+        "TOTPOP2000": 103,
+        "MALE2000": 62,
+        "FEMALE2000": 41,
+        "POP2008": 127,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010683602,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7630,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.13886000008904,
+          -8.061543999955575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7630,
+        "CU_NAME": "MURA",
+        "CU_NO": "603",
+        "GEOCODE": "02010683603",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "83",
+        "WARD_NAME": "MALALAUA URBAN",
+        "LATITUDE": -8.062977,
+        "LONGITUDE": 146.137821,
+        "REGHH": 9,
+        "TOTPOP2000": 57,
+        "MALE2000": 33,
+        "FEMALE2000": 24,
+        "POP2008": 72,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010683603,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7631,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.15633600020635,
+          -8.067953999677286
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7631,
+        "CU_NAME": "MALALAU H/SCH",
+        "CU_NO": "604",
+        "GEOCODE": "02010683604",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "06",
+        "WARD_NO": "83",
+        "WARD_NAME": "MALALAUA URBAN",
+        "LATITUDE": -8.069305,
+        "LONGITUDE": 146.15247,
+        "REGHH": 19,
+        "TOTPOP2000": 98,
+        "MALE2000": 58,
+        "FEMALE2000": 40,
+        "POP2008": 122,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010683604,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

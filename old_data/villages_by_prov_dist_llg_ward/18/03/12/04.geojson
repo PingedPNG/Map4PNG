@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4916,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.90742699965642,
+          -6.005396000225176
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4916,
+        "CU_NAME": "TAVOLO",
+        "CU_NO": "008",
+        "GEOCODE": "18031204008",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "04",
+        "WARD_NAME": "TAVOLO",
+        "LATITUDE": -6.009702,
+        "LONGITUDE": 150.904281,
+        "REGHH": 16,
+        "TOTPOP2000": 97,
+        "MALE2000": 42,
+        "FEMALE2000": 55,
+        "POP2008": 119,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031204008,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

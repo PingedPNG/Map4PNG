@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5444,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.81239400008315,
+          -5.391806999793175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5444,
+        "CU_NAME": "SILIM",
+        "CU_NO": "010",
+        "GEOCODE": "08020401010",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "SILIM",
+        "LATITUDE": -5.390658,
+        "LONGITUDE": 143.809632,
+        "REGHH": 97,
+        "TOTPOP2000": 597,
+        "MALE2000": 322,
+        "FEMALE2000": 275,
+        "POP2008": 750,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020401010,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5445,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.80252099984432,
+          -5.382897999942713
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5445,
+        "CU_NAME": "LAEP",
+        "CU_NO": "011",
+        "GEOCODE": "08020401011",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "01",
+        "WARD_NAME": "SILIM",
+        "LATITUDE": -5.384299,
+        "LONGITUDE": 143.801457,
+        "REGHH": 88,
+        "TOTPOP2000": 451,
+        "MALE2000": 253,
+        "FEMALE2000": 198,
+        "POP2008": 567,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020401011,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

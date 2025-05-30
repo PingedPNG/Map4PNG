@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14735,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.01128899978755,
+          -5.904155999899444
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14735,
+        "CU_NAME": "KANGIR 1",
+        "CU_NO": "001",
+        "GEOCODE": "10051508001",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": "08",
+        "WARD_NAME": "KENGAGLKU/KALAKU 2",
+        "LATITUDE": -5.905983,
+        "LONGITUDE": 145.010467,
+        "REGHH": 117,
+        "TOTPOP2000": 1027,
+        "MALE2000": 542,
+        "FEMALE2000": 485,
+        "POP2008": 1184,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051508001,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14736,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.02325899960317,
+          -5.9380659997460725
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14736,
+        "CU_NAME": "GENAI",
+        "CU_NO": "002",
+        "GEOCODE": "10051508002",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": "08",
+        "WARD_NAME": "KENGAGLKU/KALAKU 2",
+        "LATITUDE": -5.939475,
+        "LONGITUDE": 145.02221,
+        "REGHH": 93,
+        "TOTPOP2000": 455,
+        "MALE2000": 256,
+        "FEMALE2000": 199,
+        "POP2008": 524,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051508002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0115090000404,
+          -5.906859999589244
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14737,
+        "CU_NAME": "KANGIR H/C",
+        "CU_NO": "401",
+        "GEOCODE": "10051508401",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "15",
+        "WARD_NO": "08",
+        "WARD_NAME": "KENGAGLKU/KALAKU 2",
+        "LATITUDE": -5.905983,
+        "LONGITUDE": 145.010467,
+        "REGHH": 1,
+        "TOTPOP2000": 4,
+        "MALE2000": 1,
+        "FEMALE2000": 3,
+        "POP2008": 4,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051508401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

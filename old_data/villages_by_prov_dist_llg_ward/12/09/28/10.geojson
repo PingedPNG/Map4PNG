@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12346,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.93107199997291,
+          -5.902733999974089
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12346,
+        "CU_NAME": "BUGARA",
+        "CU_NO": "004",
+        "GEOCODE": "12092810004",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "10",
+        "WARD_NAME": "SINGOROKAI",
+        "LATITUDE": -5.904146,
+        "LONGITUDE": 146.930048,
+        "REGHH": 25,
+        "TOTPOP2000": 144,
+        "MALE2000": 79,
+        "FEMALE2000": 65,
+        "POP2008": 179,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092810004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12347,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9069310000657,
+          -5.8687860001737135
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12347,
+        "CU_NAME": "SINGOROKAI",
+        "CU_NO": "019",
+        "GEOCODE": "12092810019",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "10",
+        "WARD_NAME": "SINGOROKAI",
+        "LATITUDE": -5.863344,
+        "LONGITUDE": 146.905908,
+        "REGHH": 48,
+        "TOTPOP2000": 289,
+        "MALE2000": 157,
+        "FEMALE2000": 132,
+        "POP2008": 361,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092810019,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12348,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.90231600038317,
+          -5.859283999956574
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12348,
+        "CU_NAME": "BONASI C/SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "12092810401",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "10",
+        "WARD_NAME": "SINGOROKAI",
+        "LATITUDE": -5.860696,
+        "LONGITUDE": 146.903413,
+        "REGHH": 1,
+        "TOTPOP2000": 6,
+        "MALE2000": 3,
+        "FEMALE2000": 3,
+        "POP2008": 6,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092810401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

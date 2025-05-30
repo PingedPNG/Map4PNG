@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.13942600040969,
+          -9.340933000157804
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13117,
+        "CU_NAME": "KOREAF",
+        "CU_NO": "008",
+        "GEOCODE": "06010206008",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "KOREAF",
+        "LATITUDE": -9.342387,
+        "LONGITUDE": 149.138425,
+        "REGHH": 17,
+        "TOTPOP2000": 132,
+        "MALE2000": 75,
+        "FEMALE2000": 57,
+        "POP2008": 164,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010206008,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.15341399975637,
+          -9.331547999940199
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13118,
+        "CU_NAME": "NAUKWATE",
+        "CU_NO": "012",
+        "GEOCODE": "06010206012",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "06",
+        "WARD_NAME": "KOREAF",
+        "LATITUDE": -9.333002,
+        "LONGITUDE": 149.152413,
+        "REGHH": 34,
+        "TOTPOP2000": 257,
+        "MALE2000": 136,
+        "FEMALE2000": 121,
+        "POP2008": 318,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010206012,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

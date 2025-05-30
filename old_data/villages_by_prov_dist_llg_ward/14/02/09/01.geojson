@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.8412849996031,
+          -4.224319999668182
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6533,
+        "CU_NAME": "KUNDIMA",
+        "CU_NO": "021",
+        "GEOCODE": "14020901021",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "01",
+        "WARD_NAME": "KUNDIMA",
+        "LATITUDE": -4.234031,
+        "LONGITUDE": 143.850247,
+        "REGHH": 90,
+        "TOTPOP2000": 531,
+        "MALE2000": 262,
+        "FEMALE2000": 269,
+        "POP2008": 632,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020901021,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6534,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.85956199978648,
+          -4.220170999891707
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6534,
+        "CU_NAME": "KUNDIMA COMM/SCHOOL",
+        "CU_NO": "504",
+        "GEOCODE": "14020901504",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "01",
+        "WARD_NAME": "KUNDIMA",
+        "LATITUDE": -4.234031,
+        "LONGITUDE": 143.850247,
+        "REGHH": 1,
+        "TOTPOP2000": 2,
+        "MALE2000": 0,
+        "FEMALE2000": 2,
+        "POP2008": 2,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020901504,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

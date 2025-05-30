@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8810,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.3299560000694,
+          -5.690675000051158
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8810,
+        "CU_NAME": "AIYAWANG",
+        "CU_NO": "001",
+        "GEOCODE": "13041215001",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "15",
+        "WARD_NAME": "WARD 15",
+        "LATITUDE": -5.68487,
+        "LONGITUDE": 146.332717,
+        "REGHH": 45,
+        "TOTPOP2000": 250,
+        "MALE2000": 125,
+        "FEMALE2000": 125,
+        "POP2008": 310,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041215001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8811,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.31917999955738,
+          -5.644856999650756
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8811,
+        "CU_NAME": "GABUMI",
+        "CU_NO": "009",
+        "GEOCODE": "13041215009",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "15",
+        "WARD_NAME": "WARD 15",
+        "LATITUDE": -5.646265,
+        "LONGITUDE": 146.318149,
+        "REGHH": 22,
+        "TOTPOP2000": 131,
+        "MALE2000": 68,
+        "FEMALE2000": 63,
+        "POP2008": 163,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041215009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.3512839997569,
+          -5.670429999944474
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8812,
+        "CU_NAME": "SURI",
+        "CU_NO": "034",
+        "GEOCODE": "13041215034",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "15",
+        "WARD_NAME": "WARD 15",
+        "LATITUDE": -5.671838,
+        "LONGITUDE": 146.350253,
+        "REGHH": 10,
+        "TOTPOP2000": 49,
+        "MALE2000": 23,
+        "FEMALE2000": 26,
+        "POP2008": 58,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041215034,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.33225399992227,
+          -5.604154999553543
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8813,
+        "CU_NAME": "YORI",
+        "CU_NO": "042",
+        "GEOCODE": "13041215042",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "15",
+        "WARD_NAME": "WARD 15",
+        "LATITUDE": -5.60829,
+        "LONGITUDE": 146.332308,
+        "REGHH": 27,
+        "TOTPOP2000": 168,
+        "MALE2000": 95,
+        "FEMALE2000": 73,
+        "POP2008": 208,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041215042,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.29481900029668,
+          -5.656418000390374
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8814,
+        "CU_NAME": "TITIRAPOK",
+        "CU_NO": "044",
+        "GEOCODE": "13041215044",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "15",
+        "WARD_NAME": "WARD 15",
+        "LATITUDE": -5.662162,
+        "LONGITUDE": 146.297385,
+        "REGHH": 23,
+        "TOTPOP2000": 137,
+        "MALE2000": 71,
+        "FEMALE2000": 66,
+        "POP2008": 169,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041215044,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.31207099997675,
+          -5.613362999702645
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8815,
+        "CU_NAME": "SERENG",
+        "CU_NO": "045",
+        "GEOCODE": "13041215045",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "15",
+        "WARD_NAME": "WARD 15",
+        "LATITUDE": -5.614771,
+        "LONGITUDE": 146.31104,
+        "REGHH": 5,
+        "TOTPOP2000": 27,
+        "MALE2000": 15,
+        "FEMALE2000": 12,
+        "POP2008": 35,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041215045,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

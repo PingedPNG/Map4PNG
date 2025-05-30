@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10200,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3381840000916,
+          -9.454541999813387
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10200,
+        "CU_NAME": "FAIAVA",
+        "CU_NO": "007",
+        "GEOCODE": "05031314007",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "14",
+        "WARD_NAME": "FAIAVA",
+        "LATITUDE": -9.455588,
+        "LONGITUDE": 150.332283,
+        "REGHH": 189,
+        "TOTPOP2000": 1033,
+        "MALE2000": 510,
+        "FEMALE2000": 523,
+        "POP2008": 1259,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031314007,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

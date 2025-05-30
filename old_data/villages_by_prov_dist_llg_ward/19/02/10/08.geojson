@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18212,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.19317400028,
+          -5.704426000159742
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18212,
+        "CU_NAME": "MINGAE",
+        "CU_NO": "039",
+        "GEOCODE": "19021008039",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "SARAKOLOK",
+        "LATITUDE": -5.70463,
+        "LONGITUDE": 150.191,
+        "REGHH": 49,
+        "TOTPOP2000": 205,
+        "MALE2000": 113,
+        "FEMALE2000": 92,
+        "POP2008": 270,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19021008039,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.20858399955205,
+          -5.656437000367248
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18213,
+        "CU_NAME": "LAKIEMATA CIS",
+        "CU_NO": "508",
+        "GEOCODE": "19021008508",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "SARAKOLOK",
+        "LATITUDE": -5.65946,
+        "LONGITUDE": 150.208,
+        "REGHH": 36,
+        "TOTPOP2000": 406,
+        "MALE2000": 289,
+        "FEMALE2000": 117,
+        "POP2008": 534,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19021008508,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.220393000037,
+          -5.634526999921036
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18214,
+        "CU_NAME": "SARAKOLOK",
+        "CU_NO": "513",
+        "GEOCODE": "19021008513",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "SARAKOLOK",
+        "LATITUDE": -5.63834,
+        "LONGITUDE": 150.217,
+        "REGHH": 387,
+        "TOTPOP2000": 3142,
+        "MALE2000": 1686,
+        "FEMALE2000": 1456,
+        "POP2008": 4138,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19021008513,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.19237200016778,
+          -5.649999000253615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18215,
+        "CU_NAME": "TOGULO PLANTATION",
+        "CU_NO": "514",
+        "GEOCODE": "19021008514",
+        "PROV_KEY": "19",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "SARAKOLOK",
+        "LATITUDE": -5.65102,
+        "LONGITUDE": 150.193,
+        "REGHH": 103,
+        "TOTPOP2000": 392,
+        "MALE2000": 242,
+        "FEMALE2000": 150,
+        "POP2008": 516,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19021008514,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

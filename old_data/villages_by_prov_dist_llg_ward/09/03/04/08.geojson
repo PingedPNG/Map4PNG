@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.23266299959778,
+          -5.8306620002510385
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16551,
+        "CU_NAME": "KONTILA",
+        "CU_NO": "011",
+        "GEOCODE": "09030408011",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "KOGLAMP",
+        "LATITUDE": -5.8316,
+        "LONGITUDE": 144.232996,
+        "REGHH": 66,
+        "TOTPOP2000": 336,
+        "MALE2000": 159,
+        "FEMALE2000": 177,
+        "POP2008": 409,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030408011,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.22771499984742,
+          -5.829311000002576
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16552,
+        "CU_NAME": "BOMRUI & LUTH. CHURCH",
+        "CU_NO": "012",
+        "GEOCODE": "09030408012",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "KOGLAMP",
+        "LATITUDE": -5.830249,
+        "LONGITUDE": 144.228048,
+        "REGHH": 105,
+        "TOTPOP2000": 608,
+        "MALE2000": 309,
+        "FEMALE2000": 299,
+        "POP2008": 741,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030408012,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16553,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.25422800032197,
+          -5.847228999818412
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16553,
+        "CU_NAME": "POIMIND",
+        "CU_NO": "013",
+        "GEOCODE": "09030408013",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "KOGLAMP",
+        "LATITUDE": -5.848166,
+        "LONGITUDE": 144.254561,
+        "REGHH": 84,
+        "TOTPOP2000": 402,
+        "MALE2000": 202,
+        "FEMALE2000": 200,
+        "POP2008": 490,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030408013,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16554,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.24288199960472,
+          -5.8415240002323685
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16554,
+        "CU_NAME": "KIMININGA",
+        "CU_NO": "014",
+        "GEOCODE": "09030408014",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "KOGLAMP",
+        "LATITUDE": -5.842133,
+        "LONGITUDE": 144.243321,
+        "REGHH": 121,
+        "TOTPOP2000": 542,
+        "MALE2000": 276,
+        "FEMALE2000": 266,
+        "POP2008": 661,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030408014,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16555,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2418970000466,
+          -5.826571999598059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16555,
+        "CU_NAME": "RAGLAIMP",
+        "CU_NO": "015",
+        "GEOCODE": "09030408015",
+        "PROV_KEY": "09",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "08",
+        "WARD_NAME": "KOGLAMP",
+        "LATITUDE": -5.82751,
+        "LONGITUDE": 144.24223,
+        "REGHH": 167,
+        "TOTPOP2000": 743,
+        "MALE2000": 365,
+        "FEMALE2000": 378,
+        "POP2008": 907,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9030408015,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

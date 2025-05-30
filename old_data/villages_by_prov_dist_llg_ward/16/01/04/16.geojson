@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9400,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0392700001105,
+          -2.043124999818815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9400,
+        "CU_NAME": "PUNDRU",
+        "CU_NO": "008",
+        "GEOCODE": "16010416008",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "16",
+        "WARD_NAME": "PUNDRU",
+        "LATITUDE": -2.04624,
+        "LONGITUDE": 147.039992,
+        "REGHH": 40,
+        "TOTPOP2000": 220,
+        "MALE2000": 115,
+        "FEMALE2000": 105,
+        "POP2008": 271,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010416008,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

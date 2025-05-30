@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9407,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.13133500001027,
+          -1.991205000410389
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9407,
+        "CU_NAME": "N'DRAKOT",
+        "CU_NO": "008",
+        "GEOCODE": "16010506008",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "06",
+        "WARD_NAME": "NDRAKOT",
+        "LATITUDE": -2.000263,
+        "LONGITUDE": 147.129135,
+        "REGHH": 15,
+        "TOTPOP2000": 77,
+        "MALE2000": 42,
+        "FEMALE2000": 35,
+        "POP2008": 93,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010506008,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

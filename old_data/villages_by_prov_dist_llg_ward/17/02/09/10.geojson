@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12944,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.53014199985353,
+          -3.0980120000537
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12944,
+        "CU_NAME": "KOSMAIUM",
+        "CU_NO": "001",
+        "GEOCODE": "17020910001",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "10",
+        "WARD_NAME": "KOSMAIUN",
+        "LATITUDE": -3.099396,
+        "LONGITUDE": 152.529203,
+        "REGHH": 50,
+        "TOTPOP2000": 268,
+        "MALE2000": 135,
+        "FEMALE2000": 133,
+        "POP2008": 336,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020910001,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.5557210004239,
+          -3.0541059996920694
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12945,
+        "CU_NAME": "LIENBIL",
+        "CU_NO": "009",
+        "GEOCODE": "17020910009",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "10",
+        "WARD_NAME": "KOSMAIUN",
+        "LATITUDE": -3.055488,
+        "LONGITUDE": 152.554782,
+        "REGHH": 36,
+        "TOTPOP2000": 161,
+        "MALE2000": 92,
+        "FEMALE2000": 69,
+        "POP2008": 203,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020910009,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12946,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.54670800027407,
+          -3.063169000349035
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12946,
+        "CU_NAME": "SALE",
+        "CU_NO": "022",
+        "GEOCODE": "17020910022",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "10",
+        "WARD_NAME": "KOSMAIUN",
+        "LATITUDE": -3.064553,
+        "LONGITUDE": 152.545769,
+        "REGHH": 31,
+        "TOTPOP2000": 136,
+        "MALE2000": 81,
+        "FEMALE2000": 55,
+        "POP2008": 171,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020910022,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15187,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.51506700024197,
+          -7.138917999765852
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15187,
+        "CU_NAME": "MIWA NO. 2",
+        "CU_NO": "014",
+        "GEOCODE": "01010414014",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "14",
+        "WARD_NAME": "MIWA NO 2.",
+        "LATITUDE": -7.140316,
+        "LONGITUDE": 141.526941,
+        "REGHH": 42,
+        "TOTPOP2000": 354,
+        "MALE2000": 150,
+        "FEMALE2000": 204,
+        "POP2008": 459,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010414014,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

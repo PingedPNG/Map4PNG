@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18956,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.15350099997124,
+          -3.08875700043518
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18956,
+        "CU_NAME": "AINBAI",
+        "CU_NO": "001",
+        "GEOCODE": "15041323001",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "23",
+        "WARD_NAME": "AINBAI",
+        "LATITUDE": -3.090493,
+        "LONGITUDE": 141.146645,
+        "REGHH": 20,
+        "TOTPOP2000": 133,
+        "MALE2000": 73,
+        "FEMALE2000": 60,
+        "POP2008": 160,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041323001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18957,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.09067999968227,
+          -3.0555519998248997
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18957,
+        "CU_NAME": "ELIS 1",
+        "CU_NO": "002",
+        "GEOCODE": "15041323002",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "23",
+        "WARD_NAME": "AINBAI",
+        "LATITUDE": -3.056925,
+        "LONGITUDE": 141.089587,
+        "REGHH": 14,
+        "TOTPOP2000": 70,
+        "MALE2000": 32,
+        "FEMALE2000": 38,
+        "POP2008": 86,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041323002,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18958,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1078320001468,
+          -3.0606310002204395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18958,
+        "CU_NAME": "ELIS 2",
+        "CU_NO": "004",
+        "GEOCODE": "15041323004",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "23",
+        "WARD_NAME": "AINBAI",
+        "LATITUDE": -3.060193,
+        "LONGITUDE": 141.109981,
+        "REGHH": 6,
+        "TOTPOP2000": 29,
+        "MALE2000": 13,
+        "FEMALE2000": 16,
+        "POP2008": 37,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041323004,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

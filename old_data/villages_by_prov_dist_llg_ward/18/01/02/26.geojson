@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4514,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.08074599982808,
+          -4.442093999638303
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4514,
+        "CU_NAME": "IVERE",
+        "CU_NO": "001",
+        "GEOCODE": "18010226001",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "26",
+        "WARD_NAME": "IVERE",
+        "LATITUDE": -4.443496,
+        "LONGITUDE": 152.079799,
+        "REGHH": 60,
+        "TOTPOP2000": 341,
+        "MALE2000": 177,
+        "FEMALE2000": 164,
+        "POP2008": 416,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010226001,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

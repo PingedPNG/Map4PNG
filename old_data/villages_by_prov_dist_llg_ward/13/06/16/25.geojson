@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9276,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.42930799986436,
+          -5.391704000439233
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9276,
+        "CU_NAME": "BAISOP",
+        "CU_NO": "006",
+        "GEOCODE": "13061625006",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "25",
+        "WARD_NAME": "BAISOP",
+        "LATITUDE": -5.393108,
+        "LONGITUDE": 145.428265,
+        "REGHH": 24,
+        "TOTPOP2000": 152,
+        "MALE2000": 72,
+        "FEMALE2000": 80,
+        "POP2008": 188,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061625006,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.43797100006168,
+          -5.387701000200934
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9277,
+        "CU_NAME": "OLSOK",
+        "CU_NO": "007",
+        "GEOCODE": "13061625007",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "25",
+        "WARD_NAME": "BAISOP",
+        "LATITUDE": -5.389105,
+        "LONGITUDE": 145.436928,
+        "REGHH": 14,
+        "TOTPOP2000": 89,
+        "MALE2000": 45,
+        "FEMALE2000": 44,
+        "POP2008": 111,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061625007,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9278,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.39441299956036,
+          -5.367747000023996
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9278,
+        "CU_NAME": "MANIPUR LUTHERAN MISS.",
+        "CU_NO": "401",
+        "GEOCODE": "13061625401",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "25",
+        "WARD_NAME": "BAISOP",
+        "LATITUDE": -5.36915,
+        "LONGITUDE": 145.39337,
+        "REGHH": 9,
+        "TOTPOP2000": 44,
+        "MALE2000": 28,
+        "FEMALE2000": 16,
+        "POP2008": 52,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061625401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

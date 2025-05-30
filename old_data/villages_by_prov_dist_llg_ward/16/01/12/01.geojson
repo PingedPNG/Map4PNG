@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9532,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.59674800032008,
+          -2.083059999619252
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9532,
+        "CU_NAME": "MOKARAH",
+        "CU_NO": "006",
+        "GEOCODE": "16011201006",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "MOKARAH",
+        "LATITUDE": -2.08416,
+        "LONGITUDE": 147.592542,
+        "REGHH": 29,
+        "TOTPOP2000": 127,
+        "MALE2000": 65,
+        "FEMALE2000": 62,
+        "POP2008": 156,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16011201006,
+        "PROVINCE": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.58710499989593,
+          -2.088881000058052
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9533,
+        "CU_NAME": "MULIREU",
+        "CU_NO": "008",
+        "GEOCODE": "16011201008",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "MOKARAH",
+        "LATITUDE": -2.090248,
+        "LONGITUDE": 147.586095,
+        "REGHH": 28,
+        "TOTPOP2000": 159,
+        "MALE2000": 83,
+        "FEMALE2000": 76,
+        "POP2008": 195,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16011201008,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

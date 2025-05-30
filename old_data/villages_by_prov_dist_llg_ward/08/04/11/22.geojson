@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5824,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.75863300031278,
+          -5.505660999955126
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5824,
+        "CU_NAME": "LENKI",
+        "CU_NO": "004",
+        "GEOCODE": "08041122004",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "22",
+        "WARD_NAME": "LENKI",
+        "LATITUDE": -5.507063,
+        "LONGITUDE": 143.757569,
+        "REGHH": 186,
+        "TOTPOP2000": 1227,
+        "MALE2000": 605,
+        "FEMALE2000": 622,
+        "POP2008": 1543,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041122004,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5825,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.76114200000336,
+          -5.511169000349014
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5825,
+        "CU_NAME": "PIPI",
+        "CU_NO": "005",
+        "GEOCODE": "08041122005",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "22",
+        "WARD_NAME": "LENKI",
+        "LATITUDE": -5.512571,
+        "LONGITUDE": 143.760078,
+        "REGHH": 59,
+        "TOTPOP2000": 571,
+        "MALE2000": 277,
+        "FEMALE2000": 294,
+        "POP2008": 719,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041122005,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5826,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7615059997022,
+          -5.517032000026745
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5826,
+        "CU_NAME": "KEPAKANDA",
+        "CU_NO": "006",
+        "GEOCODE": "08041122006",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "22",
+        "WARD_NAME": "LENKI",
+        "LATITUDE": -5.518434,
+        "LONGITUDE": 143.760442,
+        "REGHH": 74,
+        "TOTPOP2000": 672,
+        "MALE2000": 341,
+        "FEMALE2000": 331,
+        "POP2008": 844,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041122006,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.76755900004787,
+          -5.504982000119185
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5827,
+        "CU_NAME": "IPALEMANDA",
+        "CU_NO": "007",
+        "GEOCODE": "08041122007",
+        "PROV_KEY": "08",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "22",
+        "WARD_NAME": "LENKI",
+        "LATITUDE": -5.506384,
+        "LONGITUDE": 143.766495,
+        "REGHH": 79,
+        "TOTPOP2000": 567,
+        "MALE2000": 258,
+        "FEMALE2000": 309,
+        "POP2008": 711,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8041122007,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

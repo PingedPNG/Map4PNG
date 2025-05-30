@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10273,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.83260900010532,
+          -9.470343000029402
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10273,
+        "CU_NAME": "BASIMA",
+        "CU_NO": "001",
+        "GEOCODE": "05041528001",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "28",
+        "WARD_NAME": "BASIMA",
+        "LATITUDE": -9.477084,
+        "LONGITUDE": 150.83463,
+        "REGHH": 147,
+        "TOTPOP2000": 727,
+        "MALE2000": 367,
+        "FEMALE2000": 360,
+        "POP2008": 887,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041528001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

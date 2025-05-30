@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20442,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.32225800000674,
+          -5.846716000442996
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20442,
+        "CU_NAME": "TUNDAKA",
+        "CU_NO": "016",
+        "GEOCODE": "07041332016",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "32",
+        "WARD_NAME": "TUNDAKA",
+        "LATITUDE": -5.850959,
+        "LONGITUDE": 143.322529,
+        "REGHH": 65,
+        "TOTPOP2000": 493,
+        "MALE2000": 248,
+        "FEMALE2000": 245,
+        "POP2008": 686,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041332016,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20443,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.32112900010338,
+          -5.851207999849294
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20443,
+        "CU_NAME": "LOPAPI",
+        "CU_NO": "017",
+        "GEOCODE": "07041332017",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "32",
+        "WARD_NAME": "TUNDAKA",
+        "LATITUDE": -5.855451,
+        "LONGITUDE": 143.3214,
+        "REGHH": 62,
+        "TOTPOP2000": 552,
+        "MALE2000": 285,
+        "FEMALE2000": 267,
+        "POP2008": 766,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041332017,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20444,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.32056500017472,
+          -5.847839000069769
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20444,
+        "CU_NAME": "HIPURAIPA",
+        "CU_NO": "018",
+        "GEOCODE": "07041332018",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "32",
+        "WARD_NAME": "TUNDAKA",
+        "LATITUDE": -5.852082,
+        "LONGITUDE": 143.320836,
+        "REGHH": 75,
+        "TOTPOP2000": 463,
+        "MALE2000": 245,
+        "FEMALE2000": 218,
+        "POP2008": 643,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041332018,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20445,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.32507999974223,
+          -5.850647000058984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20445,
+        "CU_NAME": "HATAMBE",
+        "CU_NO": "019",
+        "GEOCODE": "07041332019",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "32",
+        "WARD_NAME": "TUNDAKA",
+        "LATITUDE": -5.85489,
+        "LONGITUDE": 143.325351,
+        "REGHH": 53,
+        "TOTPOP2000": 456,
+        "MALE2000": 251,
+        "FEMALE2000": 205,
+        "POP2008": 636,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041332019,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

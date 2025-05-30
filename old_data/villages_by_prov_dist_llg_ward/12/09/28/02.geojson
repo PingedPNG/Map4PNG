@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12322,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3399629999925,
+          -5.921644999716932
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12322,
+        "CU_NAME": "LAMBUTINA",
+        "CU_NO": "014",
+        "GEOCODE": "12092802014",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "02",
+        "WARD_NAME": "SIO 2",
+        "LATITUDE": -5.921287,
+        "LONGITUDE": 147.340358,
+        "REGHH": 124,
+        "TOTPOP2000": 730,
+        "MALE2000": 366,
+        "FEMALE2000": 364,
+        "POP2008": 910,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092802014,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12323,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.36995299983118,
+          -5.954412999959914
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12323,
+        "CU_NAME": "NAMBARIWA",
+        "CU_NO": "015",
+        "GEOCODE": "12092802015",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "28",
+        "WARD_NO": "02",
+        "WARD_NAME": "SIO 2",
+        "LATITUDE": -5.954762,
+        "LONGITUDE": 147.372117,
+        "REGHH": 43,
+        "TOTPOP2000": 304,
+        "MALE2000": 158,
+        "FEMALE2000": 146,
+        "POP2008": 380,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092802015,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

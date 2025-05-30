@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17485,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.058933000058,
+          -5.861897999992664
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17485,
+        "CU_NAME": "WAPUKOLA",
+        "CU_NO": "035",
+        "GEOCODE": "09071212035",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "12",
+        "WARD_NAME": "TSINSIBAI  2",
+        "LATITUDE": -5.862836,
+        "LONGITUDE": 144.059265,
+        "REGHH": 36,
+        "TOTPOP2000": 195,
+        "MALE2000": 103,
+        "FEMALE2000": 92,
+        "POP2008": 237,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071212035,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17486,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.06079499958958,
+          -5.867519000201639
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17486,
+        "CU_NAME": "SIEPENG",
+        "CU_NO": "036",
+        "GEOCODE": "09071212036",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "12",
+        "WARD_NAME": "TSINSIBAI  2",
+        "LATITUDE": -5.868457,
+        "LONGITUDE": 144.061127,
+        "REGHH": 84,
+        "TOTPOP2000": 412,
+        "MALE2000": 221,
+        "FEMALE2000": 191,
+        "POP2008": 502,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071212036,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17487,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.06294299971978,
+          -5.882841999958259
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17487,
+        "CU_NAME": "KAIMAPULG",
+        "CU_NO": "037",
+        "GEOCODE": "09071212037",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "12",
+        "WARD_NAME": "TSINSIBAI  2",
+        "LATITUDE": -5.88378,
+        "LONGITUDE": 144.063275,
+        "REGHH": 45,
+        "TOTPOP2000": 209,
+        "MALE2000": 114,
+        "FEMALE2000": 95,
+        "POP2008": 254,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071212037,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

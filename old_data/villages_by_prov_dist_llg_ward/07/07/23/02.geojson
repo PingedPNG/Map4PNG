@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.77854100036689,
+          -6.421830000054399
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21213,
+        "CU_NAME": "BONA",
+        "CU_NO": "004",
+        "GEOCODE": "07072302004",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "02",
+        "WARD_NAME": "BONA",
+        "LATITUDE": -6.440113,
+        "LONGITUDE": 142.787277,
+        "REGHH": 27,
+        "TOTPOP2000": 132,
+        "MALE2000": 60,
+        "FEMALE2000": 72,
+        "POP2008": 184,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072302004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7870529998961,
+          -6.447112999565206
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21214,
+        "CU_NAME": "MULUMA",
+        "CU_NO": "005",
+        "GEOCODE": "07072302005",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "02",
+        "WARD_NAME": "BONA",
+        "LATITUDE": -6.440113,
+        "LONGITUDE": 142.787277,
+        "REGHH": 20,
+        "TOTPOP2000": 92,
+        "MALE2000": 44,
+        "FEMALE2000": 48,
+        "POP2008": 128,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072302005,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7420239999077,
+          -6.417268000118042
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21215,
+        "CU_NAME": "OLABIA",
+        "CU_NO": "016",
+        "GEOCODE": "07072302016",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "02",
+        "WARD_NAME": "BONA",
+        "LATITUDE": -6.440113,
+        "LONGITUDE": 142.787277,
+        "REGHH": 32,
+        "TOTPOP2000": 179,
+        "MALE2000": 88,
+        "FEMALE2000": 91,
+        "POP2008": 250,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072302016,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8067229995669,
+          -6.450794000242865
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21216,
+        "CU_NAME": "TABILI",
+        "CU_NO": "031",
+        "GEOCODE": "07072302031",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "02",
+        "WARD_NAME": "BONA",
+        "LATITUDE": -6.440113,
+        "LONGITUDE": 142.787277,
+        "REGHH": 48,
+        "TOTPOP2000": 202,
+        "MALE2000": 95,
+        "FEMALE2000": 107,
+        "POP2008": 280,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072302031,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.79820299966877,
+          -6.423636999747714
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21217,
+        "CU_NAME": "MULUMA STATION",
+        "CU_NO": "401",
+        "GEOCODE": "07072302401",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "02",
+        "WARD_NAME": "BONA",
+        "LATITUDE": -6.440113,
+        "LONGITUDE": 142.787277,
+        "REGHH": 13,
+        "TOTPOP2000": 75,
+        "MALE2000": 40,
+        "FEMALE2000": 35,
+        "POP2008": 104,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072302401,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7645069997983,
+          -6.423753999747248
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21218,
+        "CU_NAME": "MULUMA SCHOOL",
+        "CU_NO": "402",
+        "GEOCODE": "07072302402",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "23",
+        "WARD_NO": "02",
+        "WARD_NAME": "BONA",
+        "LATITUDE": -6.440113,
+        "LONGITUDE": 142.787277,
+        "REGHH": 1,
+        "TOTPOP2000": 5,
+        "MALE2000": 4,
+        "FEMALE2000": 1,
+        "POP2008": 5,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072302402,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

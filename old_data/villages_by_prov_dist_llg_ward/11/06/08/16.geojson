@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30248,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.98906767992958,
+          -6.558242400166591
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30248,
+        "CU_NAME": "KURUNUMBURA",
+        "CU_NO": "007",
+        "GEOCODE": "11060816007",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "KURUNUMBURA",
+        "LATITUDE": -6.558242,
+        "LONGITUDE": 145.989068,
+        "REGHH": 78,
+        "TOTPOP2000": 400,
+        "MALE2000": 213,
+        "FEMALE2000": 187,
+        "POP2008": 476,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30249,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9823525995929,
+          -6.551752320313312
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30249,
+        "CU_NAME": "OIVA",
+        "CU_NO": "010",
+        "GEOCODE": "11060816010",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "KURUNUMBURA",
+        "LATITUDE": -6.551752,
+        "LONGITUDE": 145.982353,
+        "REGHH": 4,
+        "TOTPOP2000": 24,
+        "MALE2000": 11,
+        "FEMALE2000": 13,
+        "POP2008": 32,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9853395197032,
+          -6.5633106599589155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30250,
+        "CU_NAME": "KARANAS",
+        "CU_NO": "012",
+        "GEOCODE": "11060816012",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "KURUNUMBURA",
+        "LATITUDE": -6.563311,
+        "LONGITUDE": 145.98534,
+        "REGHH": 14,
+        "TOTPOP2000": 69,
+        "MALE2000": 35,
+        "FEMALE2000": 34,
+        "POP2008": 85,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30251,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.98530208002705,
+          -6.553574909754218
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30251,
+        "CU_NAME": "EBC MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "11060816401",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "KURUNUMBURA",
+        "LATITUDE": -6.553575,
+        "LONGITUDE": 145.985302,
+        "REGHH": 10,
+        "TOTPOP2000": 54,
+        "MALE2000": 26,
+        "FEMALE2000": 28,
+        "POP2008": 62,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

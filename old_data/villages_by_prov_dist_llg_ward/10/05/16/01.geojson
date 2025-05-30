@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14760,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.98950599980208,
+          -5.976797999827795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14760,
+        "CU_NAME": "KUPAU",
+        "CU_NO": "001",
+        "GEOCODE": "10051601001",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "01",
+        "WARD_NAME": "KUPAU",
+        "LATITUDE": -5.979186,
+        "LONGITUDE": 144.988658,
+        "REGHH": 91,
+        "TOTPOP2000": 813,
+        "MALE2000": 471,
+        "FEMALE2000": 342,
+        "POP2008": 938,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051601001,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14761,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.98865800026658,
+          -5.983149999572788
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14761,
+        "CU_NAME": "OMBONDO",
+        "CU_NO": "002",
+        "GEOCODE": "10051601002",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "01",
+        "WARD_NAME": "KUPAU",
+        "LATITUDE": -5.984559,
+        "LONGITUDE": 144.987608,
+        "REGHH": 70,
+        "TOTPOP2000": 530,
+        "MALE2000": 291,
+        "FEMALE2000": 239,
+        "POP2008": 612,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051601002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14762,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.98873500022012,
+          -5.987848000384872
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14762,
+        "CU_NAME": "URR",
+        "CU_NO": "003",
+        "GEOCODE": "10051601003",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "01",
+        "WARD_NAME": "KUPAU",
+        "LATITUDE": -5.989257,
+        "LONGITUDE": 144.987685,
+        "REGHH": 86,
+        "TOTPOP2000": 686,
+        "MALE2000": 371,
+        "FEMALE2000": 315,
+        "POP2008": 792,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051601003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14763,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9937090002702,
+          -5.98482300028121
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14763,
+        "CU_NAME": "GANDUA",
+        "CU_NO": "004",
+        "GEOCODE": "10051601004",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "01",
+        "WARD_NAME": "KUPAU",
+        "LATITUDE": -5.986232,
+        "LONGITUDE": 144.99266,
+        "REGHH": 82,
+        "TOTPOP2000": 606,
+        "MALE2000": 331,
+        "FEMALE2000": 275,
+        "POP2008": 699,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051601004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14764,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9896569995709,
+          -5.978568999659558
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14764,
+        "CU_NAME": "KUPAU C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "10051601401",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "01",
+        "WARD_NAME": "KUPAU",
+        "LATITUDE": -5.979186,
+        "LONGITUDE": 144.988658,
+        "REGHH": 85,
+        "TOTPOP2000": 640,
+        "MALE2000": 352,
+        "FEMALE2000": 288,
+        "POP2008": 739,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051601401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

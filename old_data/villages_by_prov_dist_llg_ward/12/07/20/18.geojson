@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11905,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1564869999752,
+          -7.437759999724165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11905,
+        "CU_NAME": "HAMBIYAWINI",
+        "CU_NO": "008",
+        "GEOCODE": "12072018008",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "18",
+        "WARD_NAME": "BAINU",
+        "LATITUDE": -7.437365,
+        "LONGITUDE": 146.161421,
+        "REGHH": 55,
+        "TOTPOP2000": 280,
+        "MALE2000": 150,
+        "FEMALE2000": 130,
+        "POP2008": 350,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072018008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11906,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.16461299969023,
+          -7.444664999789836
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11906,
+        "CU_NAME": "YAPATO",
+        "CU_NO": "009",
+        "GEOCODE": "12072018009",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "18",
+        "WARD_NAME": "BAINU",
+        "LATITUDE": -7.446092,
+        "LONGITUDE": 146.163576,
+        "REGHH": 52,
+        "TOTPOP2000": 261,
+        "MALE2000": 134,
+        "FEMALE2000": 127,
+        "POP2008": 326,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072018009,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11907,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.17143799966402,
+          -7.454638000143518
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11907,
+        "CU_NAME": "KAKAINDO",
+        "CU_NO": "010",
+        "GEOCODE": "12072018010",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "18",
+        "WARD_NAME": "BAINU",
+        "LATITUDE": -7.456065,
+        "LONGITUDE": 146.170401,
+        "REGHH": 56,
+        "TOTPOP2000": 277,
+        "MALE2000": 140,
+        "FEMALE2000": 137,
+        "POP2008": 345,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072018010,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11908,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.15102599994998,
+          -7.4225909998746715
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11908,
+        "CU_NAME": "PESU",
+        "CU_NO": "016",
+        "GEOCODE": "12072018016",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "18",
+        "WARD_NAME": "BAINU",
+        "LATITUDE": -7.424018,
+        "LONGITUDE": 146.149989,
+        "REGHH": 81,
+        "TOTPOP2000": 427,
+        "MALE2000": 215,
+        "FEMALE2000": 212,
+        "POP2008": 533,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072018016,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11909,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.16694500021163,
+          -7.44803999984606
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11909,
+        "CU_NAME": "TABAIGO",
+        "CU_NO": "019",
+        "GEOCODE": "12072018019",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "18",
+        "WARD_NAME": "BAINU",
+        "LATITUDE": -7.449467,
+        "LONGITUDE": 146.165908,
+        "REGHH": 64,
+        "TOTPOP2000": 296,
+        "MALE2000": 159,
+        "FEMALE2000": 137,
+        "POP2008": 370,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072018019,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

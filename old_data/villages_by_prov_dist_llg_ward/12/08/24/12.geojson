@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12124,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.05448200014428,
+          -6.488447000028998
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12124,
+        "CU_NAME": "BILIMANG",
+        "CU_NO": "007",
+        "GEOCODE": "12082412007",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "24",
+        "WARD_NO": "12",
+        "WARD_NAME": "SAMANZING",
+        "LATITUDE": -6.489038,
+        "LONGITUDE": 147.070791,
+        "REGHH": 20,
+        "TOTPOP2000": 104,
+        "MALE2000": 59,
+        "FEMALE2000": 45,
+        "POP2008": 129,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082412007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12125,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.05844300024432,
+          -6.462854999758406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12125,
+        "CU_NAME": "SAMANZING",
+        "CU_NO": "025",
+        "GEOCODE": "12082412025",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "24",
+        "WARD_NO": "12",
+        "WARD_NAME": "SAMANZING",
+        "LATITUDE": -6.460958,
+        "LONGITUDE": 147.061838,
+        "REGHH": 73,
+        "TOTPOP2000": 410,
+        "MALE2000": 202,
+        "FEMALE2000": 208,
+        "POP2008": 511,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082412025,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.88357400033988,
+          -6.4489469996042885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12126,
+        "CU_NAME": "KARAU",
+        "CU_NO": "410",
+        "GEOCODE": "12082412410",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "24",
+        "WARD_NO": "12",
+        "WARD_NAME": "SAMANZING",
+        "LATITUDE": -6.450365,
+        "LONGITUDE": 146.882549,
+        "REGHH": 33,
+        "TOTPOP2000": 184,
+        "MALE2000": 90,
+        "FEMALE2000": 94,
+        "POP2008": 229,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082412410,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

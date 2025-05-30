@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19032,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.23710800013419,
+          -3.7449040002193783
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19032,
+        "CU_NAME": "AKRANI",
+        "CU_NO": "001",
+        "GEOCODE": "15041435001",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "35",
+        "WARD_NAME": "MIARFAI",
+        "LATITUDE": -3.746284,
+        "LONGITUDE": 141.236016,
+        "REGHH": 12,
+        "TOTPOP2000": 65,
+        "MALE2000": 35,
+        "FEMALE2000": 30,
+        "POP2008": 81,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041435001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19033,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.21176100036996,
+          -3.785196000295116
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19033,
+        "CU_NAME": "MIARFAI",
+        "CU_NO": "009",
+        "GEOCODE": "15041435009",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "35",
+        "WARD_NAME": "MIARFAI",
+        "LATITUDE": -3.786576,
+        "LONGITUDE": 141.210668,
+        "REGHH": 19,
+        "TOTPOP2000": 96,
+        "MALE2000": 44,
+        "FEMALE2000": 52,
+        "POP2008": 115,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041435009,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

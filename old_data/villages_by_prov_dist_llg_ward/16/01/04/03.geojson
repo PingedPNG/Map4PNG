@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9385,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.85374699992417,
+          -1.958906000211698
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9385,
+        "CU_NAME": "TULU 2",
+        "CU_NO": "006",
+        "GEOCODE": "16010403006",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "TULU 2",
+        "LATITUDE": -1.959555,
+        "LONGITUDE": 146.854643,
+        "REGHH": 27,
+        "TOTPOP2000": 174,
+        "MALE2000": 93,
+        "FEMALE2000": 81,
+        "POP2008": 214,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010403006,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

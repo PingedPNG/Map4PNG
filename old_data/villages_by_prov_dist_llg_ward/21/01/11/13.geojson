@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20212,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.91811500040706,
+          -5.982266000175741
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20212,
+        "CU_NAME": "LAITE",
+        "CU_NO": "013",
+        "GEOCODE": "07041113013",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "HOMA PAWA",
+        "LATITUDE": -5.98651,
+        "LONGITUDE": 142.918378,
+        "REGHH": 18,
+        "TOTPOP2000": 117,
+        "MALE2000": 65,
+        "FEMALE2000": 52,
+        "POP2008": 163,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041113013,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.92657500023608,
+          -5.995065000449358
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20213,
+        "CU_NAME": "DIBAGA",
+        "CU_NO": "014",
+        "GEOCODE": "07041113014",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "HOMA PAWA",
+        "LATITUDE": -5.99878,
+        "LONGITUDE": 142.917885,
+        "REGHH": 18,
+        "TOTPOP2000": 132,
+        "MALE2000": 67,
+        "FEMALE2000": 65,
+        "POP2008": 184,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041113014,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9146600002589,
+          -5.98913699957285
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20214,
+        "CU_NAME": "WATERSOURCE",
+        "CU_NO": "015",
+        "GEOCODE": "07041113015",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "HOMA PAWA",
+        "LATITUDE": -5.993381,
+        "LONGITUDE": 142.914923,
+        "REGHH": 6,
+        "TOTPOP2000": 45,
+        "MALE2000": 29,
+        "FEMALE2000": 16,
+        "POP2008": 61,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041113015,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

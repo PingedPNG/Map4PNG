@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14934,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.98304799966547,
+          -6.075676000047338
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14934,
+        "CU_NAME": "MAUNKUI",
+        "CU_NO": "010",
+        "GEOCODE": "10061810010",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "10",
+        "WARD_NAME": "NINIKU",
+        "LATITUDE": -6.077086,
+        "LONGITUDE": 144.981998,
+        "REGHH": 36,
+        "TOTPOP2000": 168,
+        "MALE2000": 79,
+        "FEMALE2000": 89,
+        "POP2008": 192,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061810010,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.02054899963673,
+          -6.050931000165463
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14935,
+        "CU_NAME": "BOGNIL",
+        "CU_NO": "011",
+        "GEOCODE": "10061810011",
+        "PROV_KEY": "10",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "10",
+        "WARD_NAME": "NINIKU",
+        "LATITUDE": -6.052341,
+        "LONGITUDE": 145.0195,
+        "REGHH": 81,
+        "TOTPOP2000": 383,
+        "MALE2000": 191,
+        "FEMALE2000": 192,
+        "POP2008": 442,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10061810011,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

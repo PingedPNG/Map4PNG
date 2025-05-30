@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11694,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4090449996271,
+          -6.3839539998771215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11694,
+        "CU_NAME": "LERON BRIDGE",
+        "CU_NO": "017",
+        "GEOCODE": "12061828017",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "28",
+        "WARD_NAME": "WAFIBAMPUN",
+        "LATITUDE": -6.38537,
+        "LONGITUDE": 146.408013,
+        "REGHH": 13,
+        "TOTPOP2000": 69,
+        "MALE2000": 30,
+        "FEMALE2000": 39,
+        "POP2008": 85,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061828017,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11695,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.32136599964122,
+          -6.335832000246569
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11695,
+        "CU_NAME": "CHIZINGBAMPUN",
+        "CU_NO": "018",
+        "GEOCODE": "12061828018",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "28",
+        "WARD_NAME": "WAFIBAMPUN",
+        "LATITUDE": -6.337248,
+        "LONGITUDE": 146.320333,
+        "REGHH": 12,
+        "TOTPOP2000": 88,
+        "MALE2000": 46,
+        "FEMALE2000": 42,
+        "POP2008": 111,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061828018,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11696,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.36009100029946,
+          -6.348508000243953
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11696,
+        "CU_NAME": "WAFIBAMPUN",
+        "CU_NO": "019",
+        "GEOCODE": "12061828019",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "28",
+        "WARD_NAME": "WAFIBAMPUN",
+        "LATITUDE": -6.349924,
+        "LONGITUDE": 146.359059,
+        "REGHH": 100,
+        "TOTPOP2000": 580,
+        "MALE2000": 303,
+        "FEMALE2000": 277,
+        "POP2008": 724,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061828019,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.84630500037554,
+          -5.401666000285616
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15491,
+        "CU_NAME": "SELTAMIN",
+        "CU_NO": "006",
+        "GEOCODE": "01020912006",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "SELTAMIN",
+        "LATITUDE": -5.412102,
+        "LONGITUDE": 141.822571,
+        "REGHH": 27,
+        "TOTPOP2000": 154,
+        "MALE2000": 86,
+        "FEMALE2000": 68,
+        "POP2008": 199,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020912006,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15492,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.89195600026926,
+          -5.43098699985012
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15492,
+        "CU_NAME": "BAKTAMIN",
+        "CU_NO": "007",
+        "GEOCODE": "01020912007",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "SELTAMIN",
+        "LATITUDE": -5.431064,
+        "LONGITUDE": 141.887343,
+        "REGHH": 27,
+        "TOTPOP2000": 131,
+        "MALE2000": 62,
+        "FEMALE2000": 69,
+        "POP2008": 169,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020912007,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

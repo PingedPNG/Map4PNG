@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.78632599984508,
+          -10.275304999725904
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9755,
+        "CU_NAME": "WALALAIA",
+        "CU_NO": "014",
+        "GEOCODE": "05010523014",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "23",
+        "WARD_NAME": "WALALAIA",
+        "LATITUDE": -10.273848,
+        "LONGITUDE": 150.790283,
+        "REGHH": 52,
+        "TOTPOP2000": 233,
+        "MALE2000": 125,
+        "FEMALE2000": 108,
+        "POP2008": 284,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010523014,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9756,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.76581800020062,
+          -10.290730999735786
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9756,
+        "CU_NAME": "GADUDU",
+        "CU_NO": "015",
+        "GEOCODE": "05010523015",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "23",
+        "WARD_NAME": "WALALAIA",
+        "LATITUDE": -10.291649,
+        "LONGITUDE": 150.766011,
+        "REGHH": 42,
+        "TOTPOP2000": 219,
+        "MALE2000": 108,
+        "FEMALE2000": 111,
+        "POP2008": 267,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010523015,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9757,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.78954699999417,
+          -10.271245999603138
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9757,
+        "CU_NAME": "WALALAIA SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "05010523401",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "23",
+        "WARD_NAME": "WALALAIA",
+        "LATITUDE": -10.273848,
+        "LONGITUDE": 150.790283,
+        "REGHH": 3,
+        "TOTPOP2000": 18,
+        "MALE2000": 8,
+        "FEMALE2000": 10,
+        "POP2008": 18,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010523401,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

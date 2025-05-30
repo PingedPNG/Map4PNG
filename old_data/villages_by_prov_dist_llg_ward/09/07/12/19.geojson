@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17501,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.92861399963647,
+          -5.8532749998413465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17501,
+        "CU_NAME": "MALTAKA",
+        "CU_NO": "023",
+        "GEOCODE": "09071219023",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "19",
+        "WARD_NAME": "MALTAKA",
+        "LATITUDE": -5.854214,
+        "LONGITUDE": 143.928943,
+        "REGHH": 72,
+        "TOTPOP2000": 311,
+        "MALE2000": 167,
+        "FEMALE2000": 144,
+        "POP2008": 379,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071219023,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17502,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9259200004078,
+          -5.858863000327176
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17502,
+        "CU_NAME": "UKA",
+        "CU_NO": "024",
+        "GEOCODE": "09071219024",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "19",
+        "WARD_NAME": "MALTAKA",
+        "LATITUDE": -5.859802,
+        "LONGITUDE": 143.926249,
+        "REGHH": 84,
+        "TOTPOP2000": 335,
+        "MALE2000": 163,
+        "FEMALE2000": 172,
+        "POP2008": 408,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071219024,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17503,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.92855000028237,
+          -5.860554000066998
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17503,
+        "CU_NAME": "YOMBIKUL C/ SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "09071219401",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "19",
+        "WARD_NAME": "MALTAKA",
+        "LATITUDE": -5.861493,
+        "LONGITUDE": 143.928879,
+        "REGHH": 3,
+        "TOTPOP2000": 13,
+        "MALE2000": 6,
+        "FEMALE2000": 7,
+        "POP2008": 13,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071219401,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

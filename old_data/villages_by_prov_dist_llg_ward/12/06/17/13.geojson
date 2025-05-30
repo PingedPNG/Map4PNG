@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11570,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.192010999608,
+          -6.393653000185736
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11570,
+        "CU_NAME": "NGAROBOIN",
+        "CU_NO": "010",
+        "GEOCODE": "12061713010",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "13",
+        "WARD_NAME": "ONGA",
+        "LATITUDE": -6.395069,
+        "LONGITUDE": 146.190976,
+        "REGHH": 33,
+        "TOTPOP2000": 175,
+        "MALE2000": 96,
+        "FEMALE2000": 79,
+        "POP2008": 218,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061713010,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11571,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.18795300043064,
+          -6.380292000075713
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11571,
+        "CU_NAME": "ONGA",
+        "CU_NO": "011",
+        "GEOCODE": "12061713011",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "13",
+        "WARD_NAME": "ONGA",
+        "LATITUDE": -6.382812,
+        "LONGITUDE": 146.190759,
+        "REGHH": 92,
+        "TOTPOP2000": 532,
+        "MALE2000": 279,
+        "FEMALE2000": 253,
+        "POP2008": 664,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061713011,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11572,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.19736600014085,
+          -6.360307000267824
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11572,
+        "CU_NAME": "ZIGINBUARUF",
+        "CU_NO": "012",
+        "GEOCODE": "12061713012",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "13",
+        "WARD_NAME": "ONGA",
+        "LATITUDE": -6.361723,
+        "LONGITUDE": 146.196332,
+        "REGHH": 31,
+        "TOTPOP2000": 150,
+        "MALE2000": 84,
+        "FEMALE2000": 66,
+        "POP2008": 187,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061713012,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11573,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.19411300031481,
+          -6.386280000121872
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11573,
+        "CU_NAME": "NGAROGURIAS",
+        "CU_NO": "013",
+        "GEOCODE": "12061713013",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "13",
+        "WARD_NAME": "ONGA",
+        "LATITUDE": -6.386594,
+        "LONGITUDE": 146.190886,
+        "REGHH": 23,
+        "TOTPOP2000": 123,
+        "MALE2000": 65,
+        "FEMALE2000": 58,
+        "POP2008": 154,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061713013,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11574,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.19277599981262,
+          -6.39269400002803
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11574,
+        "CU_NAME": "ONGA C/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "12061713401",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "13",
+        "WARD_NAME": "ONGA",
+        "LATITUDE": -6.39411,
+        "LONGITUDE": 146.191742,
+        "REGHH": 4,
+        "TOTPOP2000": 14,
+        "MALE2000": 8,
+        "FEMALE2000": 6,
+        "POP2008": 14,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061713401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

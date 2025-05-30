@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.9309939998733,
+          -5.965743999985591
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20215,
+        "CU_NAME": "HONAGA",
+        "CU_NO": "004",
+        "GEOCODE": "07041114004",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "11",
+        "WARD_NO": "14",
+        "WARD_NAME": "HONAGA",
+        "LATITUDE": -5.969297,
+        "LONGITUDE": 142.929163,
+        "REGHH": 16,
+        "TOTPOP2000": 154,
+        "MALE2000": 79,
+        "FEMALE2000": 75,
+        "POP2008": 214,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041114004,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.93098400031147,
+          -5.9629469996042985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20216,
+        "CU_NAME": "TAMBURUMA",
+        "CU_NO": "009",
+        "GEOCODE": "07041114009",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "11",
+        "WARD_NO": "14",
+        "WARD_NAME": "HONAGA",
+        "LATITUDE": -5.969297,
+        "LONGITUDE": 142.929163,
+        "REGHH": 21,
+        "TOTPOP2000": 219,
+        "MALE2000": 107,
+        "FEMALE2000": 112,
+        "POP2008": 304,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041114009,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

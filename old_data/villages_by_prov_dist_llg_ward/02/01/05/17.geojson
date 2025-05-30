@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7579,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8897065036523,
+          -7.622953998228411
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7579,
+        "CU_NAME": "MEIWARI",
+        "CU_NO": "007",
+        "GEOCODE": "02010517007",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "MEIWARI",
+        "LATITUDE": -7.623295,
+        "LONGITUDE": 145.890779,
+        "REGHH": 97,
+        "TOTPOP2000": 565,
+        "MALE2000": 286,
+        "FEMALE2000": 279,
+        "POP2008": 694,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010517007,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7580,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89257650020534,
+          -7.634143999845662
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7580,
+        "CU_NAME": "TITIKAMINA",
+        "CU_NO": "012",
+        "GEOCODE": "02010517012",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "17",
+        "WARD_NAME": "MEIWARI",
+        "LATITUDE": -7.623464,
+        "LONGITUDE": 145.890837,
+        "REGHH": 10,
+        "TOTPOP2000": 46,
+        "MALE2000": 20,
+        "FEMALE2000": 26,
+        "POP2008": 54,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010517012,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

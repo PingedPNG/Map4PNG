@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.425167000157,
+          -6.237456999840617
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15266,
+        "CU_NAME": "TIGASUBI",
+        "CU_NO": "028",
+        "GEOCODE": "01010526028",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "26",
+        "WARD_NAME": "BUBUSMABI",
+        "LATITUDE": -6.238864,
+        "LONGITUDE": 142.424085,
+        "REGHH": 19,
+        "TOTPOP2000": 125,
+        "MALE2000": 63,
+        "FEMALE2000": 62,
+        "POP2008": 162,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010526028,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4164890001673,
+          -6.26199299997694
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15267,
+        "CU_NAME": "BUBUSMABI",
+        "CU_NO": "033",
+        "GEOCODE": "01010526033",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "26",
+        "WARD_NAME": "BUBUSMABI",
+        "LATITUDE": -6.2634,
+        "LONGITUDE": 142.415407,
+        "REGHH": 15,
+        "TOTPOP2000": 80,
+        "MALE2000": 48,
+        "FEMALE2000": 32,
+        "POP2008": 104,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010526033,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.43784000001608,
+          -6.217929000422998
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15268,
+        "CU_NAME": "YANOBOBI",
+        "CU_NO": "042",
+        "GEOCODE": "01010526042",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "26",
+        "WARD_NAME": "BUBUSMABI",
+        "LATITUDE": -6.219336,
+        "LONGITUDE": 142.436758,
+        "REGHH": 24,
+        "TOTPOP2000": 155,
+        "MALE2000": 78,
+        "FEMALE2000": 77,
+        "POP2008": 200,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010526042,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

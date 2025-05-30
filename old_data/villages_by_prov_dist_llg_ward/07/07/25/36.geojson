@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.43687700037333,
+          -6.116125000168552
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21496,
+        "CU_NAME": "TULISEDA",
+        "CU_NO": "001",
+        "GEOCODE": "07072536001",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "36",
+        "WARD_NAME": "KOMEA 2",
+        "LATITUDE": -6.119364,
+        "LONGITUDE": 143.436509,
+        "REGHH": 23,
+        "TOTPOP2000": 244,
+        "MALE2000": 135,
+        "FEMALE2000": 109,
+        "POP2008": 340,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072536001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21497,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4357949999394,
+          -6.116187000329774
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21497,
+        "CU_NAME": "INGISIP",
+        "CU_NO": "002",
+        "GEOCODE": "07072536002",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "36",
+        "WARD_NAME": "KOMEA 2",
+        "LATITUDE": -6.119364,
+        "LONGITUDE": 143.436509,
+        "REGHH": 19,
+        "TOTPOP2000": 165,
+        "MALE2000": 82,
+        "FEMALE2000": 83,
+        "POP2008": 230,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072536002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.43611500030704,
+          -6.115351000448243
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21498,
+        "CU_NAME": "POMBO",
+        "CU_NO": "003",
+        "GEOCODE": "07072536003",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "36",
+        "WARD_NAME": "KOMEA 2",
+        "LATITUDE": -6.119364,
+        "LONGITUDE": 143.436509,
+        "REGHH": 35,
+        "TOTPOP2000": 264,
+        "MALE2000": 151,
+        "FEMALE2000": 113,
+        "POP2008": 368,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072536003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21499,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.43716300007247,
+          -6.114799000173662
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21499,
+        "CU_NAME": "MOETE",
+        "CU_NO": "004",
+        "GEOCODE": "07072536004",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "36",
+        "WARD_NAME": "KOMEA 2",
+        "LATITUDE": -6.119364,
+        "LONGITUDE": 143.436509,
+        "REGHH": 10,
+        "TOTPOP2000": 66,
+        "MALE2000": 40,
+        "FEMALE2000": 26,
+        "POP2008": 92,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072536004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21500,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4356369998477,
+          -6.114730999735798
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21500,
+        "CU_NAME": "KEREP",
+        "CU_NO": "005",
+        "GEOCODE": "07072536005",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "36",
+        "WARD_NAME": "KOMEA 2",
+        "LATITUDE": -6.119364,
+        "LONGITUDE": 143.436509,
+        "REGHH": 19,
+        "TOTPOP2000": 153,
+        "MALE2000": 84,
+        "FEMALE2000": 69,
+        "POP2008": 213,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072536005,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

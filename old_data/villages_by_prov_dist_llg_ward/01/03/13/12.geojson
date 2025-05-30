@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15657,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.52647700031343,
+          -8.432619999913015
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15657,
+        "CU_NAME": "KIRIWO",
+        "CU_NO": "009",
+        "GEOCODE": "01031312009",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "KIRIWO",
+        "LATITUDE": -8.437511,
+        "LONGITUDE": 141.515843,
+        "REGHH": 29,
+        "TOTPOP2000": 165,
+        "MALE2000": 81,
+        "FEMALE2000": 84,
+        "POP2008": 214,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031312009,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15658,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.61179200010076,
+          -8.513167000156898
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15658,
+        "CU_NAME": "SETAVI",
+        "CU_NO": "011",
+        "GEOCODE": "01031312011",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "KIRIWO",
+        "LATITUDE": -8.514592,
+        "LONGITUDE": 141.610694,
+        "REGHH": 22,
+        "TOTPOP2000": 141,
+        "MALE2000": 64,
+        "FEMALE2000": 77,
+        "POP2008": 183,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031312011,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15659,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.46744800042495,
+          -8.470538000228487
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15659,
+        "CU_NAME": "MERRU",
+        "CU_NO": "012",
+        "GEOCODE": "01031312012",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "KIRIWO",
+        "LATITUDE": -8.471963,
+        "LONGITUDE": 141.466349,
+        "REGHH": 30,
+        "TOTPOP2000": 147,
+        "MALE2000": 74,
+        "FEMALE2000": 73,
+        "POP2008": 191,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031312012,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

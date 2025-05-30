@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9619,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.12372700020092,
+          -10.145104000249376
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9619,
+        "CU_NAME": "KWABUNAKI",
+        "CU_NO": "004",
+        "GEOCODE": "05010302004",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "KWABUNAKI",
+        "LATITUDE": -10.146569,
+        "LONGITUDE": 150.122738,
+        "REGHH": 29,
+        "TOTPOP2000": 189,
+        "MALE2000": 99,
+        "FEMALE2000": 90,
+        "POP2008": 230,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010302004,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.81453500009025,
+          -8.045348000409831
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15128,
+        "CU_NAME": "IKE",
+        "CU_NO": "006",
+        "GEOCODE": "01010318006",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "18",
+        "WARD_NAME": "IKE",
+        "LATITUDE": -8.046773,
+        "LONGITUDE": 142.813453,
+        "REGHH": 67,
+        "TOTPOP2000": 508,
+        "MALE2000": 269,
+        "FEMALE2000": 239,
+        "POP2008": 658,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010318006,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

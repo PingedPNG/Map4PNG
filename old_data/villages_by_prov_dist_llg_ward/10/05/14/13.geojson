@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14680,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0350789996961,
+          -5.9043699998755415
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14680,
+        "CU_NAME": "BONGUGL MITNA",
+        "CU_NO": "007",
+        "GEOCODE": "10051413007",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUGLKANE 2",
+        "LATITUDE": -5.905413,
+        "LONGITUDE": 145.034352,
+        "REGHH": 53,
+        "TOTPOP2000": 386,
+        "MALE2000": 213,
+        "FEMALE2000": 173,
+        "POP2008": 445,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051413007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14681,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.03202299996155,
+          -5.901848999631568
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14681,
+        "CU_NAME": "BONGUGL YOKBO",
+        "CU_NO": "008",
+        "GEOCODE": "10051413008",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "13",
+        "WARD_NAME": "KUGLKANE 2",
+        "LATITUDE": -5.905334,
+        "LONGITUDE": 145.032499,
+        "REGHH": 144,
+        "TOTPOP2000": 860,
+        "MALE2000": 469,
+        "FEMALE2000": 391,
+        "POP2008": 992,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051413008,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

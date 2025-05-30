@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17086,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.08836600029076,
+          -5.5425670003667165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17086,
+        "CU_NAME": "WAPSUKLAKAIYA",
+        "CU_NO": "021",
+        "GEOCODE": "09050917021",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "09",
+        "WARD_NO": "17",
+        "WARD_NAME": "YARAMANDA.1",
+        "LATITUDE": -5.543502,
+        "LONGITUDE": 144.088698,
+        "REGHH": 85,
+        "TOTPOP2000": 372,
+        "MALE2000": 196,
+        "FEMALE2000": 176,
+        "POP2008": 454,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9050917021,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12757,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.66525600036414,
+          -3.0471249997189034
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12757,
+        "CU_NAME": "AMBA",
+        "CU_NO": "001",
+        "GEOCODE": "17020607001",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "LOSSU",
+        "LATITUDE": -3.048508,
+        "LONGITUDE": 151.664304,
+        "REGHH": 68,
+        "TOTPOP2000": 320,
+        "MALE2000": 154,
+        "FEMALE2000": 166,
+        "POP2008": 402,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020607001,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12758,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6823770002984,
+          -3.0727840003812616
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12758,
+        "CU_NAME": "KABIL",
+        "CU_NO": "006",
+        "GEOCODE": "17020607006",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "LOSSU",
+        "LATITUDE": -3.067025,
+        "LONGITUDE": 151.680387,
+        "REGHH": 102,
+        "TOTPOP2000": 503,
+        "MALE2000": 274,
+        "FEMALE2000": 229,
+        "POP2008": 632,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020607006,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12759,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6368139999662,
+          -3.04620000022976
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12759,
+        "CU_NAME": "LOSSU NO. 1",
+        "CU_NO": "034",
+        "GEOCODE": "17020607034",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "LOSSU",
+        "LATITUDE": -3.044503,
+        "LONGITUDE": 151.636149,
+        "REGHH": 47,
+        "TOTPOP2000": 182,
+        "MALE2000": 93,
+        "FEMALE2000": 89,
+        "POP2008": 228,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020607034,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12760,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6202220001453,
+          -3.0334719996330364
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12760,
+        "CU_NAME": "LOSSU NO.  2",
+        "CU_NO": "035",
+        "GEOCODE": "17020607035",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "LOSSU",
+        "LATITUDE": -3.031774,
+        "LONGITUDE": 151.619557,
+        "REGHH": 59,
+        "TOTPOP2000": 299,
+        "MALE2000": 171,
+        "FEMALE2000": 128,
+        "POP2008": 376,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020607035,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12761,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.64552699977128,
+          -3.0438139999160967
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12761,
+        "CU_NAME": "POLIAMBA PLTN",
+        "CU_NO": "515",
+        "GEOCODE": "17020607515",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "07",
+        "WARD_NAME": "LOSSU",
+        "LATITUDE": -3.042117,
+        "LONGITUDE": 151.644861,
+        "REGHH": 6,
+        "TOTPOP2000": 40,
+        "MALE2000": 34,
+        "FEMALE2000": 6,
+        "POP2008": 48,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020607515,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

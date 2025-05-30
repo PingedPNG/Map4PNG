@@ -1,0 +1,421 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21550,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.50948899981756,
+          -6.242266000375594
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21550,
+        "CU_NAME": "OLE",
+        "CU_NO": "001",
+        "GEOCODE": "07072603001",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "03",
+        "WARD_NAME": "MONDISAREP",
+        "LATITUDE": -6.246316,
+        "LONGITUDE": 143.509533,
+        "REGHH": 15,
+        "TOTPOP2000": 123,
+        "MALE2000": 61,
+        "FEMALE2000": 62,
+        "POP2008": 171,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072603001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.50831000030632,
+          -6.243887999631454
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21551,
+        "CU_NAME": "SORD MOND",
+        "CU_NO": "002",
+        "GEOCODE": "07072603002",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "03",
+        "WARD_NAME": "MONDISAREP",
+        "LATITUDE": -6.246327,
+        "LONGITUDE": 143.509544,
+        "REGHH": 56,
+        "TOTPOP2000": 400,
+        "MALE2000": 213,
+        "FEMALE2000": 187,
+        "POP2008": 557,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072603002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.50928000007207,
+          -6.244160999630367
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21552,
+        "CU_NAME": "HEYES",
+        "CU_NO": "003",
+        "GEOCODE": "07072603003",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "03",
+        "WARD_NAME": "MONDISAREP",
+        "LATITUDE": -6.246327,
+        "LONGITUDE": 143.509544,
+        "REGHH": 19,
+        "TOTPOP2000": 131,
+        "MALE2000": 63,
+        "FEMALE2000": 68,
+        "POP2008": 183,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072603003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21553,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.51010799958453,
+          -6.243741000047066
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21553,
+        "CU_NAME": "WOPELA",
+        "CU_NO": "004",
+        "GEOCODE": "07072603004",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "03",
+        "WARD_NAME": "MONDISAREP",
+        "LATITUDE": -6.246327,
+        "LONGITUDE": 143.509544,
+        "REGHH": 9,
+        "TOTPOP2000": 55,
+        "MALE2000": 29,
+        "FEMALE2000": 26,
+        "POP2008": 76,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072603004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21554,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.50705499998833,
+          -6.241953000330682
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21554,
+        "CU_NAME": "KUSA MALOM",
+        "CU_NO": "005",
+        "GEOCODE": "07072603005",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "03",
+        "WARD_NAME": "MONDISAREP",
+        "LATITUDE": -6.246327,
+        "LONGITUDE": 143.509544,
+        "REGHH": 26,
+        "TOTPOP2000": 169,
+        "MALE2000": 88,
+        "FEMALE2000": 81,
+        "POP2008": 234,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072603005,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21555,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.50761399968644,
+          -6.243060000118874
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21555,
+        "CU_NAME": "HOWDOM WAIP",
+        "CU_NO": "006",
+        "GEOCODE": "07072603006",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "03",
+        "WARD_NAME": "MONDISAREP",
+        "LATITUDE": -6.246327,
+        "LONGITUDE": 143.509544,
+        "REGHH": 29,
+        "TOTPOP2000": 197,
+        "MALE2000": 103,
+        "FEMALE2000": 94,
+        "POP2008": 274,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072603006,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21556,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.51134900015632,
+          -6.242765000004681
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21556,
+        "CU_NAME": "TELA",
+        "CU_NO": "007",
+        "GEOCODE": "07072603007",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "03",
+        "WARD_NAME": "MONDISAREP",
+        "LATITUDE": -6.246327,
+        "LONGITUDE": 143.509544,
+        "REGHH": 31,
+        "TOTPOP2000": 203,
+        "MALE2000": 103,
+        "FEMALE2000": 100,
+        "POP2008": 283,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072603007,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21557,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5084359998216,
+          -6.241253000425559
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21557,
+        "CU_NAME": "OMBIM",
+        "CU_NO": "008",
+        "GEOCODE": "07072603008",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "03",
+        "WARD_NAME": "MONDISAREP",
+        "LATITUDE": -6.246327,
+        "LONGITUDE": 143.509544,
+        "REGHH": 22,
+        "TOTPOP2000": 189,
+        "MALE2000": 84,
+        "FEMALE2000": 105,
+        "POP2008": 263,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072603008,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21558,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.509817999701,
+          -6.240968999919346
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21558,
+        "CU_NAME": "SAREP",
+        "CU_NO": "009",
+        "GEOCODE": "07072603009",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "03",
+        "WARD_NAME": "MONDISAREP",
+        "LATITUDE": -6.246327,
+        "LONGITUDE": 143.509544,
+        "REGHH": 30,
+        "TOTPOP2000": 212,
+        "MALE2000": 116,
+        "FEMALE2000": 96,
+        "POP2008": 295,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072603009,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21559,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.50886199968159,
+          -6.2434700001403485
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21559,
+        "CU_NAME": "HEAL",
+        "CU_NO": "010",
+        "GEOCODE": "07072603010",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "03",
+        "WARD_NAME": "MONDISAREP",
+        "LATITUDE": -6.246327,
+        "LONGITUDE": 143.509544,
+        "REGHH": 25,
+        "TOTPOP2000": 183,
+        "MALE2000": 101,
+        "FEMALE2000": 82,
+        "POP2008": 254,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072603010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21560,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.51078999955894,
+          -6.241658000216489
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21560,
+        "CU_NAME": "EPI",
+        "CU_NO": "011",
+        "GEOCODE": "07072603011",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "03",
+        "WARD_NAME": "MONDISAREP",
+        "LATITUDE": -6.246327,
+        "LONGITUDE": 143.509544,
+        "REGHH": 27,
+        "TOTPOP2000": 175,
+        "MALE2000": 94,
+        "FEMALE2000": 81,
+        "POP2008": 243,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072603011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21561,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.50996600023075,
+          -6.242910000396137
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21561,
+        "CU_NAME": "SERPI",
+        "CU_NO": "012",
+        "GEOCODE": "07072603012",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "03",
+        "WARD_NAME": "MONDISAREP",
+        "LATITUDE": -6.246327,
+        "LONGITUDE": 143.509544,
+        "REGHH": 33,
+        "TOTPOP2000": 215,
+        "MALE2000": 108,
+        "FEMALE2000": 107,
+        "POP2008": 299,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072603012,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21562,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.50816499991492,
+          -6.242365000444352
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21562,
+        "CU_NAME": "MUNGTE",
+        "CU_NO": "013",
+        "GEOCODE": "07072603013",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "03",
+        "WARD_NAME": "MONDISAREP",
+        "LATITUDE": -6.246328,
+        "LONGITUDE": 143.509545,
+        "REGHH": 27,
+        "TOTPOP2000": 205,
+        "MALE2000": 107,
+        "FEMALE2000": 98,
+        "POP2008": 286,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072603013,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

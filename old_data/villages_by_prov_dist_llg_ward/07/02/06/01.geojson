@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19571,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0657869995705,
+          -6.1815679999631925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19571,
+        "CU_NAME": "KONULE",
+        "CU_NO": "001",
+        "GEOCODE": "07020601001",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "01",
+        "WARD_NAME": "KISENAPOI",
+        "LATITUDE": -6.185813,
+        "LONGITUDE": 144.06607,
+        "REGHH": 233,
+        "TOTPOP2000": 1306,
+        "MALE2000": 656,
+        "FEMALE2000": 650,
+        "POP2008": 1815,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020601001,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

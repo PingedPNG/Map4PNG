@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9918,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.67460999985167,
+          -10.65683000040417
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9918,
+        "CU_NAME": "BAGILINA",
+        "CU_NO": "001",
+        "GEOCODE": "05020912001",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "BAGILINA",
+        "LATITUDE": -10.658309,
+        "LONGITUDE": 152.673658,
+        "REGHH": 47,
+        "TOTPOP2000": 287,
+        "MALE2000": 141,
+        "FEMALE2000": 146,
+        "POP2008": 350,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020912001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9919,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.66472199982047,
+          -10.64921499997223
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9919,
+        "CU_NAME": "MANIHUNA",
+        "CU_NO": "002",
+        "GEOCODE": "05020912002",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "BAGILINA",
+        "LATITUDE": -10.650693,
+        "LONGITUDE": 152.66377,
+        "REGHH": 58,
+        "TOTPOP2000": 373,
+        "MALE2000": 192,
+        "FEMALE2000": 181,
+        "POP2008": 455,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020912002,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9920,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.65870800037396,
+          -10.648898999788969
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9920,
+        "CU_NAME": "LALAMA",
+        "CU_NO": "003",
+        "GEOCODE": "05020912003",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "12",
+        "WARD_NAME": "BAGILINA",
+        "LATITUDE": -10.649457,
+        "LONGITUDE": 152.656382,
+        "REGHH": 49,
+        "TOTPOP2000": 270,
+        "MALE2000": 135,
+        "FEMALE2000": 135,
+        "POP2008": 329,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020912003,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

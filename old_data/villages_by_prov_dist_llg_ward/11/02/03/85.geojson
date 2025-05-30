@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.36330812007373,
+          -6.111017729584489
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29217,
+        "CU_NAME": "CIS BIHUTE",
+        "CU_NO": "001",
+        "GEOCODE": "11020385001",
+        "PROV_KEY": "11",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "85",
+        "WARD_NAME": "BIHUTE",
+        "LATITUDE": -6.111018,
+        "LONGITUDE": 145.363308,
+        "REGHH": 47,
+        "TOTPOP2000": 525,
+        "MALE2000": 395,
+        "FEMALE2000": 130,
+        "POP2008": 625,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

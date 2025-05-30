@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6326,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.41531099960298,
+          -4.025724000062496
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6326,
+        "CU_NAME": "KINGAUI",
+        "CU_NO": "004",
+        "GEOCODE": "14020533004",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "33",
+        "WARD_NAME": "KINGAUI",
+        "LATITUDE": -4.010586,
+        "LONGITUDE": 143.400331,
+        "REGHH": 20,
+        "TOTPOP2000": 113,
+        "MALE2000": 51,
+        "FEMALE2000": 62,
+        "POP2008": 136,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020533004,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6327,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.38662899982853,
+          -4.025626000039836
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6327,
+        "CU_NAME": "SIMANGE",
+        "CU_NO": "012",
+        "GEOCODE": "14020533012",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "33",
+        "WARD_NAME": "KINGAUI",
+        "LATITUDE": -4.025138,
+        "LONGITUDE": 143.395551,
+        "REGHH": 13,
+        "TOTPOP2000": 52,
+        "MALE2000": 22,
+        "FEMALE2000": 30,
+        "POP2008": 60,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020533012,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

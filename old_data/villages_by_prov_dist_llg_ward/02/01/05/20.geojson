@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7584,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8812690003641,
+          -7.553688000201021
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7584,
+        "CU_NAME": "IPAEA",
+        "CU_NO": "001",
+        "GEOCODE": "02010520001",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "IPAEA",
+        "LATITUDE": -7.555115,
+        "LONGITUDE": 145.880228,
+        "REGHH": 37,
+        "TOTPOP2000": 222,
+        "MALE2000": 118,
+        "FEMALE2000": 104,
+        "POP2008": 273,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010520001,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7585,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.87724299996455,
+          -7.543585000147573
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7585,
+        "CU_NAME": "NAGABAIWA",
+        "CU_NO": "002",
+        "GEOCODE": "02010520002",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "IPAEA",
+        "LATITUDE": -7.545012,
+        "LONGITUDE": 145.876202,
+        "REGHH": 25,
+        "TOTPOP2000": 139,
+        "MALE2000": 74,
+        "FEMALE2000": 65,
+        "POP2008": 171,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010520002,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

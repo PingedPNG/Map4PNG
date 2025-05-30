@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5048,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.33277200032762,
+          -5.817739999701189
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5048,
+        "CU_NAME": "LAU",
+        "CU_NO": "012",
+        "GEOCODE": "18031413012",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "13",
+        "WARD_NAME": "LAU",
+        "LATITUDE": -5.824735,
+        "LONGITUDE": 151.32621,
+        "REGHH": 22,
+        "TOTPOP2000": 95,
+        "MALE2000": 44,
+        "FEMALE2000": 51,
+        "POP2008": 116,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031413012,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5049,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.32440100010615,
+          -5.790707999574465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5049,
+        "CU_NAME": "PORLO",
+        "CU_NO": "013",
+        "GEOCODE": "18031413013",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "13",
+        "WARD_NAME": "LAU",
+        "LATITUDE": -5.784928,
+        "LONGITUDE": 151.333564,
+        "REGHH": 12,
+        "TOTPOP2000": 58,
+        "MALE2000": 28,
+        "FEMALE2000": 30,
+        "POP2008": 71,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031413013,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17654,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.15319100036447,
+          -5.927567000316742
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17654,
+        "CU_NAME": "WAIBIP (KAMDA)",
+        "CU_NO": "017",
+        "GEOCODE": "09071332017",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "32",
+        "WARD_NAME": "WAIBIP",
+        "LATITUDE": -5.926836,
+        "LONGITUDE": 144.15401,
+        "REGHH": 126,
+        "TOTPOP2000": 512,
+        "MALE2000": 266,
+        "FEMALE2000": 246,
+        "POP2008": 623,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071332017,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17655,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.15152700007104,
+          -5.926363999698765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17655,
+        "CU_NAME": "MUNDUKA",
+        "CU_NO": "018",
+        "GEOCODE": "09071332018",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "13",
+        "WARD_NO": "32",
+        "WARD_NAME": "WAIBIP",
+        "LATITUDE": -5.926836,
+        "LONGITUDE": 144.15401,
+        "REGHH": 85,
+        "TOTPOP2000": 338,
+        "MALE2000": 163,
+        "FEMALE2000": 175,
+        "POP2008": 412,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071332018,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

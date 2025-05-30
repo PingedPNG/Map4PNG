@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.88255900029765,
+          -7.036782000388939
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10945,
+        "CU_NAME": "DORONG",
+        "CU_NO": "006",
+        "GEOCODE": "12031002006",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "YEMLY",
+        "LATITUDE": -7.038206,
+        "LONGITUDE": 146.881532,
+        "REGHH": 42,
+        "TOTPOP2000": 209,
+        "MALE2000": 114,
+        "FEMALE2000": 95,
+        "POP2008": 261,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031002006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10946,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8693120000488,
+          -7.045814999662468
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10946,
+        "CU_NAME": "YEMLY",
+        "CU_NO": "011",
+        "GEOCODE": "12031002011",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "YEMLY",
+        "LATITUDE": -7.047239,
+        "LONGITUDE": 146.868285,
+        "REGHH": 51,
+        "TOTPOP2000": 294,
+        "MALE2000": 145,
+        "FEMALE2000": 149,
+        "POP2008": 366,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031002011,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10947,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.88992900022322,
+          -7.0461200002377495
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10947,
+        "CU_NAME": "HUMPILUM",
+        "CU_NO": "012",
+        "GEOCODE": "12031002012",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "YEMLY",
+        "LATITUDE": -7.047543,
+        "LONGITUDE": 146.888903,
+        "REGHH": 9,
+        "TOTPOP2000": 35,
+        "MALE2000": 16,
+        "FEMALE2000": 19,
+        "POP2008": 43,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031002012,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10948,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8926180001207,
+          -7.05118099980325
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10948,
+        "CU_NAME": "WAIBE",
+        "CU_NO": "013",
+        "GEOCODE": "12031002013",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "02",
+        "WARD_NAME": "YEMLY",
+        "LATITUDE": -7.052606,
+        "LONGITUDE": 146.891592,
+        "REGHH": 10,
+        "TOTPOP2000": 54,
+        "MALE2000": 30,
+        "FEMALE2000": 24,
+        "POP2008": 70,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031002013,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

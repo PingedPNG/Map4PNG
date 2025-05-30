@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9607,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.32251399982135,
+          -9.905380999833255
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9607,
+        "CU_NAME": "EVIAUWA",
+        "CU_NO": "006",
+        "GEOCODE": "05010214006",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "14",
+        "WARD_NAME": "EVIAUWA",
+        "LATITUDE": -9.906842,
+        "LONGITUDE": 149.321514,
+        "REGHH": 43,
+        "TOTPOP2000": 307,
+        "MALE2000": 139,
+        "FEMALE2000": 168,
+        "POP2008": 374,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010214006,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8372,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.32818100025304,
+          -4.968984000311309
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8372,
+        "CU_NAME": "IDIMAKUMA (ILEBEGUMA)",
+        "CU_NO": "008",
+        "GEOCODE": "13020615008",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "WARD 15",
+        "LATITUDE": -4.966113,
+        "LONGITUDE": 145.316572,
+        "REGHH": 27,
+        "TOTPOP2000": 143,
+        "MALE2000": 76,
+        "FEMALE2000": 67,
+        "POP2008": 177,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020615008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8373,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.33042899959867,
+          -4.97882800011206
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8373,
+        "CU_NAME": "ILEMAMKUTU (YABEN)",
+        "CU_NO": "012",
+        "GEOCODE": "13020615012",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "WARD 15",
+        "LATITUDE": -4.980227,
+        "LONGITUDE": 145.329386,
+        "REGHH": 20,
+        "TOTPOP2000": 84,
+        "MALE2000": 43,
+        "FEMALE2000": 41,
+        "POP2008": 103,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020615012,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8374,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.43975999982422,
+          -4.912109999976451
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8374,
+        "CU_NAME": "KOMIARUM",
+        "CU_NO": "015",
+        "GEOCODE": "13020615015",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "WARD 15",
+        "LATITUDE": -4.922357,
+        "LONGITUDE": 145.442223,
+        "REGHH": 12,
+        "TOTPOP2000": 48,
+        "MALE2000": 23,
+        "FEMALE2000": 25,
+        "POP2008": 56,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020615015,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8375,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.44135200039455,
+          -4.944252000129666
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8375,
+        "CU_NAME": "KOSILANTA",
+        "CU_NO": "016",
+        "GEOCODE": "13020615016",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "15",
+        "WARD_NAME": "WARD 15",
+        "LATITUDE": -4.945651,
+        "LONGITUDE": 145.44031,
+        "REGHH": 18,
+        "TOTPOP2000": 81,
+        "MALE2000": 45,
+        "FEMALE2000": 36,
+        "POP2008": 99,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020615016,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

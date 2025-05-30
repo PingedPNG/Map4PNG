@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5618,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.52616299982265,
+          -5.443131999642048
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5618,
+        "CU_NAME": "KAIPARE",
+        "CU_NO": "001",
+        "GEOCODE": "08030638001",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "38",
+        "WARD_NAME": "KAIPARE",
+        "LATITUDE": -5.444533,
+        "LONGITUDE": 143.525096,
+        "REGHH": 191,
+        "TOTPOP2000": 1012,
+        "MALE2000": 497,
+        "FEMALE2000": 515,
+        "POP2008": 1272,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030638001,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

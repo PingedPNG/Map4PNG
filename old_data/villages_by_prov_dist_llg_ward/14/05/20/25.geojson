@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.14575899957822,
+          -4.360986999650265
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7114,
+        "CU_NAME": "PALIAGUI",
+        "CU_NO": "001",
+        "GEOCODE": "14052025001",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "20",
+        "WARD_NO": "25",
+        "WARD_NAME": "PALIAGUI",
+        "LATITUDE": -4.362573,
+        "LONGITUDE": 143.14452,
+        "REGHH": 66,
+        "TOTPOP2000": 365,
+        "MALE2000": 175,
+        "FEMALE2000": 190,
+        "POP2008": 434,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052025001,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

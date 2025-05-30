@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6927,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5968800000121,
+          -3.6709789995811093
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6927,
+        "CU_NAME": "URINDOGUM",
+        "CU_NO": "032",
+        "GEOCODE": "14041720032",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "17",
+        "WARD_NO": "20",
+        "WARD_NAME": "URINDOGUM",
+        "LATITUDE": -3.672558,
+        "LONGITUDE": 143.595647,
+        "REGHH": 37,
+        "TOTPOP2000": 186,
+        "MALE2000": 95,
+        "FEMALE2000": 91,
+        "POP2008": 221,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041720032,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

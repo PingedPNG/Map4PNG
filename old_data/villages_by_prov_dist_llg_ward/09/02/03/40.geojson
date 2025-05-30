@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16427,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.23348899991743,
+          -5.589039000349544
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16427,
+        "CU_NAME": "EPLAS",
+        "CU_NO": "001",
+        "GEOCODE": "09020340001",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "40",
+        "WARD_NAME": "KINABUGA.2",
+        "LATITUDE": -5.587494,
+        "LONGITUDE": 144.235698,
+        "REGHH": 19,
+        "TOTPOP2000": 98,
+        "MALE2000": 51,
+        "FEMALE2000": 47,
+        "POP2008": 120,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020340001,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16428,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2976639996939,
+          -5.5815690003090594
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16428,
+        "CU_NAME": "GERA",
+        "CU_NO": "002",
+        "GEOCODE": "09020340002",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "40",
+        "WARD_NAME": "KINABUGA.2",
+        "LATITUDE": -5.578522,
+        "LONGITUDE": 144.295493,
+        "REGHH": 25,
+        "TOTPOP2000": 110,
+        "MALE2000": 58,
+        "FEMALE2000": 52,
+        "POP2008": 134,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020340002,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16429,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.23163499985537,
+          -5.587163000172268
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16429,
+        "CU_NAME": "KAP",
+        "CU_NO": "003",
+        "GEOCODE": "09020340003",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "40",
+        "WARD_NAME": "KINABUGA.2",
+        "LATITUDE": -5.587494,
+        "LONGITUDE": 144.235698,
+        "REGHH": 103,
+        "TOTPOP2000": 434,
+        "MALE2000": 230,
+        "FEMALE2000": 204,
+        "POP2008": 529,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020340003,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

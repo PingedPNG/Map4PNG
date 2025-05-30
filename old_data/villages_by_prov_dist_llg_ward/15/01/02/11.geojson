@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18378,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0638729998392,
+          -3.4538279995624634
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18378,
+        "CU_NAME": "FLOBU'UM",
+        "CU_NO": "003",
+        "GEOCODE": "15010211003",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "11",
+        "WARD_NAME": "OUTE",
+        "LATITUDE": -3.455206,
+        "LONGITUDE": 142.062791,
+        "REGHH": 20,
+        "TOTPOP2000": 116,
+        "MALE2000": 51,
+        "FEMALE2000": 65,
+        "POP2008": 140,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010211003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18379,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0430320001268,
+          -3.4494950002940072
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18379,
+        "CU_NAME": "MIMBITE",
+        "CU_NO": "006",
+        "GEOCODE": "15010211006",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "11",
+        "WARD_NAME": "OUTE",
+        "LATITUDE": -3.450873,
+        "LONGITUDE": 142.04195,
+        "REGHH": 19,
+        "TOTPOP2000": 85,
+        "MALE2000": 40,
+        "FEMALE2000": 45,
+        "POP2008": 101,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010211006,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18380,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0717889997626,
+          -3.455993999623331
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18380,
+        "CU_NAME": "METIAITE",
+        "CU_NO": "007",
+        "GEOCODE": "15010211007",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "11",
+        "WARD_NAME": "OUTE",
+        "LATITUDE": -3.457372,
+        "LONGITUDE": 142.070707,
+        "REGHH": 9,
+        "TOTPOP2000": 49,
+        "MALE2000": 24,
+        "FEMALE2000": 25,
+        "POP2008": 57,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010211007,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18381,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.07390500021563,
+          -3.467303999579883
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18381,
+        "CU_NAME": "NAREITE",
+        "CU_NO": "014",
+        "GEOCODE": "15010211014",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "11",
+        "WARD_NAME": "OUTE",
+        "LATITUDE": -3.470807,
+        "LONGITUDE": 142.072825,
+        "REGHH": 15,
+        "TOTPOP2000": 70,
+        "MALE2000": 30,
+        "FEMALE2000": 40,
+        "POP2008": 86,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010211014,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18382,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.0739569999157,
+          -3.47174300013927
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18382,
+        "CU_NAME": "SAPTE",
+        "CU_NO": "016",
+        "GEOCODE": "15010211016",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "11",
+        "WARD_NAME": "OUTE",
+        "LATITUDE": -3.470863,
+        "LONGITUDE": 142.073005,
+        "REGHH": 6,
+        "TOTPOP2000": 44,
+        "MALE2000": 23,
+        "FEMALE2000": 21,
+        "POP2008": 52,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010211016,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18383,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.04134999990265,
+          -3.451905999961866
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18383,
+        "CU_NAME": "OUTE",
+        "CU_NO": "018",
+        "GEOCODE": "15010211018",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "11",
+        "WARD_NAME": "OUTE",
+        "LATITUDE": -3.453284,
+        "LONGITUDE": 142.040268,
+        "REGHH": 55,
+        "TOTPOP2000": 279,
+        "MALE2000": 131,
+        "FEMALE2000": 148,
+        "POP2008": 338,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010211018,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18384,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.07152700027086,
+          -3.446870999796772
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18384,
+        "CU_NAME": "TAUWITEI",
+        "CU_NO": "021",
+        "GEOCODE": "15010211021",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "11",
+        "WARD_NAME": "OUTE",
+        "LATITUDE": -3.448249,
+        "LONGITUDE": 142.070445,
+        "REGHH": 21,
+        "TOTPOP2000": 111,
+        "MALE2000": 56,
+        "FEMALE2000": 55,
+        "POP2008": 135,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010211021,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

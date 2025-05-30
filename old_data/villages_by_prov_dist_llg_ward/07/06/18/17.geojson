@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20964,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63755699985575,
+          -5.990930000419155
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20964,
+        "CU_NAME": "MAREP",
+        "CU_NO": "010",
+        "GEOCODE": "07061817010",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "17",
+        "WARD_NAME": "MAREP 2",
+        "LATITUDE": -5.996323,
+        "LONGITUDE": 143.63899,
+        "REGHH": 77,
+        "TOTPOP2000": 482,
+        "MALE2000": 258,
+        "FEMALE2000": 224,
+        "POP2008": 670,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061817010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20965,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63724799999522,
+          -5.9929120000886655
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20965,
+        "CU_NAME": "MUPIA",
+        "CU_NO": "011",
+        "GEOCODE": "07061817011",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "17",
+        "WARD_NAME": "MAREP 2",
+        "LATITUDE": -5.996324,
+        "LONGITUDE": 143.639,
+        "REGHH": 53,
+        "TOTPOP2000": 418,
+        "MALE2000": 216,
+        "FEMALE2000": 202,
+        "POP2008": 582,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061817011,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5388,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.72337200021775,
+          -5.425419000286581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5388,
+        "CU_NAME": "PALIMB",
+        "CU_NO": "001",
+        "GEOCODE": "08020307001",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "PALIMB",
+        "LATITUDE": -5.42858,
+        "LONGITUDE": 143.722566,
+        "REGHH": 34,
+        "TOTPOP2000": 208,
+        "MALE2000": 107,
+        "FEMALE2000": 101,
+        "POP2008": 261,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020307001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5389,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.72223700003758,
+          -5.4274650002095655
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5389,
+        "CU_NAME": "SAMBAIAS",
+        "CU_NO": "002",
+        "GEOCODE": "08020307002",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "PALIMB",
+        "LATITUDE": -5.428866,
+        "LONGITUDE": 143.721172,
+        "REGHH": 34,
+        "TOTPOP2000": 173,
+        "MALE2000": 89,
+        "FEMALE2000": 84,
+        "POP2008": 217,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020307002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5390,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.73487400003512,
+          -5.417002999788565
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5390,
+        "CU_NAME": "KONDAIP",
+        "CU_NO": "003",
+        "GEOCODE": "08020307003",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "07",
+        "WARD_NAME": "PALIMB",
+        "LATITUDE": -5.422469,
+        "LONGITUDE": 143.725799,
+        "REGHH": 32,
+        "TOTPOP2000": 254,
+        "MALE2000": 138,
+        "FEMALE2000": 116,
+        "POP2008": 319,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020307003,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

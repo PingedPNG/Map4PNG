@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12665,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.43728000007206,
+          -3.7196060000168245
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12665,
+        "CU_NAME": "NABUMAI",
+        "CU_NO": "011",
+        "GEOCODE": "17020510011",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "NAMATANAI",
+        "LATITUDE": -3.720999,
+        "LONGITUDE": 152.436339,
+        "REGHH": 35,
+        "TOTPOP2000": 197,
+        "MALE2000": 110,
+        "FEMALE2000": 87,
+        "POP2008": 248,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020510011,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12666,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.43512999984966,
+          -3.6588289995586365
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12666,
+        "CU_NAME": "NAMATANAI",
+        "CU_NO": "013",
+        "GEOCODE": "17020510013",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "NAMATANAI",
+        "LATITUDE": -3.659346,
+        "LONGITUDE": 152.43419,
+        "REGHH": 99,
+        "TOTPOP2000": 521,
+        "MALE2000": 282,
+        "FEMALE2000": 239,
+        "POP2008": 654,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020510013,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12667,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.4321500000226,
+          -3.702018000130579
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12667,
+        "CU_NAME": "NAPANTAH",
+        "CU_NO": "014",
+        "GEOCODE": "17020510014",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "NAMATANAI",
+        "LATITUDE": -3.70341,
+        "LONGITUDE": 152.431209,
+        "REGHH": 86,
+        "TOTPOP2000": 440,
+        "MALE2000": 220,
+        "FEMALE2000": 220,
+        "POP2008": 554,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020510014,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12668,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.42555599990953,
+          -3.662172999983909
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12668,
+        "CU_NAME": "NAMATANAI SAWMILL",
+        "CU_NO": "511",
+        "GEOCODE": "17020510511",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "10",
+        "WARD_NAME": "NAMATANAI",
+        "LATITUDE": -3.663565,
+        "LONGITUDE": 152.424615,
+        "REGHH": 6,
+        "TOTPOP2000": 35,
+        "MALE2000": 24,
+        "FEMALE2000": 11,
+        "POP2008": 43,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020510511,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

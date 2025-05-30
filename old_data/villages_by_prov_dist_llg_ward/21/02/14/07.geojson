@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20481,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.75250500030563,
+          -5.594797999727859
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20481,
+        "CU_NAME": "HAYIA",
+        "CU_NO": "001",
+        "GEOCODE": "07051407001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "07",
+        "WARD_NAME": "WAGALA",
+        "LATITUDE": -5.598896,
+        "LONGITUDE": 142.751933,
+        "REGHH": 54,
+        "TOTPOP2000": 310,
+        "MALE2000": 159,
+        "FEMALE2000": 151,
+        "POP2008": 431,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051407001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20482,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.75468400006662,
+          -5.595399999610265
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20482,
+        "CU_NAME": "HIPA/LAKE",
+        "CU_NO": "002",
+        "GEOCODE": "07051407002",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "07",
+        "WARD_NAME": "WAGALA",
+        "LATITUDE": -5.598896,
+        "LONGITUDE": 142.751933,
+        "REGHH": 38,
+        "TOTPOP2000": 217,
+        "MALE2000": 116,
+        "FEMALE2000": 101,
+        "POP2008": 301,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051407002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20483,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7524159997986,
+          -5.59163400040876
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20483,
+        "CU_NAME": "MINALE TINDAWA",
+        "CU_NO": "003",
+        "GEOCODE": "07051407003",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "07",
+        "WARD_NAME": "WAGALA",
+        "LATITUDE": -5.598896,
+        "LONGITUDE": 142.751933,
+        "REGHH": 26,
+        "TOTPOP2000": 133,
+        "MALE2000": 66,
+        "FEMALE2000": 67,
+        "POP2008": 185,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051407003,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20484,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.74829000018337,
+          -5.59504200018813
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20484,
+        "CU_NAME": "NEIA NOGOTA",
+        "CU_NO": "004",
+        "GEOCODE": "07051407004",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "14",
+        "WARD_NO": "07",
+        "WARD_NAME": "WAGALA",
+        "LATITUDE": -5.598896,
+        "LONGITUDE": 142.751933,
+        "REGHH": 50,
+        "TOTPOP2000": 328,
+        "MALE2000": 162,
+        "FEMALE2000": 166,
+        "POP2008": 456,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051407004,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

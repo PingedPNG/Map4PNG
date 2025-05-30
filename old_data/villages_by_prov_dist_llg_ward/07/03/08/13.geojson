@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19810,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.28579099985484,
+          -6.657058000026609
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19810,
+        "CU_NAME": "KEPA",
+        "CU_NO": "004",
+        "GEOCODE": "07030813004",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "WAPOSALE",
+        "LATITUDE": -6.65803,
+        "LONGITUDE": 144.29331,
+        "REGHH": 29,
+        "TOTPOP2000": 154,
+        "MALE2000": 85,
+        "FEMALE2000": 69,
+        "POP2008": 214,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030813004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19811,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2935190001018,
+          -6.64786299957774
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19811,
+        "CU_NAME": "WAPOSALE",
+        "CU_NO": "015",
+        "GEOCODE": "07030813015",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "WAPOSALE",
+        "LATITUDE": -6.65803,
+        "LONGITUDE": 144.29331,
+        "REGHH": 21,
+        "TOTPOP2000": 115,
+        "MALE2000": 57,
+        "FEMALE2000": 58,
+        "POP2008": 159,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030813015,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.29220199962265,
+          -6.651637000047458
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19812,
+        "CU_NAME": "TIGIRI",
+        "CU_NO": "016",
+        "GEOCODE": "07030813016",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "WAPOSALE",
+        "LATITUDE": -6.65803,
+        "LONGITUDE": 144.29331,
+        "REGHH": 24,
+        "TOTPOP2000": 107,
+        "MALE2000": 56,
+        "FEMALE2000": 51,
+        "POP2008": 149,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030813016,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.26341699959494,
+          -6.643111999918801
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19813,
+        "CU_NAME": "WETALI",
+        "CU_NO": "017",
+        "GEOCODE": "07030813017",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "WAPOSALE",
+        "LATITUDE": -6.65803,
+        "LONGITUDE": 144.29331,
+        "REGHH": 13,
+        "TOTPOP2000": 66,
+        "MALE2000": 38,
+        "FEMALE2000": 28,
+        "POP2008": 92,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030813017,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18691,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.8016129997402,
+          -3.869200999926136
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18691,
+        "CU_NAME": "YEGARAPI",
+        "CU_NO": "020",
+        "GEOCODE": "15030813020",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "YEGARAPI",
+        "LATITUDE": -3.870583,
+        "LONGITUDE": 141.800527,
+        "REGHH": 58,
+        "TOTPOP2000": 303,
+        "MALE2000": 143,
+        "FEMALE2000": 160,
+        "POP2008": 366,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030813020,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

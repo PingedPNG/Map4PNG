@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.57721900005686,
+          -7.9364490003210335
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15100,
+        "CU_NAME": "MAKAPA",
+        "CU_NO": "010",
+        "GEOCODE": "01010302010",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "MAKAPA",
+        "LATITUDE": -7.937872,
+        "LONGITUDE": 142.576135,
+        "REGHH": 99,
+        "TOTPOP2000": 863,
+        "MALE2000": 439,
+        "FEMALE2000": 424,
+        "POP2008": 1117,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010302010,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.57577900020078,
+          -7.932579999967004
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15101,
+        "CU_NAME": "MUMUNI",
+        "CU_NO": "011",
+        "GEOCODE": "01010302011",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "02",
+        "WARD_NAME": "MAKAPA",
+        "LATITUDE": -7.934003,
+        "LONGITUDE": 142.574695,
+        "REGHH": 48,
+        "TOTPOP2000": 386,
+        "MALE2000": 196,
+        "FEMALE2000": 190,
+        "POP2008": 502,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010302011,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

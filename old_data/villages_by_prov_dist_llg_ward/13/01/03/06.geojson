@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7959,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.64521500027206,
+          -4.17900800011904
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7959,
+        "CU_NAME": "DONGAN",
+        "CU_NO": "007",
+        "GEOCODE": "13010306007",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "DONGAN",
+        "LATITUDE": -4.177575,
+        "LONGITUDE": 144.647825,
+        "REGHH": 54,
+        "TOTPOP2000": 406,
+        "MALE2000": 190,
+        "FEMALE2000": 216,
+        "POP2008": 503,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010306007,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7960,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.71211299971526,
+          -4.173359000417463
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7960,
+        "CU_NAME": "GOINBANG 2",
+        "CU_NO": "011",
+        "GEOCODE": "13010306011",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "DONGAN",
+        "LATITUDE": -4.174748,
+        "LONGITUDE": 144.711063,
+        "REGHH": 35,
+        "TOTPOP2000": 241,
+        "MALE2000": 125,
+        "FEMALE2000": 116,
+        "POP2008": 299,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010306011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7961,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.64138099973343,
+          -4.173687000254802
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7961,
+        "CU_NAME": "GOINBANG 1",
+        "CU_NO": "019",
+        "GEOCODE": "13010306019",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "DONGAN",
+        "LATITUDE": -4.176419,
+        "LONGITUDE": 144.643647,
+        "REGHH": 24,
+        "TOTPOP2000": 165,
+        "MALE2000": 77,
+        "FEMALE2000": 88,
+        "POP2008": 204,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010306019,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7962,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.68804699966938,
+          -4.21233900024464
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7962,
+        "CU_NAME": "BUNAPAK",
+        "CU_NO": "020",
+        "GEOCODE": "13010306020",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "DONGAN",
+        "LATITUDE": -4.21373,
+        "LONGITUDE": 144.686996,
+        "REGHH": 29,
+        "TOTPOP2000": 206,
+        "MALE2000": 110,
+        "FEMALE2000": 96,
+        "POP2008": 256,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010306020,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7963,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.65394199982347,
+          -4.170611999643995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7963,
+        "CU_NAME": "BOSMUN COMM. SCH",
+        "CU_NO": "401",
+        "GEOCODE": "13010306401",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "06",
+        "WARD_NAME": "DONGAN",
+        "LATITUDE": -4.176323,
+        "LONGITUDE": 144.648727,
+        "REGHH": 3,
+        "TOTPOP2000": 15,
+        "MALE2000": 5,
+        "FEMALE2000": 10,
+        "POP2008": 15,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010306401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14084,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.85711099987282,
+          -6.175629000378024
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14084,
+        "CU_NAME": "MOGARAN",
+        "CU_NO": "002",
+        "GEOCODE": "10020410002",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "AINAKU",
+        "LATITUDE": -6.17704,
+        "LONGITUDE": 144.856059,
+        "REGHH": 44,
+        "TOTPOP2000": 179,
+        "MALE2000": 95,
+        "FEMALE2000": 84,
+        "POP2008": 205,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020410002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14085,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.86349600024027,
+          -6.174409999921522
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14085,
+        "CU_NAME": "ULALE",
+        "CU_NO": "003",
+        "GEOCODE": "10020410003",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "AINAKU",
+        "LATITUDE": -6.175821,
+        "LONGITUDE": 144.862444,
+        "REGHH": 28,
+        "TOTPOP2000": 144,
+        "MALE2000": 80,
+        "FEMALE2000": 64,
+        "POP2008": 168,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020410003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14086,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.85978199983947,
+          -6.177423000371107
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14086,
+        "CU_NAME": "BAYAU",
+        "CU_NO": "004",
+        "GEOCODE": "10020410004",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "AINAKU",
+        "LATITUDE": -6.178834,
+        "LONGITUDE": 144.85873,
+        "REGHH": 10,
+        "TOTPOP2000": 44,
+        "MALE2000": 24,
+        "FEMALE2000": 20,
+        "POP2008": 52,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020410004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14087,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.86134700006403,
+          -6.165664000393235
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14087,
+        "CU_NAME": "KERU",
+        "CU_NO": "005",
+        "GEOCODE": "10020410005",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "AINAKU",
+        "LATITUDE": -6.167075,
+        "LONGITUDE": 144.860294,
+        "REGHH": 10,
+        "TOTPOP2000": 55,
+        "MALE2000": 22,
+        "FEMALE2000": 33,
+        "POP2008": 63,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020410005,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10767,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.50683599988156,
+          -6.443307000317759
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10767,
+        "CU_NAME": "FARENG",
+        "CU_NO": "001",
+        "GEOCODE": "12020623001",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "ZANINGU",
+        "LATITUDE": -6.444726,
+        "LONGITUDE": 147.505819,
+        "REGHH": 35,
+        "TOTPOP2000": 174,
+        "MALE2000": 90,
+        "FEMALE2000": 84,
+        "POP2008": 217,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020623001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10768,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.51855099962904,
+          -6.449433999579355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10768,
+        "CU_NAME": "ZANINGU",
+        "CU_NO": "003",
+        "GEOCODE": "12020623003",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "ZANINGU",
+        "LATITUDE": -6.444309,
+        "LONGITUDE": 147.518031,
+        "REGHH": 51,
+        "TOTPOP2000": 271,
+        "MALE2000": 136,
+        "FEMALE2000": 135,
+        "POP2008": 338,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020623003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10769,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.51337600020236,
+          -6.448945999558191
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10769,
+        "CU_NAME": "SANZENG",
+        "CU_NO": "503",
+        "GEOCODE": "12020623503",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "23",
+        "WARD_NAME": "ZANINGU",
+        "LATITUDE": -6.450365,
+        "LONGITUDE": 147.512359,
+        "REGHH": 26,
+        "TOTPOP2000": 147,
+        "MALE2000": 79,
+        "FEMALE2000": 68,
+        "POP2008": 183,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020623503,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

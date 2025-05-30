@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4769,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.17291600007343,
+          -4.321219000356507
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4769,
+        "CU_NAME": "RALALAR",
+        "CU_NO": "013",
+        "GEOCODE": "18020913013",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "13",
+        "WARD_NAME": "RALALAR",
+        "LATITUDE": -4.32262,
+        "LONGITUDE": 152.17197,
+        "REGHH": 105,
+        "TOTPOP2000": 584,
+        "MALE2000": 285,
+        "FEMALE2000": 299,
+        "POP2008": 712,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020913013,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

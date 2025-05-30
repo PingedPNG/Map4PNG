@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20338,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.2714539999023,
+          -5.948983999611869
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20338,
+        "CU_NAME": "TENGO",
+        "CU_NO": "015",
+        "GEOCODE": "07041311015",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "11",
+        "WARD_NAME": "TENGO",
+        "LATITUDE": -5.954253,
+        "LONGITUDE": 143.269954,
+        "REGHH": 46,
+        "TOTPOP2000": 257,
+        "MALE2000": 130,
+        "FEMALE2000": 127,
+        "POP2008": 357,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041311015,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20339,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.27146400036338,
+          -5.951271999902815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20339,
+        "CU_NAME": "WAREPE",
+        "CU_NO": "016",
+        "GEOCODE": "07041311016",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "11",
+        "WARD_NAME": "TENGO",
+        "LATITUDE": -5.954253,
+        "LONGITUDE": 143.269954,
+        "REGHH": 59,
+        "TOTPOP2000": 398,
+        "MALE2000": 194,
+        "FEMALE2000": 204,
+        "POP2008": 553,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041311016,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20340,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.268930999566,
+          -5.95179099955493
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20340,
+        "CU_NAME": "YOLOMAPE",
+        "CU_NO": "017",
+        "GEOCODE": "07041311017",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "11",
+        "WARD_NAME": "TENGO",
+        "LATITUDE": -5.954253,
+        "LONGITUDE": 143.269954,
+        "REGHH": 33,
+        "TOTPOP2000": 187,
+        "MALE2000": 86,
+        "FEMALE2000": 101,
+        "POP2008": 261,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041311017,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20341,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.26740300014842,
+          -5.950017999630916
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20341,
+        "CU_NAME": "KERENA",
+        "CU_NO": "018",
+        "GEOCODE": "07041311018",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "11",
+        "WARD_NAME": "TENGO",
+        "LATITUDE": -5.954253,
+        "LONGITUDE": 143.269954,
+        "REGHH": 43,
+        "TOTPOP2000": 236,
+        "MALE2000": 120,
+        "FEMALE2000": 116,
+        "POP2008": 328,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041311018,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

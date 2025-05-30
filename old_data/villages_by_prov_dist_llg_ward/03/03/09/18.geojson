@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1501,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.62454699984426,
+          -9.192358999668045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1501,
+        "CU_NAME": "MANARI",
+        "CU_NO": "001",
+        "GEOCODE": "03030918001",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "18",
+        "WARD_NAME": "MANARI",
+        "LATITUDE": -9.193809,
+        "LONGITUDE": 147.623525,
+        "REGHH": 41,
+        "TOTPOP2000": 206,
+        "MALE2000": 92,
+        "FEMALE2000": 114,
+        "POP2008": 247,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030918001,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1502,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.55504499992685,
+          -9.20016599996086
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1502,
+        "CU_NAME": "MADILOGO",
+        "CU_NO": "010",
+        "GEOCODE": "03030918010",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "18",
+        "WARD_NAME": "MANARI",
+        "LATITUDE": -9.201614,
+        "LONGITUDE": 147.554022,
+        "REGHH": 13,
+        "TOTPOP2000": 54,
+        "MALE2000": 27,
+        "FEMALE2000": 27,
+        "POP2008": 62,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030918010,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1503,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.62479300039672,
+          -9.256618999767
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1503,
+        "CU_NAME": "NAORO",
+        "CU_NO": "014",
+        "GEOCODE": "03030918014",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "18",
+        "WARD_NAME": "MANARI",
+        "LATITUDE": -9.258068,
+        "LONGITUDE": 147.623771,
+        "REGHH": 20,
+        "TOTPOP2000": 89,
+        "MALE2000": 44,
+        "FEMALE2000": 45,
+        "POP2008": 105,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030918014,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.56892999991965,
+          -9.217265999825997
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1504,
+        "CU_NAME": "EBOLOGO",
+        "CU_NO": "017",
+        "GEOCODE": "03030918017",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "18",
+        "WARD_NAME": "MANARI",
+        "LATITUDE": -9.216671,
+        "LONGITUDE": 147.56739,
+        "REGHH": 6,
+        "TOTPOP2000": 40,
+        "MALE2000": 17,
+        "FEMALE2000": 23,
+        "POP2008": 48,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030918017,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1505,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6332239997878,
+          -9.182924999888769
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1505,
+        "CU_NAME": "LONI",
+        "CU_NO": "020",
+        "GEOCODE": "03030918020",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "18",
+        "WARD_NAME": "MANARI",
+        "LATITUDE": -9.184373,
+        "LONGITUDE": 147.632202,
+        "REGHH": 3,
+        "TOTPOP2000": 20,
+        "MALE2000": 9,
+        "FEMALE2000": 11,
+        "POP2008": 20,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030918020,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

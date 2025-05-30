@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15511,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2121330004377,
+          -5.303091999695994
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15511,
+        "CU_NAME": "KUMKIT",
+        "CU_NO": "015",
+        "GEOCODE": "01021009015",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "09",
+        "WARD_NAME": "KUMKIT",
+        "LATITUDE": -5.304488,
+        "LONGITUDE": 141.211038,
+        "REGHH": 36,
+        "TOTPOP2000": 238,
+        "MALE2000": 133,
+        "FEMALE2000": 105,
+        "POP2008": 309,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1021009015,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

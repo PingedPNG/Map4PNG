@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6528,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.45553399989421,
+          -4.476547000243841
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6528,
+        "CU_NAME": "JETA",
+        "CU_NO": "009",
+        "GEOCODE": "14020827009",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "27",
+        "WARD_NAME": "JETA",
+        "LATITUDE": -4.483019,
+        "LONGITUDE": 144.463346,
+        "REGHH": 75,
+        "TOTPOP2000": 434,
+        "MALE2000": 213,
+        "FEMALE2000": 221,
+        "POP2008": 517,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020827009,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6529,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.51141800044047,
+          -4.518904000219379
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6529,
+        "CU_NAME": "JAMONG",
+        "CU_NO": "010",
+        "GEOCODE": "14020827010",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "27",
+        "WARD_NAME": "JETA",
+        "LATITUDE": -4.516961,
+        "LONGITUDE": 144.510882,
+        "REGHH": 22,
+        "TOTPOP2000": 135,
+        "MALE2000": 76,
+        "FEMALE2000": 59,
+        "POP2008": 159,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020827010,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5493,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9565259998751,
+          -5.283562000186123
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5493,
+        "CU_NAME": "IPAMAUANDA",
+        "CU_NO": "001",
+        "GEOCODE": "08020423001",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "IPAMAUANDA",
+        "LATITUDE": -5.284962,
+        "LONGITUDE": 143.955465,
+        "REGHH": 57,
+        "TOTPOP2000": 303,
+        "MALE2000": 159,
+        "FEMALE2000": 144,
+        "POP2008": 381,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020423001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5494,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.04454500025167,
+          -5.24816700020682
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5494,
+        "CU_NAME": "PYARULAM",
+        "CU_NO": "002",
+        "GEOCODE": "08020423002",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "IPAMAUANDA",
+        "LATITUDE": -5.246839,
+        "LONGITUDE": 144.052388,
+        "REGHH": 49,
+        "TOTPOP2000": 322,
+        "MALE2000": 175,
+        "FEMALE2000": 147,
+        "POP2008": 404,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020423002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5495,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.94839399988325,
+          -5.264916000073299
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5495,
+        "CU_NAME": "WARELAM",
+        "CU_NO": "003",
+        "GEOCODE": "08020423003",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "23",
+        "WARD_NAME": "IPAMAUANDA",
+        "LATITUDE": -5.256371,
+        "LONGITUDE": 143.968241,
+        "REGHH": 33,
+        "TOTPOP2000": 174,
+        "MALE2000": 99,
+        "FEMALE2000": 75,
+        "POP2008": 218,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020423003,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

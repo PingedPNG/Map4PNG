@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5562,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.53824100012207,
+          -5.58048699987512
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5562,
+        "CU_NAME": "PYAKAIN",
+        "CU_NO": "006",
+        "GEOCODE": "08030608006",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "PYAKAIN",
+        "LATITUDE": -5.581889,
+        "LONGITUDE": 143.537174,
+        "REGHH": 43,
+        "TOTPOP2000": 221,
+        "MALE2000": 121,
+        "FEMALE2000": 100,
+        "POP2008": 278,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030608006,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5563,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5289159999735,
+          -5.583938999884879
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5563,
+        "CU_NAME": "PANGU",
+        "CU_NO": "007",
+        "GEOCODE": "08030608007",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "PYAKAIN",
+        "LATITUDE": -5.585341,
+        "LONGITUDE": 143.527849,
+        "REGHH": 62,
+        "TOTPOP2000": 330,
+        "MALE2000": 165,
+        "FEMALE2000": 165,
+        "POP2008": 415,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030608007,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5564,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5406460004126,
+          -5.599486000078798
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5564,
+        "CU_NAME": "YOKOPINIAM",
+        "CU_NO": "008",
+        "GEOCODE": "08030608008",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "PYAKAIN",
+        "LATITUDE": -5.600889,
+        "LONGITUDE": 143.539579,
+        "REGHH": 36,
+        "TOTPOP2000": 188,
+        "MALE2000": 90,
+        "FEMALE2000": 98,
+        "POP2008": 236,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030608008,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5565,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.55511899964222,
+          -5.593083999826661
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5565,
+        "CU_NAME": "KENDELAM",
+        "CU_NO": "009",
+        "GEOCODE": "08030608009",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "PYAKAIN",
+        "LATITUDE": -5.594487,
+        "LONGITUDE": 143.554052,
+        "REGHH": 39,
+        "TOTPOP2000": 171,
+        "MALE2000": 97,
+        "FEMALE2000": 74,
+        "POP2008": 215,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030608009,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11534,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.19673399977432,
+          -6.755762000315997
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11534,
+        "CU_NAME": "WESALAM",
+        "CU_NO": "001",
+        "GEOCODE": "12061701001",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "01",
+        "WARD_NAME": "TAPAKAINANTU",
+        "LATITUDE": -6.757182,
+        "LONGITUDE": 146.195699,
+        "REGHH": 58,
+        "TOTPOP2000": 382,
+        "MALE2000": 202,
+        "FEMALE2000": 180,
+        "POP2008": 477,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061701001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11535,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.24843800001372,
+          -6.661767999593451
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11535,
+        "CU_NAME": "ASARAO",
+        "CU_NO": "002",
+        "GEOCODE": "12061701002",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "01",
+        "WARD_NAME": "TAPAKAINANTU",
+        "LATITUDE": -6.655827,
+        "LONGITUDE": 146.247783,
+        "REGHH": 12,
+        "TOTPOP2000": 82,
+        "MALE2000": 36,
+        "FEMALE2000": 46,
+        "POP2008": 102,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061701002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11536,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.26240600023675,
+          -6.769427000055941
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11536,
+        "CU_NAME": "TAUANGOR",
+        "CU_NO": "004",
+        "GEOCODE": "12061701004",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "01",
+        "WARD_NAME": "TAPAKAINANTU",
+        "LATITUDE": -6.748179,
+        "LONGITUDE": 146.264755,
+        "REGHH": 7,
+        "TOTPOP2000": 41,
+        "MALE2000": 25,
+        "FEMALE2000": 16,
+        "POP2008": 49,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061701004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11537,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2150170002344,
+          -6.7672339996493065
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11537,
+        "CU_NAME": "TAPAKAINANTU",
+        "CU_NO": "005",
+        "GEOCODE": "12061701005",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "01",
+        "WARD_NAME": "TAPAKAINANTU",
+        "LATITUDE": -6.768654,
+        "LONGITUDE": 146.213982,
+        "REGHH": 58,
+        "TOTPOP2000": 330,
+        "MALE2000": 171,
+        "FEMALE2000": 159,
+        "POP2008": 411,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061701005,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

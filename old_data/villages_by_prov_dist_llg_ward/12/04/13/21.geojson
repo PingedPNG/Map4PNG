@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11254,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.21545699964088,
+          -6.127273999895124
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11254,
+        "CU_NAME": "WAP",
+        "CU_NO": "014",
+        "GEOCODE": "12041321014",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "21",
+        "WARD_NAME": "KABWUM",
+        "LATITUDE": -6.128689,
+        "LONGITUDE": 147.214437,
+        "REGHH": 62,
+        "TOTPOP2000": 327,
+        "MALE2000": 163,
+        "FEMALE2000": 164,
+        "POP2008": 408,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041321014,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11255,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1905719995982,
+          -6.153325999795015
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11255,
+        "CU_NAME": "KABWUM STATION",
+        "CU_NO": "501",
+        "GEOCODE": "12041321501",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "21",
+        "WARD_NAME": "KABWUM",
+        "LATITUDE": -6.154741,
+        "LONGITUDE": 147.189551,
+        "REGHH": 63,
+        "TOTPOP2000": 361,
+        "MALE2000": 187,
+        "FEMALE2000": 174,
+        "POP2008": 450,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041321501,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

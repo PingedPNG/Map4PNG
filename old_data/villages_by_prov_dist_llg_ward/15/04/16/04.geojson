@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19073,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.06341699969482,
+          -3.290474000074994
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19073,
+        "CU_NAME": "DAUNCHENDI",
+        "CU_NO": "002",
+        "GEOCODE": "15041604002",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "04",
+        "WARD_NAME": "DAUNCHENDI",
+        "LATITUDE": -3.289591,
+        "LONGITUDE": 141.06219,
+        "REGHH": 34,
+        "TOTPOP2000": 235,
+        "MALE2000": 116,
+        "FEMALE2000": 119,
+        "POP2008": 285,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041604002,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19074,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.10630599992203,
+          -3.289036000311114
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19074,
+        "CU_NAME": "OMOL",
+        "CU_NO": "015",
+        "GEOCODE": "15041604015",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "16",
+        "WARD_NO": "04",
+        "WARD_NAME": "DAUNCHENDI",
+        "LATITUDE": -3.290411,
+        "LONGITUDE": 141.105213,
+        "REGHH": 21,
+        "TOTPOP2000": 105,
+        "MALE2000": 57,
+        "FEMALE2000": 48,
+        "POP2008": 129,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041604015,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

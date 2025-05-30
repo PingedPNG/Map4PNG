@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8043,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9055739999402,
+          -4.450642999974434
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8043,
+        "CU_NAME": "DUAPMUNG",
+        "CU_NO": "004",
+        "GEOCODE": "13010331004",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "31",
+        "WARD_NAME": "DUAPMUNG",
+        "LATITUDE": -4.452035,
+        "LONGITUDE": 144.904526,
+        "REGHH": 60,
+        "TOTPOP2000": 279,
+        "MALE2000": 138,
+        "FEMALE2000": 141,
+        "POP2008": 346,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010331004,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8044,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.89049099956003,
+          -4.436408000029132
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8044,
+        "CU_NAME": "MANGIGUM",
+        "CU_NO": "006",
+        "GEOCODE": "13010331006",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "31",
+        "WARD_NAME": "DUAPMUNG",
+        "LATITUDE": -4.4378,
+        "LONGITUDE": 144.889443,
+        "REGHH": 50,
+        "TOTPOP2000": 306,
+        "MALE2000": 162,
+        "FEMALE2000": 144,
+        "POP2008": 378,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010331006,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

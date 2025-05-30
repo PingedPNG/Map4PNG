@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15399,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0298240000776,
+          -5.4827829998355355
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15399,
+        "CU_NAME": "AMBRE",
+        "CU_NO": "001",
+        "GEOCODE": "01020807001",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "07",
+        "WARD_NAME": "KWIKIM",
+        "LATITUDE": -5.48418,
+        "LONGITUDE": 141.028727,
+        "REGHH": 17,
+        "TOTPOP2000": 107,
+        "MALE2000": 56,
+        "FEMALE2000": 51,
+        "POP2008": 139,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020807001,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15400,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0257599997243,
+          -5.4880960002302
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15400,
+        "CU_NAME": "KWIKIM",
+        "CU_NO": "017",
+        "GEOCODE": "01020807017",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "07",
+        "WARD_NAME": "KWIKIM",
+        "LATITUDE": -5.489493,
+        "LONGITUDE": 141.024663,
+        "REGHH": 46,
+        "TOTPOP2000": 212,
+        "MALE2000": 117,
+        "FEMALE2000": 95,
+        "POP2008": 274,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020807017,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15401,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0595430000095,
+          -5.45749099990968
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15401,
+        "CU_NAME": "SWEBON",
+        "CU_NO": "018",
+        "GEOCODE": "01020807018",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "07",
+        "WARD_NAME": "KWIKIM",
+        "LATITUDE": -5.458888,
+        "LONGITUDE": 141.058446,
+        "REGHH": 33,
+        "TOTPOP2000": 157,
+        "MALE2000": 85,
+        "FEMALE2000": 72,
+        "POP2008": 204,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020807018,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

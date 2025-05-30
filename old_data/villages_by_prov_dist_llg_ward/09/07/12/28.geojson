@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17518,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.93538900000237,
+          -5.9074499998175725
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17518,
+        "CU_NAME": "LAIAGAMPENA",
+        "CU_NO": "021",
+        "GEOCODE": "09071228021",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "28",
+        "WARD_NAME": "LAIAGAM 2",
+        "LATITUDE": -5.907201,
+        "LONGITUDE": 143.936918,
+        "REGHH": 59,
+        "TOTPOP2000": 262,
+        "MALE2000": 134,
+        "FEMALE2000": 128,
+        "POP2008": 320,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071228021,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17519,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.93396600003098,
+          -5.905769999685674
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17519,
+        "CU_NAME": "TAPANGI",
+        "CU_NO": "022",
+        "GEOCODE": "09071228022",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "28",
+        "WARD_NAME": "LAIAGAM 2",
+        "LATITUDE": -5.907201,
+        "LONGITUDE": 143.936918,
+        "REGHH": 46,
+        "TOTPOP2000": 218,
+        "MALE2000": 100,
+        "FEMALE2000": 118,
+        "POP2008": 265,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071228022,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

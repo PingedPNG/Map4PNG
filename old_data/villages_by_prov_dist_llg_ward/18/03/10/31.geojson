@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4864,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.48543799976392,
+          -5.14190200017714
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4864,
+        "CU_NAME": "KOILAU",
+        "CU_NO": "042",
+        "GEOCODE": "18031031042",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "31",
+        "WARD_NAME": "MANIGUGULE",
+        "LATITUDE": -5.143312,
+        "LONGITUDE": 151.484481,
+        "REGHH": 10,
+        "TOTPOP2000": 54,
+        "MALE2000": 28,
+        "FEMALE2000": 26,
+        "POP2008": 63,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031031042,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4865,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.5215519996251,
+          -5.0956549997783895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4865,
+        "CU_NAME": "MOKEMOKE",
+        "CU_NO": "044",
+        "GEOCODE": "18031031044",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "31",
+        "WARD_NAME": "MANIGUGULE",
+        "LATITUDE": -5.093741,
+        "LONGITUDE": 151.514004,
+        "REGHH": 4,
+        "TOTPOP2000": 23,
+        "MALE2000": 11,
+        "FEMALE2000": 12,
+        "POP2008": 31,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031031044,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

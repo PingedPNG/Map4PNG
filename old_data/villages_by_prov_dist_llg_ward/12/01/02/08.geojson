@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10420,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9073569999257,
+          -7.753823999777694
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10420,
+        "CU_NAME": "KAURU",
+        "CU_NO": "005",
+        "GEOCODE": "12010208005",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "WISI",
+        "LATITUDE": -7.755256,
+        "LONGITUDE": 146.906329,
+        "REGHH": 22,
+        "TOTPOP2000": 124,
+        "MALE2000": 53,
+        "FEMALE2000": 71,
+        "POP2008": 155,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010208005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10421,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.88868400036642,
+          -7.744876999973542
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10421,
+        "CU_NAME": "KOPEREKA",
+        "CU_NO": "007",
+        "GEOCODE": "12010208007",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "WISI",
+        "LATITUDE": -7.746309,
+        "LONGITUDE": 146.887656,
+        "REGHH": 18,
+        "TOTPOP2000": 119,
+        "MALE2000": 59,
+        "FEMALE2000": 60,
+        "POP2008": 149,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010208007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10422,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.90416100003017,
+          -7.749915000276985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10422,
+        "CU_NAME": "WISI",
+        "CU_NO": "011",
+        "GEOCODE": "12010208011",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "WISI",
+        "LATITUDE": -7.751347,
+        "LONGITUDE": 146.903133,
+        "REGHH": 30,
+        "TOTPOP2000": 213,
+        "MALE2000": 108,
+        "FEMALE2000": 105,
+        "POP2008": 265,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010208011,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

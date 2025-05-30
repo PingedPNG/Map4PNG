@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18816,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0517850001777,
+          -4.286320999914153
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18816,
+        "CU_NAME": "ILEIS",
+        "CU_NO": "001",
+        "GEOCODE": "15031113001",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "WAURU",
+        "LATITUDE": -4.287706,
+        "LONGITUDE": 141.05069,
+        "REGHH": 7,
+        "TOTPOP2000": 70,
+        "MALE2000": 34,
+        "FEMALE2000": 36,
+        "POP2008": 86,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031113001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18817,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.19726099989532,
+          -4.176044000130446
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18817,
+        "CU_NAME": "WAURU 1",
+        "CU_NO": "004",
+        "GEOCODE": "15031113004",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "WAURU",
+        "LATITUDE": -4.177428,
+        "LONGITUDE": 141.196168,
+        "REGHH": 43,
+        "TOTPOP2000": 292,
+        "MALE2000": 143,
+        "FEMALE2000": 149,
+        "POP2008": 353,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031113004,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18818,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.11355200042453,
+          -4.175185000087652
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18818,
+        "CU_NAME": "WAURU 2",
+        "CU_NO": "005",
+        "GEOCODE": "15031113005",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "13",
+        "WARD_NAME": "WAURU",
+        "LATITUDE": -4.176569,
+        "LONGITUDE": 141.112458,
+        "REGHH": 19,
+        "TOTPOP2000": 127,
+        "MALE2000": 77,
+        "FEMALE2000": 50,
+        "POP2008": 152,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031113005,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9321,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.49865099964393,
+          -5.394389000152216
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9321,
+        "CU_NAME": "ANDIKU",
+        "CU_NO": "001",
+        "GEOCODE": "13061643001",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "43",
+        "WARD_NAME": "WABU",
+        "LATITUDE": -5.397273,
+        "LONGITUDE": 145.50812,
+        "REGHH": 37,
+        "TOTPOP2000": 202,
+        "MALE2000": 111,
+        "FEMALE2000": 91,
+        "POP2008": 250,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061643001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9322,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.88796800012312,
+          -5.089030000034427
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9322,
+        "CU_NAME": "KWARINGIRI",
+        "CU_NO": "006",
+        "GEOCODE": "13061643006",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "43",
+        "WARD_NAME": "WABU",
+        "LATITUDE": -5.090431,
+        "LONGITUDE": 144.886919,
+        "REGHH": 31,
+        "TOTPOP2000": 180,
+        "MALE2000": 81,
+        "FEMALE2000": 99,
+        "POP2008": 223,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061643006,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9323,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9146080001591,
+          -5.095525000078624
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9323,
+        "CU_NAME": "WABU",
+        "CU_NO": "007",
+        "GEOCODE": "13061643007",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "43",
+        "WARD_NAME": "WABU",
+        "LATITUDE": -5.096925,
+        "LONGITUDE": 144.913559,
+        "REGHH": 24,
+        "TOTPOP2000": 164,
+        "MALE2000": 87,
+        "FEMALE2000": 77,
+        "POP2008": 203,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061643007,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

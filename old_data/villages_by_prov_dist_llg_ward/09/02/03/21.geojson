@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16310,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3431960003952,
+          -5.720168000352885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16310,
+        "CU_NAME": "RAPI",
+        "CU_NO": "054",
+        "GEOCODE": "09020321054",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "DEPAIORANG",
+        "LATITUDE": -5.721104,
+        "LONGITUDE": 144.343531,
+        "REGHH": 46,
+        "TOTPOP2000": 186,
+        "MALE2000": 87,
+        "FEMALE2000": 99,
+        "POP2008": 227,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020321054,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16311,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.30776599970125,
+          -5.721877000023483
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16311,
+        "CU_NAME": "DEPAIORANG",
+        "CU_NO": "055",
+        "GEOCODE": "09020321055",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "DEPAIORANG",
+        "LATITUDE": -5.722813,
+        "LONGITUDE": 144.3081,
+        "REGHH": 77,
+        "TOTPOP2000": 342,
+        "MALE2000": 178,
+        "FEMALE2000": 164,
+        "POP2008": 417,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020321055,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16312,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.34850299961386,
+          -5.704880999558441
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16312,
+        "CU_NAME": "BOTIP",
+        "CU_NO": "056",
+        "GEOCODE": "09020321056",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "DEPAIORANG",
+        "LATITUDE": -5.705817,
+        "LONGITUDE": 144.348838,
+        "REGHH": 67,
+        "TOTPOP2000": 201,
+        "MALE2000": 107,
+        "FEMALE2000": 94,
+        "POP2008": 245,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020321056,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

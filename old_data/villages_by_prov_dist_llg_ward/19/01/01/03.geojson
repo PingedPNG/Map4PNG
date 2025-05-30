@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17671,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3529759996427,
+          -6.25745800038635
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17671,
+        "CU_NAME": "AKAM",
+        "CU_NO": "003",
+        "GEOCODE": "19010103003",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "TESOPOL",
+        "LATITUDE": -6.25888,
+        "LONGITUDE": 150.352,
+        "REGHH": 45,
+        "TOTPOP2000": 230,
+        "MALE2000": 124,
+        "FEMALE2000": 106,
+        "POP2008": 303,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010103003,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17672,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.34397600009243,
+          -6.256647999905226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17672,
+        "CU_NAME": "ARINGRING",
+        "CU_NO": "010",
+        "GEOCODE": "19010103010",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "TESOPOL",
+        "LATITUDE": -6.25807,
+        "LONGITUDE": 150.343,
+        "REGHH": 33,
+        "TOTPOP2000": 200,
+        "MALE2000": 105,
+        "FEMALE2000": 95,
+        "POP2008": 263,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010103010,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.37463600025126,
+          -6.274108000184015
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17673,
+        "CU_NAME": "AVIHAIN",
+        "CU_NO": "014",
+        "GEOCODE": "19010103014",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "TESOPOL",
+        "LATITUDE": -6.268071,
+        "LONGITUDE": 150.358508,
+        "REGHH": 17,
+        "TOTPOP2000": 100,
+        "MALE2000": 58,
+        "FEMALE2000": 42,
+        "POP2008": 131,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010103014,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17674,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.31982599977016,
+          -6.286806000296622
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17674,
+        "CU_NAME": "AVRIN (INC.POKOLOK & AKALONG)",
+        "CU_NO": "016",
+        "GEOCODE": "19010103016",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "TESOPOL",
+        "LATITUDE": -6.288229,
+        "LONGITUDE": 150.318849,
+        "REGHH": 25,
+        "TOTPOP2000": 161,
+        "MALE2000": 73,
+        "FEMALE2000": 88,
+        "POP2008": 212,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010103016,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17675,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.33418700013,
+          -6.271564999824818
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17675,
+        "CU_NAME": "GASMATA GOVT. STN",
+        "CU_NO": "502",
+        "GEOCODE": "19010103502",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "TESOPOL",
+        "LATITUDE": -6.27378,
+        "LONGITUDE": 150.331,
+        "REGHH": 11,
+        "TOTPOP2000": 70,
+        "MALE2000": 31,
+        "FEMALE2000": 39,
+        "POP2008": 93,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010103502,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

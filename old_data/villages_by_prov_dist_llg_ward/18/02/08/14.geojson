@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4728,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.27930899971068,
+          -4.358937000442154
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4728,
+        "CU_NAME": "PALNAKAUR",
+        "CU_NO": "017",
+        "GEOCODE": "18020814017",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "14",
+        "WARD_NAME": "PALNAKAUR",
+        "LATITUDE": -4.360338,
+        "LONGITUDE": 152.278365,
+        "REGHH": 77,
+        "TOTPOP2000": 512,
+        "MALE2000": 261,
+        "FEMALE2000": 251,
+        "POP2008": 623,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020814017,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

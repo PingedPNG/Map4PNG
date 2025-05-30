@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52774500043154,
+          -5.406303000083312
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9262,
+        "CU_NAME": "AIGUT",
+        "CU_NO": "001",
+        "GEOCODE": "13061622001",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "22",
+        "WARD_NAME": "NEGERI",
+        "LATITUDE": -5.407707,
+        "LONGITUDE": 145.526704,
+        "REGHH": 28,
+        "TOTPOP2000": 135,
+        "MALE2000": 66,
+        "FEMALE2000": 69,
+        "POP2008": 167,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061622001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.51027899987605,
+          -5.412300999691354
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9263,
+        "CU_NAME": "NEGERI",
+        "CU_NO": "016",
+        "GEOCODE": "13061622016",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "22",
+        "WARD_NAME": "NEGERI",
+        "LATITUDE": -5.404976,
+        "LONGITUDE": 145.508392,
+        "REGHH": 31,
+        "TOTPOP2000": 195,
+        "MALE2000": 92,
+        "FEMALE2000": 103,
+        "POP2008": 241,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061622016,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9264,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52099400027294,
+          -5.4185710001514735
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9264,
+        "CU_NAME": "GASUA",
+        "CU_NO": "017",
+        "GEOCODE": "13061622017",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "22",
+        "WARD_NAME": "NEGERI",
+        "LATITUDE": -5.410186,
+        "LONGITUDE": 145.528677,
+        "REGHH": 25,
+        "TOTPOP2000": 158,
+        "MALE2000": 81,
+        "FEMALE2000": 77,
+        "POP2008": 195,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061622017,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.54812000023787,
+          -5.441571999648033
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9265,
+        "CU_NAME": "OMAWA",
+        "CU_NO": "018",
+        "GEOCODE": "13061622018",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "22",
+        "WARD_NAME": "NEGERI",
+        "LATITUDE": -5.428436,
+        "LONGITUDE": 145.531466,
+        "REGHH": 18,
+        "TOTPOP2000": 113,
+        "MALE2000": 55,
+        "FEMALE2000": 58,
+        "POP2008": 139,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061622018,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.56001100000776,
+          -5.420780000396633
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9266,
+        "CU_NAME": "TUTUA KUMUSI",
+        "CU_NO": "019",
+        "GEOCODE": "13061622019",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "22",
+        "WARD_NAME": "NEGERI",
+        "LATITUDE": -5.420302,
+        "LONGITUDE": 145.531782,
+        "REGHH": 35,
+        "TOTPOP2000": 193,
+        "MALE2000": 95,
+        "FEMALE2000": 98,
+        "POP2008": 238,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061622019,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57190399986973,
+          -5.405331000225431
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9267,
+        "CU_NAME": "YARWEA",
+        "CU_NO": "020",
+        "GEOCODE": "13061622020",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "22",
+        "WARD_NAME": "NEGERI",
+        "LATITUDE": -5.407376,
+        "LONGITUDE": 145.534605,
+        "REGHH": 19,
+        "TOTPOP2000": 100,
+        "MALE2000": 39,
+        "FEMALE2000": 61,
+        "POP2008": 124,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061622020,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5206489996517,
+          -5.438851000073555
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9268,
+        "CU_NAME": "NEGERI COMM. SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "13061622401",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "22",
+        "WARD_NAME": "NEGERI",
+        "LATITUDE": -5.434071,
+        "LONGITUDE": 145.516722,
+        "REGHH": 6,
+        "TOTPOP2000": 42,
+        "MALE2000": 22,
+        "FEMALE2000": 20,
+        "POP2008": 50,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061622401,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

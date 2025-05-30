@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14336,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0266690003741,
+          -6.235269999710681
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14336,
+        "CU_NAME": "BAIBAI",
+        "CU_NO": "001",
+        "GEOCODE": "10030905001",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "GOROBA",
+        "LATITUDE": -6.236682,
+        "LONGITUDE": 145.025619,
+        "REGHH": 27,
+        "TOTPOP2000": 125,
+        "MALE2000": 63,
+        "FEMALE2000": 62,
+        "POP2008": 142,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030905001,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14337,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0319730003538,
+          -6.234409999621732
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14337,
+        "CU_NAME": "GOROBA",
+        "CU_NO": "002",
+        "GEOCODE": "10030905002",
+        "PROV_KEY": "10",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "GOROBA",
+        "LATITUDE": -6.235822,
+        "LONGITUDE": 145.030924,
+        "REGHH": 42,
+        "TOTPOP2000": 181,
+        "MALE2000": 91,
+        "FEMALE2000": 90,
+        "POP2008": 208,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10030905002,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

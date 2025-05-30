@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4537,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.8006389995902,
+          -4.212828000311902
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4537,
+        "CU_NAME": "KARO",
+        "CU_NO": "010",
+        "GEOCODE": "18010308010",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "KARO",
+        "LATITUDE": -4.214071,
+        "LONGITUDE": 151.80327,
+        "REGHH": 39,
+        "TOTPOP2000": 203,
+        "MALE2000": 114,
+        "FEMALE2000": 89,
+        "POP2008": 247,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010308010,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4538,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.8040460002228,
+          -4.2181379996688975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4538,
+        "CU_NAME": "NEW MASSAWA PLTN",
+        "CU_NO": "519",
+        "GEOCODE": "18010308519",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "KARO",
+        "LATITUDE": -4.219537,
+        "LONGITUDE": 151.803095,
+        "REGHH": 31,
+        "TOTPOP2000": 161,
+        "MALE2000": 101,
+        "FEMALE2000": 60,
+        "POP2008": 196,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010308519,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20372,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.36024699999916,
+          -5.899064999849827
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20372,
+        "CU_NAME": "YENAGARI 1",
+        "CU_NO": "001",
+        "GEOCODE": "07041318001",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "18",
+        "WARD_NAME": "YENGARI 1",
+        "LATITUDE": -5.907857,
+        "LONGITUDE": 143.364179,
+        "REGHH": 47,
+        "TOTPOP2000": 306,
+        "MALE2000": 163,
+        "FEMALE2000": 143,
+        "POP2008": 425,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041318001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20373,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.36942200042506,
+          -5.915459000432463
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20373,
+        "CU_NAME": "KARUME",
+        "CU_NO": "002",
+        "GEOCODE": "07041318002",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "18",
+        "WARD_NAME": "YENGARI 1",
+        "LATITUDE": -5.907857,
+        "LONGITUDE": 143.364179,
+        "REGHH": 32,
+        "TOTPOP2000": 201,
+        "MALE2000": 109,
+        "FEMALE2000": 92,
+        "POP2008": 279,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041318002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20374,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.37211399956152,
+          -5.906318999821963
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20374,
+        "CU_NAME": "MENDAIBA",
+        "CU_NO": "003",
+        "GEOCODE": "07041318003",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "18",
+        "WARD_NAME": "YENGARI 1",
+        "LATITUDE": -5.907857,
+        "LONGITUDE": 143.364179,
+        "REGHH": 27,
+        "TOTPOP2000": 156,
+        "MALE2000": 86,
+        "FEMALE2000": 70,
+        "POP2008": 217,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041318003,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20375,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3711760003722,
+          -5.8999310002154175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20375,
+        "CU_NAME": "YUHAMA",
+        "CU_NO": "004",
+        "GEOCODE": "07041318004",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "13",
+        "WARD_NO": "18",
+        "WARD_NAME": "YENGARI 1",
+        "LATITUDE": -5.907857,
+        "LONGITUDE": 143.364179,
+        "REGHH": 42,
+        "TOTPOP2000": 241,
+        "MALE2000": 116,
+        "FEMALE2000": 125,
+        "POP2008": 334,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041318004,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

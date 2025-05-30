@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9735,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.23104999955785,
+          -10.310325000398393
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9735,
+        "CU_NAME": "NAURA",
+        "CU_NO": "001",
+        "GEOCODE": "05010516001",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "NAURA",
+        "LATITUDE": -10.310244,
+        "LONGITUDE": 150.224764,
+        "REGHH": 93,
+        "TOTPOP2000": 498,
+        "MALE2000": 273,
+        "FEMALE2000": 225,
+        "POP2008": 606,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010516001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9736,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.20735300034073,
+          -10.2979279997773
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9736,
+        "CU_NAME": "KAUPURIKA",
+        "CU_NO": "002",
+        "GEOCODE": "05010516002",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "NAURA",
+        "LATITUDE": -10.299395,
+        "LONGITUDE": 150.206365,
+        "REGHH": 31,
+        "TOTPOP2000": 177,
+        "MALE2000": 89,
+        "FEMALE2000": 88,
+        "POP2008": 216,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010516002,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.26128299981065,
+          -10.350824000127432
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9737,
+        "CU_NAME": "GUMINI",
+        "CU_NO": "003",
+        "GEOCODE": "05010516003",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "NAURA",
+        "LATITUDE": -10.352292,
+        "LONGITUDE": 150.260295,
+        "REGHH": 37,
+        "TOTPOP2000": 195,
+        "MALE2000": 105,
+        "FEMALE2000": 90,
+        "POP2008": 237,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010516003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.26711199971908,
+          -10.29827599963761
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9738,
+        "CU_NAME": "DELAMA NO 2",
+        "CU_NO": "004",
+        "GEOCODE": "05010516004",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "NAURA",
+        "LATITUDE": -10.299743,
+        "LONGITUDE": 150.266125,
+        "REGHH": 34,
+        "TOTPOP2000": 190,
+        "MALE2000": 106,
+        "FEMALE2000": 84,
+        "POP2008": 231,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010516004,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9739,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.2242079996995,
+          -10.311769000438971
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9739,
+        "CU_NAME": "NAURA P/SCH",
+        "CU_NO": "401",
+        "GEOCODE": "05010516401",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "NAURA",
+        "LATITUDE": -10.310244,
+        "LONGITUDE": 150.224764,
+        "REGHH": 6,
+        "TOTPOP2000": 17,
+        "MALE2000": 12,
+        "FEMALE2000": 5,
+        "POP2008": 17,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010516401,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9740,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.25802111198482,
+          -10.309676903965908
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9740,
+        "CU_NAME": "WAIGANI ESTATE",
+        "CU_NO": "402",
+        "GEOCODE": "05010516402",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "NAURA",
+        "LATITUDE": -10.309672,
+        "LONGITUDE": 150.259133,
+        "REGHH": 183,
+        "TOTPOP2000": 1003,
+        "MALE2000": 644,
+        "FEMALE2000": 359,
+        "POP2008": 1222,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010516402,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

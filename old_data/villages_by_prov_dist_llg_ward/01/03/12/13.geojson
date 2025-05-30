@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15593,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.952597999698,
+          -9.13630100009101
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15593,
+        "CU_NAME": "MAWATTA",
+        "CU_NO": "009",
+        "GEOCODE": "01031213009",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "13",
+        "WARD_NAME": "MAWATTA",
+        "LATITUDE": -9.137735,
+        "LONGITUDE": 142.951515,
+        "REGHH": 32,
+        "TOTPOP2000": 198,
+        "MALE2000": 94,
+        "FEMALE2000": 104,
+        "POP2008": 257,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031213009,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4643,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.300988000296,
+          -4.420868000158009
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4643,
+        "CU_NAME": "RATAVUL",
+        "CU_NO": "003",
+        "GEOCODE": "18020604003",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "04",
+        "WARD_NAME": "RATAVUL",
+        "LATITUDE": -4.42227,
+        "LONGITUDE": 152.300044,
+        "REGHH": 62,
+        "TOTPOP2000": 415,
+        "MALE2000": 211,
+        "FEMALE2000": 204,
+        "POP2008": 505,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020604003,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

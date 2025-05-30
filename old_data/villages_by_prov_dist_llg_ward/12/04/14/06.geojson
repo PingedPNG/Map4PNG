@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11273,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7233220000104,
+          -5.998656999720708
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11273,
+        "CU_NAME": "BUNGAWAT",
+        "CU_NO": "002",
+        "GEOCODE": "12041406002",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "06",
+        "WARD_NAME": "BUNGAWAT",
+        "LATITUDE": -6.002115,
+        "LONGITUDE": 146.72025,
+        "REGHH": 62,
+        "TOTPOP2000": 390,
+        "MALE2000": 197,
+        "FEMALE2000": 193,
+        "POP2008": 487,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041406002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11274,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.77034400017556,
+          -5.907617000324251
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11274,
+        "CU_NAME": "KORIPON",
+        "CU_NO": "006",
+        "GEOCODE": "12041406006",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "06",
+        "WARD_NAME": "BUNGAWAT",
+        "LATITUDE": -5.909869,
+        "LONGITUDE": 146.773226,
+        "REGHH": 23,
+        "TOTPOP2000": 92,
+        "MALE2000": 55,
+        "FEMALE2000": 37,
+        "POP2008": 116,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041406006,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11275,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7115440000556,
+          -6.04910000026473
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11275,
+        "CU_NAME": "DUNGKET",
+        "CU_NO": "007",
+        "GEOCODE": "12041406007",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "06",
+        "WARD_NAME": "BUNGAWAT",
+        "LATITUDE": -6.047999,
+        "LONGITUDE": 146.711914,
+        "REGHH": 42,
+        "TOTPOP2000": 242,
+        "MALE2000": 121,
+        "FEMALE2000": 121,
+        "POP2008": 302,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041406007,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

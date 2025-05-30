@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14404,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.89553099995578,
+          -5.927082000433927
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14404,
+        "CU_NAME": "SIM",
+        "CU_NO": "003",
+        "GEOCODE": "10041006003",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "SIM",
+        "LATITUDE": -5.928491,
+        "LONGITUDE": 144.89448,
+        "REGHH": 28,
+        "TOTPOP2000": 117,
+        "MALE2000": 53,
+        "FEMALE2000": 64,
+        "POP2008": 133,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041006003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14405,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8928359997816,
+          -5.927854000061984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14405,
+        "CU_NAME": "URMAND",
+        "CU_NO": "004",
+        "GEOCODE": "10041006004",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "SIM",
+        "LATITUDE": -5.929264,
+        "LONGITUDE": 144.891785,
+        "REGHH": 32,
+        "TOTPOP2000": 163,
+        "MALE2000": 88,
+        "FEMALE2000": 75,
+        "POP2008": 187,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041006004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14406,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.87834199958365,
+          -5.930005000330482
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14406,
+        "CU_NAME": "GAGL",
+        "CU_NO": "005",
+        "GEOCODE": "10041006005",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "SIM",
+        "LATITUDE": -5.931414,
+        "LONGITUDE": 144.877291,
+        "REGHH": 55,
+        "TOTPOP2000": 253,
+        "MALE2000": 132,
+        "FEMALE2000": 121,
+        "POP2008": 293,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041006005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14407,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8791679999033,
+          -5.9223390002446195
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14407,
+        "CU_NAME": "UKA",
+        "CU_NO": "006",
+        "GEOCODE": "10041006006",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "SIM",
+        "LATITUDE": -5.923747,
+        "LONGITUDE": 144.878117,
+        "REGHH": 101,
+        "TOTPOP2000": 608,
+        "MALE2000": 313,
+        "FEMALE2000": 295,
+        "POP2008": 701,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041006006,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14408,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.87648899956775,
+          -5.927859000292585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14408,
+        "CU_NAME": "SIUR",
+        "CU_NO": "007",
+        "GEOCODE": "10041006007",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "10",
+        "WARD_NO": "06",
+        "WARD_NAME": "SIM",
+        "LATITUDE": -5.929266,
+        "LONGITUDE": 144.875438,
+        "REGHH": 72,
+        "TOTPOP2000": 380,
+        "MALE2000": 199,
+        "FEMALE2000": 181,
+        "POP2008": 438,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041006007,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

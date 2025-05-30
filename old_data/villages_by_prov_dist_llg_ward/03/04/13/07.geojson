@@ -1,0 +1,261 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.95302000017296,
+          -9.973692999732123
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1745,
+        "CU_NAME": "BAGUGORO",
+        "CU_NO": "003",
+        "GEOCODE": "03041307003",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "ORMAND WEST",
+        "LATITUDE": -9.97515,
+        "LONGITUDE": 147.952,
+        "REGHH": 36,
+        "TOTPOP2000": 185,
+        "MALE2000": 104,
+        "FEMALE2000": 81,
+        "POP2008": 222,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041307003,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.83028799979138,
+          -10.00859600040502
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1746,
+        "CU_NAME": "KORE",
+        "CU_NO": "010",
+        "GEOCODE": "03041307010",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "ORMAND WEST",
+        "LATITUDE": -10.010053,
+        "LONGITUDE": 147.829267,
+        "REGHH": 33,
+        "TOTPOP2000": 215,
+        "MALE2000": 117,
+        "FEMALE2000": 98,
+        "POP2008": 258,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041307010,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.86620999979175,
+          -9.978888000081099
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1747,
+        "CU_NAME": "GWAIBO",
+        "CU_NO": "011",
+        "GEOCODE": "03041307011",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "ORMAND WEST",
+        "LATITUDE": -9.980345,
+        "LONGITUDE": 147.865189,
+        "REGHH": 44,
+        "TOTPOP2000": 338,
+        "MALE2000": 180,
+        "FEMALE2000": 158,
+        "POP2008": 406,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041307011,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1748,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.88766499993983,
+          -10.00496900041901
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1748,
+        "CU_NAME": "MAMALO",
+        "CU_NO": "012",
+        "GEOCODE": "03041307012",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "ORMAND WEST",
+        "LATITUDE": -10.006426,
+        "LONGITUDE": 147.886644,
+        "REGHH": 34,
+        "TOTPOP2000": 281,
+        "MALE2000": 151,
+        "FEMALE2000": 130,
+        "POP2008": 337,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041307012,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1749,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.96871900018175,
+          -10.023067000441642
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1749,
+        "CU_NAME": "MOLEGOLO",
+        "CU_NO": "013",
+        "GEOCODE": "03041307013",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "ORMAND WEST",
+        "LATITUDE": -10.026003,
+        "LONGITUDE": 147.968569,
+        "REGHH": 14,
+        "TOTPOP2000": 67,
+        "MALE2000": 33,
+        "FEMALE2000": 34,
+        "POP2008": 83,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041307013,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1750,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.80205800017666,
+          -9.881652000039708
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1750,
+        "CU_NAME": "MATAIRUKA",
+        "CU_NO": "063",
+        "GEOCODE": "03041307063",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "ORMAND WEST",
+        "LATITUDE": -9.883108,
+        "LONGITUDE": 147.801037,
+        "REGHH": 48,
+        "TOTPOP2000": 327,
+        "MALE2000": 176,
+        "FEMALE2000": 151,
+        "POP2008": 393,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041307063,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.9751619996266,
+          -10.027030999780777
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1751,
+        "CU_NAME": "KALOAPANANA",
+        "CU_NO": "064",
+        "GEOCODE": "03041307064",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "ORMAND WEST",
+        "LATITUDE": -10.028489,
+        "LONGITUDE": 147.974143,
+        "REGHH": 16,
+        "TOTPOP2000": 77,
+        "MALE2000": 45,
+        "FEMALE2000": 32,
+        "POP2008": 93,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041307064,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1752,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.8803699998757,
+          -10.011324000302352
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1752,
+        "CU_NAME": "KULIGOLO",
+        "CU_NO": "065",
+        "GEOCODE": "03041307065",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "07",
+        "WARD_NAME": "ORMAND WEST",
+        "LATITUDE": -10.012781,
+        "LONGITUDE": 147.879349,
+        "REGHH": 6,
+        "TOTPOP2000": 38,
+        "MALE2000": 20,
+        "FEMALE2000": 18,
+        "POP2008": 46,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041307065,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

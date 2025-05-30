@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5616,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.54246000042872,
+          -5.424133000337633
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5616,
+        "CU_NAME": "MAMAITES",
+        "CU_NO": "010",
+        "GEOCODE": "08030636010",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "36",
+        "WARD_NAME": "MAMITES",
+        "LATITUDE": -5.425534,
+        "LONGITUDE": 143.541393,
+        "REGHH": 200,
+        "TOTPOP2000": 988,
+        "MALE2000": 520,
+        "FEMALE2000": 468,
+        "POP2008": 1241,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030636010,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

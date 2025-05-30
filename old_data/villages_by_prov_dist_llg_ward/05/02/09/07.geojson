@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9900,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.78667400020504,
+          -10.614566000220691
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9900,
+        "CU_NAME": "ANNA",
+        "CU_NO": "001",
+        "GEOCODE": "05020907001",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "07",
+        "WARD_NAME": "SIAGARA EAST",
+        "LATITUDE": -10.613238,
+        "LONGITUDE": 152.785254,
+        "REGHH": 17,
+        "TOTPOP2000": 90,
+        "MALE2000": 47,
+        "FEMALE2000": 43,
+        "POP2008": 108,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020907001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.79079599963575,
+          -10.611988000046097
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9901,
+        "CU_NAME": "KELATAGITAGILA",
+        "CU_NO": "002",
+        "GEOCODE": "05020907002",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "07",
+        "WARD_NAME": "SIAGARA EAST",
+        "LATITUDE": -10.612329,
+        "LONGITUDE": 152.789847,
+        "REGHH": 31,
+        "TOTPOP2000": 176,
+        "MALE2000": 87,
+        "FEMALE2000": 89,
+        "POP2008": 214,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020907002,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.79281500011223,
+          -10.610072999868976
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9902,
+        "CU_NAME": "HOPITKAHIN",
+        "CU_NO": "003",
+        "GEOCODE": "05020907003",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "07",
+        "WARD_NAME": "SIAGARA EAST",
+        "LATITUDE": -10.610698,
+        "LONGITUDE": 152.791768,
+        "REGHH": 32,
+        "TOTPOP2000": 226,
+        "MALE2000": 112,
+        "FEMALE2000": 114,
+        "POP2008": 276,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020907003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9903,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.79331099960302,
+          -10.611018000280467
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9903,
+        "CU_NAME": "HEUT",
+        "CU_NO": "004",
+        "GEOCODE": "05020907004",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "07",
+        "WARD_NAME": "SIAGARA EAST",
+        "LATITUDE": -10.611197,
+        "LONGITUDE": 152.792657,
+        "REGHH": 33,
+        "TOTPOP2000": 168,
+        "MALE2000": 94,
+        "FEMALE2000": 74,
+        "POP2008": 204,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020907004,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

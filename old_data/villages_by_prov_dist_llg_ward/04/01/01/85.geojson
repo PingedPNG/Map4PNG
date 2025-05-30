@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 24303,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.18259100027456,
+          -9.477918999562121
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24303,
+        "CU_NAME": "KILAKILA/KAUGERE",
+        "CU_NO": "032",
+        "GEOCODE": "04010185049",
+        "PROV_KEY": "04",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "85",
+        "WARD_NAME": "KILAKILA / KAUGERE U",
+        "LATITUDE": -9.477919,
+        "LONGITUDE": 147.182591,
+        "REGHH": 153,
+        "TOTPOP2000": 914,
+        "MALE2000": 496,
+        "FEMALE2000": 418,
+        "POP2008": null,
+        "G_RATE": 0,
+        "Geocode_Num": 4010185049,
+        "PROVINCE": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24304,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.18557500028612,
+          -9.47775800023146
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24304,
+        "CU_NAME": "KOROBOSEA/YWCA",
+        "CU_NO": "033",
+        "GEOCODE": "04010185033",
+        "PROV_KEY": "04",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "85",
+        "WARD_NAME": "KILAKILA / KAUGERE U",
+        "LATITUDE": -9.477758,
+        "LONGITUDE": 147.185575,
+        "REGHH": 78,
+        "TOTPOP2000": 374,
+        "MALE2000": 176,
+        "FEMALE2000": 198,
+        "POP2008": null,
+        "G_RATE": 0,
+        "Geocode_Num": 4010185033,
+        "PROVINCE": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24312,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1877580002316,
+          -9.480753999897104
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24312,
+        "CU_NAME": "LOLORUA/KOROBOSEA",
+        "CU_NO": "041",
+        "GEOCODE": "04010185041",
+        "PROV_KEY": "04",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "85",
+        "WARD_NAME": "KILAKILA / KAUGERE U",
+        "LATITUDE": -9.480754,
+        "LONGITUDE": 147.187758,
+        "REGHH": 42,
+        "TOTPOP2000": 187,
+        "MALE2000": 105,
+        "FEMALE2000": 82,
+        "POP2008": null,
+        "G_RATE": 0,
+        "Geocode_Num": 4010185041,
+        "PROVINCE": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24313,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.19055899989803,
+          -9.481741000446789
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24313,
+        "CU_NAME": "KOROBOSEA DR.",
+        "CU_NO": "042",
+        "GEOCODE": "04010184037",
+        "PROV_KEY": "04",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "85",
+        "WARD_NAME": "KILAKILA / KAUGERE U",
+        "LATITUDE": -9.481741,
+        "LONGITUDE": 147.190559,
+        "REGHH": 54,
+        "TOTPOP2000": 352,
+        "MALE2000": 173,
+        "FEMALE2000": 179,
+        "POP2008": null,
+        "G_RATE": 0,
+        "Geocode_Num": 4010184037,
+        "PROVINCE": 4
+      }
+    }
+  ]
+}

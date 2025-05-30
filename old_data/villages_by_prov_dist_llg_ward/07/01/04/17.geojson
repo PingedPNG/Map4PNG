@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19428,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.17805100015357,
+          -6.497440000155848
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19428,
+        "CU_NAME": "PUPI",
+        "CU_NO": "028",
+        "GEOCODE": "07010417028",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "17",
+        "WARD_NAME": "PUPI",
+        "LATITUDE": -6.501761,
+        "LONGITUDE": 144.177539,
+        "REGHH": 10,
+        "TOTPOP2000": 42,
+        "MALE2000": 17,
+        "FEMALE2000": 25,
+        "POP2008": 58,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010417028,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19429,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1759129995853,
+          -6.497927000130915
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19429,
+        "CU_NAME": "PAIYAMA",
+        "CU_NO": "029",
+        "GEOCODE": "07010417029",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "17",
+        "WARD_NAME": "PUPI",
+        "LATITUDE": -6.501761,
+        "LONGITUDE": 144.177539,
+        "REGHH": 13,
+        "TOTPOP2000": 72,
+        "MALE2000": 36,
+        "FEMALE2000": 36,
+        "POP2008": 100,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010417029,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19430,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.17589799979294,
+          -6.495640999932164
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19430,
+        "CU_NAME": "KIMBIYAPU",
+        "CU_NO": "030",
+        "GEOCODE": "07010417030",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "17",
+        "WARD_NAME": "PUPI",
+        "LATITUDE": -6.501761,
+        "LONGITUDE": 144.177539,
+        "REGHH": 23,
+        "TOTPOP2000": 108,
+        "MALE2000": 59,
+        "FEMALE2000": 49,
+        "POP2008": 151,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010417030,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19431,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1793919999409,
+          -6.496022000414939
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19431,
+        "CU_NAME": "KUNDU",
+        "CU_NO": "031",
+        "GEOCODE": "07010417031",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "17",
+        "WARD_NAME": "PUPI",
+        "LATITUDE": -6.501761,
+        "LONGITUDE": 144.177539,
+        "REGHH": 30,
+        "TOTPOP2000": 192,
+        "MALE2000": 95,
+        "FEMALE2000": 97,
+        "POP2008": 266,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010417031,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19432,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.17723300020282,
+          -6.4942879995914495
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19432,
+        "CU_NAME": "KARAPINI",
+        "CU_NO": "032",
+        "GEOCODE": "07010417032",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "17",
+        "WARD_NAME": "PUPI",
+        "LATITUDE": -6.501761,
+        "LONGITUDE": 144.177539,
+        "REGHH": 22,
+        "TOTPOP2000": 104,
+        "MALE2000": 52,
+        "FEMALE2000": 52,
+        "POP2008": 145,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010417032,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

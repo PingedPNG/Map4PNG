@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9734,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3411039998498,
+          -10.335998999953858
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9734,
+        "CU_NAME": "MAIWARA",
+        "CU_NO": "008",
+        "GEOCODE": "05010515008",
+        "PROV_KEY": "05",
+        "DIST_NO": "1",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "MAIWARA",
+        "LATITUDE": -10.337467,
+        "LONGITUDE": 150.340118,
+        "REGHH": 91,
+        "TOTPOP2000": 474,
+        "MALE2000": 272,
+        "FEMALE2000": 202,
+        "POP2008": 577,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010515008,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

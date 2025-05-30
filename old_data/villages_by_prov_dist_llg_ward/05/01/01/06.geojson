@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9557,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.89336199965658,
+          -9.64354699959432
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9557,
+        "CU_NAME": "TAPIO",
+        "CU_NO": "022",
+        "GEOCODE": "05010106022",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "TAPIO",
+        "LATITUDE": -9.645007,
+        "LONGITUDE": 149.892371,
+        "REGHH": 18,
+        "TOTPOP2000": 129,
+        "MALE2000": 58,
+        "FEMALE2000": 71,
+        "POP2008": 157,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010106022,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9558,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.8682390003297,
+          -9.641280000271763
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9558,
+        "CU_NAME": "WORUKA",
+        "CU_NO": "023",
+        "GEOCODE": "05010106023",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "TAPIO",
+        "LATITUDE": -9.641065,
+        "LONGITUDE": 149.870121,
+        "REGHH": 21,
+        "TOTPOP2000": 117,
+        "MALE2000": 65,
+        "FEMALE2000": 52,
+        "POP2008": 141,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010106023,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

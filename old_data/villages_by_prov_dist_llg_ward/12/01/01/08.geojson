@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10336,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.73280500025066,
+          -6.95200600027664
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10336,
+        "CU_NAME": "BAYAMATU",
+        "CU_NO": "002",
+        "GEOCODE": "12010108002",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "MANGA",
+        "LATITUDE": -6.953429,
+        "LONGITUDE": 146.731777,
+        "REGHH": 43,
+        "TOTPOP2000": 207,
+        "MALE2000": 109,
+        "FEMALE2000": 98,
+        "POP2008": 258,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010108002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10337,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.72879000035834,
+          -6.9443729999139805
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10337,
+        "CU_NAME": "MANGA",
+        "CU_NO": "013",
+        "GEOCODE": "12010108013",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "MANGA",
+        "LATITUDE": -6.945796,
+        "LONGITUDE": 146.727762,
+        "REGHH": 92,
+        "TOTPOP2000": 461,
+        "MALE2000": 237,
+        "FEMALE2000": 224,
+        "POP2008": 575,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010108013,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10338,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7273559998796,
+          -6.925050000057411
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10338,
+        "CU_NAME": "MANEAKARU BASE CAMP",
+        "CU_NO": "402",
+        "GEOCODE": "12010108402",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "MANGA",
+        "LATITUDE": -6.926473,
+        "LONGITUDE": 146.726328,
+        "REGHH": 6,
+        "TOTPOP2000": 31,
+        "MALE2000": 12,
+        "FEMALE2000": 19,
+        "POP2008": 39,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010108402,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

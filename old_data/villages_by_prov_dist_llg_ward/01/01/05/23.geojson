@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.26936299990257,
+          -6.2954109996179
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15260,
+        "CU_NAME": "UNAMOBI",
+        "CU_NO": "007",
+        "GEOCODE": "01010523007",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "23",
+        "WARD_NAME": "SIRIGUBI",
+        "LATITUDE": -6.289731,
+        "LONGITUDE": 142.274879,
+        "REGHH": 9,
+        "TOTPOP2000": 53,
+        "MALE2000": 27,
+        "FEMALE2000": 26,
+        "POP2008": 69,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010523007,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.25255500001333,
+          -6.289285000402401
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15261,
+        "CU_NAME": "SIRUGUBI",
+        "CU_NO": "008",
+        "GEOCODE": "01010523008",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "23",
+        "WARD_NAME": "SIRUGUBI",
+        "LATITUDE": -6.290692,
+        "LONGITUDE": 142.251471,
+        "REGHH": 19,
+        "TOTPOP2000": 111,
+        "MALE2000": 52,
+        "FEMALE2000": 59,
+        "POP2008": 144,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010523008,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.31660000009003,
+          -6.272932999957959
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15262,
+        "CU_NAME": "DEFOROMOSUM",
+        "CU_NO": "011",
+        "GEOCODE": "01010523011",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "23",
+        "WARD_NAME": "SIRUGUBI",
+        "LATITUDE": -6.27434,
+        "LONGITUDE": 142.315516,
+        "REGHH": 7,
+        "TOTPOP2000": 35,
+        "MALE2000": 20,
+        "FEMALE2000": 15,
+        "POP2008": 43,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010523011,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

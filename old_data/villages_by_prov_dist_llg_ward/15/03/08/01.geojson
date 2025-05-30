@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18662,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.97281824166862,
+          -3.770518697579803
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18662,
+        "CU_NAME": "ABRAU",
+        "CU_NO": "001",
+        "GEOCODE": "15030801001",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "ABRAU",
+        "LATITUDE": -3.7689,
+        "LONGITUDE": 141.977466,
+        "REGHH": 30,
+        "TOTPOP2000": 194,
+        "MALE2000": 100,
+        "FEMALE2000": 94,
+        "POP2008": 234,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030801001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18663,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.95975510781204,
+          -3.779758478870633
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18663,
+        "CU_NAME": "ULIMOWAI",
+        "CU_NO": "025",
+        "GEOCODE": "15030801025",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "ABRAU",
+        "LATITUDE": -3.772518,
+        "LONGITUDE": 141.972098,
+        "REGHH": 20,
+        "TOTPOP2000": 128,
+        "MALE2000": 67,
+        "FEMALE2000": 61,
+        "POP2008": 154,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030801025,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

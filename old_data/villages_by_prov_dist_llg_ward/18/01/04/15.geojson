@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4580,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1254449998869,
+          -4.260727999597464
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4580,
+        "CU_NAME": "VUNALAKA",
+        "CU_NO": "016",
+        "GEOCODE": "18010415016",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "15",
+        "WARD_NAME": "VUNALAKA",
+        "LATITUDE": -4.262128,
+        "LONGITUDE": 152.124498,
+        "REGHH": 120,
+        "TOTPOP2000": 758,
+        "MALE2000": 393,
+        "FEMALE2000": 365,
+        "POP2008": 922,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010415016,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1231,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.91196100000025,
+          -9.147943000069347
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1231,
+        "CU_NAME": "GOROHU",
+        "CU_NO": "002",
+        "GEOCODE": "03030706002",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "KIDO",
+        "LATITUDE": -9.149706,
+        "LONGITUDE": 146.913403,
+        "REGHH": 76,
+        "TOTPOP2000": 738,
+        "MALE2000": 396,
+        "FEMALE2000": 342,
+        "POP2008": 885,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030706002,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.91563000012445,
+          -9.277749000216147
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1232,
+        "CU_NAME": "KIDO",
+        "CU_NO": "003",
+        "GEOCODE": "03030706003",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "KIDO",
+        "LATITUDE": -9.266254,
+        "LONGITUDE": 146.910147,
+        "REGHH": 70,
+        "TOTPOP2000": 638,
+        "MALE2000": 332,
+        "FEMALE2000": 306,
+        "POP2008": 765,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030706003,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.00331899967216,
+          -9.197173000433565
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1233,
+        "CU_NAME": "KEIVA",
+        "CU_NO": "011",
+        "GEOCODE": "03030706011",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "06",
+        "WARD_NAME": "KIDO",
+        "LATITUDE": -9.199725,
+        "LONGITUDE": 147.003163,
+        "REGHH": 17,
+        "TOTPOP2000": 117,
+        "MALE2000": 66,
+        "FEMALE2000": 51,
+        "POP2008": 141,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3030706011,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

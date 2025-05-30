@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18429,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.03455400036694,
+          -3.0865050000056726
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18429,
+        "CU_NAME": "RAMO",
+        "CU_NO": "025",
+        "GEOCODE": "15010321025",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "RAMO",
+        "LATITUDE": -3.09369,
+        "LONGITUDE": 142.027703,
+        "REGHH": 99,
+        "TOTPOP2000": 668,
+        "MALE2000": 355,
+        "FEMALE2000": 313,
+        "POP2008": 807,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010321025,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

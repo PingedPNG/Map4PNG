@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19750,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.83869099958997,
+          -6.524573000443581
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19750,
+        "CU_NAME": "GALU",
+        "CU_NO": "003",
+        "GEOCODE": "07030801003",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "GALU",
+        "LATITUDE": -6.524556,
+        "LONGITUDE": 143.84306,
+        "REGHH": 30,
+        "TOTPOP2000": 198,
+        "MALE2000": 91,
+        "FEMALE2000": 107,
+        "POP2008": 275,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030801003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19751,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.84623500034502,
+          -6.519335999956411
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19751,
+        "CU_NAME": "PEPEAWERE",
+        "CU_NO": "004",
+        "GEOCODE": "07030801004",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "GALU",
+        "LATITUDE": -6.524556,
+        "LONGITUDE": 143.84306,
+        "REGHH": 18,
+        "TOTPOP2000": 129,
+        "MALE2000": 66,
+        "FEMALE2000": 63,
+        "POP2008": 179,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030801004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19752,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.83698299996558,
+          -6.514960999650384
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19752,
+        "CU_NAME": "PALONDA",
+        "CU_NO": "005",
+        "GEOCODE": "07030801005",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "01",
+        "WARD_NAME": "GALU",
+        "LATITUDE": -6.524556,
+        "LONGITUDE": 143.84306,
+        "REGHH": 12,
+        "TOTPOP2000": 47,
+        "MALE2000": 24,
+        "FEMALE2000": 23,
+        "POP2008": 64,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030801005,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

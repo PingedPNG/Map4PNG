@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11681,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2884529999061,
+          -6.375658000416365
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11681,
+        "CU_NAME": "NGARUBURAMP",
+        "CU_NO": "001",
+        "GEOCODE": "12061825001",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "25",
+        "WARD_NAME": "BINIMAMP",
+        "LATITUDE": -6.377074,
+        "LONGITUDE": 146.28742,
+        "REGHH": 14,
+        "TOTPOP2000": 108,
+        "MALE2000": 63,
+        "FEMALE2000": 45,
+        "POP2008": 134,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061825001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11682,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.26892000025782,
+          -6.3656900002932275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11682,
+        "CU_NAME": "ISIM",
+        "CU_NO": "002",
+        "GEOCODE": "12061825002",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "25",
+        "WARD_NAME": "BINIMAMP",
+        "LATITUDE": -6.367106,
+        "LONGITUDE": 146.267887,
+        "REGHH": 3,
+        "TOTPOP2000": 35,
+        "MALE2000": 15,
+        "FEMALE2000": 20,
+        "POP2008": 43,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061825002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11683,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2881579997919,
+          -6.371172000387446
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11683,
+        "CU_NAME": "RAGITAMUT",
+        "CU_NO": "003",
+        "GEOCODE": "12061825003",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "25",
+        "WARD_NAME": "BINIMAMP",
+        "LATITUDE": -6.372588,
+        "LONGITUDE": 146.287125,
+        "REGHH": 26,
+        "TOTPOP2000": 189,
+        "MALE2000": 101,
+        "FEMALE2000": 88,
+        "POP2008": 235,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061825003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11684,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.31647900000587,
+          -6.370939999581253
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11684,
+        "CU_NAME": "BINIMAMP",
+        "CU_NO": "004",
+        "GEOCODE": "12061825004",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "25",
+        "WARD_NAME": "BINIMAMP",
+        "LATITUDE": -6.372356,
+        "LONGITUDE": 146.315446,
+        "REGHH": 94,
+        "TOTPOP2000": 501,
+        "MALE2000": 253,
+        "FEMALE2000": 248,
+        "POP2008": 625,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061825004,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

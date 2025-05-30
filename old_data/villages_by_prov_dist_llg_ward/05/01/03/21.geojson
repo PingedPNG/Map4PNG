@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9664,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.82687200014277,
+          -10.11948200039393
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9664,
+        "CU_NAME": "WARAWADIDI",
+        "CU_NO": "022",
+        "GEOCODE": "05010321022",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "WARAWADIDI",
+        "LATITUDE": -10.121983,
+        "LONGITUDE": 149.820901,
+        "REGHH": 16,
+        "TOTPOP2000": 81,
+        "MALE2000": 35,
+        "FEMALE2000": 46,
+        "POP2008": 97,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010321022,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9665,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.8352990002487,
+          -10.080298000152538
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9665,
+        "CU_NAME": "AUWEDA",
+        "CU_NO": "023",
+        "GEOCODE": "05010321023",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "WARAWADIDI",
+        "LATITUDE": -10.081762,
+        "LONGITUDE": 149.834306,
+        "REGHH": 27,
+        "TOTPOP2000": 134,
+        "MALE2000": 70,
+        "FEMALE2000": 64,
+        "POP2008": 164,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010321023,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9666,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.8072489999414,
+          -10.105548999986297
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9666,
+        "CU_NAME": "UDONEBA",
+        "CU_NO": "024",
+        "GEOCODE": "05010321024",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "WARAWADIDI",
+        "LATITUDE": -10.113305,
+        "LONGITUDE": 149.815482,
+        "REGHH": 25,
+        "TOTPOP2000": 130,
+        "MALE2000": 58,
+        "FEMALE2000": 72,
+        "POP2008": 158,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010321024,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

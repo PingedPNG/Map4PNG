@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6181,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7163349996606,
+          -3.785271000156513
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6181,
+        "CU_NAME": "ABEGU",
+        "CU_NO": "001",
+        "GEOCODE": "14010308001",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "MASALAGAR",
+        "LATITUDE": -3.78685,
+        "LONGITUDE": 142.71509,
+        "REGHH": 52,
+        "TOTPOP2000": 222,
+        "MALE2000": 111,
+        "FEMALE2000": 111,
+        "POP2008": 264,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010308001,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.72539400013306,
+          -3.7961819996994564
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6182,
+        "CU_NAME": "MASALAGAR",
+        "CU_NO": "014",
+        "GEOCODE": "14010308014",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "MASALAGAR",
+        "LATITUDE": -3.798017,
+        "LONGITUDE": 142.723641,
+        "REGHH": 87,
+        "TOTPOP2000": 369,
+        "MALE2000": 189,
+        "FEMALE2000": 180,
+        "POP2008": 438,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010308014,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6183,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7356089999555,
+          -3.777180000256749
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6183,
+        "CU_NAME": "GAWANA BASE CAMP",
+        "CU_NO": "502",
+        "GEOCODE": "14010308502",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "08",
+        "WARD_NAME": "MASALAGAR",
+        "LATITUDE": -3.778759,
+        "LONGITUDE": 142.734366,
+        "REGHH": 5,
+        "TOTPOP2000": 18,
+        "MALE2000": 10,
+        "FEMALE2000": 8,
+        "POP2008": 18,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010308502,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

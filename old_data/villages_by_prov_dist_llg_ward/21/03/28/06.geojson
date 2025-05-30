@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21797,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8403259996452,
+          -5.761810999777765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21797,
+        "CU_NAME": "KARITA 1",
+        "CU_NO": "003",
+        "GEOCODE": "07082806003",
+        "PROV_KEY": "21",
+        "DIST_NO": "3",
+        "LLG_NO": "28",
+        "WARD_NO": "06",
+        "WARD_NAME": "KARITA 1",
+        "LATITUDE": -5.766054,
+        "LONGITUDE": 142.840588,
+        "REGHH": 94,
+        "TOTPOP2000": 540,
+        "MALE2000": 262,
+        "FEMALE2000": 278,
+        "POP2008": 752,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7082806003,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

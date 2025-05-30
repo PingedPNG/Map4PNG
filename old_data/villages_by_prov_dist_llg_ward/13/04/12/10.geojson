@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8779,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.47288600018885,
+          -5.6153090004099795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8779,
+        "CU_NAME": "SAWOI",
+        "CU_NO": "029",
+        "GEOCODE": "13041210029",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "10",
+        "WARD_NAME": "WARD 10",
+        "LATITUDE": -5.615855,
+        "LONGITUDE": 146.473582,
+        "REGHH": 54,
+        "TOTPOP2000": 321,
+        "MALE2000": 166,
+        "FEMALE2000": 155,
+        "POP2008": 397,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041210029,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8780,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.45892400024252,
+          -5.624392000190596
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8780,
+        "CU_NAME": "SAIDOR STATION",
+        "CU_NO": "401",
+        "GEOCODE": "13041210401",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "10",
+        "WARD_NAME": "WARD 10",
+        "LATITUDE": -5.6258,
+        "LONGITUDE": 146.457895,
+        "REGHH": 81,
+        "TOTPOP2000": 500,
+        "MALE2000": 256,
+        "FEMALE2000": 244,
+        "POP2008": 619,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041210401,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8781,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.47388100020805,
+          -5.630076999753669
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8781,
+        "CU_NAME": "LAGAP PLANTATION",
+        "CU_NO": "501",
+        "GEOCODE": "13041210501",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "10",
+        "WARD_NAME": "WARD 10",
+        "LATITUDE": -5.631485,
+        "LONGITUDE": 146.472852,
+        "REGHH": 28,
+        "TOTPOP2000": 190,
+        "MALE2000": 118,
+        "FEMALE2000": 72,
+        "POP2008": 235,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041210501,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

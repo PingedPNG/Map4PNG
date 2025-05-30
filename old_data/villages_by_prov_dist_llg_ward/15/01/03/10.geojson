@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18416,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.23668700030487,
+          -3.132635000404889
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18416,
+        "CU_NAME": "AIPOKON",
+        "CU_NO": "002",
+        "GEOCODE": "15010310002",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "10",
+        "WARD_NAME": "AIPOKON",
+        "LATITUDE": -3.13401,
+        "LONGITUDE": 142.235607,
+        "REGHH": 96,
+        "TOTPOP2000": 709,
+        "MALE2000": 355,
+        "FEMALE2000": 354,
+        "POP2008": 857,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010310002,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13297,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.29154500000186,
+          -9.418946999604316
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13297,
+        "CU_NAME": "SIBIA",
+        "CU_NO": "015",
+        "GEOCODE": "06010318015",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "18",
+        "WARD_NAME": "NAMUNDI",
+        "LATITUDE": -9.437132,
+        "LONGITUDE": 148.30083,
+        "REGHH": 19,
+        "TOTPOP2000": 103,
+        "MALE2000": 49,
+        "FEMALE2000": 54,
+        "POP2008": 127,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010318015,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.33051999959832,
+          -9.475676000447038
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13298,
+        "CU_NAME": "NAMUNDI",
+        "CU_NO": "020",
+        "GEOCODE": "06010318020",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "18",
+        "WARD_NAME": "NAMUNDI",
+        "LATITUDE": -9.477129,
+        "LONGITUDE": 148.329507,
+        "REGHH": 29,
+        "TOTPOP2000": 146,
+        "MALE2000": 77,
+        "FEMALE2000": 69,
+        "POP2008": 180,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010318020,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13299,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.21846799979846,
+          -9.554516000213198
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13299,
+        "CU_NAME": "MARUDE",
+        "CU_NO": "021",
+        "GEOCODE": "06010318021",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "18",
+        "WARD_NAME": "NAMUNDI",
+        "LATITUDE": -9.55597,
+        "LONGITUDE": 148.217453,
+        "REGHH": 6,
+        "TOTPOP2000": 47,
+        "MALE2000": 22,
+        "FEMALE2000": 25,
+        "POP2008": 55,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010318021,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

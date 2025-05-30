@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.96604600022283,
+          -5.674202000321998
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21815,
+        "CU_NAME": "MT. KARE 2",
+        "CU_NO": "001",
+        "GEOCODE": "07082820001",
+        "PROV_KEY": "21",
+        "DIST_NO": "3",
+        "LLG_NO": "28",
+        "WARD_NO": "20",
+        "WARD_NAME": "MT. KARE 2",
+        "LATITUDE": -5.688078,
+        "LONGITUDE": 142.988388,
+        "REGHH": 37,
+        "TOTPOP2000": 435,
+        "MALE2000": 287,
+        "FEMALE2000": 148,
+        "POP2008": 604,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7082820001,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

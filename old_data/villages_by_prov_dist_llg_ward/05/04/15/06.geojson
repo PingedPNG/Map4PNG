@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.87353999997106,
+          -9.810880000011934
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10250,
+        "CU_NAME": "SISIANA",
+        "CU_NO": "008",
+        "GEOCODE": "05041506008",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "06",
+        "WARD_NAME": "SISIANA",
+        "LATITUDE": -9.812344,
+        "LONGITUDE": 150.872563,
+        "REGHH": 135,
+        "TOTPOP2000": 622,
+        "MALE2000": 338,
+        "FEMALE2000": 284,
+        "POP2008": 758,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041506008,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10251,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.81822301028376,
+          -9.739161361907293
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10251,
+        "CU_NAME": "ESA'ALA GOVT. STATION",
+        "CU_NO": "401",
+        "GEOCODE": "05041506401",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "06",
+        "WARD_NAME": "SISIANA",
+        "LATITUDE": -9.739276,
+        "LONGITUDE": 150.817827,
+        "REGHH": 51,
+        "TOTPOP2000": 274,
+        "MALE2000": 139,
+        "FEMALE2000": 135,
+        "POP2008": 334,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041506401,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

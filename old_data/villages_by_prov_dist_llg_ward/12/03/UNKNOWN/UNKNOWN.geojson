@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 27721,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.94894323594167,
+          -6.702442257404186
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27721,
+        "CU_NAME": "5 Mile (Lae)",
+        "CU_NO": "846",
+        "GEOCODE": "846",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": null,
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": null,
+        "LONGITUDE": null,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": null,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": 846,
+        "PROVINCE": null
+      }
+    }
+  ]
+}

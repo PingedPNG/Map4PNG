@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16939,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.81819400025302,
+          -5.71914299984951
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16939,
+        "CU_NAME": "KILMIN",
+        "CU_NO": "019",
+        "GEOCODE": "09040703019",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "03",
+        "WARD_NAME": "KILMIN",
+        "LATITUDE": -5.720086,
+        "LONGITUDE": 144.8204,
+        "REGHH": 35,
+        "TOTPOP2000": 192,
+        "MALE2000": 102,
+        "FEMALE2000": 90,
+        "POP2008": 234,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040703019,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16940,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.82081399966637,
+          -5.708607999659421
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16940,
+        "CU_NAME": "YAMBEDOP",
+        "CU_NO": "020",
+        "GEOCODE": "09040703020",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "03",
+        "WARD_NAME": "KILMIN",
+        "LATITUDE": -5.709541,
+        "LONGITUDE": 144.820223,
+        "REGHH": 27,
+        "TOTPOP2000": 136,
+        "MALE2000": 76,
+        "FEMALE2000": 60,
+        "POP2008": 166,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040703020,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16941,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.82897600014235,
+          -5.69543400007899
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16941,
+        "CU_NAME": "KUIBANGIM",
+        "CU_NO": "021",
+        "GEOCODE": "09040703021",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "03",
+        "WARD_NAME": "KILMIN",
+        "LATITUDE": -5.69637,
+        "LONGITUDE": 144.829317,
+        "REGHH": 36,
+        "TOTPOP2000": 146,
+        "MALE2000": 79,
+        "FEMALE2000": 67,
+        "POP2008": 178,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040703021,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4994,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.156988000296,
+          -4.48160599971709
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4994,
+        "CU_NAME": "SUNAM",
+        "CU_NO": "015",
+        "GEOCODE": "18031312015",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.483009,
+        "LONGITUDE": 152.156042,
+        "REGHH": 107,
+        "TOTPOP2000": 672,
+        "MALE2000": 355,
+        "FEMALE2000": 317,
+        "POP2008": 819,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312015,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4995,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.15482500037353,
+          -4.493487999971194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4995,
+        "CU_NAME": "WARANGOI STN",
+        "CU_NO": "402",
+        "GEOCODE": "18031312402",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.494567,
+        "LONGITUDE": 152.155178,
+        "REGHH": 58,
+        "TOTPOP2000": 387,
+        "MALE2000": 213,
+        "FEMALE2000": 174,
+        "POP2008": 471,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312402,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4996,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.20278399968186,
+          -4.457949999692687
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4996,
+        "CU_NAME": "WARANGOI SAWMILL",
+        "CU_NO": "405",
+        "GEOCODE": "18031312405",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.459352,
+        "LONGITUDE": 152.201838,
+        "REGHH": 36,
+        "TOTPOP2000": 242,
+        "MALE2000": 143,
+        "FEMALE2000": 99,
+        "POP2008": 295,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312405,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4997,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.15370499998585,
+          -4.496055999684586
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4997,
+        "CU_NAME": "WARONGOI SETT (CARE CENTRE)",
+        "CU_NO": "407",
+        "GEOCODE": "18031312407",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.497459,
+        "LONGITUDE": 152.152759,
+        "REGHH": 12,
+        "TOTPOP2000": 52,
+        "MALE2000": 27,
+        "FEMALE2000": 25,
+        "POP2008": 60,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312407,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4998,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.14176499975497,
+          -4.512095000084116
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4998,
+        "CU_NAME": "RUM JUNGLE PLANTATION",
+        "CU_NO": "512",
+        "GEOCODE": "18031312512",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.513498,
+        "LONGITUDE": 152.140818,
+        "REGHH": 24,
+        "TOTPOP2000": 144,
+        "MALE2000": 99,
+        "FEMALE2000": 45,
+        "POP2008": 176,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312512,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4999,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.14113100019551,
+          -4.518188999622566
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4999,
+        "CU_NAME": "TUNA PUNA PLANTATION",
+        "CU_NO": "516",
+        "GEOCODE": "18031312516",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.519592,
+        "LONGITUDE": 152.140184,
+        "REGHH": 14,
+        "TOTPOP2000": 109,
+        "MALE2000": 65,
+        "FEMALE2000": 44,
+        "POP2008": 133,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312516,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1516689996247,
+          -4.501068999734514
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5000,
+        "CU_NAME": "WARICK PLANTATION",
+        "CU_NO": "518",
+        "GEOCODE": "18031312518",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.502472,
+        "LONGITUDE": 152.150723,
+        "REGHH": 29,
+        "TOTPOP2000": 133,
+        "MALE2000": 97,
+        "FEMALE2000": 36,
+        "POP2008": 162,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312518,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5001,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.16406800033803,
+          -4.469206999903065
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5001,
+        "CU_NAME": "WARANGOI SETTLEMENT",
+        "CU_NO": "522",
+        "GEOCODE": "18031312522",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.470611,
+        "LONGITUDE": 152.163122,
+        "REGHH": 95,
+        "TOTPOP2000": 579,
+        "MALE2000": 320,
+        "FEMALE2000": 259,
+        "POP2008": 705,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312522,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.12750999978675,
+          -4.457709000270086
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5002,
+        "CU_NAME": "DEEP DEEN",
+        "CU_NO": "523",
+        "GEOCODE": "18031312523",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.459111,
+        "LONGITUDE": 152.126563,
+        "REGHH": 15,
+        "TOTPOP2000": 51,
+        "MALE2000": 36,
+        "FEMALE2000": 15,
+        "POP2008": 59,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312523,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.18264199982855,
+          -4.460056999730682
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5003,
+        "CU_NAME": "NUKUMAL PLANTATION",
+        "CU_NO": "527",
+        "GEOCODE": "18031312527",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.461459,
+        "LONGITUDE": 152.181696,
+        "REGHH": 19,
+        "TOTPOP2000": 101,
+        "MALE2000": 63,
+        "FEMALE2000": 38,
+        "POP2008": 125,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312527,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.20132099966452,
+          -4.459764999754896
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5004,
+        "CU_NAME": "PALAKAU PLANTATION",
+        "CU_NO": "528",
+        "GEOCODE": "18031312528",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.461167,
+        "LONGITUDE": 152.200375,
+        "REGHH": 14,
+        "TOTPOP2000": 93,
+        "MALE2000": 59,
+        "FEMALE2000": 34,
+        "POP2008": 113,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312528,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5005,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.117453000056,
+          -4.512877000173376
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5005,
+        "CU_NAME": "RUNG CREEK",
+        "CU_NO": "531",
+        "GEOCODE": "18031312531",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.51428,
+        "LONGITUDE": 152.116506,
+        "REGHH": 13,
+        "TOTPOP2000": 76,
+        "MALE2000": 50,
+        "FEMALE2000": 26,
+        "POP2008": 92,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312531,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5006,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.15783899996995,
+          -4.48665899981296
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5006,
+        "CU_NAME": "WING MOW PLANTATION",
+        "CU_NO": "534",
+        "GEOCODE": "18031312534",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.488062,
+        "LONGITUDE": 152.156893,
+        "REGHH": 14,
+        "TOTPOP2000": 90,
+        "MALE2000": 59,
+        "FEMALE2000": 31,
+        "POP2008": 108,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312534,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1660570003304,
+          -4.4686629999973775
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5007,
+        "CU_NAME": "LAUP PLANTATION",
+        "CU_NO": "538",
+        "GEOCODE": "18031312538",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.470066,
+        "LONGITUDE": 152.165111,
+        "REGHH": 12,
+        "TOTPOP2000": 68,
+        "MALE2000": 44,
+        "FEMALE2000": 24,
+        "POP2008": 84,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312538,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1941170001994,
+          -4.477361000010092
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5008,
+        "CU_NAME": "WARANGOI BUFFALO STN",
+        "CU_NO": "549",
+        "GEOCODE": "18031312549",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.478764,
+        "LONGITUDE": 152.193171,
+        "REGHH": 10,
+        "TOTPOP2000": 35,
+        "MALE2000": 23,
+        "FEMALE2000": 12,
+        "POP2008": 43,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312549,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5009,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.23393800013866,
+          -4.4948899998735214
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5009,
+        "CU_NAME": "SIKUT SETTLEMENT",
+        "CU_NO": "550",
+        "GEOCODE": "18031312550",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.496293,
+        "LONGITUDE": 152.232993,
+        "REGHH": 81,
+        "TOTPOP2000": 558,
+        "MALE2000": 309,
+        "FEMALE2000": 249,
+        "POP2008": 680,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312550,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5010,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.17471300020486,
+          -4.527566000370598
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5010,
+        "CU_NAME": "KABEREKA",
+        "CU_NO": "551",
+        "GEOCODE": "18031312551",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.528969,
+        "LONGITUDE": 152.173767,
+        "REGHH": 36,
+        "TOTPOP2000": 199,
+        "MALE2000": 112,
+        "FEMALE2000": 87,
+        "POP2008": 242,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312551,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5011,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.19158100016307,
+          -4.501364999894804
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5011,
+        "CU_NAME": "IVON SETTLEMENT",
+        "CU_NO": "552",
+        "GEOCODE": "18031312552",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.502768,
+        "LONGITUDE": 152.190635,
+        "REGHH": 29,
+        "TOTPOP2000": 234,
+        "MALE2000": 127,
+        "FEMALE2000": 107,
+        "POP2008": 285,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312552,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5012,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1561260001149,
+          -4.491427000255783
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5012,
+        "CU_NAME": "WARANGOI H/SCH",
+        "CU_NO": "555",
+        "GEOCODE": "18031312555",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.494567,
+        "LONGITUDE": 152.155178,
+        "REGHH": 17,
+        "TOTPOP2000": 110,
+        "MALE2000": 59,
+        "FEMALE2000": 51,
+        "POP2008": 134,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312555,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5013,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.19900900006542,
+          -4.525996999961535
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5013,
+        "CU_NAME": "GORE SETT",
+        "CU_NO": "556",
+        "GEOCODE": "18031312556",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.5274,
+        "LONGITUDE": 152.198063,
+        "REGHH": 26,
+        "TOTPOP2000": 161,
+        "MALE2000": 85,
+        "FEMALE2000": 76,
+        "POP2008": 196,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312556,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5014,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.25626600007593,
+          -4.476193000106832
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5014,
+        "CU_NAME": "WALIRUA",
+        "CU_NO": "557",
+        "GEOCODE": "18031312557",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "12",
+        "WARD_NAME": "SUNAM",
+        "LATITUDE": -4.476253,
+        "LONGITUDE": 152.254787,
+        "REGHH": 11,
+        "TOTPOP2000": 69,
+        "MALE2000": 38,
+        "FEMALE2000": 31,
+        "POP2008": 85,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031312557,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

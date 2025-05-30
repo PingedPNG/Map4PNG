@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16249,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.28220499996087,
+          -5.727812000323524
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16249,
+        "CU_NAME": "KARALDONG",
+        "CU_NO": "019",
+        "GEOCODE": "09020309019",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "KARALDONG",
+        "LATITUDE": -5.728748,
+        "LONGITUDE": 144.282539,
+        "REGHH": 100,
+        "TOTPOP2000": 371,
+        "MALE2000": 193,
+        "FEMALE2000": 178,
+        "POP2008": 451,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020309019,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.28066199985153,
+          -5.725287999941202
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16250,
+        "CU_NAME": "ANDAORANG",
+        "CU_NO": "020",
+        "GEOCODE": "09020309020",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "KARALDONG",
+        "LATITUDE": -5.726224,
+        "LONGITUDE": 144.280996,
+        "REGHH": 51,
+        "TOTPOP2000": 174,
+        "MALE2000": 87,
+        "FEMALE2000": 87,
+        "POP2008": 212,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020309020,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16251,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.27000999966185,
+          -5.720284000306322
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16251,
+        "CU_NAME": "GAGLNGA",
+        "CU_NO": "021",
+        "GEOCODE": "09020309021",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "KARALDONG",
+        "LATITUDE": -5.72122,
+        "LONGITUDE": 144.270344,
+        "REGHH": 38,
+        "TOTPOP2000": 136,
+        "MALE2000": 65,
+        "FEMALE2000": 71,
+        "POP2008": 166,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020309021,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.27192399979288,
+          -5.711656999970501
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16252,
+        "CU_NAME": "MAMA",
+        "CU_NO": "022",
+        "GEOCODE": "09020309022",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "KARALDONG",
+        "LATITUDE": -5.712594,
+        "LONGITUDE": 144.272258,
+        "REGHH": 38,
+        "TOTPOP2000": 128,
+        "MALE2000": 61,
+        "FEMALE2000": 67,
+        "POP2008": 156,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020309022,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16253,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.27238999969882,
+          -5.704241999768442
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16253,
+        "CU_NAME": "PULGUM",
+        "CU_NO": "023",
+        "GEOCODE": "09020309023",
+        "PROV_KEY": "09",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "09",
+        "WARD_NAME": "KARALDONG",
+        "LATITUDE": -5.705179,
+        "LONGITUDE": 144.272724,
+        "REGHH": 40,
+        "TOTPOP2000": 143,
+        "MALE2000": 84,
+        "FEMALE2000": 59,
+        "POP2008": 175,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9020309023,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

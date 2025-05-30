@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11583,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.13251599981356,
+          -6.121114000011062
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11583,
+        "CU_NAME": "WARITZIAN",
+        "CU_NO": "012",
+        "GEOCODE": "12061802012",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARITZIAN",
+        "LATITUDE": -6.122527,
+        "LONGITUDE": 146.131481,
+        "REGHH": 176,
+        "TOTPOP2000": 836,
+        "MALE2000": 410,
+        "FEMALE2000": 426,
+        "POP2008": 1042,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061802012,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

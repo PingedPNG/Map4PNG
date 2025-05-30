@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.03911999958837,
+          -8.460352999990903
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10114,
+        "CU_NAME": "GILIGALI",
+        "CU_NO": "003",
+        "GEOCODE": "05031211003",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "KURUVITU",
+        "LATITUDE": -8.461803,
+        "LONGITUDE": 151.038149,
+        "REGHH": 23,
+        "TOTPOP2000": 110,
+        "MALE2000": 59,
+        "FEMALE2000": 51,
+        "POP2008": 134,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031211003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.04266000005907,
+          -8.454879000265578
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10115,
+        "CU_NAME": "KURUVITU",
+        "CU_NO": "016",
+        "GEOCODE": "05031211016",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "KURUVITU",
+        "LATITUDE": -8.462343,
+        "LONGITUDE": 151.041281,
+        "REGHH": 57,
+        "TOTPOP2000": 348,
+        "MALE2000": 186,
+        "FEMALE2000": 162,
+        "POP2008": 424,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031211016,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.02793199986195,
+          -8.467807000192863
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10116,
+        "CU_NAME": "LIBUTUMA",
+        "CU_NO": "019",
+        "GEOCODE": "05031211019",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "KURUVITU",
+        "LATITUDE": -8.469257,
+        "LONGITUDE": 151.026961,
+        "REGHH": 46,
+        "TOTPOP2000": 247,
+        "MALE2000": 132,
+        "FEMALE2000": 115,
+        "POP2008": 300,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031211019,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.09884099991223,
+          -8.496136999922555
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10117,
+        "CU_NAME": "WAIAKIKI",
+        "CU_NO": "032",
+        "GEOCODE": "05031211032",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "KURUVITU",
+        "LATITUDE": -8.497587,
+        "LONGITUDE": 151.097871,
+        "REGHH": 18,
+        "TOTPOP2000": 86,
+        "MALE2000": 46,
+        "FEMALE2000": 40,
+        "POP2008": 102,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031211032,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

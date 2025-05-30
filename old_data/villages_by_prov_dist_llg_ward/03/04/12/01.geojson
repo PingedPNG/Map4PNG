@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1656,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.51704700041876,
+          -9.80189700034623
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1656,
+        "CU_NAME": "GABAGABA",
+        "CU_NO": "019",
+        "GEOCODE": "03041201019",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "01",
+        "WARD_NAME": "GABAGABA",
+        "LATITUDE": -9.803351,
+        "LONGITUDE": 147.516022,
+        "REGHH": 208,
+        "TOTPOP2000": 1584,
+        "MALE2000": 835,
+        "FEMALE2000": 749,
+        "POP2008": 1900,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041201019,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

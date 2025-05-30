@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15340,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.11633800029858,
+          -6.003820000392636
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15340,
+        "CU_NAME": "IERAN",
+        "CU_NO": "004",
+        "GEOCODE": "01020627004",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "27",
+        "WARD_NAME": "IERAN",
+        "LATITUDE": -6.005222,
+        "LONGITUDE": 141.115241,
+        "REGHH": 15,
+        "TOTPOP2000": 93,
+        "MALE2000": 39,
+        "FEMALE2000": 54,
+        "POP2008": 120,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020627004,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

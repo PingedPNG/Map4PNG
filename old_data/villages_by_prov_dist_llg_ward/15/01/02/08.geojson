@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18366,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.99806999963084,
+          -3.472997000411169
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18366,
+        "CU_NAME": "BORU'UM",
+        "CU_NO": "003",
+        "GEOCODE": "15010208003",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "TAUTE",
+        "LATITUDE": -3.474375,
+        "LONGITUDE": 141.996987,
+        "REGHH": 16,
+        "TOTPOP2000": 72,
+        "MALE2000": 38,
+        "FEMALE2000": 34,
+        "POP2008": 88,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010208003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18367,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.00043599992148,
+          -3.4994150001021467
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18367,
+        "CU_NAME": "LAU'UM",
+        "CU_NO": "008",
+        "GEOCODE": "15010208008",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "TAUTE",
+        "LATITUDE": -3.500793,
+        "LONGITUDE": 141.999353,
+        "REGHH": 27,
+        "TOTPOP2000": 136,
+        "MALE2000": 61,
+        "FEMALE2000": 75,
+        "POP2008": 164,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010208008,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18368,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.99725699991063,
+          -3.4818939997082907
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18368,
+        "CU_NAME": "TAUTE",
+        "CU_NO": "024",
+        "GEOCODE": "15010208024",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "TAUTE",
+        "LATITUDE": -3.483272,
+        "LONGITUDE": 141.996174,
+        "REGHH": 52,
+        "TOTPOP2000": 266,
+        "MALE2000": 126,
+        "FEMALE2000": 140,
+        "POP2008": 322,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010208024,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18369,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.99550600010184,
+          -3.5169619998963526
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18369,
+        "CU_NAME": "WILKILI",
+        "CU_NO": "029",
+        "GEOCODE": "15010208029",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "TAUTE",
+        "LATITUDE": -3.514345,
+        "LONGITUDE": 141.997823,
+        "REGHH": 35,
+        "TOTPOP2000": 187,
+        "MALE2000": 94,
+        "FEMALE2000": 93,
+        "POP2008": 226,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010208029,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

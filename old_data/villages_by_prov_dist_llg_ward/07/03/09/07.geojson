@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19877,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.90095300018083,
+          -6.413784000431235
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19877,
+        "CU_NAME": "KOALI",
+        "CU_NO": "001",
+        "GEOCODE": "07030907001",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "07",
+        "WARD_NAME": "KOALILOMBO",
+        "LATITUDE": -6.415283,
+        "LONGITUDE": 143.901641,
+        "REGHH": 73,
+        "TOTPOP2000": 322,
+        "MALE2000": 156,
+        "FEMALE2000": 166,
+        "POP2008": 448,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030907001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19878,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.90173700036235,
+          -6.412147999630406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19878,
+        "CU_NAME": "LOMBO",
+        "CU_NO": "002",
+        "GEOCODE": "07030907002",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "07",
+        "WARD_NAME": "KOALILOMBO",
+        "LATITUDE": -6.415283,
+        "LONGITUDE": 143.901641,
+        "REGHH": 122,
+        "TOTPOP2000": 721,
+        "MALE2000": 357,
+        "FEMALE2000": 364,
+        "POP2008": 1002,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030907002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19879,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9068430002044,
+          -6.412653000435569
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19879,
+        "CU_NAME": "MOLOLOMA",
+        "CU_NO": "003",
+        "GEOCODE": "07030907003",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "07",
+        "WARD_NAME": "KOALILOMBO",
+        "LATITUDE": -6.415283,
+        "LONGITUDE": 143.901641,
+        "REGHH": 19,
+        "TOTPOP2000": 115,
+        "MALE2000": 55,
+        "FEMALE2000": 60,
+        "POP2008": 159,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030907003,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

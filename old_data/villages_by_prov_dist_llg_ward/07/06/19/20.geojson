@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21054,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.50177900040057,
+          -5.968857999696866
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21054,
+        "CU_NAME": "NANJ/SOL",
+        "CU_NO": "020",
+        "GEOCODE": "07061920020",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "20",
+        "WARD_NAME": "SOL",
+        "LATITUDE": -5.962331,
+        "LONGITUDE": 143.48446,
+        "REGHH": 58,
+        "TOTPOP2000": 429,
+        "MALE2000": 225,
+        "FEMALE2000": 204,
+        "POP2008": 596,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061920020,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21055,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.51022499958412,
+          -5.973649000301066
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21055,
+        "CU_NAME": "SOMBAL TIL",
+        "CU_NO": "021",
+        "GEOCODE": "07061920021",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "20",
+        "WARD_NAME": "SOL",
+        "LATITUDE": -5.967611,
+        "LONGITUDE": 143.492423,
+        "REGHH": 68,
+        "TOTPOP2000": 405,
+        "MALE2000": 215,
+        "FEMALE2000": 190,
+        "POP2008": 563,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061920021,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21056,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.50687699987373,
+          -5.9708150000121805
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21056,
+        "CU_NAME": "KENDOR",
+        "CU_NO": "022",
+        "GEOCODE": "07061920022",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "20",
+        "WARD_NAME": "SOL",
+        "LATITUDE": -5.963804,
+        "LONGITUDE": 143.489071,
+        "REGHH": 53,
+        "TOTPOP2000": 318,
+        "MALE2000": 161,
+        "FEMALE2000": 157,
+        "POP2008": 441,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061920022,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

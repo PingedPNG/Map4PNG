@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30098,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3434389997101,
+          -6.343122959656796
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30098,
+        "CU_NAME": "DEREPAMOA",
+        "CU_NO": "005",
+        "GEOCODE": "11050719005",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "19",
+        "WARD_NAME": "MENILO",
+        "LATITUDE": -6.343123,
+        "LONGITUDE": 145.343439,
+        "REGHH": 39,
+        "TOTPOP2000": 145,
+        "MALE2000": 68,
+        "FEMALE2000": 77,
+        "POP2008": 172,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30099,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.34167895991618,
+          -6.348593430442406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30099,
+        "CU_NAME": "HEGETORU",
+        "CU_NO": "015",
+        "GEOCODE": "11050719015",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "19",
+        "WARD_NAME": "MENILO",
+        "LATITUDE": -6.348593,
+        "LONGITUDE": 145.341679,
+        "REGHH": 48,
+        "TOTPOP2000": 219,
+        "MALE2000": 103,
+        "FEMALE2000": 116,
+        "POP2008": 260,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.33539803988765,
+          -6.327098010264933
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30100,
+        "CU_NAME": "MENILO",
+        "CU_NO": "051",
+        "GEOCODE": "11050719051",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "19",
+        "WARD_NAME": "MENILO",
+        "LATITUDE": -6.327098,
+        "LONGITUDE": 145.335398,
+        "REGHH": 43,
+        "TOTPOP2000": 171,
+        "MALE2000": 96,
+        "FEMALE2000": 75,
+        "POP2008": 203,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.33453224007087,
+          -6.339178259768801
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30101,
+        "CU_NAME": "KAKEMUTO",
+        "CU_NO": "053",
+        "GEOCODE": "11050719053",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "19",
+        "WARD_NAME": "MENILO",
+        "LATITUDE": -6.339178,
+        "LONGITUDE": 145.334532,
+        "REGHH": 20,
+        "TOTPOP2000": 82,
+        "MALE2000": 46,
+        "FEMALE2000": 36,
+        "POP2008": 98,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.34002187990586,
+          -6.341145569912101
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30102,
+        "CU_NAME": "JAGIVI",
+        "CU_NO": "056",
+        "GEOCODE": "11050719056",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "19",
+        "WARD_NAME": "MENILO",
+        "LATITUDE": -6.341146,
+        "LONGITUDE": 145.340022,
+        "REGHH": 48,
+        "TOTPOP2000": 210,
+        "MALE2000": 106,
+        "FEMALE2000": 104,
+        "POP2008": 250,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

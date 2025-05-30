@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10154,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0863690003291,
+          -8.702822000235074
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10154,
+        "CU_NAME": "LOYA",
+        "CU_NO": "001",
+        "GEOCODE": "05031225001",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "25",
+        "WARD_NAME": "LOYA",
+        "LATITUDE": -8.704275,
+        "LONGITUDE": 151.085398,
+        "REGHH": 68,
+        "TOTPOP2000": 376,
+        "MALE2000": 205,
+        "FEMALE2000": 171,
+        "POP2008": 458,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031225001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.08942199992543,
+          -8.717600000039909
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10155,
+        "CU_NAME": "OKAYAULA",
+        "CU_NO": "004",
+        "GEOCODE": "05031225004",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "25",
+        "WARD_NAME": "LOYA",
+        "LATITUDE": -8.719053,
+        "LONGITUDE": 151.088451,
+        "REGHH": 48,
+        "TOTPOP2000": 287,
+        "MALE2000": 158,
+        "FEMALE2000": 129,
+        "POP2008": 350,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031225004,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

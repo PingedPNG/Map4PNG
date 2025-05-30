@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.19407200032265,
+          -3.9611030004031136
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19003,
+        "CU_NAME": "YABRU NO 2",
+        "CU_NO": "002",
+        "GEOCODE": "15041420002",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "20",
+        "WARD_NAME": "YABRU",
+        "LATITUDE": -3.962485,
+        "LONGITUDE": 141.192979,
+        "REGHH": 36,
+        "TOTPOP2000": 248,
+        "MALE2000": 125,
+        "FEMALE2000": 123,
+        "POP2008": 300,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041420002,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.21241599999848,
+          -3.9603970002213487
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19004,
+        "CU_NAME": "YABRU NO 1",
+        "CU_NO": "008",
+        "GEOCODE": "15041420008",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "20",
+        "WARD_NAME": "YABRU",
+        "LATITUDE": -3.970905,
+        "LONGITUDE": 141.201105,
+        "REGHH": 54,
+        "TOTPOP2000": 399,
+        "MALE2000": 206,
+        "FEMALE2000": 193,
+        "POP2008": 483,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041420008,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

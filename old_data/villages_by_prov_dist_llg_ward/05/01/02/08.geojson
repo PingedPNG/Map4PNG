@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9597,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.43066899977464,
+          -9.891099999565256
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9597,
+        "CU_NAME": "UNI",
+        "CU_NO": "014",
+        "GEOCODE": "05010208014",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "08",
+        "WARD_NAME": "UNI",
+        "LATITUDE": -9.892561,
+        "LONGITUDE": 149.429671,
+        "REGHH": 69,
+        "TOTPOP2000": 380,
+        "MALE2000": 183,
+        "FEMALE2000": 197,
+        "POP2008": 462,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010208014,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

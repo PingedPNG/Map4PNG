@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.12611699959996,
+          -5.847941000276876
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5100,
+        "CU_NAME": "LILA",
+        "CU_NO": "006",
+        "GEOCODE": "18031432006",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "32",
+        "WARD_NAME": "KRENGKORONA",
+        "LATITUDE": -5.845015,
+        "LONGITUDE": 151.124445,
+        "REGHH": 13,
+        "TOTPOP2000": 88,
+        "MALE2000": 44,
+        "FEMALE2000": 44,
+        "POP2008": 105,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031432006,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1206320002667,
+          -5.804136000076312
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5101,
+        "CU_NAME": "KRENGKORONA",
+        "CU_NO": "007",
+        "GEOCODE": "18031432007",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "32",
+        "WARD_NAME": "KRENGKORONA",
+        "LATITUDE": -5.805554,
+        "LONGITUDE": 151.119668,
+        "REGHH": 11,
+        "TOTPOP2000": 84,
+        "MALE2000": 37,
+        "FEMALE2000": 47,
+        "POP2008": 100,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031432007,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.18743099964104,
+          -5.846040999892182
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5102,
+        "CU_NAME": "KEREWA",
+        "CU_NO": "008",
+        "GEOCODE": "18031432008",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "32",
+        "WARD_NAME": "KRENGKORONA",
+        "LATITUDE": -5.84746,
+        "LONGITUDE": 151.186468,
+        "REGHH": 15,
+        "TOTPOP2000": 82,
+        "MALE2000": 34,
+        "FEMALE2000": 48,
+        "POP2008": 98,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031432008,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.71115099981887,
+          -5.814460000428653
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20827,
+        "CU_NAME": "KOMA",
+        "CU_NO": "001",
+        "GEOCODE": "07051624001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "16",
+        "WARD_NO": "24",
+        "WARD_NAME": "IALUBA 2",
+        "LATITUDE": -5.814233,
+        "LONGITUDE": 142.713626,
+        "REGHH": 87,
+        "TOTPOP2000": 281,
+        "MALE2000": 154,
+        "FEMALE2000": 127,
+        "POP2008": 390,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051624001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20828,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.7038460001928,
+          -5.810677999589984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20828,
+        "CU_NAME": "TOBANI",
+        "CU_NO": "002",
+        "GEOCODE": "07051624002",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "16",
+        "WARD_NO": "24",
+        "WARD_NAME": "IALUBA 2",
+        "LATITUDE": -5.814233,
+        "LONGITUDE": 142.713626,
+        "REGHH": 54,
+        "TOTPOP2000": 221,
+        "MALE2000": 112,
+        "FEMALE2000": 109,
+        "POP2008": 307,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051624002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20829,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.71660699961342,
+          -5.809626999686259
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20829,
+        "CU_NAME": "TUKUPA",
+        "CU_NO": "003",
+        "GEOCODE": "07051624003",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "16",
+        "WARD_NO": "24",
+        "WARD_NAME": "IALUBA 2",
+        "LATITUDE": -5.814233,
+        "LONGITUDE": 142.713626,
+        "REGHH": 27,
+        "TOTPOP2000": 91,
+        "MALE2000": 52,
+        "FEMALE2000": 39,
+        "POP2008": 126,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051624003,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

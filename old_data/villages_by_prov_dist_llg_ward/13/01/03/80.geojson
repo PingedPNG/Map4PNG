@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8069,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97559599955582,
+          -4.267241999618534
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8069,
+        "CU_NAME": "BOGIA URBAN",
+        "CU_NO": "001",
+        "GEOCODE": "13010380001",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "80",
+        "WARD_NAME": "BOGIA URBAN",
+        "LATITUDE": -4.272945,
+        "LONGITUDE": 144.972388,
+        "REGHH": 107,
+        "TOTPOP2000": 750,
+        "MALE2000": 416,
+        "FEMALE2000": 334,
+        "POP2008": 928,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010380001,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

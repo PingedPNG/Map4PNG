@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18666,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.83974299993952,
+          -3.9355459999479194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18666,
+        "CU_NAME": "AKWOM",
+        "CU_NO": "003",
+        "GEOCODE": "15030803003",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "03",
+        "WARD_NAME": "AKWOM",
+        "LATITUDE": -3.938724,
+        "LONGITUDE": 141.833174,
+        "REGHH": 49,
+        "TOTPOP2000": 287,
+        "MALE2000": 143,
+        "FEMALE2000": 144,
+        "POP2008": 347,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030803003,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18667,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.8345509997289,
+          -3.9223480001600137
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18667,
+        "CU_NAME": "NAUM",
+        "CU_NO": "012",
+        "GEOCODE": "15030803012",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "03",
+        "WARD_NAME": "AKWOM",
+        "LATITUDE": -3.923731,
+        "LONGITUDE": 141.833466,
+        "REGHH": 40,
+        "TOTPOP2000": 218,
+        "MALE2000": 109,
+        "FEMALE2000": 109,
+        "POP2008": 263,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030803012,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18668,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.80782999955488,
+          -3.942943000219259
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18668,
+        "CU_NAME": "LUWAWO (AIENDAMI)",
+        "CU_NO": "026",
+        "GEOCODE": "15030803026",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "03",
+        "WARD_NAME": "AKWOM",
+        "LATITUDE": -3.944326,
+        "LONGITUDE": 141.806744,
+        "REGHH": 19,
+        "TOTPOP2000": 118,
+        "MALE2000": 54,
+        "FEMALE2000": 64,
+        "POP2008": 142,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15030803026,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

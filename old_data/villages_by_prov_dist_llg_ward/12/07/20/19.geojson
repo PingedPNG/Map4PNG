@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11910,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.16785399986225,
+          -7.373486999925035
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11910,
+        "CU_NAME": "AIYAWA",
+        "CU_NO": "001",
+        "GEOCODE": "12072019001",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "19",
+        "WARD_NAME": "POIYU",
+        "LATITUDE": -7.374913,
+        "LONGITUDE": 146.166817,
+        "REGHH": 48,
+        "TOTPOP2000": 275,
+        "MALE2000": 135,
+        "FEMALE2000": 140,
+        "POP2008": 343,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072019001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11911,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.16215299956139,
+          -7.382591999820875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11911,
+        "CU_NAME": "PAKIA",
+        "CU_NO": "005",
+        "GEOCODE": "12072019005",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "19",
+        "WARD_NAME": "POIYU",
+        "LATITUDE": -7.384018,
+        "LONGITUDE": 146.161116,
+        "REGHH": 68,
+        "TOTPOP2000": 334,
+        "MALE2000": 169,
+        "FEMALE2000": 165,
+        "POP2008": 416,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072019005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1558949996546,
+          -7.413382999725627
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11912,
+        "CU_NAME": "KILAPAMINGA",
+        "CU_NO": "007",
+        "GEOCODE": "12072019007",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "19",
+        "WARD_NAME": "POIYU",
+        "LATITUDE": -7.41481,
+        "LONGITUDE": 146.154858,
+        "REGHH": 26,
+        "TOTPOP2000": 130,
+        "MALE2000": 63,
+        "FEMALE2000": 67,
+        "POP2008": 162,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072019007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11913,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.16092400044238,
+          -7.398422999621687
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11913,
+        "CU_NAME": "AKONA",
+        "CU_NO": "008",
+        "GEOCODE": "12072019008",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "19",
+        "WARD_NAME": "POIYU",
+        "LATITUDE": -7.39985,
+        "LONGITUDE": 146.159887,
+        "REGHH": 30,
+        "TOTPOP2000": 147,
+        "MALE2000": 73,
+        "FEMALE2000": 74,
+        "POP2008": 183,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072019008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11914,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.16045999972926,
+          -7.394637000397211
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11914,
+        "CU_NAME": "POIYU",
+        "CU_NO": "017",
+        "GEOCODE": "12072019017",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "19",
+        "WARD_NAME": "POIYU",
+        "LATITUDE": -7.393617,
+        "LONGITUDE": 146.155936,
+        "REGHH": 163,
+        "TOTPOP2000": 791,
+        "MALE2000": 400,
+        "FEMALE2000": 391,
+        "POP2008": 986,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072019017,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11915,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1623610001601,
+          -7.408395999975369
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11915,
+        "CU_NAME": "YEWATA",
+        "CU_NO": "018",
+        "GEOCODE": "12072019018",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "19",
+        "WARD_NAME": "POIYU",
+        "LATITUDE": -7.409823,
+        "LONGITUDE": 146.161324,
+        "REGHH": 32,
+        "TOTPOP2000": 181,
+        "MALE2000": 91,
+        "FEMALE2000": 90,
+        "POP2008": 225,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072019018,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

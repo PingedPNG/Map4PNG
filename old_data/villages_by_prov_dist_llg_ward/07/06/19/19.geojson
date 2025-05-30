@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21050,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.52405000040721,
+          -5.9816949999242865
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21050,
+        "CU_NAME": "MARARA",
+        "CU_NO": "009",
+        "GEOCODE": "07061919009",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "19",
+        "WARD_NAME": "MARARA",
+        "LATITUDE": -5.985569,
+        "LONGITUDE": 143.522434,
+        "REGHH": 54,
+        "TOTPOP2000": 320,
+        "MALE2000": 163,
+        "FEMALE2000": 157,
+        "POP2008": 445,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061919009,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21051,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5209729997042,
+          -5.9807919996509895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21051,
+        "CU_NAME": "ANAL",
+        "CU_NO": "010",
+        "GEOCODE": "07061919010",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "19",
+        "WARD_NAME": "MARARA",
+        "LATITUDE": -5.985569,
+        "LONGITUDE": 143.522434,
+        "REGHH": 90,
+        "TOTPOP2000": 660,
+        "MALE2000": 332,
+        "FEMALE2000": 328,
+        "POP2008": 917,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061919010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21052,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.52365800031657,
+          -5.9792680004178465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21052,
+        "CU_NAME": "PANDIA",
+        "CU_NO": "011",
+        "GEOCODE": "07061919011",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "19",
+        "WARD_NAME": "MARARA",
+        "LATITUDE": -5.985569,
+        "LONGITUDE": 143.522434,
+        "REGHH": 69,
+        "TOTPOP2000": 377,
+        "MALE2000": 193,
+        "FEMALE2000": 184,
+        "POP2008": 524,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061919011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21053,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.51853699978278,
+          -5.985449000371034
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21053,
+        "CU_NAME": "TIPIA/KANEP",
+        "CU_NO": "012",
+        "GEOCODE": "07061919012",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "19",
+        "WARD_NAME": "MARARA",
+        "LATITUDE": -5.985569,
+        "LONGITUDE": 143.522434,
+        "REGHH": 19,
+        "TOTPOP2000": 114,
+        "MALE2000": 64,
+        "FEMALE2000": 50,
+        "POP2008": 158,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061919012,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

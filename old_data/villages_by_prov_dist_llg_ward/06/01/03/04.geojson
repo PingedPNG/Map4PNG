@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13243,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3827139999512,
+          -9.063344000025552
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13243,
+        "CU_NAME": "AWARU",
+        "CU_NO": "002",
+        "GEOCODE": "06010304002",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "KAURA",
+        "LATITUDE": -9.064793,
+        "LONGITUDE": 148.381703,
+        "REGHH": 60,
+        "TOTPOP2000": 324,
+        "MALE2000": 169,
+        "FEMALE2000": 155,
+        "POP2008": 401,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010304002,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13244,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.37944300019433,
+          -9.062146999684217
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13244,
+        "CU_NAME": "KAURA",
+        "CU_NO": "010",
+        "GEOCODE": "06010304010",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "KAURA",
+        "LATITUDE": -9.063596,
+        "LONGITUDE": 148.378432,
+        "REGHH": 71,
+        "TOTPOP2000": 394,
+        "MALE2000": 207,
+        "FEMALE2000": 187,
+        "POP2008": 489,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010304010,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

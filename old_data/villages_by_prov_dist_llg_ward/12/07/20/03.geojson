@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11819,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.20532500024865,
+          -7.341857000000516
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11819,
+        "CU_NAME": "HAWOMGA",
+        "CU_NO": "009",
+        "GEOCODE": "12072003009",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "03",
+        "WARD_NAME": "WINDUWE",
+        "LATITUDE": -7.343283,
+        "LONGITUDE": 146.204289,
+        "REGHH": 126,
+        "TOTPOP2000": 609,
+        "MALE2000": 305,
+        "FEMALE2000": 304,
+        "POP2008": 761,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072003009,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11820,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.22496999966586,
+          -7.362818999896888
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11820,
+        "CU_NAME": "KOKE",
+        "CU_NO": "020",
+        "GEOCODE": "12072003020",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "03",
+        "WARD_NAME": "WINDUWE",
+        "LATITUDE": -7.364245,
+        "LONGITUDE": 146.223934,
+        "REGHH": 122,
+        "TOTPOP2000": 585,
+        "MALE2000": 300,
+        "FEMALE2000": 285,
+        "POP2008": 729,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072003020,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11821,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.20629800015263,
+          -7.356026999646247
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11821,
+        "CU_NAME": "WINDUWE",
+        "CU_NO": "032",
+        "GEOCODE": "12072003032",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "03",
+        "WARD_NAME": "WINDUWE",
+        "LATITUDE": -7.357453,
+        "LONGITUDE": 146.205262,
+        "REGHH": 57,
+        "TOTPOP2000": 268,
+        "MALE2000": 137,
+        "FEMALE2000": 131,
+        "POP2008": 335,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072003032,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11822,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.20682800031204,
+          -7.368322000060232
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11822,
+        "CU_NAME": "WINGIA",
+        "CU_NO": "035",
+        "GEOCODE": "12072003035",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "03",
+        "WARD_NAME": "WINDUWE",
+        "LATITUDE": -7.369748,
+        "LONGITUDE": 146.205792,
+        "REGHH": 23,
+        "TOTPOP2000": 118,
+        "MALE2000": 63,
+        "FEMALE2000": 55,
+        "POP2008": 147,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072003035,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11823,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2171060003417,
+          -7.363362999802575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11823,
+        "CU_NAME": "PIU",
+        "CU_NO": "036",
+        "GEOCODE": "12072003036",
+        "PROV_KEY": "12",
+        "DIST_NO": "07",
+        "LLG_NO": "20",
+        "WARD_NO": "03",
+        "WARD_NAME": "WINDUWE",
+        "LATITUDE": -7.364789,
+        "LONGITUDE": 146.21607,
+        "REGHH": 35,
+        "TOTPOP2000": 200,
+        "MALE2000": 98,
+        "FEMALE2000": 102,
+        "POP2008": 250,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12072003036,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

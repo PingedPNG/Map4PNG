@@ -1,0 +1,549 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29302,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.65696588007143,
+          -6.187037309724019
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29302,
+        "CU_NAME": "KILAO",
+        "CU_NO": "007",
+        "GEOCODE": "11030407007",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "FININTUGU",
+        "LATITUDE": -6.187037,
+        "LONGITUDE": 145.656966,
+        "REGHH": 38,
+        "TOTPOP2000": 138,
+        "MALE2000": 68,
+        "FEMALE2000": 70,
+        "POP2008": 162,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29303,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.64622708001582,
+          -6.197541119626919
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29303,
+        "CU_NAME": "HOGAI",
+        "CU_NO": "009",
+        "GEOCODE": "11030407009",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "FININTUGU",
+        "LATITUDE": -6.197541,
+        "LONGITUDE": 145.646227,
+        "REGHH": 21,
+        "TOTPOP2000": 73,
+        "MALE2000": 40,
+        "FEMALE2000": 33,
+        "POP2008": 89,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29304,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.65252456016037,
+          -6.186862979742671
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29304,
+        "CU_NAME": "HOGOGONA",
+        "CU_NO": "023",
+        "GEOCODE": "11030407023",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "FININTUGU",
+        "LATITUDE": -6.186863,
+        "LONGITUDE": 145.652525,
+        "REGHH": 32,
+        "TOTPOP2000": 128,
+        "MALE2000": 56,
+        "FEMALE2000": 72,
+        "POP2008": 152,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29305,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.64243447976753,
+          -6.183108359663038
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29305,
+        "CU_NAME": "HIGORINTE",
+        "CU_NO": "034",
+        "GEOCODE": "11030407034",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "FININTUGU",
+        "LATITUDE": -6.183108,
+        "LONGITUDE": 145.642434,
+        "REGHH": 53,
+        "TOTPOP2000": 289,
+        "MALE2000": 146,
+        "FEMALE2000": 143,
+        "POP2008": 343,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29306,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6644099598518,
+          -6.195138120327954
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29306,
+        "CU_NAME": "NABAIGA",
+        "CU_NO": "035",
+        "GEOCODE": "11030407035",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "FININTUGU",
+        "LATITUDE": -6.195138,
+        "LONGITUDE": 145.66441,
+        "REGHH": 41,
+        "TOTPOP2000": 167,
+        "MALE2000": 90,
+        "FEMALE2000": 77,
+        "POP2008": 199,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29307,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.65493439970282,
+          -6.197725889837898
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29307,
+        "CU_NAME": "YABENAGAFARE",
+        "CU_NO": "036",
+        "GEOCODE": "11030407036",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "FININTUGU",
+        "LATITUDE": -6.197726,
+        "LONGITUDE": 145.654934,
+        "REGHH": 43,
+        "TOTPOP2000": 154,
+        "MALE2000": 78,
+        "FEMALE2000": 76,
+        "POP2008": 184,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29308,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.64893247995008,
+          -6.199114499734321
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29308,
+        "CU_NAME": "KRETUO",
+        "CU_NO": "037",
+        "GEOCODE": "11030407037",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "FININTUGU",
+        "LATITUDE": -6.199114,
+        "LONGITUDE": 145.648932,
+        "REGHH": 18,
+        "TOTPOP2000": 81,
+        "MALE2000": 44,
+        "FEMALE2000": 37,
+        "POP2008": 97,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6468790399358,
+          -6.187327920247299
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29309,
+        "CU_NAME": "KRORAPO",
+        "CU_NO": "038",
+        "GEOCODE": "11030407038",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "FININTUGU",
+        "LATITUDE": -6.187328,
+        "LONGITUDE": 145.646879,
+        "REGHH": 13,
+        "TOTPOP2000": 47,
+        "MALE2000": 20,
+        "FEMALE2000": 27,
+        "POP2008": 55,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29310,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.65229416014745,
+          -6.1835030100558015
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29310,
+        "CU_NAME": "KRUMANKA",
+        "CU_NO": "039",
+        "GEOCODE": "11030407039",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "FININTUGU",
+        "LATITUDE": -6.183503,
+        "LONGITUDE": 145.652294,
+        "REGHH": 13,
+        "TOTPOP2000": 52,
+        "MALE2000": 28,
+        "FEMALE2000": 24,
+        "POP2008": 60,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29311,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.66867091982715,
+          -6.190808759716447
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29311,
+        "CU_NAME": "MURUK",
+        "CU_NO": "040",
+        "GEOCODE": "11030407040",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "FININTUGU",
+        "LATITUDE": -6.190809,
+        "LONGITUDE": 145.668671,
+        "REGHH": 9,
+        "TOTPOP2000": 42,
+        "MALE2000": 21,
+        "FEMALE2000": 21,
+        "POP2008": 50,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29312,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.64370636036028,
+          -6.180756569560003
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29312,
+        "CU_NAME": "SOMEO",
+        "CU_NO": "041",
+        "GEOCODE": "11030407041",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "FININTUGU",
+        "LATITUDE": -6.180757,
+        "LONGITUDE": 145.643706,
+        "REGHH": 23,
+        "TOTPOP2000": 79,
+        "MALE2000": 37,
+        "FEMALE2000": 42,
+        "POP2008": 95,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29313,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6488421196682,
+          -6.172676730246849
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29313,
+        "CU_NAME": "KALIBOBO",
+        "CU_NO": "042",
+        "GEOCODE": "11030407042",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "FININTUGU",
+        "LATITUDE": -6.172677,
+        "LONGITUDE": 145.648842,
+        "REGHH": 25,
+        "TOTPOP2000": 87,
+        "MALE2000": 44,
+        "FEMALE2000": 43,
+        "POP2008": 103,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29314,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.639662119911,
+          -6.178000320158617
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29314,
+        "CU_NAME": "TRATE",
+        "CU_NO": "043",
+        "GEOCODE": "11030407043",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "FININTUGU",
+        "LATITUDE": -6.178,
+        "LONGITUDE": 145.639662,
+        "REGHH": 88,
+        "TOTPOP2000": 369,
+        "MALE2000": 195,
+        "FEMALE2000": 174,
+        "POP2008": 438,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29315,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.65202200011527,
+          -6.184713959781391
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29315,
+        "CU_NAME": "FULVENTE",
+        "CU_NO": "044",
+        "GEOCODE": "11030407044",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "FININTUGU",
+        "LATITUDE": -6.184714,
+        "LONGITUDE": 145.652022,
+        "REGHH": 33,
+        "TOTPOP2000": 114,
+        "MALE2000": 65,
+        "FEMALE2000": 49,
+        "POP2008": 138,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29316,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6475824797477,
+          -6.183768060047896
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29316,
+        "CU_NAME": "MENTUO",
+        "CU_NO": "045",
+        "GEOCODE": "11030407045",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "FININTUGU",
+        "LATITUDE": -6.183768,
+        "LONGITUDE": 145.647582,
+        "REGHH": 30,
+        "TOTPOP2000": 128,
+        "MALE2000": 70,
+        "FEMALE2000": 58,
+        "POP2008": 152,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29317,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67133996017105,
+          -6.22179566973432
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29317,
+        "CU_NAME": "KAMIUNA FOUR SQUARE",
+        "CU_NO": "401",
+        "GEOCODE": "11030407401",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "FININTUGU",
+        "LATITUDE": -6.221796,
+        "LONGITUDE": 145.67134,
+        "REGHH": 7,
+        "TOTPOP2000": 25,
+        "MALE2000": 12,
+        "FEMALE2000": 13,
+        "POP2008": 33,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67740704030268,
+          -6.228881009950612
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29318,
+        "CU_NAME": "KAMUINA LOCAL MISSION",
+        "CU_NO": "402",
+        "GEOCODE": "11030407402",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "FININTUGU",
+        "LATITUDE": -6.228881,
+        "LONGITUDE": 145.677407,
+        "REGHH": 4,
+        "TOTPOP2000": 25,
+        "MALE2000": 12,
+        "FEMALE2000": 13,
+        "POP2008": 33,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

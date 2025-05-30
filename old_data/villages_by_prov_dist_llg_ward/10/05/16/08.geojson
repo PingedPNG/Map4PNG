@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14804,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9368269995664,
+          -5.99046000032871
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14804,
+        "CU_NAME": "WANDI",
+        "CU_NO": "007",
+        "GEOCODE": "10051608007",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "08",
+        "WARD_NAME": "WANDI",
+        "LATITUDE": -5.99223,
+        "LONGITUDE": 144.935827,
+        "REGHH": 51,
+        "TOTPOP2000": 203,
+        "MALE2000": 102,
+        "FEMALE2000": 101,
+        "POP2008": 235,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051608007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14805,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.94638399962196,
+          -5.9809250003884245
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14805,
+        "CU_NAME": "GUIYE",
+        "CU_NO": "008",
+        "GEOCODE": "10051608008",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "08",
+        "WARD_NAME": "WANDI",
+        "LATITUDE": -5.982334,
+        "LONGITUDE": 144.945334,
+        "REGHH": 132,
+        "TOTPOP2000": 560,
+        "MALE2000": 286,
+        "FEMALE2000": 274,
+        "POP2008": 645,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051608008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14806,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.92698099967345,
+          -5.985696000070277
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14806,
+        "CU_NAME": "BONGUGLINGU",
+        "CU_NO": "009",
+        "GEOCODE": "10051608009",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "08",
+        "WARD_NAME": "WANDI",
+        "LATITUDE": -5.987105,
+        "LONGITUDE": 144.925931,
+        "REGHH": 159,
+        "TOTPOP2000": 759,
+        "MALE2000": 380,
+        "FEMALE2000": 379,
+        "POP2008": 875,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051608009,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14807,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9333520002947,
+          -5.993649999947479
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14807,
+        "CU_NAME": "MONDOSUMUN",
+        "CU_NO": "010",
+        "GEOCODE": "10051608010",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "08",
+        "WARD_NAME": "WANDI",
+        "LATITUDE": -5.995059,
+        "LONGITUDE": 144.932302,
+        "REGHH": 98,
+        "TOTPOP2000": 482,
+        "MALE2000": 235,
+        "FEMALE2000": 247,
+        "POP2008": 556,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051608010,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14808,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9349100001964,
+          -5.992109999976492
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14808,
+        "CU_NAME": "WANDI H/C",
+        "CU_NO": "401",
+        "GEOCODE": "10051608401",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "08",
+        "WARD_NAME": "WANDI",
+        "LATITUDE": -5.99348,
+        "LONGITUDE": 144.934795,
+        "REGHH": 6,
+        "TOTPOP2000": 26,
+        "MALE2000": 9,
+        "FEMALE2000": 17,
+        "POP2008": 26,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051608401,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14809,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.936183999592,
+          -5.989034000218908
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14809,
+        "CU_NAME": "WANDI C/SCH",
+        "CU_NO": "402",
+        "GEOCODE": "10051608402",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "08",
+        "WARD_NAME": "WANDI",
+        "LATITUDE": -5.99223,
+        "LONGITUDE": 144.935827,
+        "REGHH": 6,
+        "TOTPOP2000": 17,
+        "MALE2000": 12,
+        "FEMALE2000": 5,
+        "POP2008": 17,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051608402,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

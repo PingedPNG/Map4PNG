@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.9279490003462,
+          -9.33411899979194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13215,
+        "CU_NAME": "BUDORODE",
+        "CU_NO": "003",
+        "GEOCODE": "06010221003",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "21",
+        "WARD_NAME": "GURUGURU",
+        "LATITUDE": -9.332522,
+        "LONGITUDE": 148.92744,
+        "REGHH": 8,
+        "TOTPOP2000": 61,
+        "MALE2000": 29,
+        "FEMALE2000": 32,
+        "POP2008": 77,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010221003,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.94698699965033,
+          -9.26427999962226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13216,
+        "CU_NAME": "GURUGURU",
+        "CU_NO": "010",
+        "GEOCODE": "06010221010",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "21",
+        "WARD_NAME": "GURUGURU",
+        "LATITUDE": -9.270808,
+        "LONGITUDE": 148.941562,
+        "REGHH": 13,
+        "TOTPOP2000": 95,
+        "MALE2000": 44,
+        "FEMALE2000": 51,
+        "POP2008": 119,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010221010,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.94717100004164,
+          -9.290287000144872
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13217,
+        "CU_NAME": "KUMMOWARE",
+        "CU_NO": "011",
+        "GEOCODE": "06010221011",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "21",
+        "WARD_NAME": "GURUGURU",
+        "LATITUDE": -9.29174,
+        "LONGITUDE": 148.946166,
+        "REGHH": 10,
+        "TOTPOP2000": 52,
+        "MALE2000": 26,
+        "FEMALE2000": 26,
+        "POP2008": 64,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010221011,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

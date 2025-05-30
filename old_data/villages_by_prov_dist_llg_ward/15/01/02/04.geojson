@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18361,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.85840800002927,
+          -3.665621999855375
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18361,
+        "CU_NAME": "MAUROM",
+        "CU_NO": "008",
+        "GEOCODE": "15010204008",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "04",
+        "WARD_NAME": "MAUROM",
+        "LATITUDE": -3.683154,
+        "LONGITUDE": 141.847269,
+        "REGHH": 42,
+        "TOTPOP2000": 264,
+        "MALE2000": 134,
+        "FEMALE2000": 130,
+        "POP2008": 318,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010204008,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

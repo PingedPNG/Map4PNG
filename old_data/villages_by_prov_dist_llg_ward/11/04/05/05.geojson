@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29730,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.73262996000472,
+          -6.415491240128574
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29730,
+        "CU_NAME": "APINEGA",
+        "CU_NO": "012",
+        "GEOCODE": "11040505012",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "ANUMAGA",
+        "LATITUDE": -6.415491,
+        "LONGITUDE": 145.73263,
+        "REGHH": 151,
+        "TOTPOP2000": 636,
+        "MALE2000": 336,
+        "FEMALE2000": 300,
+        "POP2008": 757,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29731,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70353799977897,
+          -6.396463979628891
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29731,
+        "CU_NAME": "MUMBOI",
+        "CU_NO": "034",
+        "GEOCODE": "11040505034",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "ANUMAGA",
+        "LATITUDE": -6.396464,
+        "LONGITUDE": 145.703538,
+        "REGHH": 13,
+        "TOTPOP2000": 58,
+        "MALE2000": 25,
+        "FEMALE2000": 33,
+        "POP2008": 66,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29732,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7054892003664,
+          -6.401825010116056
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29732,
+        "CU_NAME": "KONKA",
+        "CU_NO": "053",
+        "GEOCODE": "11040505053",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "ANUMAGA",
+        "LATITUDE": -6.401825,
+        "LONGITUDE": 145.705489,
+        "REGHH": 67,
+        "TOTPOP2000": 289,
+        "MALE2000": 145,
+        "FEMALE2000": 144,
+        "POP2008": 343,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29733,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.70356679966812,
+          -6.411780360375303
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29733,
+        "CU_NAME": "OZAUNKA",
+        "CU_NO": "055",
+        "GEOCODE": "11040505055",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "ANUMAGA",
+        "LATITUDE": -6.41178,
+        "LONGITUDE": 145.703567,
+        "REGHH": 15,
+        "TOTPOP2000": 55,
+        "MALE2000": 27,
+        "FEMALE2000": 28,
+        "POP2008": 63,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29734,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7065943997119,
+          -6.42409911008582
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29734,
+        "CU_NAME": "TUGEFATEGA",
+        "CU_NO": "058",
+        "GEOCODE": "11040505058",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "ANUMAGA",
+        "LATITUDE": -6.424099,
+        "LONGITUDE": 145.706594,
+        "REGHH": 13,
+        "TOTPOP2000": 59,
+        "MALE2000": 35,
+        "FEMALE2000": 24,
+        "POP2008": 67,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29735,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.71609515976388,
+          -6.385464000263369
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29735,
+        "CU_NAME": "MONA",
+        "CU_NO": "061",
+        "GEOCODE": "11040505061",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "ANUMAGA",
+        "LATITUDE": -6.385464,
+        "LONGITUDE": 145.716095,
+        "REGHH": 32,
+        "TOTPOP2000": 184,
+        "MALE2000": 91,
+        "FEMALE2000": 93,
+        "POP2008": 218,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29736,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7159399997313,
+          -6.377663969716366
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29736,
+        "CU_NAME": "SISIMEGA",
+        "CU_NO": "062",
+        "GEOCODE": "11040505062",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "ANUMAGA",
+        "LATITUDE": -6.377664,
+        "LONGITUDE": 145.71594,
+        "REGHH": 46,
+        "TOTPOP2000": 198,
+        "MALE2000": 95,
+        "FEMALE2000": 103,
+        "POP2008": 236,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29737,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.80133704017237,
+          -6.375276990041016
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29737,
+        "CU_NAME": "ONTENU",
+        "CU_NO": "063",
+        "GEOCODE": "11040505063",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "ANUMAGA",
+        "LATITUDE": -6.375277,
+        "LONGITUDE": 145.801337,
+        "REGHH": 173,
+        "TOTPOP2000": 908,
+        "MALE2000": 449,
+        "FEMALE2000": 459,
+        "POP2008": 1080,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29738,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7023550396534,
+          -6.405503220197431
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29738,
+        "CU_NAME": "ONAMUGA STATION",
+        "CU_NO": "401",
+        "GEOCODE": "11040505401",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "ANUMAGA",
+        "LATITUDE": -6.405503,
+        "LONGITUDE": 145.702355,
+        "REGHH": 12,
+        "TOTPOP2000": 57,
+        "MALE2000": 31,
+        "FEMALE2000": 26,
+        "POP2008": 65,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

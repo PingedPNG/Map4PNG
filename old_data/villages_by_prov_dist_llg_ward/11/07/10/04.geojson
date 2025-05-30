@@ -1,0 +1,613 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30470,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52701632024707,
+          -6.64693614029062
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30470,
+        "CU_NAME": "INDAMATI",
+        "CU_NO": "009",
+        "GEOCODE": "11071004009",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.646936,
+        "LONGITUDE": 145.527016,
+        "REGHH": 27,
+        "TOTPOP2000": 135,
+        "MALE2000": 68,
+        "FEMALE2000": 67,
+        "POP2008": 159,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30471,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.53097199995784,
+          -6.6758534099068925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30471,
+        "CU_NAME": "KIVANDAI",
+        "CU_NO": "010",
+        "GEOCODE": "11071004010",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.675853,
+        "LONGITUDE": 145.530972,
+        "REGHH": 10,
+        "TOTPOP2000": 54,
+        "MALE2000": 24,
+        "FEMALE2000": 30,
+        "POP2008": 62,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30472,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.54109556031187,
+          -6.646170960221582
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30472,
+        "CU_NAME": "AUOKLAND",
+        "CU_NO": "029",
+        "GEOCODE": "11071004029",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.646171,
+        "LONGITUDE": 145.541096,
+        "REGHH": 64,
+        "TOTPOP2000": 280,
+        "MALE2000": 127,
+        "FEMALE2000": 153,
+        "POP2008": 333,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30473,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5166767598247,
+          -6.634496429966248
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30473,
+        "CU_NAME": "NOGIGORI",
+        "CU_NO": "030",
+        "GEOCODE": "11071004030",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.634496,
+        "LONGITUDE": 145.516677,
+        "REGHH": 14,
+        "TOTPOP2000": 67,
+        "MALE2000": 30,
+        "FEMALE2000": 37,
+        "POP2008": 81,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30474,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52114399999562,
+          -6.638980859778826
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30474,
+        "CU_NAME": "ATORI",
+        "CU_NO": "031",
+        "GEOCODE": "11071004031",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.638981,
+        "LONGITUDE": 145.521144,
+        "REGHH": 47,
+        "TOTPOP2000": 192,
+        "MALE2000": 94,
+        "FEMALE2000": 98,
+        "POP2008": 228,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30475,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.51518240044754,
+          -6.656102640324548
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30475,
+        "CU_NAME": "ARANATU",
+        "CU_NO": "032",
+        "GEOCODE": "11071004032",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.656103,
+        "LONGITUDE": 145.515182,
+        "REGHH": 16,
+        "TOTPOP2000": 106,
+        "MALE2000": 54,
+        "FEMALE2000": 52,
+        "POP2008": 126,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30476,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.51354368009686,
+          -6.669670050132652
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30476,
+        "CU_NAME": "ASATORI",
+        "CU_NO": "033",
+        "GEOCODE": "11071004033",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.66967,
+        "LONGITUDE": 145.513544,
+        "REGHH": 14,
+        "TOTPOP2000": 59,
+        "MALE2000": 32,
+        "FEMALE2000": 27,
+        "POP2008": 67,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30477,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.50301584030888,
+          -6.654021029946534
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30477,
+        "CU_NAME": "AMAMUTI",
+        "CU_NO": "034",
+        "GEOCODE": "11071004034",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.654021,
+        "LONGITUDE": 145.503016,
+        "REGHH": 18,
+        "TOTPOP2000": 90,
+        "MALE2000": 47,
+        "FEMALE2000": 43,
+        "POP2008": 106,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30478,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.47728411956655,
+          -6.659022960241373
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30478,
+        "CU_NAME": "KARI",
+        "CU_NO": "035",
+        "GEOCODE": "11071004035",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.659023,
+        "LONGITUDE": 145.477284,
+        "REGHH": 13,
+        "TOTPOP2000": 104,
+        "MALE2000": 56,
+        "FEMALE2000": 48,
+        "POP2008": 123,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30479,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.51656119963968,
+          -6.646664879580499
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30479,
+        "CU_NAME": "ANDUPINDI",
+        "CU_NO": "036",
+        "GEOCODE": "11071004036",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.646665,
+        "LONGITUDE": 145.516561,
+        "REGHH": 38,
+        "TOTPOP2000": 148,
+        "MALE2000": 76,
+        "FEMALE2000": 72,
+        "POP2008": 176,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30480,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52373312028737,
+          -6.626808359618053
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30480,
+        "CU_NAME": "KORIANDI",
+        "CU_NO": "037",
+        "GEOCODE": "11071004037",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.626808,
+        "LONGITUDE": 145.523733,
+        "REGHH": 35,
+        "TOTPOP2000": 170,
+        "MALE2000": 79,
+        "FEMALE2000": 91,
+        "POP2008": 202,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30481,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.49637420040904,
+          -6.633792000000767
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30481,
+        "CU_NAME": "WATER PALL",
+        "CU_NO": "040",
+        "GEOCODE": "11071004040",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.633792,
+        "LONGITUDE": 145.496374,
+        "REGHH": 41,
+        "TOTPOP2000": 177,
+        "MALE2000": 86,
+        "FEMALE2000": 91,
+        "POP2008": 210,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30482,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5437638802989,
+          -6.6549965398583595
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30482,
+        "CU_NAME": "TAGOTI",
+        "CU_NO": "041",
+        "GEOCODE": "11071004041",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.654997,
+        "LONGITUDE": 145.543764,
+        "REGHH": 26,
+        "TOTPOP2000": 102,
+        "MALE2000": 48,
+        "FEMALE2000": 54,
+        "POP2008": 120,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30483,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.49284404032028,
+          -6.6488426103981055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30483,
+        "CU_NAME": "AGATURI",
+        "CU_NO": "042",
+        "GEOCODE": "11071004042",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.648843,
+        "LONGITUDE": 145.492844,
+        "REGHH": 13,
+        "TOTPOP2000": 66,
+        "MALE2000": 28,
+        "FEMALE2000": 38,
+        "POP2008": 79,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30484,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.49885316004531,
+          -6.658921620136596
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30484,
+        "CU_NAME": "POVORARI",
+        "CU_NO": "043",
+        "GEOCODE": "11071004043",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.658922,
+        "LONGITUDE": 145.498853,
+        "REGHH": 20,
+        "TOTPOP2000": 73,
+        "MALE2000": 41,
+        "FEMALE2000": 32,
+        "POP2008": 89,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30485,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.46727360039642,
+          -6.641987580262594
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30485,
+        "CU_NAME": "ILAVEGORI",
+        "CU_NO": "044",
+        "GEOCODE": "11071004044",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.641988,
+        "LONGITUDE": 145.467274,
+        "REGHH": 11,
+        "TOTPOP2000": 44,
+        "MALE2000": 23,
+        "FEMALE2000": 21,
+        "POP2008": 52,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30486,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.51348140024652,
+          -6.62701247964219
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30486,
+        "CU_NAME": "NAMINATI",
+        "CU_NO": "045",
+        "GEOCODE": "11071004045",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.627012,
+        "LONGITUDE": 145.513481,
+        "REGHH": 12,
+        "TOTPOP2000": 68,
+        "MALE2000": 35,
+        "FEMALE2000": 33,
+        "POP2008": 83,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30487,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.51753104022544,
+          -6.681591810313762
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30487,
+        "CU_NAME": "PUSAVI",
+        "CU_NO": "046",
+        "GEOCODE": "11071004046",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.681592,
+        "LONGITUDE": 145.517531,
+        "REGHH": 15,
+        "TOTPOP2000": 92,
+        "MALE2000": 46,
+        "FEMALE2000": 46,
+        "POP2008": 108,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30488,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.47002147980754,
+          -6.626291219763914
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30488,
+        "CU_NAME": "FORETU",
+        "CU_NO": "047",
+        "GEOCODE": "11071004047",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "04",
+        "WARD_NAME": "UNASA",
+        "LATITUDE": -6.626291,
+        "LONGITUDE": 145.470021,
+        "REGHH": 22,
+        "TOTPOP2000": 101,
+        "MALE2000": 48,
+        "FEMALE2000": 53,
+        "POP2008": 118,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

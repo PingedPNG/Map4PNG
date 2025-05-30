@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7389,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.20118100040293,
+          -3.6923749997064306
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7389,
+        "CU_NAME": "GUNINGI",
+        "CU_NO": "004",
+        "GEOCODE": "14062624004",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "26",
+        "WARD_NO": "24",
+        "WARD_NAME": "GUNINGI",
+        "LATITUDE": -3.696493,
+        "LONGITUDE": 143.197428,
+        "REGHH": 100,
+        "TOTPOP2000": 474,
+        "MALE2000": 230,
+        "FEMALE2000": 244,
+        "POP2008": 564,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062624004,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.2204990000289,
+          -3.9055329999479227
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7234,
+        "CU_NAME": "KUMBI",
+        "CU_NO": "004",
+        "GEOCODE": "14062312004",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "23",
+        "WARD_NO": "12",
+        "WARD_NAME": "KORO",
+        "LATITUDE": -3.907114,
+        "LONGITUDE": 143.21926,
+        "REGHH": 47,
+        "TOTPOP2000": 267,
+        "MALE2000": 127,
+        "FEMALE2000": 140,
+        "POP2008": 318,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062312004,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.20700400003466,
+          -3.8503769996987103
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7235,
+        "CU_NAME": "KORO",
+        "CU_NO": "005",
+        "GEOCODE": "14062312005",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "23",
+        "WARD_NO": "12",
+        "WARD_NAME": "KORO",
+        "LATITUDE": -3.850441,
+        "LONGITUDE": 143.2045,
+        "REGHH": 76,
+        "TOTPOP2000": 362,
+        "MALE2000": 161,
+        "FEMALE2000": 201,
+        "POP2008": 430,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062312005,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

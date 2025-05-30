@@ -1,0 +1,741 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29344,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7436617996524,
+          -6.2233075802805615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29344,
+        "CU_NAME": "BAZANKA",
+        "CU_NO": "006",
+        "GEOCODE": "11030410006",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.223308,
+        "LONGITUDE": 145.743662,
+        "REGHH": 50,
+        "TOTPOP2000": 219,
+        "MALE2000": 116,
+        "FEMALE2000": 103,
+        "POP2008": 260,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.75529231978476,
+          -6.2083357199175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29345,
+        "CU_NAME": "TANKUO",
+        "CU_NO": "029",
+        "GEOCODE": "11030410029",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.208336,
+        "LONGITUDE": 145.755292,
+        "REGHH": 42,
+        "TOTPOP2000": 165,
+        "MALE2000": 85,
+        "FEMALE2000": 80,
+        "POP2008": 197,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29346,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.77755148021674,
+          -6.188194980014259
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29346,
+        "CU_NAME": "YARAGUNOFI",
+        "CU_NO": "030",
+        "GEOCODE": "11030410030",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.188195,
+        "LONGITUDE": 145.777551,
+        "REGHH": 32,
+        "TOTPOP2000": 118,
+        "MALE2000": 67,
+        "FEMALE2000": 51,
+        "POP2008": 142,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29347,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.73928204013407,
+          -6.227955989777058
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29347,
+        "CU_NAME": "TUSINOFI",
+        "CU_NO": "031",
+        "GEOCODE": "11030410031",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.227956,
+        "LONGITUDE": 145.739282,
+        "REGHH": 17,
+        "TOTPOP2000": 141,
+        "MALE2000": 83,
+        "FEMALE2000": 58,
+        "POP2008": 166,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29348,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.74797316033312,
+          -6.22322316002078
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29348,
+        "CU_NAME": "OZAI",
+        "CU_NO": "032",
+        "GEOCODE": "11030410032",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.223223,
+        "LONGITUDE": 145.747973,
+        "REGHH": 53,
+        "TOTPOP2000": 254,
+        "MALE2000": 130,
+        "FEMALE2000": 124,
+        "POP2008": 303,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29349,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.78328592000923,
+          -6.195792059655787
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29349,
+        "CU_NAME": "TASAGE",
+        "CU_NO": "033",
+        "GEOCODE": "11030410033",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.195792,
+        "LONGITUDE": 145.783286,
+        "REGHH": 23,
+        "TOTPOP2000": 123,
+        "MALE2000": 71,
+        "FEMALE2000": 52,
+        "POP2008": 147,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29350,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.74640751979132,
+          -6.2436540598869215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29350,
+        "CU_NAME": "TUNKAI",
+        "CU_NO": "034",
+        "GEOCODE": "11030410034",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.243654,
+        "LONGITUDE": 145.746408,
+        "REGHH": 20,
+        "TOTPOP2000": 99,
+        "MALE2000": 53,
+        "FEMALE2000": 46,
+        "POP2008": 115,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29351,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7491741203894,
+          -6.251723639734166
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29351,
+        "CU_NAME": "TIMUNONKA",
+        "CU_NO": "035",
+        "GEOCODE": "11030410035",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.251724,
+        "LONGITUDE": 145.749174,
+        "REGHH": 41,
+        "TOTPOP2000": 158,
+        "MALE2000": 80,
+        "FEMALE2000": 78,
+        "POP2008": 189,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29352,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.77641675972575,
+          -6.196616550013744
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29352,
+        "CU_NAME": "TIOKA",
+        "CU_NO": "036",
+        "GEOCODE": "11030410036",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.196617,
+        "LONGITUDE": 145.776417,
+        "REGHH": 31,
+        "TOTPOP2000": 120,
+        "MALE2000": 63,
+        "FEMALE2000": 57,
+        "POP2008": 144,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29353,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7806384795822,
+          -6.210897749931178
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29353,
+        "CU_NAME": "TUMONKA",
+        "CU_NO": "037",
+        "GEOCODE": "11030410037",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.210898,
+        "LONGITUDE": 145.780638,
+        "REGHH": 33,
+        "TOTPOP2000": 146,
+        "MALE2000": 77,
+        "FEMALE2000": 69,
+        "POP2008": 173,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29354,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7489753998949,
+          -6.266984759838749
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29354,
+        "CU_NAME": "HAMENAGA",
+        "CU_NO": "038",
+        "GEOCODE": "11030410038",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.266985,
+        "LONGITUDE": 145.748975,
+        "REGHH": 13,
+        "TOTPOP2000": 49,
+        "MALE2000": 26,
+        "FEMALE2000": 23,
+        "POP2008": 57,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29355,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7620617596425,
+          -6.205177530218805
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29355,
+        "CU_NAME": "NEW SIDE",
+        "CU_NO": "039",
+        "GEOCODE": "11030410039",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.205178,
+        "LONGITUDE": 145.762062,
+        "REGHH": 33,
+        "TOTPOP2000": 106,
+        "MALE2000": 51,
+        "FEMALE2000": 55,
+        "POP2008": 126,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29356,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.74925619971395,
+          -6.242675940142476
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29356,
+        "CU_NAME": "NEW TOWN",
+        "CU_NO": "040",
+        "GEOCODE": "11030410040",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.242676,
+        "LONGITUDE": 145.749256,
+        "REGHH": 45,
+        "TOTPOP2000": 149,
+        "MALE2000": 70,
+        "FEMALE2000": 79,
+        "POP2008": 177,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29357,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.77200675960432,
+          -6.2035448398224275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29357,
+        "CU_NAME": "ORIOGA",
+        "CU_NO": "041",
+        "GEOCODE": "11030410041",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.203545,
+        "LONGITUDE": 145.772007,
+        "REGHH": 25,
+        "TOTPOP2000": 77,
+        "MALE2000": 45,
+        "FEMALE2000": 32,
+        "POP2008": 93,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29358,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7622280802617,
+          -6.199436519979372
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29358,
+        "CU_NAME": "AGONA SAIT",
+        "CU_NO": "042",
+        "GEOCODE": "11030410042",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.199437,
+        "LONGITUDE": 145.762228,
+        "REGHH": 20,
+        "TOTPOP2000": 104,
+        "MALE2000": 55,
+        "FEMALE2000": 49,
+        "POP2008": 123,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29359,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7763336003154,
+          -6.20018946027534
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29359,
+        "CU_NAME": "ASEU",
+        "CU_NO": "043",
+        "GEOCODE": "11030410043",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.200189,
+        "LONGITUDE": 145.776334,
+        "REGHH": 21,
+        "TOTPOP2000": 97,
+        "MALE2000": 54,
+        "FEMALE2000": 43,
+        "POP2008": 113,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29360,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.74429720035562,
+          -6.239781630417838
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29360,
+        "CU_NAME": "HAMPARE",
+        "CU_NO": "044",
+        "GEOCODE": "11030410044",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.239782,
+        "LONGITUDE": 145.744297,
+        "REGHH": 45,
+        "TOTPOP2000": 249,
+        "MALE2000": 127,
+        "FEMALE2000": 122,
+        "POP2008": 296,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29361,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.74079403971325,
+          -6.248363310318496
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29361,
+        "CU_NAME": "JONONTE",
+        "CU_NO": "045",
+        "GEOCODE": "11030410045",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.248363,
+        "LONGITUDE": 145.740794,
+        "REGHH": 17,
+        "TOTPOP2000": 83,
+        "MALE2000": 45,
+        "FEMALE2000": 38,
+        "POP2008": 99,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29362,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.74342708019572,
+          -6.222579300294399
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29362,
+        "CU_NAME": "KAYAROKA",
+        "CU_NO": "046",
+        "GEOCODE": "11030410046",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.222579,
+        "LONGITUDE": 145.743427,
+        "REGHH": 5,
+        "TOTPOP2000": 25,
+        "MALE2000": 13,
+        "FEMALE2000": 12,
+        "POP2008": 33,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29363,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.74741623986768,
+          -6.2003529902981995
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29363,
+        "CU_NAME": "KIGUKA",
+        "CU_NO": "047",
+        "GEOCODE": "11030410047",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.200353,
+        "LONGITUDE": 145.747416,
+        "REGHH": 21,
+        "TOTPOP2000": 82,
+        "MALE2000": 42,
+        "FEMALE2000": 40,
+        "POP2008": 98,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29364,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.76562972003558,
+          -6.189019470372216
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29364,
+        "CU_NAME": "KIMATE",
+        "CU_NO": "048",
+        "GEOCODE": "11030410048",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.189019,
+        "LONGITUDE": 145.76563,
+        "REGHH": 14,
+        "TOTPOP2000": 47,
+        "MALE2000": 20,
+        "FEMALE2000": 27,
+        "POP2008": 55,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29365,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.74565043991595,
+          -6.219733500000984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29365,
+        "CU_NAME": "KINAKA",
+        "CU_NO": "049",
+        "GEOCODE": "11030410049",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.219733,
+        "LONGITUDE": 145.74565,
+        "REGHH": 11,
+        "TOTPOP2000": 51,
+        "MALE2000": 24,
+        "FEMALE2000": 27,
+        "POP2008": 59,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29366,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.76770332015212,
+          -6.191746560155593
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29366,
+        "CU_NAME": "SOII",
+        "CU_NO": "050",
+        "GEOCODE": "11030410050",
+        "PROV_KEY": "11",
+        "DIST_NO": "03",
+        "LLG_NO": "04",
+        "WARD_NO": "10",
+        "WARD_NAME": "TEBENOFI",
+        "LATITUDE": -6.191747,
+        "LONGITUDE": 145.767703,
+        "REGHH": 20,
+        "TOTPOP2000": 88,
+        "MALE2000": 48,
+        "FEMALE2000": 40,
+        "POP2008": 104,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

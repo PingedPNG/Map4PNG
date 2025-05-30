@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.46119900013377,
+          -5.6055829997555975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9233,
+        "CU_NAME": "URIGINA",
+        "CU_NO": "019",
+        "GEOCODE": "13061613019",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "13",
+        "WARD_NAME": "YAKOMBU",
+        "LATITUDE": -5.606989,
+        "LONGITUDE": 145.460156,
+        "REGHH": 98,
+        "TOTPOP2000": 581,
+        "MALE2000": 325,
+        "FEMALE2000": 256,
+        "POP2008": 719,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061613019,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.48748800017108,
+          -5.640213000429583
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9234,
+        "CU_NAME": "YAKUMBU",
+        "CU_NO": "022",
+        "GEOCODE": "13061613022",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "13",
+        "WARD_NAME": "YAKOMBU",
+        "LATITUDE": -5.64162,
+        "LONGITUDE": 145.486446,
+        "REGHH": 72,
+        "TOTPOP2000": 440,
+        "MALE2000": 219,
+        "FEMALE2000": 221,
+        "POP2008": 545,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061613022,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

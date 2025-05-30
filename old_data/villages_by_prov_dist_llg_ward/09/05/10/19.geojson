@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.04209399963838,
+          -5.5453269999410395
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17175,
+        "CU_NAME": "KAKEMALI.1",
+        "CU_NO": "001",
+        "GEOCODE": "09051019001",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "19",
+        "WARD_NAME": "KAKEMALI.1",
+        "LATITUDE": -5.544706,
+        "LONGITUDE": 144.042432,
+        "REGHH": 46,
+        "TOTPOP2000": 197,
+        "MALE2000": 104,
+        "FEMALE2000": 93,
+        "POP2008": 240,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051019001,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17176,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0411700001954,
+          -5.543765999900927
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17176,
+        "CU_NAME": "AMBUA",
+        "CU_NO": "002",
+        "GEOCODE": "09051019002",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "10",
+        "WARD_NO": "19",
+        "WARD_NAME": "KAKEMALI.1",
+        "LATITUDE": -5.544706,
+        "LONGITUDE": 144.042432,
+        "REGHH": 12,
+        "TOTPOP2000": 56,
+        "MALE2000": 30,
+        "FEMALE2000": 26,
+        "POP2008": 67,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9051019002,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

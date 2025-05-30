@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7582,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.88452400028245,
+          -7.566703999689764
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7582,
+        "CU_NAME": "KOTIDANGA",
+        "CU_NO": "004",
+        "GEOCODE": "02010519004",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "19",
+        "WARD_NAME": "KOTIDANGA",
+        "LATITUDE": -7.568132,
+        "LONGITUDE": 145.883483,
+        "REGHH": 40,
+        "TOTPOP2000": 225,
+        "MALE2000": 121,
+        "FEMALE2000": 104,
+        "POP2008": 276,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010519004,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7583,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89594800010013,
+          -7.566253999622347
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7583,
+        "CU_NAME": "KOTIDANGA SUB DISTRICT",
+        "CU_NO": "402",
+        "GEOCODE": "02010519402",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "19",
+        "WARD_NAME": "KOTIDANGA",
+        "LATITUDE": -7.569125,
+        "LONGITUDE": 145.891264,
+        "REGHH": 31,
+        "TOTPOP2000": 215,
+        "MALE2000": 114,
+        "FEMALE2000": 101,
+        "POP2008": 265,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010519402,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

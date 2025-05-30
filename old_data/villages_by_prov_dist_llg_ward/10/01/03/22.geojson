@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14046,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.16177500031608,
+          -6.142917000019509
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14046,
+        "CU_NAME": "LAIYA 2",
+        "CU_NO": "001",
+        "GEOCODE": "10010322001",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "22",
+        "WARD_NAME": "NOMANE",
+        "LATITUDE": -6.144328,
+        "LONGITUDE": 145.160727,
+        "REGHH": 53,
+        "TOTPOP2000": 166,
+        "MALE2000": 82,
+        "FEMALE2000": 84,
+        "POP2008": 190,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010322001,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14047,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.14998599985404,
+          -6.130120999884184
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14047,
+        "CU_NAME": "NORA",
+        "CU_NO": "002",
+        "GEOCODE": "10010322002",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "22",
+        "WARD_NAME": "NOMANE",
+        "LATITUDE": -6.131532,
+        "LONGITUDE": 145.148938,
+        "REGHH": 6,
+        "TOTPOP2000": 13,
+        "MALE2000": 7,
+        "FEMALE2000": 6,
+        "POP2008": 13,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010322002,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

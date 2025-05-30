@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.67173000033927,
+          -4.073647000408698
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6002,
+        "CU_NAME": "KUAKA",
+        "CU_NO": "006",
+        "GEOCODE": "14010106006",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "SINGIOK",
+        "LATITUDE": -4.081781,
+        "LONGITUDE": 142.656507,
+        "REGHH": 11,
+        "TOTPOP2000": 59,
+        "MALE2000": 25,
+        "FEMALE2000": 34,
+        "POP2008": 67,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010106006,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.63919400000316,
+          -4.075172999734093
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6003,
+        "CU_NAME": "SINGIOK",
+        "CU_NO": "012",
+        "GEOCODE": "14010106012",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "SINGIOK",
+        "LATITUDE": -4.076755,
+        "LONGITUDE": 142.637949,
+        "REGHH": 62,
+        "TOTPOP2000": 357,
+        "MALE2000": 187,
+        "FEMALE2000": 170,
+        "POP2008": 425,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010106012,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.65659300016694,
+          -4.082907000257819
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6004,
+        "CU_NAME": "HAIP",
+        "CU_NO": "013",
+        "GEOCODE": "14010106013",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "SINGIOK",
+        "LATITUDE": -4.079491,
+        "LONGITUDE": 142.645843,
+        "REGHH": 23,
+        "TOTPOP2000": 139,
+        "MALE2000": 76,
+        "FEMALE2000": 63,
+        "POP2008": 164,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010106013,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20929,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63234799976044,
+          -6.067399999710176
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20929,
+        "CU_NAME": "IMILA",
+        "CU_NO": "006",
+        "GEOCODE": "07061806006",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "06",
+        "WARD_NAME": "IMILA",
+        "LATITUDE": -6.071718,
+        "LONGITUDE": 143.631946,
+        "REGHH": 46,
+        "TOTPOP2000": 297,
+        "MALE2000": 153,
+        "FEMALE2000": 144,
+        "POP2008": 413,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061806006,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20930,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63101899962714,
+          -6.06603000038416
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20930,
+        "CU_NAME": "PEOL HULA",
+        "CU_NO": "007",
+        "GEOCODE": "07061806007",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "06",
+        "WARD_NAME": "IMILA",
+        "LATITUDE": -6.071718,
+        "LONGITUDE": 143.631946,
+        "REGHH": 28,
+        "TOTPOP2000": 162,
+        "MALE2000": 81,
+        "FEMALE2000": 81,
+        "POP2008": 225,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061806007,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20931,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63144400034037,
+          -6.068859999589279
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20931,
+        "CU_NAME": "HOLMANDA",
+        "CU_NO": "008",
+        "GEOCODE": "07061806008",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "06",
+        "WARD_NAME": "IMILA",
+        "LATITUDE": -6.071718,
+        "LONGITUDE": 143.631946,
+        "REGHH": 25,
+        "TOTPOP2000": 165,
+        "MALE2000": 74,
+        "FEMALE2000": 91,
+        "POP2008": 230,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061806008,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

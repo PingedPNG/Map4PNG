@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.68770600033167,
+          -6.004464000413236
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21135,
+        "CU_NAME": "MOGOL",
+        "CU_NO": "001",
+        "GEOCODE": "07062116001",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "21",
+        "WARD_NO": "16",
+        "WARD_NAME": "MOGOL",
+        "LATITUDE": -6.008707,
+        "LONGITUDE": 143.687983,
+        "REGHH": 200,
+        "TOTPOP2000": 1201,
+        "MALE2000": 633,
+        "FEMALE2000": 568,
+        "POP2008": 1669,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7062116001,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

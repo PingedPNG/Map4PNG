@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1624,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.74721299988016,
+          -9.90280899993536
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1624,
+        "CU_NAME": "BIGAIRUKA",
+        "CU_NO": "008",
+        "GEOCODE": "03041119008",
+        "PROV_KEY": "03",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "19",
+        "WARD_NAME": "BIGAIRUKA",
+        "LATITUDE": -9.904265,
+        "LONGITUDE": 147.746191,
+        "REGHH": 38,
+        "TOTPOP2000": 188,
+        "MALE2000": 87,
+        "FEMALE2000": 101,
+        "POP2008": 226,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3041119008,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

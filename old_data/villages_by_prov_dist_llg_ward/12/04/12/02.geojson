@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.0201410002071,
+          -6.021961999746452
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11135,
+        "CU_NAME": "BONGI",
+        "CU_NO": "002",
+        "GEOCODE": "12041202002",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "KOMUTU",
+        "LATITUDE": -6.023376,
+        "LONGITUDE": 147.019118,
+        "REGHH": 17,
+        "TOTPOP2000": 77,
+        "MALE2000": 38,
+        "FEMALE2000": 39,
+        "POP2008": 94,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041202002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.003934000154,
+          -6.099732999678167
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11136,
+        "CU_NAME": "KOYON",
+        "CU_NO": "017",
+        "GEOCODE": "12041202017",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "KOMUTU",
+        "LATITUDE": -6.101147,
+        "LONGITUDE": 147.002911,
+        "REGHH": 48,
+        "TOTPOP2000": 210,
+        "MALE2000": 102,
+        "FEMALE2000": 108,
+        "POP2008": 262,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041202017,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.00002099956953,
+          -6.082785999674115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11137,
+        "CU_NAME": "KOMUTU",
+        "CU_NO": "018",
+        "GEOCODE": "12041202018",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "KOMUTU",
+        "LATITUDE": -6.0842,
+        "LONGITUDE": 146.998998,
+        "REGHH": 41,
+        "TOTPOP2000": 203,
+        "MALE2000": 97,
+        "FEMALE2000": 106,
+        "POP2008": 254,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041202018,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.00348600017878,
+          -6.049536999732709
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11138,
+        "CU_NAME": "SUNDE",
+        "CU_NO": "030",
+        "GEOCODE": "12041202030",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "02",
+        "WARD_NAME": "KOMUTU",
+        "LATITUDE": -6.050951,
+        "LONGITUDE": 147.002463,
+        "REGHH": 9,
+        "TOTPOP2000": 52,
+        "MALE2000": 25,
+        "FEMALE2000": 27,
+        "POP2008": 66,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041202030,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

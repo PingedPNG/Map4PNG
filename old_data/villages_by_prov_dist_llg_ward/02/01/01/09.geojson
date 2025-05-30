@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7421,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.90256500037458,
+          -8.041062999757571
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7421,
+        "CU_NAME": "POMARA",
+        "CU_NO": "013",
+        "GEOCODE": "02010109013",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "09",
+        "WARD_NAME": "UAMAI NO. 2",
+        "LATITUDE": -8.042495,
+        "LONGITUDE": 145.901523,
+        "REGHH": 84,
+        "TOTPOP2000": 504,
+        "MALE2000": 272,
+        "FEMALE2000": 232,
+        "POP2008": 619,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010109013,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7422,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9069159995738,
+          -8.043830999700845
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7422,
+        "CU_NAME": "LAVARE",
+        "CU_NO": "015",
+        "GEOCODE": "02010109015",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "09",
+        "WARD_NAME": "UAMAI NO. 2",
+        "LATITUDE": -8.045263,
+        "LONGITUDE": 145.905874,
+        "REGHH": 45,
+        "TOTPOP2000": 220,
+        "MALE2000": 105,
+        "FEMALE2000": 115,
+        "POP2008": 271,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010109015,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7423,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.91697400024998,
+          -8.044680000181813
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7423,
+        "CU_NAME": "MORA'A",
+        "CU_NO": "016",
+        "GEOCODE": "02010109016",
+        "PROV_KEY": "02",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "09",
+        "WARD_NAME": "UAMAI NO. 2",
+        "LATITUDE": -8.046113,
+        "LONGITUDE": 145.915932,
+        "REGHH": 45,
+        "TOTPOP2000": 256,
+        "MALE2000": 132,
+        "FEMALE2000": 124,
+        "POP2008": 315,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2010109016,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

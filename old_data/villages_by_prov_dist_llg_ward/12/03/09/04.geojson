@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10905,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4087239999127,
+          -7.685288000340904
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10905,
+        "CU_NAME": "EPA",
+        "CU_NO": "005",
+        "GEOCODE": "12030904005",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZINAMBA",
+        "LATITUDE": -7.68672,
+        "LONGITUDE": 147.407703,
+        "REGHH": 29,
+        "TOTPOP2000": 175,
+        "MALE2000": 92,
+        "FEMALE2000": 83,
+        "POP2008": 218,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030904005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10906,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.43872400021246,
+          -7.664033999569369
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10906,
+        "CU_NAME": "ZINAMBA",
+        "CU_NO": "015",
+        "GEOCODE": "12030904015",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "04",
+        "WARD_NAME": "ZINAMBA",
+        "LATITUDE": -7.665466,
+        "LONGITUDE": 147.437704,
+        "REGHH": 28,
+        "TOTPOP2000": 143,
+        "MALE2000": 70,
+        "FEMALE2000": 73,
+        "POP2008": 178,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030904015,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

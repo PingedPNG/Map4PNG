@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10931,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.61574599957828,
+          -7.9822859997989895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10931,
+        "CU_NAME": "GOMENA",
+        "CU_NO": "007",
+        "GEOCODE": "12030918007",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "18",
+        "WARD_NAME": "POPOE",
+        "LATITUDE": -7.983722,
+        "LONGITUDE": 147.614727,
+        "REGHH": 47,
+        "TOTPOP2000": 273,
+        "MALE2000": 134,
+        "FEMALE2000": 139,
+        "POP2008": 341,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030918007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10932,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.62003400036883,
+          -7.970602999728612
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10932,
+        "CU_NAME": "POPOE",
+        "CU_NO": "010",
+        "GEOCODE": "12030918010",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "18",
+        "WARD_NAME": "POPOE",
+        "LATITUDE": -7.972039,
+        "LONGITUDE": 147.619015,
+        "REGHH": 83,
+        "TOTPOP2000": 472,
+        "MALE2000": 259,
+        "FEMALE2000": 213,
+        "POP2008": 589,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12030918010,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

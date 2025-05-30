@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12396,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.9783060003217,
+          -1.6638860002386764
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12396,
+        "CU_NAME": "ELEONUSA (LOUNUSA)",
+        "CU_NO": "002",
+        "GEOCODE": "17010105002",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "EMIRAU",
+        "LATITUDE": -1.661769,
+        "LONGITUDE": 149.978076,
+        "REGHH": 15,
+        "TOTPOP2000": 72,
+        "MALE2000": 27,
+        "FEMALE2000": 45,
+        "POP2008": 88,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010105002,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12397,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.95777300042369,
+          -1.6280760000073542
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12397,
+        "CU_NAME": "BULIALE",
+        "CU_NO": "003",
+        "GEOCODE": "17010105003",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "EMIRAU",
+        "LATITUDE": -1.629438,
+        "LONGITUDE": 149.956797,
+        "REGHH": 8,
+        "TOTPOP2000": 57,
+        "MALE2000": 30,
+        "FEMALE2000": 27,
+        "POP2008": 73,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010105003,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12398,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.01532699974132,
+          -1.681203000218261
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12398,
+        "CU_NAME": "ELEUA",
+        "CU_NO": "004",
+        "GEOCODE": "17010105004",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "EMIRAU",
+        "LATITUDE": -1.682566,
+        "LONGITUDE": 150.01435,
+        "REGHH": 18,
+        "TOTPOP2000": 160,
+        "MALE2000": 75,
+        "FEMALE2000": 85,
+        "POP2008": 202,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010105004,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12399,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.91652999965982,
+          -1.6577860004235276
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12399,
+        "CU_NAME": "PAKENA",
+        "CU_NO": "015",
+        "GEOCODE": "17010105015",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "EMIRAU",
+        "LATITUDE": -1.659148,
+        "LONGITUDE": 149.915553,
+        "REGHH": 14,
+        "TOTPOP2000": 76,
+        "MALE2000": 39,
+        "FEMALE2000": 37,
+        "POP2008": 94,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010105015,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12400,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.95533799964903,
+          -1.660571000251423
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12400,
+        "CU_NAME": "TAVILU",
+        "CU_NO": "017",
+        "GEOCODE": "17010105017",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "EMIRAU",
+        "LATITUDE": -1.661933,
+        "LONGITUDE": 149.954362,
+        "REGHH": 16,
+        "TOTPOP2000": 72,
+        "MALE2000": 34,
+        "FEMALE2000": 38,
+        "POP2008": 88,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010105017,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12401,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.98781600000848,
+          -1.679250000087393
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12401,
+        "CU_NAME": "TASINGINA",
+        "CU_NO": "022",
+        "GEOCODE": "17010105022",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "EMIRAU",
+        "LATITUDE": -1.679255,
+        "LONGITUDE": 149.980815,
+        "REGHH": 13,
+        "TOTPOP2000": 64,
+        "MALE2000": 38,
+        "FEMALE2000": 26,
+        "POP2008": 80,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010105022,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

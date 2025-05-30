@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5529,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9384109999677,
+          -5.1060050004304
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5529,
+        "CU_NAME": "KENAILAMA",
+        "CU_NO": "001",
+        "GEOCODE": "08020503001",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "03",
+        "WARD_NAME": "KENAILAMA",
+        "LATITUDE": -5.116203,
+        "LONGITUDE": 143.94373,
+        "REGHH": 96,
+        "TOTPOP2000": 490,
+        "MALE2000": 261,
+        "FEMALE2000": 229,
+        "POP2008": 615,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020503001,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

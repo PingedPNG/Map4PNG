@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14585,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.85826900021425,
+          -6.035171000041544
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14585,
+        "CU_NAME": "GURUWAL",
+        "CU_NO": "007",
+        "GEOCODE": "10041209007",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "09",
+        "WARD_NAME": "BANDI 2",
+        "LATITUDE": -6.036581,
+        "LONGITUDE": 144.857218,
+        "REGHH": 53,
+        "TOTPOP2000": 345,
+        "MALE2000": 182,
+        "FEMALE2000": 163,
+        "POP2008": 398,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041209007,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14586,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.83855400026698,
+          -6.038752999751068
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14586,
+        "CU_NAME": "YOPA",
+        "CU_NO": "008",
+        "GEOCODE": "10041209008",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "09",
+        "WARD_NAME": "BANDI 2",
+        "LATITUDE": -6.040163,
+        "LONGITUDE": 144.837502,
+        "REGHH": 86,
+        "TOTPOP2000": 383,
+        "MALE2000": 203,
+        "FEMALE2000": 180,
+        "POP2008": 442,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041209008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14587,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8550839999267,
+          -6.023269999810623
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14587,
+        "CU_NAME": "KUI",
+        "CU_NO": "009",
+        "GEOCODE": "10041209009",
+        "PROV_KEY": "10",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "09",
+        "WARD_NAME": "BANDI 2",
+        "LATITUDE": -6.024679,
+        "LONGITUDE": 144.854033,
+        "REGHH": 43,
+        "TOTPOP2000": 364,
+        "MALE2000": 191,
+        "FEMALE2000": 173,
+        "POP2008": 420,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10041209009,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

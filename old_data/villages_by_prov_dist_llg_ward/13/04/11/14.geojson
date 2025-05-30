@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8720,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.01685099977385,
+          -5.935460000078876
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8720,
+        "CU_NAME": "WAMUNDE",
+        "CU_NO": "029",
+        "GEOCODE": "13041114029",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "11",
+        "WARD_NO": "14",
+        "WARD_NAME": "WARD 14",
+        "LATITUDE": -5.923943,
+        "LONGITUDE": 146.019784,
+        "REGHH": 69,
+        "TOTPOP2000": 381,
+        "MALE2000": 186,
+        "FEMALE2000": 195,
+        "POP2008": 471,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041114029,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

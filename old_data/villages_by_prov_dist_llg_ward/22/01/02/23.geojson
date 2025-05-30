@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16093,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.66480499985096,
+          -5.93587600037705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16093,
+        "CU_NAME": "GAGWA",
+        "CU_NO": "001",
+        "GEOCODE": "09010223001",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "23",
+        "WARD_NAME": "GAGWA",
+        "LATITUDE": -5.936815,
+        "LONGITUDE": 144.665143,
+        "REGHH": 45,
+        "TOTPOP2000": 177,
+        "MALE2000": 94,
+        "FEMALE2000": 83,
+        "POP2008": 216,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010223001,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16094,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.63189300016188,
+          -5.947731000285387
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16094,
+        "CU_NAME": "DUP",
+        "CU_NO": "002",
+        "GEOCODE": "09010223002",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "23",
+        "WARD_NAME": "GAGWA",
+        "LATITUDE": -5.94867,
+        "LONGITUDE": 144.632232,
+        "REGHH": 29,
+        "TOTPOP2000": 103,
+        "MALE2000": 43,
+        "FEMALE2000": 60,
+        "POP2008": 127,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010223002,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16095,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6623079998144,
+          -5.937382999725628
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16095,
+        "CU_NAME": "ELMAR",
+        "CU_NO": "003",
+        "GEOCODE": "09010223003",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "23",
+        "WARD_NAME": "GAGWA",
+        "LATITUDE": -5.938322,
+        "LONGITUDE": 144.662646,
+        "REGHH": 42,
+        "TOTPOP2000": 159,
+        "MALE2000": 79,
+        "FEMALE2000": 80,
+        "POP2008": 193,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010223003,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16096,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6280249998539,
+          -5.947127000310786
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16096,
+        "CU_NAME": "KOSAMIL",
+        "CU_NO": "004",
+        "GEOCODE": "09010223004",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "23",
+        "WARD_NAME": "GAGWA",
+        "LATITUDE": -5.948066,
+        "LONGITUDE": 144.628364,
+        "REGHH": 29,
+        "TOTPOP2000": 114,
+        "MALE2000": 55,
+        "FEMALE2000": 59,
+        "POP2008": 138,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010223004,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

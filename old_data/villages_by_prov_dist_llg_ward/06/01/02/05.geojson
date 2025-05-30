@@ -1,0 +1,357 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.17994099997725,
+          -9.338677999589947
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13106,
+        "CU_NAME": "KOMABUN",
+        "CU_NO": "007",
+        "GEOCODE": "06010205007",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "RAINU",
+        "LATITUDE": -9.339967,
+        "LONGITUDE": 149.180052,
+        "REGHH": 14,
+        "TOTPOP2000": 107,
+        "MALE2000": 51,
+        "FEMALE2000": 56,
+        "POP2008": 131,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010205007,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.17587699962394,
+          -9.346196000045325
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13107,
+        "CU_NAME": "ORERESAN",
+        "CU_NO": "013",
+        "GEOCODE": "06010205013",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "RAINU",
+        "LATITUDE": -9.346881,
+        "LONGITUDE": 149.178543,
+        "REGHH": 13,
+        "TOTPOP2000": 102,
+        "MALE2000": 57,
+        "FEMALE2000": 45,
+        "POP2008": 126,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010205013,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.17628999978376,
+          -9.343008999665528
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13108,
+        "CU_NAME": "RAINU",
+        "CU_NO": "014",
+        "GEOCODE": "06010205014",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "RAINU",
+        "LATITUDE": -9.346897,
+        "LONGITUDE": 149.178556,
+        "REGHH": 11,
+        "TOTPOP2000": 75,
+        "MALE2000": 42,
+        "FEMALE2000": 33,
+        "POP2008": 91,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010205014,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.18073599976663,
+          -9.337435999871445
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13109,
+        "CU_NAME": "MAFFAR",
+        "CU_NO": "021",
+        "GEOCODE": "06010205021",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "RAINU",
+        "LATITUDE": -9.339202,
+        "LONGITUDE": 149.180374,
+        "REGHH": 15,
+        "TOTPOP2000": 77,
+        "MALE2000": 34,
+        "FEMALE2000": 43,
+        "POP2008": 93,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010205021,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.157563999579,
+          -9.336656999920535
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13110,
+        "CU_NAME": "SARAD MISS/STN",
+        "CU_NO": "027",
+        "GEOCODE": "06010205027",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "RAINU",
+        "LATITUDE": -9.338111,
+        "LONGITUDE": 149.156563,
+        "REGHH": 57,
+        "TOTPOP2000": 361,
+        "MALE2000": 186,
+        "FEMALE2000": 175,
+        "POP2008": 447,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010205027,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.17238100028305,
+          -9.33474499988182
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13111,
+        "CU_NAME": "WAIUG",
+        "CU_NO": "028",
+        "GEOCODE": "06010205028",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "RAINU",
+        "LATITUDE": -9.336199,
+        "LONGITUDE": 149.171381,
+        "REGHH": 22,
+        "TOTPOP2000": 147,
+        "MALE2000": 88,
+        "FEMALE2000": 59,
+        "POP2008": 182,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010205028,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.17441899983703,
+          -9.356553000120812
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13112,
+        "CU_NAME": "FOFO",
+        "CU_NO": "029",
+        "GEOCODE": "06010205029",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "RAINU",
+        "LATITUDE": -9.358192,
+        "LONGITUDE": 149.17665,
+        "REGHH": 13,
+        "TOTPOP2000": 91,
+        "MALE2000": 52,
+        "FEMALE2000": 39,
+        "POP2008": 114,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010205029,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1572500003873,
+          -9.33993099981575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13113,
+        "CU_NAME": "INARAM",
+        "CU_NO": "030",
+        "GEOCODE": "06010205030",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "RAINU",
+        "LATITUDE": -9.341385,
+        "LONGITUDE": 149.156249,
+        "REGHH": 12,
+        "TOTPOP2000": 77,
+        "MALE2000": 40,
+        "FEMALE2000": 37,
+        "POP2008": 93,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010205030,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.12593699979277,
+          -9.335808000338886
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13114,
+        "CU_NAME": "DIRUDADAN",
+        "CU_NO": "031",
+        "GEOCODE": "06010205031",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "RAINU",
+        "LATITUDE": -9.337262,
+        "LONGITUDE": 149.124936,
+        "REGHH": 43,
+        "TOTPOP2000": 264,
+        "MALE2000": 137,
+        "FEMALE2000": 127,
+        "POP2008": 327,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010205031,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.17460100013614,
+          -9.352275999837502
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13115,
+        "CU_NAME": "TEKWAKWAN",
+        "CU_NO": "033",
+        "GEOCODE": "06010205033",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "RAINU",
+        "LATITUDE": -9.356441,
+        "LONGITUDE": 149.177314,
+        "REGHH": 8,
+        "TOTPOP2000": 48,
+        "MALE2000": 21,
+        "FEMALE2000": 27,
+        "POP2008": 56,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010205033,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.12550399960992,
+          -9.311975000246036
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13116,
+        "CU_NAME": "UTAN PLTN",
+        "CU_NO": "401",
+        "GEOCODE": "06010205401",
+        "PROV_KEY": "06",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "05",
+        "WARD_NAME": "RAINU",
+        "LATITUDE": -9.313429,
+        "LONGITUDE": 149.124503,
+        "REGHH": 29,
+        "TOTPOP2000": 195,
+        "MALE2000": 110,
+        "FEMALE2000": 85,
+        "POP2008": 241,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6010205401,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

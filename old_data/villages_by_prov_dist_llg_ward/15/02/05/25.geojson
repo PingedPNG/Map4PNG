@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18544,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.3866469999591,
+          -3.754367999583451
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18544,
+        "CU_NAME": "MAIMAI 1",
+        "CU_NO": "007",
+        "GEOCODE": "15020525007",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "25",
+        "WARD_NAME": "MAIMAI",
+        "LATITUDE": -3.75575,
+        "LONGITUDE": 142.385568,
+        "REGHH": 27,
+        "TOTPOP2000": 119,
+        "MALE2000": 63,
+        "FEMALE2000": 56,
+        "POP2008": 143,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020525007,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18545,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.35432699969135,
+          -3.744861000035087
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18545,
+        "CU_NAME": "MAIMAI 2",
+        "CU_NO": "008",
+        "GEOCODE": "15020525008",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "25",
+        "WARD_NAME": "MAIMAI",
+        "LATITUDE": -3.744361,
+        "LONGITUDE": 142.360417,
+        "REGHH": 31,
+        "TOTPOP2000": 123,
+        "MALE2000": 66,
+        "FEMALE2000": 57,
+        "POP2008": 147,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020525008,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18546,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.35870800027408,
+          -3.783915999723547
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18546,
+        "CU_NAME": "MAIMAI 3",
+        "CU_NO": "009",
+        "GEOCODE": "15020525009",
+        "PROV_KEY": "15",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "25",
+        "WARD_NAME": "MAIMAI",
+        "LATITUDE": -3.785298,
+        "LONGITUDE": 142.357629,
+        "REGHH": 15,
+        "TOTPOP2000": 63,
+        "MALE2000": 32,
+        "FEMALE2000": 31,
+        "POP2008": 79,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15020525009,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

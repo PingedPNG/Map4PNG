@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14778,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9662569996609,
+          -5.980890999719804
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14778,
+        "CU_NAME": "TAMBAGLE",
+        "CU_NO": "002",
+        "GEOCODE": "10051604002",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "04",
+        "WARD_NAME": "NOGOMA",
+        "LATITUDE": -5.9823,
+        "LONGITUDE": 144.965207,
+        "REGHH": 76,
+        "TOTPOP2000": 350,
+        "MALE2000": 176,
+        "FEMALE2000": 174,
+        "POP2008": 404,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051604002,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14779,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96407699985377,
+          -5.994193999853167
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14779,
+        "CU_NAME": "GERE",
+        "CU_NO": "003",
+        "GEOCODE": "10051604003",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "04",
+        "WARD_NAME": "NOGOMA",
+        "LATITUDE": -5.995603,
+        "LONGITUDE": 144.963027,
+        "REGHH": 32,
+        "TOTPOP2000": 158,
+        "MALE2000": 84,
+        "FEMALE2000": 74,
+        "POP2008": 182,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051604003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14780,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9587050003356,
+          -5.991989999838552
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14780,
+        "CU_NAME": "MONGOMA",
+        "CU_NO": "004",
+        "GEOCODE": "10051604004",
+        "PROV_KEY": "10",
+        "DIST_NO": "05",
+        "LLG_NO": "16",
+        "WARD_NO": "04",
+        "WARD_NAME": "NOGOMA",
+        "LATITUDE": -5.993399,
+        "LONGITUDE": 144.957655,
+        "REGHH": 100,
+        "TOTPOP2000": 514,
+        "MALE2000": 276,
+        "FEMALE2000": 238,
+        "POP2008": 592,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10051604004,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

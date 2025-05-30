@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30572,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5601813199121,
+          -6.456305519683951
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30572,
+        "CU_NAME": "AMUFI NO 1",
+        "CU_NO": "003",
+        "GEOCODE": "11071019003",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "19",
+        "WARD_NAME": "WOIOEPA",
+        "LATITUDE": -6.456306,
+        "LONGITUDE": 145.560181,
+        "REGHH": 63,
+        "TOTPOP2000": 278,
+        "MALE2000": 145,
+        "FEMALE2000": 133,
+        "POP2008": 331,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30573,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57848695990538,
+          -6.461036010303587
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30573,
+        "CU_NAME": "HENAGARU",
+        "CU_NO": "011",
+        "GEOCODE": "11071019011",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "19",
+        "WARD_NAME": "WOIOEPA",
+        "LATITUDE": -6.461036,
+        "LONGITUDE": 145.578487,
+        "REGHH": 63,
+        "TOTPOP2000": 260,
+        "MALE2000": 130,
+        "FEMALE2000": 130,
+        "POP2008": 310,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30574,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5738530402856,
+          -6.492134969553149
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30574,
+        "CU_NAME": "WOIOEPA NO 1",
+        "CU_NO": "034",
+        "GEOCODE": "11071019034",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "19",
+        "WARD_NAME": "WOIOEPA",
+        "LATITUDE": -6.492135,
+        "LONGITUDE": 145.573853,
+        "REGHH": 82,
+        "TOTPOP2000": 302,
+        "MALE2000": 150,
+        "FEMALE2000": 152,
+        "POP2008": 360,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30575,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.58344271990563,
+          -6.488897220430317
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30575,
+        "CU_NAME": "WOIOEPA NO 2",
+        "CU_NO": "035",
+        "GEOCODE": "11071019035",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "19",
+        "WARD_NAME": "WOIOEPA",
+        "LATITUDE": -6.488897,
+        "LONGITUDE": 145.583443,
+        "REGHH": 40,
+        "TOTPOP2000": 188,
+        "MALE2000": 99,
+        "FEMALE2000": 89,
+        "POP2008": 223,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30576,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.55232215983983,
+          -6.471347039734042
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30576,
+        "CU_NAME": "AMUFI NO 2",
+        "CU_NO": "036",
+        "GEOCODE": "11071019036",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "19",
+        "WARD_NAME": "WOIOEPA",
+        "LATITUDE": -6.471347,
+        "LONGITUDE": 145.552322,
+        "REGHH": 47,
+        "TOTPOP2000": 208,
+        "MALE2000": 122,
+        "FEMALE2000": 86,
+        "POP2008": 248,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

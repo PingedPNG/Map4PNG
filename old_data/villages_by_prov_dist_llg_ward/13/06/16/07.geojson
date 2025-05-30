@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6824060001369,
+          -5.872091999745919
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9216,
+        "CU_NAME": "ABIKAL",
+        "CU_NO": "001",
+        "GEOCODE": "13061607001",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "07",
+        "WARD_NAME": "DUMPU",
+        "LATITUDE": -5.873501,
+        "LONGITUDE": 145.681366,
+        "REGHH": 10,
+        "TOTPOP2000": 51,
+        "MALE2000": 28,
+        "FEMALE2000": 23,
+        "POP2008": 62,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061607001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.71299299962732,
+          -5.860525999675076
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9217,
+        "CU_NAME": "BEMBE",
+        "CU_NO": "002",
+        "GEOCODE": "13061607002",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "07",
+        "WARD_NAME": "DUMPU",
+        "LATITUDE": -5.861935,
+        "LONGITUDE": 145.711953,
+        "REGHH": 28,
+        "TOTPOP2000": 156,
+        "MALE2000": 84,
+        "FEMALE2000": 72,
+        "POP2008": 193,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061607002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.741118999842,
+          -5.890630000274257
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9218,
+        "CU_NAME": "DUMPU",
+        "CU_NO": "003",
+        "GEOCODE": "13061607003",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "07",
+        "WARD_NAME": "DUMPU",
+        "LATITUDE": -5.888972,
+        "LONGITUDE": 145.736011,
+        "REGHH": 49,
+        "TOTPOP2000": 303,
+        "MALE2000": 164,
+        "FEMALE2000": 139,
+        "POP2008": 375,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061607003,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9219,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.68146299981765,
+          -5.827292999572251
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9219,
+        "CU_NAME": "MENIA DOWNA CAMP",
+        "CU_NO": "403",
+        "GEOCODE": "13061607403",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "16",
+        "WARD_NO": "07",
+        "WARD_NAME": "DUMPU",
+        "LATITUDE": -5.828702,
+        "LONGITUDE": 145.680423,
+        "REGHH": 39,
+        "TOTPOP2000": 339,
+        "MALE2000": 234,
+        "FEMALE2000": 105,
+        "POP2008": 419,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061607403,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

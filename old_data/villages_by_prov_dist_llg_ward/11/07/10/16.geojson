@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.48264704042867,
+          -6.449476140011825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30552,
+        "CU_NAME": "AMUYA",
+        "CU_NO": "004",
+        "GEOCODE": "11071016004",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "16",
+        "WARD_NAME": "YAGANA",
+        "LATITUDE": -6.449476,
+        "LONGITUDE": 145.482647,
+        "REGHH": 73,
+        "TOTPOP2000": 309,
+        "MALE2000": 162,
+        "FEMALE2000": 147,
+        "POP2008": 368,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30553,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4663872798492,
+          -6.469438590218715
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30553,
+        "CU_NAME": "ANIEGA NO 2",
+        "CU_NO": "006",
+        "GEOCODE": "11071016006",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "16",
+        "WARD_NAME": "YAGANA",
+        "LATITUDE": -6.469439,
+        "LONGITUDE": 145.466387,
+        "REGHH": 31,
+        "TOTPOP2000": 152,
+        "MALE2000": 79,
+        "FEMALE2000": 73,
+        "POP2008": 181,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30554,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.64064491972738,
+          -6.438039570369824
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30554,
+        "CU_NAME": "KAGU",
+        "CU_NO": "015",
+        "GEOCODE": "11071016015",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "16",
+        "WARD_NAME": "YAGANA",
+        "LATITUDE": -6.43804,
+        "LONGITUDE": 145.640645,
+        "REGHH": 64,
+        "TOTPOP2000": 277,
+        "MALE2000": 132,
+        "FEMALE2000": 145,
+        "POP2008": 329,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30555,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.45779263981854,
+          -6.48553157961868
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30555,
+        "CU_NAME": "YAGANA",
+        "CU_NO": "037",
+        "GEOCODE": "11071016037",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "16",
+        "WARD_NAME": "YAGANA",
+        "LATITUDE": -6.485532,
+        "LONGITUDE": 145.457793,
+        "REGHH": 66,
+        "TOTPOP2000": 274,
+        "MALE2000": 133,
+        "FEMALE2000": 141,
+        "POP2008": 326,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30556,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.46464163999974,
+          -6.478709849579843
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30556,
+        "CU_NAME": "ANIEGA NO 1",
+        "CU_NO": "038",
+        "GEOCODE": "11071016038",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "16",
+        "WARD_NAME": "YAGANA",
+        "LATITUDE": -6.47871,
+        "LONGITUDE": 145.464642,
+        "REGHH": 47,
+        "TOTPOP2000": 200,
+        "MALE2000": 95,
+        "FEMALE2000": 105,
+        "POP2008": 238,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30557,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.47762539969256,
+          -6.470560530444061
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30557,
+        "CU_NAME": "KEVITAVI",
+        "CU_NO": "039",
+        "GEOCODE": "11071016039",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "16",
+        "WARD_NAME": "YAGANA",
+        "LATITUDE": -6.470561,
+        "LONGITUDE": 145.477625,
+        "REGHH": 22,
+        "TOTPOP2000": 113,
+        "MALE2000": 59,
+        "FEMALE2000": 54,
+        "POP2008": 136,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30558,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4909079600344,
+          -6.439554900138489
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30558,
+        "CU_NAME": "ANIARU",
+        "CU_NO": "040",
+        "GEOCODE": "11071016040",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "16",
+        "WARD_NAME": "YAGANA",
+        "LATITUDE": -6.439555,
+        "LONGITUDE": 145.490908,
+        "REGHH": 95,
+        "TOTPOP2000": 380,
+        "MALE2000": 191,
+        "FEMALE2000": 189,
+        "POP2008": 453,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30559,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.47857724034748,
+          -6.473996459568923
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30559,
+        "CU_NAME": "YAGANA CLC CHRUCH",
+        "CU_NO": "401",
+        "GEOCODE": "11071016401",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "16",
+        "WARD_NAME": "YAGANA",
+        "LATITUDE": -6.473996,
+        "LONGITUDE": 145.478577,
+        "REGHH": 2,
+        "TOTPOP2000": 9,
+        "MALE2000": 5,
+        "FEMALE2000": 4,
+        "POP2008": 9,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30560,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.47686292028766,
+          -6.442764030135834
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30560,
+        "CU_NAME": "KAGU COMM SCHOOL",
+        "CU_NO": "402",
+        "GEOCODE": "11071016402",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "16",
+        "WARD_NAME": "YAGANA",
+        "LATITUDE": -6.442764,
+        "LONGITUDE": 145.476863,
+        "REGHH": 10,
+        "TOTPOP2000": 57,
+        "MALE2000": 25,
+        "FEMALE2000": 32,
+        "POP2008": 65,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

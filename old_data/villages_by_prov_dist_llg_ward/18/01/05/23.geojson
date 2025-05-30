@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4629,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.16475200040452,
+          -4.415690999739809
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4629,
+        "CU_NAME": "VIVIRAN",
+        "CU_NO": "008",
+        "GEOCODE": "18010523008",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "23",
+        "WARD_NAME": "VIVIRAN",
+        "LATITUDE": -4.417093,
+        "LONGITUDE": 152.163806,
+        "REGHH": 135,
+        "TOTPOP2000": 727,
+        "MALE2000": 356,
+        "FEMALE2000": 371,
+        "POP2008": 887,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010523008,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

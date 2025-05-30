@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20921,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62962099990932,
+          -6.092943999565875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20921,
+        "CU_NAME": "ESMOL",
+        "CU_NO": "001",
+        "GEOCODE": "07061804001",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "04",
+        "WARD_NAME": "MAP 2",
+        "LATITUDE": -6.096371,
+        "LONGITUDE": 143.628411,
+        "REGHH": 63,
+        "TOTPOP2000": 344,
+        "MALE2000": 173,
+        "FEMALE2000": 171,
+        "POP2008": 477,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061804001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20922,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62945000011746,
+          -6.0916249998937815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20922,
+        "CU_NAME": "SOLORE",
+        "CU_NO": "002",
+        "GEOCODE": "07061804002",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "04",
+        "WARD_NAME": "MAP 2",
+        "LATITUDE": -6.096371,
+        "LONGITUDE": 143.628411,
+        "REGHH": 23,
+        "TOTPOP2000": 124,
+        "MALE2000": 62,
+        "FEMALE2000": 62,
+        "POP2008": 172,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061804002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20923,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62748400028647,
+          -6.093613999886145
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20923,
+        "CU_NAME": "TURA",
+        "CU_NO": "003",
+        "GEOCODE": "07061804003",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "04",
+        "WARD_NAME": "MAP 2",
+        "LATITUDE": -6.096371,
+        "LONGITUDE": 143.628411,
+        "REGHH": 44,
+        "TOTPOP2000": 283,
+        "MALE2000": 144,
+        "FEMALE2000": 139,
+        "POP2008": 393,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061804003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20924,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.62599399992325,
+          -6.09180700019283
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20924,
+        "CU_NAME": "SOWOLDA",
+        "CU_NO": "004",
+        "GEOCODE": "07061804004",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "04",
+        "WARD_NAME": "MAP 2",
+        "LATITUDE": -6.096371,
+        "LONGITUDE": 143.628411,
+        "REGHH": 54,
+        "TOTPOP2000": 233,
+        "MALE2000": 123,
+        "FEMALE2000": 110,
+        "POP2008": 325,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061804004,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12847,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0337840004313,
+          -4.6115790003705115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12847,
+        "CU_NAME": "MALIOM",
+        "CU_NO": "009",
+        "GEOCODE": "17020707009",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "07",
+        "WARD_NAME": "PUKUNMAL",
+        "LATITUDE": -4.612985,
+        "LONGITUDE": 153.032851,
+        "REGHH": 17,
+        "TOTPOP2000": 93,
+        "MALE2000": 46,
+        "FEMALE2000": 47,
+        "POP2008": 117,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020707009,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12848,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0586790000359,
+          -4.595814000016048
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12848,
+        "CU_NAME": "SIAR",
+        "CU_NO": "014",
+        "GEOCODE": "17020707014",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "07",
+        "WARD_NAME": "PUKUNMAL",
+        "LATITUDE": -4.597219,
+        "LONGITUDE": 153.057746,
+        "REGHH": 35,
+        "TOTPOP2000": 200,
+        "MALE2000": 109,
+        "FEMALE2000": 91,
+        "POP2008": 251,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020707014,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12849,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0588570001505,
+          -4.568347999660432
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12849,
+        "CU_NAME": "PUKUNMAL",
+        "CU_NO": "015",
+        "GEOCODE": "17020707015",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "07",
+        "WARD_NAME": "PUKUNMAL",
+        "LATITUDE": -4.569753,
+        "LONGITUDE": 153.057924,
+        "REGHH": 23,
+        "TOTPOP2000": 130,
+        "MALE2000": 74,
+        "FEMALE2000": 56,
+        "POP2008": 163,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020707015,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

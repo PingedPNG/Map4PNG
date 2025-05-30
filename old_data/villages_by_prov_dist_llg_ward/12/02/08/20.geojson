@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10898,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.77664700015896,
+          -6.531554999563525
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10898,
+        "CU_NAME": "GURUNGKO",
+        "CU_NO": "012",
+        "GEOCODE": "12020820012",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "20",
+        "WARD_NAME": "GURUNGKO",
+        "LATITUDE": -6.530793,
+        "LONGITUDE": 147.772818,
+        "REGHH": 72,
+        "TOTPOP2000": 398,
+        "MALE2000": 207,
+        "FEMALE2000": 191,
+        "POP2008": 495,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020820012,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10899,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.79665600017438,
+          -6.549437000417186
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10899,
+        "CU_NAME": "POCNAKO",
+        "CU_NO": "040",
+        "GEOCODE": "12020820040",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "20",
+        "WARD_NAME": "GURUNGKO",
+        "LATITUDE": -6.550858,
+        "LONGITUDE": 147.795643,
+        "REGHH": 21,
+        "TOTPOP2000": 87,
+        "MALE2000": 45,
+        "FEMALE2000": 42,
+        "POP2008": 109,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020820040,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

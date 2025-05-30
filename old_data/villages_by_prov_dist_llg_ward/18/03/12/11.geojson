@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4931,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8435740003399,
+          -6.026681999774439
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4931,
+        "CU_NAME": "MUKUS",
+        "CU_NO": "009",
+        "GEOCODE": "18031211009",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "RAOLMAN",
+        "LATITUDE": -6.029205,
+        "LONGITUDE": 150.846939,
+        "REGHH": 21,
+        "TOTPOP2000": 108,
+        "MALE2000": 51,
+        "FEMALE2000": 57,
+        "POP2008": 132,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031211009,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4932,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8876100004013,
+          -6.011613000039858
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4932,
+        "CU_NAME": "EUNGA",
+        "CU_NO": "010",
+        "GEOCODE": "18031211010",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "RAOLMAN",
+        "LATITUDE": -6.013033,
+        "LONGITUDE": 150.886642,
+        "REGHH": 8,
+        "TOTPOP2000": 58,
+        "MALE2000": 31,
+        "FEMALE2000": 27,
+        "POP2008": 71,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031211010,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4933,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0829849998579,
+          -5.96776899983945
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4933,
+        "CU_NAME": "SAHALIL",
+        "CU_NO": "016",
+        "GEOCODE": "18031211016",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "ESLETENAE",
+        "LATITUDE": -5.969189,
+        "LONGITUDE": 151.08202,
+        "REGHH": 14,
+        "TOTPOP2000": 78,
+        "MALE2000": 39,
+        "FEMALE2000": 39,
+        "POP2008": 94,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031211016,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4934,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0590179998809,
+          -5.946580000266749
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4934,
+        "CU_NAME": "UGA",
+        "CU_NO": "031",
+        "GEOCODE": "18031211031",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "ESLETENAE",
+        "LATITUDE": -5.948,
+        "LONGITUDE": 151.058053,
+        "REGHH": 11,
+        "TOTPOP2000": 51,
+        "MALE2000": 24,
+        "FEMALE2000": 27,
+        "POP2008": 59,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031211031,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0290080000193,
+          -5.912560999890161
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4935,
+        "CU_NAME": "SUMHUNA",
+        "CU_NO": "032",
+        "GEOCODE": "18031211032",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "ESLETENAE",
+        "LATITUDE": -5.91398,
+        "LONGITUDE": 151.028043,
+        "REGHH": 35,
+        "TOTPOP2000": 173,
+        "MALE2000": 84,
+        "FEMALE2000": 89,
+        "POP2008": 211,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031211032,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0676119995942,
+          -5.927691999785907
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4936,
+        "CU_NAME": "ESLETENAE",
+        "CU_NO": "033",
+        "GEOCODE": "18031211033",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "ESLETENAE",
+        "LATITUDE": -5.929112,
+        "LONGITUDE": 151.066647,
+        "REGHH": 28,
+        "TOTPOP2000": 154,
+        "MALE2000": 75,
+        "FEMALE2000": 79,
+        "POP2008": 187,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031211033,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.03705799982686,
+          -5.954577000328243
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4937,
+        "CU_NAME": "TANGAUN",
+        "CU_NO": "034",
+        "GEOCODE": "18031211034",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "ESLETENAE",
+        "LATITUDE": -5.955997,
+        "LONGITUDE": 151.036093,
+        "REGHH": 27,
+        "TOTPOP2000": 147,
+        "MALE2000": 74,
+        "FEMALE2000": 73,
+        "POP2008": 179,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031211034,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

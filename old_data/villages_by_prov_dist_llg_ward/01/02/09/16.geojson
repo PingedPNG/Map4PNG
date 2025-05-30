@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.50196100020003,
+          -5.544524999828809
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15498,
+        "CU_NAME": "DEBEREBIP",
+        "CU_NO": "002",
+        "GEOCODE": "01020916002",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "16",
+        "WARD_NAME": "DAHAMO",
+        "LATITUDE": -5.545923,
+        "LONGITUDE": 141.500869,
+        "REGHH": 9,
+        "TOTPOP2000": 67,
+        "MALE2000": 29,
+        "FEMALE2000": 38,
+        "POP2008": 86,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020916002,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15499,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.98303000033434,
+          -5.756685999958904
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15499,
+        "CU_NAME": "DAHAMO",
+        "CU_NO": "012",
+        "GEOCODE": "01020916012",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "16",
+        "WARD_NAME": "DAHAMO",
+        "LATITUDE": -5.753631,
+        "LONGITUDE": 141.993744,
+        "REGHH": 20,
+        "TOTPOP2000": 85,
+        "MALE2000": 45,
+        "FEMALE2000": 40,
+        "POP2008": 109,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020916012,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15500,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.99611000007656,
+          -5.653987999846265
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15500,
+        "CU_NAME": "AEDRO",
+        "CU_NO": "013",
+        "GEOCODE": "01020916013",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "16",
+        "WARD_NAME": "DAHAMO",
+        "LATITUDE": -5.648751,
+        "LONGITUDE": 141.998979,
+        "REGHH": 10,
+        "TOTPOP2000": 63,
+        "MALE2000": 35,
+        "FEMALE2000": 28,
+        "POP2008": 80,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020916013,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15501,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.12704800026506,
+          -5.707081000287872
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15501,
+        "CU_NAME": "GAIYABI",
+        "CU_NO": "015",
+        "GEOCODE": "01020916015",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "16",
+        "WARD_NAME": "DAHAMO",
+        "LATITUDE": -5.708482,
+        "LONGITUDE": 142.125963,
+        "REGHH": 10,
+        "TOTPOP2000": 36,
+        "MALE2000": 19,
+        "FEMALE2000": 17,
+        "POP2008": 44,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020916015,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

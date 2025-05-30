@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15776,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.313688000301,
+          -5.890679999882025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15776,
+        "CU_NAME": "WURUP 2",
+        "CU_NO": "011",
+        "GEOCODE": "09010106011",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "WURUP 2",
+        "LATITUDE": -5.891853,
+        "LONGITUDE": 144.31494,
+        "REGHH": 19,
+        "TOTPOP2000": 53,
+        "MALE2000": 26,
+        "FEMALE2000": 27,
+        "POP2008": 61,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010106011,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15777,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.31667000022037,
+          -5.8911540001569165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15777,
+        "CU_NAME": "WURUP SING",
+        "CU_NO": "012",
+        "GEOCODE": "09010106012",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "WURUP 2",
+        "LATITUDE": -5.891853,
+        "LONGITUDE": 144.31494,
+        "REGHH": 49,
+        "TOTPOP2000": 181,
+        "MALE2000": 93,
+        "FEMALE2000": 88,
+        "POP2008": 221,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010106012,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15778,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3309579999118,
+          -5.870681000327863
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15778,
+        "CU_NAME": "PAKUM",
+        "CU_NO": "013",
+        "GEOCODE": "09010106013",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "WURUP 2",
+        "LATITUDE": -5.87162,
+        "LONGITUDE": 144.331292,
+        "REGHH": 79,
+        "TOTPOP2000": 418,
+        "MALE2000": 217,
+        "FEMALE2000": 201,
+        "POP2008": 509,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010106013,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15779,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.31398999983867,
+          -5.8874229998714895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15779,
+        "CU_NAME": "KANDEP MARKET",
+        "CU_NO": "014",
+        "GEOCODE": "09010106014",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "WURUP 2",
+        "LATITUDE": -5.888362,
+        "LONGITUDE": 144.314325,
+        "REGHH": 59,
+        "TOTPOP2000": 213,
+        "MALE2000": 105,
+        "FEMALE2000": 108,
+        "POP2008": 259,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010106014,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15780,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3194420003481,
+          -5.860373999860144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15780,
+        "CU_NAME": "WARAWAU PLNT",
+        "CU_NO": "401",
+        "GEOCODE": "09010106401",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "WURUP 2",
+        "LATITUDE": -5.861313,
+        "LONGITUDE": 144.319776,
+        "REGHH": 212,
+        "TOTPOP2000": 935,
+        "MALE2000": 517,
+        "FEMALE2000": 418,
+        "POP2008": 1139,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010106401,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15781,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.31581400031598,
+          -5.887212000033742
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15781,
+        "CU_NAME": "WURUP PLNT",
+        "CU_NO": "402",
+        "GEOCODE": "09010106402",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "WURUP 2",
+        "LATITUDE": -5.888151,
+        "LONGITUDE": 144.316149,
+        "REGHH": 43,
+        "TOTPOP2000": 205,
+        "MALE2000": 124,
+        "FEMALE2000": 81,
+        "POP2008": 249,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010106402,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

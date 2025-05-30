@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3975109998329,
+          -5.717994999969221
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5262,
+        "CU_NAME": "LONGAP",
+        "CU_NO": "001",
+        "GEOCODE": "08010203001",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "LONGAP",
+        "LATITUDE": -5.719399,
+        "LONGITUDE": 143.396442,
+        "REGHH": 48,
+        "TOTPOP2000": 299,
+        "MALE2000": 143,
+        "FEMALE2000": 156,
+        "POP2008": 376,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010203001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.36239700022145,
+          -5.7275980003473705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5263,
+        "CU_NAME": "SAKAGU",
+        "CU_NO": "002",
+        "GEOCODE": "08010203002",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "LONGAP",
+        "LATITUDE": -5.729002,
+        "LONGITUDE": 143.361327,
+        "REGHH": 30,
+        "TOTPOP2000": 182,
+        "MALE2000": 89,
+        "FEMALE2000": 93,
+        "POP2008": 228,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010203002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5264,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.37532900033318,
+          -5.713730000239252
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5264,
+        "CU_NAME": "LEAL",
+        "CU_NO": "003",
+        "GEOCODE": "08010203003",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "LONGAP",
+        "LATITUDE": -5.715132,
+        "LONGITUDE": 143.374258,
+        "REGHH": 65,
+        "TOTPOP2000": 432,
+        "MALE2000": 198,
+        "FEMALE2000": 234,
+        "POP2008": 543,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010203003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.37921699976482,
+          -5.710692000435415
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5265,
+        "CU_NAME": "TEMBRA",
+        "CU_NO": "004",
+        "GEOCODE": "08010203004",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "LONGAP",
+        "LATITUDE": -5.712095,
+        "LONGITUDE": 143.378148,
+        "REGHH": 17,
+        "TOTPOP2000": 101,
+        "MALE2000": 50,
+        "FEMALE2000": 51,
+        "POP2008": 126,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010203004,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.40755199972511,
+          -5.715663000347149
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5266,
+        "CU_NAME": "LONGAP C/SCH & H/C",
+        "CU_NO": "401",
+        "GEOCODE": "08010203401",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "03",
+        "WARD_NAME": "LONGAP",
+        "LATITUDE": -5.720973,
+        "LONGITUDE": 143.405201,
+        "REGHH": 5,
+        "TOTPOP2000": 30,
+        "MALE2000": 16,
+        "FEMALE2000": 14,
+        "POP2008": 38,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010203401,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

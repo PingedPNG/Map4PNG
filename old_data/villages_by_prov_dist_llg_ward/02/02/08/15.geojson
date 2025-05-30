@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7721,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7423360004061,
+          -7.331927999877223
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7721,
+        "CU_NAME": "ERA MAIPUA",
+        "CU_NO": "003",
+        "GEOCODE": "02020815003",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "15",
+        "WARD_NAME": "ERA MAIPUA",
+        "LATITUDE": -7.333351,
+        "LONGITUDE": 144.74128,
+        "REGHH": 40,
+        "TOTPOP2000": 399,
+        "MALE2000": 205,
+        "FEMALE2000": 194,
+        "POP2008": 489,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020815003,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7722,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7251140003109,
+          -7.30876600015074
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7722,
+        "CU_NAME": "AURAI",
+        "CU_NO": "004",
+        "GEOCODE": "02020815004",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "15",
+        "WARD_NAME": "ERA MAIPUA",
+        "LATITUDE": -7.310188,
+        "LONGITUDE": 144.724058,
+        "REGHH": 16,
+        "TOTPOP2000": 94,
+        "MALE2000": 48,
+        "FEMALE2000": 46,
+        "POP2008": 116,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020815004,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

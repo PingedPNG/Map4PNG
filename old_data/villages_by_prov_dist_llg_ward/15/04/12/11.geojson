@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18872,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.18426699962242,
+          -3.569700000154853
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18872,
+        "CU_NAME": "AHERI",
+        "CU_NO": "001",
+        "GEOCODE": "15041211001",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "AHERI",
+        "LATITUDE": -3.571078,
+        "LONGITUDE": 141.183174,
+        "REGHH": 24,
+        "TOTPOP2000": 123,
+        "MALE2000": 72,
+        "FEMALE2000": 51,
+        "POP2008": 147,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041211001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.17235799992181,
+          -3.5869040003192936
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18873,
+        "CU_NAME": "BANANAG",
+        "CU_NO": "004",
+        "GEOCODE": "15041211004",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "AHERI",
+        "LATITUDE": -3.596293,
+        "LONGITUDE": 141.175956,
+        "REGHH": 11,
+        "TOTPOP2000": 66,
+        "MALE2000": 42,
+        "FEMALE2000": 24,
+        "POP2008": 82,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041211004,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18874,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.19197499984648,
+          -3.5733850001176393
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18874,
+        "CU_NAME": "IBAGUM",
+        "CU_NO": "010",
+        "GEOCODE": "15041211010",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "AHERI",
+        "LATITUDE": -3.574763,
+        "LONGITUDE": 141.190882,
+        "REGHH": 35,
+        "TOTPOP2000": 209,
+        "MALE2000": 111,
+        "FEMALE2000": 98,
+        "POP2008": 252,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041211010,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18875,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1684369998677,
+          -3.6052669999720024
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18875,
+        "CU_NAME": "SRAMINAG",
+        "CU_NO": "025",
+        "GEOCODE": "15041211025",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "AHERI",
+        "LATITUDE": -3.606644,
+        "LONGITUDE": 141.167344,
+        "REGHH": 26,
+        "TOTPOP2000": 109,
+        "MALE2000": 62,
+        "FEMALE2000": 47,
+        "POP2008": 133,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041211025,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18876,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1541260000149,
+          -3.5402079998992235
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18876,
+        "CU_NAME": "MOWAINERI",
+        "CU_NO": "026",
+        "GEOCODE": "15041211026",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "11",
+        "WARD_NAME": "AHERI",
+        "LATITUDE": -3.541586,
+        "LONGITUDE": 141.153033,
+        "REGHH": 25,
+        "TOTPOP2000": 129,
+        "MALE2000": 71,
+        "FEMALE2000": 58,
+        "POP2008": 155,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041211026,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5430,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60079599983555,
+          -5.3652150001721
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5430,
+        "CU_NAME": "KAMBUS",
+        "CU_NO": "001",
+        "GEOCODE": "08020321001",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "KAMUS",
+        "LATITUDE": -5.366615,
+        "LONGITUDE": 143.59973,
+        "REGHH": 32,
+        "TOTPOP2000": 182,
+        "MALE2000": 98,
+        "FEMALE2000": 84,
+        "POP2008": 228,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020321001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5431,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5911629998726,
+          -5.352561000289882
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5431,
+        "CU_NAME": "NEOLAM (NEOLAMA)",
+        "CU_NO": "002",
+        "GEOCODE": "08020321002",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "KAMUS",
+        "LATITUDE": -5.353961,
+        "LONGITUDE": 143.590097,
+        "REGHH": 40,
+        "TOTPOP2000": 195,
+        "MALE2000": 93,
+        "FEMALE2000": 102,
+        "POP2008": 246,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020321002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5432,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5887160003432,
+          -5.363524999578999
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5432,
+        "CU_NAME": "TARIOK",
+        "CU_NO": "003",
+        "GEOCODE": "08020321003",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "KAMUS",
+        "LATITUDE": -5.364925,
+        "LONGITUDE": 143.58765,
+        "REGHH": 17,
+        "TOTPOP2000": 79,
+        "MALE2000": 45,
+        "FEMALE2000": 34,
+        "POP2008": 99,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020321003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5433,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5947750000663,
+          -5.368441999698462
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5433,
+        "CU_NAME": "AIMALIPOS",
+        "CU_NO": "004",
+        "GEOCODE": "08020321004",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "03",
+        "WARD_NO": "21",
+        "WARD_NAME": "KAMUS",
+        "LATITUDE": -5.366913,
+        "LONGITUDE": 143.596006,
+        "REGHH": 12,
+        "TOTPOP2000": 55,
+        "MALE2000": 28,
+        "FEMALE2000": 27,
+        "POP2008": 71,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020321004,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

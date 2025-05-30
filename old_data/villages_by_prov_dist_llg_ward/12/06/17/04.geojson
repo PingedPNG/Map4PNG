@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11546,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.11753000030933,
+          -6.669199999680188
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11546,
+        "CU_NAME": "SIAGA FAIVO",
+        "CU_NO": "004",
+        "GEOCODE": "12061704004",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "04",
+        "WARD_NAME": "SIAGA",
+        "LATITUDE": -6.670619,
+        "LONGITUDE": 146.116494,
+        "REGHH": 40,
+        "TOTPOP2000": 231,
+        "MALE2000": 120,
+        "FEMALE2000": 111,
+        "POP2008": 288,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061704004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11547,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.12820599980716,
+          -6.655962999892495
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11547,
+        "CU_NAME": "SIAGA WARUNGAO",
+        "CU_NO": "005",
+        "GEOCODE": "12061704005",
+        "PROV_KEY": "12",
+        "DIST_NO": "06",
+        "LLG_NO": "17",
+        "WARD_NO": "04",
+        "WARD_NAME": "SIAGA",
+        "LATITUDE": -6.657382,
+        "LONGITUDE": 146.12717,
+        "REGHH": 46,
+        "TOTPOP2000": 256,
+        "MALE2000": 121,
+        "FEMALE2000": 135,
+        "POP2008": 319,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12061704005,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

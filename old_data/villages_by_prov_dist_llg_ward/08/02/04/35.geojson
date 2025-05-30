@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5519,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.91387599987752,
+          -5.357312999994917
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5519,
+        "CU_NAME": "YAWALIMANDA",
+        "CU_NO": "001",
+        "GEOCODE": "08020435001",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "35",
+        "WARD_NAME": "YAWALIMANDA",
+        "LATITUDE": -5.358714,
+        "LONGITUDE": 143.912814,
+        "REGHH": 85,
+        "TOTPOP2000": 418,
+        "MALE2000": 222,
+        "FEMALE2000": 196,
+        "POP2008": 525,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020435001,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

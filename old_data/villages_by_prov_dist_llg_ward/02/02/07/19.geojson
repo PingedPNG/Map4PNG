@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7661,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.18100999971182,
+          -7.777531000355339
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7661,
+        "CU_NAME": "AUMU",
+        "CU_NO": "003",
+        "GEOCODE": "02020719003",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "19",
+        "WARD_NAME": "AUMU",
+        "LATITUDE": -7.770257,
+        "LONGITUDE": 145.182326,
+        "REGHH": 29,
+        "TOTPOP2000": 261,
+        "MALE2000": 133,
+        "FEMALE2000": 128,
+        "POP2008": 321,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020719003,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5946,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.89222799982235,
+          -5.633941999923309
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5946,
+        "CU_NAME": "LAI RIVERSIDE",
+        "CU_NO": "001",
+        "GEOCODE": "08051382001",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "82",
+        "WARD_NAME": "WAPENAMANDA URBAN",
+        "LATITUDE": -5.633129,
+        "LONGITUDE": 143.889074,
+        "REGHH": 46,
+        "TOTPOP2000": 283,
+        "MALE2000": 147,
+        "FEMALE2000": 136,
+        "POP2008": 355,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051382001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5947,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.88978699967038,
+          -5.632254000321836
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5947,
+        "CU_NAME": "ROAD \"A\" - AIRSTRIP",
+        "CU_NO": "002",
+        "GEOCODE": "08051382002",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "82",
+        "WARD_NAME": "WAPENAMANDA URBAN",
+        "LATITUDE": -5.632509,
+        "LONGITUDE": 143.888718,
+        "REGHH": 25,
+        "TOTPOP2000": 144,
+        "MALE2000": 66,
+        "FEMALE2000": 78,
+        "POP2008": 181,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051382002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5948,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.88909900031865,
+          -5.628240999622392
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5948,
+        "CU_NAME": "DISTRICT OFFICE",
+        "CU_NO": "003",
+        "GEOCODE": "08051382003",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "82",
+        "WARD_NAME": "WAPENAMANDA URBAN",
+        "LATITUDE": -5.632376,
+        "LONGITUDE": 143.888049,
+        "REGHH": 26,
+        "TOTPOP2000": 174,
+        "MALE2000": 95,
+        "FEMALE2000": 79,
+        "POP2008": 218,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051382003,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5949,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.89124999968783,
+          -5.629827999962174
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5949,
+        "CU_NAME": "MARKET - BUS STOP",
+        "CU_NO": "004",
+        "GEOCODE": "08051382004",
+        "PROV_KEY": "08",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "82",
+        "WARD_NAME": "WAPENAMANDA URBAN",
+        "LATITUDE": -5.632242,
+        "LONGITUDE": 143.889475,
+        "REGHH": 29,
+        "TOTPOP2000": 129,
+        "MALE2000": 63,
+        "FEMALE2000": 66,
+        "POP2008": 162,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8051382004,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

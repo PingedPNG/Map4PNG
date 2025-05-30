@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7383,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.19423100006065,
+          -3.6949269995812983
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7383,
+        "CU_NAME": "MAMBORU",
+        "CU_NO": "003",
+        "GEOCODE": "14062620003",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "26",
+        "WARD_NO": "20",
+        "WARD_NAME": "MIAMBORU",
+        "LATITUDE": -3.696501,
+        "LONGITUDE": 143.195009,
+        "REGHH": 101,
+        "TOTPOP2000": 450,
+        "MALE2000": 226,
+        "FEMALE2000": 224,
+        "POP2008": 536,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062620003,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

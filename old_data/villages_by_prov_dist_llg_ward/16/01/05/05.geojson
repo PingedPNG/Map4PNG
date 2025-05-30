@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9406,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.126428000352,
+          -1.9866420004279348
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9406,
+        "CU_NAME": "LAPAHAN",
+        "CU_NO": "004",
+        "GEOCODE": "16010505004",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "05",
+        "WARD_NAME": "LAPAHAN",
+        "LATITUDE": -1.986011,
+        "LONGITUDE": 147.12851,
+        "REGHH": 32,
+        "TOTPOP2000": 212,
+        "MALE2000": 119,
+        "FEMALE2000": 93,
+        "POP2008": 261,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010505004,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

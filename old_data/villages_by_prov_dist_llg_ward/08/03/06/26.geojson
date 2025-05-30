@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5605,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3807100002664,
+          -5.483645000016679
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5605,
+        "CU_NAME": "YENGIYENGI",
+        "CU_NO": "010",
+        "GEOCODE": "08030626010",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "26",
+        "WARD_NAME": "YENGIYENGI",
+        "LATITUDE": -5.485046,
+        "LONGITUDE": 143.379641,
+        "REGHH": 63,
+        "TOTPOP2000": 402,
+        "MALE2000": 217,
+        "FEMALE2000": 185,
+        "POP2008": 505,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030626010,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4807,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.67693200011183,
+          -5.489572999993925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4807,
+        "CU_NAME": "PENOI",
+        "CU_NO": "018",
+        "GEOCODE": "18031013018",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "TOKAI",
+        "LATITUDE": -5.490988,
+        "LONGITUDE": 151.675977,
+        "REGHH": 21,
+        "TOTPOP2000": 92,
+        "MALE2000": 55,
+        "FEMALE2000": 37,
+        "POP2008": 111,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031013018,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4808,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.72177699970882,
+          -5.5055310002554165
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4808,
+        "CU_NAME": "TOKAI",
+        "CU_NO": "023",
+        "GEOCODE": "18031013023",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "TOKAI",
+        "LATITUDE": -5.511608,
+        "LONGITUDE": 151.720813,
+        "REGHH": 9,
+        "TOTPOP2000": 49,
+        "MALE2000": 20,
+        "FEMALE2000": 29,
+        "POP2008": 57,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031013023,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4809,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.72969699981672,
+          -5.511845000046662
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4809,
+        "CU_NAME": "LIKON",
+        "CU_NO": "024",
+        "GEOCODE": "18031013024",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "TOKAI",
+        "LATITUDE": -5.513261,
+        "LONGITUDE": 151.728743,
+        "REGHH": 26,
+        "TOTPOP2000": 148,
+        "MALE2000": 66,
+        "FEMALE2000": 82,
+        "POP2008": 180,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031013024,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4810,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.71239000029834,
+          -5.506256000414055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4810,
+        "CU_NAME": "KERENGME",
+        "CU_NO": "025",
+        "GEOCODE": "18031013025",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "TOKAI",
+        "LATITUDE": -5.511415,
+        "LONGITUDE": 151.71794,
+        "REGHH": 20,
+        "TOTPOP2000": 88,
+        "MALE2000": 40,
+        "FEMALE2000": 48,
+        "POP2008": 105,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031013025,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4811,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.71268500041253,
+          -5.510767999843267
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4811,
+        "CU_NAME": "ROLPUN",
+        "CU_NO": "026",
+        "GEOCODE": "18031013026",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "TOKAI",
+        "LATITUDE": -5.512184,
+        "LONGITUDE": 151.71173,
+        "REGHH": 11,
+        "TOTPOP2000": 58,
+        "MALE2000": 33,
+        "FEMALE2000": 25,
+        "POP2008": 71,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031013026,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7284400003058,
+          -5.509683000170298
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4812,
+        "CU_NAME": "MAMBUPUN",
+        "CU_NO": "027",
+        "GEOCODE": "18031013027",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "13",
+        "WARD_NAME": "TOKAI",
+        "LATITUDE": -5.511094,
+        "LONGITUDE": 151.724694,
+        "REGHH": 6,
+        "TOTPOP2000": 40,
+        "MALE2000": 19,
+        "FEMALE2000": 21,
+        "POP2008": 48,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031013027,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

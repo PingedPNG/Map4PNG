@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.09724199991842,
+          -5.89538300002539
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5104,
+        "CU_NAME": "PEPENG",
+        "CU_NO": "001",
+        "GEOCODE": "18031434001",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "34",
+        "WARD_NAME": "PEPENG",
+        "LATITUDE": -5.896802,
+        "LONGITUDE": 151.096278,
+        "REGHH": 26,
+        "TOTPOP2000": 120,
+        "MALE2000": 58,
+        "FEMALE2000": 62,
+        "POP2008": 145,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031434001,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

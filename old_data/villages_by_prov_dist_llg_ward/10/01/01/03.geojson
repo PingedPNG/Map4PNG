@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13857,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.08682500007376,
+          -6.1052100004411045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13857,
+        "CU_NAME": "ARAN",
+        "CU_NO": "003",
+        "GEOCODE": "10010103003",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "MEMBIMANGI",
+        "LATITUDE": -6.106621,
+        "LONGITUDE": 145.085777,
+        "REGHH": 40,
+        "TOTPOP2000": 164,
+        "MALE2000": 79,
+        "FEMALE2000": 85,
+        "POP2008": 188,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010103003,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13858,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.09134199973357,
+          -6.11004000014583
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13858,
+        "CU_NAME": "MEMBIMANGI",
+        "CU_NO": "004",
+        "GEOCODE": "10010103004",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "MEMBIMANGI",
+        "LATITUDE": -6.111451,
+        "LONGITUDE": 145.090294,
+        "REGHH": 109,
+        "TOTPOP2000": 401,
+        "MALE2000": 198,
+        "FEMALE2000": 203,
+        "POP2008": 462,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010103004,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13859,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0893060002718,
+          -6.1053070004176675
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13859,
+        "CU_NAME": "KIAU",
+        "CU_NO": "005",
+        "GEOCODE": "10010103005",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "MEMBIMANGI",
+        "LATITUDE": -6.106718,
+        "LONGITUDE": 145.088258,
+        "REGHH": 73,
+        "TOTPOP2000": 225,
+        "MALE2000": 112,
+        "FEMALE2000": 113,
+        "POP2008": 258,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010103005,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13860,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.07916999959582,
+          -6.104913000234717
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13860,
+        "CU_NAME": "KUMUL SDA",
+        "CU_NO": "401",
+        "GEOCODE": "10010103401",
+        "PROV_KEY": "10",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "MEMBIMANGI",
+        "LATITUDE": -6.106324,
+        "LONGITUDE": 145.078121,
+        "REGHH": 29,
+        "TOTPOP2000": 97,
+        "MALE2000": 52,
+        "FEMALE2000": 45,
+        "POP2008": 113,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10010103401,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

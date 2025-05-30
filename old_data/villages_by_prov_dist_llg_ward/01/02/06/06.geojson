@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15302,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.31570699957842,
+          -6.008188000375867
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15302,
+        "CU_NAME": "GRE",
+        "CU_NO": "003",
+        "GEOCODE": "01020606003",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "GRE",
+        "LATITUDE": -6.015509,
+        "LONGITUDE": 141.305754,
+        "REGHH": 55,
+        "TOTPOP2000": 300,
+        "MALE2000": 150,
+        "FEMALE2000": 150,
+        "POP2008": 389,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020606003,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

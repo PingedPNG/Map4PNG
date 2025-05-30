@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8388,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6893159997337,
+          -5.04359600025515
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8388,
+        "CU_NAME": "JAKIPUAT",
+        "CU_NO": "017",
+        "GEOCODE": "13030702017",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -5.044995,
+        "LONGITUDE": 144.688264,
+        "REGHH": 8,
+        "TOTPOP2000": 51,
+        "MALE2000": 21,
+        "FEMALE2000": 30,
+        "POP2008": 62,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030702017,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8389,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.55097599994247,
+          -4.9929789997809735
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8389,
+        "CU_NAME": "LITIBU",
+        "CU_NO": "024",
+        "GEOCODE": "13030702024",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -4.988088,
+        "LONGITUDE": 144.559088,
+        "REGHH": 42,
+        "TOTPOP2000": 257,
+        "MALE2000": 128,
+        "FEMALE2000": 129,
+        "POP2008": 318,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030702024,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8390,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6183889997526,
+          -5.045868999854406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8390,
+        "CU_NAME": "UNDUVAGU",
+        "CU_NO": "036",
+        "GEOCODE": "13030702036",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -5.047268,
+        "LONGITUDE": 144.617336,
+        "REGHH": 11,
+        "TOTPOP2000": 61,
+        "MALE2000": 28,
+        "FEMALE2000": 33,
+        "POP2008": 77,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030702036,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8391,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.60013499973047,
+          -4.972205999607127
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8391,
+        "CU_NAME": "WOBU",
+        "CU_NO": "046",
+        "GEOCODE": "13030702046",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -4.973604,
+        "LONGITUDE": 144.599082,
+        "REGHH": 45,
+        "TOTPOP2000": 253,
+        "MALE2000": 120,
+        "FEMALE2000": 133,
+        "POP2008": 313,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030702046,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8392,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.63910199985742,
+          -5.083526999871083
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8392,
+        "CU_NAME": "ALONGO",
+        "CU_NO": "047",
+        "GEOCODE": "13030702047",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -5.054831,
+        "LONGITUDE": 144.651198,
+        "REGHH": 12,
+        "TOTPOP2000": 76,
+        "MALE2000": 42,
+        "FEMALE2000": 34,
+        "POP2008": 92,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030702047,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8393,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.61676500040448,
+          -5.022462999667653
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8393,
+        "CU_NAME": "KOLUM",
+        "CU_NO": "049",
+        "GEOCODE": "13030702049",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -5.023861,
+        "LONGITUDE": 144.615712,
+        "REGHH": 13,
+        "TOTPOP2000": 85,
+        "MALE2000": 41,
+        "FEMALE2000": 44,
+        "POP2008": 105,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030702049,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8394,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6033630002023,
+          -4.983443999840688
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8394,
+        "CU_NAME": "LORABU",
+        "CU_NO": "050",
+        "GEOCODE": "13030702050",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "07",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -4.978287,
+        "LONGITUDE": 144.582001,
+        "REGHH": 12,
+        "TOTPOP2000": 66,
+        "MALE2000": 33,
+        "FEMALE2000": 33,
+        "POP2008": 82,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030702050,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

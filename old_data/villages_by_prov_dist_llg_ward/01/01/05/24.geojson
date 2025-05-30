@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4011380000187,
+          -6.31368200042391
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15263,
+        "CU_NAME": "MABOMANIBI",
+        "CU_NO": "016",
+        "GEOCODE": "01010524016",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "24",
+        "WARD_NAME": "MABOMANIBI",
+        "LATITUDE": -6.315088,
+        "LONGITUDE": 142.400055,
+        "REGHH": 61,
+        "TOTPOP2000": 312,
+        "MALE2000": 152,
+        "FEMALE2000": 160,
+        "POP2008": 405,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010524016,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

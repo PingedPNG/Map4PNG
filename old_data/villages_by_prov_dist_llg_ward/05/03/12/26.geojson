@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.17604799991534,
+          -8.845747000123936
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10156,
+        "CU_NAME": "VAKUTA",
+        "CU_NO": "001",
+        "GEOCODE": "05031226001",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "26",
+        "WARD_NAME": "VAKUTA",
+        "LATITUDE": -8.850603,
+        "LONGITUDE": 151.178841,
+        "REGHH": 102,
+        "TOTPOP2000": 514,
+        "MALE2000": 258,
+        "FEMALE2000": 256,
+        "POP2008": 627,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031226001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10157,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.19125999994912,
+          -8.857852999915963
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10157,
+        "CU_NAME": "KAULAKA",
+        "CU_NO": "002",
+        "GEOCODE": "05031226002",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "26",
+        "WARD_NAME": "VAKUTA",
+        "LATITUDE": -8.859308,
+        "LONGITUDE": 151.190291,
+        "REGHH": 54,
+        "TOTPOP2000": 284,
+        "MALE2000": 152,
+        "FEMALE2000": 132,
+        "POP2008": 345,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031226002,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10158,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1680059995773,
+          -8.839110999872673
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10158,
+        "CU_NAME": "OKINAI",
+        "CU_NO": "003",
+        "GEOCODE": "05031226003",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "26",
+        "WARD_NAME": "VAKUTA",
+        "LATITUDE": -8.840565,
+        "LONGITUDE": 151.167036,
+        "REGHH": 31,
+        "TOTPOP2000": 172,
+        "MALE2000": 86,
+        "FEMALE2000": 86,
+        "POP2008": 209,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031226003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10159,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.13007499956166,
+          -8.796649999597776
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10159,
+        "CU_NAME": "GILIBWA",
+        "CU_NO": "004",
+        "GEOCODE": "05031226004",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "26",
+        "WARD_NAME": "VAKUTA",
+        "LATITUDE": -8.797832,
+        "LONGITUDE": 151.129658,
+        "REGHH": 19,
+        "TOTPOP2000": 96,
+        "MALE2000": 48,
+        "FEMALE2000": 48,
+        "POP2008": 117,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031226004,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

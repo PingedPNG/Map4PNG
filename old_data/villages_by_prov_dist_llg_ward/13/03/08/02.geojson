@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8499,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84669199963616,
+          -4.667475999717567
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8499,
+        "CU_NAME": "BOGEN",
+        "CU_NO": "004",
+        "GEOCODE": "13030802004",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -4.662792,
+        "LONGITUDE": 144.857852,
+        "REGHH": 58,
+        "TOTPOP2000": 374,
+        "MALE2000": 190,
+        "FEMALE2000": 184,
+        "POP2008": 463,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030802004,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8500,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.90877400002012,
+          -4.705761999916319
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8500,
+        "CU_NAME": "MISIVINDI",
+        "CU_NO": "014",
+        "GEOCODE": "13030802014",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -4.71224,
+        "LONGITUDE": 144.903188,
+        "REGHH": 24,
+        "TOTPOP2000": 145,
+        "MALE2000": 78,
+        "FEMALE2000": 67,
+        "POP2008": 179,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030802014,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8501,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8728249996741,
+          -4.710253000175783
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8501,
+        "CU_NAME": "UNGEI",
+        "CU_NO": "024",
+        "GEOCODE": "13030802024",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "02",
+        "WARD_NAME": "WARD 2",
+        "LATITUDE": -4.711648,
+        "LONGITUDE": 144.871776,
+        "REGHH": 30,
+        "TOTPOP2000": 206,
+        "MALE2000": 108,
+        "FEMALE2000": 98,
+        "POP2008": 256,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030802024,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7684,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2599980002076,
+          -7.372750000112376
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7684,
+        "CU_NAME": "IRIMUKU",
+        "CU_NO": "001",
+        "GEOCODE": "02020806001",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "06",
+        "WARD_NAME": "IRIMUKU",
+        "LATITUDE": -7.374172,
+        "LONGITUDE": 144.258936,
+        "REGHH": 21,
+        "TOTPOP2000": 144,
+        "MALE2000": 70,
+        "FEMALE2000": 74,
+        "POP2008": 176,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020806001,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7685,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.25643400042884,
+          -7.36797200010767
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7685,
+        "CU_NAME": "KITOMAVE SDA MISS. STN.",
+        "CU_NO": "501",
+        "GEOCODE": "02020806501",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "06",
+        "WARD_NAME": "IRIMUKU",
+        "LATITUDE": -7.366344,
+        "LONGITUDE": 144.256309,
+        "REGHH": 2,
+        "TOTPOP2000": 8,
+        "MALE2000": 3,
+        "FEMALE2000": 5,
+        "POP2008": 8,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020806501,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

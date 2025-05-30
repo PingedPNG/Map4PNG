@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4634,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1389529995813,
+          -4.4040289997385
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4634,
+        "CU_NAME": "VUNARARERE",
+        "CU_NO": "001",
+        "GEOCODE": "18010528001",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "28",
+        "WARD_NAME": "VUNARARERE",
+        "LATITUDE": -4.405431,
+        "LONGITUDE": 152.138006,
+        "REGHH": 54,
+        "TOTPOP2000": 322,
+        "MALE2000": 163,
+        "FEMALE2000": 159,
+        "POP2008": 392,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010528001,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

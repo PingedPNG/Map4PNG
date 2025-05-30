@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 16952,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.89621800016062,
+          -5.727932999608186
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16952,
+        "CU_NAME": "KUNMOL",
+        "CU_NO": "015",
+        "GEOCODE": "09040707015",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "07",
+        "WARD_NAME": "KUNMOL",
+        "LATITUDE": -5.726206,
+        "LONGITUDE": 144.89714,
+        "REGHH": 41,
+        "TOTPOP2000": 162,
+        "MALE2000": 90,
+        "FEMALE2000": 72,
+        "POP2008": 197,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040707015,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16953,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.89280800028905,
+          -5.725256000264153
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16953,
+        "CU_NAME": "NGAZAI",
+        "CU_NO": "016",
+        "GEOCODE": "09040707016",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "07",
+        "WARD_NAME": "KUNMOL",
+        "LATITUDE": -5.726206,
+        "LONGITUDE": 144.89714,
+        "REGHH": 11,
+        "TOTPOP2000": 55,
+        "MALE2000": 24,
+        "FEMALE2000": 31,
+        "POP2008": 65,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040707016,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16954,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.89681099962797,
+          -5.7214639998636585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16954,
+        "CU_NAME": "KENDEI",
+        "CU_NO": "017",
+        "GEOCODE": "09040707017",
+        "PROV_KEY": "22",
+        "DIST_NO": "2",
+        "LLG_NO": "07",
+        "WARD_NO": "07",
+        "WARD_NAME": "KUNMOL",
+        "LATITUDE": -5.726206,
+        "LONGITUDE": 144.89714,
+        "REGHH": 17,
+        "TOTPOP2000": 64,
+        "MALE2000": 29,
+        "FEMALE2000": 35,
+        "POP2008": 80,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9040707017,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

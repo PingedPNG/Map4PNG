@@ -1,0 +1,581 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21708,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60702500020363,
+          -6.3248890001272
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21708,
+        "CU_NAME": "NENJA",
+        "CU_NO": "011",
+        "GEOCODE": "07072617011",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "17",
+        "WARD_NAME": "NENJA",
+        "LATITUDE": -6.329755,
+        "LONGITUDE": 143.608134,
+        "REGHH": 4,
+        "TOTPOP2000": 43,
+        "MALE2000": 21,
+        "FEMALE2000": 22,
+        "POP2008": 59,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072617011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21709,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60723800013363,
+          -6.326066000445508
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21709,
+        "CU_NAME": "EMIYA",
+        "CU_NO": "012",
+        "GEOCODE": "07072617012",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "17",
+        "WARD_NAME": "NENJA",
+        "LATITUDE": -6.329755,
+        "LONGITUDE": 143.608134,
+        "REGHH": 33,
+        "TOTPOP2000": 177,
+        "MALE2000": 81,
+        "FEMALE2000": 96,
+        "POP2008": 245,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072617012,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21710,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60765499957859,
+          -6.326272000052711
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21710,
+        "CU_NAME": "ENDOWA",
+        "CU_NO": "013",
+        "GEOCODE": "07072617013",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "17",
+        "WARD_NAME": "NENJA",
+        "LATITUDE": -6.329755,
+        "LONGITUDE": 143.608134,
+        "REGHH": 6,
+        "TOTPOP2000": 25,
+        "MALE2000": 14,
+        "FEMALE2000": 11,
+        "POP2008": 33,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072617013,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21711,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60730399957993,
+          -6.325372999963918
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21711,
+        "CU_NAME": "YEPIT",
+        "CU_NO": "014",
+        "GEOCODE": "07072617014",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "17",
+        "WARD_NAME": "NENJA",
+        "LATITUDE": -6.329755,
+        "LONGITUDE": 143.608134,
+        "REGHH": 6,
+        "TOTPOP2000": 21,
+        "MALE2000": 9,
+        "FEMALE2000": 12,
+        "POP2008": 29,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072617014,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21712,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6065469997443,
+          -6.326208999845392
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21712,
+        "CU_NAME": "POPEI",
+        "CU_NO": "015",
+        "GEOCODE": "07072617015",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "17",
+        "WARD_NAME": "NENJA",
+        "LATITUDE": -6.329755,
+        "LONGITUDE": 143.608134,
+        "REGHH": 7,
+        "TOTPOP2000": 57,
+        "MALE2000": 31,
+        "FEMALE2000": 26,
+        "POP2008": 79,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072617015,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21713,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60794400031546,
+          -6.325828000261936
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21713,
+        "CU_NAME": "HALOMRA",
+        "CU_NO": "016",
+        "GEOCODE": "07072617016",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "17",
+        "WARD_NAME": "NENJA",
+        "LATITUDE": -6.329755,
+        "LONGITUDE": 143.608134,
+        "REGHH": 5,
+        "TOTPOP2000": 31,
+        "MALE2000": 15,
+        "FEMALE2000": 16,
+        "POP2008": 42,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072617016,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21714,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6084120003136,
+          -6.325505999801976
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21714,
+        "CU_NAME": "HUMBO",
+        "CU_NO": "017",
+        "GEOCODE": "07072617017",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "17",
+        "WARD_NAME": "NENJA",
+        "LATITUDE": -6.329755,
+        "LONGITUDE": 143.608134,
+        "REGHH": 21,
+        "TOTPOP2000": 99,
+        "MALE2000": 42,
+        "FEMALE2000": 57,
+        "POP2008": 137,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072617017,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21715,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6085470002439,
+          -6.324812000173608
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21715,
+        "CU_NAME": "HUMUL",
+        "CU_NO": "018",
+        "GEOCODE": "07072617018",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "17",
+        "WARD_NAME": "NENJA",
+        "LATITUDE": -6.329755,
+        "LONGITUDE": 143.608134,
+        "REGHH": 17,
+        "TOTPOP2000": 120,
+        "MALE2000": 56,
+        "FEMALE2000": 64,
+        "POP2008": 166,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072617018,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21716,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60800400038443,
+          -6.3268950000041855
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21716,
+        "CU_NAME": "POROPANDA",
+        "CU_NO": "019",
+        "GEOCODE": "07072617019",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "17",
+        "WARD_NAME": "NENJA",
+        "LATITUDE": -6.329755,
+        "LONGITUDE": 143.608134,
+        "REGHH": 10,
+        "TOTPOP2000": 60,
+        "MALE2000": 30,
+        "FEMALE2000": 30,
+        "POP2008": 84,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072617019,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21717,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6064729999291,
+          -6.3252380000336075
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21717,
+        "CU_NAME": "ROPO",
+        "CU_NO": "020",
+        "GEOCODE": "07072617020",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "17",
+        "WARD_NAME": "NENJA",
+        "LATITUDE": -6.329755,
+        "LONGITUDE": 143.608134,
+        "REGHH": 20,
+        "TOTPOP2000": 82,
+        "MALE2000": 43,
+        "FEMALE2000": 39,
+        "POP2008": 114,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072617020,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21718,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60924600010287,
+          -6.326195000099119
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21718,
+        "CU_NAME": "HEMBE",
+        "CU_NO": "022",
+        "GEOCODE": "07072617022",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "17",
+        "WARD_NAME": "NENJA",
+        "LATITUDE": -6.329755,
+        "LONGITUDE": 143.608134,
+        "REGHH": 11,
+        "TOTPOP2000": 58,
+        "MALE2000": 32,
+        "FEMALE2000": 26,
+        "POP2008": 81,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072617022,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21719,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6078650002696,
+          -6.326756999935526
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21719,
+        "CU_NAME": "MANDAMAO",
+        "CU_NO": "023",
+        "GEOCODE": "07072617023",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "17",
+        "WARD_NAME": "NENJA",
+        "LATITUDE": -6.329755,
+        "LONGITUDE": 143.608134,
+        "REGHH": 10,
+        "TOTPOP2000": 56,
+        "MALE2000": 32,
+        "FEMALE2000": 24,
+        "POP2008": 78,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072617023,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21720,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60896399968885,
+          -6.325226000379587
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21720,
+        "CU_NAME": "OMU",
+        "CU_NO": "024",
+        "GEOCODE": "07072617024",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "17",
+        "WARD_NAME": "NENJA",
+        "LATITUDE": -6.329755,
+        "LONGITUDE": 143.608134,
+        "REGHH": 7,
+        "TOTPOP2000": 48,
+        "MALE2000": 28,
+        "FEMALE2000": 20,
+        "POP2008": 66,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072617024,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21721,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60771499964756,
+          -6.3245390001746955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21721,
+        "CU_NAME": "WOMBUANDA",
+        "CU_NO": "025",
+        "GEOCODE": "07072617025",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "17",
+        "WARD_NAME": "NENJA",
+        "LATITUDE": -6.329755,
+        "LONGITUDE": 143.608134,
+        "REGHH": 10,
+        "TOTPOP2000": 44,
+        "MALE2000": 24,
+        "FEMALE2000": 20,
+        "POP2008": 60,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072617025,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21722,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60619999993014,
+          -6.3259329997081295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21722,
+        "CU_NAME": "KEIRE",
+        "CU_NO": "026",
+        "GEOCODE": "07072617026",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "17",
+        "WARD_NAME": "NENJA",
+        "LATITUDE": -6.329755,
+        "LONGITUDE": 143.608134,
+        "REGHH": 8,
+        "TOTPOP2000": 39,
+        "MALE2000": 19,
+        "FEMALE2000": 20,
+        "POP2008": 55,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072617026,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21723,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6085559997597,
+          -6.326613999636322
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21723,
+        "CU_NAME": "OTAKUWE",
+        "CU_NO": "027",
+        "GEOCODE": "07072617027",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "17",
+        "WARD_NAME": "NENJA",
+        "LATITUDE": -6.329755,
+        "LONGITUDE": 143.608134,
+        "REGHH": 9,
+        "TOTPOP2000": 48,
+        "MALE2000": 25,
+        "FEMALE2000": 23,
+        "POP2008": 66,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072617027,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6068969996968,
+          -6.327039000349544
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21724,
+        "CU_NAME": "YENGIANDA",
+        "CU_NO": "028",
+        "GEOCODE": "07072617028",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "17",
+        "WARD_NAME": "NENJA",
+        "LATITUDE": -6.329755,
+        "LONGITUDE": 143.608134,
+        "REGHH": 16,
+        "TOTPOP2000": 87,
+        "MALE2000": 39,
+        "FEMALE2000": 48,
+        "POP2008": 121,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072617028,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.60537200041756,
+          -6.326492000305507
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21725,
+        "CU_NAME": "KIPOLU",
+        "CU_NO": "029",
+        "GEOCODE": "07072617029",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "26",
+        "WARD_NO": "17",
+        "WARD_NAME": "NENJA",
+        "LATITUDE": -6.329755,
+        "LONGITUDE": 143.608134,
+        "REGHH": 10,
+        "TOTPOP2000": 60,
+        "MALE2000": 36,
+        "FEMALE2000": 24,
+        "POP2008": 84,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072617029,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

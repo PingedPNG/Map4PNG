@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.06164299972477,
+          -4.764632999713115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18814,
+        "CU_NAME": "FUNGAL",
+        "CU_NO": "008",
+        "GEOCODE": "15031110008",
+        "PROV_KEY": "15",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "10",
+        "WARD_NAME": "FUNGAL",
+        "LATITUDE": -4.776389,
+        "LONGITUDE": 141.062897,
+        "REGHH": 29,
+        "TOTPOP2000": 183,
+        "MALE2000": 101,
+        "FEMALE2000": 82,
+        "POP2008": 221,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15031110008,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

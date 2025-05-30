@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30063,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.25100359963653,
+          -6.343986330404789
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30063,
+        "CU_NAME": "AKARI NO 1",
+        "CU_NO": "001",
+        "GEOCODE": "11050714001",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "GOUNA",
+        "LATITUDE": -6.343986,
+        "LONGITUDE": 145.251004,
+        "REGHH": 47,
+        "TOTPOP2000": 206,
+        "MALE2000": 99,
+        "FEMALE2000": 107,
+        "POP2008": 246,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30064,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.21748724024405,
+          -6.365725469554718
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30064,
+        "CU_NAME": "GUSELEVI",
+        "CU_NO": "010",
+        "GEOCODE": "11050714010",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "GOUNA",
+        "LATITUDE": -6.365725,
+        "LONGITUDE": 145.217487,
+        "REGHH": 55,
+        "TOTPOP2000": 246,
+        "MALE2000": 123,
+        "FEMALE2000": 123,
+        "POP2008": 293,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30065,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.23786395955415,
+          -6.412227030253177
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30065,
+        "CU_NAME": "IBINIBI",
+        "CU_NO": "014",
+        "GEOCODE": "11050714014",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "GOUNA",
+        "LATITUDE": -6.412227,
+        "LONGITUDE": 145.237864,
+        "REGHH": 12,
+        "TOTPOP2000": 66,
+        "MALE2000": 33,
+        "FEMALE2000": 33,
+        "POP2008": 79,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30066,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2195216002417,
+          -6.377212980394688
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30066,
+        "CU_NAME": "MEUROSU",
+        "CU_NO": "028",
+        "GEOCODE": "11050714028",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "GOUNA",
+        "LATITUDE": -6.377213,
+        "LONGITUDE": 145.219522,
+        "REGHH": 24,
+        "TOTPOP2000": 132,
+        "MALE2000": 72,
+        "FEMALE2000": 60,
+        "POP2008": 156,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30067,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.23459155955288,
+          -6.383434769998587
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30067,
+        "CU_NAME": "NAGIALI",
+        "CU_NO": "029",
+        "GEOCODE": "11050714029",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "GOUNA",
+        "LATITUDE": -6.383435,
+        "LONGITUDE": 145.234592,
+        "REGHH": 29,
+        "TOTPOP2000": 135,
+        "MALE2000": 66,
+        "FEMALE2000": 69,
+        "POP2008": 159,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30068,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.23002135959814,
+          -6.378231510275953
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30068,
+        "CU_NAME": "NORUGABU",
+        "CU_NO": "032",
+        "GEOCODE": "11050714032",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "GOUNA",
+        "LATITUDE": -6.378232,
+        "LONGITUDE": 145.230021,
+        "REGHH": 98,
+        "TOTPOP2000": 377,
+        "MALE2000": 191,
+        "FEMALE2000": 186,
+        "POP2008": 448,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30069,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.23167231972184,
+          -6.4067309099035015
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30069,
+        "CU_NAME": "YAGASA",
+        "CU_NO": "041",
+        "GEOCODE": "11050714041",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "GOUNA",
+        "LATITUDE": -6.406731,
+        "LONGITUDE": 145.231672,
+        "REGHH": 64,
+        "TOTPOP2000": 318,
+        "MALE2000": 159,
+        "FEMALE2000": 159,
+        "POP2008": 378,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30070,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.22836031987288,
+          -6.368667750016584
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30070,
+        "CU_NAME": "YAUMA NO 1",
+        "CU_NO": "042",
+        "GEOCODE": "11050714042",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "GOUNA",
+        "LATITUDE": -6.368668,
+        "LONGITUDE": 145.22836,
+        "REGHH": 19,
+        "TOTPOP2000": 92,
+        "MALE2000": 48,
+        "FEMALE2000": 44,
+        "POP2008": 108,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30071,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.24856459957664,
+          -6.388673759786116
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30071,
+        "CU_NAME": "AKARI NO 3",
+        "CU_NO": "044",
+        "GEOCODE": "11050714044",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "GOUNA",
+        "LATITUDE": -6.388674,
+        "LONGITUDE": 145.248565,
+        "REGHH": 50,
+        "TOTPOP2000": 208,
+        "MALE2000": 123,
+        "FEMALE2000": 85,
+        "POP2008": 248,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30072,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.259079480134,
+          -6.380180369928098
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30072,
+        "CU_NAME": "YAOMA NO 2",
+        "CU_NO": "045",
+        "GEOCODE": "11050714045",
+        "PROV_KEY": "11",
+        "DIST_NO": "05",
+        "LLG_NO": "07",
+        "WARD_NO": "14",
+        "WARD_NAME": "GOUNA",
+        "LATITUDE": -6.38018,
+        "LONGITUDE": 145.259079,
+        "REGHH": 24,
+        "TOTPOP2000": 98,
+        "MALE2000": 52,
+        "FEMALE2000": 46,
+        "POP2008": 114,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7364,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.20523999962631,
+          -3.6409650004343916
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7364,
+        "CU_NAME": "YABOMUNO",
+        "CU_NO": "014",
+        "GEOCODE": "14062608014",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "26",
+        "WARD_NO": "08",
+        "WARD_NAME": "YABOMUNO",
+        "LATITUDE": -3.642543,
+        "LONGITUDE": 143.204003,
+        "REGHH": 85,
+        "TOTPOP2000": 461,
+        "MALE2000": 251,
+        "FEMALE2000": 210,
+        "POP2008": 549,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062608014,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

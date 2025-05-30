@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21457,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.42541699979472,
+          -6.102505999851985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21457,
+        "CU_NAME": "UNGUBI",
+        "CU_NO": "030",
+        "GEOCODE": "07072529030",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "29",
+        "WARD_NAME": "UNGUBI 1",
+        "LATITUDE": -6.113131,
+        "LONGITUDE": 143.427994,
+        "REGHH": 53,
+        "TOTPOP2000": 353,
+        "MALE2000": 171,
+        "FEMALE2000": 182,
+        "POP2008": 490,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072529030,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21458,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4281960002453,
+          -6.112991000434249
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21458,
+        "CU_NAME": "TIBA",
+        "CU_NO": "031",
+        "GEOCODE": "07072529031",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "29",
+        "WARD_NAME": "UNGUBI 1",
+        "LATITUDE": -6.113131,
+        "LONGITUDE": 143.427994,
+        "REGHH": 15,
+        "TOTPOP2000": 91,
+        "MALE2000": 42,
+        "FEMALE2000": 49,
+        "POP2008": 126,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072529031,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21459,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.43231699962985,
+          -6.117992999976934
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21459,
+        "CU_NAME": "KOATA",
+        "CU_NO": "032",
+        "GEOCODE": "07072529032",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "29",
+        "WARD_NAME": "UNGUBI 1",
+        "LATITUDE": -6.113131,
+        "LONGITUDE": 143.427994,
+        "REGHH": 24,
+        "TOTPOP2000": 140,
+        "MALE2000": 69,
+        "FEMALE2000": 71,
+        "POP2008": 195,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072529032,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21460,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4222250000837,
+          -6.101606999763192
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21460,
+        "CU_NAME": "TOM",
+        "CU_NO": "033",
+        "GEOCODE": "07072529033",
+        "PROV_KEY": "07",
+        "DIST_NO": "07",
+        "LLG_NO": "25",
+        "WARD_NO": "29",
+        "WARD_NAME": "UNGUBI 1",
+        "LATITUDE": -6.113131,
+        "LONGITUDE": 143.427994,
+        "REGHH": 17,
+        "TOTPOP2000": 103,
+        "MALE2000": 48,
+        "FEMALE2000": 55,
+        "POP2008": 143,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7072529033,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

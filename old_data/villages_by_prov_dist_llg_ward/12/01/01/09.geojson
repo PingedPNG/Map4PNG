@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10339,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6435329996483,
+          -6.988391000044544
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10339,
+        "CU_NAME": "ZAMONDANGA",
+        "CU_NO": "002",
+        "GEOCODE": "12010109002",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "09",
+        "WARD_NAME": "KWASANG",
+        "LATITUDE": -6.989814,
+        "LONGITUDE": 146.642503,
+        "REGHH": 19,
+        "TOTPOP2000": 122,
+        "MALE2000": 64,
+        "FEMALE2000": 58,
+        "POP2008": 153,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010109002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10340,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.65885000002754,
+          -6.978662000151132
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10340,
+        "CU_NAME": "BAYWAGA",
+        "CU_NO": "003",
+        "GEOCODE": "12010109003",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "09",
+        "WARD_NAME": "KWASANG",
+        "LATITUDE": -6.980085,
+        "LONGITUDE": 146.657821,
+        "REGHH": 12,
+        "TOTPOP2000": 68,
+        "MALE2000": 39,
+        "FEMALE2000": 29,
+        "POP2008": 84,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010109003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10341,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.70386800040797,
+          -7.0273370001024205
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10341,
+        "CU_NAME": "ZERI",
+        "CU_NO": "004",
+        "GEOCODE": "12010109004",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "09",
+        "WARD_NAME": "KWASANG",
+        "LATITUDE": -7.028761,
+        "LONGITUDE": 146.702839,
+        "REGHH": 15,
+        "TOTPOP2000": 99,
+        "MALE2000": 48,
+        "FEMALE2000": 51,
+        "POP2008": 123,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010109004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7150479997655,
+          -6.961201999872344
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10342,
+        "CU_NAME": "KWASANG",
+        "CU_NO": "009",
+        "GEOCODE": "12010109009",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "09",
+        "WARD_NAME": "KWASANG",
+        "LATITUDE": -6.962625,
+        "LONGITUDE": 146.714019,
+        "REGHH": 54,
+        "TOTPOP2000": 344,
+        "MALE2000": 183,
+        "FEMALE2000": 161,
+        "POP2008": 429,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010109009,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12403,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4530609997654,
+          -2.5535510002783894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12403,
+        "CU_NAME": "TASKUL GOVT. STN",
+        "CU_NO": "001",
+        "GEOCODE": "17010201001",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "01",
+        "WARD_NAME": "TASKUL",
+        "LATITUDE": -2.551558,
+        "LONGITUDE": 150.453438,
+        "REGHH": 42,
+        "TOTPOP2000": 236,
+        "MALE2000": 130,
+        "FEMALE2000": 106,
+        "POP2008": 296,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010201001,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12404,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.48305199965012,
+          -2.5778870001848873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12404,
+        "CU_NAME": "ENELAVA IS VOC/ CNTR",
+        "CU_NO": "402",
+        "GEOCODE": "17010201402",
+        "PROV_KEY": "17",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "01",
+        "WARD_NAME": "TASKUL",
+        "LATITUDE": -2.583982,
+        "LONGITUDE": 150.482744,
+        "REGHH": 3,
+        "TOTPOP2000": 22,
+        "MALE2000": 10,
+        "FEMALE2000": 12,
+        "POP2008": 30,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17010201402,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

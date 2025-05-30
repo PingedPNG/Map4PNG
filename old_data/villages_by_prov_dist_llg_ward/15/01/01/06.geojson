@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18280,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.39629699980674,
+          -3.118512000228577
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18280,
+        "CU_NAME": "ALI ISLAND",
+        "CU_NO": "001",
+        "GEOCODE": "15010106001",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "ALI ISLAND",
+        "LATITUDE": -3.117403,
+        "LONGITUDE": 142.401031,
+        "REGHH": 86,
+        "TOTPOP2000": 624,
+        "MALE2000": 315,
+        "FEMALE2000": 309,
+        "POP2008": 754,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010106001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18281,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.51406100041493,
+          -3.2235270001708614
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18281,
+        "CU_NAME": "ALI BEACH",
+        "CU_NO": "024",
+        "GEOCODE": "15010106024",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "ALI ISLAND",
+        "LATITUDE": -3.224903,
+        "LONGITUDE": 142.512985,
+        "REGHH": 8,
+        "TOTPOP2000": 64,
+        "MALE2000": 35,
+        "FEMALE2000": 29,
+        "POP2008": 80,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010106024,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9478,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.20598700000016,
+          -2.1940330000228982
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9478,
+        "CU_NAME": "LOWAIYA",
+        "CU_NO": "002",
+        "GEOCODE": "16010810002",
+        "PROV_KEY": "16",
+        "DIST_NO": "01",
+        "LLG_NO": "08",
+        "WARD_NO": "10",
+        "WARD_NAME": "LOWAIYA",
+        "LATITUDE": -2.195508,
+        "LONGITUDE": 147.203052,
+        "REGHH": 43,
+        "TOTPOP2000": 241,
+        "MALE2000": 129,
+        "FEMALE2000": 112,
+        "POP2008": 295,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 16010810002,
+        "PROVINCE": 16
+      }
+    }
+  ]
+}

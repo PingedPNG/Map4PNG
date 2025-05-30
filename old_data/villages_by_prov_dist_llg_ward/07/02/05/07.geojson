@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19508,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.01782800026206,
+          -6.191230000364158
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19508,
+        "CU_NAME": "KONGIBUL-PENA",
+        "CU_NO": "001",
+        "GEOCODE": "07020507001",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "07",
+        "WARD_NAME": "KONNGIBUL 2",
+        "LATITUDE": -6.195274,
+        "LONGITUDE": 144.017393,
+        "REGHH": 33,
+        "TOTPOP2000": 140,
+        "MALE2000": 64,
+        "FEMALE2000": 76,
+        "POP2008": 195,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020507001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19509,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0168059998971,
+          -6.191750000062427
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19509,
+        "CU_NAME": "PAMBA",
+        "CU_NO": "002",
+        "GEOCODE": "07020507002",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "07",
+        "WARD_NAME": "KONGIBUL 2",
+        "LATITUDE": -6.195274,
+        "LONGITUDE": 144.017393,
+        "REGHH": 35,
+        "TOTPOP2000": 157,
+        "MALE2000": 74,
+        "FEMALE2000": 83,
+        "POP2008": 218,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020507002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19510,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.01680099966643,
+          -6.190825999720062
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19510,
+        "CU_NAME": "KANGULGE",
+        "CU_NO": "003",
+        "GEOCODE": "07020507003",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "07",
+        "WARD_NAME": "KONGIBUL 2",
+        "LATITUDE": -6.195274,
+        "LONGITUDE": 144.017393,
+        "REGHH": 38,
+        "TOTPOP2000": 137,
+        "MALE2000": 71,
+        "FEMALE2000": 66,
+        "POP2008": 191,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020507003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19511,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.01557399974035,
+          -6.191243000064333
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19511,
+        "CU_NAME": "KOWAPENA",
+        "CU_NO": "004",
+        "GEOCODE": "07020507004",
+        "PROV_KEY": "07",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "07",
+        "WARD_NAME": "KONGIBUL 2",
+        "LATITUDE": -6.195274,
+        "LONGITUDE": 144.017393,
+        "REGHH": 37,
+        "TOTPOP2000": 143,
+        "MALE2000": 70,
+        "FEMALE2000": 73,
+        "POP2008": 199,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7020507004,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

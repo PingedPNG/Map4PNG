@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5061,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1865630000824,
+          -5.743985999754045
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5061,
+        "CU_NAME": "PALIAVULU",
+        "CU_NO": "022",
+        "GEOCODE": "18031418022",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "18",
+        "WARD_NAME": "PALIAVULU",
+        "LATITUDE": -5.745404,
+        "LONGITUDE": 151.1856,
+        "REGHH": 27,
+        "TOTPOP2000": 121,
+        "MALE2000": 64,
+        "FEMALE2000": 57,
+        "POP2008": 146,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031418022,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5062,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1664450004365,
+          -5.738285000352448
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5062,
+        "CU_NAME": "MUMULOALA",
+        "CU_NO": "023",
+        "GEOCODE": "18031418023",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "18",
+        "WARD_NAME": "PALIAVULU",
+        "LATITUDE": -5.739702,
+        "LONGITUDE": 151.165482,
+        "REGHH": 14,
+        "TOTPOP2000": 53,
+        "MALE2000": 24,
+        "FEMALE2000": 29,
+        "POP2008": 61,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031418023,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

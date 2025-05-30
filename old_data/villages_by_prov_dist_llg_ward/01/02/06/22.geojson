@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15330,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.30344699987916,
+          -6.025076000357103
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15330,
+        "CU_NAME": "TIOMNAI NO.1",
+        "CU_NO": "010",
+        "GEOCODE": "01020622010",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "22",
+        "WARD_NAME": "TIOMNAI",
+        "LATITUDE": -6.026479,
+        "LONGITUDE": 141.302352,
+        "REGHH": 49,
+        "TOTPOP2000": 315,
+        "MALE2000": 161,
+        "FEMALE2000": 154,
+        "POP2008": 408,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020622010,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15331,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.30397599999242,
+          -6.0279269996312905
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15331,
+        "CU_NAME": "TIOMNAI NO.2",
+        "CU_NO": "011",
+        "GEOCODE": "01020622011",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "22",
+        "WARD_NAME": "TIOMNAI",
+        "LATITUDE": -6.02933,
+        "LONGITUDE": 141.302881,
+        "REGHH": 6,
+        "TOTPOP2000": 39,
+        "MALE2000": 17,
+        "FEMALE2000": 22,
+        "POP2008": 48,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020622011,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

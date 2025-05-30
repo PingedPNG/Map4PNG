@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6270,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.18040899957577,
+          -4.537937000192358
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6270,
+        "CU_NAME": "SOWANO",
+        "CU_NO": "015",
+        "GEOCODE": "14010432015",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "32",
+        "WARD_NAME": "SOWANO",
+        "LATITUDE": -4.535629,
+        "LONGITUDE": 142.181969,
+        "REGHH": 13,
+        "TOTPOP2000": 90,
+        "MALE2000": 51,
+        "FEMALE2000": 39,
+        "POP2008": 106,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010432015,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6271,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.15861399993616,
+          -4.520336999752715
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6271,
+        "CU_NAME": "ARAPI",
+        "CU_NO": "016",
+        "GEOCODE": "14010432016",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "32",
+        "WARD_NAME": "SOWANO",
+        "LATITUDE": -4.5053,
+        "LONGITUDE": 142.160507,
+        "REGHH": 13,
+        "TOTPOP2000": 91,
+        "MALE2000": 49,
+        "FEMALE2000": 42,
+        "POP2008": 107,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010432016,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6272,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.1679669995774,
+          -4.523867999808317
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6272,
+        "CU_NAME": "SIMOWE",
+        "CU_NO": "017",
+        "GEOCODE": "14010432017",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "32",
+        "WARD_NAME": "SOWANO",
+        "LATITUDE": -4.525454,
+        "LONGITUDE": 142.166716,
+        "REGHH": 14,
+        "TOTPOP2000": 71,
+        "MALE2000": 40,
+        "FEMALE2000": 31,
+        "POP2008": 87,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010432017,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

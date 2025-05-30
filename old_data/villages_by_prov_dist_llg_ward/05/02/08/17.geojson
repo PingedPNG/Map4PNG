@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9864,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.67055700040532,
+          -10.528679000135696
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9864,
+        "CU_NAME": "SIMAGAI",
+        "CU_NO": "016",
+        "GEOCODE": "05020817016",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "17",
+        "WARD_NAME": "SIMAGAI",
+        "LATITUDE": -10.523764,
+        "LONGITUDE": 150.670002,
+        "REGHH": 43,
+        "TOTPOP2000": 236,
+        "MALE2000": 121,
+        "FEMALE2000": 115,
+        "POP2008": 288,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020817016,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9865,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.68411999993816,
+          -10.565031000180454
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9865,
+        "CU_NAME": "LEILEI",
+        "CU_NO": "504",
+        "GEOCODE": "05020817504",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "17",
+        "WARD_NAME": "SIMAGAI",
+        "LATITUDE": -10.566502,
+        "LONGITUDE": 150.683138,
+        "REGHH": 18,
+        "TOTPOP2000": 105,
+        "MALE2000": 49,
+        "FEMALE2000": 56,
+        "POP2008": 129,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020817504,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

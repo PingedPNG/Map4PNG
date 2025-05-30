@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19340,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.96212499996886,
+          -6.277643000424064
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19340,
+        "CU_NAME": "RIANDA",
+        "CU_NO": "001",
+        "GEOCODE": "07010320001",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "MUNGUMAPU",
+        "LATITUDE": -6.280294,
+        "LONGITUDE": 143.962928,
+        "REGHH": 47,
+        "TOTPOP2000": 239,
+        "MALE2000": 122,
+        "FEMALE2000": 117,
+        "POP2008": 331,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010320001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19341,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9605270000211,
+          -6.275708000223972
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19341,
+        "CU_NAME": "SALIKARI",
+        "CU_NO": "002",
+        "GEOCODE": "07010320002",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "MUNGUMAPU",
+        "LATITUDE": -6.280294,
+        "LONGITUDE": 143.962928,
+        "REGHH": 43,
+        "TOTPOP2000": 178,
+        "MALE2000": 95,
+        "FEMALE2000": 83,
+        "POP2008": 247,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010320002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.96299999985013,
+          -6.276400999806242
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19342,
+        "CU_NAME": "PONOWILI",
+        "CU_NO": "003",
+        "GEOCODE": "07010320003",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "MUNGUMAPU",
+        "LATITUDE": -6.280294,
+        "LONGITUDE": 143.962928,
+        "REGHH": 7,
+        "TOTPOP2000": 37,
+        "MALE2000": 22,
+        "FEMALE2000": 15,
+        "POP2008": 53,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010320003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19343,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.96193300010793,
+          -6.274815999558712
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19343,
+        "CU_NAME": "PARE",
+        "CU_NO": "004",
+        "GEOCODE": "07010320004",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "MUNGUMAPU",
+        "LATITUDE": -6.280294,
+        "LONGITUDE": 143.962928,
+        "REGHH": 13,
+        "TOTPOP2000": 55,
+        "MALE2000": 28,
+        "FEMALE2000": 27,
+        "POP2008": 76,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010320004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19344,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.95581899964714,
+          -6.2765450001516
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19344,
+        "CU_NAME": "KUTU",
+        "CU_NO": "005",
+        "GEOCODE": "07010320005",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "MUNGUMAPU",
+        "LATITUDE": -6.280294,
+        "LONGITUDE": 143.962928,
+        "REGHH": 10,
+        "TOTPOP2000": 45,
+        "MALE2000": 23,
+        "FEMALE2000": 22,
+        "POP2008": 61,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010320005,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19345,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9581150003071,
+          -6.279274000094972
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19345,
+        "CU_NAME": "YAREPE",
+        "CU_NO": "006",
+        "GEOCODE": "07010320006",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "20",
+        "WARD_NAME": "MUNGUMAPU",
+        "LATITUDE": -6.280299,
+        "LONGITUDE": 143.962933,
+        "REGHH": 37,
+        "TOTPOP2000": 166,
+        "MALE2000": 80,
+        "FEMALE2000": 86,
+        "POP2008": 231,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010320006,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

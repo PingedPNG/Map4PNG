@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15774,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3159369996929,
+          -5.8958360002311565
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15774,
+        "CU_NAME": "WURUP 1",
+        "CU_NO": "010",
+        "GEOCODE": "09010105010",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "WURUP 1",
+        "LATITUDE": -5.896775,
+        "LONGITUDE": 144.316272,
+        "REGHH": 39,
+        "TOTPOP2000": 144,
+        "MALE2000": 70,
+        "FEMALE2000": 74,
+        "POP2008": 176,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010105010,
+        "PROVINCE": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15775,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.30720299981863,
+          -5.88771599989343
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15775,
+        "CU_NAME": "EKA",
+        "CU_NO": "011",
+        "GEOCODE": "09010105011",
+        "PROV_KEY": "22",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "WURUP 1",
+        "LATITUDE": -5.889514,
+        "LONGITUDE": 144.30827,
+        "REGHH": 90,
+        "TOTPOP2000": 361,
+        "MALE2000": 180,
+        "FEMALE2000": 181,
+        "POP2008": 439,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9010105011,
+        "PROVINCE": 22
+      }
+    }
+  ]
+}

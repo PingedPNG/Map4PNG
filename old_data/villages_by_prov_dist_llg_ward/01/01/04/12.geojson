@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.5428750001812,
+          -7.061528000316912
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15184,
+        "CU_NAME": "TAGUM",
+        "CU_NO": "009",
+        "GEOCODE": "01010412009",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "12",
+        "WARD_NAME": "TAGUM",
+        "LATITUDE": -7.062941,
+        "LONGITUDE": 141.54178,
+        "REGHH": 29,
+        "TOTPOP2000": 230,
+        "MALE2000": 100,
+        "FEMALE2000": 130,
+        "POP2008": 299,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010412009,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

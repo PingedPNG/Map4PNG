@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15701,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.87230699956842,
+          -8.785173000033865
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15701,
+        "CU_NAME": "WIPIM",
+        "CU_NO": "033",
+        "GEOCODE": "01031405033",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "05",
+        "WARD_NAME": "WIPIM",
+        "LATITUDE": -8.786604,
+        "LONGITUDE": 142.871224,
+        "REGHH": 41,
+        "TOTPOP2000": 234,
+        "MALE2000": 117,
+        "FEMALE2000": 117,
+        "POP2008": 304,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031405033,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15702,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8827110000127,
+          -8.785395000378912
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15702,
+        "CU_NAME": "WIPIM STATION",
+        "CU_NO": "401",
+        "GEOCODE": "01031405401",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "05",
+        "WARD_NAME": "WIPIM",
+        "LATITUDE": -8.786826,
+        "LONGITUDE": 142.881628,
+        "REGHH": 3,
+        "TOTPOP2000": 15,
+        "MALE2000": 8,
+        "FEMALE2000": 7,
+        "POP2008": 15,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031405401,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15703,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.88090200022714,
+          -8.782300999791289
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15703,
+        "CU_NAME": "WIPIM HEALTH CENTRE",
+        "CU_NO": "402",
+        "GEOCODE": "01031405402",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "05",
+        "WARD_NAME": "WIPIM",
+        "LATITUDE": -8.785467,
+        "LONGITUDE": 142.878092,
+        "REGHH": 6,
+        "TOTPOP2000": 23,
+        "MALE2000": 12,
+        "FEMALE2000": 11,
+        "POP2008": 31,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031405402,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15704,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8827110000127,
+          -8.785395000378912
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15704,
+        "CU_NAME": "WIPIM COMMUNITY SCHOOL",
+        "CU_NO": "403",
+        "GEOCODE": "01031405403",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "05",
+        "WARD_NAME": "WIPIM",
+        "LATITUDE": -8.786826,
+        "LONGITUDE": 142.881628,
+        "REGHH": 7,
+        "TOTPOP2000": 41,
+        "MALE2000": 23,
+        "FEMALE2000": 18,
+        "POP2008": 52,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031405403,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15705,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.872544999752,
+          -8.788626000089778
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15705,
+        "CU_NAME": "TAVAKIP",
+        "CU_NO": "404",
+        "GEOCODE": "01031405404",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "14",
+        "WARD_NO": "05",
+        "WARD_NAME": "WIPIM",
+        "LATITUDE": -8.790057,
+        "LONGITUDE": 142.871462,
+        "REGHH": 31,
+        "TOTPOP2000": 146,
+        "MALE2000": 72,
+        "FEMALE2000": 74,
+        "POP2008": 189,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031405404,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

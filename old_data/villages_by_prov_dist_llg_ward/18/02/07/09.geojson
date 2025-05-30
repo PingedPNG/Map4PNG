@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4701,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.44744600033266,
+          -4.1440220001151715
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4701,
+        "CU_NAME": "KABILOMO",
+        "CU_NO": "017",
+        "GEOCODE": "18020709017",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "09",
+        "WARD_NAME": "KABILOMO",
+        "LATITUDE": -4.14542,
+        "LONGITUDE": 152.446504,
+        "REGHH": 171,
+        "TOTPOP2000": 930,
+        "MALE2000": 491,
+        "FEMALE2000": 439,
+        "POP2008": 1133,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020709017,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4577,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.01907200027267,
+          -4.237897999892709
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4577,
+        "CU_NAME": "VOLAVOLA VILLAGE",
+        "CU_NO": "011",
+        "GEOCODE": "18010413011",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "VOLAVOLO",
+        "LATITUDE": -4.239297,
+        "LONGITUDE": 152.018124,
+        "REGHH": 184,
+        "TOTPOP2000": 1182,
+        "MALE2000": 628,
+        "FEMALE2000": 554,
+        "POP2008": 1440,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010413011,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4578,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.0107969999816,
+          -4.234999000203629
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4578,
+        "CU_NAME": "KABAIRA VOCATIONAL",
+        "CU_NO": "401",
+        "GEOCODE": "18010413401",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "13",
+        "WARD_NAME": "VOLAVOLO",
+        "LATITUDE": -4.236398,
+        "LONGITUDE": 152.009849,
+        "REGHH": 6,
+        "TOTPOP2000": 24,
+        "MALE2000": 8,
+        "FEMALE2000": 16,
+        "POP2008": 32,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010413401,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

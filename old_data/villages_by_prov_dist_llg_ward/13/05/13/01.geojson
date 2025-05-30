@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8918,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.19992200020022,
+          -4.792043000184265
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8918,
+        "CU_NAME": "BADILIU",
+        "CU_NO": "001",
+        "GEOCODE": "13051301001",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "01",
+        "WARD_NAME": "WARD 1",
+        "LATITUDE": -4.793441,
+        "LONGITUDE": 146.19889,
+        "REGHH": 70,
+        "TOTPOP2000": 386,
+        "MALE2000": 190,
+        "FEMALE2000": 196,
+        "POP2008": 478,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051301001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8919,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.23531400004117,
+          -4.8075379997788446
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8919,
+        "CU_NAME": "YAU PLANTATION",
+        "CU_NO": "501",
+        "GEOCODE": "13051301501",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "13",
+        "WARD_NO": "01",
+        "WARD_NAME": "WARD 1",
+        "LATITUDE": -4.808936,
+        "LONGITUDE": 146.234283,
+        "REGHH": 28,
+        "TOTPOP2000": 170,
+        "MALE2000": 101,
+        "FEMALE2000": 69,
+        "POP2008": 211,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051301501,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

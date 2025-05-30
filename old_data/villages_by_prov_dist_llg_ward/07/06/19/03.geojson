@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20991,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.49724099977243,
+          -6.032733000027861
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20991,
+        "CU_NAME": "TIWA",
+        "CU_NO": "001",
+        "GEOCODE": "07061903001",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "03",
+        "WARD_NAME": "TUPIP 1",
+        "LATITUDE": -6.038295,
+        "LONGITUDE": 143.498013,
+        "REGHH": 17,
+        "TOTPOP2000": 117,
+        "MALE2000": 53,
+        "FEMALE2000": 64,
+        "POP2008": 163,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061903001,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20992,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.49823899992998,
+          -6.03503900024964
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20992,
+        "CU_NAME": "POROPA",
+        "CU_NO": "002",
+        "GEOCODE": "07061903002",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "03",
+        "WARD_NAME": "TUPIP 1",
+        "LATITUDE": -6.038295,
+        "LONGITUDE": 143.498013,
+        "REGHH": 68,
+        "TOTPOP2000": 421,
+        "MALE2000": 196,
+        "FEMALE2000": 225,
+        "POP2008": 586,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061903002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20993,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4990539997424,
+          -6.033385000417411
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20993,
+        "CU_NAME": "SOWALTIPO",
+        "CU_NO": "003",
+        "GEOCODE": "07061903003",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "03",
+        "WARD_NAME": "TUPIP 1",
+        "LATITUDE": -6.038295,
+        "LONGITUDE": 143.498013,
+        "REGHH": 49,
+        "TOTPOP2000": 326,
+        "MALE2000": 149,
+        "FEMALE2000": 177,
+        "POP2008": 453,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061903003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20994,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.49626100044486,
+          -6.034387999906244
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20994,
+        "CU_NAME": "KUMBOL",
+        "CU_NO": "006",
+        "GEOCODE": "07061903006",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "03",
+        "WARD_NAME": "TUPIP 1",
+        "LATITUDE": -6.038295,
+        "LONGITUDE": 143.498013,
+        "REGHH": 56,
+        "TOTPOP2000": 567,
+        "MALE2000": 256,
+        "FEMALE2000": 311,
+        "POP2008": 788,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061903006,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

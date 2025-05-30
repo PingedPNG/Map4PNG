@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.60919465041286,
+          -11.62103568594813
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10008,
+        "CU_NAME": "BUYAWE",
+        "CU_NO": "001",
+        "GEOCODE": "05021007001",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "07",
+        "WARD_NAME": "REHUWO",
+        "LATITUDE": -11.622693,
+        "LONGITUDE": 153.605585,
+        "REGHH": 28,
+        "TOTPOP2000": 168,
+        "MALE2000": 92,
+        "FEMALE2000": 76,
+        "POP2008": 204,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021007001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10009,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.5487420983692,
+          -11.635298122410347
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10009,
+        "CU_NAME": "BOLOLO",
+        "CU_NO": "002",
+        "GEOCODE": "05021007002",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "07",
+        "WARD_NAME": "REHUWO",
+        "LATITUDE": -11.635016,
+        "LONGITUDE": 153.549571,
+        "REGHH": 31,
+        "TOTPOP2000": 205,
+        "MALE2000": 114,
+        "FEMALE2000": 91,
+        "POP2008": 249,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021007002,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10010,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.5390890003572,
+          -11.612037000307282
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10010,
+        "CU_NAME": "EMELI",
+        "CU_NO": "003",
+        "GEOCODE": "05021007003",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "07",
+        "WARD_NAME": "REHUWO",
+        "LATITUDE": -11.613528,
+        "LONGITUDE": 153.538147,
+        "REGHH": 21,
+        "TOTPOP2000": 130,
+        "MALE2000": 68,
+        "FEMALE2000": 62,
+        "POP2008": 158,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021007003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10011,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.55680992273983,
+          -11.626448083012576
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10011,
+        "CU_NAME": "REHUWO COMM. SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "05021007401",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "07",
+        "WARD_NAME": "REHUWO",
+        "LATITUDE": -11.617955,
+        "LONGITUDE": 153.632176,
+        "REGHH": 3,
+        "TOTPOP2000": 48,
+        "MALE2000": 38,
+        "FEMALE2000": 10,
+        "POP2008": 56,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021007401,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

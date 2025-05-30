@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.7519430002693,
+          -5.9899710002613915
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21144,
+        "CU_NAME": "KOMEA 1",
+        "CU_NO": "009",
+        "GEOCODE": "07062125009",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "21",
+        "WARD_NO": "25",
+        "WARD_NAME": "KOMEA 1",
+        "LATITUDE": -5.994214,
+        "LONGITUDE": 143.752221,
+        "REGHH": 204,
+        "TOTPOP2000": 1086,
+        "MALE2000": 550,
+        "FEMALE2000": 536,
+        "POP2008": 1511,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7062125009,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

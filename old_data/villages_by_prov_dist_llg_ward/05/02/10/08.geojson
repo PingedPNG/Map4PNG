@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10012,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2843150756803,
+          -11.48847315221417
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10012,
+        "CU_NAME": "MADAUA",
+        "CU_NO": "001",
+        "GEOCODE": "05021008001",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "MADAUA",
+        "LATITUDE": -11.48851,
+        "LONGITUDE": 153.283007,
+        "REGHH": 27,
+        "TOTPOP2000": 147,
+        "MALE2000": 79,
+        "FEMALE2000": 68,
+        "POP2008": 179,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021008001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10013,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3515180001557,
+          -11.488315000137106
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10013,
+        "CU_NAME": "PAMELA",
+        "CU_NO": "002",
+        "GEOCODE": "05021008002",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "MADAUA",
+        "LATITUDE": -11.489805,
+        "LONGITUDE": 153.350574,
+        "REGHH": 15,
+        "TOTPOP2000": 78,
+        "MALE2000": 33,
+        "FEMALE2000": 45,
+        "POP2008": 94,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021008002,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10014,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.35837199966807,
+          -11.54034800025994
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10014,
+        "CU_NAME": "PANTAVA",
+        "CU_NO": "003",
+        "GEOCODE": "05021008003",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "MADAUA",
+        "LATITUDE": -11.541838,
+        "LONGITUDE": 153.357428,
+        "REGHH": 15,
+        "TOTPOP2000": 74,
+        "MALE2000": 40,
+        "FEMALE2000": 34,
+        "POP2008": 90,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021008003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10015,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.29762984074466,
+          -11.483411461070034
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10015,
+        "CU_NAME": "MADAUA COMM. SCHOOL",
+        "CU_NO": "401",
+        "GEOCODE": "05021008401",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "10",
+        "WARD_NO": "08",
+        "WARD_NAME": "MADAUA",
+        "LATITUDE": -11.484937,
+        "LONGITUDE": 153.299206,
+        "REGHH": 1,
+        "TOTPOP2000": 5,
+        "MALE2000": 2,
+        "FEMALE2000": 3,
+        "POP2008": 5,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5021008401,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

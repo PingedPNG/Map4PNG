@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5041479999303,
+          -5.933613000339619
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5217,
+        "CU_NAME": "WINJA",
+        "CU_NO": "001",
+        "GEOCODE": "08010116001",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "16",
+        "WARD_NAME": "WINJA 2",
+        "LATITUDE": -5.935019,
+        "LONGITUDE": 143.50308,
+        "REGHH": 54,
+        "TOTPOP2000": 387,
+        "MALE2000": 199,
+        "FEMALE2000": 188,
+        "POP2008": 487,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010116001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5151350002801,
+          -5.951038999949844
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5218,
+        "CU_NAME": "KAMELYA",
+        "CU_NO": "002",
+        "GEOCODE": "08010116002",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "16",
+        "WARD_NAME": "WINJA 2",
+        "LATITUDE": -5.952445,
+        "LONGITUDE": 143.514067,
+        "REGHH": 60,
+        "TOTPOP2000": 360,
+        "MALE2000": 180,
+        "FEMALE2000": 180,
+        "POP2008": 452,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010116002,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18852,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.06032700019102,
+          -3.595665999686105
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18852,
+        "CU_NAME": "AKIMARI 1",
+        "CU_NO": "001",
+        "GEOCODE": "15041206001",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAMBERATORO",
+        "LATITUDE": -3.597044,
+        "LONGITUDE": 141.059233,
+        "REGHH": 20,
+        "TOTPOP2000": 119,
+        "MALE2000": 62,
+        "FEMALE2000": 57,
+        "POP2008": 143,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041206001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18853,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0582840004064,
+          -3.610569999905522
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18853,
+        "CU_NAME": "KAMBERATORO",
+        "CU_NO": "004",
+        "GEOCODE": "15041206004",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAMBERATORO",
+        "LATITUDE": -3.611948,
+        "LONGITUDE": 141.05719,
+        "REGHH": 27,
+        "TOTPOP2000": 163,
+        "MALE2000": 74,
+        "FEMALE2000": 89,
+        "POP2008": 196,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041206004,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18854,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0434630004172,
+          -3.624594000013019
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18854,
+        "CU_NAME": "NIMBERATORO",
+        "CU_NO": "009",
+        "GEOCODE": "15041206009",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAMBERATORO",
+        "LATITUDE": -3.625973,
+        "LONGITUDE": 141.042369,
+        "REGHH": 10,
+        "TOTPOP2000": 76,
+        "MALE2000": 43,
+        "FEMALE2000": 33,
+        "POP2008": 92,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041206009,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18855,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.0562079999993,
+          -3.5903229997066433
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18855,
+        "CU_NAME": "TAMARBEK",
+        "CU_NO": "012",
+        "GEOCODE": "15041206012",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAMBERATORO",
+        "LATITUDE": -3.591701,
+        "LONGITUDE": 141.055114,
+        "REGHH": 10,
+        "TOTPOP2000": 58,
+        "MALE2000": 31,
+        "FEMALE2000": 27,
+        "POP2008": 69,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041206012,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18856,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.04233899984501,
+          -3.5996340001089493
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18856,
+        "CU_NAME": "KAMBERATORO C/M",
+        "CU_NO": "401",
+        "GEOCODE": "15041206401",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "06",
+        "WARD_NAME": "KAMBERATORO",
+        "LATITUDE": -3.598834,
+        "LONGITUDE": 141.050636,
+        "REGHH": 8,
+        "TOTPOP2000": 31,
+        "MALE2000": 17,
+        "FEMALE2000": 14,
+        "POP2008": 39,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041206401,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13618,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.02564300012443,
+          -8.847303999979545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13618,
+        "CU_NAME": "ANGOROTA",
+        "CU_NO": "002",
+        "GEOCODE": "06020614002",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "14",
+        "WARD_NAME": "BORU",
+        "LATITUDE": -8.84875,
+        "LONGITUDE": 148.024628,
+        "REGHH": 40,
+        "TOTPOP2000": 275,
+        "MALE2000": 147,
+        "FEMALE2000": 128,
+        "POP2008": 340,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020614002,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13619,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.02797699983876,
+          -8.841583999701754
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13619,
+        "CU_NAME": "WASETA",
+        "CU_NO": "027",
+        "GEOCODE": "06020614027",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "14",
+        "WARD_NAME": "BORU",
+        "LATITUDE": -8.84303,
+        "LONGITUDE": 148.026962,
+        "REGHH": 20,
+        "TOTPOP2000": 135,
+        "MALE2000": 70,
+        "FEMALE2000": 65,
+        "POP2008": 167,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020614027,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13620,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.04405900042264,
+          -8.84418199989932
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13620,
+        "CU_NAME": "BORO WITH BORU VOP BLOCKS",
+        "CU_NO": "402",
+        "GEOCODE": "06020614402",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "14",
+        "WARD_NAME": "BORU",
+        "LATITUDE": -8.845628,
+        "LONGITUDE": 148.043044,
+        "REGHH": 49,
+        "TOTPOP2000": 299,
+        "MALE2000": 155,
+        "FEMALE2000": 144,
+        "POP2008": 370,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020614402,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13621,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.02902799974242,
+          -8.840508000443833
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13621,
+        "CU_NAME": "WASETA C/SCH",
+        "CU_NO": "403",
+        "GEOCODE": "06020614403",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "14",
+        "WARD_NAME": "BORU",
+        "LATITUDE": -8.841954,
+        "LONGITUDE": 148.028013,
+        "REGHH": 10,
+        "TOTPOP2000": 53,
+        "MALE2000": 23,
+        "FEMALE2000": 30,
+        "POP2008": 66,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020614403,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13622,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.03230099959148,
+          -8.841904000069519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13622,
+        "CU_NAME": "WASETA VOP BLOCK",
+        "CU_NO": "404",
+        "GEOCODE": "06020614404",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "14",
+        "WARD_NAME": "BORU",
+        "LATITUDE": -8.84335,
+        "LONGITUDE": 148.031286,
+        "REGHH": 39,
+        "TOTPOP2000": 287,
+        "MALE2000": 162,
+        "FEMALE2000": 125,
+        "POP2008": 355,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020614404,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

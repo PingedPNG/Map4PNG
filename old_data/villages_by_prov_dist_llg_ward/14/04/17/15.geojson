@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6922,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.53161700042426,
+          -3.5248799999120024
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6922,
+        "CU_NAME": "MANGARARA",
+        "CU_NO": "031",
+        "GEOCODE": "14041715031",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "17",
+        "WARD_NO": "15",
+        "WARD_NAME": "MANGARARA",
+        "LATITUDE": -3.526954,
+        "LONGITUDE": 143.531883,
+        "REGHH": 39,
+        "TOTPOP2000": 190,
+        "MALE2000": 96,
+        "FEMALE2000": 94,
+        "POP2008": 226,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041715031,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

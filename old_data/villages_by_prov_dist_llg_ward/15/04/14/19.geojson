@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.20301199980406,
+          -4.024253999722248
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19002,
+        "CU_NAME": "KOBRARU",
+        "CU_NO": "011",
+        "GEOCODE": "15041419011",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "19",
+        "WARD_NAME": "KOBRARU",
+        "LATITUDE": -4.013858,
+        "LONGITUDE": 141.194877,
+        "REGHH": 23,
+        "TOTPOP2000": 151,
+        "MALE2000": 84,
+        "FEMALE2000": 67,
+        "POP2008": 183,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041419011,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.63026199999138,
+          -3.5901639995688583
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6116,
+        "CU_NAME": "YAKRUMBOK 1",
+        "CU_NO": "009",
+        "GEOCODE": "14010219009",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "19",
+        "WARD_NAME": "YAKRUMBOK",
+        "LATITUDE": -3.591741,
+        "LONGITUDE": 142.629018,
+        "REGHH": 43,
+        "TOTPOP2000": 211,
+        "MALE2000": 111,
+        "FEMALE2000": 100,
+        "POP2008": 251,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010219009,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.62958200010928,
+          -3.601738000008652
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6117,
+        "CU_NAME": "YAKRUMBOK 2",
+        "CU_NO": "010",
+        "GEOCODE": "14010219010",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "19",
+        "WARD_NAME": "YAKRUMBOK",
+        "LATITUDE": -3.603315,
+        "LONGITUDE": 142.628338,
+        "REGHH": 72,
+        "TOTPOP2000": 359,
+        "MALE2000": 184,
+        "FEMALE2000": 175,
+        "POP2008": 427,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010219010,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.63671299980513,
+          -3.5999500002922105
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6118,
+        "CU_NAME": "AMARING",
+        "CU_NO": "014",
+        "GEOCODE": "14010219014",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "19",
+        "WARD_NAME": "YAKRUMBOK",
+        "LATITUDE": -3.601527,
+        "LONGITUDE": 142.635469,
+        "REGHH": 34,
+        "TOTPOP2000": 168,
+        "MALE2000": 101,
+        "FEMALE2000": 67,
+        "POP2008": 200,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010219014,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.63315800044143,
+          -3.5781690003989866
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6119,
+        "CU_NAME": "YAKRUMBOK C/S & SSEC MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "14010219401",
+        "PROV_KEY": "14",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "19",
+        "WARD_NAME": "YAKRUMBOK",
+        "LATITUDE": -3.57898,
+        "LONGITUDE": 142.631913,
+        "REGHH": 9,
+        "TOTPOP2000": 49,
+        "MALE2000": 25,
+        "FEMALE2000": 24,
+        "POP2008": 57,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14010219401,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

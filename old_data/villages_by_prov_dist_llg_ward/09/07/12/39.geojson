@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17546,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.03898600020386,
+          -5.944185999584192
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17546,
+        "CU_NAME": "KONJILEL",
+        "CU_NO": "007",
+        "GEOCODE": "09071239007",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "39",
+        "WARD_NAME": "WAMBUL.2",
+        "LATITUDE": -5.945126,
+        "LONGITUDE": 144.039316,
+        "REGHH": 100,
+        "TOTPOP2000": 410,
+        "MALE2000": 216,
+        "FEMALE2000": 194,
+        "POP2008": 499,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071239007,
+        "PROVINCE": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17547,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.0426999997053,
+          -5.944661999951279
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17547,
+        "CU_NAME": "WINJAKA",
+        "CU_NO": "008",
+        "GEOCODE": "09071239008",
+        "PROV_KEY": "09",
+        "DIST_NO": "07",
+        "LLG_NO": "12",
+        "WARD_NO": "39",
+        "WARD_NAME": "WAMBUL.2",
+        "LATITUDE": -5.945602,
+        "LONGITUDE": 144.04303,
+        "REGHH": 39,
+        "TOTPOP2000": 175,
+        "MALE2000": 96,
+        "FEMALE2000": 79,
+        "POP2008": 213,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 9071239008,
+        "PROVINCE": 9
+      }
+    }
+  ]
+}

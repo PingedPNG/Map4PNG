@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10315,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.81462399979785,
+          -6.828435999921396
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10315,
+        "CU_NAME": "BUGIAU",
+        "CU_NO": "003",
+        "GEOCODE": "12010101003",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "WAGAU",
+        "LATITUDE": -6.829858,
+        "LONGITUDE": 146.813597,
+        "REGHH": 103,
+        "TOTPOP2000": 543,
+        "MALE2000": 272,
+        "FEMALE2000": 271,
+        "POP2008": 677,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010101003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10316,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.78723100011064,
+          -6.843357000025492
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10316,
+        "CU_NAME": "MAMBUMB",
+        "CU_NO": "012",
+        "GEOCODE": "12010101012",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "WAGAU",
+        "LATITUDE": -6.844779,
+        "LONGITUDE": 146.786204,
+        "REGHH": 70,
+        "TOTPOP2000": 355,
+        "MALE2000": 175,
+        "FEMALE2000": 180,
+        "POP2008": 443,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010101012,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10317,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.80108699966536,
+          -6.8509090002501125
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10317,
+        "CU_NAME": "WAGAU",
+        "CU_NO": "023",
+        "GEOCODE": "12010101023",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "WAGAU",
+        "LATITUDE": -6.852331,
+        "LONGITUDE": 146.80006,
+        "REGHH": 66,
+        "TOTPOP2000": 350,
+        "MALE2000": 188,
+        "FEMALE2000": 162,
+        "POP2008": 437,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010101023,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

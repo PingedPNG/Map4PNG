@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15438,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.24328800004128,
+          -5.78663399965933
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15438,
+        "CU_NAME": "MENUMGRUP",
+        "CU_NO": "013",
+        "GEOCODE": "01020818013",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "18",
+        "WARD_NAME": "SONAI",
+        "LATITUDE": -5.785822,
+        "LONGITUDE": 141.245719,
+        "REGHH": 43,
+        "TOTPOP2000": 283,
+        "MALE2000": 129,
+        "FEMALE2000": 154,
+        "POP2008": 367,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020818013,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15439,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.27352300038626,
+          -5.779948999846397
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15439,
+        "CU_NAME": "SONAI",
+        "CU_NO": "020",
+        "GEOCODE": "01020818020",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "18",
+        "WARD_NAME": "SONAI",
+        "LATITUDE": -5.781349,
+        "LONGITUDE": 141.272428,
+        "REGHH": 35,
+        "TOTPOP2000": 196,
+        "MALE2000": 103,
+        "FEMALE2000": 93,
+        "POP2008": 254,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020818020,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15440,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2802999999451,
+          -5.746860000088873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15440,
+        "CU_NAME": "MIAHORE",
+        "CU_NO": "022",
+        "GEOCODE": "01020818022",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "18",
+        "WARD_NAME": "SONAI",
+        "LATITUDE": -5.74826,
+        "LONGITUDE": 141.279205,
+        "REGHH": 11,
+        "TOTPOP2000": 115,
+        "MALE2000": 63,
+        "FEMALE2000": 52,
+        "POP2008": 149,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1020818022,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

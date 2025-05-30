@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10320,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.763967000177,
+          -6.856303999929594
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10320,
+        "CU_NAME": "BUGWEP",
+        "CU_NO": "004",
+        "GEOCODE": "12010103004",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "GWEM",
+        "LATITUDE": -6.857726,
+        "LONGITUDE": 146.762939,
+        "REGHH": 52,
+        "TOTPOP2000": 248,
+        "MALE2000": 135,
+        "FEMALE2000": 113,
+        "POP2008": 309,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010103004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10321,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.778482000444,
+          -6.8727080000741125
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10321,
+        "CU_NAME": "DAWONG",
+        "CU_NO": "007",
+        "GEOCODE": "12010103007",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "GWEM",
+        "LATITUDE": -6.87413,
+        "LONGITUDE": 146.777454,
+        "REGHH": 69,
+        "TOTPOP2000": 370,
+        "MALE2000": 193,
+        "FEMALE2000": 177,
+        "POP2008": 462,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010103007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10322,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.76108500037253,
+          -6.8639859998539805
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10322,
+        "CU_NAME": "RARI",
+        "CU_NO": "018",
+        "GEOCODE": "12010103018",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "GWEM",
+        "LATITUDE": -6.862096,
+        "LONGITUDE": 146.765586,
+        "REGHH": 37,
+        "TOTPOP2000": 170,
+        "MALE2000": 85,
+        "FEMALE2000": 85,
+        "POP2008": 212,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010103018,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10323,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.77046799959862,
+          -6.873841000161974
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10323,
+        "CU_NAME": "GWEM LUTH. MISSION STATION",
+        "CU_NO": "401",
+        "GEOCODE": "12010103401",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "GWEM",
+        "LATITUDE": -6.875263,
+        "LONGITUDE": 146.76944,
+        "REGHH": 4,
+        "TOTPOP2000": 18,
+        "MALE2000": 9,
+        "FEMALE2000": 9,
+        "POP2008": 26,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010103401,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6770,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.30371900033163,
+          -3.4438160001082565
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6770,
+        "CU_NAME": "WOGINARA 2",
+        "CU_NO": "038",
+        "GEOCODE": "14041414038",
+        "PROV_KEY": "14",
+        "DIST_NO": "04",
+        "LLG_NO": "14",
+        "WARD_NO": "14",
+        "WARD_NAME": "WOGINARA (2)",
+        "LATITUDE": -3.445392,
+        "LONGITUDE": 143.302483,
+        "REGHH": 72,
+        "TOTPOP2000": 397,
+        "MALE2000": 187,
+        "FEMALE2000": 210,
+        "POP2008": 473,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14041414038,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

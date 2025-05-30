@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.97495603998937,
+          -6.581737169734538
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30259,
+        "CU_NAME": "MUNIRIKIAURA",
+        "CU_NO": "010",
+        "GEOCODE": "11060818010",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "18",
+        "WARD_NAME": "ASARA",
+        "LATITUDE": -6.581737,
+        "LONGITUDE": 145.974956,
+        "REGHH": 45,
+        "TOTPOP2000": 195,
+        "MALE2000": 101,
+        "FEMALE2000": 94,
+        "POP2008": 232,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9758110398477,
+          -6.576235020329875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30260,
+        "CU_NAME": "TURORA",
+        "CU_NO": "011",
+        "GEOCODE": "11060818011",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "18",
+        "WARD_NAME": "ASARA",
+        "LATITUDE": -6.576235,
+        "LONGITUDE": 145.975811,
+        "REGHH": 36,
+        "TOTPOP2000": 182,
+        "MALE2000": 88,
+        "FEMALE2000": 94,
+        "POP2008": 216,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9788429602345,
+          -6.5779874095912305
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30261,
+        "CU_NAME": "ANTUKIAURA",
+        "CU_NO": "012",
+        "GEOCODE": "11060818012",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "08",
+        "WARD_NO": "18",
+        "WARD_NAME": "ASARA",
+        "LATITUDE": -6.577987,
+        "LONGITUDE": 145.978843,
+        "REGHH": 59,
+        "TOTPOP2000": 290,
+        "MALE2000": 149,
+        "FEMALE2000": 141,
+        "POP2008": 345,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

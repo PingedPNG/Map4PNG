@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 14074,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84345899983305,
+          -6.163914999777376
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14074,
+        "CU_NAME": "DIRWA BARWA",
+        "CU_NO": "008",
+        "GEOCODE": "10020407008",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "KOPAN",
+        "LATITUDE": -6.165326,
+        "LONGITUDE": 144.842407,
+        "REGHH": 24,
+        "TOTPOP2000": 82,
+        "MALE2000": 38,
+        "FEMALE2000": 44,
+        "POP2008": 96,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020407008,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14075,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84729599961076,
+          -6.1648499997276645
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14075,
+        "CU_NAME": "DIMINELIN",
+        "CU_NO": "009",
+        "GEOCODE": "10020407009",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "KOPAN",
+        "LATITUDE": -6.166261,
+        "LONGITUDE": 144.846244,
+        "REGHH": 26,
+        "TOTPOP2000": 99,
+        "MALE2000": 45,
+        "FEMALE2000": 54,
+        "POP2008": 115,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020407009,
+        "PROVINCE": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14076,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84578400003159,
+          -6.1627920001506595
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14076,
+        "CU_NAME": "BLENGI",
+        "CU_NO": "010",
+        "GEOCODE": "10020407010",
+        "PROV_KEY": "10",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "07",
+        "WARD_NAME": "KOPAN",
+        "LATITUDE": -6.164203,
+        "LONGITUDE": 144.844732,
+        "REGHH": 34,
+        "TOTPOP2000": 156,
+        "MALE2000": 85,
+        "FEMALE2000": 71,
+        "POP2008": 180,
+        "G_RATE": 1.0180000066757202,
+        "Geocode_Num": 10020407010,
+        "PROVINCE": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8876,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.09911400001113,
+          -5.6498210001390134
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8876,
+        "CU_NAME": "ORINMA",
+        "CU_NO": "027",
+        "GEOCODE": "13041231027",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "31",
+        "WARD_NAME": "WARD 31",
+        "LATITUDE": -5.648089,
+        "LONGITUDE": 146.093303,
+        "REGHH": 23,
+        "TOTPOP2000": 177,
+        "MALE2000": 90,
+        "FEMALE2000": 87,
+        "POP2008": 219,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041231027,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8877,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0926030001284,
+          -5.642144999592006
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8877,
+        "CU_NAME": "IBE",
+        "CU_NO": "028",
+        "GEOCODE": "13041231028",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "31",
+        "WARD_NAME": "WARD 31",
+        "LATITUDE": -5.640119,
+        "LONGITUDE": 146.088332,
+        "REGHH": 17,
+        "TOTPOP2000": 119,
+        "MALE2000": 61,
+        "FEMALE2000": 58,
+        "POP2008": 147,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041231028,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8878,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.05975599983958,
+          -5.667715999793529
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8878,
+        "CU_NAME": "OBICS COST STNT",
+        "CU_NO": "029",
+        "GEOCODE": "13041231029",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "31",
+        "WARD_NAME": "WARD 31",
+        "LATITUDE": -5.656143,
+        "LONGITUDE": 146.065948,
+        "REGHH": 15,
+        "TOTPOP2000": 89,
+        "MALE2000": 55,
+        "FEMALE2000": 34,
+        "POP2008": 111,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041231029,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

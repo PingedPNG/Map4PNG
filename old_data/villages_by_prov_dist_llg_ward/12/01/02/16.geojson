@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10450,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2380700001305,
+          -7.988106000191692
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10450,
+        "CU_NAME": "ARO",
+        "CU_NO": "001",
+        "GEOCODE": "12010216001",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "16",
+        "WARD_NAME": "OHE",
+        "LATITUDE": -7.996721,
+        "LONGITUDE": 147.238158,
+        "REGHH": 66,
+        "TOTPOP2000": 310,
+        "MALE2000": 162,
+        "FEMALE2000": 148,
+        "POP2008": 387,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010216001,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10451,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.25431400009109,
+          -8.001748999816414
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10451,
+        "CU_NAME": "ASAMA",
+        "CU_NO": "002",
+        "GEOCODE": "12010216002",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "16",
+        "WARD_NAME": "OHE",
+        "LATITUDE": -8.003184,
+        "LONGITUDE": 147.25329,
+        "REGHH": 59,
+        "TOTPOP2000": 311,
+        "MALE2000": 165,
+        "FEMALE2000": 146,
+        "POP2008": 388,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010216002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10452,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2452779997799,
+          -7.992787000219835
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10452,
+        "CU_NAME": "MOTETE",
+        "CU_NO": "006",
+        "GEOCODE": "12010216006",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "02",
+        "WARD_NO": "16",
+        "WARD_NAME": "OHE",
+        "LATITUDE": -7.999748,
+        "LONGITUDE": 147.23927,
+        "REGHH": 55,
+        "TOTPOP2000": 294,
+        "MALE2000": 159,
+        "FEMALE2000": 135,
+        "POP2008": 366,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010216006,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

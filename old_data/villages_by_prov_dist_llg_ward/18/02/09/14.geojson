@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4770,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.17640700008303,
+          -4.330373999860171
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4770,
+        "CU_NAME": "TURAGUNAN",
+        "CU_NO": "014",
+        "GEOCODE": "18020914014",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "14",
+        "WARD_NAME": "TURAGUNAN",
+        "LATITUDE": -4.331775,
+        "LONGITUDE": 152.175461,
+        "REGHH": 68,
+        "TOTPOP2000": 375,
+        "MALE2000": 176,
+        "FEMALE2000": 199,
+        "POP2008": 457,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020914014,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

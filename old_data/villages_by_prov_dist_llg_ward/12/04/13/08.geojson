@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.22246800009816,
+          -6.236386999960018
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11216,
+        "CU_NAME": "LAMA",
+        "CU_NO": "011",
+        "GEOCODE": "12041308011",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "08",
+        "WARD_NAME": "UNUNU",
+        "LATITUDE": -6.237803,
+        "LONGITUDE": 147.221448,
+        "REGHH": 29,
+        "TOTPOP2000": 173,
+        "MALE2000": 82,
+        "FEMALE2000": 91,
+        "POP2008": 216,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041308011,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.21746300041718,
+          -6.2152389995800945
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11217,
+        "CU_NAME": "UNUNU",
+        "CU_NO": "025",
+        "GEOCODE": "12041308025",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "08",
+        "WARD_NAME": "UNUNU",
+        "LATITUDE": -6.216655,
+        "LONGITUDE": 147.216443,
+        "REGHH": 48,
+        "TOTPOP2000": 249,
+        "MALE2000": 109,
+        "FEMALE2000": 140,
+        "POP2008": 310,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041308025,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.21475000031228,
+          -6.219038000303442
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11218,
+        "CU_NAME": "NIULIN",
+        "CU_NO": "026",
+        "GEOCODE": "12041308026",
+        "PROV_KEY": "12",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "08",
+        "WARD_NAME": "UNUNU",
+        "LATITUDE": -6.220454,
+        "LONGITUDE": 147.21373,
+        "REGHH": 34,
+        "TOTPOP2000": 186,
+        "MALE2000": 85,
+        "FEMALE2000": 101,
+        "POP2008": 231,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12041308026,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

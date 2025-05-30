@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9723,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.54873799985887,
+          -10.336361999606538
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9723,
+        "CU_NAME": "NIGILA",
+        "CU_NO": "011",
+        "GEOCODE": "05010511011",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "NIGILA",
+        "LATITUDE": -10.337831,
+        "LONGITUDE": 150.547755,
+        "REGHH": 67,
+        "TOTPOP2000": 372,
+        "MALE2000": 194,
+        "FEMALE2000": 178,
+        "POP2008": 454,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010511011,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.5187560003892,
+          -10.325234999995189
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9724,
+        "CU_NAME": "GOPAIA",
+        "CU_NO": "012",
+        "GEOCODE": "05010511012",
+        "PROV_KEY": "05",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "11",
+        "WARD_NAME": "NIGILA",
+        "LATITUDE": -10.326703,
+        "LONGITUDE": 150.517772,
+        "REGHH": 31,
+        "TOTPOP2000": 183,
+        "MALE2000": 90,
+        "FEMALE2000": 93,
+        "POP2008": 223,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5010511012,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9181,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2556000004397,
+          -5.771016999834615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9181,
+        "CU_NAME": "BIOM",
+        "CU_NO": "001",
+        "GEOCODE": "13061516001",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -5.772425,
+        "LONGITUDE": 145.254554,
+        "REGHH": 15,
+        "TOTPOP2000": 52,
+        "MALE2000": 29,
+        "FEMALE2000": 23,
+        "POP2008": 64,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061516001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.25209799992285,
+          -5.762552999821025
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9182,
+        "CU_NAME": "YAI KORO",
+        "CU_NO": "002",
+        "GEOCODE": "13061516002",
+        "PROV_KEY": "13",
+        "DIST_NO": "06",
+        "LLG_NO": "15",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -5.76396,
+        "LONGITUDE": 145.251052,
+        "REGHH": 9,
+        "TOTPOP2000": 39,
+        "MALE2000": 23,
+        "FEMALE2000": 16,
+        "POP2008": 47,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13061516002,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

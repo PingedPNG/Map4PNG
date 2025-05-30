@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18954,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.07687199964312,
+          -3.008882999750597
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18954,
+        "CU_NAME": "SKOTIAHO",
+        "CU_NO": "007",
+        "GEOCODE": "15041322007",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "22",
+        "WARD_NAME": "SKOTIAHO",
+        "LATITUDE": -3.013152,
+        "LONGITUDE": 141.07578,
+        "REGHH": 36,
+        "TOTPOP2000": 252,
+        "MALE2000": 143,
+        "FEMALE2000": 109,
+        "POP2008": 304,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041322007,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18955,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.07029999964539,
+          -2.9558429999544273
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18955,
+        "CU_NAME": "TAPOS",
+        "CU_NO": "012",
+        "GEOCODE": "15041322012",
+        "PROV_KEY": "15",
+        "DIST_NO": "04",
+        "LLG_NO": "13",
+        "WARD_NO": "22",
+        "WARD_NAME": "SKOTIAHO",
+        "LATITUDE": -2.957215,
+        "LONGITUDE": 141.069207,
+        "REGHH": 10,
+        "TOTPOP2000": 72,
+        "MALE2000": 35,
+        "FEMALE2000": 37,
+        "POP2008": 88,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15041322012,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

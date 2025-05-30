@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5706,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.12760599971716,
+          -5.4004590003825115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5706,
+        "CU_NAME": "POLITIKA",
+        "CU_NO": "006",
+        "GEOCODE": "08030905006",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "POLITIKA",
+        "LATITUDE": -5.401859,
+        "LONGITUDE": 143.126534,
+        "REGHH": 93,
+        "TOTPOP2000": 664,
+        "MALE2000": 349,
+        "FEMALE2000": 315,
+        "POP2008": 835,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030905006,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5707,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.13355199962518,
+          -5.407982000169113
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5707,
+        "CU_NAME": "PIRIKA",
+        "CU_NO": "007",
+        "GEOCODE": "08030905007",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "05",
+        "WARD_NAME": "POLITIKA",
+        "LATITUDE": -5.409382,
+        "LONGITUDE": 143.13248,
+        "REGHH": 95,
+        "TOTPOP2000": 571,
+        "MALE2000": 307,
+        "FEMALE2000": 264,
+        "POP2008": 719,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030905007,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

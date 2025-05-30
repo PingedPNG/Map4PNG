@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5196,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.58517299973425,
+          -5.831425000363424
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5196,
+        "CU_NAME": "ALOWAIP",
+        "CU_NO": "001",
+        "GEOCODE": "08010105001",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "ALOWAIP",
+        "LATITUDE": -5.826589,
+        "LONGITUDE": 143.578274,
+        "REGHH": 100,
+        "TOTPOP2000": 595,
+        "MALE2000": 291,
+        "FEMALE2000": 304,
+        "POP2008": 747,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010105001,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5603,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.41429300032178,
+          -5.400380000336725
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5603,
+        "CU_NAME": "TAKUUP",
+        "CU_NO": "006",
+        "GEOCODE": "08030624006",
+        "PROV_KEY": "08",
+        "DIST_NO": "03",
+        "LLG_NO": "06",
+        "WARD_NO": "24",
+        "WARD_NAME": "TAKUUP",
+        "LATITUDE": -5.407241,
+        "LONGITUDE": 143.413247,
+        "REGHH": 85,
+        "TOTPOP2000": 505,
+        "MALE2000": 259,
+        "FEMALE2000": 246,
+        "POP2008": 635,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8030624006,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

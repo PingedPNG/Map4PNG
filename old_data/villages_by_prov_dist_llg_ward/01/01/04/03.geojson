@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15170,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.4169819997196,
+          -6.815045000226519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15170,
+        "CU_NAME": "BOIMBALAVU",
+        "CU_NO": "002",
+        "GEOCODE": "01010403002",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "BOIMBALAVU",
+        "LATITUDE": -6.820043,
+        "LONGITUDE": 141.416394,
+        "REGHH": 31,
+        "TOTPOP2000": 227,
+        "MALE2000": 113,
+        "FEMALE2000": 114,
+        "POP2008": 294,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010403002,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

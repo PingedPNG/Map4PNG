@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.6278830002003,
+          -8.709227999772338
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15673,
+        "CU_NAME": "MOREHEAD STATION",
+        "CU_NO": "501",
+        "GEOCODE": "01031317501",
+        "PROV_KEY": "01",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "17",
+        "WARD_NAME": "MOREHEAD STATION",
+        "LATITUDE": -8.708915,
+        "LONGITUDE": 141.634593,
+        "REGHH": 54,
+        "TOTPOP2000": 344,
+        "MALE2000": 180,
+        "FEMALE2000": 164,
+        "POP2008": 446,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1031317501,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

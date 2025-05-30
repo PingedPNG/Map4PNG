@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13547,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.13369699991665,
+          -8.797946000007869
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13547,
+        "CU_NAME": "IGORA OIL PALM BLOCKS",
+        "CU_NO": "401",
+        "GEOCODE": "06020603401",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "IGORA OIL PALM BLKS",
+        "LATITUDE": -8.799647,
+        "LONGITUDE": 148.132673,
+        "REGHH": 158,
+        "TOTPOP2000": 1382,
+        "MALE2000": 779,
+        "FEMALE2000": 603,
+        "POP2008": 1709,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020603401,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13548,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.13745799978688,
+          -8.802045000176577
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13548,
+        "CU_NAME": "IGORA P/SCH",
+        "CU_NO": "402",
+        "GEOCODE": "06020603402",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "IGORA OIL PALM BLKS",
+        "LATITUDE": -8.79963,
+        "LONGITUDE": 148.137245,
+        "REGHH": 26,
+        "TOTPOP2000": 194,
+        "MALE2000": 108,
+        "FEMALE2000": 86,
+        "POP2008": 240,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020603402,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13549,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.1319310003155,
+          -8.793424000117454
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13549,
+        "CU_NAME": "OPIC",
+        "CU_NO": "403",
+        "GEOCODE": "06020603403",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "03",
+        "WARD_NAME": "IGORA OIL PALM BLKS",
+        "LATITUDE": -8.79875,
+        "LONGITUDE": 148.13223,
+        "REGHH": 31,
+        "TOTPOP2000": 228,
+        "MALE2000": 116,
+        "FEMALE2000": 112,
+        "POP2008": 281,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020603403,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

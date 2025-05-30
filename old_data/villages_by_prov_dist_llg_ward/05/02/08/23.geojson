@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9873,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6897620002162,
+          -10.593412999610223
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9873,
+        "CU_NAME": "SIDUDU",
+        "CU_NO": "015",
+        "GEOCODE": "05020823015",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "23",
+        "WARD_NAME": "SIDUDU",
+        "LATITUDE": -10.596757,
+        "LONGITUDE": 150.687817,
+        "REGHH": 44,
+        "TOTPOP2000": 281,
+        "MALE2000": 161,
+        "FEMALE2000": 120,
+        "POP2008": 342,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020823015,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9874,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.71951499991735,
+          -10.58042699970622
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9874,
+        "CU_NAME": "SEBULUNA",
+        "CU_NO": "016",
+        "GEOCODE": "05020823016",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "23",
+        "WARD_NAME": "SIDUDU",
+        "LATITUDE": -10.580022,
+        "LONGITUDE": 150.718927,
+        "REGHH": 47,
+        "TOTPOP2000": 312,
+        "MALE2000": 156,
+        "FEMALE2000": 156,
+        "POP2008": 380,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020823016,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9875,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.69774699972436,
+          -10.60623800018351
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9875,
+        "CU_NAME": "MAGEHAU",
+        "CU_NO": "017",
+        "GEOCODE": "05020823017",
+        "PROV_KEY": "05",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "23",
+        "WARD_NAME": "SIDUDU",
+        "LATITUDE": -10.60771,
+        "LONGITUDE": 150.696765,
+        "REGHH": 64,
+        "TOTPOP2000": 393,
+        "MALE2000": 211,
+        "FEMALE2000": 182,
+        "POP2008": 479,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020823017,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7179,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0269349995507,
+          -3.7938570004001804
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7179,
+        "CU_NAME": "PATIKO",
+        "CU_NO": "016",
+        "GEOCODE": "14052216016",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "22",
+        "WARD_NO": "16",
+        "WARD_NAME": "PATIKO",
+        "LATITUDE": -3.795437,
+        "LONGITUDE": 143.025695,
+        "REGHH": 95,
+        "TOTPOP2000": 483,
+        "MALE2000": 233,
+        "FEMALE2000": 250,
+        "POP2008": 575,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052216016,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7180,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.03069300018183,
+          -3.791265999626148
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7180,
+        "CU_NAME": "VEKIOR",
+        "CU_NO": "021",
+        "GEOCODE": "14052216021",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "22",
+        "WARD_NO": "16",
+        "WARD_NAME": "PATIKO",
+        "LATITUDE": -3.792846,
+        "LONGITUDE": 143.029453,
+        "REGHH": 40,
+        "TOTPOP2000": 220,
+        "MALE2000": 95,
+        "FEMALE2000": 125,
+        "POP2008": 262,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052216021,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9061,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.75609799992287,
+          -4.811245999902951
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9061,
+        "CU_NAME": "MEGIAR",
+        "CU_NO": "008",
+        "GEOCODE": "13051412008",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD 12",
+        "LATITUDE": -4.811783,
+        "LONGITUDE": 145.756569,
+        "REGHH": 95,
+        "TOTPOP2000": 677,
+        "MALE2000": 353,
+        "FEMALE2000": 324,
+        "POP2008": 837,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051412008,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9062,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7638579998469,
+          -4.8133200002178
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9062,
+        "CU_NAME": "MEGIAR P/SCH. & MISS.",
+        "CU_NO": "401",
+        "GEOCODE": "13051412401",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD 12",
+        "LATITUDE": -4.813856,
+        "LONGITUDE": 145.763253,
+        "REGHH": 14,
+        "TOTPOP2000": 71,
+        "MALE2000": 38,
+        "FEMALE2000": 33,
+        "POP2008": 87,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051412401,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9063,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.74660800025902,
+          -4.804121999630524
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9063,
+        "CU_NAME": "MEGIAR WORKS CAMP",
+        "CU_NO": "402",
+        "GEOCODE": "13051412402",
+        "PROV_KEY": "13",
+        "DIST_NO": "05",
+        "LLG_NO": "14",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD 12",
+        "LATITUDE": -4.80552,
+        "LONGITUDE": 145.74557,
+        "REGHH": 9,
+        "TOTPOP2000": 41,
+        "MALE2000": 25,
+        "FEMALE2000": 16,
+        "POP2008": 49,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13051412402,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

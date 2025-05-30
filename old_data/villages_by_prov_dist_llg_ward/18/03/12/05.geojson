@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4917,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9834400003558,
+          -6.006043000384125
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4917,
+        "CU_NAME": "MELETONG",
+        "CU_NO": "009",
+        "GEOCODE": "18031205009",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "05",
+        "WARD_NAME": "MELETONG",
+        "LATITUDE": -6.007465,
+        "LONGITUDE": 150.982474,
+        "REGHH": 56,
+        "TOTPOP2000": 362,
+        "MALE2000": 186,
+        "FEMALE2000": 176,
+        "POP2008": 440,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031205009,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

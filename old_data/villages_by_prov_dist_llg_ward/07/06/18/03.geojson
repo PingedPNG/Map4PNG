@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20917,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63277799980494,
+          -6.081808999585633
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20917,
+        "CU_NAME": "MAP",
+        "CU_NO": "009",
+        "GEOCODE": "07061803009",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "03",
+        "WARD_NAME": "MAP 1",
+        "LATITUDE": -6.085237,
+        "LONGITUDE": 143.631404,
+        "REGHH": 68,
+        "TOTPOP2000": 657,
+        "MALE2000": 310,
+        "FEMALE2000": 347,
+        "POP2008": 914,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061803009,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20918,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63019999963035,
+          -6.077345999718091
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20918,
+        "CU_NAME": "PES",
+        "CU_NO": "010",
+        "GEOCODE": "07061803010",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "03",
+        "WARD_NAME": "MAP 1",
+        "LATITUDE": -6.085237,
+        "LONGITUDE": 143.631404,
+        "REGHH": 45,
+        "TOTPOP2000": 279,
+        "MALE2000": 137,
+        "FEMALE2000": 142,
+        "POP2008": 388,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061803010,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20919,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.63242100042885,
+          -6.083666999832133
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20919,
+        "CU_NAME": "WENDIA",
+        "CU_NO": "011",
+        "GEOCODE": "07061803011",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "03",
+        "WARD_NAME": "MAP 1",
+        "LATITUDE": -6.085237,
+        "LONGITUDE": 143.631404,
+        "REGHH": 28,
+        "TOTPOP2000": 171,
+        "MALE2000": 88,
+        "FEMALE2000": 83,
+        "POP2008": 237,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061803011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20920,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6270370003573,
+          -6.082380999883185
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20920,
+        "CU_NAME": "ENGEM",
+        "CU_NO": "012",
+        "GEOCODE": "07061803012",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "18",
+        "WARD_NO": "03",
+        "WARD_NAME": "MAP 1",
+        "LATITUDE": -6.085237,
+        "LONGITUDE": 143.631404,
+        "REGHH": 25,
+        "TOTPOP2000": 158,
+        "MALE2000": 78,
+        "FEMALE2000": 80,
+        "POP2008": 221,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061803012,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

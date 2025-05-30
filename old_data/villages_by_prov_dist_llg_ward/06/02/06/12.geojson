@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 13609,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.06266799972843,
+          -8.829025999750058
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13609,
+        "CU_NAME": "AWALA",
+        "CU_NO": "002",
+        "GEOCODE": "06020612002",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "AWALA",
+        "LATITUDE": -8.831203,
+        "LONGITUDE": 148.060516,
+        "REGHH": 119,
+        "TOTPOP2000": 702,
+        "MALE2000": 362,
+        "FEMALE2000": 340,
+        "POP2008": 869,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020612002,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13610,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.06353200000183,
+          -8.827184000241346
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13610,
+        "CU_NAME": "AWALA VOP BLOCKS",
+        "CU_NO": "401",
+        "GEOCODE": "06020612401",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "AWALA",
+        "LATITUDE": -8.82863,
+        "LONGITUDE": 148.062517,
+        "REGHH": 40,
+        "TOTPOP2000": 220,
+        "MALE2000": 114,
+        "FEMALE2000": 106,
+        "POP2008": 272,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020612401,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0611289998036,
+          -8.811043999680805
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13611,
+        "CU_NAME": "SERAHAMBO VOP BLOCK",
+        "CU_NO": "402",
+        "GEOCODE": "06020612402",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "AWALA",
+        "LATITUDE": -8.81249,
+        "LONGITUDE": 148.060114,
+        "REGHH": 32,
+        "TOTPOP2000": 197,
+        "MALE2000": 110,
+        "FEMALE2000": 87,
+        "POP2008": 243,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020612402,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13612,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.06801599993855,
+          -8.82157100040132
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13612,
+        "CU_NAME": "SAIHO HEALTH CENTRE",
+        "CU_NO": "403",
+        "GEOCODE": "06020612403",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "AWALA",
+        "LATITUDE": -8.827435,
+        "LONGITUDE": 148.068284,
+        "REGHH": 13,
+        "TOTPOP2000": 77,
+        "MALE2000": 42,
+        "FEMALE2000": 35,
+        "POP2008": 93,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020612403,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13613,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0611289998036,
+          -8.831133999834151
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13613,
+        "CU_NAME": "AWALA C/SCH",
+        "CU_NO": "404",
+        "GEOCODE": "06020612404",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "AWALA",
+        "LATITUDE": -8.831203,
+        "LONGITUDE": 148.060516,
+        "REGHH": 7,
+        "TOTPOP2000": 31,
+        "MALE2000": 13,
+        "FEMALE2000": 18,
+        "POP2008": 39,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020612404,
+        "PROVINCE": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13614,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0617699996858,
+          -8.81690400011945
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13614,
+        "CU_NAME": "SAIHO POLICE STN",
+        "CU_NO": "405",
+        "GEOCODE": "06020612405",
+        "PROV_KEY": "06",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "AWALA",
+        "LATITUDE": -8.81835,
+        "LONGITUDE": 148.060755,
+        "REGHH": 2,
+        "TOTPOP2000": 28,
+        "MALE2000": 14,
+        "FEMALE2000": 14,
+        "POP2008": 36,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 6020612405,
+        "PROVINCE": 6
+      }
+    }
+  ]
+}

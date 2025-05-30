@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15512,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.05567799983987,
+          -5.314659999859032
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15512,
+        "CU_NAME": "ANKITS",
+        "CU_NO": "034",
+        "GEOCODE": "01021010034",
+        "PROV_KEY": "01",
+        "DIST_NO": "02",
+        "LLG_NO": "10",
+        "WARD_NO": "10",
+        "WARD_NAME": "ANKITS",
+        "LATITUDE": -5.313402,
+        "LONGITUDE": 141.055902,
+        "REGHH": 14,
+        "TOTPOP2000": 112,
+        "MALE2000": 59,
+        "FEMALE2000": 53,
+        "POP2008": 145,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1021010034,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 11000,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.80365899956325,
+          -6.686516999659773
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11000,
+        "CU_NAME": "KUBILALA SETTLEMENT",
+        "CU_NO": "440",
+        "GEOCODE": "12031104440",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "UMSIS",
+        "LATITUDE": -6.687937,
+        "LONGITUDE": 146.802632,
+        "REGHH": 14,
+        "TOTPOP2000": 52,
+        "MALE2000": 30,
+        "FEMALE2000": 22,
+        "POP2008": 66,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031104440,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11001,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8288660000659,
+          -6.673834000238855
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11001,
+        "CU_NAME": "UMSIS PUBLIC W/COMP",
+        "CU_NO": "538",
+        "GEOCODE": "12031104538",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "UMSIS",
+        "LATITUDE": -6.673414,
+        "LONGITUDE": 146.830047,
+        "REGHH": 14,
+        "TOTPOP2000": 94,
+        "MALE2000": 59,
+        "FEMALE2000": 35,
+        "POP2008": 118,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031104538,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11002,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.80347199993287,
+          -6.681422000325028
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11002,
+        "CU_NAME": "UMSIS POULTRY (NGTB",
+        "CU_NO": "539",
+        "GEOCODE": "12031104539",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "UMSIS",
+        "LATITUDE": -6.682842,
+        "LONGITUDE": 146.802445,
+        "REGHH": 25,
+        "TOTPOP2000": 114,
+        "MALE2000": 60,
+        "FEMALE2000": 54,
+        "POP2008": 142,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031104539,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7978790001158,
+          -6.706577000228322
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11003,
+        "CU_NAME": "UMSIS FORESTRY",
+        "CU_NO": "543",
+        "GEOCODE": "12031104543",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "UMSIS",
+        "LATITUDE": -6.707998,
+        "LONGITUDE": 146.796852,
+        "REGHH": 37,
+        "TOTPOP2000": 227,
+        "MALE2000": 122,
+        "FEMALE2000": 105,
+        "POP2008": 284,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031104543,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.84548100004815,
+          -6.686381999729463
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11004,
+        "CU_NAME": "POTSIE SEPIK COMPOUND",
+        "CU_NO": "545",
+        "GEOCODE": "12031104545",
+        "PROV_KEY": "12",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "04",
+        "WARD_NAME": "UMSIS",
+        "LATITUDE": -6.687803,
+        "LONGITUDE": 146.844455,
+        "REGHH": 10,
+        "TOTPOP2000": 51,
+        "MALE2000": 30,
+        "FEMALE2000": 21,
+        "POP2008": 64,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12031104545,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8350,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.48162699968634,
+          -5.1302109997378125
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8350,
+        "CU_NAME": "BAI",
+        "CU_NO": "002",
+        "GEOCODE": "13020612002",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD TWELVE",
+        "LATITUDE": -5.131612,
+        "LONGITUDE": 145.480585,
+        "REGHH": 31,
+        "TOTPOP2000": 142,
+        "MALE2000": 76,
+        "FEMALE2000": 66,
+        "POP2008": 175,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020612002,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8351,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.52246499976002,
+          -5.039710000016441
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8351,
+        "CU_NAME": "MURUPI",
+        "CU_NO": "021",
+        "GEOCODE": "13020612021",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD TWELVE",
+        "LATITUDE": -5.041499,
+        "LONGITUDE": 145.53694,
+        "REGHH": 2,
+        "TOTPOP2000": 7,
+        "MALE2000": 6,
+        "FEMALE2000": 1,
+        "POP2008": 7,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020612021,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8352,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.33592700043084,
+          -4.994046000422543
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8352,
+        "CU_NAME": "MUSIVANGA",
+        "CU_NO": "022",
+        "GEOCODE": "13020612022",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD TWELVE",
+        "LATITUDE": -4.990502,
+        "LONGITUDE": 145.337717,
+        "REGHH": 9,
+        "TOTPOP2000": 58,
+        "MALE2000": 31,
+        "FEMALE2000": 27,
+        "POP2008": 74,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020612022,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8353,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.51080099966646,
+          -5.321483999786722
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8353,
+        "CU_NAME": "SIMUKU",
+        "CU_NO": "023",
+        "GEOCODE": "13020612023",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD TWELVE",
+        "LATITUDE": -5.322887,
+        "LONGITUDE": 145.509759,
+        "REGHH": 10,
+        "TOTPOP2000": 43,
+        "MALE2000": 21,
+        "FEMALE2000": 22,
+        "POP2008": 51,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020612023,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8354,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.35723500009522,
+          -5.002556999905551
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8354,
+        "CU_NAME": "MUGUNURAMBU",
+        "CU_NO": "024",
+        "GEOCODE": "13020612024",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD TWELVE",
+        "LATITUDE": -5.003956,
+        "LONGITUDE": 145.356192,
+        "REGHH": 7,
+        "TOTPOP2000": 37,
+        "MALE2000": 20,
+        "FEMALE2000": 17,
+        "POP2008": 45,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020612024,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8355,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4838780000697,
+          -5.331424999564035
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8355,
+        "CU_NAME": "SEVOI",
+        "CU_NO": "025",
+        "GEOCODE": "13020612025",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD TWELVE",
+        "LATITUDE": -5.332828,
+        "LONGITUDE": 145.482836,
+        "REGHH": 9,
+        "TOTPOP2000": 54,
+        "MALE2000": 29,
+        "FEMALE2000": 25,
+        "POP2008": 68,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020612025,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8356,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.57832500009874,
+          -4.961673999555387
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8356,
+        "CU_NAME": "JAB",
+        "CU_NO": "026",
+        "GEOCODE": "13020612026",
+        "PROV_KEY": "13",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "12",
+        "WARD_NAME": "WARD TWELVE",
+        "LATITUDE": -4.963073,
+        "LONGITUDE": 145.577285,
+        "REGHH": 7,
+        "TOTPOP2000": 60,
+        "MALE2000": 34,
+        "FEMALE2000": 26,
+        "POP2008": 76,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13020612026,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

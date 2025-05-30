@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 17774,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.55198799974642,
+          -6.219807999839247
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17774,
+        "CU_NAME": "AIS",
+        "CU_NO": "003",
+        "GEOCODE": "19010304003",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "KANDRIAN",
+        "LATITUDE": -6.22123,
+        "LONGITUDE": 149.551,
+        "REGHH": 48,
+        "TOTPOP2000": 272,
+        "MALE2000": 123,
+        "FEMALE2000": 149,
+        "POP2008": 359,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010304003,
+        "PROVINCE": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17775,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.54067499965163,
+          -6.224626999936049
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17775,
+        "CU_NAME": "AKANGLO",
+        "CU_NO": "004",
+        "GEOCODE": "19010304004",
+        "PROV_KEY": "19",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "04",
+        "WARD_NAME": "KANDRIAN",
+        "LATITUDE": -6.226048,
+        "LONGITUDE": 149.539687,
+        "REGHH": 20,
+        "TOTPOP2000": 121,
+        "MALE2000": 64,
+        "FEMALE2000": 57,
+        "POP2008": 159,
+        "G_RATE": 1.034999966621399,
+        "Geocode_Num": 19010304004,
+        "PROVINCE": 19
+      }
+    }
+  ]
+}

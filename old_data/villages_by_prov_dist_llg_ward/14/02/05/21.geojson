@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.58503799980394,
+          -4.171320999964109
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6309,
+        "CU_NAME": "TAMBUNUM",
+        "CU_NO": "018",
+        "GEOCODE": "14020521018",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "21",
+        "WARD_NAME": "TAMBUNUM",
+        "LATITUDE": -4.187154,
+        "LONGITUDE": 143.596049,
+        "REGHH": 157,
+        "TOTPOP2000": 883,
+        "MALE2000": 391,
+        "FEMALE2000": 492,
+        "POP2008": 1051,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020521018,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

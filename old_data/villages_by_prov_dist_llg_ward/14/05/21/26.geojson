@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7149,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8455589999479,
+          -3.808378000044627
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7149,
+        "CU_NAME": "DUMEK",
+        "CU_NO": "001",
+        "GEOCODE": "14052126001",
+        "PROV_KEY": "14",
+        "DIST_NO": "05",
+        "LLG_NO": "21",
+        "WARD_NO": "26",
+        "WARD_NAME": "DUMEK",
+        "LATITUDE": -3.809958,
+        "LONGITUDE": 142.844317,
+        "REGHH": 116,
+        "TOTPOP2000": 469,
+        "MALE2000": 241,
+        "FEMALE2000": 228,
+        "POP2008": 559,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14052126001,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

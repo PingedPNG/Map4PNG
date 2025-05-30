@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 6496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.23760299987862,
+          -3.955878999616118
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6496,
+        "CU_NAME": "BONAM",
+        "CU_NO": "003",
+        "GEOCODE": "14020813003",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "SUK",
+        "LATITUDE": -3.957462,
+        "LONGITUDE": 144.236378,
+        "REGHH": 17,
+        "TOTPOP2000": 85,
+        "MALE2000": 47,
+        "FEMALE2000": 38,
+        "POP2008": 101,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020813003,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6497,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.24068800005125,
+          -3.952093000391585
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6497,
+        "CU_NAME": "MANGAN",
+        "CU_NO": "009",
+        "GEOCODE": "14020813009",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "SUK",
+        "LATITUDE": -3.953676,
+        "LONGITUDE": 144.239463,
+        "REGHH": 47,
+        "TOTPOP2000": 348,
+        "MALE2000": 186,
+        "FEMALE2000": 162,
+        "POP2008": 415,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020813009,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.24823800018362,
+          -3.954068999784454
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6498,
+        "CU_NAME": "SUK",
+        "CU_NO": "012",
+        "GEOCODE": "14020813012",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "SUK",
+        "LATITUDE": -3.9602,
+        "LONGITUDE": 144.23755,
+        "REGHH": 35,
+        "TOTPOP2000": 220,
+        "MALE2000": 101,
+        "FEMALE2000": 119,
+        "POP2008": 262,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020813012,
+        "PROVINCE": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6499,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.23106299955782,
+          -3.957097000026465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6499,
+        "CU_NAME": "MARIENBERG",
+        "CU_NO": "504",
+        "GEOCODE": "14020813504",
+        "PROV_KEY": "14",
+        "DIST_NO": "02",
+        "LLG_NO": "08",
+        "WARD_NO": "13",
+        "WARD_NAME": "SUK",
+        "LATITUDE": -3.962219,
+        "LONGITUDE": 144.230859,
+        "REGHH": 15,
+        "TOTPOP2000": 94,
+        "MALE2000": 46,
+        "FEMALE2000": 48,
+        "POP2008": 110,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14020813504,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}

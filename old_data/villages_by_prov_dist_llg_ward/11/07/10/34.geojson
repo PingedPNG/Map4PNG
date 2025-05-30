@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30651,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.59545160011135,
+          -6.518985660060139
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30651,
+        "CU_NAME": "STATION",
+        "CU_NO": "401",
+        "GEOCODE": "11071034401",
+        "PROV_KEY": "11",
+        "DIST_NO": "07",
+        "LLG_NO": "10",
+        "WARD_NO": "34",
+        "WARD_NAME": "OKAPA STATION",
+        "LATITUDE": -6.518986,
+        "LONGITUDE": 145.595452,
+        "REGHH": 68,
+        "TOTPOP2000": 376,
+        "MALE2000": 199,
+        "FEMALE2000": 177,
+        "POP2008": 447,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

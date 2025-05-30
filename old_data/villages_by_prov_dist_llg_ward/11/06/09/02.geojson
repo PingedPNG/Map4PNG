@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 30322,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.89203760035502,
+          -6.967546560425376
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30322,
+        "CU_NAME": "MARAWAKA STATION",
+        "CU_NO": "501",
+        "GEOCODE": "11060902501",
+        "PROV_KEY": "11",
+        "DIST_NO": "06",
+        "LLG_NO": "09",
+        "WARD_NO": "02",
+        "WARD_NAME": "MARAWAKA STN",
+        "LATITUDE": -6.967547,
+        "LONGITUDE": 145.892038,
+        "REGHH": 37,
+        "TOTPOP2000": 182,
+        "MALE2000": 81,
+        "FEMALE2000": 101,
+        "POP2008": 216,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

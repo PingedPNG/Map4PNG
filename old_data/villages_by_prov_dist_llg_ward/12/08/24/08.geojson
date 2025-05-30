@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.94378299978564,
+          -6.374561000189942
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12115,
+        "CU_NAME": "KWEVILING",
+        "CU_NO": "004",
+        "GEOCODE": "12082408004",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "24",
+        "WARD_NO": "08",
+        "WARD_NAME": "KEMEN",
+        "LATITUDE": -6.372272,
+        "LONGITUDE": 146.941172,
+        "REGHH": 10,
+        "TOTPOP2000": 63,
+        "MALE2000": 32,
+        "FEMALE2000": 31,
+        "POP2008": 79,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082408004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.91392899992343,
+          -6.420643000174266
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12116,
+        "CU_NAME": "BAMBOK",
+        "CU_NO": "005",
+        "GEOCODE": "12082408005",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "24",
+        "WARD_NO": "08",
+        "WARD_NAME": "KEMEN",
+        "LATITUDE": -6.425363,
+        "LONGITUDE": 146.914141,
+        "REGHH": 36,
+        "TOTPOP2000": 163,
+        "MALE2000": 87,
+        "FEMALE2000": 76,
+        "POP2008": 204,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082408005,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.92679000035832,
+          -6.453568999609615
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12117,
+        "CU_NAME": "KEMEN",
+        "CU_NO": "014",
+        "GEOCODE": "12082408014",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "24",
+        "WARD_NO": "08",
+        "WARD_NAME": "KEMEN",
+        "LATITUDE": -6.451673,
+        "LONGITUDE": 146.922452,
+        "REGHH": 21,
+        "TOTPOP2000": 94,
+        "MALE2000": 45,
+        "FEMALE2000": 49,
+        "POP2008": 118,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082408014,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.91869400022802,
+          -6.462466999852097
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12118,
+        "CU_NAME": "LAMBAIP",
+        "CU_NO": "019",
+        "GEOCODE": "12082408019",
+        "PROV_KEY": "12",
+        "DIST_NO": "08",
+        "LLG_NO": "24",
+        "WARD_NO": "08",
+        "WARD_NAME": "KEMEN",
+        "LATITUDE": -6.460583,
+        "LONGITUDE": 146.91932,
+        "REGHH": 20,
+        "TOTPOP2000": 104,
+        "MALE2000": 59,
+        "FEMALE2000": 45,
+        "POP2008": 129,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12082408019,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10762,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.518508000344,
+          -6.457602000332031
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10762,
+        "CU_NAME": "DOI",
+        "CU_NO": "004",
+        "GEOCODE": "12020622004",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "22",
+        "WARD_NAME": "KAKU",
+        "LATITUDE": -6.459021,
+        "LONGITUDE": 147.517491,
+        "REGHH": 25,
+        "TOTPOP2000": 131,
+        "MALE2000": 59,
+        "FEMALE2000": 72,
+        "POP2008": 163,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020622004,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10763,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5281489997766,
+          -6.4433739998102055
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10763,
+        "CU_NAME": "KAKU",
+        "CU_NO": "019",
+        "GEOCODE": "12020622019",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "22",
+        "WARD_NAME": "KAKU",
+        "LATITUDE": -6.444793,
+        "LONGITUDE": 147.527133,
+        "REGHH": 44,
+        "TOTPOP2000": 236,
+        "MALE2000": 122,
+        "FEMALE2000": 114,
+        "POP2008": 295,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020622019,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10764,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.52291999965837,
+          -6.474111999968784
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10764,
+        "CU_NAME": "MASUANG",
+        "CU_NO": "020",
+        "GEOCODE": "12020622020",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "22",
+        "WARD_NAME": "KAKU",
+        "LATITUDE": -6.475532,
+        "LONGITUDE": 147.521903,
+        "REGHH": 18,
+        "TOTPOP2000": 86,
+        "MALE2000": 43,
+        "FEMALE2000": 43,
+        "POP2008": 108,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020622020,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10765,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.51722100034897,
+          -6.4624679998982515
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10765,
+        "CU_NAME": "QEQENDANGU",
+        "CU_NO": "021",
+        "GEOCODE": "12020622021",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "22",
+        "WARD_NAME": "KAKU",
+        "LATITUDE": -6.463887,
+        "LONGITUDE": 147.516204,
+        "REGHH": 16,
+        "TOTPOP2000": 79,
+        "MALE2000": 39,
+        "FEMALE2000": 40,
+        "POP2008": 97,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020622021,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10766,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5254579997869,
+          -6.457078999596092
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10766,
+        "CU_NAME": "SANANGA",
+        "CU_NO": "023",
+        "GEOCODE": "12020622023",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "22",
+        "WARD_NAME": "KAKU",
+        "LATITUDE": -6.458498,
+        "LONGITUDE": 147.524441,
+        "REGHH": 45,
+        "TOTPOP2000": 171,
+        "MALE2000": 78,
+        "FEMALE2000": 93,
+        "POP2008": 213,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020622023,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

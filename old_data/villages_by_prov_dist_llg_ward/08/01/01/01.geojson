@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5186,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.6932119997341,
+          -5.85496500043439
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5186,
+        "CU_NAME": "WERT",
+        "CU_NO": "001",
+        "GEOCODE": "08010101001",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "WERT",
+        "LATITUDE": -5.854988,
+        "LONGITUDE": 143.700621,
+        "REGHH": 44,
+        "TOTPOP2000": 256,
+        "MALE2000": 117,
+        "FEMALE2000": 139,
+        "POP2008": 322,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010101001,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5187,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.67994999969278,
+          -5.884978999581108
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5187,
+        "CU_NAME": "KALYEPONGO",
+        "CU_NO": "002",
+        "GEOCODE": "08010101002",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "WERT",
+        "LATITUDE": -5.886385,
+        "LONGITUDE": 143.678884,
+        "REGHH": 47,
+        "TOTPOP2000": 245,
+        "MALE2000": 124,
+        "FEMALE2000": 121,
+        "POP2008": 308,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010101002,
+        "PROVINCE": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.66489799984288,
+          -5.86589399990811
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5188,
+        "CU_NAME": "PUNDIA",
+        "CU_NO": "003",
+        "GEOCODE": "08010101003",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "01",
+        "WARD_NAME": "WERT",
+        "LATITUDE": -5.8673,
+        "LONGITUDE": 143.663832,
+        "REGHH": 22,
+        "TOTPOP2000": 118,
+        "MALE2000": 66,
+        "FEMALE2000": 52,
+        "POP2008": 149,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010101003,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

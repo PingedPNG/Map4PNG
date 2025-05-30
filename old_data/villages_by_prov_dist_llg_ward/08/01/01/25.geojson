@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.46710799963455,
+          -5.8119669996772245
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5235,
+        "CU_NAME": "LYUMBI ISLAND",
+        "CU_NO": "001",
+        "GEOCODE": "08010125001",
+        "PROV_KEY": "08",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "25",
+        "WARD_NAME": "LYUMBI ISLAND",
+        "LATITUDE": -5.813372,
+        "LONGITUDE": 143.466039,
+        "REGHH": 105,
+        "TOTPOP2000": 564,
+        "MALE2000": 296,
+        "FEMALE2000": 268,
+        "POP2008": 708,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8010125001,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4949,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.95196200024623,
+          -5.982675000151062
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4949,
+        "CU_NAME": "LAUSUS",
+        "CU_NO": "026",
+        "GEOCODE": "18031217026",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "12",
+        "WARD_NO": "17",
+        "WARD_NAME": "LAUSUS",
+        "LATITUDE": -5.984095,
+        "LONGITUDE": 150.950995,
+        "REGHH": 52,
+        "TOTPOP2000": 273,
+        "MALE2000": 133,
+        "FEMALE2000": 140,
+        "POP2008": 333,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031217026,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

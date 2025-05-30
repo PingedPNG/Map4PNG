@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1068,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8627820001892,
+          -8.080026999746167
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1068,
+        "CU_NAME": "AMENA",
+        "CU_NO": "001",
+        "GEOCODE": "03020403001",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "RUPILA",
+        "LATITUDE": -8.081462,
+        "LONGITUDE": 146.861753,
+        "REGHH": 28,
+        "TOTPOP2000": 136,
+        "MALE2000": 75,
+        "FEMALE2000": 61,
+        "POP2008": 162,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020403001,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1069,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8763829996758,
+          -8.033743000339143
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1069,
+        "CU_NAME": "BIZOA",
+        "CU_NO": "002",
+        "GEOCODE": "03020403002",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "RUPILA",
+        "LATITUDE": -8.035178,
+        "LONGITUDE": 146.875354,
+        "REGHH": 32,
+        "TOTPOP2000": 128,
+        "MALE2000": 66,
+        "FEMALE2000": 62,
+        "POP2008": 152,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020403002,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1070,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.87129799990282,
+          -8.05929100037929
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1070,
+        "CU_NAME": "ELI",
+        "CU_NO": "003",
+        "GEOCODE": "03020403003",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "RUPILA",
+        "LATITUDE": -8.060726,
+        "LONGITUDE": 146.870269,
+        "REGHH": 32,
+        "TOTPOP2000": 148,
+        "MALE2000": 76,
+        "FEMALE2000": 72,
+        "POP2008": 178,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020403003,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1071,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.88038900005233,
+          -8.02417599982249
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1071,
+        "CU_NAME": "ENAUGAGAVE",
+        "CU_NO": "004",
+        "GEOCODE": "03020403004",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "RUPILA",
+        "LATITUDE": -8.025611,
+        "LONGITUDE": 146.87936,
+        "REGHH": 55,
+        "TOTPOP2000": 234,
+        "MALE2000": 115,
+        "FEMALE2000": 119,
+        "POP2008": 280,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020403004,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1072,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8483999997602,
+          -8.1061249999687
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1072,
+        "CU_NAME": "GHIVENA",
+        "CU_NO": "007",
+        "GEOCODE": "03020403007",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "RUPILA",
+        "LATITUDE": -8.107559,
+        "LONGITUDE": 146.84737,
+        "REGHH": 31,
+        "TOTPOP2000": 116,
+        "MALE2000": 59,
+        "FEMALE2000": 57,
+        "POP2008": 140,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020403007,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1073,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.89038299957588,
+          -8.011182000448912
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1073,
+        "CU_NAME": "RUPILA",
+        "CU_NO": "022",
+        "GEOCODE": "03020403022",
+        "PROV_KEY": "03",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "03",
+        "WARD_NAME": "RUPILA",
+        "LATITUDE": -8.012617,
+        "LONGITUDE": 146.889354,
+        "REGHH": 56,
+        "TOTPOP2000": 243,
+        "MALE2000": 134,
+        "FEMALE2000": 109,
+        "POP2008": 292,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3020403022,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

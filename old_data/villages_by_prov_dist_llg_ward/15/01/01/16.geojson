@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 18310,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.6086659996363,
+          -3.2864529999059755
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18310,
+        "CU_NAME": "AFUA",
+        "CU_NO": "001",
+        "GEOCODE": "15010116001",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "16",
+        "WARD_NAME": "PAUP",
+        "LATITUDE": -3.28783,
+        "LONGITUDE": 142.607591,
+        "REGHH": 24,
+        "TOTPOP2000": 200,
+        "MALE2000": 99,
+        "FEMALE2000": 101,
+        "POP2008": 242,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010116001,
+        "PROVINCE": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18311,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.59655200037457,
+          -3.243125000118596
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18311,
+        "CU_NAME": "PAUP",
+        "CU_NO": "012",
+        "GEOCODE": "15010116012",
+        "PROV_KEY": "15",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "16",
+        "WARD_NAME": "PAUP",
+        "LATITUDE": -3.244501,
+        "LONGITUDE": 142.595477,
+        "REGHH": 130,
+        "TOTPOP2000": 1004,
+        "MALE2000": 537,
+        "FEMALE2000": 467,
+        "POP2008": 1213,
+        "G_RATE": 1.0240000486373901,
+        "Geocode_Num": 15010116012,
+        "PROVINCE": 15
+      }
+    }
+  ]
+}

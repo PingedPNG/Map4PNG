@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12702,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8490370000576,
+          -3.979297000356212
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12702,
+        "CU_NAME": "KABIRARA",
+        "CU_NO": "009",
+        "GEOCODE": "17020520009",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "KEMBENG",
+        "LATITUDE": -3.980694,
+        "LONGITUDE": 152.848102,
+        "REGHH": 19,
+        "TOTPOP2000": 98,
+        "MALE2000": 53,
+        "FEMALE2000": 45,
+        "POP2008": 122,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020520009,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12703,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.84396600003095,
+          -3.955791000054546
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12703,
+        "CU_NAME": "KEMBENG",
+        "CU_NO": "012",
+        "GEOCODE": "17020520012",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "KEMBENG",
+        "LATITUDE": -3.957187,
+        "LONGITUDE": 152.843031,
+        "REGHH": 21,
+        "TOTPOP2000": 105,
+        "MALE2000": 63,
+        "FEMALE2000": 42,
+        "POP2008": 131,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020520012,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12704,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8700020000923,
+          -3.989620999809233
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12704,
+        "CU_NAME": "POROBUNBUN",
+        "CU_NO": "018",
+        "GEOCODE": "17020520018",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "KEMBENG",
+        "LATITUDE": -3.98894,
+        "LONGITUDE": 152.869954,
+        "REGHH": 25,
+        "TOTPOP2000": 124,
+        "MALE2000": 64,
+        "FEMALE2000": 60,
+        "POP2008": 156,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020520018,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12705,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.89543300013293,
+          -4.000394000182894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12705,
+        "CU_NAME": "PULPULU",
+        "CU_NO": "020",
+        "GEOCODE": "17020520020",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "KEMBENG",
+        "LATITUDE": -3.998986,
+        "LONGITUDE": 152.89869,
+        "REGHH": 17,
+        "TOTPOP2000": 89,
+        "MALE2000": 49,
+        "FEMALE2000": 40,
+        "POP2008": 113,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020520020,
+        "PROVINCE": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12706,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8596700002704,
+          -3.9842320004064504
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12706,
+        "CU_NAME": "RUKALILIK",
+        "CU_NO": "023",
+        "GEOCODE": "17020520023",
+        "PROV_KEY": "17",
+        "DIST_NO": "02",
+        "LLG_NO": "05",
+        "WARD_NO": "20",
+        "WARD_NAME": "KEMBENG",
+        "LATITUDE": -3.985184,
+        "LONGITUDE": 152.859623,
+        "REGHH": 21,
+        "TOTPOP2000": 100,
+        "MALE2000": 55,
+        "FEMALE2000": 45,
+        "POP2008": 125,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 17020520023,
+        "PROVINCE": 17
+      }
+    }
+  ]
+}

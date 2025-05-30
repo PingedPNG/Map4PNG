@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8036,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8972770004333,
+          -4.36519899963406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8036,
+        "CU_NAME": "SIRIN",
+        "CU_NO": "007",
+        "GEOCODE": "13010328007",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "28",
+        "WARD_NAME": "DIMUK SIRIN",
+        "LATITUDE": -4.366592,
+        "LONGITUDE": 144.896229,
+        "REGHH": 60,
+        "TOTPOP2000": 362,
+        "MALE2000": 185,
+        "FEMALE2000": 177,
+        "POP2008": 448,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010328007,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8037,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8961650004145,
+          -4.3955330000478625
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8037,
+        "CU_NAME": "DIMUK",
+        "CU_NO": "012",
+        "GEOCODE": "13010328012",
+        "PROV_KEY": "13",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "28",
+        "WARD_NAME": "DIMUK SIRIN",
+        "LATITUDE": -4.396925,
+        "LONGITUDE": 144.895117,
+        "REGHH": 59,
+        "TOTPOP2000": 311,
+        "MALE2000": 164,
+        "FEMALE2000": 147,
+        "POP2008": 385,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13010328012,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

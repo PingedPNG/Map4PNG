@@ -1,0 +1,517 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 29753,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.80467172002398,
+          -6.256963080082016
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29753,
+        "CU_NAME": "AMUNANOFI",
+        "CU_NO": "011",
+        "GEOCODE": "11040508011",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBA",
+        "LATITUDE": -6.256963,
+        "LONGITUDE": 145.804672,
+        "REGHH": 113,
+        "TOTPOP2000": 529,
+        "MALE2000": 251,
+        "FEMALE2000": 278,
+        "POP2008": 630,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29754,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.80039600037514,
+          -6.266697209708411
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29754,
+        "CU_NAME": "BAYAI",
+        "CU_NO": "015",
+        "GEOCODE": "11040508015",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBA",
+        "LATITUDE": -6.266697,
+        "LONGITUDE": 145.800396,
+        "REGHH": 49,
+        "TOTPOP2000": 213,
+        "MALE2000": 115,
+        "FEMALE2000": 98,
+        "POP2008": 253,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.75599791976822,
+          -6.295290030010847
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29755,
+        "CU_NAME": "IFE",
+        "CU_NO": "020",
+        "GEOCODE": "11040508020",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBA",
+        "LATITUDE": -6.29529,
+        "LONGITUDE": 145.755998,
+        "REGHH": 85,
+        "TOTPOP2000": 394,
+        "MALE2000": 211,
+        "FEMALE2000": 183,
+        "POP2008": 469,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29756,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7726857198702,
+          -6.293059289554549
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29756,
+        "CU_NAME": "KANAMBA NO 1",
+        "CU_NO": "029",
+        "GEOCODE": "11040508029",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBA",
+        "LATITUDE": -6.293059,
+        "LONGITUDE": 145.772686,
+        "REGHH": 46,
+        "TOTPOP2000": 208,
+        "MALE2000": 107,
+        "FEMALE2000": 101,
+        "POP2008": 248,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29757,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.80372240016868,
+          -6.2646801301838195
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29757,
+        "CU_NAME": "KUMANOFI",
+        "CU_NO": "031",
+        "GEOCODE": "11040508031",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBA",
+        "LATITUDE": -6.26468,
+        "LONGITUDE": 145.803722,
+        "REGHH": 61,
+        "TOTPOP2000": 268,
+        "MALE2000": 129,
+        "FEMALE2000": 139,
+        "POP2008": 319,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29758,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7721435599774,
+          -6.28002098957694
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29758,
+        "CU_NAME": "OMENA 1",
+        "CU_NO": "040",
+        "GEOCODE": "11040508040",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBA",
+        "LATITUDE": -6.280021,
+        "LONGITUDE": 145.772144,
+        "REGHH": 54,
+        "TOTPOP2000": 241,
+        "MALE2000": 124,
+        "FEMALE2000": 117,
+        "POP2008": 287,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29759,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.79312039958688,
+          -6.276996359993973
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29759,
+        "CU_NAME": "ONKI",
+        "CU_NO": "042",
+        "GEOCODE": "11040508042",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBA",
+        "LATITUDE": -6.276996,
+        "LONGITUDE": 145.79312,
+        "REGHH": 41,
+        "TOTPOP2000": 192,
+        "MALE2000": 106,
+        "FEMALE2000": 86,
+        "POP2008": 228,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29760,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.83673404024387,
+          -6.281928629702463
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29760,
+        "CU_NAME": "OREGE",
+        "CU_NO": "043",
+        "GEOCODE": "11040508043",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBA",
+        "LATITUDE": -6.281929,
+        "LONGITUDE": 145.836734,
+        "REGHH": 70,
+        "TOTPOP2000": 345,
+        "MALE2000": 202,
+        "FEMALE2000": 143,
+        "POP2008": 411,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29761,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.80721007988132,
+          -6.283259010295069
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29761,
+        "CU_NAME": "JAMUJA",
+        "CU_NO": "057",
+        "GEOCODE": "11040508057",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBA",
+        "LATITUDE": -6.283259,
+        "LONGITUDE": 145.80721,
+        "REGHH": 52,
+        "TOTPOP2000": 189,
+        "MALE2000": 92,
+        "FEMALE2000": 97,
+        "POP2008": 225,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29762,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.79326908000405,
+          -6.249594240281908
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29762,
+        "CU_NAME": "JOMPOSA",
+        "CU_NO": "060",
+        "GEOCODE": "11040508060",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBA",
+        "LATITUDE": -6.249594,
+        "LONGITUDE": 145.793269,
+        "REGHH": 51,
+        "TOTPOP2000": 227,
+        "MALE2000": 116,
+        "FEMALE2000": 111,
+        "POP2008": 270,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29763,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.79282016002242,
+          -6.264409769695078
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29763,
+        "CU_NAME": "KONOKA",
+        "CU_NO": "062",
+        "GEOCODE": "11040508062",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBA",
+        "LATITUDE": -6.26441,
+        "LONGITUDE": 145.79282,
+        "REGHH": 18,
+        "TOTPOP2000": 76,
+        "MALE2000": 40,
+        "FEMALE2000": 36,
+        "POP2008": 92,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29764,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7780256001014,
+          -6.269006430402385
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29764,
+        "CU_NAME": "OMENA 2",
+        "CU_NO": "063",
+        "GEOCODE": "11040508063",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBA",
+        "LATITUDE": -6.269006,
+        "LONGITUDE": 145.778026,
+        "REGHH": 43,
+        "TOTPOP2000": 314,
+        "MALE2000": 173,
+        "FEMALE2000": 141,
+        "POP2008": 374,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29765,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.79327051981875,
+          -6.243168599551154
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29765,
+        "CU_NAME": "NAGUNKA",
+        "CU_NO": "064",
+        "GEOCODE": "11040508064",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBA",
+        "LATITUDE": -6.243169,
+        "LONGITUDE": 145.793271,
+        "REGHH": 15,
+        "TOTPOP2000": 55,
+        "MALE2000": 28,
+        "FEMALE2000": 27,
+        "POP2008": 63,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29766,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.78363871955128,
+          -6.25068125983222
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29766,
+        "CU_NAME": "KUKUNKA",
+        "CU_NO": "066",
+        "GEOCODE": "11040508066",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBA",
+        "LATITUDE": -6.250681,
+        "LONGITUDE": 145.783639,
+        "REGHH": 26,
+        "TOTPOP2000": 159,
+        "MALE2000": 73,
+        "FEMALE2000": 86,
+        "POP2008": 190,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29767,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.79911907998166,
+          -6.254202959998565
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29767,
+        "CU_NAME": "AVIGERIGERE",
+        "CU_NO": "067",
+        "GEOCODE": "11040508067",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBA",
+        "LATITUDE": -6.254203,
+        "LONGITUDE": 145.799119,
+        "REGHH": 13,
+        "TOTPOP2000": 52,
+        "MALE2000": 28,
+        "FEMALE2000": 24,
+        "POP2008": 60,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29768,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7597581201412,
+          -6.2646304498353516
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29768,
+        "CU_NAME": "KAMAKUN",
+        "CU_NO": "069",
+        "GEOCODE": "11040508069",
+        "PROV_KEY": "11",
+        "DIST_NO": "04",
+        "LLG_NO": "05",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBA",
+        "LATITUDE": -6.26463,
+        "LONGITUDE": 145.759758,
+        "REGHH": 20,
+        "TOTPOP2000": 94,
+        "MALE2000": 52,
+        "FEMALE2000": 42,
+        "POP2008": 110,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": null,
+        "PROVINCE": 11
+      }
+    }
+  ]
+}

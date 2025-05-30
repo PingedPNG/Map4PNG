@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 12250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.58663799994383,
+          -6.234834000288856
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12250,
+        "CU_NAME": "SUMY",
+        "CU_NO": "032",
+        "GEOCODE": "12092612032",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "12",
+        "WARD_NAME": "ZANKOA",
+        "LATITUDE": -6.236251,
+        "LONGITUDE": 147.585623,
+        "REGHH": 30,
+        "TOTPOP2000": 148,
+        "MALE2000": 75,
+        "FEMALE2000": 73,
+        "POP2008": 184,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092612032,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12251,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.58391999960838,
+          -6.228090999599885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12251,
+        "CU_NAME": "ZAKUPEP",
+        "CU_NO": "033",
+        "GEOCODE": "12092612033",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "12",
+        "WARD_NAME": "ZANKOA",
+        "LATITUDE": -6.229508,
+        "LONGITUDE": 147.582905,
+        "REGHH": 84,
+        "TOTPOP2000": 393,
+        "MALE2000": 195,
+        "FEMALE2000": 198,
+        "POP2008": 490,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092612033,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.58588999962387,
+          -6.241989000192177
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12252,
+        "CU_NAME": "ZANKOA",
+        "CU_NO": "034",
+        "GEOCODE": "12092612034",
+        "PROV_KEY": "12",
+        "DIST_NO": "09",
+        "LLG_NO": "26",
+        "WARD_NO": "12",
+        "WARD_NAME": "ZANKOA",
+        "LATITUDE": -6.243406,
+        "LONGITUDE": 147.584875,
+        "REGHH": 78,
+        "TOTPOP2000": 428,
+        "MALE2000": 199,
+        "FEMALE2000": 229,
+        "POP2008": 534,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12092612034,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

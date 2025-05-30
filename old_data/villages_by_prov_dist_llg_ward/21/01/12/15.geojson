@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20278,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.8013229996568,
+          -6.001411999963807
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20278,
+        "CU_NAME": "PARA 1",
+        "CU_NO": "019",
+        "GEOCODE": "07041215019",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "15",
+        "WARD_NAME": "PARA",
+        "LATITUDE": -6.006961,
+        "LONGITUDE": 142.804208,
+        "REGHH": 88,
+        "TOTPOP2000": 519,
+        "MALE2000": 251,
+        "FEMALE2000": 268,
+        "POP2008": 723,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041215019,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20279,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.80623000021444,
+          -6.000411999713947
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20279,
+        "CU_NAME": "PARA 2",
+        "CU_NO": "020",
+        "GEOCODE": "07041215020",
+        "PROV_KEY": "21",
+        "DIST_NO": "1",
+        "LLG_NO": "12",
+        "WARD_NO": "15",
+        "WARD_NAME": "PARA",
+        "LATITUDE": -6.006961,
+        "LONGITUDE": 142.804208,
+        "REGHH": 38,
+        "TOTPOP2000": 216,
+        "MALE2000": 109,
+        "FEMALE2000": 107,
+        "POP2008": 300,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7041215020,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21041,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.48379900042357,
+          -6.025877999569957
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21041,
+        "CU_NAME": "IMILHOMA",
+        "CU_NO": "002",
+        "GEOCODE": "07061917002",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "17",
+        "WARD_NAME": "IMILHOMA",
+        "LATITUDE": -6.030449,
+        "LONGITUDE": 143.483001,
+        "REGHH": 43,
+        "TOTPOP2000": 276,
+        "MALE2000": 123,
+        "FEMALE2000": 153,
+        "POP2008": 384,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061917002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21042,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.48305400024196,
+          -6.0267969996817214
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21042,
+        "CU_NAME": "MONDAPUR",
+        "CU_NO": "003",
+        "GEOCODE": "07061917003",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "17",
+        "WARD_NAME": "IMILHOMA",
+        "LATITUDE": -6.030449,
+        "LONGITUDE": 143.483001,
+        "REGHH": 48,
+        "TOTPOP2000": 279,
+        "MALE2000": 145,
+        "FEMALE2000": 134,
+        "POP2008": 388,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061917003,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21043,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.4823449999219,
+          -6.024857000150405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21043,
+        "CU_NAME": "HOND",
+        "CU_NO": "004",
+        "GEOCODE": "07061917004",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "17",
+        "WARD_NAME": "IMILHOMA",
+        "LATITUDE": -6.030449,
+        "LONGITUDE": 143.483001,
+        "REGHH": 37,
+        "TOTPOP2000": 355,
+        "MALE2000": 188,
+        "FEMALE2000": 167,
+        "POP2008": 494,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061917004,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21044,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.48397500044598,
+          -6.027980000276727
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21044,
+        "CU_NAME": "HEPILDA",
+        "CU_NO": "005",
+        "GEOCODE": "07061917005",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "17",
+        "WARD_NAME": "IMILHOMA",
+        "LATITUDE": -6.030449,
+        "LONGITUDE": 143.483001,
+        "REGHH": 34,
+        "TOTPOP2000": 202,
+        "MALE2000": 101,
+        "FEMALE2000": 101,
+        "POP2008": 280,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061917005,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21045,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.48176099997022,
+          -6.026640999682343
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21045,
+        "CU_NAME": "SULAMA",
+        "CU_NO": "006",
+        "GEOCODE": "07061917006",
+        "PROV_KEY": "07",
+        "DIST_NO": "06",
+        "LLG_NO": "19",
+        "WARD_NO": "17",
+        "WARD_NAME": "IMILHOMA",
+        "LATITUDE": -6.030449,
+        "LONGITUDE": 143.483001,
+        "REGHH": 51,
+        "TOTPOP2000": 325,
+        "MALE2000": 168,
+        "FEMALE2000": 157,
+        "POP2008": 451,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7061917006,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

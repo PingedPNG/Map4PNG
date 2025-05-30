@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8898,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.49185199977,
+          -5.876373000213732
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8898,
+        "CU_NAME": "BAMBU",
+        "CU_NO": "001",
+        "GEOCODE": "13041239001",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "39",
+        "WARD_NAME": "WARD 39",
+        "LATITUDE": -5.875327,
+        "LONGITUDE": 146.494101,
+        "REGHH": 71,
+        "TOTPOP2000": 432,
+        "MALE2000": 216,
+        "FEMALE2000": 216,
+        "POP2008": 535,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041239001,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8899,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.49035099979892,
+          -5.865985999654129
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8899,
+        "CU_NAME": "YAUANGOBA",
+        "CU_NO": "009",
+        "GEOCODE": "13041239009",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "39",
+        "WARD_NAME": "WARD 39",
+        "LATITUDE": -5.86343,
+        "LONGITUDE": 146.493111,
+        "REGHH": 48,
+        "TOTPOP2000": 307,
+        "MALE2000": 153,
+        "FEMALE2000": 154,
+        "POP2008": 380,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041239009,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8900,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4824759999675,
+          -5.825237000087441
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8900,
+        "CU_NAME": "TAIP",
+        "CU_NO": "010",
+        "GEOCODE": "13041239010",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "39",
+        "WARD_NAME": "WARD 39",
+        "LATITUDE": -5.826647,
+        "LONGITUDE": 146.481446,
+        "REGHH": 28,
+        "TOTPOP2000": 124,
+        "MALE2000": 64,
+        "FEMALE2000": 60,
+        "POP2008": 154,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041239010,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4900890003072,
+          -5.857261000194967
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8901,
+        "CU_NAME": "IYENGOWO",
+        "CU_NO": "011",
+        "GEOCODE": "13041239011",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "39",
+        "WARD_NAME": "WARD 39",
+        "LATITUDE": -5.856512,
+        "LONGITUDE": 146.495009,
+        "REGHH": 17,
+        "TOTPOP2000": 64,
+        "MALE2000": 34,
+        "FEMALE2000": 30,
+        "POP2008": 80,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041239011,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.50007699955393,
+          -5.892252999576215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8902,
+        "CU_NAME": "MEWENG",
+        "CU_NO": "019",
+        "GEOCODE": "13041239019",
+        "PROV_KEY": "13",
+        "DIST_NO": "04",
+        "LLG_NO": "12",
+        "WARD_NO": "39",
+        "WARD_NAME": "WARD 39",
+        "LATITUDE": -5.889513,
+        "LONGITUDE": 146.498872,
+        "REGHH": 31,
+        "TOTPOP2000": 170,
+        "MALE2000": 88,
+        "FEMALE2000": 82,
+        "POP2008": 211,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13041239019,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

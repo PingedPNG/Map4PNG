@@ -1,0 +1,389 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1577,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.81785100022353,
+          -8.627277000433196
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1577,
+        "CU_NAME": "IUMUNA",
+        "CU_NO": "010",
+        "GEOCODE": "03031018010",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "18",
+        "WARD_NAME": "BAKOIUDU",
+        "LATITUDE": -8.628718,
+        "LONGITUDE": 146.81682,
+        "REGHH": 26,
+        "TOTPOP2000": 137,
+        "MALE2000": 73,
+        "FEMALE2000": 64,
+        "POP2008": 163,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031018010,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1578,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.82160199963266,
+          -8.621499000178687
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1578,
+        "CU_NAME": "KEAKAMANA",
+        "CU_NO": "011",
+        "GEOCODE": "03031018011",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "18",
+        "WARD_NAME": "BAKOIUDU",
+        "LATITUDE": -8.622581,
+        "LONGITUDE": 146.82,
+        "REGHH": 14,
+        "TOTPOP2000": 64,
+        "MALE2000": 35,
+        "FEMALE2000": 29,
+        "POP2008": 78,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031018011,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1579,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.82077800030459,
+          -8.617864999869823
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1579,
+        "CU_NAME": "MAIMAI",
+        "CU_NO": "013",
+        "GEOCODE": "03031018013",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "18",
+        "WARD_NAME": "BAKOIUDU",
+        "LATITUDE": -8.619815,
+        "LONGITUDE": 146.820258,
+        "REGHH": 11,
+        "TOTPOP2000": 75,
+        "MALE2000": 47,
+        "FEMALE2000": 28,
+        "POP2008": 91,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031018013,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1580,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8186890001973,
+          -8.625068000188037
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1580,
+        "CU_NAME": "YOJAKA",
+        "CU_NO": "016",
+        "GEOCODE": "03031018016",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "18",
+        "WARD_NAME": "BAKOIUDU",
+        "LATITUDE": -8.625971,
+        "LONGITUDE": 146.81802,
+        "REGHH": 6,
+        "TOTPOP2000": 24,
+        "MALE2000": 13,
+        "FEMALE2000": 11,
+        "POP2008": 32,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031018016,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1581,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8262489998915,
+          -8.62211699989956
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1581,
+        "CU_NAME": "MADIU",
+        "CU_NO": "024",
+        "GEOCODE": "03031018024",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "18",
+        "WARD_NAME": "BAKOIUDU",
+        "LATITUDE": -8.623558,
+        "LONGITUDE": 146.825218,
+        "REGHH": 15,
+        "TOTPOP2000": 73,
+        "MALE2000": 36,
+        "FEMALE2000": 37,
+        "POP2008": 89,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031018024,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1582,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8187630000125,
+          -8.622325999645113
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1582,
+        "CU_NAME": "VALE NO. 2",
+        "CU_NO": "030",
+        "GEOCODE": "03031018030",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "18",
+        "WARD_NAME": "BAKOIUDU",
+        "LATITUDE": -8.623676,
+        "LONGITUDE": 146.818361,
+        "REGHH": 16,
+        "TOTPOP2000": 91,
+        "MALE2000": 51,
+        "FEMALE2000": 40,
+        "POP2008": 107,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031018030,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1583,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8213349999104,
+          -8.623118000195518
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1583,
+        "CU_NAME": "VALE NO. 3",
+        "CU_NO": "031",
+        "GEOCODE": "03031018031",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "18",
+        "WARD_NAME": "BAKOIUDU",
+        "LATITUDE": -8.62242,
+        "LONGITUDE": 146.818962,
+        "REGHH": 11,
+        "TOTPOP2000": 85,
+        "MALE2000": 46,
+        "FEMALE2000": 39,
+        "POP2008": 101,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031018031,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1584,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.82459800019762,
+          -8.616821000288894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1584,
+        "CU_NAME": "VALE NO. 4",
+        "CU_NO": "032",
+        "GEOCODE": "03031018032",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "18",
+        "WARD_NAME": "BAKOIUDU",
+        "LATITUDE": -8.618262,
+        "LONGITUDE": 146.823567,
+        "REGHH": 13,
+        "TOTPOP2000": 78,
+        "MALE2000": 43,
+        "FEMALE2000": 35,
+        "POP2008": 94,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031018032,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1585,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.81903700005762,
+          -8.620159000437468
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1585,
+        "CU_NAME": "INAUFEUA",
+        "CU_NO": "038",
+        "GEOCODE": "03031018038",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "18",
+        "WARD_NAME": "BAKOIUDU",
+        "LATITUDE": -8.622463,
+        "LONGITUDE": 146.818569,
+        "REGHH": 3,
+        "TOTPOP2000": 25,
+        "MALE2000": 13,
+        "FEMALE2000": 12,
+        "POP2008": 33,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031018038,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1586,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.8212549998185,
+          -8.619331000025568
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1586,
+        "CU_NAME": "INAUPEKA",
+        "CU_NO": "039",
+        "GEOCODE": "03031018039",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "18",
+        "WARD_NAME": "BAKOIUDU",
+        "LATITUDE": -8.6214,
+        "LONGITUDE": 146.819322,
+        "REGHH": 4,
+        "TOTPOP2000": 21,
+        "MALE2000": 13,
+        "FEMALE2000": 8,
+        "POP2008": 21,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031018039,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1587,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.81720199997244,
+          -8.621142999949427
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1587,
+        "CU_NAME": "INAUMURIVAI",
+        "CU_NO": "041",
+        "GEOCODE": "03031018041",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "18",
+        "WARD_NAME": "BAKOIUDU",
+        "LATITUDE": -8.623063,
+        "LONGITUDE": 146.81782,
+        "REGHH": 9,
+        "TOTPOP2000": 44,
+        "MALE2000": 24,
+        "FEMALE2000": 20,
+        "POP2008": 52,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031018041,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1588,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.82451199982904,
+          -8.61833800009856
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1588,
+        "CU_NAME": "BAKOIUDU CATHOLIC MISSION",
+        "CU_NO": "405",
+        "GEOCODE": "03031018405",
+        "PROV_KEY": "03",
+        "DIST_NO": "03",
+        "LLG_NO": "10",
+        "WARD_NO": "18",
+        "WARD_NAME": "BAKOIUDU",
+        "LATITUDE": -8.619779,
+        "LONGITUDE": 146.823481,
+        "REGHH": 5,
+        "TOTPOP2000": 20,
+        "MALE2000": 12,
+        "FEMALE2000": 8,
+        "POP2008": 20,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3031018405,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

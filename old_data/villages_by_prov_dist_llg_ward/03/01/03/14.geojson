@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1018,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.50365499957866,
+          -10.04583299989298
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1018,
+        "CU_NAME": "INIANA",
+        "CU_NO": "401",
+        "GEOCODE": "03010314401",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "MANABO",
+        "LATITUDE": -10.047293,
+        "LONGITUDE": 148.502643,
+        "REGHH": 6,
+        "TOTPOP2000": 56,
+        "MALE2000": 35,
+        "FEMALE2000": 21,
+        "POP2008": 64,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010314401,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1019,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.4766010002361,
+          -10.058694000327819
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1019,
+        "CU_NAME": "MANABO BLOCK",
+        "CU_NO": "505",
+        "GEOCODE": "03010314505",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "MANABO",
+        "LATITUDE": -10.060154,
+        "LONGITUDE": 148.475587,
+        "REGHH": 61,
+        "TOTPOP2000": 420,
+        "MALE2000": 201,
+        "FEMALE2000": 219,
+        "POP2008": 504,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010314505,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1020,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.49365299968622,
+          -10.055805000200564
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1020,
+        "CU_NAME": "MANABO STATION",
+        "CU_NO": "522",
+        "GEOCODE": "03010314522",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "MANABO",
+        "LATITUDE": -10.057265,
+        "LONGITUDE": 148.492641,
+        "REGHH": 10,
+        "TOTPOP2000": 61,
+        "MALE2000": 36,
+        "FEMALE2000": 25,
+        "POP2008": 72,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010314522,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1021,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5057400004008,
+          -10.039514999917287
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1021,
+        "CU_NAME": "GARAINA",
+        "CU_NO": "524",
+        "GEOCODE": "03010314524",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "MANABO",
+        "LATITUDE": -10.040973,
+        "LONGITUDE": 148.504728,
+        "REGHH": 6,
+        "TOTPOP2000": 28,
+        "MALE2000": 15,
+        "FEMALE2000": 13,
+        "POP2008": 36,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010314524,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1022,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5089469999042,
+          -10.029589999978498
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1022,
+        "CU_NAME": "CDC SETTLEMENT",
+        "CU_NO": "525",
+        "GEOCODE": "03010314525",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "MANABO",
+        "LATITUDE": -10.030678,
+        "LONGITUDE": 148.499706,
+        "REGHH": 8,
+        "TOTPOP2000": 53,
+        "MALE2000": 27,
+        "FEMALE2000": 26,
+        "POP2008": 61,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010314525,
+        "PROVINCE": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1023,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.55266399964398,
+          -10.049862000430949
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1023,
+        "CU_NAME": "MOUNTAIN PLACE",
+        "CU_NO": "526",
+        "GEOCODE": "03010314526",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "03",
+        "WARD_NO": "14",
+        "WARD_NAME": "MANABO",
+        "LATITUDE": -10.051322,
+        "LONGITUDE": 148.551653,
+        "REGHH": 7,
+        "TOTPOP2000": 22,
+        "MALE2000": 12,
+        "FEMALE2000": 10,
+        "POP2008": 30,
+        "G_RATE": 1.0230000019073486,
+        "Geocode_Num": 3010314526,
+        "PROVINCE": 3
+      }
+    }
+  ]
+}

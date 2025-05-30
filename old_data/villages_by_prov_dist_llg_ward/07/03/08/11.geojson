@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19803,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1836300002244,
+          -6.67744200024805
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19803,
+        "CU_NAME": "TIRI",
+        "CU_NO": "011",
+        "GEOCODE": "07030811011",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "11",
+        "WARD_NAME": "TIRI",
+        "LATITUDE": -6.681546,
+        "LONGITUDE": 144.181967,
+        "REGHH": 9,
+        "TOTPOP2000": 48,
+        "MALE2000": 22,
+        "FEMALE2000": 26,
+        "POP2008": 66,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030811011,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19804,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.18037300021388,
+          -6.682953999927122
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19804,
+        "CU_NAME": "MOKULA",
+        "CU_NO": "012",
+        "GEOCODE": "07030811012",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "11",
+        "WARD_NAME": "TIRI",
+        "LATITUDE": -6.681546,
+        "LONGITUDE": 144.181967,
+        "REGHH": 17,
+        "TOTPOP2000": 84,
+        "MALE2000": 41,
+        "FEMALE2000": 43,
+        "POP2008": 118,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030811012,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19805,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.17390300042325,
+          -6.6794999998251114
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19805,
+        "CU_NAME": "TAKEPOU",
+        "CU_NO": "013",
+        "GEOCODE": "07030811013",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "11",
+        "WARD_NAME": "TIRI",
+        "LATITUDE": -6.681546,
+        "LONGITUDE": 144.181967,
+        "REGHH": 36,
+        "TOTPOP2000": 210,
+        "MALE2000": 130,
+        "FEMALE2000": 80,
+        "POP2008": 292,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030811013,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19806,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.18073599986656,
+          -6.672285999898918
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19806,
+        "CU_NAME": "PATE",
+        "CU_NO": "014",
+        "GEOCODE": "07030811014",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "11",
+        "WARD_NAME": "TIRI",
+        "LATITUDE": -6.681546,
+        "LONGITUDE": 144.181967,
+        "REGHH": 11,
+        "TOTPOP2000": 57,
+        "MALE2000": 27,
+        "FEMALE2000": 30,
+        "POP2008": 79,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030811014,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

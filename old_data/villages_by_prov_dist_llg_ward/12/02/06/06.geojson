@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10699,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.40146299961782,
+          -6.47337400010997
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10699,
+        "CU_NAME": "ARI GENANG",
+        "CU_NO": "002",
+        "GEOCODE": "12020606002",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "ARI GENANG",
+        "LATITUDE": -6.474793,
+        "LONGITUDE": 147.400445,
+        "REGHH": 71,
+        "TOTPOP2000": 374,
+        "MALE2000": 172,
+        "FEMALE2000": 202,
+        "POP2008": 466,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020606002,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10700,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.41685599990456,
+          -6.500582000259044
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10700,
+        "CU_NAME": "QELA",
+        "CU_NO": "003",
+        "GEOCODE": "12020606003",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "ARI GENANG",
+        "LATITUDE": -6.502002,
+        "LONGITUDE": 147.415838,
+        "REGHH": 54,
+        "TOTPOP2000": 264,
+        "MALE2000": 132,
+        "FEMALE2000": 132,
+        "POP2008": 329,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020606003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10701,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3727759996127,
+          -6.475112000218587
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10701,
+        "CU_NAME": "SEREMBENG",
+        "CU_NO": "009",
+        "GEOCODE": "12020606009",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "06",
+        "WARD_NAME": "ARI GENANG",
+        "LATITUDE": -6.476531,
+        "LONGITUDE": 147.371757,
+        "REGHH": 41,
+        "TOTPOP2000": 255,
+        "MALE2000": 128,
+        "FEMALE2000": 127,
+        "POP2008": 318,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020606009,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

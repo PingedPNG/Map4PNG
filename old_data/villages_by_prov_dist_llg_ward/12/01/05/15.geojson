@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10657,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.78628699974536,
+          -7.40758799958644
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10657,
+        "CU_NAME": "WINIMA",
+        "CU_NO": "007",
+        "GEOCODE": "12010515007",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "WINIMA",
+        "LATITUDE": -7.409016,
+        "LONGITUDE": 146.785258,
+        "REGHH": 15,
+        "TOTPOP2000": 82,
+        "MALE2000": 48,
+        "FEMALE2000": 34,
+        "POP2008": 102,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010515007,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10658,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.74704300033432,
+          -7.509118999841917
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10658,
+        "CU_NAME": "KUDJURU",
+        "CU_NO": "008",
+        "GEOCODE": "12010515008",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "WINIMA",
+        "LATITUDE": -7.510548,
+        "LONGITUDE": 146.746014,
+        "REGHH": 17,
+        "TOTPOP2000": 73,
+        "MALE2000": 40,
+        "FEMALE2000": 33,
+        "POP2008": 89,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010515008,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10659,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7826369995979,
+          -7.416298000152551
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10659,
+        "CU_NAME": "LANGUA",
+        "CU_NO": "009",
+        "GEOCODE": "12010515009",
+        "PROV_KEY": "12",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "15",
+        "WARD_NAME": "WINIMA",
+        "LATITUDE": -7.417726,
+        "LONGITUDE": 146.781608,
+        "REGHH": 35,
+        "TOTPOP2000": 217,
+        "MALE2000": 117,
+        "FEMALE2000": 100,
+        "POP2008": 270,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12010515009,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

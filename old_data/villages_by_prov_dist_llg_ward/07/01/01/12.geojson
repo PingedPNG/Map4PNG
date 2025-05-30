@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.11194100017713,
+          -6.369159000187665
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19136,
+        "CU_NAME": "PONDI",
+        "CU_NO": "027",
+        "GEOCODE": "07010112027",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "12",
+        "WARD_NAME": "PONDI",
+        "LATITUDE": -6.373003,
+        "LONGITUDE": 144.112055,
+        "REGHH": 52,
+        "TOTPOP2000": 262,
+        "MALE2000": 125,
+        "FEMALE2000": 137,
+        "POP2008": 363,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010112027,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1130209996195,
+          -6.371223000041368
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19137,
+        "CU_NAME": "TINDUE",
+        "CU_NO": "032",
+        "GEOCODE": "07010112032",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "12",
+        "WARD_NAME": "PONDI",
+        "LATITUDE": -6.373003,
+        "LONGITUDE": 144.112055,
+        "REGHH": 27,
+        "TOTPOP2000": 171,
+        "MALE2000": 91,
+        "FEMALE2000": 80,
+        "POP2008": 237,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010112032,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1101929996073,
+          -6.370356999675721
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19138,
+        "CU_NAME": "LAWIRI",
+        "CU_NO": "033",
+        "GEOCODE": "07010112033",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "12",
+        "WARD_NAME": "PONDI",
+        "LATITUDE": -6.373003,
+        "LONGITUDE": 144.112055,
+        "REGHH": 10,
+        "TOTPOP2000": 49,
+        "MALE2000": 28,
+        "FEMALE2000": 21,
+        "POP2008": 67,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010112033,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1093019998874,
+          -6.36877200032751
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19139,
+        "CU_NAME": "KEREMINI",
+        "CU_NO": "034",
+        "GEOCODE": "07010112034",
+        "PROV_KEY": "07",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "12",
+        "WARD_NAME": "PONDI",
+        "LATITUDE": -6.373003,
+        "LONGITUDE": 144.112055,
+        "REGHH": 50,
+        "TOTPOP2000": 264,
+        "MALE2000": 138,
+        "FEMALE2000": 126,
+        "POP2008": 368,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7010112034,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

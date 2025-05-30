@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 9936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.74282199963568,
+          -10.712263999983577
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9936,
+        "CU_NAME": "ALHOGA",
+        "CU_NO": "001",
+        "GEOCODE": "05020917001",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "17",
+        "WARD_NAME": "ALHOGA",
+        "LATITUDE": -10.713743,
+        "LONGITUDE": 152.741871,
+        "REGHH": 39,
+        "TOTPOP2000": 194,
+        "MALE2000": 103,
+        "FEMALE2000": 91,
+        "POP2008": 236,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020917001,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.73423400019897,
+          -10.71099499991925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9937,
+        "CU_NAME": "BOLOMA",
+        "CU_NO": "002",
+        "GEOCODE": "05020917002",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "17",
+        "WARD_NAME": "ALHOGA",
+        "LATITUDE": -10.713627,
+        "LONGITUDE": 152.733283,
+        "REGHH": 20,
+        "TOTPOP2000": 91,
+        "MALE2000": 56,
+        "FEMALE2000": 35,
+        "POP2008": 110,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020917002,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9938,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.75628099976836,
+          -10.71488899962759
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9938,
+        "CU_NAME": "LOHOLA",
+        "CU_NO": "003",
+        "GEOCODE": "05020917003",
+        "PROV_KEY": "05",
+        "DIST_NO": "2",
+        "LLG_NO": "09",
+        "WARD_NO": "17",
+        "WARD_NAME": "ALHOGA",
+        "LATITUDE": -10.716368,
+        "LONGITUDE": 152.75533,
+        "REGHH": 38,
+        "TOTPOP2000": 179,
+        "MALE2000": 95,
+        "FEMALE2000": 84,
+        "POP2008": 218,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5020917003,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

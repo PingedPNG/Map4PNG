@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7655,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0818380003235,
+          -7.794462999667644
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7655,
+        "CU_NAME": "MAIPENAIRU",
+        "CU_NO": "003",
+        "GEOCODE": "02020716003",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "16",
+        "WARD_NAME": "MAIPENAIRU",
+        "LATITUDE": -7.798092,
+        "LONGITUDE": 145.085871,
+        "REGHH": 47,
+        "TOTPOP2000": 275,
+        "MALE2000": 135,
+        "FEMALE2000": 140,
+        "POP2008": 338,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020716003,
+        "PROVINCE": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7656,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.08014400044533,
+          -7.801869000354031
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7656,
+        "CU_NAME": "URIKA MISSION STATION",
+        "CU_NO": "401",
+        "GEOCODE": "02020716401",
+        "PROV_KEY": "02",
+        "DIST_NO": "02",
+        "LLG_NO": "07",
+        "WARD_NO": "16",
+        "WARD_NAME": "MAIPENAIRU",
+        "LATITUDE": -7.799685,
+        "LONGITUDE": 145.082748,
+        "REGHH": 3,
+        "TOTPOP2000": 14,
+        "MALE2000": 6,
+        "FEMALE2000": 8,
+        "POP2008": 14,
+        "G_RATE": 1.0260000228881836,
+        "Geocode_Num": 2020716401,
+        "PROVINCE": 2
+      }
+    }
+  ]
+}

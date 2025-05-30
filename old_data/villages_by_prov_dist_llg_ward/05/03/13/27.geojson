@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.20859400001314,
+          -9.263805000200534
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10217,
+        "CU_NAME": "IBAWANA",
+        "CU_NO": "001",
+        "GEOCODE": "05031327001",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "27",
+        "WARD_NAME": "IBAWANA",
+        "LATITUDE": -9.265261,
+        "LONGITUDE": 150.207609,
+        "REGHH": 88,
+        "TOTPOP2000": 460,
+        "MALE2000": 235,
+        "FEMALE2000": 225,
+        "POP2008": 560,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031327001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

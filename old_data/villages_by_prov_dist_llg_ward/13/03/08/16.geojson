@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8545,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.88878399998168,
+          -4.921149999572776
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8545,
+        "CU_NAME": "IWARAI",
+        "CU_NO": "007",
+        "GEOCODE": "13030816007",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -4.920661,
+        "LONGITUDE": 144.890534,
+        "REGHH": 9,
+        "TOTPOP2000": 69,
+        "MALE2000": 31,
+        "FEMALE2000": 38,
+        "POP2008": 85,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030816007,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8546,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.89329900044856,
+          -4.909105999941914
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8546,
+        "CU_NAME": "TURAGIRI",
+        "CU_NO": "017",
+        "GEOCODE": "13030816017",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -4.918272,
+        "LONGITUDE": 144.887032,
+        "REGHH": 16,
+        "TOTPOP2000": 98,
+        "MALE2000": 54,
+        "FEMALE2000": 44,
+        "POP2008": 122,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030816017,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8547,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.874312999945,
+          -4.902295999760554
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8547,
+        "CU_NAME": "WGOVIND",
+        "CU_NO": "019",
+        "GEOCODE": "13030816019",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -4.903693,
+        "LONGITUDE": 144.873264,
+        "REGHH": 17,
+        "TOTPOP2000": 95,
+        "MALE2000": 49,
+        "FEMALE2000": 46,
+        "POP2008": 119,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030816019,
+        "PROVINCE": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8548,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.89232499959917,
+          -4.923696000070322
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8548,
+        "CU_NAME": "AIWGOR",
+        "CU_NO": "020",
+        "GEOCODE": "13030816020",
+        "PROV_KEY": "13",
+        "DIST_NO": "03",
+        "LLG_NO": "08",
+        "WARD_NO": "16",
+        "WARD_NAME": "WARD 16",
+        "LATITUDE": -4.920972,
+        "LONGITUDE": 144.890714,
+        "REGHH": 13,
+        "TOTPOP2000": 77,
+        "MALE2000": 39,
+        "FEMALE2000": 38,
+        "POP2008": 93,
+        "G_RATE": 1.0269999504089355,
+        "Geocode_Num": 13030816020,
+        "PROVINCE": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4892,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.0697970003314,
+          -5.248619000366546
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4892,
+        "CU_NAME": "IWAI (GUM)",
+        "CU_NO": "010",
+        "GEOCODE": "18031106010",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "GUMA",
+        "LATITUDE": -5.249567,
+        "LONGITUDE": 152.070123,
+        "REGHH": 72,
+        "TOTPOP2000": 422,
+        "MALE2000": 214,
+        "FEMALE2000": 208,
+        "POP2008": 515,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031106010,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4893,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.08111499975746,
+          -5.263228999618605
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4893,
+        "CU_NAME": "KILALUM",
+        "CU_NO": "011",
+        "GEOCODE": "18031106011",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "GUMA",
+        "LATITUDE": -5.264642,
+        "LONGITUDE": 152.080166,
+        "REGHH": 46,
+        "TOTPOP2000": 297,
+        "MALE2000": 159,
+        "FEMALE2000": 138,
+        "POP2008": 362,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031106011,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4894,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.0909360002962,
+          -5.275751999754959
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4894,
+        "CU_NAME": "GUMA VILLAGE",
+        "CU_NO": "027",
+        "GEOCODE": "18031106027",
+        "PROV_KEY": "18",
+        "DIST_NO": "03",
+        "LLG_NO": "11",
+        "WARD_NO": "06",
+        "WARD_NAME": "GUMA",
+        "LATITUDE": -5.275769,
+        "LONGITUDE": 152.092315,
+        "REGHH": 48,
+        "TOTPOP2000": 278,
+        "MALE2000": 139,
+        "FEMALE2000": 139,
+        "POP2008": 338,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18031106027,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 20550,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.52014899967662,
+          -5.510779000350567
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20550,
+        "CU_NAME": "HAWIAKARIA",
+        "CU_NO": "001",
+        "GEOCODE": "07051501001",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAREDEGE",
+        "LATITUDE": -5.515784,
+        "LONGITUDE": 142.518368,
+        "REGHH": 5,
+        "TOTPOP2000": 75,
+        "MALE2000": 36,
+        "FEMALE2000": 39,
+        "POP2008": 104,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051501001,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5260999998152,
+          -5.508395000129099
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20551,
+        "CU_NAME": "TOPIKA",
+        "CU_NO": "002",
+        "GEOCODE": "07051501002",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAREDEGE",
+        "LATITUDE": -5.515784,
+        "LONGITUDE": 142.518368,
+        "REGHH": 4,
+        "TOTPOP2000": 53,
+        "MALE2000": 32,
+        "FEMALE2000": 21,
+        "POP2008": 73,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051501002,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5290380004035,
+          -5.51346800024794
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20552,
+        "CU_NAME": "PAKABI",
+        "CU_NO": "003",
+        "GEOCODE": "07051501003",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAREDEGE",
+        "LATITUDE": -5.515784,
+        "LONGITUDE": 142.518368,
+        "REGHH": 5,
+        "TOTPOP2000": 97,
+        "MALE2000": 46,
+        "FEMALE2000": 51,
+        "POP2008": 134,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051501003,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20553,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.52825200012978,
+          -5.511125000118625
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20553,
+        "CU_NAME": "KAMENDA",
+        "CU_NO": "004",
+        "GEOCODE": "07051501004",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAREDEGE",
+        "LATITUDE": -5.515784,
+        "LONGITUDE": 142.518368,
+        "REGHH": 7,
+        "TOTPOP2000": 77,
+        "MALE2000": 42,
+        "FEMALE2000": 35,
+        "POP2008": 106,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051501004,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20554,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.52357200014774,
+          -5.510941999773422
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20554,
+        "CU_NAME": "KAPI",
+        "CU_NO": "005",
+        "GEOCODE": "07051501005",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAREDEGE",
+        "LATITUDE": -5.515784,
+        "LONGITUDE": 142.518368,
+        "REGHH": 6,
+        "TOTPOP2000": 86,
+        "MALE2000": 50,
+        "FEMALE2000": 36,
+        "POP2008": 120,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051501005,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20555,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.52512799995725,
+          -5.509570000355211
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20555,
+        "CU_NAME": "WAIAKO",
+        "CU_NO": "006",
+        "GEOCODE": "07051501006",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAREDEGE",
+        "LATITUDE": -5.515784,
+        "LONGITUDE": 142.518368,
+        "REGHH": 6,
+        "TOTPOP2000": 45,
+        "MALE2000": 22,
+        "FEMALE2000": 23,
+        "POP2008": 61,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051501006,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20556,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.51849599989055,
+          -5.509001000195951
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20556,
+        "CU_NAME": "YAMU",
+        "CU_NO": "007",
+        "GEOCODE": "07051501007",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAREDEGE",
+        "LATITUDE": -5.515784,
+        "LONGITUDE": 142.518368,
+        "REGHH": 4,
+        "TOTPOP2000": 26,
+        "MALE2000": 13,
+        "FEMALE2000": 13,
+        "POP2008": 34,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051501007,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20557,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5179210003539,
+          -5.51290999969666
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20557,
+        "CU_NAME": "LEMANGA",
+        "CU_NO": "008",
+        "GEOCODE": "07051501008",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAREDEGE",
+        "LATITUDE": -5.515784,
+        "LONGITUDE": 142.518368,
+        "REGHH": 7,
+        "TOTPOP2000": 66,
+        "MALE2000": 39,
+        "FEMALE2000": 27,
+        "POP2008": 92,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051501008,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20558,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.51383699997768,
+          -5.512970999811728
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20558,
+        "CU_NAME": "TANDUPI",
+        "CU_NO": "009",
+        "GEOCODE": "07051501009",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAREDEGE",
+        "LATITUDE": -5.515784,
+        "LONGITUDE": 142.518368,
+        "REGHH": 3,
+        "TOTPOP2000": 25,
+        "MALE2000": 10,
+        "FEMALE2000": 15,
+        "POP2008": 33,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051501009,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20559,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5153779999947,
+          -5.509594999709407
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20559,
+        "CU_NAME": "YAUAPI",
+        "CU_NO": "010",
+        "GEOCODE": "07051501010",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAREDEGE",
+        "LATITUDE": -5.515784,
+        "LONGITUDE": 142.518368,
+        "REGHH": 3,
+        "TOTPOP2000": 47,
+        "MALE2000": 23,
+        "FEMALE2000": 24,
+        "POP2008": 64,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051501010,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20560,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.51499999965029,
+          -5.514481000197975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20560,
+        "CU_NAME": "TUKAPI",
+        "CU_NO": "011",
+        "GEOCODE": "07051501011",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAREDEGE",
+        "LATITUDE": -5.515784,
+        "LONGITUDE": 142.518368,
+        "REGHH": 8,
+        "TOTPOP2000": 102,
+        "MALE2000": 53,
+        "FEMALE2000": 49,
+        "POP2008": 141,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051501011,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20561,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5229809998733,
+          -5.508988999642554
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20561,
+        "CU_NAME": "HARO",
+        "CU_NO": "012",
+        "GEOCODE": "07051501012",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAREDEGE",
+        "LATITUDE": -5.515784,
+        "LONGITUDE": 142.518368,
+        "REGHH": 4,
+        "TOTPOP2000": 47,
+        "MALE2000": 22,
+        "FEMALE2000": 25,
+        "POP2008": 64,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051501012,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20562,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.52123600034122,
+          -5.512902000227086
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20562,
+        "CU_NAME": "HAGOPI",
+        "CU_NO": "013",
+        "GEOCODE": "07051501013",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAREDEGE",
+        "LATITUDE": -5.515784,
+        "LONGITUDE": 142.518368,
+        "REGHH": 2,
+        "TOTPOP2000": 30,
+        "MALE2000": 15,
+        "FEMALE2000": 15,
+        "POP2008": 40,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051501013,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20563,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5147970001815,
+          -5.511550999978624
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20563,
+        "CU_NAME": "URAPUKU",
+        "CU_NO": "014",
+        "GEOCODE": "07051501014",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAREDEGE",
+        "LATITUDE": -5.515784,
+        "LONGITUDE": 142.518368,
+        "REGHH": 5,
+        "TOTPOP2000": 82,
+        "MALE2000": 47,
+        "FEMALE2000": 35,
+        "POP2008": 114,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051501014,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20564,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.520445999883,
+          -5.508800999966127
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20564,
+        "CU_NAME": "TAMONDA",
+        "CU_NO": "015",
+        "GEOCODE": "07051501015",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAREDEGE",
+        "LATITUDE": -5.515784,
+        "LONGITUDE": 142.518368,
+        "REGHH": 3,
+        "TOTPOP2000": 29,
+        "MALE2000": 14,
+        "FEMALE2000": 15,
+        "POP2008": 38,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051501015,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20565,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5171309998958,
+          -5.509004000334301
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20565,
+        "CU_NAME": "HALUNGI",
+        "CU_NO": "016",
+        "GEOCODE": "07051501016",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAREDEGE",
+        "LATITUDE": -5.515784,
+        "LONGITUDE": 142.518368,
+        "REGHH": 3,
+        "TOTPOP2000": 29,
+        "MALE2000": 19,
+        "FEMALE2000": 10,
+        "POP2008": 38,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051501016,
+        "PROVINCE": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20566,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.5173500001025,
+          -5.5183830002752075
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20566,
+        "CU_NAME": "KEROLO",
+        "CU_NO": "017",
+        "GEOCODE": "07051501017",
+        "PROV_KEY": "21",
+        "DIST_NO": "2",
+        "LLG_NO": "15",
+        "WARD_NO": "01",
+        "WARD_NAME": "HAREDEGE",
+        "LATITUDE": -5.515784,
+        "LONGITUDE": 142.518368,
+        "REGHH": 17,
+        "TOTPOP2000": 257,
+        "MALE2000": 128,
+        "FEMALE2000": 129,
+        "POP2008": 357,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7051501017,
+        "PROVINCE": 21
+      }
+    }
+  ]
+}

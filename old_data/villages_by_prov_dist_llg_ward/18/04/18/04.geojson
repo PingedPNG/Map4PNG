@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5183,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.0655729997942,
+          -4.125147000233824
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5183,
+        "CU_NAME": "VUNABUK",
+        "CU_NO": "005",
+        "GEOCODE": "18041804005",
+        "PROV_KEY": "18",
+        "DIST_NO": "04",
+        "LLG_NO": "18",
+        "WARD_NO": "04",
+        "WARD_NAME": "VUNABUK",
+        "LATITUDE": -4.126545,
+        "LONGITUDE": 152.064626,
+        "REGHH": 61,
+        "TOTPOP2000": 327,
+        "MALE2000": 170,
+        "FEMALE2000": 157,
+        "POP2008": 398,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18041804005,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

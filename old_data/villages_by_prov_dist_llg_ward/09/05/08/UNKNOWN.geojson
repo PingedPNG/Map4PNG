@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 25255,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2341604931123,
+          -5.749430741835226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 25255,
+        "CU_NAME": "Paglum",
+        "CU_NO": "723",
+        "GEOCODE": "723",
+        "PROV_KEY": "09",
+        "DIST_NO": "05",
+        "LLG_NO": "08",
+        "WARD_NO": null,
+        "WARD_NAME": null,
+        "LATITUDE": -5.749439,
+        "LONGITUDE": 144.2342,
+        "REGHH": null,
+        "TOTPOP2000": null,
+        "MALE2000": 723,
+        "FEMALE2000": null,
+        "POP2008": null,
+        "G_RATE": null,
+        "Geocode_Num": null,
+        "PROVINCE": null
+      }
+    }
+  ]
+}

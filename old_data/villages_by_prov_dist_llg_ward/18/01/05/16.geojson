@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4618,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1625880004359,
+          -4.391004999880806
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4618,
+        "CU_NAME": "BITAKAPUK NO.2",
+        "CU_NO": "012",
+        "GEOCODE": "18010516012",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "BITAKAPUK NO.2",
+        "LATITUDE": -4.392406,
+        "LONGITUDE": 152.161642,
+        "REGHH": 70,
+        "TOTPOP2000": 391,
+        "MALE2000": 204,
+        "FEMALE2000": 187,
+        "POP2008": 477,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010516012,
+        "PROVINCE": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4619,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.17284999972776,
+          -4.404214000175898
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4619,
+        "CU_NAME": "BITAKAPUK NO.3",
+        "CU_NO": "013",
+        "GEOCODE": "18010516013",
+        "PROV_KEY": "18",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "16",
+        "WARD_NAME": "BITAKAPUK NO.2",
+        "LATITUDE": -4.405616,
+        "LONGITUDE": 152.171904,
+        "REGHH": 54,
+        "TOTPOP2000": 315,
+        "MALE2000": 165,
+        "FEMALE2000": 150,
+        "POP2008": 383,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18010516013,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

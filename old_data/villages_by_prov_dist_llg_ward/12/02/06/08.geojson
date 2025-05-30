@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10704,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4683830000755,
+          -6.511194000402725
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10704,
+        "CU_NAME": "EBEBANG",
+        "CU_NO": "003",
+        "GEOCODE": "12020608003",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBEBANG",
+        "LATITUDE": -6.514625,
+        "LONGITUDE": 147.469884,
+        "REGHH": 84,
+        "TOTPOP2000": 404,
+        "MALE2000": 215,
+        "FEMALE2000": 189,
+        "POP2008": 504,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020608003,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10705,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.39953499974047,
+          -6.636698000012643
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10705,
+        "CU_NAME": "MANEBU",
+        "CU_NO": "017",
+        "GEOCODE": "12020608017",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBEBANG",
+        "LATITUDE": -6.638125,
+        "LONGITUDE": 147.391264,
+        "REGHH": 13,
+        "TOTPOP2000": 76,
+        "MALE2000": 36,
+        "FEMALE2000": 40,
+        "POP2008": 93,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020608017,
+        "PROVINCE": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10706,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.47492599963527,
+          -6.5409660000808
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10706,
+        "CU_NAME": "TANAMBO",
+        "CU_NO": "018",
+        "GEOCODE": "12020608018",
+        "PROV_KEY": "12",
+        "DIST_NO": "02",
+        "LLG_NO": "06",
+        "WARD_NO": "08",
+        "WARD_NAME": "EBEBANG",
+        "LATITUDE": -6.531488,
+        "LONGITUDE": 147.472222,
+        "REGHH": 15,
+        "TOTPOP2000": 84,
+        "MALE2000": 48,
+        "FEMALE2000": 36,
+        "POP2008": 105,
+        "G_RATE": 1.027999997138977,
+        "Geocode_Num": 12020608018,
+        "PROVINCE": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 5464,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9416789995862,
+          -5.368251999929782
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5464,
+        "CU_NAME": "IMBILIK",
+        "CU_NO": "001",
+        "GEOCODE": "08020409001",
+        "PROV_KEY": "08",
+        "DIST_NO": "02",
+        "LLG_NO": "04",
+        "WARD_NO": "09",
+        "WARD_NAME": "IMBILIK",
+        "LATITUDE": -5.369653,
+        "LONGITUDE": 143.940617,
+        "REGHH": 82,
+        "TOTPOP2000": 393,
+        "MALE2000": 202,
+        "FEMALE2000": 191,
+        "POP2008": 494,
+        "G_RATE": 1.0290000438690186,
+        "Geocode_Num": 8020409001,
+        "PROVINCE": 8
+      }
+    }
+  ]
+}

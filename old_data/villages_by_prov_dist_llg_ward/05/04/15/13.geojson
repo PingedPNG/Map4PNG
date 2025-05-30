@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.75975400024697,
+          -9.604251999630037
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10258,
+        "CU_NAME": "WESOILIWE",
+        "CU_NO": "001",
+        "GEOCODE": "05041513001",
+        "PROV_KEY": "05",
+        "DIST_NO": "4",
+        "LLG_NO": "15",
+        "WARD_NO": "13",
+        "WARD_NAME": "WESOILIWE",
+        "LATITUDE": -9.605714,
+        "LONGITUDE": 150.758776,
+        "REGHH": 12,
+        "TOTPOP2000": 48,
+        "MALE2000": 28,
+        "FEMALE2000": 20,
+        "POP2008": 56,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5041513001,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

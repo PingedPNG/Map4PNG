@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 15223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.50359799994783,
+          -6.22941799964093
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15223,
+        "CU_NAME": "KONO 2",
+        "CU_NO": "018",
+        "GEOCODE": "01010506018",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "06",
+        "WARD_NAME": "SEFALOBI",
+        "LATITUDE": -6.230825,
+        "LONGITUDE": 142.502517,
+        "REGHH": 17,
+        "TOTPOP2000": 95,
+        "MALE2000": 51,
+        "FEMALE2000": 44,
+        "POP2008": 123,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010506018,
+        "PROVINCE": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.46873700031233,
+          -6.2162260001297795
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15224,
+        "CU_NAME": "SEFALOBI",
+        "CU_NO": "025",
+        "GEOCODE": "01010506025",
+        "PROV_KEY": "01",
+        "DIST_NO": "01",
+        "LLG_NO": "05",
+        "WARD_NO": "06",
+        "WARD_NAME": "SEFALOBI",
+        "LATITUDE": -6.217633,
+        "LONGITUDE": 142.467655,
+        "REGHH": 44,
+        "TOTPOP2000": 252,
+        "MALE2000": 117,
+        "FEMALE2000": 135,
+        "POP2008": 326,
+        "G_RATE": 1.0329999923706055,
+        "Geocode_Num": 1010506025,
+        "PROVINCE": 1
+      }
+    }
+  ]
+}

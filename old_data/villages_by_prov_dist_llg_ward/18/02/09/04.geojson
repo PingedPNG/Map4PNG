@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 4760,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.2191780002646,
+          -4.306298000252468
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4760,
+        "CU_NAME": "RALUANA",
+        "CU_NO": "005",
+        "GEOCODE": "18020904005",
+        "PROV_KEY": "18",
+        "DIST_NO": "02",
+        "LLG_NO": "09",
+        "WARD_NO": "04",
+        "WARD_NAME": "RALUANA",
+        "LATITUDE": -4.305346,
+        "LONGITUDE": 152.220319,
+        "REGHH": 164,
+        "TOTPOP2000": 913,
+        "MALE2000": 467,
+        "FEMALE2000": 446,
+        "POP2008": 1112,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 18020904005,
+        "PROVINCE": 18
+      }
+    }
+  ]
+}

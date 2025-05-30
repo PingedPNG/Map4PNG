@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 19939,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71380399965494,
+          -6.25823700033726
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19939,
+        "CU_NAME": "YAME",
+        "CU_NO": "002",
+        "GEOCODE": "07030924002",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "24",
+        "WARD_NAME": "YAME",
+        "LATITUDE": -6.260379,
+        "LONGITUDE": 143.712596,
+        "REGHH": 52,
+        "TOTPOP2000": 237,
+        "MALE2000": 119,
+        "FEMALE2000": 118,
+        "POP2008": 329,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030924002,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19940,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71254099986731,
+          -6.258454999598484
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19940,
+        "CU_NAME": "WANERE",
+        "CU_NO": "016",
+        "GEOCODE": "07030924016",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "24",
+        "WARD_NAME": "YAME",
+        "LATITUDE": -6.260379,
+        "LONGITUDE": 143.712596,
+        "REGHH": 41,
+        "TOTPOP2000": 194,
+        "MALE2000": 102,
+        "FEMALE2000": 92,
+        "POP2008": 269,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030924016,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19941,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71084699998914,
+          -6.256985000157556
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19941,
+        "CU_NAME": "KAMBEREMAPU",
+        "CU_NO": "017",
+        "GEOCODE": "07030924017",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "24",
+        "WARD_NAME": "YAME",
+        "LATITUDE": -6.260379,
+        "LONGITUDE": 143.712596,
+        "REGHH": 26,
+        "TOTPOP2000": 125,
+        "MALE2000": 62,
+        "FEMALE2000": 63,
+        "POP2008": 173,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030924017,
+        "PROVINCE": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19942,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.71316099968044,
+          -6.256128000207013
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19942,
+        "CU_NAME": "RALELOMA",
+        "CU_NO": "018",
+        "GEOCODE": "07030924018",
+        "PROV_KEY": "07",
+        "DIST_NO": "03",
+        "LLG_NO": "09",
+        "WARD_NO": "24",
+        "WARD_NAME": "YAME",
+        "LATITUDE": -6.260379,
+        "LONGITUDE": 143.712596,
+        "REGHH": 37,
+        "TOTPOP2000": 187,
+        "MALE2000": 91,
+        "FEMALE2000": 96,
+        "POP2008": 261,
+        "G_RATE": 1.0420000553131104,
+        "Geocode_Num": 7030924018,
+        "PROVINCE": 7
+      }
+    }
+  ]
+}

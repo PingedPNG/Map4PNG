@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 10196,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3429899995889,
+          -9.362801999612543
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10196,
+        "CU_NAME": "BELEBELE",
+        "CU_NO": "003",
+        "GEOCODE": "05031311003",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "11",
+        "WARD_NAME": "BELEBELE",
+        "LATITUDE": -9.36426,
+        "LONGITUDE": 150.342007,
+        "REGHH": 77,
+        "TOTPOP2000": 386,
+        "MALE2000": 202,
+        "FEMALE2000": 184,
+        "POP2008": 470,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031311003,
+        "PROVINCE": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10197,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.35588899997742,
+          -9.363862999977414
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10197,
+        "CU_NAME": "NUMONUMO MISSION",
+        "CU_NO": "401",
+        "GEOCODE": "05031311401",
+        "PROV_KEY": "05",
+        "DIST_NO": "03",
+        "LLG_NO": "13",
+        "WARD_NO": "11",
+        "WARD_NAME": "BELEBELE",
+        "LATITUDE": -9.365321,
+        "LONGITUDE": 150.354906,
+        "REGHH": 55,
+        "TOTPOP2000": 292,
+        "MALE2000": 146,
+        "FEMALE2000": 146,
+        "POP2008": 355,
+        "G_RATE": 1.024999976158142,
+        "Geocode_Num": 5031311401,
+        "PROVINCE": 5
+      }
+    }
+  ]
+}

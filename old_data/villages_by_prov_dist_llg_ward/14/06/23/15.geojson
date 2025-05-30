@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 7240,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.3728920003656,
+          -3.7842600002987297
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7240,
+        "CU_NAME": "HARIPMO",
+        "CU_NO": "007",
+        "GEOCODE": "14062315007",
+        "PROV_KEY": "14",
+        "DIST_NO": "06",
+        "LLG_NO": "23",
+        "WARD_NO": "15",
+        "WARD_NAME": "HARIPMO 1,2&3",
+        "LATITUDE": -3.783313,
+        "LONGITUDE": 143.369631,
+        "REGHH": 99,
+        "TOTPOP2000": 516,
+        "MALE2000": 257,
+        "FEMALE2000": 259,
+        "POP2008": 614,
+        "G_RATE": 1.0219999551773071,
+        "Geocode_Num": 14062315007,
+        "PROVINCE": 14
+      }
+    }
+  ]
+}
