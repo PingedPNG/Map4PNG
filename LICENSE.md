@@ -25,4 +25,4 @@ All written content (project descriptions, documentation, website text) in the `
 ### Summary
 We encourage collaboration and reuse! Just follow the appropriate license for the part you're using, and give credit where it's due. If in doubt, please contact the maintainers.
 
-- Project: https://github.com/yourusername/Map4PNG
+- Project: https://github.com/PingedPNG/Map4PNG
