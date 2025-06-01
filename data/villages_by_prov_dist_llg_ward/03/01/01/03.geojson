@@ -1,0 +1,189 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 880,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.41719399980332,
+          -10.16054099986718
+        ]
+      },
+      "properties": {
+        "OBJECTID": 880,
+        "CU_NAME": "GABURU - MARA",
+        "CU_NO": "017",
+        "GEOCODE": "03010103017",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "MALAORO/KENENE",
+        "LATITUDE": -10.162004,
+        "LONGITUDE": 149.416195,
+        "REGHH": 9,
+        "Geocode_Num": 3010103017,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 54,
+            "MALEPOP": 28,
+            "FEMALEPOP": 26,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 62,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 95,
+            "MALEPOP": 49,
+            "FEMALEPOP": 46,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 881,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.37278699972035,
+          -10.177773999570377
+        ]
+      },
+      "properties": {
+        "OBJECTID": 881,
+        "CU_NAME": "NUNUMAI",
+        "CU_NO": "039",
+        "GEOCODE": "03010103039",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "MALAORO/KENENE",
+        "LATITUDE": -10.179238,
+        "LONGITUDE": 149.371787,
+        "REGHH": 34,
+        "Geocode_Num": 3010103039,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 190,
+            "MALEPOP": 101,
+            "FEMALEPOP": 89,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 228,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 335,
+            "MALEPOP": 178,
+            "FEMALEPOP": 157,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 882,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.35712200038006,
+          -10.202150999568914
+        ]
+      },
+      "properties": {
+        "OBJECTID": 882,
+        "CU_NAME": "KOEABA",
+        "CU_NO": "053",
+        "GEOCODE": "03010103053",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "MALAORO/KENENE",
+        "LATITUDE": -10.203615,
+        "LONGITUDE": 149.356122,
+        "REGHH": 6,
+        "Geocode_Num": 3010103053,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 36,
+            "MALEPOP": 20,
+            "FEMALEPOP": 16,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 44,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 64,
+            "MALEPOP": 36,
+            "FEMALEPOP": 28,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 883,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.38509099964995,
+          -10.200782000289053
+        ]
+      },
+      "properties": {
+        "OBJECTID": 883,
+        "CU_NAME": "GOIBO",
+        "CU_NO": "054",
+        "GEOCODE": "03010103054",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "03",
+        "WARD_NAME": "MALAORO/KENENE",
+        "LATITUDE": -10.195927,
+        "LONGITUDE": 149.399815,
+        "REGHH": 7,
+        "Geocode_Num": 3010103054,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 47,
+            "MALEPOP": 27,
+            "FEMALEPOP": 20,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 55,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 83,
+            "MALEPOP": 48,
+            "FEMALEPOP": 35,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3903419998835,
+          -10.29719400010299
+        ]
+      },
+      "properties": {
+        "OBJECTID": 902,
+        "CU_NAME": "AROANA",
+        "CU_NO": "002",
+        "GEOCODE": "03010108002",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "ADE/EBU",
+        "LATITUDE": -10.297135,
+        "LONGITUDE": 149.391236,
+        "REGHH": 23,
+        "Geocode_Num": 3010108002,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 139,
+            "MALEPOP": 71,
+            "FEMALEPOP": 68,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 166,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 245,
+            "MALEPOP": 125,
+            "FEMALEPOP": 120,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 903,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.40587899961622,
+          -10.290747999620464
+        ]
+      },
+      "properties": {
+        "OBJECTID": 903,
+        "CU_NAME": "DELEBAI",
+        "CU_NO": "012",
+        "GEOCODE": "03010108012",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "ADE/EBU",
+        "LATITUDE": -10.292213,
+        "LONGITUDE": 149.404879,
+        "REGHH": 29,
+        "Geocode_Num": 3010108012,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 188,
+            "MALEPOP": 92,
+            "FEMALEPOP": 96,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 226,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 332,
+            "MALEPOP": 162,
+            "FEMALEPOP": 170,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 904,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.36903400021902,
+          -10.269762999562715
+        ]
+      },
+      "properties": {
+        "OBJECTID": 904,
+        "CU_NAME": "SELAI",
+        "CU_NO": "046",
+        "GEOCODE": "03010108046",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "ADE/EBU",
+        "LATITUDE": -10.276646,
+        "LONGITUDE": 149.366677,
+        "REGHH": 8,
+        "Geocode_Num": 3010108046,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 61,
+            "MALEPOP": 32,
+            "FEMALEPOP": 29,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 72,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 108,
+            "MALEPOP": 57,
+            "FEMALEPOP": 51,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 905,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.36254000022086,
+          -10.28084799993519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 905,
+        "CU_NAME": "WOUORO",
+        "CU_NO": "052",
+        "GEOCODE": "03010108052",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "ADE/EBU",
+        "LATITUDE": -10.278024,
+        "LONGITUDE": 149.363286,
+        "REGHH": 36,
+        "Geocode_Num": 3010108052,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 254,
+            "MALEPOP": 122,
+            "FEMALEPOP": 132,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 305,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 448,
+            "MALEPOP": 215,
+            "FEMALEPOP": 233,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 906,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4400780001996,
+          -10.235963000292202
+        ]
+      },
+      "properties": {
+        "OBJECTID": 906,
+        "CU_NAME": "POI",
+        "CU_NO": "058",
+        "GEOCODE": "03010108058",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "ADE/EBU",
+        "LATITUDE": -10.23511,
+        "LONGITUDE": 149.441613,
+        "REGHH": 15,
+        "Geocode_Num": 3010108058,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 85,
+            "MALEPOP": 43,
+            "FEMALEPOP": 42,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 101,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 150,
+            "MALEPOP": 76,
+            "FEMALEPOP": 74,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 907,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.37658500039754,
+          -10.284646999759161
+        ]
+      },
+      "properties": {
+        "OBJECTID": 907,
+        "CU_NAME": "POIGOGOTA",
+        "CU_NO": "059",
+        "GEOCODE": "03010108059",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "08",
+        "WARD_NAME": "ADE/EBU",
+        "LATITUDE": -10.286112,
+        "LONGITUDE": 149.375585,
+        "REGHH": 20,
+        "Geocode_Num": 3010108059,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 107,
+            "MALEPOP": 56,
+            "FEMALEPOP": 51,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 130,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 189,
+            "MALEPOP": 99,
+            "FEMALEPOP": 90,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    }
+  ]
+}

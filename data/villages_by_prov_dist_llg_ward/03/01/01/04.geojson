@@ -1,0 +1,281 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 884,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.650330999576,
+          -10.307130999695858
+        ]
+      },
+      "properties": {
+        "OBJECTID": 884,
+        "CU_NAME": "GAMILA",
+        "CU_NO": "018",
+        "GEOCODE": "03010104018",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "04",
+        "WARD_NAME": "DORIO/BUA",
+        "LATITUDE": -10.308597,
+        "LONGITUDE": 149.649335,
+        "REGHH": 19,
+        "Geocode_Num": 3010104018,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 81,
+            "MALEPOP": 45,
+            "FEMALEPOP": 36,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 97,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 143,
+            "MALEPOP": 79,
+            "FEMALEPOP": 64,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 885,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.63457999986713,
+          -10.341884999792853
+        ]
+      },
+      "properties": {
+        "OBJECTID": 885,
+        "CU_NAME": "KORAUTO",
+        "CU_NO": "026",
+        "GEOCODE": "03010104026",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "04",
+        "WARD_NAME": "DORIO/BUA",
+        "LATITUDE": -10.343351,
+        "LONGITUDE": 149.633583,
+        "REGHH": 9,
+        "Geocode_Num": 3010104026,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 41,
+            "MALEPOP": 24,
+            "FEMALEPOP": 17,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 49,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 72,
+            "MALEPOP": 42,
+            "FEMALEPOP": 30,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 886,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.653773000024,
+          -10.337700000154825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 886,
+        "CU_NAME": "NABAI",
+        "CU_NO": "037",
+        "GEOCODE": "03010104037",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "04",
+        "WARD_NAME": "DORIO/BUA",
+        "LATITUDE": -10.339166,
+        "LONGITUDE": 149.652777,
+        "REGHH": 17,
+        "Geocode_Num": 3010104037,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 78,
+            "MALEPOP": 44,
+            "FEMALEPOP": 34,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 94,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 138,
+            "MALEPOP": 78,
+            "FEMALEPOP": 60,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 887,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.62602099996923,
+          -10.343120000087879
+        ]
+      },
+      "properties": {
+        "OBJECTID": 887,
+        "CU_NAME": "OIBADA",
+        "CU_NO": "040",
+        "GEOCODE": "03010104040",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "04",
+        "WARD_NAME": "DORIO/BUA",
+        "LATITUDE": -10.344586,
+        "LONGITUDE": 149.625024,
+        "REGHH": 12,
+        "Geocode_Num": 3010104040,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 64,
+            "MALEPOP": 34,
+            "FEMALEPOP": 30,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 78,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 113,
+            "MALEPOP": 60,
+            "FEMALEPOP": 53,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.6669960000654,
+          -10.338533999944104
+        ]
+      },
+      "properties": {
+        "OBJECTID": 888,
+        "CU_NAME": "ORI",
+        "CU_NO": "043",
+        "GEOCODE": "03010104043",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "04",
+        "WARD_NAME": "DORIO/BUA",
+        "LATITUDE": -10.34,
+        "LONGITUDE": 149.666,
+        "REGHH": 18,
+        "Geocode_Num": 3010104043,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 63,
+            "MALEPOP": 34,
+            "FEMALEPOP": 29,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 76,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 111,
+            "MALEPOP": 60,
+            "FEMALEPOP": 51,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 889,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.65299600016533,
+          -10.328033999569357
+        ]
+      },
+      "properties": {
+        "OBJECTID": 889,
+        "CU_NAME": "KIRIRIBA",
+        "CU_NO": "044",
+        "GEOCODE": "03010104044",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "04",
+        "WARD_NAME": "DORIO/BUA",
+        "LATITUDE": -10.3295,
+        "LONGITUDE": 149.652,
+        "REGHH": 5,
+        "Geocode_Num": 3010104044,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 21,
+            "MALEPOP": 12,
+            "FEMALEPOP": 9,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 21,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 37,
+            "MALEPOP": 21,
+            "FEMALEPOP": 16,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    }
+  ]
+}

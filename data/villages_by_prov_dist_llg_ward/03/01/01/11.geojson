@@ -3,229 +3,45 @@
   "features": [
     {
       "type": "Feature",
-      "id": 866,
+      "id": 919,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.46029900009887,
-          -10.074012999899992
+          149.5520229995618,
+          -10.306390999744792
         ]
       },
       "properties": {
-        "OBJECTID": 866,
-        "CU_NAME": "DEIGAM",
-        "CU_NO": "011",
-        "GEOCODE": "03010101011",
+        "OBJECTID": 919,
+        "CU_NAME": "ILAI",
+        "CU_NO": "022",
+        "GEOCODE": "03010111022",
         "PROV_KEY": "03",
         "DIST_NO": "01",
         "LLG_NO": "01",
-        "WARD_NO": "01",
-        "WARD_NAME": "ALOKE/NONOU",
-        "LATITUDE": -10.076922,
-        "LONGITUDE": 149.461323,
-        "REGHH": 11,
-        "Geocode_Num": 3010101011,
+        "WARD_NO": "11",
+        "WARD_NAME": "LOSOA/BOGIA",
+        "LATITUDE": -10.307856,
+        "LONGITUDE": 149.551025,
+        "REGHH": 21,
+        "Geocode_Num": 3010111022,
         "PROVINCE": 3,
         "POP": {
           "2000": {
-            "TOTPOP": 71,
-            "MALEPOP": 34,
-            "FEMALEPOP": 37,
-            "SRC": "PNG 2000 National Census",
-            "G_RATE": 1.0230000019073486
-          },
-          "2008": {
-            "TOTPOP": 87,
-            "SRC": "Projection (1.0230000019073486 growth rate)"
-          },
-          "2025": {
-            "TOTPOP": 125,
-            "MALEPOP": 60,
-            "FEMALEPOP": 65,
-            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 867,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.53702799964253,
-          -10.074586000243642
-        ]
-      },
-      "properties": {
-        "OBJECTID": 867,
-        "CU_NAME": "IBIAM IGUP",
-        "CU_NO": "021",
-        "GEOCODE": "03010101021",
-        "PROV_KEY": "03",
-        "DIST_NO": "01",
-        "LLG_NO": "01",
-        "WARD_NO": "01",
-        "WARD_NAME": "ALOKE/NONOU",
-        "LATITUDE": -10.076049,
-        "LONGITUDE": 149.536031,
-        "REGHH": 3,
-        "Geocode_Num": 3010101021,
-        "PROVINCE": 3,
-        "POP": {
-          "2000": {
-            "TOTPOP": 14,
-            "MALEPOP": 7,
-            "FEMALEPOP": 7,
-            "SRC": "PNG 2000 National Census",
-            "G_RATE": 1.0230000019073486
-          },
-          "2008": {
-            "TOTPOP": 14,
-            "SRC": "Projection (1.0230000019073486 growth rate)"
-          },
-          "2025": {
-            "TOTPOP": 25,
-            "MALEPOP": 12,
-            "FEMALEPOP": 12,
-            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 868,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.46282200043504,
-          -10.051746000077799
-        ]
-      },
-      "properties": {
-        "OBJECTID": 868,
-        "CU_NAME": "KERIA",
-        "CU_NO": "025",
-        "GEOCODE": "03010101025",
-        "PROV_KEY": "03",
-        "DIST_NO": "01",
-        "LLG_NO": "01",
-        "WARD_NO": "01",
-        "WARD_NAME": "ALOKE/NONOU",
-        "LATITUDE": -10.051829,
-        "LONGITUDE": 149.468917,
-        "REGHH": 16,
-        "Geocode_Num": 3010101025,
-        "PROVINCE": 3,
-        "POP": {
-          "2000": {
-            "TOTPOP": 125,
-            "MALEPOP": 65,
-            "FEMALEPOP": 60,
-            "SRC": "PNG 2000 National Census",
-            "G_RATE": 1.0230000019073486
-          },
-          "2008": {
-            "TOTPOP": 149,
-            "SRC": "Projection (1.0230000019073486 growth rate)"
-          },
-          "2025": {
-            "TOTPOP": 221,
-            "MALEPOP": 115,
-            "FEMALEPOP": 106,
-            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 869,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.57278099994323,
-          -10.093339999941009
-        ]
-      },
-      "properties": {
-        "OBJECTID": 869,
-        "CU_NAME": "NORA",
-        "CU_NO": "038",
-        "GEOCODE": "03010101038",
-        "PROV_KEY": "03",
-        "DIST_NO": "01",
-        "LLG_NO": "01",
-        "WARD_NO": "01",
-        "WARD_NAME": "ALOKE/NONOU",
-        "LATITUDE": -10.099723,
-        "LONGITUDE": 149.571823,
-        "REGHH": 14,
-        "Geocode_Num": 3010101038,
-        "PROVINCE": 3,
-        "POP": {
-          "2000": {
-            "TOTPOP": 76,
-            "MALEPOP": 39,
-            "FEMALEPOP": 37,
-            "SRC": "PNG 2000 National Census",
-            "G_RATE": 1.0230000019073486
-          },
-          "2008": {
-            "TOTPOP": 92,
-            "SRC": "Projection (1.0230000019073486 growth rate)"
-          },
-          "2025": {
-            "TOTPOP": 134,
+            "TOTPOP": 119,
             "MALEPOP": 69,
-            "FEMALEPOP": 65,
-            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
-          }
-        }
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 870,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.5044160002982,
-          -10.074466000105758
-        ]
-      },
-      "properties": {
-        "OBJECTID": 870,
-        "CU_NAME": "VEROI",
-        "CU_NO": "050",
-        "GEOCODE": "03010101050",
-        "PROV_KEY": "03",
-        "DIST_NO": "01",
-        "LLG_NO": "01",
-        "WARD_NO": "01",
-        "WARD_NAME": "ALOKE/NONOU",
-        "LATITUDE": -10.07486,
-        "LONGITUDE": 149.504348,
-        "REGHH": 12,
-        "Geocode_Num": 3010101050,
-        "PROVINCE": 3,
-        "POP": {
-          "2000": {
-            "TOTPOP": 84,
-            "MALEPOP": 42,
-            "FEMALEPOP": 42,
+            "FEMALEPOP": 50,
             "SRC": "PNG 2000 National Census",
             "G_RATE": 1.0230000019073486
           },
           "2008": {
-            "TOTPOP": 100,
+            "TOTPOP": 143,
             "SRC": "Projection (1.0230000019073486 growth rate)"
           },
           "2025": {
-            "TOTPOP": 148,
-            "MALEPOP": 74,
-            "FEMALEPOP": 74,
+            "TOTPOP": 210,
+            "MALEPOP": 122,
+            "FEMALEPOP": 88,
             "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
           }
         }
@@ -233,44 +49,182 @@
     },
     {
       "type": "Feature",
-      "id": 871,
+      "id": 920,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.47361900011686,
-          -10.016072999868982
+          149.48696300034226,
+          -10.24702999983458
         ]
       },
       "properties": {
-        "OBJECTID": 871,
-        "CU_NAME": "VEURA",
-        "CU_NO": "051",
-        "GEOCODE": "03010101051",
+        "OBJECTID": 920,
+        "CU_NAME": "KEBEI",
+        "CU_NO": "024",
+        "GEOCODE": "03010111024",
         "PROV_KEY": "03",
         "DIST_NO": "01",
         "LLG_NO": "01",
-        "WARD_NO": "01",
-        "WARD_NAME": "ALOKE/NONOU",
-        "LATITUDE": -10.020496,
-        "LONGITUDE": 149.486663,
-        "REGHH": 3,
-        "Geocode_Num": 3010101051,
+        "WARD_NO": "11",
+        "WARD_NAME": "LOSOA/BOGIA",
+        "LATITUDE": -10.245757,
+        "LONGITUDE": 149.486814,
+        "REGHH": 10,
+        "Geocode_Num": 3010111024,
         "PROVINCE": 3,
         "POP": {
           "2000": {
-            "TOTPOP": 17,
-            "MALEPOP": 8,
+            "TOTPOP": 53,
+            "MALEPOP": 25,
+            "FEMALEPOP": 28,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 61,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 94,
+            "MALEPOP": 44,
+            "FEMALEPOP": 50,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 921,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4830370000576,
+          -10.329365999840945
+        ]
+      },
+      "properties": {
+        "OBJECTID": 921,
+        "CU_NAME": "SABIRIBO",
+        "CU_NO": "045",
+        "GEOCODE": "03010111045",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "11",
+        "WARD_NAME": "LOSOA/BOGIA",
+        "LATITUDE": -10.330831,
+        "LONGITUDE": 149.482038,
+        "REGHH": 29,
+        "Geocode_Num": 3010111045,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 158,
+            "MALEPOP": 81,
+            "FEMALEPOP": 77,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 190,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 279,
+            "MALEPOP": 143,
+            "FEMALEPOP": 136,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 922,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.51032400025247,
+          -10.277815000361954
+        ]
+      },
+      "properties": {
+        "OBJECTID": 922,
+        "CU_NAME": "TANOBADA",
+        "CU_NO": "047",
+        "GEOCODE": "03010111047",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "11",
+        "WARD_NAME": "LOSOA/BOGIA",
+        "LATITUDE": -10.27928,
+        "LONGITUDE": 149.509326,
+        "REGHH": 10,
+        "Geocode_Num": 3010111047,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 61,
+            "MALEPOP": 30,
+            "FEMALEPOP": 31,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 72,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 108,
+            "MALEPOP": 53,
+            "FEMALEPOP": 55,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 923,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.48701900022672,
+          -10.33409500028398
+        ]
+      },
+      "properties": {
+        "OBJECTID": 923,
+        "CU_NAME": "DABOTO",
+        "CU_NO": "048",
+        "GEOCODE": "03010111048",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "11",
+        "WARD_NAME": "LOSOA/BOGIA",
+        "LATITUDE": -10.33556,
+        "LONGITUDE": 149.48602,
+        "REGHH": 4,
+        "Geocode_Num": 3010111048,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 24,
+            "MALEPOP": 15,
             "FEMALEPOP": 9,
             "SRC": "PNG 2000 National Census",
             "G_RATE": 1.0230000019073486
           },
           "2008": {
-            "TOTPOP": 17,
+            "TOTPOP": 32,
             "SRC": "Projection (1.0230000019073486 growth rate)"
           },
           "2025": {
-            "TOTPOP": 30,
-            "MALEPOP": 14,
+            "TOTPOP": 42,
+            "MALEPOP": 26,
             "FEMALEPOP": 16,
             "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
           }
@@ -279,45 +233,45 @@
     },
     {
       "type": "Feature",
-      "id": 872,
+      "id": 924,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.4118230003313,
-          -10.092403999944622
+          149.48998600035372,
+          -10.339629000078219
         ]
       },
       "properties": {
-        "OBJECTID": 872,
-        "CU_NAME": "DONEA",
-        "CU_NO": "052",
-        "GEOCODE": "03010101052",
+        "OBJECTID": 924,
+        "CU_NAME": "DILIVIS",
+        "CU_NO": "049",
+        "GEOCODE": "03010111049",
         "PROV_KEY": "03",
         "DIST_NO": "01",
         "LLG_NO": "01",
-        "WARD_NO": "01",
-        "WARD_NAME": "ALOKE/NONOU",
-        "LATITUDE": -10.093867,
-        "LONGITUDE": 149.410824,
-        "REGHH": 16,
-        "Geocode_Num": 3010101052,
+        "WARD_NO": "11",
+        "WARD_NAME": "LOSOA/BOGIA",
+        "LATITUDE": -10.339272,
+        "LONGITUDE": 149.48885,
+        "REGHH": 1,
+        "Geocode_Num": 3010111049,
         "PROVINCE": 3,
         "POP": {
           "2000": {
-            "TOTPOP": 77,
-            "MALEPOP": 39,
-            "FEMALEPOP": 38,
+            "TOTPOP": 10,
+            "MALEPOP": 5,
+            "FEMALEPOP": 5,
             "SRC": "PNG 2000 National Census",
             "G_RATE": 1.0230000019073486
           },
           "2008": {
-            "TOTPOP": 93,
+            "TOTPOP": 10,
             "SRC": "Projection (1.0230000019073486 growth rate)"
           },
           "2025": {
-            "TOTPOP": 136,
-            "MALEPOP": 69,
-            "FEMALEPOP": 67,
+            "TOTPOP": 18,
+            "MALEPOP": 9,
+            "FEMALEPOP": 9,
             "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
           }
         }
@@ -325,45 +279,91 @@
     },
     {
       "type": "Feature",
-      "id": 873,
+      "id": 925,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.55669600012038,
-          -10.075868000008143
+          149.49220700025296,
+          -10.356367000336775
         ]
       },
       "properties": {
-        "OBJECTID": 873,
-        "CU_NAME": "GWANSINAN",
-        "CU_NO": "053",
-        "GEOCODE": "03010101053",
+        "OBJECTID": 925,
+        "CU_NAME": "GAMUGU",
+        "CU_NO": "050",
+        "GEOCODE": "03010111050",
         "PROV_KEY": "03",
         "DIST_NO": "01",
         "LLG_NO": "01",
-        "WARD_NO": "01",
-        "WARD_NAME": "ALOKE/NONOU",
-        "LATITUDE": -10.072798,
-        "LONGITUDE": 149.557942,
-        "REGHH": 4,
-        "Geocode_Num": 3010101053,
+        "WARD_NO": "11",
+        "WARD_NAME": "LOSOA/BOGIA",
+        "LATITUDE": -10.357833,
+        "LONGITUDE": 149.491208,
+        "REGHH": 1,
+        "Geocode_Num": 3010111050,
         "PROVINCE": 3,
         "POP": {
           "2000": {
+            "TOTPOP": 6,
+            "MALEPOP": 3,
+            "FEMALEPOP": 3,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 6,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 11,
+            "MALEPOP": 6,
+            "FEMALEPOP": 6,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 926,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4794740003249,
+          -10.33038199992933
+        ]
+      },
+      "properties": {
+        "OBJECTID": 926,
+        "CU_NAME": "MARISAEAU",
+        "CU_NO": "051",
+        "GEOCODE": "03010111051",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "11",
+        "WARD_NAME": "LOSOA/BOGIA",
+        "LATITUDE": -10.331847,
+        "LONGITUDE": 149.478475,
+        "REGHH": 5,
+        "Geocode_Num": 3010111051,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 27,
+            "MALEPOP": 14,
+            "FEMALEPOP": 13,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
             "TOTPOP": 35,
-            "MALEPOP": 18,
-            "FEMALEPOP": 17,
-            "SRC": "PNG 2000 National Census",
-            "G_RATE": 1.0230000019073486
-          },
-          "2008": {
-            "TOTPOP": 43,
             "SRC": "Projection (1.0230000019073486 growth rate)"
           },
           "2025": {
-            "TOTPOP": 62,
-            "MALEPOP": 32,
-            "FEMALEPOP": 30,
+            "TOTPOP": 48,
+            "MALEPOP": 25,
+            "FEMALEPOP": 23,
             "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
           }
         }
@@ -371,45 +371,45 @@
     },
     {
       "type": "Feature",
-      "id": 874,
+      "id": 927,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.513177999665,
-          -10.105793000446567
+          149.53099999955043,
+          -10.294534999790358
         ]
       },
       "properties": {
-        "OBJECTID": 874,
-        "CU_NAME": "AMAGOUPA",
-        "CU_NO": "054",
-        "GEOCODE": "03010101054",
+        "OBJECTID": 927,
+        "CU_NAME": "MAMAI PLANTATION",
+        "CU_NO": "504",
+        "GEOCODE": "03010111504",
         "PROV_KEY": "03",
         "DIST_NO": "01",
         "LLG_NO": "01",
-        "WARD_NO": "01",
-        "WARD_NAME": "ALOKE/NONOU",
-        "LATITUDE": -10.099478,
-        "LONGITUDE": 149.540577,
-        "REGHH": 6,
-        "Geocode_Num": 3010101054,
+        "WARD_NO": "11",
+        "WARD_NAME": "LOSOA/BOGIA",
+        "LATITUDE": -10.300654,
+        "LONGITUDE": 149.529345,
+        "REGHH": 15,
+        "Geocode_Num": 3010111504,
         "PROVINCE": 3,
         "POP": {
           "2000": {
-            "TOTPOP": 36,
-            "MALEPOP": 17,
-            "FEMALEPOP": 19,
+            "TOTPOP": 112,
+            "MALEPOP": 56,
+            "FEMALEPOP": 56,
             "SRC": "PNG 2000 National Census",
             "G_RATE": 1.0230000019073486
           },
           "2008": {
-            "TOTPOP": 44,
+            "TOTPOP": 136,
             "SRC": "Projection (1.0230000019073486 growth rate)"
           },
           "2025": {
-            "TOTPOP": 64,
-            "MALEPOP": 30,
-            "FEMALEPOP": 34,
+            "TOTPOP": 198,
+            "MALEPOP": 99,
+            "FEMALEPOP": 99,
             "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
           }
         }

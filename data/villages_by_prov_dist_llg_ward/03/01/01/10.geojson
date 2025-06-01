@@ -1,0 +1,235 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 914,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.45597300025383,
+          -10.390555999559695
+        ]
+      },
+      "properties": {
+        "OBJECTID": 914,
+        "CU_NAME": "EUNUORO ISLAND",
+        "CU_NO": "016",
+        "GEOCODE": "03010110016",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "BANAORO",
+        "LATITUDE": -10.392022,
+        "LONGITUDE": 149.454972,
+        "REGHH": 26,
+        "Geocode_Num": 3010110016,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 198,
+            "MALEPOP": 108,
+            "FEMALEPOP": 90,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 238,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 350,
+            "MALEPOP": 191,
+            "FEMALEPOP": 159,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 915,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.58549099970992,
+          -10.33412900005328
+        ]
+      },
+      "properties": {
+        "OBJECTID": 915,
+        "CU_NAME": "KEAKALO",
+        "CU_NO": "023",
+        "GEOCODE": "03010110023",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "BANAORO",
+        "LATITUDE": -10.340889,
+        "LONGITUDE": 149.584348,
+        "REGHH": 18,
+        "Geocode_Num": 3010110023,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 104,
+            "MALEPOP": 56,
+            "FEMALEPOP": 48,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 125,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 184,
+            "MALEPOP": 99,
+            "FEMALEPOP": 85,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 916,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.50942500016367,
+          -10.34476500040438
+        ]
+      },
+      "properties": {
+        "OBJECTID": 916,
+        "CU_NAME": "ONEONE",
+        "CU_NO": "042",
+        "GEOCODE": "03010110042",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "BANAORO",
+        "LATITUDE": -10.346231,
+        "LONGITUDE": 149.508426,
+        "REGHH": 13,
+        "Geocode_Num": 3010110042,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 81,
+            "MALEPOP": 41,
+            "FEMALEPOP": 40,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 97,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 143,
+            "MALEPOP": 72,
+            "FEMALEPOP": 71,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 917,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4838129998701,
+          -10.359552999771097
+        ]
+      },
+      "properties": {
+        "OBJECTID": 917,
+        "CU_NAME": "OUGOGOTA",
+        "CU_NO": "043",
+        "GEOCODE": "03010110043",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "BANAORO",
+        "LATITUDE": -10.359801,
+        "LONGITUDE": 149.48305,
+        "REGHH": 1,
+        "Geocode_Num": 3010110043,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 2,
+            "MALEPOP": 1,
+            "FEMALEPOP": 1,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 2,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 4,
+            "MALEPOP": 2,
+            "FEMALEPOP": 2,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 918,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.51567699979375,
+          -10.357175999872425
+        ]
+      },
+      "properties": {
+        "OBJECTID": 918,
+        "CU_NAME": "GEAGEA",
+        "CU_NO": "044",
+        "GEOCODE": "03010110044",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "10",
+        "WARD_NAME": "BANAORO",
+        "LATITUDE": -10.358642,
+        "LONGITUDE": 149.514678,
+        "REGHH": 20,
+        "Geocode_Num": 3010110044,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 146,
+            "MALEPOP": 79,
+            "FEMALEPOP": 67,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 175,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 258,
+            "MALEPOP": 140,
+            "FEMALEPOP": 118,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    }
+  ]
+}

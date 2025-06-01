@@ -1,0 +1,143 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 894,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3448829998506,
+          -10.34227099960691
+        ]
+      },
+      "properties": {
+        "OBJECTID": 894,
+        "CU_NAME": "LARUORO ISLAND",
+        "CU_NO": "029",
+        "GEOCODE": "03010106029",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "DANAVA/GOISEORO",
+        "LATITUDE": -10.341824,
+        "LONGITUDE": 149.344212,
+        "REGHH": 47,
+        "Geocode_Num": 3010106029,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 315,
+            "MALEPOP": 159,
+            "FEMALEPOP": 156,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 377,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 556,
+            "MALEPOP": 281,
+            "FEMALEPOP": 275,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 895,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3261619998765,
+          -10.312215000321942
+        ]
+      },
+      "properties": {
+        "OBJECTID": 895,
+        "CU_NAME": "MOGUBO SETTLEMENT",
+        "CU_NO": "032",
+        "GEOCODE": "03010106032",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "DANAVA/GOISEORO",
+        "LATITUDE": -10.31368,
+        "LONGITUDE": 149.325161,
+        "REGHH": 33,
+        "Geocode_Num": 3010106032,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 203,
+            "MALEPOP": 114,
+            "FEMALEPOP": 89,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 243,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 358,
+            "MALEPOP": 201,
+            "FEMALEPOP": 157,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 896,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.35534300017935,
+          -10.382887000234803
+        ]
+      },
+      "properties": {
+        "OBJECTID": 896,
+        "CU_NAME": "MAILU ISLAND",
+        "CU_NO": "035",
+        "GEOCODE": "03010106035",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "06",
+        "WARD_NAME": "DANAVA/GOISEORO",
+        "LATITUDE": -10.382251,
+        "LONGITUDE": 149.358313,
+        "REGHH": 93,
+        "Geocode_Num": 3010106035,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 770,
+            "MALEPOP": 389,
+            "FEMALEPOP": 381,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 924,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 1360,
+            "MALEPOP": 687,
+            "FEMALEPOP": 673,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    }
+  ]
+}

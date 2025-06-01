@@ -1,0 +1,189 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 890,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.26627600003746,
+          -10.288789000112217
+        ]
+      },
+      "properties": {
+        "OBJECTID": 890,
+        "CU_NAME": "DEBA",
+        "CU_NO": "010",
+        "GEOCODE": "03010105010",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "DAGAEA ORO/ABATI",
+        "LATITUDE": -10.291639,
+        "LONGITUDE": 149.265354,
+        "REGHH": 9,
+        "Geocode_Num": 3010105010,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 44,
+            "MALEPOP": 17,
+            "FEMALEPOP": 27,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 52,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 78,
+            "MALEPOP": 30,
+            "FEMALEPOP": 48,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 891,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.26240899977563,
+          -10.174266999722192
+        ]
+      },
+      "properties": {
+        "OBJECTID": 891,
+        "CU_NAME": "LAUA",
+        "CU_NO": "030",
+        "GEOCODE": "03010105030",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "DAGAEA ORO/ABATI",
+        "LATITUDE": -10.17573,
+        "LONGITUDE": 149.261407,
+        "REGHH": 19,
+        "Geocode_Num": 3010105030,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 91,
+            "MALEPOP": 53,
+            "FEMALEPOP": 38,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 107,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 161,
+            "MALEPOP": 94,
+            "FEMALEPOP": 67,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 892,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3208890004271,
+          -10.323449000371
+        ]
+      },
+      "properties": {
+        "OBJECTID": 892,
+        "CU_NAME": "LOUPOM ISLAND",
+        "CU_NO": "031",
+        "GEOCODE": "03010105031",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "DAGAEA ORO/ABATI",
+        "LATITUDE": -10.322639,
+        "LONGITUDE": 149.321395,
+        "REGHH": 65,
+        "Geocode_Num": 3010105031,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 395,
+            "MALEPOP": 211,
+            "FEMALEPOP": 184,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 473,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 697,
+            "MALEPOP": 372,
+            "FEMALEPOP": 325,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 893,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2803440003754,
+          -10.235897999992687
+        ]
+      },
+      "properties": {
+        "OBJECTID": 893,
+        "CU_NAME": "MAGORE",
+        "CU_NO": "033",
+        "GEOCODE": "03010105033",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "05",
+        "WARD_NAME": "DAGAEA ORO/ABATI",
+        "LATITUDE": -10.237362,
+        "LONGITUDE": 149.279342,
+        "REGHH": 41,
+        "Geocode_Num": 3010105033,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 241,
+            "MALEPOP": 128,
+            "FEMALEPOP": 113,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 290,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 426,
+            "MALEPOP": 226,
+            "FEMALEPOP": 200,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    }
+  ]
+}

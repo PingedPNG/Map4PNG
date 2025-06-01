@@ -1,0 +1,281 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 908,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4489300001195,
+          -10.332708000174023
+        ]
+      },
+      "properties": {
+        "OBJECTID": 908,
+        "CU_NAME": "BOREBO",
+        "CU_NO": "005",
+        "GEOCODE": "03010109005",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "09",
+        "WARD_NAME": "LAUNOGA",
+        "LATITUDE": -10.334646,
+        "LONGITUDE": 149.449654,
+        "REGHH": 56,
+        "Geocode_Num": 3010109005,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 279,
+            "MALEPOP": 162,
+            "FEMALEPOP": 117,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 335,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 493,
+            "MALEPOP": 286,
+            "FEMALEPOP": 207,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 909,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.43404699996915,
+          -10.322900000234768
+        ]
+      },
+      "properties": {
+        "OBJECTID": 909,
+        "CU_NAME": "DAGOBO",
+        "CU_NO": "007",
+        "GEOCODE": "03010109007",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "09",
+        "WARD_NAME": "LAUNOGA",
+        "LATITUDE": -10.323991,
+        "LONGITUDE": 149.434272,
+        "REGHH": 24,
+        "Geocode_Num": 3010109007,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 127,
+            "MALEPOP": 67,
+            "FEMALEPOP": 60,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 151,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 224,
+            "MALEPOP": 118,
+            "FEMALEPOP": 106,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 910,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4631710003415,
+          -10.332113999761248
+        ]
+      },
+      "properties": {
+        "OBJECTID": 910,
+        "CU_NAME": "MAEVA",
+        "CU_NO": "034",
+        "GEOCODE": "03010109034",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "09",
+        "WARD_NAME": "LAUNOGA",
+        "LATITUDE": -10.332964,
+        "LONGITUDE": 149.463149,
+        "REGHH": 12,
+        "Geocode_Num": 3010109034,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 65,
+            "MALEPOP": 36,
+            "FEMALEPOP": 29,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 80,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 115,
+            "MALEPOP": 64,
+            "FEMALEPOP": 51,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 911,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4612380002336,
+          -10.351955000123098
+        ]
+      },
+      "properties": {
+        "OBJECTID": 911,
+        "CU_NAME": "PEDILI",
+        "CU_NO": "044",
+        "GEOCODE": "03010109044",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "09",
+        "WARD_NAME": "LAUNOGA",
+        "LATITUDE": -10.353045,
+        "LONGITUDE": 149.461709,
+        "REGHH": 18,
+        "Geocode_Num": 3010109044,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 98,
+            "MALEPOP": 51,
+            "FEMALEPOP": 47,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 116,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 173,
+            "MALEPOP": 90,
+            "FEMALEPOP": 83,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.43919499994934,
+          -10.349734000223862
+        ]
+      },
+      "properties": {
+        "OBJECTID": 912,
+        "CU_NAME": "UBUNA",
+        "CU_NO": "048",
+        "GEOCODE": "03010109048",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "09",
+        "WARD_NAME": "LAUNOGA",
+        "LATITUDE": -10.351199,
+        "LONGITUDE": 149.438195,
+        "REGHH": 19,
+        "Geocode_Num": 3010109048,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 97,
+            "MALEPOP": 55,
+            "FEMALEPOP": 42,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 115,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 171,
+            "MALEPOP": 97,
+            "FEMALEPOP": 74,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 913,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4399020001772,
+          -10.323625000393406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 913,
+        "CU_NAME": "UNEVI",
+        "CU_NO": "049",
+        "GEOCODE": "03010109049",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "09",
+        "WARD_NAME": "LAUNOGA",
+        "LATITUDE": -10.327151,
+        "LONGITUDE": 149.439655,
+        "REGHH": 18,
+        "Geocode_Num": 3010109049,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 90,
+            "MALEPOP": 45,
+            "FEMALEPOP": 45,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 106,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 159,
+            "MALEPOP": 80,
+            "FEMALEPOP": 80,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    }
+  ]
+}

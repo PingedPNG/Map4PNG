@@ -1,0 +1,235 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 875,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3005790000209,
+          -10.09053600013624
+        ]
+      },
+      "properties": {
+        "OBJECTID": 875,
+        "CU_NAME": "ARAU",
+        "CU_NO": "001",
+        "GEOCODE": "03010102001",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "02",
+        "WARD_NAME": "DAENA / WARUMANA",
+        "LATITUDE": -10.091533,
+        "LONGITUDE": 149.300955,
+        "REGHH": 21,
+        "Geocode_Num": 3010102001,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 93,
+            "MALEPOP": 46,
+            "FEMALEPOP": 47,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 109,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 164,
+            "MALEPOP": 81,
+            "FEMALEPOP": 83,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 876,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.15399300037677,
+          -10.085732999878019
+        ]
+      },
+      "properties": {
+        "OBJECTID": 876,
+        "CU_NAME": "BONUA",
+        "CU_NO": "004",
+        "GEOCODE": "03010102004",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "02",
+        "WARD_NAME": "DAENA / WARUMANA",
+        "LATITUDE": -10.087195,
+        "LONGITUDE": 149.15299,
+        "REGHH": 27,
+        "Geocode_Num": 3010102004,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 123,
+            "MALEPOP": 59,
+            "FEMALEPOP": 64,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 147,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 217,
+            "MALEPOP": 104,
+            "FEMALEPOP": 113,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 877,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.12262199980546,
+          -10.231074999711439
+        ]
+      },
+      "properties": {
+        "OBJECTID": 877,
+        "CU_NAME": "DARAVA",
+        "CU_NO": "008",
+        "GEOCODE": "03010102008",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "02",
+        "WARD_NAME": "DAENA / WARUMANA",
+        "LATITUDE": -10.237217,
+        "LONGITUDE": 149.122711,
+        "REGHH": 56,
+        "Geocode_Num": 3010102008,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 450,
+            "MALEPOP": 225,
+            "FEMALEPOP": 225,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 540,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 795,
+            "MALEPOP": 398,
+            "FEMALEPOP": 398,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 878,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0995899997787,
+          -10.230640000335711
+        ]
+      },
+      "properties": {
+        "OBJECTID": 878,
+        "CU_NAME": "LABU",
+        "CU_NO": "028",
+        "GEOCODE": "03010102028",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "02",
+        "WARD_NAME": "DAENA / WARUMANA",
+        "LATITUDE": -10.236395,
+        "LONGITUDE": 149.100352,
+        "REGHH": 15,
+        "Geocode_Num": 3010102028,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 147,
+            "MALEPOP": 76,
+            "FEMALEPOP": 71,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 177,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 260,
+            "MALEPOP": 134,
+            "FEMALEPOP": 126,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 879,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.30990900040013,
+          -10.0058640003233
+        ]
+      },
+      "properties": {
+        "OBJECTID": 879,
+        "CU_NAME": "IOIOK",
+        "CU_NO": "029",
+        "GEOCODE": "03010102029",
+        "PROV_KEY": "03",
+        "DIST_NO": "01",
+        "LLG_NO": "01",
+        "WARD_NO": "02",
+        "WARD_NAME": "DAENA / WARUMANA",
+        "LATITUDE": -10.0071,
+        "LONGITUDE": 149.312,
+        "REGHH": 5,
+        "Geocode_Num": 3010102029,
+        "PROVINCE": 3,
+        "POP": {
+          "2000": {
+            "TOTPOP": 18,
+            "MALEPOP": 8,
+            "FEMALEPOP": 10,
+            "SRC": "PNG 2000 National Census",
+            "G_RATE": 1.0230000019073486
+          },
+          "2008": {
+            "TOTPOP": 18,
+            "SRC": "Projection (1.0230000019073486 growth rate)"
+          },
+          "2025": {
+            "TOTPOP": 32,
+            "MALEPOP": 14,
+            "FEMALEPOP": 18,
+            "SRC": "Estimate based on PNG 2000 Census and annual compound growth using recorded G_RATE"
+          }
+        }
+      }
+    }
+  ]
+}
